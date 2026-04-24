@@ -1,9 +1,16 @@
-{
-  "version": 1,
-  "shard": "g",
-  "description": "Recipe cache shard for foodrecipes.page. Contains recipes whose slug starts with 'the letter 'g''.",
-  "cdn": "https://cdn.jsdelivr.net/gh/foodrecipes-page/recipes-g@main/",
-  "license": "CC-BY-NC-SA-4.0",
-  "generatedAt": null,
-  "count": 0
-}
+[
+  {
+    "slug": "garam-masala-kale-chaat",
+    "title": "Garam Masala Kale Chaat",
+    "tags": [
+      "garam-masala",
+      "kale-chaat",
+      "spicy",
+      "crunchy",
+      "one-pot-dish"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 55,
+    "shard": "g"
+  }
+]

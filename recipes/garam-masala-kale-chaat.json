@@ -1,0 +1,83 @@
+{
+  "title": "Garam Masala Kale Chaat",
+  "description": "A one-pot dish featuring kale, spiced with garam masala and caramelized to create a crunchy, spicy treat that's dairy-free-friendly.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 bunch of kale",
+      "amount": "fresh"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "notes": "for frying the kale"
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "notes": "optional for extra flavor"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "notes": ""
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "notes": "to taste"
+    },
+    {
+      "name": "2 tablespoons garam masala powder",
+      "notes": ""
+    },
+    {
+      "name": "Pinch of salt",
+      "notes": ""
+    },
+    {
+      "name": "A few pinches of red pepper flakes (optional)",
+      "notes": "for extra heat"
+    }
+  ],
+  "instructions": [
+    "Wash and tear the kale leaves into small pieces.",
+    "Heat a large skillet over medium-high heat. Add olive oil, onions if using, and garlic; sauté until softened, about 3 minutes.",
+    "Add the torn kale to the skillet and cook for another 5-10 minutes, stirring occasionally to prevent burning, until it begins to wilt slightly.",
+    "Stir in garam masala powder and salt. Cook for an additional 2 minutes to allow flavors to meld together.",
+    "Gently toss in lemon juice, reduce heat to low, and cook for a further 5-7 minutes or until the kale is tender and the liquid has thickened slightly.",
+    "If desired, stir in red pepper flakes (if using) for an extra kick of heat. Remove from heat and serve hot as a snack with whole-grain crackers or seeds on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garam-masala",
+    "kale-chaat",
+    "spicy",
+    "crunchy",
+    "one-pot-dish"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 7
+  },
+  "slug": "garam-masala-kale-chaat",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garam-masala-kale-chaat",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-24T23:01:52Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crunchy",
+    "mood": "one-pot",
+    "technique": "caramelize",
+    "primaryIngredient": "garam masala",
+    "diet": "dairy-free",
+    "region": null
+  }
+}
