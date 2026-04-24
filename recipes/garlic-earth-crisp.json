@@ -1,0 +1,71 @@
+{
+  "title": "Garlic Earth Crisp",
+  "description": "An earthy and crispy one-pot Australian dish featuring garlic cloves that are cooked until raw-friendly but still flavorful.",
+  "cuisine": "Australian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "4 garlic cloves",
+      "amount": "",
+      "notes": "Mince finely"
+    },
+    {
+      "name": "1 cup mixed greens",
+      "amount": "",
+      "notes": "Chopped"
+    },
+    {
+      "name": "1/2 cup breadcrumbs",
+      "amount": "",
+      "notes": "Coarsely ground"
+    },
+    {
+      "name": "1 tbsp olive oil",
+      "amount": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Mince the garlic cloves finely.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the minced garlic to the skillet and cook for about 1 minute until fragrant but not browned.",
+    "Gently fold in the mixed greens and breadcrumbs. Mix well to combine.",
+    "Season with salt and pepper as desired.",
+    "Serve immediately while still raw-friendly."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "garlic",
+    "crisp",
+    "australian",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 105,
+    "protein": 4,
+    "carbs": 6,
+    "fat": 3
+  },
+  "slug": "garlic-earth-crisp",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlic-earth-crisp",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-24T23:22:08Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crispy",
+    "mood": "one-pot",
+    "technique": "simmer",
+    "primaryIngredient": "garlic clove",
+    "diet": "raw",
+    "region": null
+  }
+}

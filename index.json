@@ -14,6 +14,19 @@
     "shard": "g"
   },
   {
+    "slug": "garlic-earth-crisp",
+    "title": "Garlic Earth Crisp",
+    "tags": [
+      "garlic",
+      "crisp",
+      "australian",
+      "raw-friendly"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 8,
+    "shard": "g"
+  },
+  {
     "slug": "ginger-crunchy-quickfix",
     "title": "Ginger Crunchy QuickFix",
     "tags": [
