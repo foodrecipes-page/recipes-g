@@ -1,0 +1,81 @@
+{
+  "title": "Ginger Crunchy QuickFix",
+  "description": "A quick and easy German dish featuring ground ginger that can be pressure-cooked for a salty and crunchy texture, perfect as a low-calorie-friendly snack.",
+  "cuisine": "German",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ground ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger powder (optional)",
+      "amount": "½ teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "¼ teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "¼ teaspoon"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Mix ground ginger, soy sauce, vinegar, and optional ingredients (ginger powder, sugar, salt, pepper) in a small bowl.",
+    "Heat sesame oil in a wok or large skillet over medium heat.",
+    "Pour the mixture into the heated oil and cook for about 1 minute until it starts to thicken slightly.",
+    "Stir-fry until the mixture turns golden brown and crispy. Remove from heat immediately to prevent burning."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 10,
+  "difficulty": "easy",
+  "tags": [
+    "ginger",
+    "quickfix",
+    "crunchy",
+    "salty",
+    "lowcal"
+  ],
+  "nutrition": {
+    "calories": 45,
+    "protein": 2,
+    "carbs": 3,
+    "fat": 1
+  },
+  "slug": "ginger-crunchy-quickfix",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/ginger-crunchy-quickfix",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-24T23:12:15Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crunchy",
+    "mood": "quick-fix",
+    "technique": "pressure-cook",
+    "primaryIngredient": "ground ginger",
+    "diet": "low-calorie",
+    "region": null
+  }
+}

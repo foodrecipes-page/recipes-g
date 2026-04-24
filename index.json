@@ -12,5 +12,19 @@
     "cuisine": "Ethiopian",
     "totalTimeMin": 55,
     "shard": "g"
+  },
+  {
+    "slug": "ginger-crunchy-quickfix",
+    "title": "Ginger Crunchy QuickFix",
+    "tags": [
+      "ginger",
+      "quickfix",
+      "crunchy",
+      "salty",
+      "lowcal"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 7,
+    "shard": "g"
   }
 ]
