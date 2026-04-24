@@ -1,0 +1,66 @@
+{
+  "title": "Green Olive Delight",
+  "description": "A fresh and crowd-pleasing snack featuring green olives that are air-fried to perfection for a low-fat-friendly option.",
+  "cuisine": "Global Fusion",
+  "diet": [
+    "low-fat",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Green Olives",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 350°F (175°C).",
+    "Place the green olives in a bowl and toss them with olive oil, garlic powder, and salt.",
+    "Carefully place the seasoned green olives inside the preheated air fryer basket.",
+    "Cook for about 8-10 minutes until golden brown and crispy.",
+    "Remove from heat and let cool slightly before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "air-fried",
+    "green-olives",
+    "low-fat"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 3,
+    "carbs": 7,
+    "fat": 5
+  },
+  "slug": "green-olive-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/green-olive-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-24T23:45:08Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "gooey",
+    "mood": "crowd-pleaser",
+    "technique": "air-fry",
+    "primaryIngredient": "green olives",
+    "diet": "low-fat",
+    "region": null
+  }
+}

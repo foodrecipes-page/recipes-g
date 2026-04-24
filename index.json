@@ -39,5 +39,17 @@
     "cuisine": "German",
     "totalTimeMin": 7,
     "shard": "g"
+  },
+  {
+    "slug": "green-olive-delight",
+    "title": "Green Olive Delight",
+    "tags": [
+      "air-fried",
+      "green-olives",
+      "low-fat"
+    ],
+    "cuisine": "Global Fusion",
+    "totalTimeMin": 15,
+    "shard": "g"
   }
 ]
