@@ -1,0 +1,83 @@
+{
+  "title": "Gentle Glutinous Stroop",
+  "description": "A creamy and festive vegan dish inspired by the traditional Dutch version, featuring garlic for a unique twist.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Garlic cloves",
+      "amount": "4-6"
+    },
+    {
+      "name": "Cashews, soaked and drained",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Almond milk or any plant-based milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Water",
+      "amount": "1.5 cups"
+    },
+    {
+      "name": "Baking soda (or cream of tartar for vegan-friendly)",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Brown sugar or maple syrup",
+      "amount": "3-4 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Coconut oil or vegan margarine (optional for added richness)",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Blend soaked cashews until smooth. Add almond milk, water, baking soda (or cream of tartar), and salt to the blender with the cashew mixture.",
+    "Mix in brown sugar or maple syrup slowly until well combined. Taste for seasoning and adjust if needed.",
+    "Heat oil or margarine in a pan over medium heat. Once hot, pour in the blended mixture and cook on low-medium heat, stirring frequently to prevent sticking.",
+    "Cook the mixture for about 20-30 minutes or until it has thickened enough to coat the back of a spoon. Stir occasionally during this process.",
+    "If desired, add additional water gradually (starting with 1/4 cup) to thin out the mixture as needed without losing its thickness. Continue cooking and stirring until it reaches your desired consistency.",
+    "Once satisfied with the texture, remove from heat and let cool slightly before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "plant-based",
+    "vegan-friendly",
+    "festive"
+  ],
+  "nutrition": {
+    "calories": 314,
+    "protein": 5.8,
+    "carbs": 62.7,
+    "fat": 9.9
+  },
+  "slug": "gentle-glutinous-stroop",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gentle-glutinous-stroop",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T01:24:15Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "creamy",
+    "mood": "festive",
+    "technique": "slow-cook",
+    "primaryIngredient": "dutch stroop",
+    "diet": "plant-based",
+    "region": null
+  }
+}
