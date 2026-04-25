@@ -1,0 +1,66 @@
+{
+  "title": "Green Red Revolution Whisk",
+  "description": "A quick-fix American dish featuring green red lentils, designed to be salty, creamy, and whole30-friendly.",
+  "cuisine": "American",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Green Red Lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Garlic Clove(s)",
+      "amount": "2, minced"
+    },
+    {
+      "name": "Sesame Oil or Avocado Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Peanut Butter (or another nut butter for a creamy texture)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1-2 tbsp"
+    },
+    {
+      "name": "Salt and Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Optional Toppings: Chopped Fresh Herbs (like cilantro or parsley)",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Rinse the green red lentils thoroughly. In a large pot, combine the rinsed lentils with water to cover by about an inch.",
+    "Bring to a boil over medium heat, then reduce heat and simmer until tender, about 25-30 minutes.",
+    "In a separate pan, sauté the chopped onion and garlic in sesame oil or avocado oil until fragrant and translucent.",
+    "Add peanut butter (or nut butter of your choice) to the sautéed onions. Stir in lemon juice, salt, and pepper to taste.",
+    "Once the lentils are tender, add them to the pan with the sauce mixture. Toss well to coat evenly.",
+    "Serve immediately as a snack or spread on whole grain crackers for a light meal.",
+    "prepTimeMin"
+  ],
+  "slug": "green-red-revolution-whisk",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/green-red-revolution-whisk",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T19:40:34Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "creamy",
+    "mood": "quick-fix",
+    "technique": "whisk",
+    "primaryIngredient": "green red lentils",
+    "diet": "whole30",
+    "region": null
+  }
+}
