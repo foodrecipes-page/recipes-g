@@ -1,0 +1,80 @@
+{
+  "title": "Diabetic-Friendly Garlic Chicken Liver Croissant Crumble",
+  "description": "A festive Croatian dish featuring a diabetic-friendly crumbly preparation of chicken liver seasoned with garlic and herbs.",
+  "cuisine": "Croatian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "chicken liver",
+      "amount": "100g",
+      "notes": "ensure it is diabetic-friendly, consult healthcare provider for preparation instructions"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "6-8",
+      "notes": "minced finely"
+    },
+    {
+      "name": "mixed herbs (thyme, parsley)",
+      "amount": "2 teaspoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "50g",
+      "notes": "softened and melted"
+    },
+    {
+      "name": "diabetic-friendly flour or almond meal",
+      "amount": "75g",
+      "notes": "ensure it is gluten-free if required"
+    },
+    {
+      "name": "evaporated milk (optional for binding)",
+      "amount": "2 tablespoons",
+      "notes": "reduce to 1 tablespoon if not diabetic-friendly"
+    }
+  ],
+  "instructions": [
+    "Combine minced garlic and herbs in a mixing bowl.",
+    "Add softened butter, gradually incorporating until the mixture resembles breadcrumbs.",
+    "Gently fold in evaporated milk (if using) and mix well. Ensure it is crumbly but holds together slightly.",
+    "Shape into small croissant-like shapes or balls.",
+    "Refrigerate for 30 minutes to firm up.",
+    "Bake at 180°C (356°F) for 12-15 minutes, or until golden brown and crisp."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 24,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "diabetic-friendly",
+    "croatian",
+    "crumble",
+    "gourmet"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 16
+  },
+  "slug": "gourmet-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gourmet-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T10:41:27Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crumbly",
+    "mood": "festive",
+    "technique": "whisk",
+    "primaryIngredient": "chicken liver",
+    "diet": "diabetic-friendly",
+    "region": null
+  }
+}
