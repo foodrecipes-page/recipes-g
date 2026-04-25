@@ -1,0 +1,63 @@
+{
+  "title": "Golden Yolk Bliss Paleo Bowl",
+  "description": "A rich and chewy post-workout dish featuring free-range egg yolks beaten, caramelized to perfection, and served in a paleo-friendly base.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "free-range eggs",
+      "amount": "2 pcs"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "butter",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sweetener of choice (optional)",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil and butter in a skillet over medium heat.",
+    "Beat the eggs with optional sweetener until frothy, then pour into the skillet.",
+    "Caramelize the eggs by allowing them to cook undisturbed for about 3-5 minutes or until golden brown on the bottom.",
+    "Remove from heat and let cool slightly before serving in a paleo-friendly base such as cauliflower mash or zucchini noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 7,
+  "totalTimeMin": 17,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "golden-yolk",
+    "bliss-paleo-bowl",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 36,
+    "carbs": 27,
+    "fat": 18
+  },
+  "slug": "golden-yolk-bliss-paleo-bowl",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-yolk-bliss-paleo-bowl",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T10:56:02Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "chewy",
+    "mood": "post-workout",
+    "technique": "caramelize",
+    "primaryIngredient": "free-range egg beaten",
+    "diet": "paleo",
+    "region": null
+  }
+}
