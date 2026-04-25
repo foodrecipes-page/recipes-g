@@ -1,0 +1,67 @@
+{
+  "title": "Golden Syrup Biscuits",
+  "description": "These savory biscuits are a kid-friendly Saudi Arabian treat featuring golden syrup and a touch of flakiness. Perfect for any mealtime as a low-sodium friendly option.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup, softened"
+    },
+    {
+      "name": "golden syrup (unrefined honey syrup)",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a mixing bowl, combine flour and softened butter until the mixture resembles coarse crumbs.",
+    "Add golden syrup and salt. Mix gently until just combined; overmixing can cause the biscuits to become tough.",
+    "Divide the dough into 8 equal pieces and shape each piece into a ball.",
+    "Place balls on a baking sheet lined with parchment paper, ensuring they are spaced apart for even baking.",
+    "Bake in preheated oven for 12-15 minutes or until golden brown.",
+    "Remove from oven and let cool slightly before serving.",
+    "Enjoy these biscuits as an appetizer or snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "biscuits",
+    "golden-syrup",
+    "saudi-arabian"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 1.5,
+    "carbs": 7,
+    "fat": 4
+  },
+  "slug": "golden-syrup-biscuits",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-syrup-biscuits",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T11:47:24Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "flaky",
+    "mood": "kid-friendly",
+    "technique": "boil",
+    "primaryIngredient": "golden syrup",
+    "diet": "low-sodium",
+    "region": null
+  }
+}

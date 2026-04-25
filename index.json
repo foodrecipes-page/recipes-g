@@ -171,6 +171,18 @@
     "shard": "g"
   },
   {
+    "slug": "golden-syrup-biscuits",
+    "title": "Golden Syrup Biscuits",
+    "tags": [
+      "biscuits",
+      "golden-syrup",
+      "saudi-arabian"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
     "slug": "golden-syrup-gyro",
     "title": "Golden Syrup Gyro",
     "tags": [],
