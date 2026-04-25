@@ -519,6 +519,18 @@
     "shard": "g"
   },
   {
+    "slug": "grape-tandoori-crunchlet",
+    "title": "Grape Tandoori Crunchlet",
+    "tags": [
+      "grape-tandoori-crunchlet",
+      "nutty-korean-dish",
+      "crunchy-gourmet-snack"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 40,
+    "shard": "g"
+  },
+  {
     "slug": "grapefizz-bhuna",
     "title": "GrapeFizz Bhuna",
     "tags": [

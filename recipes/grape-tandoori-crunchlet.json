@@ -1,0 +1,78 @@
+{
+  "title": "Grape Tandoori Crunchlet",
+  "description": "A nutty and crunchy Korean-inspired dish featuring grape juice as the star ingredient, perfect for a solo dinner or light meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegan",
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Grape Juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Rice Flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ground Flaxseed",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Tandoori Paste (or store-bought)",
+      "amount": "1-2 tablespoons"
+    },
+    {
+      "name": "Almond Flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Paprika",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Combine grape juice, rice flour, ground flaxseed, honey, and tandoori paste in a bowl. Mix well until it forms a dough.",
+    "Add almond flour to the mixture and stir until evenly distributed.",
+    "Shape the dough into small balls or balls of any desired size.",
+    "Preheat your oven to 350°F (175°C).",
+    "Bake the crunchlets for about 20-25 minutes, or until golden brown.",
+    "Optional: Dust with paprika before serving to enhance the flavor and appearance."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "grape-tandoori-crunchlet",
+    "nutty-korean-dish",
+    "crunchy-gourmet-snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 38,
+    "fat": 6
+  },
+  "slug": "grape-tandoori-crunchlet",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/grape-tandoori-crunchlet",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T17:36:36Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crunchy",
+    "mood": "solo-dinner",
+    "technique": "tandoor",
+    "primaryIngredient": "grape juice",
+    "diet": "dairy-free",
+    "region": null
+  }
+}
