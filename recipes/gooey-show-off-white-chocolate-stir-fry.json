@@ -1,0 +1,80 @@
+{
+  "title": "Gooey Show-off White Chocolate Stir-fry",
+  "description": "A tangy, gooey Korean dish featuring white chocolate that is raw-friendly and perfect for a quick snack or dessert.",
+  "cuisine": "Korean",
+  "diet": [
+    "raw-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "White Chocolate",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Ginger",
+      "amount": "a small piece, minced"
+    },
+    {
+      "name": "Scallions (Green Parts Only)",
+      "amount": "4-6 slices"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1/2 tablespoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Tamarind Paste",
+      "amount": "1/8 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a non-stick pan over medium heat.",
+    "Add ginger and scallions, sauté for about 30 seconds until fragrant.",
+    "Stir in white chocolate, tamarind paste, soy sauce, and sugar. Stir well to combine all ingredients.",
+    "Reduce heat to low and let the mixture simmer for a minute or two until it starts to thicken slightly.",
+    "Remove from heat and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "white-chocolate-stir-fry",
+    "tangy-korean-dish",
+    "raw-friendly-dessert"
+  ],
+  "nutrition": {
+    "calories": 50,
+    "protein": 1,
+    "carbs": 7.5,
+    "fat": 2
+  },
+  "slug": "gooey-show-off-white-chocolate-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-show-off-white-chocolate-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T21:20:25Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "gooey",
+    "mood": "show-off",
+    "technique": "deglaze",
+    "primaryIngredient": "white chocolate",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "White Chocolate",
+    "descriptor": "Gooey Show-off",
+    "dishForm": "Stir-fry"
+  }
+}
