@@ -1,0 +1,73 @@
+{
+  "title": "Gluten-Free Buneña",
+  "description": "A nutty, silky, romantic Argentinian dish featuring a gluten-free bun topped with grilled nuts and honey for a delicious snack or light meal.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten_free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Gluten-Free Bun",
+      "amount": "2"
+    },
+    {
+      "name": "Almonds",
+      "amount": "1/4 cup",
+      "notes": "shelled and lightly toasted"
+    },
+    {
+      "name": "Hazelnuts",
+      "amount": "1/4 cup",
+      "notes": "shelled and lightly toasted"
+    },
+    {
+      "name": "Coarse Salt",
+      "amount": "to taste",
+      "notes": "kosher or sea salt, for topping the nuts"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Lightly toast the almonds and hazelnuts in a dry skillet over medium heat, stirring frequently.",
+    "While the nuts are toasting, prepare the honey by mixing it with a little bit of water until smooth. You can also use maple syrup as an alternative if preferred.",
+    "Once the nuts are cooled slightly but still warm from toasting, drizzle them gently with the honey mixture.",
+    "Add a sprinkle of coarse salt on top of each toasted nut layer for a pop of flavor.",
+    "Place the prepared bun in the oven and bake for 5 minutes. Remove it when you can smell the sweet aroma of the nuts combined with the honey.",
+    "Serve immediately, allowing the flavors to meld together beautifully."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "gluten_free_buneña",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 3,
+    "carbs": 18,
+    "fat": 7
+  },
+  "slug": "gluten-free-buneña",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gluten-free-buneña",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T13:46:26Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "silky",
+    "mood": "romantic",
+    "technique": "grill",
+    "primaryIngredient": "bun",
+    "diet": "gluten-free",
+    "region": null
+  }
+}

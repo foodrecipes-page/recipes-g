@@ -226,6 +226,18 @@
     "shard": "g"
   },
   {
+    "slug": "gluten-free-buneña",
+    "title": "Gluten-Free Buneña",
+    "tags": [
+      "argentinian",
+      "gluten_free_buneña",
+      "snack"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 15,
+    "shard": "g"
+  },
+  {
     "slug": "gluten-free-falafel-date-night",
     "title": "Gluten-Free Falafel Date Night",
     "tags": [
