@@ -1,0 +1,74 @@
+{
+  "title": "Garlic Gherkin Bliss",
+  "description": "A garlicky, velvety brunch dish featuring a gherkin relish with caramelized flavors and served gluten-free.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Bread",
+      "amount": "1 slice"
+    },
+    {
+      "name": "Gherkin Relish",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "½ teaspoon"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "¼ teaspoon"
+    },
+    {
+      "name": "Herb Mix (Optional)",
+      "amount": "1 pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Slice the bread and place it on a baking sheet. Brush with olive oil.",
+    "In a small bowl, mix garlic powder, salt, and optional herb mix for seasoning.",
+    "Sprinkle the seasoned mixture over each slice of bread. Bake for 5-7 minutes until golden brown.",
+    "While the bread is cooking, make the gherkin relish by heating the gherkin relish with a pinch of salt in a small pan over medium heat.",
+    "Once the bread is done, top it with the warm gherkin relish. Garnish with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "garlic",
+    "gherkin",
+    "velvety",
+    "kenyan"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 2,
+    "carbs": 8,
+    "fat": 4
+  },
+  "slug": "garlic-gherkin-bliss",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlic-gherkin-bliss",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T14:11:36Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "velvety",
+    "mood": "brunch-mood",
+    "technique": "caramelize",
+    "primaryIngredient": "gherkin relish",
+    "diet": "gluten-free",
+    "region": null
+  }
+}

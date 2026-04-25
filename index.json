@@ -67,6 +67,19 @@
     "shard": "g"
   },
   {
+    "slug": "garlic-gherkin-bliss",
+    "title": "Garlic Gherkin Bliss",
+    "tags": [
+      "garlic",
+      "gherkin",
+      "velvety",
+      "kenyan"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 15,
+    "shard": "g"
+  },
+  {
     "slug": "garlic-keto-crunch",
     "title": "Garlic Keto Crunch",
     "tags": [
