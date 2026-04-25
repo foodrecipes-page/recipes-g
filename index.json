@@ -113,6 +113,20 @@
     "shard": "g"
   },
   {
+    "slug": "grand-mornight",
+    "title": "Grand Mornight",
+    "tags": [
+      "argentine",
+      "grand-marnier",
+      "bhuna-spice",
+      "low-calorie",
+      "date-night"
+    ],
+    "cuisine": "Argentine",
+    "totalTimeMin": 15,
+    "shard": "g"
+  },
+  {
     "slug": "green-olive-delight",
     "title": "Green Olive Delight",
     "tags": [
