@@ -291,6 +291,19 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-crunchy-canadian-fish-stir-fry",
+    "title": "Garlicky Crunchy Canadian Fish Stir-fry",
+    "tags": [
+      "garlicky",
+      "crunchy",
+      "canadian",
+      "fish"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 22,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-peruvian-cottage-cheese-stir-fry",
     "title": "Garlicky Peruvian Cottage Cheese Stir-Fry",
     "tags": [

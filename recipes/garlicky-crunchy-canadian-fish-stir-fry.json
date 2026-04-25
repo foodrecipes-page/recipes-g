@@ -1,0 +1,97 @@
+{
+  "title": "Garlicky Crunchy Canadian Fish Stir-fry",
+  "description": "A quick and tasty post-workout dish featuring crispy fish mixed with a vibrant garlicky sauce that's perfect for vegans looking for a filling meal.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "4 oz Canadian whitefish fillets",
+      "amount": "2",
+      "notes": "Can be substituted with tofu or tempeh for non-meat option"
+    },
+    {
+      "name": "1 tbsp olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tbsp lemon juice",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp soy sauce (or tamari for gluten-free)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp paprika",
+      "amount": "",
+      "notes": "Optional for added crunch"
+    },
+    {
+      "name": "1/4 cup cashews, chopped",
+      "amount": "",
+      "notes": "For extra crunch and protein"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Pat fish dry with paper towels.",
+    "Season fish fillets with salt and pepper on both sides. If using cashews, mix them into the seasoning for added texture.",
+    "Heat oil in a non-stick skillet over medium-high heat. Add garlic and cook until fragrant, about 30 seconds.",
+    "Place seasoned fish in the pan and sear on each side for about 2-3 minutes or until golden brown and cooked through. Remove from pan and set aside.",
+    "In the same pan, add lemon juice and lime juice with paprika (if using). Stir well to combine.",
+    "Return fish to the pan and spoon sauce over evenly. Cook for an additional minute to allow flavors to meld together.",
+    "Serve immediately with chopped cashews on top.",
+    "To enhance crunchiness: You can sprinkle more cashews or sesame seeds before serving, as they also add a satisfying crunchy texture."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlicky",
+    "crunchy",
+    "canadian",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 23,
+    "fat": 17
+  },
+  "slug": "garlicky-crunchy-canadian-fish-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-crunchy-canadian-fish-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T23:22:02Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crunchy",
+    "mood": "post-workout",
+    "technique": "bhuna",
+    "primaryIngredient": "fish seasoning",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "fish",
+    "descriptor": "Garlicky Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
