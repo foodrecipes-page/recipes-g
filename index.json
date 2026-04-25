@@ -68,6 +68,18 @@
     "shard": "g"
   },
   {
+    "slug": "garlic-crunchy-braise",
+    "title": "Garlic Crunchy Braise",
+    "tags": [
+      "garlic-braise",
+      "norwegian-dish",
+      "kid-friendly"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 50,
+    "shard": "g"
+  },
+  {
     "slug": "garlic-earth-crisp",
     "title": "Garlic Earth Crisp",
     "tags": [

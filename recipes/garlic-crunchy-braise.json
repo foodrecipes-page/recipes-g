@@ -1,0 +1,83 @@
+{
+  "title": "Garlic Crunchy Braise",
+  "description": "A kid-friendly Norwegian dish featuring a fresh and dense garlic sauce that's perfect for basting and braising, making it an easy-to-make meal.",
+  "cuisine": "Norwegian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 medium, diced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "3, sliced"
+    },
+    {
+      "name": "Parsnips",
+      "amount": "3, sliced"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Mince the garlic cloves and sauté them in a pan with some vegetable oil until golden brown.",
+    "Add finely chopped onions to the pan, stir for about 5 minutes until soft.",
+    "Pour in beef broth and add diced tomatoes, sliced carrots, and parsnips. Bring to a boil.",
+    "Reduce heat and let it simmer for about 10-15 minutes or until vegetables are tender.",
+    "Taste the sauce and adjust with salt and pepper as needed.",
+    "Serve hot over steamed rice or mashed potatoes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlic-braise",
+    "norwegian-dish",
+    "kid-friendly"
+  ],
+  "nutrition": {
+    "calories": 326,
+    "protein": 15.9,
+    "carbs": 47,
+    "fat": 18
+  },
+  "slug": "garlic-crunchy-braise",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlic-crunchy-braise",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T18:08:07Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "dense",
+    "mood": "kid-friendly",
+    "technique": "braise",
+    "primaryIngredient": "garlic sauce",
+    "diet": "jain",
+    "region": null
+  }
+}
