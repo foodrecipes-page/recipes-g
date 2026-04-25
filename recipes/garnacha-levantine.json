@@ -1,0 +1,77 @@
+{
+  "title": "Garnacha Levantine",
+  "description": "A low-carb-friendly, energizing Syrian dish featuring garlic-infused snow peas and a refreshing marinate for a delightful snack or light meal.",
+  "cuisine": "Syrian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Snow peas",
+      "amount": "2 cups fresh"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4-6, minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Water",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "Basil leaves",
+      "amount": "a few, chopped (optional)"
+    },
+    {
+      "name": "Pepper flakes",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add minced garlic and sauté for about 1 minute until fragrant but not browned.",
+    "Stir in lemon juice, water, and pepper flakes. Mix well.",
+    "Gently stir in snow peas and let cook for another 2 minutes or until hot and crisp-tender.",
+    "Optional: Garnish with chopped basil leaves before serving.",
+    "Serve immediately as a snack or light meal accompaniment."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "garnacha-levantine",
+    "syrian-dish",
+    "low-carb-friendly"
+  ],
+  "nutrition": {
+    "calories": 70,
+    "protein": 3,
+    "carbs": 14,
+    "fat": 5
+  },
+  "slug": "garnacha-levantine",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garnacha-levantine",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T01:19:30Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "creamy",
+    "mood": "energizing",
+    "technique": "marinate",
+    "primaryIngredient": "snow peas",
+    "diet": "low-carb",
+    "region": null
+  }
+}

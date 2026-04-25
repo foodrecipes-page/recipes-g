@@ -41,6 +41,18 @@
     "shard": "g"
   },
   {
+    "slug": "garnacha-levantine",
+    "title": "Garnacha Levantine",
+    "tags": [
+      "garnacha-levantine",
+      "syrian-dish",
+      "low-carb-friendly"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 15,
+    "shard": "g"
+  },
+  {
     "slug": "ginger-crunchy-quickfix",
     "title": "Ginger Crunchy QuickFix",
     "tags": [
