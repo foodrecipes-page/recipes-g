@@ -1,0 +1,79 @@
+{
+  "title": "Garlic Sherry Sunday",
+  "description": "A savory and crispy Uruguayan dish infused with sherry vinegar for a lazy Sunday treat that is egg-free-friendly.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegan",
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Sherry Vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "6 cloves",
+      "notes": "Mince after peeling and drying on paper towels"
+    },
+    {
+      "name": "Paprika Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Mince the garlic cloves and set aside.",
+    "In a large bowl, whisk together sherry vinegar, minced garlic, paprika powder, salt, vegetable oil, and flour. Mix until evenly combined.",
+    "Transfer the mixture onto baking sheets lined with parchment paper for easy cleanup.",
+    "Spread the mixture out in thin, even layers on the baking sheet to ensure crispy results.",
+    "Bake in preheated oven for about 25-30 minutes or until golden brown and crispy. Flip halfway through cooking time for evenly caramelized edges.",
+    "Allow to cool slightly before serving. Enjoy your Garlic Sherry Sunday!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlic",
+    "sherry",
+    "uruguayan",
+    "lazy-sunday",
+    "crispy",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 14,
+    "fat": 7
+  },
+  "slug": "garlic-sherry-sunday",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlic-sherry-sunday",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T10:02:01Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crispy",
+    "mood": "lazy-sunday",
+    "technique": "simmer",
+    "primaryIngredient": "sherry vinegar",
+    "diet": "egg-free",
+    "region": null
+  }
+}

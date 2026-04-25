@@ -53,6 +53,21 @@
     "shard": "g"
   },
   {
+    "slug": "garlic-sherry-sunday",
+    "title": "Garlic Sherry Sunday",
+    "tags": [
+      "garlic",
+      "sherry",
+      "uruguayan",
+      "lazy-sunday",
+      "crispy",
+      "vegan-friendly"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "garlic-tadka-crunch",
     "title": "Garlic Tadka Crunch",
     "tags": [
