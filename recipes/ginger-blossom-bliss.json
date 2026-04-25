@@ -1,0 +1,78 @@
+{
+  "title": "Ginger Blossom Bliss",
+  "description": "A floral, silky post-workout dish featuring ground ginger for a unique Brazilian twist.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup ground ginger",
+      "amount": "cup",
+      "notes": "Use kosher-certified ground ginger"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juice of 1 lemon"
+    },
+    {
+      "name": "1/4 cup honey or maple syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "2 cups milk",
+      "amount": "cups"
+    },
+    {
+      "name": "1 tsp vanilla extract",
+      "amount": "tsp"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, heat the olive oil over medium heat.",
+    "Add ground ginger and salt to the heated oil. Cook for about 2 minutes or until fragrant but not browned.",
+    "Gradually add milk, stirring continuously to avoid lumps, while gradually adding lemon juice and honey/maple syrup.",
+    "Simmer on low heat for an additional 5-7 minutes, allowing flavors to meld together.",
+    "Remove from heat. Stir in vanilla extract just before serving. Serve immediately for best texture.",
+    "Optional: Garnish with fresh mint leaves or a drizzle of honey."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ginger-blossom-bliss",
+    "floral-ingredients",
+    "silky-dessert",
+    "post-workout-dish",
+    "brazilian-flavor"
+  ],
+  "nutrition": {
+    "calories": 207,
+    "protein": 4,
+    "carbs": 31,
+    "fat": 9
+  },
+  "slug": "ginger-blossom-bliss",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/ginger-blossom-bliss",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T15:18:52Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "silky",
+    "mood": "post-workout",
+    "technique": "deglaze",
+    "primaryIngredient": "ground ginger",
+    "diet": "kosher",
+    "region": null
+  }
+}
