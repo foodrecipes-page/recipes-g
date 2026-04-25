@@ -580,5 +580,18 @@
     "cuisine": "Ethiopian",
     "totalTimeMin": 45,
     "shard": "g"
+  },
+  {
+    "slug": "gruyère-kale-saute",
+    "title": "Gruyère Kale Saute",
+    "tags": [
+      "gourmet",
+      "kale",
+      "gruyere",
+      "herbaceous"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 40,
+    "shard": "g"
   }
 ]
