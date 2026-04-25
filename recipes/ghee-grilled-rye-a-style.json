@@ -1,0 +1,66 @@
+{
+  "title": "Ghee Grilled Rye, A-Style",
+  "description": "A smoky and crispy Norwegian brunch dish featuring ghee for a raw-friendly twist, served with a side of traditional toppings.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "Rye Bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Ghee (clarified butter)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste"
+    },
+    {
+      "name": "Fresh herbs (optional, such as dill or parsley)",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat your grill to medium-high heat.",
+    "Slice the rye bread into rounds about 1 inch thick.",
+    "Rub each slice of bread with a little ghee and sprinkle with salt.",
+    "Place the bread slices on the preheated grill for about 2-3 minutes per side, or until golden brown and crispy.",
+    "Optional: Add fresh herbs to the top of the bread just before serving as a garnish."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ghee",
+    "rye bread",
+    "grilled",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 75,
+    "protein": 2,
+    "carbs": 9,
+    "fat": 8
+  },
+  "slug": "ghee-grilled-rye-a-style",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/ghee-grilled-rye-a-style",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T19:54:52Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crispy",
+    "mood": "brunch-mood",
+    "technique": "deglaze",
+    "primaryIngredient": "ghee",
+    "diet": "raw",
+    "region": null
+  }
+}

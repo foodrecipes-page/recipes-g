@@ -301,6 +301,19 @@
     "shard": "g"
   },
   {
+    "slug": "ghee-grilled-rye-a-style",
+    "title": "Ghee Grilled Rye, A-Style",
+    "tags": [
+      "ghee",
+      "rye bread",
+      "grilled",
+      "smoky"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 13,
+    "shard": "g"
+  },
+  {
     "slug": "ghee-rooch-monsoon",
     "title": "Ghee-Rooch Monsoon",
     "tags": [
