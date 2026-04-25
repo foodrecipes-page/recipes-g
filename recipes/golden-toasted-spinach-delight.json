@@ -1,0 +1,68 @@
+{
+  "title": "Golden Toasted Spinach Delight",
+  "description": "A smoky and creamy dish featuring caramelized spinach with a touch of vegetable shortening for added richness in this romantic Saudi Arabian recipe suitable for egg-free diets.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup fresh spinach",
+      "amount": "cup",
+      "notes": "adjust based on desired thickness of the dish"
+    },
+    {
+      "name": "2 tablespoons vegetable shortening",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juice of 1 lemon"
+    },
+    {
+      "name": "1/4 teaspoon smoked paprika",
+      "amount": "teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Wash and dry the spinach. Squeeze out excess water.",
+    "In a small saucepan, heat vegetable shortening over medium heat until melted but not boiling.",
+    "Add lemon juice and smoked paprika to the melted shortening; stir gently to combine ingredients.",
+    "Gently fold in the spinach leaves. Ensure they are fully coated with the mixture.",
+    "Transfer the spinach to a baking dish. Bake for 15 minutes or until spinach is tender and lightly golden brown.",
+    "Remove from oven, let it cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "saudi-arabian-dish",
+    "smoky-creamy",
+    "vegetable-shortening",
+    "egg-free"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 8,
+    "fat": 9
+  },
+  "slug": "golden-toasted-spinach-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-toasted-spinach-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T10:19:04Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "caramelize",
+    "primaryIngredient": "vegetable shortening",
+    "diet": "egg-free",
+    "region": null
+  }
+}
