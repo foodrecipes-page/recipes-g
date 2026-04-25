@@ -1,0 +1,61 @@
+{
+  "title": "Golden Sugar Butter Bites",
+  "description": "A cozy Australian dessert featuring velvety golden caster sugar butter bites that are both keto-friendly and delightfully sweet.",
+  "cuisine": "Australian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "caster sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "8 tablespoons (1/4 cup)",
+      "notes": "room temperature"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "In a mixing bowl, soften the butter with a fork until creamy.",
+    "Add caster sugar and vanilla extract into the softened butter. Mix well until combined.",
+    "Place the mixture on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes or until golden brown and crisp around the edges.",
+    "Remove from oven, let cool slightly before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "golden-butter-bites",
+    "keto-dessert"
+  ],
+  "nutrition": {
+    "calories": 164,
+    "protein": 0.9,
+    "carbs": 23.7,
+    "fat": 8.5
+  },
+  "slug": "golden-sugar-butter-bites",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-sugar-butter-bites",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T15:17:27Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "velvety",
+    "mood": "cozy",
+    "technique": "boil",
+    "primaryIngredient": "golden caster sugar",
+    "diet": "keto",
+    "region": null
+  }
+}

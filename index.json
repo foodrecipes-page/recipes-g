@@ -314,6 +314,17 @@
     "shard": "g"
   },
   {
+    "slug": "golden-sugar-butter-bites",
+    "title": "Golden Sugar Butter Bites",
+    "tags": [
+      "golden-butter-bites",
+      "keto-dessert"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
     "slug": "golden-syrup-biscuits",
     "title": "Golden Syrup Biscuits",
     "tags": [
