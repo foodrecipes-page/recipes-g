@@ -1,0 +1,69 @@
+{
+  "title": "Garlic Tandoori Keto-Friendly Bruschetta",
+  "description": "A nutty and tender keto-friendly French dish featuring garlic, tandoor spices, ideal as a hangover-cure in the morning.",
+  "cuisine": "French",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Keto Bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Tandoori Paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 200°C (392°F).",
+    "Slice the keto bread into rounds and lightly toast them in a pan over medium heat for about 1-2 minutes per side.",
+    "Meanwhile, crush 3 garlic cloves and mix with tandoori paste, salt, and paprika. Spread this mixture evenly on each slice of toasted bread to ensure an even layer.",
+    "Let the bruschetta cool slightly before serving as a snack or light breakfast option."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "garlic",
+    "tandoori",
+    "keto-friendly",
+    "hangover-cure",
+    "french-dish"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 6,
+    "carbs": 24,
+    "fat": 8
+  },
+  "slug": "garlic-tandoori-keto-friendly-bruschetta",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlic-tandoori-keto-friendly-bruschetta",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T08:50:10Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "tender",
+    "mood": "hangover-cure",
+    "technique": "tandoor",
+    "primaryIngredient": "garlic",
+    "diet": "keto",
+    "region": null
+  }
+}
