@@ -1,0 +1,85 @@
+{
+  "title": "Gooey Citrus Mediterranean Crumble",
+  "description": "A citrusy and gooey mediterranean dish with turmeric powder, smoke flavor, perfect for a brunch mood, vegetarian-friendly.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "citrus (lemon or orange)",
+      "amount": "1 medium"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "smoke flavoring",
+      "amount": "1-2 dashes"
+    },
+    {
+      "name": "vegetable shortening or coconut oil",
+      "amount": "6 tbsp"
+    },
+    {
+      "name": "white sugar",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pumpkin pie spice (optional)",
+      "amount": "a pinch"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Squeeze the citrus into a bowl and mix in turmeric powder, smoke flavoring, vanilla extract, and pumpkin pie spice if using.",
+    "Melt vegetable shortening or coconut oil in another bowl. Mix it with white sugar until well combined.",
+    "Gradually add the melted mixture to the citrus mixture while stirring constantly to prevent burning.",
+    "Transfer the mixture into a greased baking dish. Spread evenly.",
+    "Mix flour and sprinkle over the top of the spread mixture. Press gently with fingers or spatula.",
+    "Bake at 350°F (175°C) for about 20-25 minutes or until golden brown and set."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "goosey",
+    "citrusy",
+    "mideaterranean",
+    "crumble",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 3,
+    "carbs": 15,
+    "fat": 7
+  },
+  "slug": "gooey-citrus-mediterranean-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-citrus-mediterranean-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T21:13:40Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "gooey",
+    "mood": "brunch-mood",
+    "technique": "smoke",
+    "primaryIngredient": "turmeric powder",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Citrus",
+    "descriptor": "Gooey",
+    "dishForm": "Crumble"
+  }
+}

@@ -552,6 +552,20 @@
     "shard": "g"
   },
   {
+    "slug": "gooey-citrus-mediterranean-crumble",
+    "title": "Gooey Citrus Mediterranean Crumble",
+    "tags": [
+      "goosey",
+      "citrusy",
+      "mideaterranean",
+      "crumble",
+      "vegetarian"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "goose-fat-knead-bliss",
     "title": "Goose Fat Knead Bliss",
     "tags": [
