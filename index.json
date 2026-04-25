@@ -132,6 +132,20 @@
     "shard": "g"
   },
   {
+    "slug": "ghee-rooch-monsoon",
+    "title": "Ghee-Rooch Monsoon",
+    "tags": [
+      "ghee-rooch",
+      "spicy",
+      "monsoon",
+      "saudia-arabian",
+      "veggie-friendly"
+    ],
+    "cuisine": "Saudia Arabian",
+    "totalTimeMin": 80,
+    "shard": "g"
+  },
+  {
     "slug": "ginger-crunchy-quickfix",
     "title": "Ginger Crunchy QuickFix",
     "tags": [

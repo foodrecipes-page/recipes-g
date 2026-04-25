@@ -1,0 +1,99 @@
+{
+  "title": "Ghee-Rooch Monsoon",
+  "description": "A spicy and gooey monsoon dish featuring lean minced beef in a flavorful ghee sauce that is vegetarian-friendly.",
+  "cuisine": "Saudia Arabian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lean ground beef",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "2-3"
+    },
+    {
+      "name": "Ghee (clarified butter)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Red chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh cilantro, chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": ""
+    },
+    {
+      "name": "Water or vegetable broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat ghee in a large skillet over medium heat.",
+    "Add onion and garlic, sauté until softened.",
+    "Add ground beef and cook until browned, breaking into smaller pieces as it cooks.",
+    "Stir in tomato paste, chili powder, turmeric, coriander, cumin seeds, salt, and water or vegetable broth. Bring to a boil.",
+    "Reduce heat to low, cover, and let simmer for about 1 hour or until the beef is tender and most of the liquid has evaporated.",
+    "Stir in chopped cilantro before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ghee-rooch",
+    "spicy",
+    "monsoon",
+    "saudia-arabian",
+    "veggie-friendly"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 21,
+    "carbs": 9,
+    "fat": 15
+  },
+  "slug": "ghee-rooch-monsoon",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/ghee-rooch-monsoon",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T12:05:23Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "gooey",
+    "mood": "monsoon",
+    "technique": "slow-cook",
+    "primaryIngredient": "lean minced beef",
+    "diet": "vegetarian",
+    "region": null
+  }
+}
