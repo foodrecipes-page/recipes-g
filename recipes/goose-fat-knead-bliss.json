@@ -1,0 +1,89 @@
+{
+  "title": "Goose Fat Knead Bliss",
+  "description": "A unique and indulgent Australian dish combining umami flavors with a crispy texture, ideal for sick days or as a gluten-free treat.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Goose Fat",
+      "amount": "100g",
+      "notes": "Organic and cold-pressed for best flavor."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Fresh, peeled for optimal garlic aroma."
+    },
+    {
+      "name": "Kosher Salt",
+      "amount": "2 teaspoons",
+      "notes": "For enhancing the umami flavors."
+    },
+    {
+      "name": "Celery Seeds",
+      "amount": "1/4 teaspoon",
+      "notes": "To add a unique crunch and depth of flavor."
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "50g",
+      "notes": "A gluten-free alternative for those with gluten sensitivities."
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": "For frying the knead bliss to perfection."
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon",
+      "notes": "To enhance umami flavors and add a savory depth to the dish."
+    },
+    {
+      "name": "Water",
+      "amount": "30ml",
+      "notes": "To moisten and bind the ingredients together."
+    }
+  ],
+  "instructions": [
+    "Mix all ingredients in a bowl until well combined, ensuring the goose fat is fully incorporated.",
+    "Divide the mixture into small portions to shape them into balls or patties. These are your 'knead bliss.'",
+    "In a frying pan, heat up the vegetable oil over medium-high heat.",
+    "Once hot, add the knead bliss and cook for about 2 minutes on each side until golden brown and crispy.",
+    "Remove from heat and serve immediately with soy sauce drizzled over them to enhance the flavors."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "umami",
+    "crispy",
+    "sick-day-australian-dish"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 14
+  },
+  "slug": "goose-fat-knead-bliss",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/goose-fat-knead-bliss",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T00:14:24Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crispy",
+    "mood": "sick-day",
+    "technique": "knead",
+    "primaryIngredient": "goose fat",
+    "diet": "gluten-free",
+    "region": null
+  }
+}
