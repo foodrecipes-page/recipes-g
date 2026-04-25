@@ -187,6 +187,18 @@
     "shard": "g"
   },
   {
+    "slug": "garlic-velvet-fried-rice",
+    "title": "Garlic Velvet Fried Rice",
+    "tags": [
+      "garlic",
+      "fried rice",
+      "korean"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
     "slug": "garlicy-dumplings-and-noodles",
     "title": "Garlicy Dumplings and Noodles",
     "tags": [

@@ -1,0 +1,76 @@
+{
+  "title": "Garlic Velvet Fried Rice",
+  "description": "A savory and velvety Korean dish featuring garlic clove, sauteed with quick-fix ingredients for a quick meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "savoury",
+    "velvety"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fodmap-friendly rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Chopped garlic cloves (4-5)",
+      "amount": "1 tblsp",
+      "notes": "Use low FODMAP brand if available"
+    },
+    {
+      "name": "Egg whites (3-4)",
+      "amount": "6 pieces",
+      "notes": "Optional, for richness"
+    },
+    {
+      "name": "Light soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Fresh cilantro leaves (optional)",
+      "amount": "few sprigs"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a wok or large skillet over medium heat.",
+    "Add garlic and sauté until fragrant and golden brown, about 1 minute.",
+    "Crack eggs into the wok and scramble gently with the rice.",
+    "Pour in the light soy sauce and stir well to combine.",
+    "Stir-fry until heated through and adjust seasoning if needed.",
+    "Divide among plates and garnish with cilantro leaves if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlic",
+    "fried rice",
+    "korean"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 16,
+    "carbs": 72,
+    "fat": 15
+  },
+  "slug": "garlic-velvet-fried-rice",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlic-velvet-fried-rice",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T16:27:32Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "velvety",
+    "mood": "quick-fix",
+    "technique": "saute",
+    "primaryIngredient": "garlic clove",
+    "diet": "fodmap",
+    "region": null
+  }
+}
