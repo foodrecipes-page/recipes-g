@@ -115,5 +115,18 @@
     "cuisine": "Global Fusion",
     "totalTimeMin": 15,
     "shard": "g"
+  },
+  {
+    "slug": "green-olive-fiesta-crunch",
+    "title": "Green Olive Fiesta Crunch",
+    "tags": [
+      "green-olive",
+      "crunchy",
+      "sweetened",
+      "herbal"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
+    "shard": "g"
   }
 ]

@@ -1,0 +1,81 @@
+{
+  "title": "Green Olive Fiesta Crunch",
+  "description": "A crispy and herbal green olive dish infused with a touch of sweetness to make an indulgent low-carb-friendly Vietnamese snack.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Green Olives",
+      "amount": "1 cup pitted",
+      "notes": "Use high-quality green olives for best flavor."
+    },
+    {
+      "name": "Coconut Sugar",
+      "amount": "2 tablespoons",
+      "notes": "For caramelizing the olives."
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tablespoon",
+      "notes": "To add a tangy note to balance sweetness."
+    },
+    {
+      "name": "Herbs (e.g., Thyme, Rosemary)",
+      "amount": "A few sprigs each",
+      "notes": "Fresh herbs for aroma and flavor enhancement."
+    },
+    {
+      "name": "Peanut Oil or Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For frying the olives."
+    },
+    {
+      "name": "Minced Garlic",
+      "amount": "1 clove",
+      "notes": "Optional, to add a bit of umami flavor."
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C). Rinse and pit the green olives.",
+    "In a small bowl, mix coconut sugar with lemon juice. Stir in minced garlic if using.",
+    "Place the olives in a large mixing bowl, pour the sugar mixture over them, toss well until all olives are coated evenly.",
+    "Sprinkle fresh herbs on top of the olives and massage gently to ensure herbs stick to the olives.",
+    "Heat peanut oil or olive oil in a shallow pan over medium heat. Carefully add the coated green olives and fry for about 2-3 minutes per side until golden brown and crispy, making sure not to overcrowd the pan.",
+    "Remove from heat and transfer the fried olives onto paper towels to drain excess oil.",
+    "Serve immediately as a snack or store in an airtight container at room temperature for up to a week."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "green-olive",
+    "crunchy",
+    "sweetened",
+    "herbal"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 2,
+    "carbs": 7,
+    "fat": 6
+  },
+  "slug": "green-olive-fiesta-crunch",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/green-olive-fiesta-crunch",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T02:41:31Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crispy",
+    "mood": "indulgent",
+    "technique": "caramelize",
+    "primaryIngredient": "green olives",
+    "diet": "low-carb",
+    "region": null
+  }
+}
