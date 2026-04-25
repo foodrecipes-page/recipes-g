@@ -429,6 +429,19 @@
     "shard": "g"
   },
   {
+    "slug": "goatmeatease-cozy-irish",
+    "title": "Goatmeatease Cozy Irish",
+    "tags": [
+      "goat meat",
+      "butternut squash",
+      "balsamic glaze",
+      "cozy irish"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 50,
+    "shard": "g"
+  },
+  {
     "slug": "golden-sugar-butter-bites",
     "title": "Golden Sugar Butter Bites",
     "tags": [

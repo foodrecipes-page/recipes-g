@@ -1,0 +1,95 @@
+{
+  "title": "Goatmeatease Cozy Irish",
+  "description": "A nutty and juicy dish featuring dairy-free-friendly goat meat in a cozy Irish style, perfect for breakfast or dinner.",
+  "cuisine": "Irish",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Goat Meat",
+      "amount": "10 oz",
+      "notes": "Bone-in, boneless"
+    },
+    {
+      "name": "Butternut Squash Puree",
+      "amount": "2 cups",
+      "notes": "Pre-cooked and pureed"
+    },
+    {
+      "name": "Almond Milk",
+      "amount": "1 cup",
+      "notes": "Non-dairy milk alternative for texture and flavor"
+    },
+    {
+      "name": "Balsamic Glaze",
+      "amount": "1/4 cup",
+      "notes": "Vinegar-based glaze, can use low-sodium variety if preferred"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For searing and cooking"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves",
+      "notes": "Finely minced for flavor enhancement"
+    },
+    {
+      "name": "Thyme Sprigs",
+      "amount": "1 sprig per serving",
+      "notes": "Freshly chopped or dried, depending on availability and preference"
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste",
+      "notes": "For seasoning the goat meat"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "To taste",
+      "notes": "For seasoning the goat meat"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a large pan, heat olive oil over medium-high heat. Add minced garlic and cook for about 2 minutes until fragrant.",
+    "Add bone-in goat meat and season with salt and pepper. Sear on all sides until well browned, approximately 8-10 minutes total.",
+    "Transfer the goat meat to a plate. In the same pan, add butternut squash puree, balsamic glaze, and fresh thyme sprigs. Stir gently to combine.",
+    "Return seared goat meat to the pan. Cover with aluminum foil and transfer to the preheated oven for 20 minutes or until thoroughly heated through (internal temperature should reach at least 145°F).",
+    "Serve hot as a cozy Irish dinner dish."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "goat meat",
+    "butternut squash",
+    "balsamic glaze",
+    "cozy irish"
+  ],
+  "nutrition": {
+    "calories": 298,
+    "protein": 15,
+    "carbs": 43,
+    "fat": 11
+  },
+  "slug": "goatmeatease-cozy-irish",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/goatmeatease-cozy-irish",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T20:46:03Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "juicy",
+    "mood": "cozy",
+    "technique": "poach",
+    "primaryIngredient": "goat meat",
+    "diet": "dairy-free",
+    "region": null
+  }
+}
