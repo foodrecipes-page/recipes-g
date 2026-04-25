@@ -1,0 +1,77 @@
+{
+  "title": "Galangal Air-Fried Garam Masala Stew",
+  "description": "A salty, velvety one-pot stew featuring galangal paste, air-fry, jain-friendly dish.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Galangal Paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Ground Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground Coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Fresh Galangal (optional)",
+      "amount": "",
+      "notes": "For a milder flavor."
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 375°F.",
+    "Combine galangal paste, chicken broth, ground cumin, ground coriander, salt, and black pepper in the air fryer basket.",
+    "Mix well to ensure all ingredients are evenly distributed.",
+    "Air-fry for about 10 minutes or until the stew is thickened and fragrant. Stir occasionally during cooking.",
+    "Serve warm with steamed rice or naan bread."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "galangal-air-fried-stew",
+    "slovenian-garam-masala",
+    "air-fry-jain-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 9
+  },
+  "slug": "galangal-air-fried-garam-masala-stew",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/galangal-air-fried-garam-masala-stew",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T07:38:02Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "velvety",
+    "mood": "one-pot",
+    "technique": "air-fry",
+    "primaryIngredient": "galangal paste",
+    "diet": "jain",
+    "region": null
+  }
+}
