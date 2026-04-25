@@ -243,6 +243,20 @@
     "shard": "g"
   },
   {
+    "slug": "goudalicious-smoke-cheesecake",
+    "title": "Goudalicious Smoke Cheesecake",
+    "tags": [
+      "gouda-cheese",
+      "smoke",
+      "sweet",
+      "saudi-arabian",
+      "kid-friendly"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 60,
+    "shard": "g"
+  },
+  {
     "slug": "gourmet-crumble",
     "title": "Diabetic-Friendly Garlic Chicken Liver Croissant Crumble",
     "tags": [

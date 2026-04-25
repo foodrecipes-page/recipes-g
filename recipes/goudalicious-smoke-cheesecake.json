@@ -1,0 +1,82 @@
+{
+  "title": "Goudalicious Smoke Cheesecake",
+  "description": "A sweet and chewy Saudi Arabian dessert featuring gouda cheese with a hint of smoke, perfect for kids and gluten-free.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "gouda cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "pitted dates",
+      "amount": "8 medium"
+    },
+    {
+      "name": "coconut flakes",
+      "amount": "2 cups"
+    },
+    {
+      "name": "baking soda",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "for dusting"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C). Grease an 8-inch (20 cm) springform pan.",
+    "Mix gouda cheese, coconut milk, vanilla extract, and cocoa powder until smooth. Add pitted dates, mix well. Dissolve baking soda in hot water and add it to the mixture.",
+    "Fold in coconut flakes gently by hand or using a spatula.",
+    "Pour mixture into prepared pan and sprinkle top with extra unsweetened cocoa powder for decoration.",
+    "Bake for 35-40 minutes, until edges are golden brown. Let cool completely before unmolding."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "gouda-cheese",
+    "smoke",
+    "sweet",
+    "saudi-arabian",
+    "kid-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 22
+  },
+  "slug": "goudalicious-smoke-cheesecake",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/goudalicious-smoke-cheesecake",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T11:03:12Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "chewy",
+    "mood": "kid-friendly",
+    "technique": "smoke",
+    "primaryIngredient": "gouda cheese",
+    "diet": "gluten-free",
+    "region": null
+  }
+}
