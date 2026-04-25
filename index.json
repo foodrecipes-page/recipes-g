@@ -226,6 +226,18 @@
     "shard": "g"
   },
   {
+    "slug": "gloopin-shin-soothe",
+    "title": "Gloopin' Shin Soothe",
+    "tags": [
+      "beef-shin-soothe",
+      "nutty-gooey-australian-dish",
+      "hangover-cure"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 12,
+    "shard": "g"
+  },
+  {
     "slug": "gluten-free-buneña",
     "title": "Gluten-Free Buneña",
     "tags": [

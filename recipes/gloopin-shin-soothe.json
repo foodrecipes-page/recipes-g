@@ -1,0 +1,88 @@
+{
+  "title": "Gloopin' Shin Soothe",
+  "description": "A nutritious and flavorful hangover-cure dish featuring slow-cooked beef shin with a nutty, gooey texture, ideal for breakfast or lunch.",
+  "cuisine": "Australian",
+  "diet": [
+    "low-sodium",
+    "heart-healthy"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Beef Shin",
+      "amount": "500g",
+      "notes": "bone-in"
+    },
+    {
+      "name": "Water",
+      "amount": "2L",
+      "notes": "to cover"
+    },
+    {
+      "name": "Low-sodium Beef Broth",
+      "amount": "400ml"
+    },
+    {
+      "name": "Bay Leaves",
+      "amount": "1-3",
+      "notes": "for flavoring"
+    },
+    {
+      "name": "Thyme Sprigs",
+      "amount": "2-4",
+      "notes": "for garnishing"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "1",
+      "notes": "crushed"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2tbsp",
+      "notes": "optional for sautéing"
+    }
+  ],
+  "instructions": [
+    "Place the beef shin in a large pot, cover with water and add low-sodium beef broth.",
+    "Add bay leaves and thyme sprigs. Bring to a boil then reduce heat to a simmer.",
+    "Cook at a gentle simmer for 6-8 hours until tender. Check internal temperature should reach at least 71°C (160°F).",
+    "Season with salt, adding more as needed for taste. Stir in olive oil if desired for additional flavor.",
+    "Garnish with thyme sprigs before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 8,
+  "totalTimeMin": 12,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-shin-soothe",
+    "nutty-gooey-australian-dish",
+    "hangover-cure"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 42,
+    "carbs": 6,
+    "fat": 18
+  },
+  "slug": "gloopin-shin-soothe",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gloopin-shin-soothe",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T13:52:00Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "gooey",
+    "mood": "hangover-cure",
+    "technique": "slow-cook",
+    "primaryIngredient": "beef shin",
+    "diet": "low-sodium",
+    "region": null
+  }
+}
