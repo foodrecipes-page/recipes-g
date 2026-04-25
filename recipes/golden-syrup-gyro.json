@@ -1,0 +1,68 @@
+{
+  "title": "Golden Syrup Gyro",
+  "description": "A cozy Greek dish featuring a crispy golden gyro with the sweetness of golden syrup, perfect for adding a unique twist to your meals.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken or turkey meat",
+      "amount": "200g"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4-6 pieces",
+      "notes": "minced finely"
+    },
+    {
+      "name": "oakwood rotini pasta",
+      "amount": "150g gluten-free"
+    },
+    {
+      "name": "golden syrup",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "paprika powder",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Mix minced garlic with olive oil and a pinch of paprika in a bowl. Marinate the chicken or turkey meat for at least 30 minutes.",
+    "Cook the rotini pasta as per package instructions, until al dente.",
+    "Heat olive oil in a frying pan over medium heat. Add the marinated meat and cook for about 8-10 minutes on each side.",
+    "Drain the cooked pasta and mix it with the golden syrup and garlic marinade from the chicken or turkey. Stir well to coat evenly.",
+    "Place the gyro slices (cooked meat) in a serving dish, topped with the golden syrup mixture. Serve hot.",
+    "prepTimeMin: 30",
+    "cookTimeMin: 25",
+    "totalTimeMin: 40",
+    "servings: 2-3",
+    "difficulty: 'medium'",
+    "tags: ['golden-syrup-gyro', 'garlicy-chewy-cozy-greek-dish', 'gluten-free-friendly']",
+    "nutrition: {",
+    "calories: 450",
+    "protein: 27g",
+    "carbs: 43g",
+    "fat: 18g"
+  ],
+  "slug": "golden-syrup-gyro",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-syrup-gyro",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T02:45:57Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "chewy",
+    "mood": "cozy",
+    "technique": "fry",
+    "primaryIngredient": "golden syrup",
+    "diet": "gluten-free",
+    "region": null
+  }
+}
