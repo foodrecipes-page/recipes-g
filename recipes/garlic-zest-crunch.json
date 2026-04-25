@@ -1,0 +1,72 @@
+{
+  "title": "Garlic Zest Crunch",
+  "description": "A quick and light Greek dish featuring fermented minced garlic with a tadka for a whole30-friendly meal.",
+  "cuisine": "Greek",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1/4 cup organic Greek yogurt",
+      "amount": "cup"
+    },
+    {
+      "name": "2 cloves fresh garlic",
+      "amount": "cloves"
+    },
+    {
+      "name": "2 tablespoons lemon juice",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "few drops"
+    }
+  ],
+  "instructions": [
+    "Finely mince the garlic cloves.",
+    "In a mixing bowl, combine Greek yogurt, minced garlic, lemon juice, salt, and black pepper. Mix well until smooth.",
+    "Heat vegetable oil in a small pan over medium heat.",
+    "Once heated, add minced garlic to the pan and let it sizzle for 15 seconds or until fragrant and slightly golden brown.",
+    "Stir the tadka mixture into the Greek yogurt mix."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 2,
+  "totalTimeMin": 12,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "garlic-zest-crunch",
+    "whole30-friendly",
+    "fermented-greek-dish"
+  ],
+  "nutrition": {
+    "calories": 85,
+    "protein": 6,
+    "carbs": 12,
+    "fat": 4
+  },
+  "slug": "garlic-zest-crunch",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlic-zest-crunch",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T20:16:08Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "light",
+    "mood": "quick-fix",
+    "technique": "tadka",
+    "primaryIngredient": "minced garlic",
+    "diet": "whole30",
+    "region": null
+  }
+}

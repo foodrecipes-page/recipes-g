@@ -263,6 +263,18 @@
     "shard": "g"
   },
   {
+    "slug": "garlic-zest-crunch",
+    "title": "Garlic Zest Crunch",
+    "tags": [
+      "garlic-zest-crunch",
+      "whole30-friendly",
+      "fermented-greek-dish"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 12,
+    "shard": "g"
+  },
+  {
     "slug": "garlicy-dumplings-and-noodles",
     "title": "Garlicy Dumplings and Noodles",
     "tags": [
