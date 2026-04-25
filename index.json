@@ -147,6 +147,19 @@
     "shard": "g"
   },
   {
+    "slug": "garlicy-dumplings-and-noodles",
+    "title": "Garlicy Dumplings and Noodles",
+    "tags": [
+      "garlicy",
+      "juicy",
+      "kid-friendly",
+      "kenyan"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "garnacha-levantine",
     "title": "Garnacha Levantine",
     "tags": [

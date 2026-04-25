@@ -1,0 +1,83 @@
+{
+  "title": "Garlicy Dumplings and Noodles",
+  "description": "Juicy dumplings and kid-friendly rice noodles in a flavorful garlic sauce make this dish perfect for a quick lunch or dinner.",
+  "cuisine": "Kenyan",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice Noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "Ground Lamb Meat",
+      "amount": "150g",
+      "notes": "Use beef or chicken if preferred."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Palm Sugar or Honey",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Chop the garlic and onion finely.",
+    "Heat oil in a pan, add chopped onions and cook until translucent.",
+    "Add minced garlic and fry for about 2 minutes on medium heat.",
+    "Add tomato paste and stir until it forms a syrup-like consistency.",
+    "Gradually add meat to the sauce while breaking into smaller pieces. Cook until meat is almost done.",
+    "Stir in salt and palm sugar/honey, taste and adjust seasoning if necessary.",
+    "Pour mixture over rice noodles or use them as wrappers for dumplings.",
+    "Cook dumplings by steaming or frying (if using wrappers) until golden brown on the outside."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlicy",
+    "juicy",
+    "kid-friendly",
+    "kenyan"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 18,
+    "carbs": 35,
+    "fat": 9
+  },
+  "slug": "garlicy-dumplings-and-noodles",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicy-dumplings-and-noodles",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T13:03:15Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "juicy",
+    "mood": "kid-friendly",
+    "technique": "dum",
+    "primaryIngredient": "rice noodles",
+    "diet": "dash",
+    "region": null
+  }
+}
