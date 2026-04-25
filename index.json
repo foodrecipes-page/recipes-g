@@ -53,6 +53,19 @@
     "shard": "g"
   },
   {
+    "slug": "garlic-tadka-crunch",
+    "title": "Garlic Tadka Crunch",
+    "tags": [
+      "garlic-tadka-crunch",
+      "post-workout-dish",
+      "tunisian-snack",
+      "fodmap-friendly"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 6,
+    "shard": "g"
+  },
+  {
     "slug": "garlic-tadka-whole30",
     "title": "Garlic Tadka Whole30",
     "tags": [
