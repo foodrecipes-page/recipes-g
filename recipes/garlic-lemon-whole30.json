@@ -1,0 +1,80 @@
+{
+  "title": "Garlic Lemon Whole30",
+  "description": "A savory and aromatic dish featuring lemongrass, garlic, and a touch of sweetness from honey that comes together in one pot for a quick and easy meal.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lemon",
+      "amount": "medium",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "minced",
+      "notes": ""
+    },
+    {
+      "name": "5 stalks lemongrass",
+      "amount": "large",
+      "notes": "Use the tender white parts only"
+    },
+    {
+      "name": "1/4 cup honey (optional)",
+      "amount": "small",
+      "notes": "For extra sweetness"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "medium",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Wash lemongrass stalks thoroughly, remove tough outer layers, then cut them into thirds.",
+    "Heat olive oil in a large skillet over medium heat. Add minced garlic and sauté for about 1 minute until fragrant but not browned.",
+    "Add sliced lemongrass to the skillet with garlic. Pour in lemon juice from one lemon.",
+    "Gradually add more lemons, including their wedges, along with any remaining fresh leaves from the stalks. Stir well and let simmer for a few minutes to release flavors.",
+    "If using honey, mix it into the sauce before serving, or serve alongside as a sweetener option.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately over whole30-friendly grains like cauliflower rice or quinoa."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlic-lemon",
+    "jamaican-flavor",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 182,
+    "protein": 6,
+    "carbs": 17,
+    "fat": 9
+  },
+  "slug": "garlic-lemon-whole30",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlic-lemon-whole30",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T18:09:39Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "flaky",
+    "mood": "one-pot",
+    "technique": "steam",
+    "primaryIngredient": "lemongrass stalks",
+    "diet": "whole30",
+    "region": null
+  }
+}

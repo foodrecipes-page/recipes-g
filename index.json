@@ -145,6 +145,18 @@
     "shard": "g"
   },
   {
+    "slug": "garlic-lemon-whole30",
+    "title": "Garlic Lemon Whole30",
+    "tags": [
+      "garlic-lemon",
+      "jamaican-flavor",
+      "whole30-friendly"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "garlic-monsoong-corn-arepa-cheese-quiche",
     "title": "Garlic Monsoong Corn Arepa Cheese Quiche",
     "tags": [
