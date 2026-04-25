@@ -1,0 +1,85 @@
+{
+  "title": "Gooey Nutty Italian Prune Crumble",
+  "description": "A romantic and gooey dessert featuring prunes in a tandoor-inspired topping that is raw-friendly and perfect for breakfast or dessert.",
+  "cuisine": "Italian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Prunes",
+      "amount": "2 cups halved",
+      "notes": "Soaked in water overnight"
+    },
+    {
+      "name": "Almond meal",
+      "amount": "1 cup",
+      "notes": "Raw, unsweetened"
+    },
+    {
+      "name": "Caster sugar",
+      "amount": "3/4 cup",
+      "notes": "Coarsely ground for a crunchy texture"
+    },
+    {
+      "name": "Walnuts",
+      "amount": "1/2 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "Dates",
+      "amount": "6-8 medium, pitted and roughly mashed",
+      "notes": ""
+    },
+    {
+      "name": "Coconut flakes",
+      "amount": "3/4 cup",
+      "notes": "For topping"
+    }
+  ],
+  "instructions": [
+    "Soak prunes in water overnight. Drain well and chop into chunks.",
+    "In a food processor, pulse almonds until finely ground (not too fine).",
+    "Add sugar to almond meal and mix well. Mix in chopped walnuts and dates.",
+    "Pour prunes into the mixture and stir gently to combine. Transfer to an oven-safe dish or muffin tray lined with parchment paper for easy removal.",
+    "Preheat your air fryer or conventional oven to 200°C (392°F).",
+    "Bake the mixture for about 15-20 minutes, stirring every few minutes until golden and crispy on top. Ensure not exceeding temperatures that would make them raw-friendly.",
+    "Once done, let it cool slightly before serving with coconut flakes as a topping."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "gooey",
+    "italian",
+    "prune",
+    "crumble",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 6
+  },
+  "slug": "gooey-nutty-italian-prune-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-nutty-italian-prune-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T21:47:49Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "gooey",
+    "mood": "romantic",
+    "technique": "tandoor",
+    "primaryIngredient": "prunes",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Prunes",
+    "descriptor": "Gooey Nutty",
+    "dishForm": "Crumble"
+  }
+}
