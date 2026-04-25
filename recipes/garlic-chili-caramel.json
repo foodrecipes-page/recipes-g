@@ -1,0 +1,72 @@
+{
+  "title": "Garlic Chili Caramel",
+  "description": "A garlicky, crunchy, sick-day Uruguayan dish featuring chili powder and caramelized flavors, perfect for a quick snack or meal.",
+  "cuisine": "Uruguayan",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "garlic cloves",
+      "amount": "4-6 cloves"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "white sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vinegar",
+      "amount": "a few drops (apple cider or white vinegar)"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Mince the garlic cloves finely.",
+    "Heat a little vegetable oil in a non-stick skillet over medium heat.",
+    "Add minced garlic and chili powder to the pan. Cook until fragrant, about 30 seconds.",
+    "Gradually add sugar, stirring constantly to prevent burning. Continue cooking until the mixture turns amber and caramelizes, about 2-3 minutes.",
+    "Stir in vinegar (if using) to help pull off excess sugar from the bottom of the pan.",
+    "Remove from heat and serve immediately as a crunchy topping or dip for other dishes."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 6,
+  "totalTimeMin": 11,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "garlic",
+    "chili",
+    "caramel",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 3,
+    "carbs": 7,
+    "fat": 1
+  },
+  "slug": "garlic-chili-caramel",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlic-chili-caramel",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T18:47:31Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crunchy",
+    "mood": "sick-day",
+    "technique": "caramelize",
+    "primaryIngredient": "chili powder",
+    "diet": "dash",
+    "region": null
+  }
+}

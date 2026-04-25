@@ -68,6 +68,19 @@
     "shard": "g"
   },
   {
+    "slug": "garlic-chili-caramel",
+    "title": "Garlic Chili Caramel",
+    "tags": [
+      "garlic",
+      "chili",
+      "caramel",
+      "uruguayan"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 11,
+    "shard": "g"
+  },
+  {
     "slug": "garlic-crunchy-braise",
     "title": "Garlic Crunchy Braise",
     "tags": [
