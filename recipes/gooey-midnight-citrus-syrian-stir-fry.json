@@ -1,0 +1,91 @@
+{
+  "title": "Gooey Midnight Citrus Syrian Stir-fry",
+  "description": "A citrusy and gooey midnight-craving Syrian dish featuring red wine for a slow-cooked treat suitable for those with diabetes.",
+  "cuisine": "Syrian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 large onion",
+      "amount": "sliced"
+    },
+    {
+      "name": "4 garlic cloves",
+      "amount": "minced"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "divided"
+    },
+    {
+      "name": "2 cups shredded carrots",
+      "amount": ""
+    },
+    {
+      "name": "1 cup cubed firm tofu",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup red wine",
+      "amount": "reserves for deglazing pan after cooking tofu"
+    },
+    {
+      "name": "Juice of 3 oranges and 2 lemons",
+      "amount": "optional, extra citrusy notes"
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": ""
+    },
+    {
+      "name": "Salt to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat half the olive oil in a large skillet over medium heat.",
+    "Add onions and sauté until soft, about 5 minutes. Add garlic and cook for an additional minute.",
+    "Reduce heat to low, add remaining oil, tofu, carrots, cumin, salt, orange/lemon juice (if using), and red wine.",
+    "Stir occasionally as it simmers slowly for about 30-45 minutes or until carrots are tender and sauce has thickened slightly. Adjust seasoning with more salt if needed.",
+    "Serve warm over a bed of quinoa or rice, garnished with fresh herbs like parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "goey",
+    "midnight",
+    "citrusy",
+    "stir-fry",
+    "salty",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 34,
+    "fat": 16
+  },
+  "slug": "gooey-midnight-citrus-syrian-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-midnight-citrus-syrian-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T23:42:01Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "gooey",
+    "mood": "midnight-craving",
+    "technique": "slow-cook",
+    "primaryIngredient": "red wine",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Citrus",
+    "descriptor": "Gooey Midnight",
+    "dishForm": "Stir-fry"
+  }
+}
