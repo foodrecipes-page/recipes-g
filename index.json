@@ -380,7 +380,7 @@
     "shard": "g"
   },
   {
-    "slug": "gluten-free-buneña",
+    "slug": "gluten-free-bunena",
     "title": "Gluten-Free Buneña",
     "tags": [
       "argentinian",
@@ -620,6 +620,17 @@
     "shard": "g"
   },
   {
+    "slug": "grape-velvet",
+    "title": "GrapeVelvet",
+    "tags": [
+      "grape-tomato",
+      "steamed-snack"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 15,
+    "shard": "g"
+  },
+  {
     "slug": "grapefizz-bhuna",
     "title": "GrapeFizz Bhuna",
     "tags": [
@@ -643,17 +654,6 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 45,
-    "shard": "g"
-  },
-  {
-    "slug": "grapevelvet",
-    "title": "GrapeVelvet",
-    "tags": [
-      "grape-tomato",
-      "steamed-snack"
-    ],
-    "cuisine": "Korean",
-    "totalTimeMin": 15,
     "shard": "g"
   },
   {
@@ -757,7 +757,7 @@
     "shard": "g"
   },
   {
-    "slug": "gruyère-kale-saute",
+    "slug": "gruyere-kale-saute",
     "title": "Gruyère Kale Saute",
     "tags": [
       "gourmet",

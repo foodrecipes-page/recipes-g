@@ -74,9 +74,9 @@
     "carbs": 7.5,
     "fat": 20
   },
-  "slug": "gruyère-kale-saute",
+  "slug": "gruyere-kale-saute",
   "source": "ollama-qwen2.5:3b",
-  "canonicalUrl": "https://foodrecipes.page/r/gruyère-kale-saute",
+  "canonicalUrl": "https://foodrecipes.page/r/gruyere-kale-saute",
   "providerUsed": "ollama-qwen2.5:3b",
   "createdAt": "2026-04-25T15:30:44Z",
   "axes": {
