@@ -347,6 +347,18 @@
     "shard": "g"
   },
   {
+    "slug": "goozy-grape-nosh",
+    "title": "Goozy Grape Nosh",
+    "tags": [
+      "grape-nuts",
+      "coconut-whipped-cream",
+      "canadian-dessert"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 7,
+    "shard": "g"
+  },
+  {
     "slug": "goudalicious-smoke-cheesecake",
     "title": "Goudalicious Smoke Cheesecake",
     "tags": [
