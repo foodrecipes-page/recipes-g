@@ -1,0 +1,84 @@
+{
+  "title": "Garlic Basil White Fish Bowl",
+  "description": "A garlicky and velvety Tunisian-inspired dish featuring white fish in a creamy sauce with pickled vegetables, perfect for a crowd-pleaser appetizer or light meal.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "White Fish Fillets",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Basil Leaves",
+      "amount": "1/2 cup fresh"
+    },
+    {
+      "name": "Pickle (Ketchup Pickle)",
+      "amount": "1 small jar"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable Stock",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cream Cheese",
+      "amount": "4 ounces"
+    },
+    {
+      "name": "Salt and Pepper",
+      "notes": "To taste"
+    },
+    {
+      "name": "Red Onion Slices (optional)",
+      "amount": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Peel garlic cloves and mince them finely.",
+    "Heat olive oil in a large saucepan over medium heat. Add minced garlic and cook until fragrant, about 1 minute.",
+    "Add salt, pepper, and vegetable stock to the pan, stir well to combine, then reduce the heat to low and let it simmer for 5 minutes.",
+    "Fold in cream cheese until fully melted and smooth. Stir in pickled vegetables and basil leaves. Simmer gently for another 2-3 minutes.",
+    "Garnish with red onion slices if using. Serve hot as a topping over sliced fish fillets, garnished with fresh herbs.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlic",
+    "basil",
+    "white fish",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 367,
+    "protein": 19,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "garlic-basil-white-fish-bowl",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlic-basil-white-fish-bowl",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T13:32:35Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "velvety",
+    "mood": "crowd-pleaser",
+    "technique": "pickle",
+    "primaryIngredient": "white fish",
+    "diet": "plant-based",
+    "region": null
+  }
+}

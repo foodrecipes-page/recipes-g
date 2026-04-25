@@ -41,6 +41,19 @@
     "shard": "g"
   },
   {
+    "slug": "garlic-basil-white-fish-bowl",
+    "title": "Garlic Basil White Fish Bowl",
+    "tags": [
+      "garlic",
+      "basil",
+      "white fish",
+      "tunisian"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
     "slug": "garlic-earth-crisp",
     "title": "Garlic Earth Crisp",
     "tags": [
