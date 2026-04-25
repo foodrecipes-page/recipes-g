@@ -275,6 +275,19 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-peruvian-cottage-cheese-stir-fry",
+    "title": "Garlicky Peruvian Cottage Cheese Stir-Fry",
+    "tags": [
+      "peruvian-cuisine",
+      "garlicy-dish",
+      "cottage-cheese-stir-fry",
+      "diabetic-friendly"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
     "slug": "garlicy-dumplings-and-noodles",
     "title": "Garlicy Dumplings and Noodles",
     "tags": [

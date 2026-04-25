@@ -1,0 +1,81 @@
+{
+  "title": "Garlicky Peruvian Cottage Cheese Stir-Fry",
+  "description": "A diabetic-friendly one-pot peruvian dish featuring cottage cheese, garlic, and other traditional Peruvian spices for a crispy, garlicky flavor profile.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cottage Cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Pepper Corns",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Cilantro Leaves",
+      "amount": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium-high heat.",
+    "Add minced garlic and cook until fragrant, about 1 minute.",
+    "Stir in cottage cheese, pepper corns, paprika, and salt. Knead to combine.",
+    "Cook for an additional 2-3 minutes until the mixture is heated through and has a crispy texture.",
+    "Garnish with cilantro leaves if desired before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian-cuisine",
+    "garlicy-dish",
+    "cottage-cheese-stir-fry",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 14,
+    "carbs": 35,
+    "fat": 9
+  },
+  "slug": "garlicky-peruvian-cottage-cheese-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-peruvian-cottage-cheese-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T22:46:57Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crispy",
+    "mood": "one-pot",
+    "technique": "knead",
+    "primaryIngredient": "cottage cheese",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Cottage Cheese",
+    "descriptor": "Garlicky",
+    "dishForm": "Stir-fry"
+  }
+}
