@@ -1,0 +1,70 @@
+{
+  "title": "Garlic Keto Crunch",
+  "description": "A crispy and flavorful garlic-based dish perfect for a solo dinner or snack, following keto principles and incorporating fermented elements for added depth.",
+  "cuisine": "Dutch",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "garlic cloves",
+      "amount": "1 clove"
+    },
+    {
+      "name": "flaxseeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Grind the garlic clove into a fine paste using a mortar and pestle.",
+    "In a mixing bowl, combine the ground garlic with flaxseeds, water, and olive oil. Mix well until fully combined.",
+    "Season the mixture with black pepper to taste.",
+    "Transfer the mixture onto a baking sheet lined with parchment paper.",
+    "Bake in a preheated oven at 170°C (340°F) for 25-30 minutes, flipping once halfway through.",
+    "Remove from heat and let it cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "garlic",
+    "keto",
+    "crunchy",
+    "fermented"
+  ],
+  "nutrition": {
+    "calories": 60,
+    "protein": 2,
+    "carbs": 9,
+    "fat": 3
+  },
+  "slug": "garlic-keto-crunch",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlic-keto-crunch",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T12:14:55Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crisp",
+    "mood": "solo-dinner",
+    "technique": "whisk",
+    "primaryIngredient": "garlic",
+    "diet": "keto",
+    "region": null
+  }
+}
