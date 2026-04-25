@@ -1,0 +1,73 @@
+{
+  "title": "Herbal Green Bean Velveeta",
+  "description": "This herbal green bean velveeta is an adventurous Ukrainian dish featuring green beans that are simmered to perfection, offering a delicate and comforting flavor profile.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 cups of green beans",
+      "amount": "cup",
+      "notes": "trimmed and halved"
+    },
+    {
+      "name": "1 onion",
+      "amount": "medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "each",
+      "notes": "minced"
+    },
+    {
+      "name": "2 tablespoons olive oil"
+    },
+    {
+      "name": "Salt to taste"
+    },
+    {
+      "name": "Fresh herbs (parsley, dill)",
+      "amount": "to taste",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add sliced onion and minced garlic, sautéing until soft and translucent, about 5 minutes.",
+    "Toss in trimmed green beans along with salt to taste. Continue cooking for an additional 2-3 minutes or until they start to soften slightly.",
+    "Pour in enough water to cover the vegetables by about an inch. Bring it to a boil then reduce heat to simmer for about 10 minutes, stirring occasionally.",
+    "Add fresh herbs and let them cook together for another minute."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "green-beans",
+    "herbal-dish",
+    "plant-based",
+    "velvety-flavor"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 6,
+    "carbs": 12,
+    "fat": 3
+  },
+  "slug": "green-bean-velveeta",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/green-bean-velveeta",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T09:12:19Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "velvety",
+    "mood": "adventurous",
+    "technique": "simmer",
+    "primaryIngredient": "green beans",
+    "diet": "plant-based",
+    "region": null
+  }
+}

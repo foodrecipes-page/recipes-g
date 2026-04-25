@@ -178,6 +178,19 @@
     "shard": "g"
   },
   {
+    "slug": "green-bean-velveeta",
+    "title": "Herbal Green Bean Velveeta",
+    "tags": [
+      "green-beans",
+      "herbal-dish",
+      "plant-based",
+      "velvety-flavor"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 40,
+    "shard": "g"
+  },
+  {
     "slug": "green-olive-delight",
     "title": "Green Olive Delight",
     "tags": [
