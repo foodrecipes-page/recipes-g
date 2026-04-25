@@ -1,0 +1,87 @@
+{
+  "title": "Garlic Knuckle Medley",
+  "description": "A mediterranean-friendly meal-prep Japanese dish featuring a crispy pork knuckle with a garlicky glaze that's perfect for snacking or as a light dinner.",
+  "cuisine": "Japanese, Mediterranean",
+  "diet": [
+    "mediterranean",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pork knuckle",
+      "amount": "1 piece",
+      "notes": "About 2 pounds"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tablespoons",
+      "notes": "For frying and glazing"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "8-10 cloves",
+      "notes": "Minced finely"
+    },
+    {
+      "name": "Thyme sprigs",
+      "amount": "2-3 sprigs",
+      "notes": "Fresh or dried, optional for herbaceousness"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "To taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "For coating",
+      "notes": ""
+    },
+    {
+      "name": "Thyme sprigs",
+      "amount": "For garnish (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 425°F.",
+    "Rinse the pork knuckle under cold water and pat dry with paper towels. Score the skin lightly with a sharp knife to enhance crispy texture.",
+    "Mix minced garlic, olive oil, salt, pepper, and thyme together in a small bowl for the glaze. Brush evenly over both sides of the knuckle, ensuring it's well coated.",
+    "Place the pork knuckle on a baking sheet lined with aluminum foil or parchment paper. Roast in preheated oven for about 1 hour per pound (about 45 minutes to 1 hour), turning halfway through cooking time.",
+    "For best results, remove from oven and let rest covered with aluminum foil for at least 5-10 minutes after removing from the oven to allow juices redistribute inside the meat. This step helps achieve a nice texture and flavor development.",
+    "Slice into bite-sized pieces and serve as a snack or meal-prepped dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlicky",
+    "cuisine-japanese",
+    "meal-prep",
+    "mediterranean-friendly",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 27,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "garlic-knuckle-medley",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlic-knuckle-medley",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T01:01:40Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crispy",
+    "mood": "meal-prep",
+    "technique": "reduce",
+    "primaryIngredient": "pork knuckle",
+    "diet": "mediterranean",
+    "region": null
+  }
+}

@@ -27,6 +27,20 @@
     "shard": "g"
   },
   {
+    "slug": "garlic-knuckle-medley",
+    "title": "Garlic Knuckle Medley",
+    "tags": [
+      "garlicky",
+      "cuisine-japanese",
+      "meal-prep",
+      "mediterranean-friendly",
+      "crispy"
+    ],
+    "cuisine": "Japanese, Mediterranean",
+    "totalTimeMin": 90,
+    "shard": "g"
+  },
+  {
     "slug": "ginger-crunchy-quickfix",
     "title": "Ginger Crunchy QuickFix",
     "tags": [
