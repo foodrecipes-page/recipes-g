@@ -1,0 +1,76 @@
+{
+  "title": "Gluten-Free Rice Roll",
+  "description": "A fresh and silky gluten-free rice roll dish that can be enjoyed as a quick lunch or snack during the winter months.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Glutino Rice Papers",
+      "amount": "2 sheets"
+    },
+    {
+      "name": "Mixed Herbs (chives, parsley)",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tsp"
+    },
+    {
+      "name": "Fresh Lemon Juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Minced Garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch"
+    },
+    {
+      "name": "Pepper",
+      "amount": "Dash"
+    }
+  ],
+  "instructions": [
+    "Place glutino rice papers on a clean surface and lightly moisten with water from the side without oil for easy handling.",
+    "Spread a thin layer of mixed herbs over each sheet, ensuring they're evenly distributed.",
+    "Drizzle olive oil evenly over the herbs, then drizzle fresh lemon juice and minced garlic over them. Season with salt and pepper to taste.",
+    "Fold rice paper sheets into rolls by tucking in the edges and rolling tightly from one end towards the other. Ensure it's rolled as much as possible without tearing the sheet.",
+    "Place prepared gluten-free rice rolls on a plate and serve immediately or store them in the refrigerator for up to 24 hours."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free-rice-roll",
+    "fresh-silky-norwegian-dish",
+    "norway-recipe"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 3,
+    "carbs": 12,
+    "fat": 5
+  },
+  "slug": "gluten-free-rice-roll",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gluten-free-rice-roll",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T14:27:08Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "silky",
+    "mood": "sick-day",
+    "technique": "roast",
+    "primaryIngredient": "rice paper sheets",
+    "diet": "gluten-free",
+    "region": null
+  }
+}

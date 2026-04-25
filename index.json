@@ -302,6 +302,18 @@
     "shard": "g"
   },
   {
+    "slug": "gluten-free-rice-roll",
+    "title": "Gluten-Free Rice Roll",
+    "tags": [
+      "gluten-free-rice-roll",
+      "fresh-silky-norwegian-dish",
+      "norway-recipe"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 15,
+    "shard": "g"
+  },
+  {
     "slug": "golden-syrup-biscuits",
     "title": "Golden Syrup Biscuits",
     "tags": [
