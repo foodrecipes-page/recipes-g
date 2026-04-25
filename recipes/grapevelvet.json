@@ -1,0 +1,60 @@
+{
+  "title": "GrapeVelvet",
+  "description": "A quick and refreshing Korean dish featuring fresh grape tomatoes steamed to perfection for a delightful diabetic-friendly snack.",
+  "cuisine": "Korean",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Grape Tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Place grape tomatoes in a small saucepan.",
+    "Add water and salt to the saucepan, ensuring the water covers the tomatoes by about an inch.",
+    "Bring mixture to a gentle simmer over medium heat.",
+    "Reduce heat to maintain a low simmer, allowing the tomatoes to steam for approximately 5 minutes or until just cooked through but still firm.",
+    "Use tongs to carefully transfer the tomatoes from the saucepan into a bowl of ice water to stop the cooking process and help reduce their acidity slightly.",
+    "Drain and pat dry the cooled grape tomatoes with paper towels before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "grape-tomato",
+    "steamed-snack"
+  ],
+  "nutrition": {
+    "calories": 40,
+    "protein": 2,
+    "carbs": 8,
+    "fat": 0
+  },
+  "slug": "grapevelvet",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/grapevelvet",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T18:06:44Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "velvety",
+    "mood": "quick-fix",
+    "technique": "steam",
+    "primaryIngredient": "grape tomatoes",
+    "diet": "diabetic-friendly",
+    "region": null
+  }
+}
