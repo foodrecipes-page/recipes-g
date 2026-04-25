@@ -1,0 +1,64 @@
+{
+  "title": "Grilled Tzimmes with Tahini Paste",
+  "description": "This grilled tzimmes features a gooey and fermented base made from tahini paste, ideal for pescatarian diets seeking an Ethiopian favorite.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "2 cups tahini paste",
+      "amount": "",
+      "notes": "Use high-quality, flavorful tahini."
+    },
+    {
+      "name": "1 can (14 oz) pineapple chunks in juice",
+      "amount": "",
+      "notes": "Choose sweet and tangy for best flavor."
+    },
+    {
+      "name": "3 cloves garlic finely minced",
+      "amount": "",
+      "notes": "A little goes a long way."
+    }
+  ],
+  "instructions": [
+    "Preheat your grill to medium-high heat.",
+    "Mix tahini paste with pineapple juice and add garlic. Stir until smooth.",
+    "Place the tzimmes mixture into a shallow dish and refrigerate for at least an hour, or overnight if time allows.",
+    "Remove from refrigerator and stir in minced garlic again. Cover and let sit for another 10 minutes to thicken slightly.",
+    "Brush grill grates with oil to prevent sticking. Add tzimmes to the grill over medium-high heat.",
+    "Cook until golden brown and bubbly, about 5-7 minutes per side. Remove from grill and serve warm."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "grilledtzimmes",
+    "tahinapaste",
+    "pescatarianrecipe"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 5,
+    "carbs": 48,
+    "fat": 12
+  },
+  "slug": "grill-tzimmes",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/grill-tzimmes",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T10:28:50Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "gooey",
+    "mood": "nostalgic",
+    "technique": "grill",
+    "primaryIngredient": "tahini paste",
+    "diet": "pescatarian",
+    "region": null
+  }
+}

@@ -280,5 +280,17 @@
     "cuisine": "Middle Eastern",
     "totalTimeMin": 5,
     "shard": "g"
+  },
+  {
+    "slug": "grill-tzimmes",
+    "title": "Grilled Tzimmes with Tahini Paste",
+    "tags": [
+      "grilledtzimmes",
+      "tahinapaste",
+      "pescatarianrecipe"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 45,
+    "shard": "g"
   }
 ]
