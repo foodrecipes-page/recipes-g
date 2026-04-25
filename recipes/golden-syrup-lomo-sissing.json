@@ -1,0 +1,76 @@
+{
+  "title": "Golden Syrup Lomo Sissing",
+  "description": "A garlicky and juicy plant-based Ethiopian dish featuring golden syrup, prepared using sous-vide technique for a restaurant-quality solo dinner experience.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 (150g) jackfruit chunks",
+      "amount": "each"
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juice of one"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "to taste"
+    },
+    {
+      "name": "2 tablespoons golden syrup",
+      "amount": "tbsp"
+    },
+    {
+      "name": "Sriracha sauce, for serving (optional)",
+      "notes": "as a condiment"
+    }
+  ],
+  "instructions": [
+    "Preheat your sous-vide machine to 50°C.",
+    "Season the jackfruit with salt and olive oil. Place in a vacuum-sealed bag or directly into the sous-vide water bath for about 1 hour.",
+    "In a skillet, heat the minced garlic until fragrant, then add the lemon juice and cooked jackfruit. Season with additional salt if needed.",
+    "Serve hot alongside golden syrup drizzled on top and sriracha sauce as a condiment."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sous-vide",
+    "lomo-sissing",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 48,
+    "fat": 9
+  },
+  "slug": "golden-syrup-lomo-sissing",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-syrup-lomo-sissing",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T10:10:04Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "juicy",
+    "mood": "solo-dinner",
+    "technique": "sous-vide",
+    "primaryIngredient": "golden syrup",
+    "diet": "plant-based",
+    "region": null
+  }
+}

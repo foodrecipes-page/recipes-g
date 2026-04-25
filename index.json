@@ -166,6 +166,18 @@
     "shard": "g"
   },
   {
+    "slug": "golden-syrup-lomo-sissing",
+    "title": "Golden Syrup Lomo Sissing",
+    "tags": [
+      "sous-vide",
+      "lomo-sissing",
+      "plant-based"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 80,
+    "shard": "g"
+  },
+  {
     "slug": "goose-fat-knead-bliss",
     "title": "Goose Fat Knead Bliss",
     "tags": [
