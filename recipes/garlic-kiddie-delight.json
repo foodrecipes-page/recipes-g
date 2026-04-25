@@ -1,0 +1,58 @@
+{
+  "title": "Garlic Kiddie Delight",
+  "description": "A diabetic-friendly fermented dish featuring garlic bulb, prepared with sous-vide method for a dense and kid-friendly American meal.",
+  "cuisine": "American",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Garlic Bulb",
+      "amount": "1",
+      "notes": "Choose fresh, unpeeled bulbs for fermentation."
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "Extra virgin olive oil is recommended for health benefits and flavor enhancement."
+    }
+  ],
+  "instructions": [
+    "Preheat your sous-vide water bath to 60°C (140°F).",
+    "Place the garlic bulbs in a plastic bag, pour the olive oil over them evenly, seal the bag well.",
+    "Submerge the sealed bag into the preheated water bath for 24 hours.",
+    "Once done, remove the bag from the water bath and allow it to cool naturally at room temperature. The garlic will ferment within this time.",
+    "Gently squeeze or crush the garlic cloves after cooling until desired density is achieved."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 24,
+  "totalTimeMin": 24,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "sous-vide",
+    "fermented",
+    "garlic"
+  ],
+  "nutrition": {
+    "calories": 30,
+    "protein": 0.5,
+    "carbs": 7,
+    "fat": 2
+  },
+  "slug": "garlic-kiddie-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlic-kiddie-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T12:45:57Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "dense",
+    "mood": "kid-friendly",
+    "technique": "sous-vide",
+    "primaryIngredient": "garlic bulb",
+    "diet": "diabetic-friendly",
+    "region": null
+  }
+}

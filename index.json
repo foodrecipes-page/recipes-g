@@ -67,6 +67,18 @@
     "shard": "g"
   },
   {
+    "slug": "garlic-kiddie-delight",
+    "title": "Garlic Kiddie Delight",
+    "tags": [
+      "sous-vide",
+      "fermented",
+      "garlic"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 24,
+    "shard": "g"
+  },
+  {
     "slug": "garlic-knuckle-medley",
     "title": "Garlic Knuckle Medley",
     "tags": [
