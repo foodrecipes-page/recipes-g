@@ -1,0 +1,79 @@
+{
+  "title": "Garlic Monsoong Corn Arepa Cheese Quiche",
+  "description": "A silky vegan-friendly dish featuring garlic-infused corn arepas filled with mozzarella cheese, perfect for a monsoon season.",
+  "cuisine": "Vegan Vietnamese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 cup corn arepa",
+      "amount": "",
+      "notes": "Preferably vegan or mock"
+    },
+    {
+      "name": "2 cups mozzarella cheese, shredded",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "3 garlic cloves, minced",
+      "amount": "",
+      "notes": "Avoid if not vegan"
+    },
+    {
+      "name": "1/4 cup fresh cilantro, chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "",
+      "notes": "Vegan-friendly substitute available"
+    },
+    {
+      "name": "Pinch salt",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C). Blanch corn arepa pieces in boiling water for about 2 minutes.",
+    "Drain and set aside. In a mixing bowl, combine the shredded mozzarella cheese with minced garlic, chopped cilantro, lemon juice, and pinch of salt.",
+    "Spread mixture evenly over each corn arepa piece. Place on baking sheet lined with parchment paper or sprayed with cooking spray.",
+    "Bake for 20 minutes until golden brown and cheese is melted and bubbly. Remove from oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlicky",
+    "silky",
+    "monsoon_vietnamese_dish",
+    "corn_arepa",
+    "mozarella_cheese_quiche"
+  ],
+  "nutrition": {
+    "calories": 700,
+    "protein": 24,
+    "carbs": 58,
+    "fat": 31
+  },
+  "slug": "garlic-monsoong-corn-arepa-cheese-quiche",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlic-monsoong-corn-arepa-cheese-quiche",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T14:14:24Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "silky",
+    "mood": "monsoon",
+    "technique": "blanch",
+    "primaryIngredient": "corn arepa filled with mozarella cheese",
+    "diet": "vegan",
+    "region": null
+  }
+}

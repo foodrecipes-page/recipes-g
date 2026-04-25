@@ -119,6 +119,20 @@
     "shard": "g"
   },
   {
+    "slug": "garlic-monsoong-corn-arepa-cheese-quiche",
+    "title": "Garlic Monsoong Corn Arepa Cheese Quiche",
+    "tags": [
+      "garlicky",
+      "silky",
+      "monsoon_vietnamese_dish",
+      "corn_arepa",
+      "mozarella_cheese_quiche"
+    ],
+    "cuisine": "Vegan Vietnamese",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "garlic-sherry-sunday",
     "title": "Garlic Sherry Sunday",
     "tags": [
