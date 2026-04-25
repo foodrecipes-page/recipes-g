@@ -865,6 +865,20 @@
     "shard": "g"
   },
   {
+    "slug": "grilled-juicy-salty-chestnut-stir-fry",
+    "title": "Grilled Juicy Salty Chestnut Stir-fry",
+    "tags": [
+      "grilled",
+      "juicy",
+      "salty",
+      "chestnut",
+      "korean"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "gruyere-kale-saute",
     "title": "Gruyère Kale Saute",
     "tags": [

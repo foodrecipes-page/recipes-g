@@ -1,0 +1,81 @@
+{
+  "title": "Grilled Juicy Salty Chestnut Stir-fry",
+  "description": "A raw-friendly and salty Korean dish featuring grilled chestnuts, perfect for those with a weakened immune system or on sick days.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chestnuts",
+      "amount": "200g"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Gochujang (Korean Chili Paste)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "3 pieces, chopped"
+    },
+    {
+      "name": "Olive Oil or Cooking Oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Grill the chestnuts for about 10 minutes, turning occasionally until they are lightly charred and crispy on the outside.",
+    "In a small bowl, mix together soy sauce, gochujang, sugar, minced garlic cloves, and chopped green onions. Stir well until the sugar is fully dissolved.",
+    "Drizzle oil over the grilled chestnuts to prevent sticking.",
+    "Add the mixed seasoning into the bowl of grilling chestnuts and toss gently until all the ingredients are evenly coated with sauce.",
+    "Serve immediately while still hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "juicy",
+    "salty",
+    "chestnut",
+    "korean"
+  ],
+  "nutrition": {
+    "calories": 169,
+    "protein": 7,
+    "carbs": 23,
+    "fat": 8
+  },
+  "slug": "grilled-juicy-salty-chestnut-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/grilled-juicy-salty-chestnut-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T23:28:46Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "juicy",
+    "mood": "sick-day",
+    "technique": "grill",
+    "primaryIngredient": "chestnuts",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "chestnut",
+    "descriptor": "Grilled Juicy Salty",
+    "dishForm": "Stir-fry"
+  }
+}
