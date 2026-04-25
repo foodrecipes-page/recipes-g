@@ -1,0 +1,83 @@
+{
+  "title": "Gongfu Wood Ear Delight",
+  "description": "A herbal and gooey French dish featuring wood ear mushrooms that are high-protein-friendly and perfect for a solo dinner.",
+  "cuisine": "French",
+  "diet": [
+    "high-protein",
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wood Ear Mushrooms",
+      "amount": "100g",
+      "notes": "Soak in water for at least 30 minutes"
+    },
+    {
+      "name": "Dumplings",
+      "amount": "2",
+      "notes": "Regular meat or vegetarian, steamed or boiled as per preference"
+    },
+    {
+      "name": "Herbs (optional)",
+      "amount": "to taste",
+      "notes": "Chives, cilantro, mint"
+    },
+    {
+      "name": "Soaked Wood Ear Mushrooms",
+      "amount": "60g",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "150ml",
+      "notes": "Optional for flavor enhancement"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Prepare the wood ear mushrooms by soaking them in water for at least 30 minutes.",
+    "Soften the dumplings and prepare them according to your preference (steamed or boiled).",
+    "If desired, add a small amount of vegetable broth to enhance the flavor and soften the wood ear mushrooms.",
+    "Sauté the olive oil in a pan over medium heat. Add the softened dumplings and lightly sauté until heated through.",
+    "Add the soiled wood ear mushrooms into the pan with the dumplings. Cook for about 2-3 minutes, stirring occasionally to combine all ingredients.",
+    "Finish by adding optional herbs for a pop of color and flavor.",
+    "Serve hot as your herbal and gooey French dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gongfu",
+    "wood ear",
+    "dumpling",
+    "herb",
+    "meal"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 31,
+    "carbs": 27,
+    "fat": 14
+  },
+  "slug": "gongfu-wood-ear-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gongfu-wood-ear-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T10:57:34Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "gooey",
+    "mood": "solo-dinner",
+    "technique": "dum",
+    "primaryIngredient": "wood ear mushrooms",
+    "diet": "high-protein",
+    "region": null
+  }
+}
