@@ -12,6 +12,21 @@
     "shard": "g"
   },
   {
+    "slug": "garam-masala-dum-crostal",
+    "title": "Garam Masala Dum Crostal",
+    "tags": [
+      "garam masala",
+      "dum",
+      "buttery",
+      "silky",
+      "kosher-friendly",
+      "croatian"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 60,
+    "shard": "g"
+  },
+  {
     "slug": "garam-masala-kale-chaat",
     "title": "Garam Masala Kale Chaat",
     "tags": [
