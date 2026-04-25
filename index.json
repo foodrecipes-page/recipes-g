@@ -542,6 +542,20 @@
     "shard": "g"
   },
   {
+    "slug": "green-bean-zest",
+    "title": "Green Bean Zest",
+    "tags": [
+      "green-beans",
+      "spicy",
+      "energizing",
+      "spanish",
+      "fadmap-friendly"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 30,
+    "shard": "g"
+  },
+  {
     "slug": "green-cardamom-creamy-lazy-sunday-pescatarian-dish",
     "title": "Green Cardamom Creamy Lazy Sunday Pescatarian Dish",
     "tags": [

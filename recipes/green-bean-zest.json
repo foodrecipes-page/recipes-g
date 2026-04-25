@@ -1,0 +1,76 @@
+{
+  "title": "Green Bean Zest",
+  "description": "An earthy, fluffy, energizing Spanish dish featuring green beans, deglazed with a touch of garlic and olive oil to create a light yet satisfying snack or side dish.",
+  "cuisine": "Spanish",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Green Beans",
+      "amount": "250g (about 1 cup, trimmed and halved) cooked",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves, minced",
+      "notes": null
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Water or Vegetable Stock",
+      "amount": "250ml (about 1 cup)",
+      "notes": null
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a non-stick skillet over medium heat.",
+    "Add the minced garlic and sauté for about 2 minutes until fragrant but not browned.",
+    "Add the cooked green beans to the skillet, tossing well with the garlic mixture.",
+    "Deglaze the skillet with the water or vegetable stock, scraping up any crispy bits from the bottom of the pan.",
+    "Fold in lemon zest and season with salt and pepper to taste.",
+    "Serve hot as a snack or side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "green-beans",
+    "spicy",
+    "energizing",
+    "spanish",
+    "fadmap-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 14,
+    "fat": 7
+  },
+  "slug": "green-bean-zest",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/green-bean-zest",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T16:39:45Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "fluffy",
+    "mood": "energizing",
+    "technique": "deglaze",
+    "primaryIngredient": "green beans",
+    "diet": "fodmap",
+    "region": null
+  }
+}
