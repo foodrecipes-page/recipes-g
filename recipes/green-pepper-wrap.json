@@ -1,0 +1,69 @@
+{
+  "title": "Green Pepper Wrap",
+  "description": "This crisp and flavorful Green Pepper Wrap is a quick and easy weeknight meal that combines fermented green peppers with toasted bread for a satisfying snack or light supper.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fermented Green Peppers",
+      "amount": "8 oz",
+      "notes": "Use halal-certified fermented green peppers if available."
+    },
+    {
+      "name": "Thousand Island Dressing",
+      "amount": "2 tablespoons",
+      "notes": "Halal-friendly Thousand Island dressing can be used."
+    },
+    {
+      "name": "Toasted Bread",
+      "amount": "4 slices",
+      "notes": "Whole grain or multigrain bread for added nutrition and texture."
+    },
+    {
+      "name": "Hummus (optional)",
+      "amount": "2 tablespoons",
+      "notes": "For a dip, optional."
+    }
+  ],
+  "instructions": [
+    "Prepare the fermented green peppers by slicing them thinly.",
+    "Toast the slices of bread until golden brown on both sides.",
+    "Spread Thousand Island dressing evenly over each slice of toasted bread.",
+    "Place sliced fermented green peppers on top of the dressings.",
+    "Add hummus for a dip if desired and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "green-pepper",
+    "toasted-bread",
+    "halal",
+    "weeknight-dish"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 7
+  },
+  "slug": "green-pepper-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/green-pepper-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T03:02:37Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crisp",
+    "mood": "weeknight",
+    "technique": "toast",
+    "primaryIngredient": "green pepper",
+    "diet": "halal",
+    "region": null
+  }
+}

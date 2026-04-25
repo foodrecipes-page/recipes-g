@@ -136,5 +136,18 @@
     "cuisine": "Vietnamese",
     "totalTimeMin": 35,
     "shard": "g"
+  },
+  {
+    "slug": "green-pepper-wrap",
+    "title": "Green Pepper Wrap",
+    "tags": [
+      "green-pepper",
+      "toasted-bread",
+      "halal",
+      "weeknight-dish"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 5,
+    "shard": "g"
   }
 ]
