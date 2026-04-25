@@ -1,0 +1,83 @@
+{
+  "title": "Green Cardamom Creamy Lazy Sunday Pescatarian Dish",
+  "description": "A velvety and sour mexican-inspired dish featuring green cardamom pods for a unique twist, perfect for a lazy Sunday pescatarian meal.",
+  "cuisine": "Mexican",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Green cardamom pods",
+      "amount": "3-4 pieces",
+      "notes": "Crushed before use"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garam masala powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Crush the green cardamom pods.",
+    "Combine chicken broth, heavy cream, crushed green cardamom, cilantro, lemon juice, red pepper flakes, and garam masala in a pot. Bring to a simmer over medium heat.",
+    "Stir occasionally until thickened and creamy, about 15-20 minutes.",
+    "Turn off the heat and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lazy-sunday",
+    "sour",
+    "velvety",
+    "mexican",
+    "green-cardamom",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 18
+  },
+  "slug": "green-cardamom-creamy-lazy-sunday-pescatarian-dish",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/green-cardamom-creamy-lazy-sunday-pescatarian-dish",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T11:27:04Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "velvety",
+    "mood": "lazy-sunday",
+    "technique": "reduce",
+    "primaryIngredient": "green cardamom pods",
+    "diet": "pescatarian",
+    "region": null
+  }
+}
