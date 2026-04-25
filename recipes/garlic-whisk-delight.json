@@ -1,0 +1,68 @@
+{
+  "title": "Garlic Whisk Delight",
+  "description": "A nutty and fluffy show-off Uruguayan dish featuring a blend of garlic and whisk that is vegan-friendly and easy to make.",
+  "cuisine": "Uruguayan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup whole wheat flour",
+      "amount": "cup",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "cloves",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup vegan mayonnaise (or avocado puree for a smooth texture)",
+      "amount": "cup",
+      "notes": "Use low heat to avoid burning"
+    },
+    {
+      "name": "Pinch of sea salt",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl, combine the whole wheat flour and minced garlic.",
+    "Gradually add in the vegan mayonnaise (or avocado puree) while continuously stirring with a whisk to achieve a smooth texture. The mixture should be thick but spreadable.",
+    "Season with sea salt to taste.",
+    "Transfer the mixture onto a flat surface, use your fingers or a piping bag to shape it into a desired form, such as small balls or flat discs.",
+    "Place the formed shapes on a baking sheet lined with parchment paper and refrigerate for 15 minutes before baking.",
+    "Preheat oven to 350°F (175°C). Bake for approximately 20-25 minutes until golden brown. Keep an eye on them, as they can burn easily at this stage."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlic",
+    "whisk",
+    "nutty",
+    "fluffy"
+  ],
+  "nutrition": {
+    "calories": 168,
+    "protein": 5,
+    "carbs": 27,
+    "fat": 3
+  },
+  "slug": "garlic-whisk-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlic-whisk-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T18:13:44Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "fluffy",
+    "mood": "show-off",
+    "technique": "whisk",
+    "primaryIngredient": "garlic",
+    "diet": "vegan",
+    "region": null
+  }
+}
