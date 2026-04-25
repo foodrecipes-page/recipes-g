@@ -1,0 +1,86 @@
+{
+  "title": "Garlicky Crumbly Dutch Sushi Rice Stir-fry",
+  "description": "A flavorful and crowd-pleasing dish featuring sushi rice mixed with garlic, soy sauce, and vegetables for a satisfying side or main course.",
+  "cuisine": "Dutch",
+  "diet": [
+    "fried",
+    "garlic",
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sushi Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chopped Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Carrots, finely chopped",
+      "amount": "1 medium carrot"
+    },
+    {
+      "name": "Peppers, finely chopped (optional)",
+      "amount": "1 green pepper"
+    }
+  ],
+  "instructions": [
+    "Rinse sushi rice with cold water and drain well. Place in a pot with 1/4 cup of water. Bring to a boil, then reduce heat to low, cover, and simmer until all the liquid is absorbed (about 20 minutes). Let sit covered for an additional 10 minutes.",
+    "In a large skillet or wok, heat oil over medium-high heat. Add chopped garlic and sauté for about 30 seconds until fragrant but not browned.",
+    "Add finely chopped carrots to the skillet with garlic. Stir in sushi rice, soy sauce, and the rest of the water (if any is left from soaking). Cook for another 5 minutes, stirring frequently.",
+    "Optional: Add finely chopped peppers if desired for extra flavor and texture.",
+    "Serve hot as a side dish or use it as a base for other dishes like sushi rolls."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlicky",
+    "crumbly",
+    "dutch",
+    "sushi-rice",
+    "fried",
+    "stir-fry",
+    "fodmap-friendly"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 6,
+    "carbs": 37,
+    "fat": 9
+  },
+  "slug": "garlicky-crumbly-dutch-sushi-rice-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-crumbly-dutch-sushi-rice-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T22:52:36Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crumbly",
+    "mood": "crowd-pleaser",
+    "technique": "fry",
+    "primaryIngredient": "sushi rice",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Sushi Rice",
+    "descriptor": "Garlicky Crumbly",
+    "dishForm": "Stir-fry"
+  }
+}
