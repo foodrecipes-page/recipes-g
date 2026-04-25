@@ -12,6 +12,20 @@
     "shard": "g"
   },
   {
+    "slug": "galangal-crumble",
+    "title": "Galangal Crumble",
+    "tags": [
+      "galangal",
+      "crumble",
+      "one-pot",
+      "sour",
+      "raw-friendly"
+    ],
+    "cuisine": "Asian",
+    "totalTimeMin": 40,
+    "shard": "g"
+  },
+  {
     "slug": "garam-masala-dum-crostal",
     "title": "Garam Masala Dum Crostal",
     "tags": [

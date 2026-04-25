@@ -1,0 +1,88 @@
+{
+  "title": "Galangal Crumble",
+  "description": "A sour and crumbly one-pot meal featuring galangal, cooked in an air fryer for a raw-friendly dish.",
+  "cuisine": "Asian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup Galangal",
+      "amount": "",
+      "notes": "Grated finely"
+    },
+    {
+      "name": "1/2 cup Lime juice",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 onion, finely chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "4 garlic cloves, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "3 tablespoons Red curry paste",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon Sesame seeds",
+      "amount": "",
+      "notes": "For topping"
+    },
+    {
+      "name": "2 tablespoons Sesame oil",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together galangal, lime juice, onion, garlic, red curry paste, and salt.",
+    "Gradually add water while mixing until you achieve a pourable consistency.",
+    "Pour the mixture into an air fryer pan. If using a regular frying pan, make sure it is non-stick or coated to prevent sticking.",
+    "Cook in 375°F (190°C) for about 20-25 minutes or until the top has started to crisp and turn golden brown.",
+    "While the galangal crumble is cooking, mix sesame oil with sesame seeds. Once done, sprinkle over the top of the crumble before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "galangal",
+    "crumble",
+    "one-pot",
+    "sour",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 7,
+    "carbs": 19,
+    "fat": 4
+  },
+  "slug": "galangal-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/galangal-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T17:49:10Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crumbly",
+    "mood": "one-pot",
+    "technique": "air-fry",
+    "primaryIngredient": "galangal",
+    "diet": "raw",
+    "region": null
+  }
+}
