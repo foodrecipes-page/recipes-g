@@ -41,6 +41,18 @@
     "shard": "g"
   },
   {
+    "slug": "garlic-tadka-whole30",
+    "title": "Garlic Tadka Whole30",
+    "tags": [
+      "garlic",
+      "tadka",
+      "whole30"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "garnacha-levantine",
     "title": "Garnacha Levantine",
     "tags": [
