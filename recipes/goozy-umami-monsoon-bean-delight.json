@@ -1,0 +1,114 @@
+{
+  "title": "Goozy Umami Monsoon Bean Delight",
+  "description": "This nut-free-friendly monsoon dish features gooey dried white beans simmered in a savory umami sauce and baked until tender and golden.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 can (14 oz/398g) drained, rinsed white beans",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 onion, finely chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp ground coriander",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 tsp turmeric powder",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 bay leaf",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup (240ml) water",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 tsp salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp nutritional yeast (optional for umami boost)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Heat olive oil in a large saucepan over medium heat.",
+    "Add onion and garlic, sauté until translucent.",
+    "Stir in cumin, coriander, turmeric, bay leaf, and salt. Cook for about 2 minutes.",
+    "Pour in water and white beans. Bring to boil.",
+    "Reduce heat to low, cover, and simmer for 30-40 minutes or until beans are tender but still have some texture.",
+    "Stir in lemon juice and nutritional yeast (if using).",
+    "Gently fold the mixture into a baking dish coated with cooking spray or oil.",
+    "Bake at 350°F (175°C) for about 20-25 minutes, until bubbling and top is golden brown.",
+    "Serve warm as a side dish or over rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nut-free",
+    "umami",
+    "monsoon",
+    "bean",
+    "dish",
+    "syrian"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 8,
+    "carbs": 34,
+    "fat": 9
+  },
+  "slug": "goozy-umami-monsoon-bean-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/goozy-umami-monsoon-bean-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T14:40:49Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "gooey",
+    "mood": "monsoon",
+    "technique": "bake",
+    "primaryIngredient": "dried white beans",
+    "diet": "nut-free",
+    "region": null
+  }
+}
