@@ -1,0 +1,83 @@
+{
+  "title": "Gluten-Free Frankfurter Delight",
+  "description": "A sweet and indulgent Egyptian dish featuring gluten-free frankfurters cooked by steam for a fluffy texture.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Gluten-Free Frankfurter Patties",
+      "amount": "20 pieces"
+    },
+    {
+      "name": "Applesauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Honey or Maple Syrup",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Coconut Milk Powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "All-Purpose Gluten-Free Flour Blend",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Ground Cinnamon",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Sesame Seeds or Chopped Almonds (optional for garnish)",
+      "notes": "For additional texture and flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat a small steamer pot over medium heat.",
+    "Prepare the frankfurter patties by dusting them with all-purpose gluten-free flour blend.",
+    "In a large bowl, mix together applesauce, honey or maple syrup, vanilla extract, and coconut milk powder until smooth. Mix in ground cinnamon.",
+    "Steam the prepared frankfurter patties in the steamer pot for about 2-3 minutes per side until they puff up and are lightly browned on both sides.",
+    "Once done, transfer them to a serving plate or small bowl lined with paper towels to absorb any excess moisture.",
+    "Sprinkle with sesame seeds or chopped almonds if desired, then drizzle remaining syrup over the top for an extra indulgent touch."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "fluffy",
+    "indulgent",
+    "egyptian"
+  ],
+  "nutrition": {
+    "calories": 168,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 7
+  },
+  "slug": "gluten-free-frankfurter-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gluten-free-frankfurter-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T11:00:31Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "fluffy",
+    "mood": "indulgent",
+    "technique": "steam",
+    "primaryIngredient": "frankfurter",
+    "diet": "gluten-free",
+    "region": null
+  }
+}

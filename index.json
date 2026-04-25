@@ -158,6 +158,19 @@
     "shard": "g"
   },
   {
+    "slug": "gluten-free-frankfurter-delight",
+    "title": "Gluten-Free Frankfurter Delight",
+    "tags": [
+      "sweet",
+      "fluffy",
+      "indulgent",
+      "egyptian"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 50,
+    "shard": "g"
+  },
+  {
     "slug": "golden-syrup-gyro",
     "title": "Golden Syrup Gyro",
     "tags": [],
