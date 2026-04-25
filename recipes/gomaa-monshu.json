@@ -1,0 +1,84 @@
+{
+  "title": "Gomaa Monshu",
+  "description": "A citrusy and gooey Japanese dish featuring hake in a sugar-free-friendly monsoon-inspired recipe.",
+  "cuisine": "Japanese",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hake fillets",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sugar-free condensed milk",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon ground"
+    },
+    {
+      "name": "lemon peel",
+      "amount": "2 teaspoons grated"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Place hake fillets in a baking dish. Pour orange juice, lemon zest, lime juice over them.",
+    "Mix sugar-free condensed milk, unsalted butter, ginger, and grated lemon peel together in another bowl until well combined.",
+    "Pour the mixture evenly over the fish in the baking dish.",
+    "Bake for 15 minutes or until fish flakes easily with a fork. Serve warm.",
+    "prepTimeMin: 10",
+    "cookTimeMin: 15",
+    "totalTimeMin: 25",
+    "servings: 4",
+    "difficulty: "
+  ],
+  "tags": [
+    "gomaa-monshu",
+    "citrusy",
+    "gooey",
+    "monsoon-japanese-dish",
+    "hake",
+    "temper",
+    "sugar-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 26,
+    "carbs": 18,
+    "fat": 14
+  },
+  "slug": "gomaa-monshu",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gomaa-monshu",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T17:03:41Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "gooey",
+    "mood": "monsoon",
+    "technique": "temper",
+    "primaryIngredient": "hake",
+    "diet": "sugar-free",
+    "region": null
+  }
+}
