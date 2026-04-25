@@ -1,0 +1,93 @@
+{
+  "title": "Gluten-Free Falafel Date Night",
+  "description": "A savory and crunchy Korean-inspired dish featuring gluten-free falafel, perfect for a romantic date night.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Quinoa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chickpeas (garbanzo beans)",
+      "amount": "1 can (15 oz)"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Coriander seeds",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Dates (optional for topping)",
+      "amount": "6 dates"
+    }
+  ],
+  "instructions": [
+    "Cook quinoa according to package instructions and let it cool.",
+    "Blend chickpeas, garlic, green onions, cumin seeds, coriander seeds, salt, paprika, turmeric powder, and enough water or veggie broth (if needed) in a food processor until smooth.",
+    "Add cooked quinoa into the blended mixture and mix well to combine.",
+    "Form falafel balls about 1 inch in diameter using your hands or a cookie scoop.",
+    "Heat coconut oil in a pan over medium heat. Add falafel balls and fry for about 5-7 minutes, turning occasionally until golden brown on all sides.",
+    "For serving, place fried falafel onto individual plates, top with dates if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "falafel",
+    "gluten-free",
+    "korean"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 36,
+    "fat": 9
+  },
+  "slug": "gluten-free-falafel-date-night",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gluten-free-falafel-date-night",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T01:25:49Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crunchy",
+    "mood": "date-night",
+    "technique": "slow-cook",
+    "primaryIngredient": "falafel",
+    "diet": "gluten-free",
+    "region": null
+  }
+}
