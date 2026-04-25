@@ -1,0 +1,90 @@
+{
+  "title": "Gooey American Carob Crumble with Ras El Hanout",
+  "description": "A sweet and gooey dessert featuring gluten-free-friendly ingredients like carob and ras el hanout for a cozy American flavor.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "2 cups almond flour",
+      "amount": "cup",
+      "notes": "Substitute with gluten-free oat flour if needed"
+    },
+    {
+      "name": "1/4 cup carob powder",
+      "amount": "cup",
+      "notes": "Replace with dark chocolate chips for added sweetness and texture"
+    },
+    {
+      "name": "3/4 cup unsweetened applesauce",
+      "amount": "cup"
+    },
+    {
+      "name": "2 large eggs",
+      "amount": "each"
+    },
+    {
+      "name": "1/2 cup honey syrup",
+      "amount": "cup",
+      "notes": "Can be made by mixing 1/4 cup cornstarch with 1/4 cup water and reducing to a thick syrup over medium heat, stirring continuously until bubbly. Cool before using."
+    },
+    {
+      "name": "1 teaspoon vanilla extract",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "1/4 cup unsalted butter, melted",
+      "amount": "cup"
+    },
+    {
+      "name": "3 tablespoons finely chopped walnuts",
+      "notes": "Optional garnish for added crunch and flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C). Grease an 8x8 inch baking dish.",
+    "In a large bowl, mix together the almond flour, carob powder, unsweetened applesauce, eggs, honey syrup, vanilla extract, and salt. Stir until well combined; add melted butter and walnuts if using.",
+    "Transfer batter to prepared baking dish. Bake for 25-30 minutes or until a toothpick inserted comes out clean from the center.",
+    "Let cool slightly before slicing into individual servings."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "carob",
+    "ras-el-hanout",
+    "cozy"
+  ],
+  "nutrition": {
+    "calories": 317,
+    "protein": 6.9,
+    "carbs": 45.2,
+    "fat": 13
+  },
+  "slug": "gooey-american-carob-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-american-carob-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T21:06:54Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "gooey",
+    "mood": "cozy",
+    "technique": "caramelize",
+    "primaryIngredient": "ras el hanout",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "carob",
+    "descriptor": "Gooey",
+    "dishForm": "Crumble"
+  }
+}
