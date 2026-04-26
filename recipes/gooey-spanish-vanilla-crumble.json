@@ -1,0 +1,90 @@
+{
+  "title": "Gooey Spanish Vanilla Crumble",
+  "description": "A tangy and gooey comfort dish featuring a low-calorie-friendly version of the classic Spanish crumble with an added touch of vanilla pod for sweetness and warmth.",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "vanilla pods",
+      "amount": "1-2 pieces"
+    },
+    {
+      "name": "almond flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "oat flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "unsweetened coconut flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "3 tablespoons (softened)"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "milk or milk substitute",
+      "amount": "6-8 ounces (optional, for binding and moistening the crumble coat)"
+    },
+    {
+      "name": "vanilla ice cream",
+      "amount": "2 cups (for serving)"
+    }
+  ],
+  "instructions": [
+    "Grate the vanilla pods and set aside any seeds for garnish.",
+    "In a mixing bowl, combine almond flour, oat flour, unsweetened coconut flakes, softened butter, sugar, and vanilla extract. Mix until crumbly texture is achieved.",
+    "If using milk or substitute, slowly add it to the crumble mixture, stirring continuously to prevent clumping and ensure even distribution of liquid.",
+    "Preheat oven to 350°F (175°C). Grease a dish with butter or non-stick spray.",
+    "Transfer the crumble mixture evenly onto prepared baking dish. Smooth out any remaining bits on top for an attractive, decorative layer.",
+    "Bake in preheated oven for 20-25 minutes or until golden brown and crispy to touch.",
+    "While the crumble is cooling down, scoop vanilla ice cream into a bowl and serve with warm crumble coating."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "vanilla-crumb-dessert",
+    "low-calorie-friendly"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 4,
+    "carbs": 27,
+    "fat": 9
+  },
+  "slug": "gooey-spanish-vanilla-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-spanish-vanilla-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T11:01:18Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "gooey",
+    "mood": "comforting",
+    "technique": "dum",
+    "primaryIngredient": "vanilla pod",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Vanilla",
+    "descriptor": "Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
