@@ -1,0 +1,96 @@
+{
+  "title": "Gooey Spicy Canadian Citrus Peel Stir-fry",
+  "description": "This festive dish features a gooey and citrusy twist on traditional stir-fries, seasoned with spicy chili to add a delightful kick of flavor.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gluten-free soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3 cloves, minced",
+      "notes": "about 1 tablespoon garlic paste"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Orange zest",
+      "amount": "2 oranges, zested and juiced (for additional flavor)"
+    },
+    {
+      "name": "Glutathione powder or liquid glutathione",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Coconut sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "2 pieces, diced (for serving)"
+    },
+    {
+      "name": "Broccoli florets",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 bunch, chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a wok or large skillet over medium-high heat.",
+    "Add minced garlic and chili flakes; sauté until fragrant but not browned.",
+    "Stir in orange zest and zested portion of oranges. Sauté for about 1 minute, allowing the zest to infuse with flavors.",
+    "Pour in glutathione powder or liquid glutathione, soy sauce, coconut sugar, and rice vinegar; stir well until mixture is smooth.",
+    "Gently add diced chicken breast pieces and broccoli florets. Stir-fry for an additional 5 minutes.",
+    "Remove from heat and serve the dish over cooked noodles or as a side to grilled meats. Garnish with chopped green onions before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "citrusy",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 37,
+    "fat": 15
+  },
+  "slug": "gooey-spicy-canadian-citrus-peel-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-spicy-canadian-citrus-peel-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T10:57:52Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "gooey",
+    "mood": "festive",
+    "technique": "simmer",
+    "primaryIngredient": "chilli",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Citrus Peel",
+    "descriptor": "Gooey Spicy",
+    "dishForm": "Stir-fry"
+  }
+}
