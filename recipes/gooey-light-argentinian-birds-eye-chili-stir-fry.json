@@ -1,0 +1,105 @@
+{
+  "title": "GooeyLight Argentinian BirdsEyeChili Stir-fry",
+  "description": "A rich, gooey, light Argentinean dish featuring spicy birds-eye chilies, served warm and vegan-friendly.",
+  "cuisine": "Argentinean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Peanut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "chopped finely"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "Green bell peppers",
+      "amount": "2 large",
+      "notes": "sliced thinly"
+    },
+    {
+      "name": "Sun-dried tomatoes",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Vegan mozzarella cheese",
+      "amount": "1 block",
+      "notes": "grated"
+    },
+    {
+      "name": "BirdsEye chili flakes",
+      "amount": "1 tablespoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Pomegranate molasses",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1/4 cup",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Heat peanut oil in a wok or large skillet over medium-high heat.",
+    "Add onions, garlic, and green bell peppers; sauté for about 5 minutes until softened.",
+    "Add sun-dried tomatoes and continue to cook for an additional minute.",
+    "Fold in vegan mozzarella cheese and gently stir-fry for another minute.",
+    "Drizzle with pomegranate molasses, add birds-eye chili flakes, and lemon juice. Stir well to combine all ingredients.",
+    "Transfer the dish onto a plate or platter and garnish with sesame seeds if desired.",
+    "Serve hot as a main course."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinean",
+    "stir-fry",
+    "vegan-friendly",
+    "goey",
+    "light"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 15,
+    "carbs": 48,
+    "fat": 30
+  },
+  "slug": "gooey-light-argentinian-birds-eye-chili-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-light-argentinian-birds-eye-chili-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T02:21:31Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "gooey",
+    "mood": "light",
+    "technique": "tandoor",
+    "primaryIngredient": "birds-eye chillies",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "birdsEyeChili",
+    "descriptor": "GooeyLight",
+    "dishForm": "Stir-fry"
+  }
+}
