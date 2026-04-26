@@ -1,0 +1,97 @@
+{
+  "title": "Garlicky Dense Malaysian Shiitake Mushrooms Stir-fry",
+  "description": "A Mediterranean-friendly meal-prep dish featuring shiitake mushrooms simmered with garlic and other aromatic spices to create a dense, flavorful sauce that pairs well with rice or naan bread.",
+  "cuisine": "Malaysian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shiitake mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Wash the shiitake mushrooms and chop them into small pieces.",
+    "Finely mince the garlic cloves, ginger, and roughly chop the tomato paste.",
+    "Heat 2 tablespoons of vegetable oil in a wok or large skillet over medium-high heat. Add minced garlic, crushed red pepper flakes (optional), and sauté for about 1 minute until fragrant.",
+    "Add chopped shiitake mushrooms to the pan and toss with the garlic mixture for approximately 3 minutes until they start to release moisture.",
+    "Pour in tomato paste and stir well for an additional 2-3 minutes allowing it to thicken slightly into a sauce.",
+    "Stir in soy sauce, fish sauce, sesame oil, salt, and pepper. Adjust seasoning to taste with more salt or pepper as needed.",
+    "Let the mixture simmer on low heat for about 10 minutes until most of the liquid has evaporated and the sauce is dense and flavorful.",
+    "Once done, transfer the shiitake mushroom sauce into a container for meal prep or serving directly from the pan. It's best to serve with rice or naan bread.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlicky",
+    "dense",
+    "malaysian",
+    "meal-prep",
+    "mediterranean-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "garlicky-dense-malaysian-shiitake-mushrooms-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-dense-malaysian-shiitake-mushrooms-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T15:05:15Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "dense",
+    "mood": "meal-prep",
+    "technique": "simmer",
+    "primaryIngredient": "shiitake mushrooms",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Shiitake Mushrooms",
+    "descriptor": "Garlicky Dense",
+    "dishForm": "Stir-fry"
+  }
+}
