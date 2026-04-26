@@ -664,6 +664,18 @@
     "shard": "g"
   },
   {
+    "slug": "gooey-adventurous-canadian-mushrooms-crumble",
+    "title": "Gooey Adventurous Canadian Mushrooms Crumble",
+    "tags": [
+      "mushroom-crumble",
+      "fermented-dish",
+      "nut-free"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 45,
+    "shard": "g"
+  },
+  {
     "slug": "gooey-american-carob-crumble",
     "title": "Gooey American Carob Crumble with Ras El Hanout",
     "tags": [

@@ -1,0 +1,93 @@
+{
+  "title": "Gooey Adventurous Canadian Mushrooms Crumble",
+  "description": "A realistic and nutritious recipe for a gooey dish featuring fermented mushrooms with an adventurous twist, suitable for nut-free diets.",
+  "cuisine": "Canadian",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Almond milk",
+      "amount": "½ cup"
+    },
+    {
+      "name": "Agar agar powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Flax seeds meal",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Soy sauce or tamari",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "½ teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "¼ teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "a few grinds"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Clean and slice mushrooms into small pieces.",
+    "In a mixing bowl, combine almond milk, agar agar powder, flax seeds meal, coconut oil, soy sauce or tamari, garlic powder, paprika, salt, and pepper. Mix until well combined.",
+    "Add sliced mushrooms to the mushroom mixture and stir gently until coated evenly with the spice mixture.",
+    "Transfer the mixture into a greased dish and bake for 30 minutes in preheated oven.",
+    "Remove from oven and let it cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "mushroom-crumble",
+    "fermented-dish",
+    "nut-free"
+  ],
+  "nutrition": {
+    "calories": 100,
+    "protein": 5,
+    "carbs": 8,
+    "fat": 3
+  },
+  "slug": "gooey-adventurous-canadian-mushrooms-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-adventurous-canadian-mushrooms-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T22:59:31Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "gooey",
+    "mood": "adventurous",
+    "technique": "reduce",
+    "primaryIngredient": "mushrooms",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Mushrooms",
+    "descriptor": "Fermented Gooey Adventurous",
+    "dishForm": "Crumble"
+  }
+}
