@@ -304,6 +304,22 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-gooey-norwegian-soya-milk-stir-fry",
+    "title": "Garlicky Gooey Norwegian Soya Milk Stir-fry",
+    "tags": [
+      "garlicky",
+      "gooey",
+      "adventurous",
+      "norwegian",
+      "soya-milk",
+      "stir-fry",
+      "gluten-free"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-juicy-onion-stir-fry",
     "title": "Garlicky Juicy Onion Stir-fry",
     "tags": [

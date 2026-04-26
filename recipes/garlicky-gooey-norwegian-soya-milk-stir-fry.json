@@ -1,0 +1,102 @@
+{
+  "title": "Garlicky Gooey Norwegian Soya Milk Stir-fry",
+  "description": "This adventurous dish combines the savory notes of garlic with a gooey texture from soya milk in a gluten-free-friendly meal that's perfect for breakfast, lunch, or dinner.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Soymilk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "6-8",
+      "notes": "finely minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Scallions (green onions)",
+      "amount": "6-8, finely chopped"
+    },
+    {
+      "name": "Soybean sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cucumber slices",
+      "amount": "4 oz"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium, julienned"
+    },
+    {
+      "name": "Peppers (red or yellow)",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "Mushrooms (shiitake), sliced",
+      "amount": "3 oz"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add minced garlic and cook for about 1 minute until fragrant, stirring frequently to prevent burning.",
+    "Pour soymilk into the pan with the garlic. Stir continuously to avoid curdling.",
+    "Gradually whisk in soy sauce and cornstarch mixture until a thick sauce forms. Reduce heat to low and simmer for another 2-3 minutes.",
+    "Garnish with scallions, add sprouts and vegetables last when reheating the soymilk mixture.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlicky",
+    "gooey",
+    "adventurous",
+    "norwegian",
+    "soya-milk",
+    "stir-fry",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 50,
+    "fat": 16
+  },
+  "slug": "garlicky-gooey-norwegian-soya-milk-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-gooey-norwegian-soya-milk-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T12:17:02Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "gooey",
+    "mood": "adventurous",
+    "technique": "blanch",
+    "primaryIngredient": "soya milk",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Soya Milk",
+    "descriptor": "Garlicky Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
