@@ -662,6 +662,19 @@
     "shard": "g"
   },
   {
+    "slug": "gooey-festive-spanish-beef-stir-fry",
+    "title": "Gooey Festive Spanish Beef Stir-fry",
+    "tags": [
+      "festive-spanish",
+      "fermented-beef",
+      "goosey-stir-fry",
+      "sous-vide-friendly"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 50,
+    "shard": "g"
+  },
+  {
     "slug": "gooey-light-argentinian-birds-eye-chili-stir-fry",
     "title": "GooeyLight Argentinian BirdsEyeChili Stir-fry",
     "tags": [

@@ -1,0 +1,83 @@
+{
+  "title": "Gooey Festive Spanish Beef Stir-fry",
+  "description": "A gluten-free-friendly fermented and gooey festive dish featuring beef cutlets prepared with sous-vide for an extra tender texture.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Cutlet",
+      "amount": "200g",
+      "notes": "Marinated with fermented ingredients for depth of flavor"
+    },
+    {
+      "Garlic Clove(s)": "4",
+      "notes": "For added garliciness"
+    },
+    {
+      "Soy Sauce (gluten-free) Bottle": "15ml",
+      "notes": "Used as a base for the marinade and sauce"
+    },
+    {
+      "Olive Oil": "2tbsp",
+      "notes": "For browning and stir-frying"
+    },
+    {
+      "Green Onions (optional)": "2",
+      "notes": "For garnish if desired"
+    },
+    {
+      "Fresh Basil Leaves": "10g",
+      "notes": "To add a pop of freshness to the dish"
+    },
+    {
+      "Sour Cream Bottle": "3tbsp",
+      "notes": "Used as a sauce component for added richness and thickness"
+    }
+  ],
+  "instructions": [
+    "Preheat your sous-vide machine to 60°C (140°F). Season the beef cutlets with salt and pepper, then marinate them in soy sauce and fermented ingredients overnight.",
+    "Once you're ready to cook, remove the beef from the fridge. Preheat a skillet or wok over medium-high heat, add olive oil and let it get hot.",
+    "Add the seasoned beef cutlets and sear on both sides until golden brown and cooked through (about 3-4 minutes per side).",
+    "Remove the beef from the skillet and set aside. In the same pan, sauté minced garlic until fragrant, then add soy sauce and sour cream to create a rich sauce.",
+    "Return the seared beef cutlets to the skillet along with any accumulated juices for a more flavorful dish. Toss everything together and let it cook through while stirring occasionally (about 5 minutes).",
+    "Garnish with green onions and fresh basil leaves before serving hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "festive-spanish",
+    "fermented-beef",
+    "goosey-stir-fry",
+    "sous-vide-friendly"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 39.8,
+    "carbs": 14,
+    "fat": 26
+  },
+  "slug": "gooey-festive-spanish-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-festive-spanish-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T08:07:44Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "gooey",
+    "mood": "festive",
+    "technique": "sous-vide",
+    "primaryIngredient": "beef cutlet",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Beef",
+    "descriptor": "Gooey Festive",
+    "dishForm": "Stir-fry"
+  }
+}
