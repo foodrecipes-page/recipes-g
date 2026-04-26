@@ -1,0 +1,95 @@
+{
+  "title": "Gooey Comfortable Russian Flaxseed Stir-fry",
+  "description": "A floral, gooey, comforting Russian dish featuring Chinese sesame sauce, caramelized flaxseeds, and a dairy-free-friendly twist.",
+  "cuisine": "Russian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Chinese Sesame Sauce",
+      "amount": "1/4 cup",
+      "notes": "Ensure it's dairy-free if needed."
+    },
+    {
+      "name": "Flaxseeds",
+      "amount": "2 tablespoons",
+      "notes": "Soaked in water for 30 minutes before cooking to improve texture and flavor."
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Crushed finely for depth of flavor."
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "Chopped finely, used for sweetness and base flavor."
+    },
+    {
+      "name": "Carrots",
+      "amount": "3",
+      "notes": "Sliced thinly for quick cooking time."
+    },
+    {
+      "name": "Pork Slices (or substitute with tofu or tempeh)",
+      "amount": "8 oz",
+      "notes": "Cooked to golden brown, ensuring no raw pork in the dish."
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon",
+      "notes": "Optional for added umami and texture."
+    },
+    {
+      "name": "Water",
+      "amount": "2 tablespoons",
+      "notes": "To help caramelize the flaxseeds and onions."
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large skillet over medium-high heat. Add a small amount of olive oil if preferred, then add flaxseeds, onions, and carrots. Stir-fry until the onions are translucent and the vegetables start to soften.",
+    "Add minced garlic and cook for another minute until fragrant but not browned.",
+    "Mix in pork slices (or substitute) along with any optional soy sauce, ensuring they’re evenly coated by the sauces.",
+    "In a small bowl, mix Chinese sesame sauce with water. Slowly pour this mixture into the wok while continuously stirring to prevent sticking and create a glossy coating on the vegetables and meats.",
+    "Continue cooking until all ingredients are heated through and nicely caramelized, adjusting seasonings as necessary to taste.",
+    "Serve hot over a bed of steamed rice or noodles for an authentic Russian experience."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flaxseed",
+    "caramelized",
+    "comfortable",
+    "dairy-free",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 25,
+    "carbs": 18,
+    "fat": 12
+  },
+  "slug": "gooey-comfortable-russian-flaxseed-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-comfortable-russian-flaxseed-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T01:37:58Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "gooey",
+    "mood": "comforting",
+    "technique": "caramelize",
+    "primaryIngredient": "chinese sesame sauce",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Flaxseed",
+    "descriptor": "Gooey Comfortable",
+    "dishForm": "Stir-fry"
+  }
+}
