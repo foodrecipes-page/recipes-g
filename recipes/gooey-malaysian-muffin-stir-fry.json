@@ -1,0 +1,85 @@
+{
+  "title": "Earthy Gooey Muffin Stir-fry",
+  "description": "A low-calorie-friendly, earthy and gooey one-pot Malaysian dish featuring smoked muffins in a savory sauce.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Smoked Muffin Pieces",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Chopped Green Onions",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chili Peppers, chopped (optional)",
+      "amount": "1-2 pieces"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a non-stick pan over medium heat.",
+    "Add garlic and chili peppers (if using) to sauté for about 1 minute until fragrant.",
+    "Fold in smoked muffin pieces, green onions, soy sauce, and lemon juice. Stir well to combine.",
+    "Pour water into the pan and bring to a simmer.",
+    "Simmer the mixture for about 5 minutes or until the liquid has reduced by half.",
+    "Turn off heat and let it sit for another minute before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 3,
+  "difficulty": "easy",
+  "tags": [
+    "goey",
+    "malaysian",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 95,
+    "protein": 4,
+    "carbs": 16,
+    "fat": 2
+  },
+  "slug": "gooey-malaysian-muffin-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-malaysian-muffin-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T17:44:46Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "gooey",
+    "mood": "one-pot",
+    "technique": "smoke",
+    "primaryIngredient": "muffins",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Muffin",
+    "descriptor": "Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
