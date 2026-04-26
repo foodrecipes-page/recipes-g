@@ -1,0 +1,83 @@
+{
+  "title": "Gooey Australian Parmigiano-Reggiano Stir-fry",
+  "description": "This halal-friendly, gooey post-workout dish is a fermented delicacy featuring Parmigiano-Reggiano cheese that’s slow-cooked to perfection.",
+  "cuisine": "Australian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup halal-friendly stir-fry vegetables (e.g., carrots, bell peppers)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons soy sauce",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon sesame oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup water",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup grated Parmigiano-Reggiano cheese (halal-friendly)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Pinch of salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your wok or frying pan over medium-high heat.",
+    "Add the stir-fry vegetables to the pan, tossing in a tablespoon of sesame oil for about 5 minutes until they are slightly softened.",
+    "Drain any excess water from the vegetable mixture and add it back into the pan.",
+    "Pour in the soy sauce and water, stirring continuously to prevent sticking. Reduce heat to low-medium once combined.",
+    "Add grated Parmigiano-Reggiano cheese and salt and pepper to taste. Stir-fry for an additional 3 minutes until the cheese is melted and cheese sauce forms around the vegetables.",
+    "Serve hot as a side dish or appetizer, garnished with extra sesame seeds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "halal-friendly",
+    "gooey",
+    "post-workout",
+    "fermented",
+    "australian"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 15,
+    "carbs": 13,
+    "fat": 8
+  },
+  "slug": "gooey-australian-parmigiano-reggiano-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-australian-parmigiano-reggiano-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T14:38:45Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "gooey",
+    "mood": "post-workout",
+    "technique": "slow-cook",
+    "primaryIngredient": "parmigiano-reggiano",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "parmigiano-reggiano",
+    "descriptor": "Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
