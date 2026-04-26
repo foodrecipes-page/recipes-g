@@ -1,0 +1,72 @@
+{
+  "title": "Grilled Tangy Tender Beef Brisket Stir-fry",
+  "description": "A lazy-sunday comfort food dish featuring tender beef brisket seasoned with tangy spices and grilled to perfection in a Paleo-friendly manner.",
+  "cuisine": "Turkish",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "1 lb"
+    },
+    {
+      "name": "aubergine (eggplant)",
+      "amount": "2 medium"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "bell pepper, green",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Preheat your grill to medium-high heat.",
+    "Season the beef brisket with salt and a mix of paprika, garlic powder, lemon zest, and a touch of apple cider vinegar. Marinate for at least an hour or up to overnight if desired.",
+    "Slice both eggplants lengthwise into rounds. Thinly slice onions and bell peppers.",
+    "Place all vegetables on the preheated grill until tender and lightly charred, about 5-7 minutes per side.",
+    "Remove from heat and place grilled vegetables onto a serving platter or individual plates.",
+    "Slice the beef brisket against the grain into thin slices. Drizzle with melted butter if desired for added richness.",
+    "Mix in some fresh herbs like parsley or thyme, depending on your preference, to garnish before serving.",
+    "Serve the stir-fried grilled vegetables and sliced brisket together as a Paleo-friendly main dish."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "stir-fry",
+    "beef",
+    "aubergine"
+  ],
+  "nutrition": {
+    "calories": 317,
+    "protein": 28,
+    "carbs": 19,
+    "fat": 14
+  },
+  "slug": "grilled-tangy-tender-beef-brisket-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/grilled-tangy-tender-beef-brisket-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T03:35:56Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "tender",
+    "mood": "lazy-sunday",
+    "technique": "grill",
+    "primaryIngredient": "beef brisket",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "beef brisket",
+    "descriptor": "Grilled",
+    "dishForm": "Stir-fry"
+  }
+}
