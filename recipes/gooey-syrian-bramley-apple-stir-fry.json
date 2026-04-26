@@ -1,0 +1,79 @@
+{
+  "title": "Floral Gooey Syrian Bramley Apple Stir-fry",
+  "description": "A floral, gooey one-pot Syrian dish featuring bramley apples that are gently roasted and stir-fried until they reach a perfect caramelized state. This kosher-friendly meal is both appetizing and comforting.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 medium Bramley apple",
+      "amount": "1",
+      "notes": "Washed and cored"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "2Tbsp",
+      "notes": "Olive oil for stir-frying"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "2",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "1/4 teaspoon ground cumin",
+      "amount": "1/4tsp"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "to taste"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "1L"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Place the Bramley apple in a baking dish with the olive oil, cumin, salt, pepper, and lemon juice. Toss gently until the apples are coated evenly.",
+    "Roast in the preheated oven for about 25-30 minutes or until the apples are tender but still slightly firm, turning once during cooking to ensure even browning on both sides.",
+    "While the apples are roasting, heat a bit of olive oil in a pan over medium-high heat. Add the garlic and cook for about 1 minute until fragrant but not browned.",
+    "Add the roasted Bramley apple slices into the pan with the garlic to stir-fry for an additional 2-3 minutes, allowing the apples to reabsorb some of their caramelized juices and become gooey.",
+    "Serve warm, garnished with a bit more lemon zest if desired."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 40,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "caramelized",
+    "floral",
+    "syrian"
+  ],
+  "nutrition": {
+    "calories": 238,
+    "protein": 3,
+    "carbs": 19,
+    "fat": 10
+  },
+  "slug": "gooey-syrian-bramley-apple-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-syrian-bramley-apple-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T11:34:10Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "gooey",
+    "mood": "one-pot",
+    "technique": "broil",
+    "primaryIngredient": "bramley apples",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Bramley Apples",
+    "descriptor": "Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
