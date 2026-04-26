@@ -676,6 +676,19 @@
     "shard": "g"
   },
   {
+    "slug": "gooey-nut-algerian-stir-fry",
+    "title": "Gooey Nut Algerian Stir-fry",
+    "tags": [
+      "algerian",
+      "nutty",
+      "gooey",
+      "vegetarian"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "gooey-nutty-italian-prune-crumble",
     "title": "Gooey Nutty Italian Prune Crumble",
     "tags": [

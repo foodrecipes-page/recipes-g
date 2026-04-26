@@ -1,0 +1,102 @@
+{
+  "title": "Gooey Nut Algerian Stir-fry",
+  "description": "A comforting and nutty vegetarian-friendly dish featuring ginger paste and fold for a delightful algerian flavor profile.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ginger paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pistachios",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4 cloves, minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium-high heat.",
+    "Add onion and garlic, sauté for about 3 minutes until fragrant but not browned.",
+    "Stir in ginger paste and tomato paste, cook for another minute until paste is slightly thickened.",
+    "Pour in vegetable broth, lemon juice, salt, turmeric powder, cumin seeds, and coriander powder. Bring to a simmer.",
+    "Gently fold in the chopped pistachios. Let them cook for 2-3 minutes until heated through and slightly golden.",
+    "Serve hot with crusty bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "nutty",
+    "gooey",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 407,
+    "protein": 10.9,
+    "carbs": 56.3,
+    "fat": 18.2
+  },
+  "slug": "gooey-nut-algerian-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-nut-algerian-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T03:51:21Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "gooey",
+    "mood": "comforting",
+    "technique": "fold",
+    "primaryIngredient": "ginger paste",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Nut",
+    "descriptor": "Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
