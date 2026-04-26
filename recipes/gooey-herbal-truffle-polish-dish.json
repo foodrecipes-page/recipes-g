@@ -1,0 +1,80 @@
+{
+  "title": "Gooey Herbal Truffle Polish Dish",
+  "description": "A festive, herbaceous dish with a rich, gooey texture infused with truffle oil, perfect for a special occasion.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegan",
+    "low-carb"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Almond Flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Maple Syrup",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Fresh Herbs (Chives, Parsley)",
+      "amount": "to taste"
+    },
+    {
+      "name": "Truffle Oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F.",
+    "In a mixing bowl, combine almond flour and coconut oil until well incorporated.",
+    "Gradually add maple syrup while continuously stirring to form a smooth paste.",
+    "Fold in fresh herbs and truffle oil; season with salt.",
+    "Transfer mixture into an 8-inch square baking dish.",
+    "Bake for about 10-12 minutes or until golden brown and set.",
+    "Remove from oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "low-carb",
+    "dessert",
+    "festive"
+  ],
+  "nutrition": {
+    "calories": 75,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 4
+  },
+  "slug": "gooey-herbal-truffle-polish-dish",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-herbal-truffle-polish-dish",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T17:35:02Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "gooey",
+    "mood": "festive",
+    "technique": "saute",
+    "primaryIngredient": "truffle oil",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Herbal",
+    "mainIngredient": "Truffle",
+    "descriptor": "Gooey",
+    "dishForm": "Polish Dish"
+  }
+}
