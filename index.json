@@ -986,6 +986,19 @@
     "shard": "g"
   },
   {
+    "slug": "grilled-crispy-peruvian-chicken-wings",
+    "title": "Grilled Crispy Peruvian Chicken Wings",
+    "tags": [
+      "peruvian",
+      "grilled",
+      "crispy",
+      "low-fat"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 40,
+    "shard": "g"
+  },
+  {
     "slug": "grilled-juicy-salty-chestnut-stir-fry",
     "title": "Grilled Juicy Salty Chestnut Stir-fry",
     "tags": [

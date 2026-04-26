@@ -1,0 +1,94 @@
+{
+  "title": "Grilled Crispy Peruvian Chicken Wings",
+  "description": "Rich, crisp, and light, this low-fat-friendly Peruvian dish features juicy chicken wings grilled to perfection.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chicken Wings",
+      "amount": "1 pound (450g)",
+      "notes": "Washed and pat dry"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "High-heat variety"
+    },
+    {
+      "name": "Cumin Powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": "Fresh squeezed"
+    },
+    {
+      "name": "Oregano Powder",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (around 375°F or 190°C).",
+    "In a shallow dish, combine olive oil, cumin powder, garlic powder, salt, black pepper, and lime juice. Toss chicken wings in the marinade for at least 20 minutes.",
+    "Remove from marinade and lightly dust with oregano powder.",
+    "Place chicken wings on preheated grill skin side down. Cook until crispy and golden brown (around 8-10 minutes).",
+    "Flip to the other side and cook another 5-7 minutes or until fully cooked through.",
+    "Serve hot as a low-fat-friendly snack."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "grilled",
+    "crispy",
+    "low-fat"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 20,
+    "carbs": 4,
+    "fat": 6
+  },
+  "slug": "grilled-crispy-peruvian-chicken-wings",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/grilled-crispy-peruvian-chicken-wings",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T08:11:10Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crisp",
+    "mood": "light",
+    "technique": "grill",
+    "primaryIngredient": "chicken wings",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Grilled",
+    "dishForm": "Wings"
+  }
+}
