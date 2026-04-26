@@ -1,0 +1,85 @@
+{
+  "title": "Gooey American Garlic Sumac Stir-fry",
+  "description": "A delicious and quick weeknight dish featuring a gooey garlic sumac sauce that's perfect for the whole30 diet.",
+  "cuisine": "American",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb ground beef",
+      "amount": "1 lb",
+      "notes": "ensure it is lean and low in fat"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "1/4 cup sumac (aromatic berries)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "2 tablespoons soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "1/4 teaspoon cayenne pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "1 bell pepper, sliced",
+      "amount": "1 medium"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a skillet over medium-high heat.",
+    "Add minced garlic and cook for about 30 seconds until fragrant.",
+    "Add ground beef to the skillet and cook until browned, breaking it up with a spoon as needed.",
+    "Deglaze the skillet with soy sauce, scraping any browned bits from the bottom of the pan.",
+    "Stir in sumac and cayenne pepper. Cook for another 2-3 minutes or until all ingredients are evenly mixed.",
+    "Add sliced bell pepper to the skillet, reduce heat to medium and cook for an additional 5-7 minutes or until peppers are tender.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "goody",
+    "american",
+    "garlic",
+    "sumac",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 4,
+    "fat": 9
+  },
+  "slug": "gooey-american-garlic-sumac-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-american-garlic-sumac-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T19:48:24Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "gooey",
+    "mood": "weeknight",
+    "technique": "deglaze",
+    "primaryIngredient": "sumac",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "garlic",
+    "descriptor": "Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
