@@ -1,0 +1,87 @@
+{
+  "title": "Gooey Kenyan Garlic Stir-fry",
+  "description": "A savory and aromatic one-pot dish combining garlic with pineapple for a gooey, garlicky flavor profile that's both tasty and jain-friendly.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pineapple",
+      "amount": "1 cup sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Thyme",
+      "amount": "1/4 teaspoon (optional)"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "200ml"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add the sliced onion and cook until translucent, about 3-4 minutes.",
+    "Stir in minced garlic and paprika. Cook for an additional minute.",
+    "Pour in tomato paste and stir to combine well with onions and garlic.",
+    "Add pineapple and coconut milk. Stir until fully combined, bringing the mixture to a boil.",
+    "Reduce heat to medium-low, cover skillet, and let simmer for about 10-15 minutes or until thickened and glossy.",
+    "Season with salt to taste if needed. Serve hot as is or garnish with fresh herbs like cilantro or parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "garlic",
+    "pineapple",
+    "kenyan"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 6
+  },
+  "slug": "gooey-kenyan-garlic-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-kenyan-garlic-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T11:29:02Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "gooey",
+    "mood": "one-pot",
+    "technique": "stir-fry",
+    "primaryIngredient": "pineapple",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Garlic",
+    "descriptor": "Gooey",
+    "dishForm": "Stir-fry"
+  }
+}

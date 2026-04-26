@@ -675,6 +675,19 @@
     "shard": "g"
   },
   {
+    "slug": "gooey-kenyan-garlic-stir-fry",
+    "title": "Gooey Kenyan Garlic Stir-fry",
+    "tags": [
+      "stir-fry",
+      "garlic",
+      "pineapple",
+      "kenyan"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 45,
+    "shard": "g"
+  },
+  {
     "slug": "gooey-light-argentinian-birds-eye-chili-stir-fry",
     "title": "GooeyLight Argentinian BirdsEyeChili Stir-fry",
     "tags": [
