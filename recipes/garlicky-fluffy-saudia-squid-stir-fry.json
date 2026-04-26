@@ -1,0 +1,98 @@
+{
+  "title": "Garlicky Fluffy Saudia Squid Stir-fry",
+  "description": "A delicious and unique twist on the traditional Saudi squid dish featuring a tangy peanut sauce, crispy squid, and a sprinkle of fresh cilantro for an authentic yet modern touch.",
+  "cuisine": "Saudi Arabian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb (450g) super-fresh squid tentacles",
+      "amount": "",
+      "notes": "preferably cut into bite-sized pieces"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "1 small red onion, finely chopped",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "1/4 cup (60ml) soy sauce",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "1 tbsp rice vinegar",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "1 tsp salt",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "2 spring onions, thinly sliced",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "A handful of fresh cilantro, chopped",
+      "amount": "",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Rinse the squid tentacles under cold water and pat them dry with paper towels.",
+    "Season the squid with salt on both sides. Heat a wok or large skillet over medium-high heat, add oil if needed, then place the seasoned squid in the pan. Stir-fry until they turn golden brown, about 5-7 minutes.",
+    "Add minced garlic and red onion to the wok, stir for another minute, allowing them to soften slightly.",
+    "Pour in soy sauce and rice vinegar, reduce the heat to low, then add ground cumin to the sauce. Continue stirring until it thickens into a glaze.",
+    "Remove the squid from the pan and let cool on a plate. Add spring onions to the wok and stir for another minute.",
+    "Gently fold in the cooled squid along with chopped fresh cilantro, ensuring everything is evenly distributed.",
+    "prepTimeMin"
+  ],
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "garlicky",
+    "fluffy",
+    "monsoon",
+    "saudia",
+    "squid"
+  ],
+  "nutrition": {
+    "calories": 258,
+    "protein": 19,
+    "carbs": 17,
+    "fat": 9
+  },
+  "slug": "garlicky-fluffy-saudia-squid-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-fluffy-saudia-squid-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T18:30:29Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "fluffy",
+    "mood": "monsoon",
+    "technique": "fold",
+    "primaryIngredient": "squid",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "Squid",
+    "descriptor": "Garlicky Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
