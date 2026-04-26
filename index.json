@@ -360,6 +360,20 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-light-raw-friendly-egg-noodles-stir-fry",
+    "title": "Garlicky Light Raw-Friendly Egg Noodles Stir-fry",
+    "tags": [
+      "garlicky",
+      "light",
+      "raw-friendly",
+      "egg-noodles",
+      "stir-fry"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 18,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-peruvian-cottage-cheese-stir-fry",
     "title": "Garlicky Peruvian Cottage Cheese Stir-Fry",
     "tags": [

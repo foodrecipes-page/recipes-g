@@ -1,0 +1,75 @@
+{
+  "title": "Garlicky Light Raw-Friendly Egg Noodles Stir-fry",
+  "description": "A brunch-mood Venezuelan dish featuring light and healthy raw-friendly egg noodles with a touch of garlic for a zesty kick.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "raw-friendly",
+    "light"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "1 cup uncooked egg noodles"
+    },
+    {
+      "name": "2 cloves minced garlic"
+    },
+    {
+      "name": "1/4 cup raw sunflower seeds"
+    },
+    {
+      "name": "1/4 cup finely chopped fresh parsley"
+    },
+    {
+      "name": "Pinch of sea salt"
+    },
+    {
+      "name": "Pinch of black pepper"
+    },
+    {
+      "name": "Extra virgin olive oil (for cooking)"
+    }
+  ],
+  "instructions": [
+    "Rinse the egg noodles under cold water and soak them in hot water for about 5 minutes to soften slightly.",
+    "Heat a non-stick skillet over medium-high heat. Add a few drops of extra virgin olive oil, then add the soaked egg noodles. Stir occasionally until they are well-cooked, about 3-4 minutes per side.",
+    "Reduce heat to medium and stir in minced garlic, sunflower seeds, parsley, sea salt, and black pepper. Cook for an additional 1-2 minutes or until heated through.",
+    "Serve hot as a light and refreshing meal for brunch."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlicky",
+    "light",
+    "raw-friendly",
+    "egg-noodles",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 65,
+    "protein": 3,
+    "carbs": 8,
+    "fat": 4
+  },
+  "slug": "garlicky-light-raw-friendly-egg-noodles-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-light-raw-friendly-egg-noodles-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T21:48:26Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "light",
+    "mood": "brunch-mood",
+    "technique": "ferment",
+    "primaryIngredient": "egg noodles",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "egg noodles",
+    "descriptor": "garlicky light raw-friendly",
+    "dishForm": "Stir-fry"
+  }
+}
