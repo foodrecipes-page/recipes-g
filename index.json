@@ -1172,6 +1172,20 @@
     "shard": "g"
   },
   {
+    "slug": "grilled-garlic-japanese-stir-fry",
+    "title": "Grilled Garlic Japanese Stir-fry",
+    "tags": [
+      "garlicky",
+      "crisp",
+      "indulgent",
+      "japanese",
+      "stir-fry"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 30,
+    "shard": "g"
+  },
+  {
     "slug": "grilled-juicy-salty-chestnut-stir-fry",
     "title": "Grilled Juicy Salty Chestnut Stir-fry",
     "tags": [

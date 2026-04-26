@@ -1,0 +1,81 @@
+{
+  "title": "Grilled Garlic Japanese Stir-fry",
+  "description": "A crisp and indulgent dish featuring grilled garlic with frozen peas in a sugar-free-friendly sauce, perfect for adding some Asian flair to your dinner menu.",
+  "cuisine": "Japanese",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Frozen Peas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "6-8 finely chopped"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "4 tablespoons low sodium or omit if sugar-free-friendly"
+    },
+    {
+      "name": "Mirin",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Oyster Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable Oil for Stir-frying",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick skillet over medium-high heat. Add oil and swirl to coat.",
+    "Add frozen peas, garlic powder, green onions, soy sauce, mirin, and oyster sauce. Stir well.",
+    "Grill the mixture for about 5-7 minutes or until all vegetables are heated through and crisp on top.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlicky",
+    "crisp",
+    "indulgent",
+    "japanese",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 310,
+    "protein": 8,
+    "carbs": 24,
+    "fat": 7
+  },
+  "slug": "grilled-garlic-japanese-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/grilled-garlic-japanese-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T21:46:54Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crisp",
+    "mood": "indulgent",
+    "technique": "grill",
+    "primaryIngredient": "frozen peas",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Garlic",
+    "descriptor": "Grilled",
+    "dishForm": "Stir-fry"
+  }
+}
