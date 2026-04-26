@@ -1,0 +1,97 @@
+{
+  "title": "Gluten Free Tangy Creamy Onion Stir-fry",
+  "description": "A comforting Croatian dish featuring gluten-free onion rings, pickled vegetables, and a tangy creamy sauce for a satisfying meal.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten_free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "onion rings",
+      "amount": "1 lb"
+    },
+    {
+      "name": "pickled vegetables",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "white vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "thyme leaves",
+      "amount": "a few"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add onion rings and garlic cloves, season with salt and pepper.",
+    "Cook until onions turn translucent, about 5 minutes.",
+    "Mix together white vinegar, sugar, Dijon mustard, mayonnaise, thyme leaves, and pepper to create the sauce. Pour it over the cooked onions.",
+    "Stir well to combine all ingredients into a creamy sauce. Serve hot with pickled vegetables on top.",
+    "Garnish with additional fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten_free_onion_stir_fry",
+    "comfort_cooking",
+    "tangy_yum"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 7
+  },
+  "slug": "gluten-free-tangy-creamy-onion-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gluten-free-tangy-creamy-onion-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T21:16:17Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "creamy",
+    "mood": "comforting",
+    "technique": "pickle",
+    "primaryIngredient": "onion rings",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Onion",
+    "descriptor": "Tangy Creamy Gluten-Free",
+    "dishForm": "Stir-fry"
+  }
+}
