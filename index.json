@@ -878,6 +878,20 @@
     "shard": "g"
   },
   {
+    "slug": "gooey-spicy-american-carrot-stir-fry",
+    "title": "Gooey Spicy American Carrot Stir-fry",
+    "tags": [
+      "gooey",
+      "spicy",
+      "adventurous",
+      "american",
+      "low-carb-friendly"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 30,
+    "shard": "g"
+  },
+  {
     "slug": "gooey-spicy-canadian-citrus-peel-stir-fry",
     "title": "Gooey Spicy Canadian Citrus Peel Stir-fry",
     "tags": [

@@ -1,0 +1,110 @@
+{
+  "title": "Gooey Spicy American Carrot Stir-fry",
+  "description": "An adventurous low-carb-friendly dish featuring spicy and gooey flavors with the addition of passion fruit pulp, perfect for those who enjoy a bit of adventure in their meals.",
+  "cuisine": "American",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup shredded carrots",
+      "amount": "",
+      "notes": "Use baby carrots or julienned carrots for easy chopping"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "1/4 cup finely chopped onion",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "1 tbsp minced garlic",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "1/2 tsp ground cumin",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "1/2 tsp ground coriander",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "1/4 tsp cayenne pepper",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "3 passion fruit pulp (from 2 medium-sized fresh passion fruits)",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "1 tbsp honey or agave nectar (optional)",
+      "amount": "",
+      "notes": "To sweeten and reduce spice intensity, adjust to taste"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Chop the carrots into small pieces and mix them with olive oil, salt, cumin, coriander, and cayenne pepper. Spread evenly on a baking sheet lined with parchment paper.",
+    "Bake for about 20 minutes until golden brown and slightly caramelized.",
+    "In a large skillet over medium heat, sauté the chopped onions and garlic in olive oil until soft and translucent.",
+    "Stir in the passion fruit pulp, honey (if using), lime juice, salt to taste, and reserved roasted carrots. Mix well and cook for another 5-7 minutes or until heated through and the mixture is glossy and gooey.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gooey",
+    "spicy",
+    "adventurous",
+    "american",
+    "low-carb-friendly"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 3,
+    "carbs": 7,
+    "fat": 14
+  },
+  "slug": "gooey-spicy-american-carrot-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-spicy-american-carrot-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T21:31:36Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "gooey",
+    "mood": "adventurous",
+    "technique": "slow-cook",
+    "primaryIngredient": "passion fruit pulp",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Carrot",
+    "descriptor": "Gooey Spicy",
+    "dishForm": "Stir-fry"
+  }
+}
