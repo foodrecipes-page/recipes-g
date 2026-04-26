@@ -1,0 +1,88 @@
+{
+  "title": "Green Peppered Brazilian Peppers Stir-fry",
+  "description": "A fresh and fluffy vegetarian-friendly dish featuring green cardamom pods for a touch of sophistication in every bite.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green bell peppers",
+      "amount": "4"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4, minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "green cardamom pods",
+      "amount": "6, crushed"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a wok or large skillet over medium-high heat.",
+    "Add minced garlic and sauté until fragrant, about 30 seconds.",
+    "Add bell peppers, green cardamom pods, soy sauce, vinegar, sugar, salt, and stir well to combine all ingredients.",
+    "Cover and reduce heat to low. Cook for about 10 minutes or until peppers are tender but still crisp.",
+    "Remove from heat, sprinkle with sesame seeds before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian-friendly",
+    "fluffy-peppers",
+    "brazilian-vegan"
+  ],
+  "nutrition": {
+    "calories": 261,
+    "protein": 5,
+    "carbs": 38,
+    "fat": 9
+  },
+  "slug": "green-peppered-brazilian-peppers-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/green-peppered-brazilian-peppers-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T07:10:16Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "fluffy",
+    "mood": "show-off",
+    "technique": "saute",
+    "primaryIngredient": "green cardamom pods",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "pepper",
+    "descriptor": "Green Peppered",
+    "dishForm": "Stir-fry"
+  }
+}
