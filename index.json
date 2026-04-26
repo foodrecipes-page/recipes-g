@@ -606,6 +606,19 @@
     "shard": "g"
   },
   {
+    "slug": "gooey-british-gluten-free-quinoa-stir-fry",
+    "title": "Gooey British Gluten-Free Quinoa Stir-fry",
+    "tags": [
+      "quinoa",
+      "stir-fry",
+      "british",
+      "gluten-free"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "gooey-citrus-mediterranean-crumble",
     "title": "Gooey Citrus Mediterranean Crumble",
     "tags": [

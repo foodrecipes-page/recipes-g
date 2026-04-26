@@ -1,0 +1,89 @@
+{
+  "title": "Gooey British Gluten-Free Quinoa Stir-fry",
+  "description": "A fresh and energizing dish featuring a red wine jelly base, gluten-free quinoa, and other flavorful ingredients to create a unique and delicious meal.",
+  "cuisine": "British",
+  "diet": [
+    "gluten-free",
+    "alcohol-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "celery stalks",
+      "amount": "2 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 large",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "red wine jelly",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2, minced"
+    },
+    {
+      "name": "bell pepper (any color)",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C). Rinse quinoa under cold water and drain well.",
+    "In a saucepan, bring quinoa and water or broth to a boil. Reduce heat, cover, and simmer for about 18 minutes until liquid is absorbed. Let it cool completely before using.",
+    "Heat olive oil in a wok over medium-high heat. Add chopped celery, onion, and bell pepper; sauté for about 5 minutes until soft.",
+    "Stir in minced garlic, tomato sauce, red wine jelly, and cooked quinoa. Bring to a simmer, stirring occasionally.",
+    "Serve hot as a warm appetizer or side dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "quinoa",
+    "stir-fry",
+    "british",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 9,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "gooey-british-gluten-free-quinoa-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-british-gluten-free-quinoa-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T03:01:35Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "gooey",
+    "mood": "energizing",
+    "technique": "stir-fry",
+    "primaryIngredient": "red wine jelly",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Gluten-Free Quinoa",
+    "descriptor": "Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
