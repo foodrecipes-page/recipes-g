@@ -1026,6 +1026,19 @@
     "shard": "g"
   },
   {
+    "slug": "grilled-teff-ethiopian-stir-fry",
+    "title": "Grilled Teff Ethiopian Stir-fry",
+    "tags": [
+      "grilled-teff",
+      "ethiopian-stir-fry",
+      "vegan-friendly",
+      "low-sugar"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "gruyere-kale-saute",
     "title": "Gruyère Kale Saute",
     "tags": [

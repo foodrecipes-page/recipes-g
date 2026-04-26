@@ -1,0 +1,85 @@
+{
+  "title": "Grilled Teff Ethiopian Stir-fry",
+  "description": "An earthy and velvety comfort dish featuring stout in a sugar-free-friendly recipe.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup teff flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "2 cups water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "1/4 teaspoon salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "2 Tbsp"
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": "small"
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "1 bell pepper, any color, diced",
+      "amount": "medium"
+    },
+    {
+      "name": "2 cups collard greens, roughly chopped (or spinach)",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Combine teff flour and water in a large bowl until smooth. Add salt and mix well.",
+    "In a separate pan over medium-high heat, heat olive oil then sauté onion and garlic for about 3 minutes.",
+    "Add bell pepper and cook for an additional minute. Incorporate collard greens and continue cooking for another 2-3 minutes or until tender.",
+    "Gradually add teff mixture to the vegetables in the pan, stirring constantly to prevent lumps and achieving a creamy texture.",
+    "Spoon onto serving plates and place on a grill grate over medium heat. Cook until golden brown and crispy on top (about 5 minutes)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-teff",
+    "ethiopian-stir-fry",
+    "vegan-friendly",
+    "low-sugar"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 49,
+    "fat": 20
+  },
+  "slug": "grilled-teff-ethiopian-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/grilled-teff-ethiopian-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T08:23:10Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "velvety",
+    "mood": "comforting",
+    "technique": "grill",
+    "primaryIngredient": "stout",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Teff",
+    "descriptor": "Grilled",
+    "dishForm": "Stir-fry"
+  }
+}
