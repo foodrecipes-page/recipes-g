@@ -1,0 +1,103 @@
+{
+  "title": "Grilled Norwegian Red Chilis Stir-fry",
+  "description": "This earthy, velvety Norwegian dish features grilled dried red chilis in a rich, savory sauce that's perfect for warming up on chilly evenings.",
+  "cuisine": "Norwegian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dried Red Chilis",
+      "amount": "1 cup",
+      "notes": "De-stemmed and de-seeded"
+    },
+    {
+      "name": "Kosher Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3-4",
+      "notes": "Minced and lightly sautéed in oil before adding chilis"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Tomato Sauce or Tomato Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy Sauce (Kosher)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Coriander Powder",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Combine chilis, salt, and oil in a bowl. Mix well until the chilis are evenly coated with the mixture.",
+    "Grill the chilis for about 3-5 minutes on each side or until lightly charred, keeping an eye on them as they can quickly burn if left under too much heat.",
+    "While grilling the chilis, prepare a pan. Heat oil in it and add minced garlic and onion; sauté gently until soft.",
+    "Add grilled chilis to the pan with the garlic-onion mixture. Stir-fry for about 2 minutes, making sure not to burn them.",
+    "Stir in tomato sauce or paste, soy sauce, water, cumin seeds, and coriander powder. Bring it to a simmer; keep stirring until the sauce thickens slightly.",
+    "Serve hot over steamed rice or noodles as a side dish or on its own for a hearty meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-recipe",
+    "norwegian-dish",
+    "stir-fry",
+    "kosher-friendly"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 8,
+    "carbs": 25,
+    "fat": 9
+  },
+  "slug": "grilled-norwedyan-red-chilis-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/grilled-norwedyan-red-chilis-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T14:16:55Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "velvety",
+    "mood": "cozy",
+    "technique": "grill",
+    "primaryIngredient": "dried red chillies",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "red chilis",
+    "descriptor": "grilled",
+    "dishForm": "Stir-fry"
+  }
+}

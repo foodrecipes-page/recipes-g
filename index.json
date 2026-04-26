@@ -1079,6 +1079,19 @@
     "shard": "g"
   },
   {
+    "slug": "grilled-norwedyan-red-chilis-stir-fry",
+    "title": "Grilled Norwegian Red Chilis Stir-fry",
+    "tags": [
+      "grilled-recipe",
+      "norwegian-dish",
+      "stir-fry",
+      "kosher-friendly"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "grilled-tangy-tender-beef-brisket-stir-fry",
     "title": "Grilled Tangy Tender Beef Brisket Stir-fry",
     "tags": [
