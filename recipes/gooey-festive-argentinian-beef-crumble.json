@@ -1,0 +1,85 @@
+{
+  "title": "Gooey Festive Argentinian Beef Crumble",
+  "description": "A sweet and gooey festive beef crumble dish with garlic granules that is egg-free-friendly.",
+  "cuisine": "Argentine",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "2 cups ground sirloin",
+      "amount": "cups",
+      "notes": "ensure it's finely ground"
+    },
+    {
+      "name": "1/4 cup granulated sugar",
+      "amount": "cup"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juice of 1 lemon"
+    },
+    {
+      "name": "2 tablespoons honey or maple syrup",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "3 cloves garlic, crushed and minced finely",
+      "amount": "cloves"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "1/4 cup all-purpose flour",
+      "amount": "cup"
+    },
+    {
+      "name": "1 tablespoon butter",
+      "amount": "tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a bowl, mix ground sirloin with lemon juice and minced garlic. Add sugar, honey/syrup, salt, flour, and butter; stir until well combined.",
+    "Transfer mixture onto an oiled baking sheet and bake for 20-25 minutes or until golden brown on top.",
+    "Serve warm as a dessert or snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentine",
+    "sweet",
+    "festive",
+    "goowy",
+    "beef",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 34,
+    "fat": 10
+  },
+  "slug": "gooey-festive-argentinian-beef-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-festive-argentinian-beef-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T05:58:40Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "gooey",
+    "mood": "festive",
+    "technique": "reduce",
+    "primaryIngredient": "garlic granules",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Beef",
+    "descriptor": "Gooey Festive",
+    "dishForm": "Crumble"
+  }
+}
