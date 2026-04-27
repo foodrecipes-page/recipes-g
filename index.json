@@ -931,6 +931,20 @@
     "shard": "g"
   },
   {
+    "slug": "gooey-chinese-all-purpose-flour-crumble",
+    "title": "Gooey Chinese All Purpose Flour Crumble",
+    "tags": [
+      "goody",
+      "flour",
+      "crumble",
+      "cantonese",
+      "grillable"
+    ],
+    "cuisine": "Cantonese",
+    "totalTimeMin": 20,
+    "shard": "g"
+  },
+  {
     "slug": "gooey-citrus-mediterranean-crumble",
     "title": "Gooey Citrus Mediterranean Crumble",
     "tags": [

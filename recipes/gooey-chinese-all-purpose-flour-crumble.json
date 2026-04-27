@@ -1,0 +1,84 @@
+{
+  "title": "Gooey Chinese All Purpose Flour Crumble",
+  "description": "A fresh, gooey, cozy Cantonese dish featuring all purpose flour that is perfectly grillable and suitable for a paleo-friendly diet.",
+  "cuisine": "Cantonese",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "All-Purpose Flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Caster Sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Eggs",
+      "amount": "4"
+    },
+    {
+      "name": "Almond Flour",
+      "amount": "1/4 cup (for dusting)"
+    },
+    {
+      "name": "Coconut Nibs",
+      "amount": "optional, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat your grill to medium-high heat.",
+    "In a large mixing bowl, combine the All-Purpose Flour, Coconut Oil, Vanilla Extract, and Caster Sugar. Mix until well combined and a crumbly dough forms.",
+    "Add in eggs one at a time, mixing gently after each addition to ensure the mixture is not too wet.",
+    "Divide the dough into small balls (about 1 inch diameter) and roll them between your hands to form a crisp outer layer and a gooey center. Place on a parchment-lined baking sheet.",
+    "Lightly dust with Almond Flour to prevent sticking, then press lightly with your fingers if needed.",
+    "Grill for about 2-3 minutes per side or until golden brown and crispy on the outside.",
+    "Remove from grill and allow to cool slightly before serving. Garnish with Coconut Nibs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "goody",
+    "flour",
+    "crumble",
+    "cantonese",
+    "grillable"
+  ],
+  "nutrition": {
+    "calories": 367,
+    "protein": 19,
+    "carbs": 28,
+    "fat": 18
+  },
+  "slug": "gooey-chinese-all-purpose-flour-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-chinese-all-purpose-flour-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T17:23:24Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "gooey",
+    "mood": "cozy",
+    "technique": "grill",
+    "primaryIngredient": "all purpose flour",
+    "diet": "paleo",
+    "region": "cantonese",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "All Purpose Flour",
+    "descriptor": "Gooey",
+    "dishForm": "Crumble"
+  }
+}
