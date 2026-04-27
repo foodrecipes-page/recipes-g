@@ -1,0 +1,69 @@
+{
+  "title": "Gluten-free-friendly Argentinian Semolina Stir-fry",
+  "description": "A herbal and dense crowd-pleaser from Argentina featuring gluten-free semolina that is perfectly cooked through a simmering process.",
+  "cuisine": "Argentinean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup gluten-free semolina",
+      "amount": "cup",
+      "notes": "Choose a brand that is certified gluten-free."
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "cloves"
+    },
+    {
+      "name": "1 red bell pepper, diced",
+      "amount": "medium"
+    },
+    {
+      "name": "1 yellow onion, finely chopped",
+      "amount": "half"
+    }
+  ],
+  "instructions": [
+    "In a large skillet or wok, heat some olive oil over medium-high heat.",
+    "Add the diced semolina and cook until it turns golden brown, stirring occasionally to prevent burning.",
+    "Add garlic and red bell pepper to the skillet. Stir-fry for about 2 minutes, allowing the vegetables to soften slightly.",
+    "Add the finely chopped yellow onion into the pan and continue cooking until all ingredients are well combined and slightly softened.",
+    "Season with a pinch of salt and black pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinean",
+    "stir-fry",
+    "gluten-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 185,
+    "protein": 6,
+    "carbs": 29,
+    "fat": 3
+  },
+  "slug": "gluten-free-friendly-argentinian-semolina-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gluten-free-friendly-argentinian-semolina-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T15:56:32Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "dense",
+    "mood": "crowd-pleaser",
+    "technique": "simmer",
+    "primaryIngredient": "semolina",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Semolina",
+    "descriptor": "Gluten-free-friendly",
+    "dishForm": "Stir-fry"
+  }
+}
