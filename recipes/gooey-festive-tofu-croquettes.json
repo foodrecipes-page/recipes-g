@@ -1,0 +1,82 @@
+{
+  "title": "Fermented Gooey Tofu Croquettes",
+  "description": "These festive tofu croquettes are a traditional Croatian vegetarian dish that combines the soft and gooey texture of fermented tofu with a hint of dum flavor, perfect for any meal.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fermented Tofu",
+      "amount": "1 block",
+      "notes": "Ensure it's at room temperature"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 cups",
+      "notes": "For frying"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Dum Powder (optional)",
+      "amount": "1 tablespoon",
+      "notes": "For added flavor and texture"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3, minced",
+      "notes": "For adding a savory twist"
+    }
+  ],
+  "instructions": [
+    "Mix the fermented tofu with flour and minced garlic in a bowl.",
+    "If using dum powder, add it to the mixture; otherwise, use your preferred seasoning for extra flavor.",
+    "Heat vegetable oil in a deep fryer or pan until hot (350°F/175°C).",
+    "Dip the mixture into water to form a dough-like consistency and shape into croquette-sized patties using your hands.",
+    "Gently place the croquettes into the hot oil and cook for about 2-3 minutes on each side, or until golden brown and crispy.",
+    "Drain excess oil and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "fermented-tofu",
+    "vegetable-dum",
+    "goosey-croquette",
+    "croatian-vegan"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 5,
+    "carbs": 4,
+    "fat": 6
+  },
+  "slug": "gooey-festive-tofu-croquettes",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-festive-tofu-croquettes",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T08:07:45Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "gooey",
+    "mood": "festive",
+    "technique": "dum",
+    "primaryIngredient": "tofu",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Tofu",
+    "descriptor": "Festive Gooey",
+    "dishForm": "Croquettes"
+  }
+}
