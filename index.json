@@ -1406,6 +1406,19 @@
     "shard": "g"
   },
   {
+    "slug": "gooey-uruguayan-aubergine-stir-fry",
+    "title": "Gooey Uruguayan Aubergine Stir-fry",
+    "tags": [
+      "goosey",
+      "uruguayan",
+      "aubergine",
+      "stir-fry"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "goose-fat-knead-bliss",
     "title": "Goose Fat Knead Bliss",
     "tags": [

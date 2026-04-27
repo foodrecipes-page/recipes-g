@@ -1,0 +1,85 @@
+{
+  "title": "Gooey Uruguayan Aubergine Stir-fry",
+  "description": "A fresh, gooey date-night dish featuring aubergine, bhuna spices, and low-fat-friendly ingredients for an authentic taste of Uruguay.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "low-calorie",
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "aubergine",
+      "amount": "2 medium-sized",
+      "notes": "preferably fresh, lightly coated with vegetable oil"
+    },
+    {
+      "name": "chili peppers",
+      "amount": "1-2 small",
+      "notes": "for heat and flavor"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "sliced thinly for added depth of flavor"
+    },
+    {
+      "name": "bhuna spices mix",
+      "amount": "3 tbsp",
+      "notes": "includes turmeric, cumin, coriander seeds, chillies, and other common bhuna spice blend ingredients"
+    },
+    {
+      "name": "low-fat yogurt",
+      "amount": "1/4 cup",
+      "notes": "as a creamy sauce alternative for low-calorie consumption"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing and tossing"
+    }
+  ],
+  "instructions": [
+    "Preheat your wok or frying pan over medium-high heat. Lightly grease the surface with vegetable oil.",
+    "Chop aubergine into thin slices, halve the chili peppers lengthwise, and slice the onions thinly as well. Season the aubergine with a bit of salt before adding to the hot pan.",
+    "When the aubergine is starting to brown, add the sliced onions and cook until translucent. Add the bhuna spice mix and sauté for about 2 minutes.",
+    "Add halved chili peppers to the pan and stir well, allowing the heat to meld with the spices. Continue cooking for another minute or two until the pepper's aroma is prominent and flavors are infused evenly into the vegetables.",
+    "Remove from heat immediately after adding yogurt to the pan. Stir gently to combine all the ingredients properly, ensuring a gooey texture without overcooking.",
+    "Serve the dish hot on its own as an appetizer or alongside a side of steamed rice for a complete meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "goosey",
+    "uruguayan",
+    "aubergine",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 9,
+    "carbs": 20,
+    "fat": 7
+  },
+  "slug": "gooey-uruguayan-aubergine-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-uruguayan-aubergine-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T21:54:23Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "gooey",
+    "mood": "date-night",
+    "technique": "bhuna",
+    "primaryIngredient": "aubergine",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "aubergine",
+    "descriptor": "Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
