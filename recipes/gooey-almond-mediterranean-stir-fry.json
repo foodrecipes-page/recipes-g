@@ -1,0 +1,98 @@
+{
+  "title": "Gooey Almond Mediterranean Stir-fry",
+  "description": "A light and herbal Mediterranean dish featuring almond milk, infused with the warmth of bhuna spices for a whole30-friendly meal.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "almond milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bhuna masala blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "green bell pepper",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4 medium, finely chopped"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large wok or frying pan, heat the almond milk over medium heat.",
+    "Add bhuna masala blend and stir for about 2 minutes until fragrant.",
+    "Stir in diced green bell pepper and red onion; cook for another 3-4 minutes.",
+    "Mix in tomato puree, ginger paste, garlic paste, cumin seeds, coriander powder, salt, and ground cumin. Stir well.",
+    "Simmer the mixture until it thickens slightly, stirring occasionally (about 5 minutes).",
+    "Turn off heat and let cool before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "almond-milk",
+    "bhuna-spices",
+    "mediterranean-dish",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 38,
+    "fat": 10
+  },
+  "slug": "gooey-almond-mediterranean-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-almond-mediterranean-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T16:26:11Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "gooey",
+    "mood": "light",
+    "technique": "bhuna",
+    "primaryIngredient": "almond milk",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Almond",
+    "descriptor": "Gooey",
+    "dishForm": "Stir-fry"
+  }
+}

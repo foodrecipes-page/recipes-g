@@ -822,6 +822,19 @@
     "shard": "g"
   },
   {
+    "slug": "gooey-almond-mediterranean-stir-fry",
+    "title": "Gooey Almond Mediterranean Stir-fry",
+    "tags": [
+      "almond-milk",
+      "bhuna-spices",
+      "mediterranean-dish",
+      "whole30-friendly"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 20,
+    "shard": "g"
+  },
+  {
     "slug": "gooey-american-carob-crumble",
     "title": "Gooey American Carob Crumble with Ras El Hanout",
     "tags": [
