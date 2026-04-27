@@ -918,6 +918,19 @@
     "shard": "g"
   },
   {
+    "slug": "gooey-spanish-beef-stir-fry",
+    "title": "Gooey Spanish Beef Stir-fry",
+    "tags": [
+      "vegan-friendly",
+      "meal-prep",
+      "goowy",
+      "spanish-dish"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 55,
+    "shard": "g"
+  },
+  {
     "slug": "gooey-spanish-vanilla-crumble",
     "title": "Gooey Spanish Vanilla Crumble",
     "tags": [

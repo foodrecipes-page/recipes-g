@@ -1,0 +1,99 @@
+{
+  "title": "Gooey Spanish Beef Stir-fry",
+  "description": "A herbal and gooey vegan-friendly Spanish dish featuring ground beef in a bhuna sauce for meal prep.",
+  "cuisine": "Spanish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "200g",
+      "notes": "Vegan alternative can be used"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3",
+      "notes": "Minced"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1/2",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Green Peppers",
+      "amount": "1/2",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "3 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Bhuna Sauce (Spices)",
+      "amount": "To taste",
+      "notes": "Includes turmeric, cumin, coriander, chili powder, garam masala"
+    },
+    {
+      "name": "Vegan Cream Cheese",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large pan over medium-high heat.",
+    "Add ground beef and cook until browned, breaking it up with a spoon if needed.",
+    "Add onions and garlic, sautéing for about 2 minutes until fragrant and translucent.",
+    "Add red bell pepper and green peppers, stirring to combine with the meat and vegetables.",
+    "Pour in tomato paste and stir continuously for about 1 minute. It will thicken quickly so keep an eye on it.",
+    "Gradually add Bhuna Sauce, stirring constantly while cooking until slightly reduced and thickened (about 5 minutes).",
+    "Stir in Vegan Cream Cheese, continuing to mix well until the sauce is creamy and evenly coated with cheese.",
+    "Serve hot as a main dish or use for meal prepping. Store any leftover in an airtight container in the fridge."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan-friendly",
+    "meal-prep",
+    "goowy",
+    "spanish-dish"
+  ],
+  "nutrition": {
+    "calories": 700,
+    "protein": 35,
+    "carbs": 48,
+    "fat": 20
+  },
+  "slug": "gooey-spanish-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-spanish-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T01:30:12Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "gooey",
+    "mood": "meal-prep",
+    "technique": "bhuna",
+    "primaryIngredient": "ground beef",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "beef",
+    "descriptor": "Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
