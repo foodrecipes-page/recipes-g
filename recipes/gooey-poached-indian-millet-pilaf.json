@@ -1,0 +1,109 @@
+{
+  "title": "Gooey Poached Indian Millet Pilaf",
+  "description": "This low-fat-friendly and brunch-mood dish features millet poached in a flavorful broth with vegetables for an indulgent yet healthy meal.",
+  "cuisine": "Indian",
+  "diet": [
+    "low-fat",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 cup millet, rinsed and drained",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "3 cups water or vegetable broth",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 carrots, diced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "5 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon grated fresh ginger",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cups diced potatoes",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup finely chopped green bell pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon cumin seeds",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro for garnish",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine millet and water or broth in a medium saucepan. Bring to a boil, then reduce heat to low, cover, and simmer until the liquid is absorbed (about 15-20 minutes).",
+    "While the millet simmers, heat oil in a small skillet over medium heat. Add cumin seeds and cook for about 30 seconds until fragrant.",
+    "Add onion, garlic, ginger, carrots, potatoes, and green bell pepper to the skillet with remaining ingredients. Stir-fry until vegetables are tender (about 5-7 minutes).",
+    "Gradually pour millet mixture into skillet with vegetables, stirring constantly. Reduce heat to low and let cook for an additional 10-12 minutes or until desired consistency is reached.",
+    "Serve hot garnished with fresh cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "poached-millet-pilaf",
+    "bitter-vegan-dish",
+    "indian-gooey-pilaf",
+    "low-fat-friendly-brunch"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 4
+  },
+  "slug": "gooey-poached-indian-millet-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-poached-indian-millet-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T07:03:49Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "gooey",
+    "mood": "brunch-mood",
+    "technique": "poach",
+    "primaryIngredient": "millet",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "millet",
+    "descriptor": "Gooey Poached",
+    "dishForm": "Pilaf"
+  }
+}
