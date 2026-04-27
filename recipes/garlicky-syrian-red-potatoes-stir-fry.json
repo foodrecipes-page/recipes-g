@@ -1,0 +1,78 @@
+{
+  "title": "Garlicky Syrian Red Potatoes Stir-fry",
+  "description": "This low-fat-friendly brunch-mood Syrian dish features crispy red potatoes seasoned with garlic and herbs for a savory side or light meal.",
+  "cuisine": "Syrian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "Red Potatoes",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh Herbs (such as Dill or Mint)",
+      "amount": "1 tbsp chopped fresh herbs"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Optional: Lemon Juice",
+      "amount": "a few drops"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (205°C). Wash the red potatoes, trim off any bad spots, and cut them into medium-sized chunks.",
+    "Spread the sliced red potatoes on a baking sheet lined with parchment paper. Drizzle half of the olive oil over them, toss gently to coat, then season with salt, pepper, and chopped fresh herbs.",
+    "Squeeze in lemon juice if using, for extra brightness and freshness. Place the tray in your preheated oven and bake until the potatoes are golden brown and crispy, about 20-30 minutes.",
+    "Meanwhile, mince the garlic cloves finely in a small bowl. In another pan over medium heat, pour in the remaining olive oil and add minced garlic when it's hot but not smoking.",
+    "Once the garlic is fragrant (about 1 minute), reduce the heat to low and slowly stir-fry until the garlic becomes golden brown and slightly crispy, about 3-5 minutes. Be cautious as the garlic can burn quickly at this stage.",
+    "Remove the tray from the oven and toss the baked potatoes with the golden-brown garlic. Serve hot or warm as a side dish or light meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "syrian",
+    "stir-fry",
+    "garlicy",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 3,
+    "carbs": 29,
+    "fat": 7
+  },
+  "slug": "garlicky-syrian-red-potatoes-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-syrian-red-potatoes-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T11:15:14Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crispy",
+    "mood": "brunch-mood",
+    "technique": "steam",
+    "primaryIngredient": "red potatoes",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Red Potatoes",
+    "descriptor": "Garlicky",
+    "dishForm": "Stir-fry"
+  }
+}

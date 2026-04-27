@@ -442,6 +442,19 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-syrian-red-potatoes-stir-fry",
+    "title": "Garlicky Syrian Red Potatoes Stir-fry",
+    "tags": [
+      "syrian",
+      "stir-fry",
+      "garlicy",
+      "crispy"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 65,
+    "shard": "g"
+  },
+  {
     "slug": "garlicy-dumplings-and-noodles",
     "title": "Garlicy Dumplings and Noodles",
     "tags": [
