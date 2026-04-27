@@ -1,0 +1,77 @@
+{
+  "title": "Grilled Flaky Toor Dal Crumble",
+  "description": "A sweet, flaky dish for a solo dinner that is jain-friendly and features toor dal grilled over low heat.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup toor dal (split yellow split peas)",
+      "amount": "",
+      "notes": "Soaked for at least 6 hours"
+    },
+    {
+      "name": "1/2 cup sugar"
+    },
+    {
+      "name": "1/4 tsp salt"
+    },
+    {
+      "name": "Juice of half a lemon"
+    },
+    {
+      "name": "5 tbsp oil (for tossing)"
+    },
+    {
+      "name": "Fresh cilantro leaves",
+      "amount": "",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "Drain and rinse the soaked toor dal. In a large bowl, mix the drained toor dal with sugar and salt.",
+    "Add lemon juice and toss until all pieces are well coated with the mixture.",
+    "Place on a tray lined with parchment paper and sprinkle 5 tbsp of oil evenly over the surface of the dal.",
+    "Roast in preheated oven for about 15-20 minutes, or until golden brown. Keep an eye to prevent burning.",
+    "Garnish with fresh cilantro leaves before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "toor-dal",
+    "grilled-crumbles",
+    "jain-friendly",
+    "australian-sweet"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "grilled-flaky-toor-dal-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/grilled-flaky-toor-dal-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T16:48:12Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "flaky",
+    "mood": "solo-dinner",
+    "technique": "grill",
+    "primaryIngredient": "toor dal",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "toor dal",
+    "descriptor": "Grilled Flaky Solo",
+    "dishForm": "Crumble"
+  }
+}
