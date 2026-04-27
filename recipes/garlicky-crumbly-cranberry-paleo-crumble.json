@@ -1,0 +1,86 @@
+{
+  "title": "Garlicky Crumbly Cranberry Paleo Crumble",
+  "description": "An indulgent Filipino-style dessert featuring garlic, cranberries, and a crumbly topping made with paleo-friendly ingredients.",
+  "cuisine": "Philippine",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "unsweetened almond milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "3 oz"
+    },
+    {
+      "name": "canned crushed pineapple juice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "paleo-friendly oats",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "crushed walnuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cinnamon powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "coconut sugar (or any sweetener of choice)",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a saucepan, combine almond milk and dark chocolate chips. Heat on medium until the mixture melts and becomes smooth.",
+    "Add crushed pineapple juice to the saucepan and stir well until combined. Let it simmer for about 2 minutes.",
+    "Remove from heat, add coconut oil, paleo-friendly oats, crushed walnuts, cinnamon powder, and coconut sugar. Mix thoroughly until all ingredients are evenly distributed.",
+    "Transfer the mixture into a baking dish or tin pan. Smooth out the top with a spatula to create an even layer of crumble topping.",
+    "Place in the fridge for about 1 hour until set. Serve chilled."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 5,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "paleo",
+    "crumble",
+    "garlicky",
+    "cranberry",
+    "indulgent"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 42,
+    "fat": 17
+  },
+  "slug": "garlicky-crumbly-cranberry-paleo-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-crumbly-cranberry-paleo-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T14:17:52Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crumbly",
+    "mood": "indulgent",
+    "technique": "tadka",
+    "primaryIngredient": "cranberry juice",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Cranberries",
+    "descriptor": "Garlicky Crumbly",
+    "dishForm": "Crumble"
+  }
+}
