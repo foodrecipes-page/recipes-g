@@ -521,6 +521,18 @@
     "shard": "g"
   },
   {
+    "slug": "ginger-garlic-paneer-stir-fry",
+    "title": "Ginger Garlic Paneer Stir-Fry",
+    "tags": [
+      "ginger-garlic-paneer",
+      "turkish-brunch-dish",
+      "sugar-free-friendly"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 22,
+    "shard": "g"
+  },
+  {
     "slug": "gloopin-shin-soothe",
     "title": "Gloopin' Shin Soothe",
     "tags": [
