@@ -1,0 +1,88 @@
+{
+  "title": "Gooey Romantic Chocolate Pancake",
+  "description": "An earthy and gooey Slovakian dish featuring dark chocolate in a vegetarian-friendly recipe perfect for romantic breakfasts.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dark chocolate",
+      "amount": "100g"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Non-dairy milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C). Grease a baking dish with cooking spray.",
+    "In a mixing bowl, sift together flour and baking powder. Add sugar and salt; mix well.",
+    "Add oil, non-dairy milk, and vanilla extract to the dry ingredients. Mix until smooth without overmixing.",
+    "Fold in dark chocolate chunks into the batter using your hands or a spoon.",
+    "Pour the mixture into the prepared baking dish. Bake for 25-30 minutes or until a toothpick inserted near the center comes out clean.",
+    "Serve warm as dessert with whipped cream and fresh berries if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "slovenian",
+    "earthly",
+    "romantic",
+    "dark-chocolate",
+    "vegan-pancake",
+    "dessert-preparation"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 12,
+    "carbs": 48,
+    "fat": 15
+  },
+  "slug": "gooey-romantic-chocolate-pancake",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-romantic-chocolate-pancake",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T16:59:58Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "gooey",
+    "mood": "romantic",
+    "technique": "blanch",
+    "primaryIngredient": "dark chocolate",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "dark chocolate",
+    "descriptor": "Gooey Romantic",
+    "dishForm": "Pancake"
+  }
+}
