@@ -1,0 +1,79 @@
+{
+  "title": "Gooey Quick Fix Indian Trout Stir-fry",
+  "description": "A quick and easy vegan-friendly dish featuring bitter greens like mustard or arugula for added texture and flavor in a gooey, spicy stir-fry with trout.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Trout fillets",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "Mustard greens or arugula",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Garam masala powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Green chili, finely chopped (optional)",
+      "amount": "1-2"
+    }
+  ],
+  "instructions": [
+    "Clean and season the trout with salt and pepper. Heat sesame oil in a wok or large skillet over medium-high heat.",
+    "Add minced garlic to the hot oil and stir-fry for about 30 seconds until fragrant but not browned.",
+    "Add mustard greens or arugula and stir well, cooking until wilted (about 2 minutes).",
+    "Gently slide in trout fillets onto the greens. Cover with a lid and cook for an additional 5-7 minutes or until fish is opaque throughout and cooked through.",
+    "Remove from heat, add garam masala powder and green chili (if using) to the wok and stir well until fully integrated into the mixture.",
+    "Serve hot over rice or as a side dish with naan bread. Garnish with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "quick-fix",
+    "indian",
+    "stir-fry",
+    "goopy"
+  ],
+  "nutrition": {
+    "calories": 376,
+    "protein": 20,
+    "carbs": 24,
+    "fat": 18
+  },
+  "slug": "gooey-quick-fix-indian-trout-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-quick-fix-indian-trout-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T05:08:50Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "gooey",
+    "mood": "quick-fix",
+    "technique": "pickle",
+    "primaryIngredient": "trout",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Trout",
+    "descriptor": "Gooey Quick Fix",
+    "dishForm": "Stir-fry"
+  }
+}
