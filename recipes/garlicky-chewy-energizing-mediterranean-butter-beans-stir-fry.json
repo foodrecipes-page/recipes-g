@@ -1,0 +1,85 @@
+{
+  "title": "Garlicky Chewy Energizing Mediterranean Butter Beans Stir-fry",
+  "description": "A quick and easy Mediterranean-inspired dish featuring butter beans, garlic, and other fresh vegetables for a flavorful, raw-friendly breakfast or snack.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "raw",
+    "vegan",
+    "flexitarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Butter beans",
+      "amount": "1 cup",
+      "notes": "Cooked and drained"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4",
+      "notes": "Mashed or minced finely"
+    },
+    {
+      "name": "Red bell peppers",
+      "amount": "1/2 medium-sized",
+      "notes": "Sliced thinly"
+    },
+    {
+      "name": "Cilantro leaves",
+      "amount": "handful",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add mashed garlic and sauté for about 30 seconds until fragrant but not browned.",
+    "Add sliced bell peppers and cook for another minute, stirring occasionally.",
+    "Stir in cooked butter beans and lemon juice. Mix well to combine all ingredients.",
+    "Fold in finely chopped cilantro leaves just before serving.",
+    "Serve immediately as a snack or breakfast side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "garlicky",
+    "chewy",
+    "energizing",
+    "mediterranean",
+    "buttermenukbe"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 4,
+    "carbs": 12,
+    "fat": 5
+  },
+  "slug": "garlicky-chewy-energizing-mediterranean-butter-beans-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-chewy-energizing-mediterranean-butter-beans-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T00:48:42Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "chewy",
+    "mood": "energizing",
+    "technique": "whisk",
+    "primaryIngredient": "butter beans",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Butter Beans",
+    "descriptor": "Garlicky Chewy Energizing",
+    "dishForm": "Stir-fry"
+  }
+}
