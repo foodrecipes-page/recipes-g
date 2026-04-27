@@ -1363,6 +1363,20 @@
     "shard": "g"
   },
   {
+    "slug": "gooey-spicy-wheat-stir-fry",
+    "title": "Gooey Spicy Wheat Stir-fry",
+    "tags": [
+      "spicy",
+      "gluten-free",
+      "sour",
+      "hangover-cure",
+      "keto-friendly"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 40,
+    "shard": "g"
+  },
+  {
     "slug": "gooey-syrian-blueberry-crumble",
     "title": "Gooey Syrian Blueberry Crumble",
     "tags": [
