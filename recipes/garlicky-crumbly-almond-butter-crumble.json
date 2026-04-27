@@ -1,0 +1,83 @@
+{
+  "title": "Garlicky Crumbly Almond Butter Crumble",
+  "description": "A Mediterranean-friendly sick-day dish featuring a crumbly mixture of almond butter, garlic, and other healthy fats that's perfect for when you're feeling under the weather.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegan",
+    "paleo",
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Almond Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Sunflower Seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Walnuts, chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Almond Milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Honey or Agave Nectar (optional)",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a bowl, mix almond butter, garlic powder, sunflower seeds, and chopped walnuts together.",
+    "Add olive oil and stir until well combined. Add honey or agave nectar if desired for sweetness.",
+    "Gradually add almond milk while continuing to stir to create a thick, crumbly mixture that can be used as a dessert topping or spread on bread."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "garlicky",
+    "crumbly",
+    "almond-butter",
+    "sick-day-dish",
+    "mexican-style",
+    "mediterranean-friendly"
+  ],
+  "nutrition": {
+    "calories": 130,
+    "protein": 2,
+    "carbs": 9,
+    "fat": 8
+  },
+  "slug": "garlicky-crumbly-almond-butter-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-crumbly-almond-butter-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T12:30:21Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crumbly",
+    "mood": "sick-day",
+    "technique": "marinate",
+    "primaryIngredient": "almond butter",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Almond Butter",
+    "descriptor": "Garlicky Crumbly",
+    "dishForm": "Crumble"
+  }
+}
