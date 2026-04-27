@@ -1465,6 +1465,19 @@
     "shard": "g"
   },
   {
+    "slug": "grilled-norwegian-couscous-stir-fry",
+    "title": "Grilled Norwegian Couscous Stir-fry",
+    "tags": [
+      "norwegian-cuisine",
+      "grilled-couscous-stir-fry",
+      "kid-friendly",
+      "low-carb-diet"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 45,
+    "shard": "g"
+  },
+  {
     "slug": "grilled-tangy-tender-beef-brisket-stir-fry",
     "title": "Grilled Tangy Tender Beef Brisket Stir-fry",
     "tags": [

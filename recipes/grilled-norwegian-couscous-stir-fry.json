@@ -1,0 +1,82 @@
+{
+  "title": "Grilled Norwegian Couscous Stir-fry",
+  "description": "A rich and crispy low-carb-friendly dish featuring grilled couscous alongside kid-friendly vegetables.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-carb",
+    "vegan"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "1 cup of couscous",
+      "amount": "cup"
+    },
+    {
+      "name": "3 medium-sized bell peppers, cut into strips",
+      "amount": "each"
+    },
+    {
+      "name": "2 cups of broccoli florets",
+      "amount": "cup each"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "1 red onion, finely chopped",
+      "amount": "piece"
+    },
+    {
+      "name": "Juice from 1 lemon",
+      "amount": "lemon"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Cook couscous according to package instructions. Once cooked, let it cool and then gently fluff with a fork to prevent breaking apart.",
+    "Season the cooled couscous with salt and freshly ground black pepper to taste.",
+    "While couscous is cooking, cut vegetables into small pieces.",
+    "Drizzle olive oil on bell peppers, red onion, and broccoli. Season lightly with salt and pepper.",
+    "Place vegetables in a single layer on the grill and cook for about 5-7 minutes per side until they are tender and slightly charred.",
+    "Mix cooled couscous with minced garlic, lemon juice, and olive oil to enhance flavors and bind it together if needed.",
+    "Stir-fry mixture of grilled vegetables along with the cooked couscous on medium heat in a pan for about 3-4 minutes until heated through.",
+    "Serve warm as an appetizer or snack."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "norwegian-cuisine",
+    "grilled-couscous-stir-fry",
+    "kid-friendly",
+    "low-carb-diet"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 16,
+    "carbs": 48,
+    "fat": 20
+  },
+  "slug": "grilled-norwegian-couscous-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/grilled-norwegian-couscous-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T14:16:10Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crispy",
+    "mood": "kid-friendly",
+    "technique": "grill",
+    "primaryIngredient": "couscous",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Couscous",
+    "descriptor": "Grilled",
+    "dishForm": "Stir-fry"
+  }
+}
