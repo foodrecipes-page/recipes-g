@@ -1,0 +1,85 @@
+{
+  "title": "Garlicky Syrian Garlic Stir-Fry",
+  "description": "A flavorful one-pot dish combining smoky paprika with garlic and other whole30-friendly ingredients for a fluffy and savory meal.",
+  "cuisine": "Syrian",
+  "diet": [
+    "whole30",
+    "smoke"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "garlic cloves",
+      "amount": "4-6"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium"
+    },
+    {
+      "name": "paprika flakes",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "pine nuts or almonds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Chop the onions and garlic into small pieces.",
+    "Heat olive oil in a skillet over medium heat. Add chopped onions, sauté until translucent.",
+    "Add chopped garlic and cook for about 30 seconds or until fragrant.",
+    "Stir in paprika flakes, garlic powder, and red pepper flakes. Cook for another minute.",
+    "Toss in pine nuts or almonds and mix well to coat all ingredients with the oil and spices.",
+    "Reduce heat to low and simmer for 5 minutes or until flavors are fully integrated and everything is warm and fluffy.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlicy",
+    "fluffy",
+    "smoky",
+    "syrian",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 185,
+    "protein": 7,
+    "carbs": 9,
+    "fat": 12
+  },
+  "slug": "garlicky-syrian-garlic-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-syrian-garlic-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T20:58:27Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "fluffy",
+    "mood": "one-pot",
+    "technique": "smoke",
+    "primaryIngredient": "smoky paprika",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Garlic",
+    "descriptor": "Garlicky",
+    "dishForm": "Stir-fry"
+  }
+}
