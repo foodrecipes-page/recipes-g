@@ -1,0 +1,81 @@
+{
+  "title": "Garlicky Crunchy Venezuelan Garlic Stir-fry",
+  "description": "A quick-fix Venezuelan garlic dish featuring tamarind paste for added depth of flavor, served as a side or light meal.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-fat-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Tamarind Paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chili Powder",
+      "amount": "a few pinches"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Soy Sauce (low-fat)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Whisk together garlic, tamarind paste, chili powder, salt, and soy sauce until smooth.",
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add the whisked mixture to the hot pan and stir-fry for about 2-3 minutes until well combined and fragrant.",
+    "Gradually add water and continue stirring until the mixture thickens slightly, adjusting seasoning if necessary.",
+    "Serve with a side of rice or as a standalone dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlicky",
+    "crunchy",
+    "venezuelan",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 205,
+    "protein": 7,
+    "carbs": 18,
+    "fat": 9
+  },
+  "slug": "garlicky-crunchy-venezuelan-garlic-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-crunchy-venezuelan-garlic-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T12:28:46Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crunchy",
+    "mood": "quick-fix",
+    "technique": "whisk",
+    "primaryIngredient": "tamarind paste",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Garlic",
+    "descriptor": "Garlicky Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
