@@ -1,0 +1,88 @@
+{
+  "title": "Gooey Garlic Irish Stir-fry",
+  "description": "A garlicky, gooey post-workout dish featuring cherry tomatoes, grilled chicken or steak, and a dash-friendly sauce.",
+  "cuisine": "Irish",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "grilled chicken or steak",
+      "amount": "200g",
+      "notes": "Marinated with garlic and olive oil"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4-6",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 teaspoon",
+      "notes": "For caramelization effect"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add chopped garlic and sauté until fragrant, about 1 minute.",
+    "Add cherry tomatoes to the pan and cook for an additional 2 minutes, tossing occasionally.",
+    "Fold in marinated grilled chicken or steak slices, ensuring they are coated with the garlic mixture.",
+    "Pour in red wine vinegar and brown sugar; stir well to combine. Cook for another 3-5 minutes until thickened slightly.",
+    "Season with salt and pepper if needed.",
+    "Serve hot as a post-workout snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlic",
+    "gooey",
+    "post-workout",
+    "irish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 18,
+    "fat": 9
+  },
+  "slug": "gooey-garlic-irish-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-garlic-irish-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T18:09:52Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "gooey",
+    "mood": "post-workout",
+    "technique": "grill",
+    "primaryIngredient": "cherry",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Garlic",
+    "descriptor": "Gooey",
+    "dishForm": "Stir-fry"
+  }
+}

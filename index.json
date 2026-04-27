@@ -1030,6 +1030,19 @@
     "shard": "g"
   },
   {
+    "slug": "gooey-garlic-irish-stir-fry",
+    "title": "Gooey Garlic Irish Stir-fry",
+    "tags": [
+      "garlic",
+      "gooey",
+      "post-workout",
+      "irish"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 30,
+    "shard": "g"
+  },
+  {
     "slug": "gooey-herbal-truffle-polish-dish",
     "title": "Gooey Herbal Truffle Polish Dish",
     "tags": [
