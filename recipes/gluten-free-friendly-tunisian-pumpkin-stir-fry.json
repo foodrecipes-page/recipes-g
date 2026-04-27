@@ -1,0 +1,91 @@
+{
+  "title": "Gluten-Free-Friendly Tunisian Pumpkin Stir-fry",
+  "description": "A herbal and festive dish featuring pumpkin in a gluten-free-friendly base, perfect for autumn meals.",
+  "cuisine": "tunisian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pumpkin",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1/2 inch piece"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "gluten-free all-purpose flour",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (205°C).",
+    "Dice pumpkin, onion, and garlic. Peel ginger.",
+    "In a bowl, mix pumpkin, diced onion, chopped garlic, and minced ginger with soy sauce and salt.",
+    "Add gluten-free all-purpose flour to the mixture for thickening.",
+    "Heat oil in a skillet over medium-high heat. Add mixed vegetables.",
+    "Cook for 5-7 minutes or until onions become translucent. Stir-fry gently.",
+    "Transfer the mixture to an oven-safe dish, and bake at 400°F (205°C) for about 15 minutes or until most of liquid evaporates and vegetables are tender.",
+    "Garnish with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tunisian",
+    "gluten-free-friendly",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 8,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "gluten-free-friendly-tunisian-pumpkin-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gluten-free-friendly-tunisian-pumpkin-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T00:05:43Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "dense",
+    "mood": "festive",
+    "technique": "whisk",
+    "primaryIngredient": "pumpkin",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Pumpkin",
+    "descriptor": "Gluten-Free-Friendly",
+    "dishForm": "Stir-fry"
+  }
+}
