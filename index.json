@@ -748,6 +748,18 @@
     "shard": "g"
   },
   {
+    "slug": "gluten-free-indian-pistachio-stir-fry",
+    "title": "Gluten-free Indian Pistachio Stir-fry",
+    "tags": [
+      "gluten_free_indian_pistachio_stir_fry",
+      "savory_light_indian_dish",
+      "indian_solo_dinner"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "gluten-free-rice-roll",
     "title": "Gluten-Free Rice Roll",
     "tags": [

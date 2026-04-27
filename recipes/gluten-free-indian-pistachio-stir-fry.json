@@ -1,0 +1,87 @@
+{
+  "title": "Gluten-free Indian Pistachio Stir-fry",
+  "description": "A savory and light gluten-free Indian dish featuring pistachio paste, perfect for a solo dinner.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten_free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pistachio Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Garam Masala",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chicken Breast or Tempeh (substitute for gluten-free options)",
+      "notes": "150g per serving"
+    },
+    {
+      "name": "Fresh Spinach",
+      "amount": "1 cup, fresh and chopped"
+    },
+    {
+      "name": "Rice Noodles or Gluten-free Bread Crumbs",
+      "amount": "To coat chicken if needed"
+    }
+  ],
+  "instructions": [
+    "Heat a pan with the oil over medium-high heat.",
+    "Add garlic powder to the pan and sauté for about 30 seconds until fragrant.",
+    "Pour in the pistachio paste and stir continuously for about 2 minutes, allowing it to slightly brown.",
+    "Season with salt and garam masala. Mix well to combine all ingredients evenly.",
+    "If using chicken or tempeh, season them lightly with salt and coat with rice noodles or gluten-free bread crumbs if desired.",
+    "Add the prepared meat to the pan and cook for about 5 minutes on each side or until browned and cooked through.",
+    "Add chopped fresh spinach during the last minute of cooking. Cook until wilted and heated through.",
+    "Serve hot, garnished with fresh cilantro leaves if available."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten_free_indian_pistachio_stir_fry",
+    "savory_light_indian_dish",
+    "indian_solo_dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 34,
+    "carbs": 18,
+    "fat": 9
+  },
+  "slug": "gluten-free-indian-pistachio-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gluten-free-indian-pistachio-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T19:07:23Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "light",
+    "mood": "solo-dinner",
+    "technique": "tandoor",
+    "primaryIngredient": "pistachio paste",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "pistachio",
+    "descriptor": "Gluten-free",
+    "dishForm": "Stir-fry"
+  }
+}
