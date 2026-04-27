@@ -1,0 +1,80 @@
+{
+  "title": "Garlicky Gooey Roasted Peanuts Mexican Stir-fry",
+  "description": "A savory vegan mexican dish featuring roasted peanuts with a garlicky and gooey flavor profile that can help cure hangovers.",
+  "cuisine": [
+    "Mexican"
+  ],
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup shelled unsalted peanuts",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "4 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "lime juice"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "to taste"
+    },
+    {
+      "name": "Optional: Hot sauce for serving (such as sriracha or chipotle peppers in adobo)",
+      "notes": "for added heat"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Toss the peanuts with olive oil and minced garlic until evenly coated.",
+    "Spread the peanut mixture onto a baking sheet lined with parchment paper. Roast in the preheated oven for about 20 minutes, or until the peanuts are golden brown and lightly crispy.",
+    "In a small bowl, mix together lime juice, salt, and optional hot sauce to taste. Drizzle this mixture over the roasted peanuts immediately after they come out of the oven.",
+    "Serve immediately while still warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlicky",
+    "goody",
+    "hangover-cure",
+    "peanuts",
+    "mexican-dish"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 14,
+    "carbs": 39,
+    "fat": 15
+  },
+  "slug": "garlicky-gooey-roasted-peanuts-mexican-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-gooey-roasted-peanuts-mexican-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T17:35:41Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "gooey",
+    "mood": "hangover-cure",
+    "technique": "roast",
+    "primaryIngredient": "peanuts",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "peanuts",
+    "descriptor": "Garlicky Gooey",
+    "dishForm": "Stir-fry"
+  }
+}

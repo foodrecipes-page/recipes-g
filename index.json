@@ -460,6 +460,22 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-gooey-roasted-peanuts-mexican-stir-fry",
+    "title": "Garlicky Gooey Roasted Peanuts Mexican Stir-fry",
+    "tags": [
+      "garlicky",
+      "goody",
+      "hangover-cure",
+      "peanuts",
+      "mexican-dish"
+    ],
+    "cuisine": [
+      "Mexican"
+    ],
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-juicy-onion-stir-fry",
     "title": "Garlicky Juicy Onion Stir-fry",
     "tags": [
