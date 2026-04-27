@@ -1,0 +1,98 @@
+{
+  "title": "Grilled Crumbly Korean Sweet Potato Crumble",
+  "description": "A rich and crumbly dish perfect for a date-night Ukrainian meal, featuring sweet potatoes with kiwifruit in a savory sauce that is also fodmap-friendly.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-carb",
+    "gluten-free",
+    "fodmap-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "4 medium-sized",
+      "notes": "preferably baby sweet potatoes for a more tender texture"
+    },
+    {
+      "name": "kiwi fruit",
+      "amount": "1 medium-sized",
+      "notes": "preferably smaller varieties such as Hayward or Snowpatch kiwifruit, to maintain moisture and prevent squishing"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tablespoons",
+      "notes": "can be adjusted based on sweetness preference"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tablespoon",
+      "notes": "use full-fat for richer flavor"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "1 teaspoon",
+      "notes": "optional, adds a touch of complexity to the dish"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "pinch",
+      "notes": "gives sweetness and depth of flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "a small pinch",
+      "notes": "to taste"
+    },
+    {
+      "name": "flaky salt",
+      "amount": "for sprinkling on top of the crumble, optional",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your grill to medium-high heat.",
+    "Wash and dry sweet potatoes thoroughly. Cut them into small pieces and place in a pot with enough cold water to cover them.",
+    "Bring the water to a boil over high heat, then reduce the heat to maintain a simmer for about 10 minutes or until the sweet potatoes are tender.",
+    "Drain the sweet potatoes well in a colander. Let it cool slightly before mashing them gently using a fork.",
+    "In a mixing bowl, combine the mashed sweet potatoes with kiwi fruit chunks, maple syrup, unsalted butter, pomegranate molasses (if used), and cinnamon.",
+    "Season to taste with salt. Stir well until all pieces of sweet potato are coated evenly.",
+    "Transfer the mixture onto a baking sheet lined with parchment paper or a silicone mat for easy removal.",
+    "Sprinkle flaky salt on top if desired, then place into preheated grill, cooking for 8-10 minutes per side until golden brown and crispy.",
+    "Serve hot as a sweet potato crumble dish. Enjoy the rich and crumbly texture paired with kiwi fruit's freshness."
+  ],
+  "prepTimeMin": 35,
+  "cookTimeMin": 20,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled sweet potato",
+    "crumble dish",
+    "kimchi date-night"
+  ],
+  "nutrition": {
+    "calories": 371,
+    "protein": 2.9,
+    "carbs": 65.8,
+    "fat": 14.3
+  },
+  "slug": "grilled-crumbly-korean-sweet-potato-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/grilled-crumbly-korean-sweet-potato-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T01:33:59Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crumbly",
+    "mood": "date-night",
+    "technique": "grill",
+    "primaryIngredient": "kiwifruit",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "sweet potato",
+    "descriptor": "Grilled",
+    "dishForm": "Crumble"
+  }
+}
