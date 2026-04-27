@@ -1,0 +1,78 @@
+{
+  "title": "Gooey Sickness Ukrainian Yams Stir-fry",
+  "description": "This diabetic-friendly stir-fried dish features gooey, earthy yams with single cream for a comforting and indulgent sick-day meal.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yams",
+      "amount": "1 large",
+      "notes": "Choose firm yams for best results."
+    },
+    {
+      "name": "Single cream",
+      "amount": "2 tablespoons",
+      "notes": "Use full-fat single cream for the gooey texture."
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3 medium",
+      "notes": "About 1 teaspoon minced per clove."
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "Pinch",
+      "notes": "For added depth and heat, adjust to taste."
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Wash the yams thoroughly and cut them into small cubes.",
+    "In a pan, heat a bit of oil over medium heat. Add minced garlic and sauté for about 2 minutes until fragrant.",
+    "Add yam pieces to the pan with single cream. Stir-fry for another 5-7 minutes or until yams are tender but still have an earthy texture.",
+    "Stir in red pepper flakes and salt, tasting as you go to adjust seasoning.",
+    "Once everything is well combined, transfer the mixture into a preheated oven-safe dish.",
+    "Bake in the oven for 15-20 minutes or until golden brown on top. Serve warm with some sour cream or plain yogurt for an extra layer of flavor and nutrition."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian-dish",
+    "diabetic-friendly",
+    "sick-day-meal"
+  ],
+  "nutrition": {
+    "calories": 237,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "gooey-sickness-ukrainian-yams-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-sickness-ukrainian-yams-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T06:45:23Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "gooey",
+    "mood": "sick-day",
+    "technique": "saute",
+    "primaryIngredient": "single cream",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Yams",
+    "descriptor": "Gooey Sickness",
+    "dishForm": "Stir-fry"
+  }
+}

@@ -959,6 +959,18 @@
     "shard": "g"
   },
   {
+    "slug": "gooey-sickness-ukrainian-yams-stir-fry",
+    "title": "Gooey Sickness Ukrainian Yams Stir-fry",
+    "tags": [
+      "ukrainian-dish",
+      "diabetic-friendly",
+      "sick-day-meal"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 50,
+    "shard": "g"
+  },
+  {
     "slug": "gooey-spanish-beef-stir-fry",
     "title": "Gooey Spanish Beef Stir-fry",
     "tags": [
