@@ -1,0 +1,90 @@
+{
+  "title": "Garlicky Creamy Poached Turkey Stir-fry",
+  "description": "A paleo-friendly monsoon korean-inspired dish featuring poached turkey with a creamy garlic sauce.",
+  "cuisine": "Monsoon Korean",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Turkey Breast",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "6-8 cloves",
+      "notes": "Mince finely after peeling."
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Almond Milk",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Mince the garlic cloves and set aside.",
+    "Heat olive oil in a Dutch oven over medium heat. Add minced garlic and cook for about 2 minutes until softened, stirring occasionally.",
+    "Add turkey breast to the pot, turning to coat with garlic. Pour enough chicken broth into the pot to cover the meat completely. Bring to a boil, then reduce heat to low. Cover and let simmer in the Dutch oven for approximately 1 hour or until the turkey is fully cooked (internal temperature of 165°F). Remove from heat.",
+    "In a medium bowl, mix heavy cream, sour cream, almond milk, and enough reserved cooking liquid from the pot to reach about 1 cup total. Stir in salt to taste.",
+    "Carefully transfer the poached turkey into a cutting board or plate. Let it cool for a few minutes before slicing it thinly against the grain (for paleo diet).",
+    "Place sliced turkey back into the Dutch oven with its cooking liquid. Slowly pour in prepared cream sauce, stirring constantly to avoid curdling.",
+    "Let simmer on low heat for about 10-15 minutes, allowing flavors to meld together and the sauce thickens slightly. Serve hot over cauliflower rice or a bed of spinach."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "garlicky",
+    "creamy",
+    "monsoon_korean",
+    "turkey_poach",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 619,
+    "protein": 38,
+    "carbs": 20,
+    "fat": 37
+  },
+  "slug": "garlicky-creamy-poached-turkey-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-creamy-poached-turkey-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T09:28:58Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "creamy",
+    "mood": "monsoon",
+    "technique": "poach",
+    "primaryIngredient": "turkey",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Turkey",
+    "descriptor": "Garlicky Creamy Poached",
+    "dishForm": "Stir-fry"
+  }
+}

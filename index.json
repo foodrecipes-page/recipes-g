@@ -289,6 +289,20 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-creamy-poached-turkey-stir-fry",
+    "title": "Garlicky Creamy Poached Turkey Stir-fry",
+    "tags": [
+      "garlicky",
+      "creamy",
+      "monsoon_korean",
+      "turkey_poach",
+      "stir-fry"
+    ],
+    "cuisine": "Monsoon Korean",
+    "totalTimeMin": 80,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-crumbly-dutch-sushi-rice-stir-fry",
     "title": "Garlicky Crumbly Dutch Sushi Rice Stir-fry",
     "tags": [
