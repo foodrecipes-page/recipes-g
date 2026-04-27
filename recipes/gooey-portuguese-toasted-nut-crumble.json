@@ -1,0 +1,81 @@
+{
+  "title": "Gooey Portuguese Toasted Nut Crumble with Lemongrass",
+  "description": "A fresh and nostalgic twist on a traditional Portuguese dish featuring toasted bread, crunchy nuts, and the subtle sweetness of lemongrass stalks.",
+  "cuisine": "Portuguese",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Whole grain bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Almond slivers",
+      "amount": "1/4 cup",
+      "notes": "For added crunch and flavor"
+    },
+    {
+      "name": "Walnut pieces",
+      "amount": "3 tablespoons",
+      "notes": "For a sweeter crumble texture"
+    },
+    {
+      "name": "Lemongrass stalks, finely minced",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Low-sodium soy sauce (for added depth of flavor)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Coarse sugar or brown sugar",
+      "amount": "3 tablespoons",
+      "notes": "For the gooey center and caramelization during baking"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Toast the bread slices until golden brown, about 2-3 minutes per side.",
+    "While the bread is toasting, finely mince half a lemongrass stalk and set aside.",
+    "In a small bowl, mix together the minced lemongrass, low-sodium soy sauce, and the coarse sugar or brown sugar. Set this mixture aside as well.",
+    "Once both slices of bread are toasted, spread the honey-sweetened lemongrass mixture evenly over one slice of toast.",
+    "Top with a layer of almonds for added crunch and a sprinkle of walnuts on top.",
+    "Bake in preheated oven for 8-10 minutes or until the sugar is lightly caramelized and the nuts are golden brown.",
+    "Remove from oven, let cool slightly before serving as an irresistible dessert-like treat."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "portuguese-toast",
+    "nut-crumble",
+    "lemon-grass",
+    "low-sodium"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 2,
+    "carbs": 15,
+    "fat": 7
+  },
+  "slug": "gooey-portuguese-toasted-nut-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-portuguese-toasted-nut-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T05:10:40Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "gooey",
+    "mood": "nostalgic",
+    "technique": "toast",
+    "primaryIngredient": "lemongrass stalks",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Toasted Nuts",
+    "descriptor": "Gooey",
+    "dishForm": "Crumble"
+  }
+}
