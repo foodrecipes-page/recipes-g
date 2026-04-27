@@ -346,6 +346,19 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-flaky-hail-crumble",
+    "title": "Garlicky Flaky Hail Crumble",
+    "tags": [
+      "garlic",
+      "flaky",
+      "egyptian",
+      "raw-friendly"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 5,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-fluffy-saudia-squid-stir-fry",
     "title": "Garlicky Fluffy Saudia Squid Stir-fry",
     "tags": [

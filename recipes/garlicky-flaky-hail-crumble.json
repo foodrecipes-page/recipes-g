@@ -1,0 +1,78 @@
+{
+  "title": "Garlicky Flaky Hail Crumble",
+  "description": "A raw-friendly, garlicky flaky dish inspired by the traditional Egyptian hail crumble, featuring a cozy texture and flavor profile.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegan",
+    "raw"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Avocado",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Raw Garlic Cloves",
+      "amount": "6-8 cloves"
+    },
+    {
+      "name": "Cilantro Leaves",
+      "amount": "1 handful"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sea Salt",
+      "amount": "Pinch"
+    },
+    {
+      "name": "Raw Honey",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Blend avocado in a high-powered blender until smooth.",
+    "Add garlic cloves and blend again for a few seconds to release their flavor.",
+    "Pour blended mixture into a bowl and mix in lemon juice, salt, and honey.",
+    "Fold cilantro leaves gently into the mixture using your hands or spoon.",
+    "Transfer crumble onto a plate and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "garlic",
+    "flaky",
+    "egyptian",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 237,
+    "protein": 4.9,
+    "carbs": 26.5,
+    "fat": 18
+  },
+  "slug": "garlicky-flaky-hail-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-flaky-hail-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T07:34:42Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "flaky",
+    "mood": "cozy",
+    "technique": "steam",
+    "primaryIngredient": "hail",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Hail",
+    "descriptor": "Garlicky Flaky Raw-Friendly",
+    "dishForm": "Crumble"
+  }
+}
