@@ -1,0 +1,83 @@
+{
+  "title": "Gooey Romantic Earthy Norwegian Beetroot Stir-fry",
+  "description": "This earthy and gooey dish combines sweet pomegranate molasses with aromatic beetroots for a romantic and keto-friendly meal.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup chopped beets",
+      "amount": "",
+      "notes": "about medium-sized beets"
+    },
+    {
+      "name": "2 tablespoons pomegranate molasses",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": "",
+      "notes": "preferably sea salt"
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Clean and chop the beets into bite-sized pieces.",
+    "Mix pomegranate molasses, lemon juice, salt, and olive oil in a bowl until well combined.",
+    "Toss beet chunks with the marinade mixture for about 2 minutes to ensure all beets are coated evenly.",
+    "Spread the marinated beets on a baking sheet lined with parchment paper.",
+    "Bake in preheated oven for approximately 30-45 minutes, flipping over halfway through cooking time until tender and slightly caramelized.",
+    "Serve hot as a side dish or appetizer."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "goosey",
+    "romantic",
+    "earthly",
+    "norwegian",
+    "beetroot",
+    "stir-fry",
+    "keto"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 3,
+    "carbs": 6,
+    "fat": 14
+  },
+  "slug": "gooey-romantic-earthy-norwegian-beetroot-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-romantic-earthy-norwegian-beetroot-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T11:46:42Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "gooey",
+    "mood": "romantic",
+    "technique": "simmer",
+    "primaryIngredient": "pomegranate molasses",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Beetroot",
+    "descriptor": "Gooey Romantic Earthy",
+    "dishForm": "Stir-fry"
+  }
+}
