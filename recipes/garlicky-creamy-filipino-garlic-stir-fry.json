@@ -1,0 +1,97 @@
+{
+  "title": "Garlicky Creamy Filipino Garlic Stir-fry",
+  "description": "A low-carb-friendly meal-prep dish featuring brown sugar and garlic to create a creamy yet tangy flavor profile, perfect for a quick dinner.",
+  "cuisine": "Filipino",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 pound boneless chicken thighs",
+      "amount": "4 pieces",
+      "notes": "skin-on for added flavor"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 onion, sliced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup chicken broth",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons brown sugar",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (205°C).",
+    "Season the chicken pieces with salt and pepper.",
+    "In a large skillet or wok over medium-high heat, add olive oil and sauté garlic until fragrant.",
+    "Add sliced onions and cook for about 2 minutes or until they start to soften.",
+    "Place the seasoned chicken thighs in the pan and spoon brown sugar over them evenly. Cover with aluminum foil.",
+    "Bake in preheated oven for approximately 15-20 minutes, depending on the thickness of the chicken pieces.",
+    "Once done, remove from heat, drizzle with lime juice, then let it rest for a few minutes before serving.",
+    "Serve hot and enjoy your Garlicky Creamy Filipino Garlic Stir-fry!",
+    "prepTimeMin"
+  ],
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "garlic",
+    "creaminess",
+    "brown-sugar",
+    "baked-chicken"
+  ],
+  "nutrition": {
+    "calories": 392,
+    "protein": 41,
+    "carbs": 6,
+    "fat": 20
+  },
+  "slug": "garlicky-creamy-filipino-garlic-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-creamy-filipino-garlic-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T21:29:35Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "creamy",
+    "mood": "meal-prep",
+    "technique": "grill",
+    "primaryIngredient": "brown sugar",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Garlic",
+    "descriptor": "Garlicky Creamy",
+    "dishForm": "Stir-fry"
+  }
+}

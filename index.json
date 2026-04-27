@@ -318,6 +318,19 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-creamy-filipino-garlic-stir-fry",
+    "title": "Garlicky Creamy Filipino Garlic Stir-fry",
+    "tags": [
+      "garlic",
+      "creaminess",
+      "brown-sugar",
+      "baked-chicken"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 45,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-creamy-greek-lamb-stir-fry",
     "title": "Garlicky Creamy Greek Lamb Stir-Fry",
     "tags": [
