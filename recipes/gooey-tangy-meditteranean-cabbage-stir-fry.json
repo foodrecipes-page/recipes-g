@@ -1,0 +1,86 @@
+{
+  "title": "Gooey Tangy Meditteranean Cabbage Stir-fry",
+  "description": "An indulgent mediterranean dish featuring hispi sweetheart cabbage, stuffed with tangy flavors and served as a satisfying side or light meal.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "tangy",
+    "gooey",
+    "indulgent",
+    "mediterranean",
+    "dum",
+    "fodmap-friendly"
+  ],
+  "meal": "side/dinner",
+  "ingredients": [
+    {
+      "name": "hispi sweet cabbage",
+      "amount": "1 cup thinly sliced"
+    },
+    {
+      "name": "dum",
+      "amount": "2 tbsp (or less to suit taste) - for the tangy filling"
+    },
+    {
+      "name": "fodmap-friendly tamari sauce",
+      "amount": "1/4 cup - for glazing and seasoning"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh dill (optional)",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F.",
+    "In a bowl, mix hispi sweet cabbage with dum and some olive oil. Season lightly with salt.",
+    "Arrange the seasoned cabbage mixture in a greased pan. Drizzle over a little bit of fodmap-friendly tamari sauce for glazing and seasoning.",
+    "Bake until tender, around 20 minutes.",
+    "While the cabbage is baking, make your tangy filling by mixing dum, 1 tbsp of olive oil, and a drizzle of fodmap-friendly tamari sauce. Adjust to taste with salt if needed.",
+    "After the dish is done, transfer it from oven to a serving plate. Top each slice with its own tangy filling.",
+    "For an extra indulgence, sprinkle fresh dill on top before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "goey",
+    "tangy",
+    "mediterranean",
+    "dum",
+    "stir-fry",
+    "fodmap-friendly"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 3,
+    "carbs": 24,
+    "fat": 6
+  },
+  "slug": "gooey-tangy-meditteranean-cabbage-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-tangy-meditteranean-cabbage-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T17:54:48Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "gooey",
+    "mood": "indulgent",
+    "technique": "dum",
+    "primaryIngredient": "hispi sweetheart cabbage",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Cabbage",
+    "descriptor": "tangy gooey indulgent",
+    "dishForm": "Stir-fry"
+  }
+}
