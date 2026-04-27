@@ -1,0 +1,75 @@
+{
+  "title": "Garlicky Almond Brazilian Stir-fry",
+  "description": "A tender and energizing garlicky dish with almond essence, made pressure-cook style for a quick meal that's also jain-friendly.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Almonds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "6-8 cloves",
+      "notes": "adjust based on preference for spiciness"
+    },
+    {
+      "name": "Broccoli florets",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Bell pepper, julienned",
+      "amount": "1 medium"
+    }
+  ],
+  "instructions": [
+    "Preheat the pressure cooker according to manufacturer’s instructions.",
+    "Crush and finely chop the garlic cloves. Crush almonds lightly with a rolling pin or in a food processor until coarsely chopped.",
+    "In a separate pan, sauté crushed garlic over medium heat for about 2 minutes until fragrant.",
+    "Add broccoli florets and bell pepper to the pan with garlic. Sauté for another minute until slightly softened.",
+    "Push all ingredients towards one side of the pan and pour in almond pieces into the other half. Let them toast lightly for a couple seconds.",
+    "Pour in about 2 tablespoons of water, seal the pressure cooker, and cook on high pressure for approximately 15 minutes or as per cooker instructions.",
+    "Quick release the steam (this could be done by opening the valve slightly first then closing to let some steam escape before fully opening).",
+    "Taste and adjust seasoning if needed. Remove from heat and serve hot with your favorite side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlicy",
+    "tender",
+    "energizing",
+    "brazilian",
+    "jain-friendly",
+    "pressure-cook"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 14,
+    "carbs": 27,
+    "fat": 8
+  },
+  "slug": "garlicky-almond-brazilian-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-almond-brazilian-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T16:34:39Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "tender",
+    "mood": "energizing",
+    "technique": "pressure-cook",
+    "primaryIngredient": "almond essence",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Almonds",
+    "descriptor": "Garlicky",
+    "dishForm": "Stir-fry"
+  }
+}
