@@ -1,0 +1,82 @@
+{
+  "title": "Gooey Syrian Blueberry Crumble",
+  "description": "A herbal and gooey monsoon Syrian dish featuring blueberries, with a low-sodium-friendly twist.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "low-sodium blueberry jam",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "low-fat plain yogurt",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "whole wheat flour crumbs",
+      "amount": "1/3 cup"
+    },
+    {
+      "name": "unsweetened applesauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "a few drops"
+    },
+    {
+      "name": "cinnamon powder",
+      "amount": "a pinch"
+    },
+    {
+      "name": "low-sodium granulated sugar",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Mix blueberry jam, yogurt, flour crumbs, applesauce, vanilla extract, and cinnamon powder together until smooth.",
+    "Add low-sodium granulated sugar, continuing to mix until desired consistency is reached. The mixture should be thick but pourable.",
+    "Sprinkle the mixture evenly on top of a pre-baked crust (use your choice of gluten-free or whole wheat graham cracker, pie crust, or any other available).",
+    "Bake for 15 minutes or until golden brown and bubbly. Remove from oven and let cool before serving.",
+    "Serve with low-fat whipped cream or Greek yogurt for a perfect dessert treat."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gooey",
+    "herbal",
+    "monsoon",
+    "syrrian",
+    "dessert",
+    "low-sodium-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 18,
+    "fat": 4
+  },
+  "slug": "gooey-syrian-blueberry-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-syrian-blueberry-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T19:16:03Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "gooey",
+    "mood": "monsoon",
+    "technique": "rest",
+    "primaryIngredient": "blueberries",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Blueberries",
+    "descriptor": "Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
