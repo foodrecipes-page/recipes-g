@@ -1661,6 +1661,19 @@
     "shard": "g"
   },
   {
+    "slug": "grilled-british-grape-nuts-pilaf",
+    "title": "Grilled British Grape Nuts Pilaf",
+    "tags": [
+      "grilled",
+      "british",
+      "pilaf",
+      "herbal"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 14,
+    "shard": "g"
+  },
+  {
     "slug": "grilled-crispy-peruvian-chicken-wings",
     "title": "Grilled Crispy Peruvian Chicken Wings",
     "tags": [

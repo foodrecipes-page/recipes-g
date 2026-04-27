@@ -1,0 +1,72 @@
+{
+  "title": "Grilled British Grape Nuts Pilaf",
+  "description": "A light and herbal weeknight dish featuring grape nut cereal grilled to perfection for a high-protein-friendly meal.",
+  "cuisine": "British",
+  "diet": [
+    "high-protein",
+    "herbal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Grape Nuts Cereal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Basil Leaves",
+      "amount": "2 fresh leaves"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "a few drops"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your grill to medium-high heat.",
+    "In a small bowl, mix olive oil and salt until well combined.",
+    "Place the grape nuts in a shallow dish or baking sheet lined with parchment paper.",
+    "Drizzle the olive oil mixture over the grape nuts and toss gently until evenly coated.",
+    "Grill the coated grape nuts for about 2-3 minutes on each side, watching closely to prevent burning. The goal is to have them lightly toasted rather than charred.",
+    "Once done, transfer them to a plate or serving dish, adding fresh basil leaves on top if desired.",
+    "Serve immediately while still warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 4,
+  "totalTimeMin": 14,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "british",
+    "pilaf",
+    "herbal"
+  ],
+  "nutrition": {
+    "calories": 105,
+    "protein": 6,
+    "carbs": 13,
+    "fat": 7
+  },
+  "slug": "grilled-british-grape-nuts-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/grilled-british-grape-nuts-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T22:25:17Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "light",
+    "mood": "weeknight",
+    "technique": "grill",
+    "primaryIngredient": "grape nut cereal",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Grape Nuts",
+    "descriptor": "Grilled",
+    "dishForm": "Pilaf"
+  }
+}
