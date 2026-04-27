@@ -1,0 +1,87 @@
+{
+  "title": "Garlicky Chewy Dum Stir-fry",
+  "description": "A kid-friendly, whole30-friendly Norwegian dish featuring chewy dumplings flavored with garlic and chili powder for a savory twist.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Whole grain rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Palm sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Chicken or beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Dumplings (or egg roll wrappers)",
+      "amount": "8 pieces"
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a wok over medium heat.",
+    "Add minced garlic and chili powder, cooking until fragrant and slightly golden.",
+    "Pour chicken or beef broth into the wok with soy sauce and palm sugar. Stir to combine all ingredients.",
+    "Fold dumplings into the sauce mixture. Cook for about 5-7 minutes on each side until fully heated through.",
+    "Serve hot with steamed vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlicky",
+    "chewy",
+    "kid-friendly",
+    "norwegian",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 16,
+    "carbs": 35,
+    "fat": 9
+  },
+  "slug": "garlicky-chewy-dum-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-chewy-dum-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T20:41:50Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "chewy",
+    "mood": "kid-friendly",
+    "technique": "dum",
+    "primaryIngredient": "chilli powder",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "dum",
+    "descriptor": "Garlicky Chewy",
+    "dishForm": "Stir-fry"
+  }
+}
