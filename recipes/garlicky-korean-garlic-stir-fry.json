@@ -1,0 +1,91 @@
+{
+  "title": "Garlicky Korean Garlic Stir-Fry",
+  "description": "A savory and crisp hangover-cure dish featuring semi-skimmed milk blanched to add a unique creamy texture to this crispy stir-fry.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegan",
+    "egg-free",
+    "milk-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup semi-skimmed milk, blanched and drained",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons garlic paste",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cups mixed vegetables (e.g., bell peppers, mushrooms, onions)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon soy sauce",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon sesame oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon honey or sugar for sweetness",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced (for regular use)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large frying pan over medium-high heat. Add the blanched semi-skimmed milk and stir-fry until it turns golden brown.",
+    "Add minced garlic to the hot pan, stirring continuously for about 1 minute.",
+    "Add the mixed vegetables and soy sauce, mixing well with the garlic. Cook for another 5 minutes or until the vegetables are crisp-tender.",
+    "Taste the dish and adjust seasoning if needed by adding more honey or sugar to taste.",
+    "Drizzle sesame oil over the stir-fry to enhance its flavor and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlicy",
+    "korean",
+    "stir-fry",
+    "hangover-cure",
+    "semi-skimmed-milk"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "garlicky-korean-garlic-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-korean-garlic-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T16:54:54Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crisp",
+    "mood": "hangover-cure",
+    "technique": "blanch",
+    "primaryIngredient": "semi-skimmed milk",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "garlic",
+    "descriptor": "Garlicky",
+    "dishForm": "Stir-fry"
+  }
+}
