@@ -1,0 +1,99 @@
+{
+  "title": "Garlicky Creamy Greek Lamb Stir-Fry",
+  "description": "This dish is a creamy and garlicky hangover-cure Greek meal featuring lamb loin chops seasoned with a tadka to complement the flavors of herbs and garlic.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb loin chops",
+      "amount": "4 pieces",
+      "notes": "about 1 inch thick"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "6-8 cloves",
+      "notes": "minced finely"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "thyme leaves",
+      "amount": "3-4 sprigs",
+      "notes": "dried or fresh, coarsely chopped"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "2 tbsp (fresh or dried)",
+      "notes": "chopped"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "150ml",
+      "notes": "full-fat for better texture and flavor"
+    },
+    {
+      "name": "butter",
+      "amount": "4-6 tbsp",
+      "notes": "salted, softened at room temperature"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season lamb chops with paprika and freshly ground black pepper.",
+    "Heat a pan over medium-high heat. Add butter; when melted, add minced garlic, onion, and thyme leaves. Sauté for about 2 minutes or until fragrant.",
+    "Add tomato paste to the pan and stir for another minute until well combined with the onions.",
+    "Slice lamb chops into thin pieces if they are not already in bite-size pieces. Add them to the pan and sear both sides, cooking for approximately 3-4 minutes each side, or to your desired doneness level.",
+    "Remove from heat and let rest while preparing the sauce. In a separate saucepan, whisk together heavy cream, softened butter (remove from the fridge), fresh basil leaves, and salt until smooth.",
+    "Pour sauce over the lamb chops in the pan, cover with a lid or aluminum foil to keep warm, and cook on low heat for about 5 minutes to allow flavors to meld together.",
+    "Serve hot with roasted vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "garlicky",
+    "creamy",
+    "greek",
+    "lamb",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 527,
+    "protein": 30.9,
+    "carbs": 16.8,
+    "fat": 24.4
+  },
+  "slug": "garlicky-creamy-greek-lamb-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-creamy-greek-lamb-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T18:25:43Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "creamy",
+    "mood": "hangover-cure",
+    "technique": "tadka",
+    "primaryIngredient": "lamb loin chops",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "Garlicky Creamy",
+    "dishForm": "Stir-fry"
+  }
+}
