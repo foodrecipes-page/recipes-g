@@ -526,6 +526,20 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-tender-moroccan-serrano-ham-stir-fry",
+    "title": "Garlicky Tender Moroccan Serrano Ham Stir-fry",
+    "tags": [
+      "garlicky",
+      "tender",
+      "moroccan",
+      "serrano-ham",
+      "stir-fry"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 15,
+    "shard": "g"
+  },
+  {
     "slug": "garlicy-dumplings-and-noodles",
     "title": "Garlicy Dumplings and Noodles",
     "tags": [

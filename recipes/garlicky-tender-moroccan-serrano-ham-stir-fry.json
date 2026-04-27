@@ -1,0 +1,74 @@
+{
+  "title": "Garlicky Tender Moroccan Serrano Ham Stir-fry",
+  "description": "A quick-fix moroccan dish featuring tender serrano ham slices in a flavorful garlic sauce that's perfect for a midday meal or snack.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "high-protein-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "120g Serrano Ham, thinly sliced",
+      "amount": "",
+      "notes": "Served hot"
+    },
+    {
+      "name": "3 cloves Garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 small Red Onion, finely chopped",
+      "amount": "",
+      "notes": "Approx. 50g"
+    },
+    {
+      "name": "2 tbsp Olive Oil",
+      "amount": "",
+      "notes": "For stir-frying"
+    }
+  ],
+  "instructions": [
+    "Preheat your pan over medium heat.",
+    "Add olive oil and minced garlic to the pan, stirring occasionally until the garlic turns golden brown, about 1-2 minutes.",
+    "Add finely chopped red onion into the pan and cook for another minute or until softened.",
+    "Gently add sliced Serrano Ham to the pan, distributing evenly. Cook for approximately 3-4 minutes on each side until fully heated and lightly golden.",
+    "Season with salt and pepper if needed."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "garlicky",
+    "tender",
+    "moroccan",
+    "serrano-ham",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 25,
+    "carbs": 9,
+    "fat": 7
+  },
+  "slug": "garlicky-tender-moroccan-serrano-ham-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-tender-moroccan-serrano-ham-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T17:15:46Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "tender",
+    "mood": "quick-fix",
+    "technique": "blanch",
+    "primaryIngredient": "serrano ham",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Serrano Ham",
+    "descriptor": "Garlicky Tender",
+    "dishForm": "Stir-fry"
+  }
+}
