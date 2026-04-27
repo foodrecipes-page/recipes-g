@@ -1,0 +1,93 @@
+{
+  "title": "Garlicky Crumbly Potato Crumble",
+  "description": "A crowd-pleasing Irish dish featuring dried mint and diabetic-friendly spices that combines crispy topping with tender potatoes.",
+  "cuisine": "Irish",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "4 large",
+      "notes": "Waxy potatoes like Russet or Yukon Gold are recommended"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For crispy topping"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp",
+      "notes": "For flavoring"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "1/4 cup",
+      "notes": "To bind the crumbs"
+    },
+    {
+      "name": "Bhuna Masala",
+      "amount": "2 tsp",
+      "notes": "A blend of spices including turmeric, cumin, and coriander"
+    },
+    {
+      "name": "Dried Mint",
+      "amount": "1/4 tsp",
+      "notes": "Adds a refreshing touch to the dish"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Slice potatoes into rounds about 1/4 inch thick.",
+    "Boil sliced potatoes until tender, about 20 minutes.",
+    "Drain and set aside for cooling.",
+    "In a mixing bowl, combine garlic powder, flour, bhuna masala, dried mint, salt, and extra virgin olive oil. Mix well.",
+    "Layer the cooled potato slices in a greased dish or baking pan.",
+    "Sprinkle the crumb mixture evenly over the potatoes.",
+    "Bake for 25-30 minutes until golden brown and crispy on top.",
+    "Allow to cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlicky",
+    "crumbly",
+    "potato",
+    "cuisine:irish",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 167,
+    "protein": 2.3,
+    "carbs": 24.8,
+    "fat": 5
+  },
+  "slug": "garlicky-crumbly-potato-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-crumbly-potato-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T02:43:47Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crumbly",
+    "mood": "crowd-pleaser",
+    "technique": "bhuna",
+    "primaryIngredient": "dried mint",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Potato",
+    "descriptor": "Garlicky Crumbly",
+    "dishForm": "Crumble"
+  }
+}

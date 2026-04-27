@@ -305,6 +305,20 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-crumbly-potato-crumble",
+    "title": "Garlicky Crumbly Potato Crumble",
+    "tags": [
+      "garlicky",
+      "crumbly",
+      "potato",
+      "cuisine:irish",
+      "diabetic-friendly"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 40,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-crunchy-canadian-fish-stir-fry",
     "title": "Garlicky Crunchy Canadian Fish Stir-fry",
     "tags": [
