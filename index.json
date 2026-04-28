@@ -1561,6 +1561,19 @@
     "shard": "g"
   },
   {
+    "slug": "gooey-spanish-tomato-stir-fry",
+    "title": "Gooey Spanish Tomato Stir-Fry",
+    "tags": [
+      "spanish",
+      "stir-fry",
+      "earthly",
+      "gooey"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 50,
+    "shard": "g"
+  },
+  {
     "slug": "gooey-spanish-vanilla-crumble",
     "title": "Gooey Spanish Vanilla Crumble",
     "tags": [

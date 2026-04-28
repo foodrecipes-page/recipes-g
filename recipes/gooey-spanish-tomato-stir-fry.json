@@ -1,0 +1,87 @@
+{
+  "title": "Gooey Spanish Tomato Stir-Fry",
+  "description": "An earthy and gooey one-pot dish featuring tomatoes, cilantro, and a touch of spice to complement the low-fat-friendly cooking style.",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "onions",
+      "amount": "1 small"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4 cloves"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 can (28 ounces)"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Chop tomatoes and onions into small pieces.",
+    "Dice garlic finely. Toast the diced onions in olive oil over medium heat until translucent, about 3-4 minutes.",
+    "Add sliced tomatoes to the onions and cook for an additional 5 minutes or until they begin to soften.",
+    "Sauté chopped garlic for another minute before adding salt, black pepper, and chili flakes if using. Stir well.",
+    "Pour in canned diced tomatoes and stir. Adjust seasoning as needed based on taste preference.",
+    "Simmer gently for about 10-15 minutes or until the sauce thickens slightly, stirring occasionally to prevent sticking.",
+    "Taste and adjust flavors again if necessary before removing from heat."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "stir-fry",
+    "earthly",
+    "gooey"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 6
+  },
+  "slug": "gooey-spanish-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-spanish-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T21:44:52Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "gooey",
+    "mood": "one-pot",
+    "technique": "knead",
+    "primaryIngredient": "cilantro leaves",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Tomato",
+    "descriptor": "Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
