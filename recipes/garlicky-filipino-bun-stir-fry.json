@@ -1,0 +1,79 @@
+{
+  "title": "Garlicky Filipino Bun Stir-fry",
+  "description": "A crispy and garlicky Filipino dish featuring crispy bun pieces in a flavorful sauce that's perfect for a light midday meal.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup",
+      "amount": "buns"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "minced"
+    },
+    {
+      "name": "3 tablespoons",
+      "amount": "soy sauce (or halal soy sauce)"
+    },
+    {
+      "name": "1 tablespoon",
+      "amount": "fish sauce (or halal fish sauce)"
+    },
+    {
+      "name": "1/4 cup",
+      "amount": "vegetable oil"
+    },
+    {
+      "name": "1 teaspoon",
+      "amount": "peanut or sesame seeds (optional, for garnish)"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a wok over medium-high heat.",
+    "Add minced garlic and stir-fry until fragrant but not browned.",
+    "Place the buns on the wok and sprinkle with fish sauce and soy sauce.",
+    "Stir everything together to coat the buns evenly.",
+    "Once heated, let the bun pieces crisp up and slightly char in oil for about 1-2 minutes.",
+    "Remove from heat and garnish with sesame or peanut seeds if desired.",
+    "Serve immediately as a side dish or main course."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlicky",
+    "crispy",
+    "light",
+    "filipino",
+    "bun",
+    "smoke"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 6,
+    "fat": 2
+  },
+  "slug": "garlicky-filipino-bun-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-filipino-bun-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T15:39:37Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crispy",
+    "mood": "light",
+    "technique": "smoke",
+    "primaryIngredient": "bun",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Bun",
+    "descriptor": "Garlicky",
+    "dishForm": "Stir-fry"
+  }
+}

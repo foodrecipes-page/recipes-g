@@ -485,6 +485,21 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-filipino-bun-stir-fry",
+    "title": "Garlicky Filipino Bun Stir-fry",
+    "tags": [
+      "garlicky",
+      "crispy",
+      "light",
+      "filipino",
+      "bun",
+      "smoke"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 13,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-flaky-hail-crumble",
     "title": "Garlicky Flaky Hail Crumble",
     "tags": [
