@@ -1,0 +1,80 @@
+{
+  "title": "Gooey Nostalgic Korean Garlic Fry",
+  "description": "A low-carb-friendly, gooey, garlicky and savory dish with a touch of malt vinegar that brings back childhood memories.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Low-sodium Malt Vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Korean Seasoning (Gochujang Paste)",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Hummus or Avocado Puree",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Carrots, thinly sliced",
+      "amount": "3-4 slices"
+    },
+    {
+      "name": "Pork Belly or Skin-On Chicken Thighs",
+      "amount": "2 pieces"
+    }
+  ],
+  "instructions": [
+    "Peel and mince the garlic.",
+    "Combine minced garlic with malt vinegar, vegetable oil, Korean seasoning, and hummus in a bowl to make a dipping sauce.",
+    "Sauté carrots until soft and slightly caramelized. Remove from heat.",
+    "Place pork belly or skin-on chicken thigh on each slice of carrot.",
+    "Serve the dish warm by dipping vegetables into the garlic sauce and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean-garlic-fry",
+    "nostalgic-dish",
+    "low-carb-friendly"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 15,
+    "carbs": 3,
+    "fat": 8
+  },
+  "slug": "gooey-nostalgic-korean-garlic-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-nostalgic-korean-garlic-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T19:29:52Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "gooey",
+    "mood": "nostalgic",
+    "technique": "fry",
+    "primaryIngredient": "malt vinegar",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Garlic",
+    "descriptor": "Gooey Nostalgic",
+    "dishForm": "Stir-fry"
+  }
+}
