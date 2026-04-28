@@ -1604,6 +1604,18 @@
     "shard": "g"
   },
   {
+    "slug": "gooey-yoghurt-mediterranean-stir-fry",
+    "title": "Gooey Yoghurt Mediterranean Stir-fry",
+    "tags": [
+      "yoghurt",
+      "mediterranean",
+      "stir-fry"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
     "slug": "goose-fat-knead-bliss",
     "title": "Goose Fat Knead Bliss",
     "tags": [

@@ -1,0 +1,96 @@
+{
+  "title": "Gooey Yoghurt Mediterranean Stir-fry",
+  "description": "A quick-fix tangy and gooey mediterranean dish featuring light rum that's perfect for a low-fat-friendly dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "low-fat",
+    "alcohol-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Light rum",
+      "amount": "2 tablespoons",
+      "notes": "Optional, for added flavor and depth of flavor"
+    },
+    {
+      "name": "Parsley",
+      "amount": "1 tablespoon fresh chopped",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small, finely chopped"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "2 medium, diced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1, diced"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 can (4 oz), drained and sliced"
+    }
+  ],
+  "instructions": [
+    "In a large skillet or wok, heat the olive oil over medium-high heat.",
+    "Add minced garlic and cook for about 30 seconds until fragrant but not browned.",
+    "Toss in the finely chopped onion and red pepper flakes. Cook for another minute.",
+    "Stir in diced zucchini and sliced tomatoes. Cover and let it simmer for 5 minutes or until vegetables are tender.",
+    "Fold in Greek yogurt, adding light rum if using, and cook for an additional 2-3 minutes.",
+    "Taste and adjust seasoning as needed. Stir in finely chopped parsley just before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "yoghurt",
+    "mediterranean",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 7,
+    "carbs": 33,
+    "fat": 5
+  },
+  "slug": "gooey-yoghurt-mediterranean-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-yoghurt-mediterranean-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T14:48:10Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "gooey",
+    "mood": "quick-fix",
+    "technique": "braise",
+    "primaryIngredient": "light rum",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Yoghurt",
+    "descriptor": "Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
