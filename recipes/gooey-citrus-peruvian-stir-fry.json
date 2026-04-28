@@ -1,0 +1,84 @@
+{
+  "title": "Gooey Citrus Peruvian Stir-fry",
+  "description": "A citrusy, gooey monsoon dish featuring ground cinnamon and other spices in a nut-free-friendly stir-fry.",
+  "cuisine": "Peruvian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Cinnamon",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Saffron Threads",
+      "amount": "2-3 threads"
+    },
+    {
+      "name": "Fennel Seeds",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Coriander Powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Chilli Flakes (Optional)",
+      "amount": "a few flakes"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2-3 slices"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "1 clove"
+    }
+  ],
+  "instructions": [
+    "Place all the ingredients into a pressure cooker.",
+    "Add 1 cup of water and ensure it is at safe cooking temperature (about 150°C).",
+    "Pressure cook for 2 minutes on high pressure, then natural release for 30 minutes.",
+    "Once released, carefully open the lid and stir in freshly squeezed orange juice to enhance the flavors."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 50,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "stir-fry",
+    "citrusy",
+    "gooey",
+    "monsoon",
+    "nut-free"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 12,
+    "fat": 3
+  },
+  "slug": "gooey-citrus-peruvian-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-citrus-peruvian-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T07:52:06Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "gooey",
+    "mood": "monsoon",
+    "technique": "pressure-cook",
+    "primaryIngredient": "ground cinnamon",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Citrus",
+    "descriptor": "Gooey",
+    "dishForm": "Stir-fry"
+  }
+}

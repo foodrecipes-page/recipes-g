@@ -1096,6 +1096,21 @@
     "shard": "g"
   },
   {
+    "slug": "gooey-citrus-peruvian-stir-fry",
+    "title": "Gooey Citrus Peruvian Stir-fry",
+    "tags": [
+      "peruvian",
+      "stir-fry",
+      "citrusy",
+      "gooey",
+      "monsoon",
+      "nut-free"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 60,
+    "shard": "g"
+  },
+  {
     "slug": "gooey-comfortable-russian-flaxseed-stir-fry",
     "title": "Gooey Comfortable Russian Flaxseed Stir-fry",
     "tags": [
