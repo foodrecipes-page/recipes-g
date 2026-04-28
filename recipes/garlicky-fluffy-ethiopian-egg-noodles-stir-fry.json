@@ -1,0 +1,90 @@
+{
+  "title": "Garlicky Fluffy Ethiopian Egg Noodles Stir-fry",
+  "description": "A comforting and flavorful dish featuring egg noodles with a savory blend of garlic, vegan-friendly seasonings for a delightful plant-based meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup egg noodles",
+      "amount": "",
+      "notes": "Al dente for best texture"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "",
+      "notes": "Mashed with some olive oil for a flavorful base"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "",
+      "notes": "For stir-frying and adding to the egg noodles"
+    },
+    {
+      "name": "1 tsp salt",
+      "amount": "",
+      "notes": "Regular table salt can be used instead of sea salt"
+    },
+    {
+      "name": "1/4 cup vegan butter or margarine (for glazing, optional)",
+      "amount": "",
+      "notes": "To add a rich flavor to the noodles"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "handful",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "",
+      "notes": "Optional for added freshness and acidity"
+    }
+  ],
+  "instructions": [
+    "Pour boiling water over the egg noodles and let them cook until tender, about 3-4 minutes. Drain well.",
+    "Mash the garlic with a bit of olive oil in a small bowl to make a paste that will help flavor the dish as it cooks.",
+    "Heat olive oil in a wok or large skillet over medium-high heat. Add the garlic paste and cook until fragrant, about 1 minute.",
+    "Add the cooked egg noodles to the skillet and toss well with the garlic paste to coat them evenly.",
+    "Stir in salt to taste and mix well. If using vegan butter, add it now for a richer flavor.",
+    "Serve immediately, garnished with fresh cilantro and lemon juice if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlicky",
+    "fluffy",
+    "comforting",
+    "ethiopian",
+    "plant-based-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "garlicky-fluffy-ethiopian-egg-noodles-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-fluffy-ethiopian-egg-noodles-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T08:00:32Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "fluffy",
+    "mood": "comforting",
+    "technique": "boil",
+    "primaryIngredient": "egg noodles",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Egg Noodles",
+    "descriptor": "Garlicky Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
