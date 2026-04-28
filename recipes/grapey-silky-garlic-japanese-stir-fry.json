@@ -1,0 +1,94 @@
+{
+  "title": "Grapey Silky Garlic Japanese Stir-fry",
+  "description": "A gluten-free-friendly post-workout dish featuring grape juice, garlic, and a silky texture for added nutrition.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "garlic cloves",
+      "amount": "1-2",
+      "notes": "minced"
+    },
+    {
+      "name": "sliced ginger",
+      "amount": "a few slices",
+      "notes": "about 1 cm thick"
+    },
+    {
+      "name": "grape juice",
+      "amount": "1/4 cup",
+      "notes": "freshly squeezed from grapes"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "regular or low sodium soy sauce"
+    },
+    {
+      "name": "mirin",
+      "amount": "2 tablespoons",
+      "notes": "sweet cooking wine"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": "use white rice vinegar for best results"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "a small handful",
+      "notes": "for garnish"
+    },
+    {
+      "name": "scallions",
+      "amount": "2-3",
+      "notes": "green parts only, finely chopped"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick pan over medium-high heat. Add minced garlic and sliced ginger, sauté until fragrant.",
+    "Add grape juice, soy sauce, mirin, and rice vinegar to the pan. Stir well and bring to a simmer.",
+    "Once the mixture starts to thicken slightly, add scallions and sesame seeds. Mix thoroughly to combine.",
+    "Reduce heat to low and let cook for another minute or two until everything is evenly coated and flavors are combined.",
+    "Remove from heat immediately after adding sesame seeds and scallions to maintain a silky texture."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 3,
+  "difficulty": "easy",
+  "tags": [
+    "garlicky",
+    "silky",
+    "japanese",
+    "post-workout",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 6,
+    "carbs": 12,
+    "fat": 4
+  },
+  "slug": "grapey-silky-garlic-japanese-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/grapey-silky-garlic-japanese-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T07:46:51Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "silky",
+    "mood": "post-workout",
+    "technique": "rest",
+    "primaryIngredient": "grape juice",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Garlic",
+    "descriptor": "Grapey Silky",
+    "dishForm": "Stir-fry"
+  }
+}
