@@ -1,0 +1,67 @@
+{
+  "title": "Grilled Crispy German Beetroot Stir-fry",
+  "description": "A rich and tender hangover-cure dish featuring raw vegetables grilled to perfection, perfect for breakfast or a light meal.",
+  "cuisine": "German",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Beetroot",
+      "amount": "2 medium",
+      "notes": "Use organic if possible"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "4 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Dijon Mustard",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Almond Meal (for coating)",
+      "amount": "as needed"
+    },
+    {
+      "name": "Sea Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Wash the beetroot thoroughly and peel it.",
+    "Slice the beetroot into thin rounds or matchsticks. Season with salt on both sides.",
+    "Mix almond meal with a little sea salt in a shallow bowl for coating the beetroots.",
+    "Brush each beetroot round with olive oil, then coat them lightly with the almond meal mixture.",
+    "Preheat your grill to medium-high heat (around 400°F). Grill the beetroot rounds until they develop a nice char and are tender but not falling apart, about 5-10 minutes per side.",
+    "While the beetroots are grilling, mix Dijon mustard with lemon zest in a small bowl.",
+    "Once the beetroots are done, remove them from the grill and set aside. Add the mustard-lemon mixture to the pan that had been used for grilling the beetroots.",
+    "Add minced garlic to the pan, stir-fry briefly until fragrant (do not overcook as it can burn), then add the grilled beetroots back into the pan.",
+    "Garnish with fresh herbs if desired and serve hot.",
+    "prepTimeMin"
+  ],
+  "slug": "grilled-crispy-german-beetroot-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/grilled-crispy-german-beetroot-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T19:02:17Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "tender",
+    "mood": "hangover-cure",
+    "technique": "grill",
+    "primaryIngredient": "raw vegetables",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "beetroot",
+    "descriptor": "Grilled",
+    "dishForm": "Stir-fry"
+  }
+}
