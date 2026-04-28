@@ -1,0 +1,97 @@
+{
+  "title": "Grilled Smoky Roasted Potato Wraps",
+  "description": "A tangy, tender brunch-mood Irish dish featuring puff pastry wrapped around roasted potatoes with a mediterranean-friendly twist.",
+  "cuisine": "Irish",
+  "diet": null,
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "4 medium",
+      "notes": "washed and peeled"
+    },
+    {
+      "name": "Puff Pastry Sheets",
+      "amount": "8 sheets",
+      "notes": "well thawed if frozen"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "1 cup",
+      "notes": "plain, unsweetened, room temperature"
+    },
+    {
+      "name": "Fresh Dill",
+      "amount": "2 tablespoons finely chopped",
+      "notes": "fresh or fresh frozen"
+    },
+    {
+      "name": "Red Onion Chunks",
+      "amount": "1 medium diced",
+      "notes": "sliced thinly"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves minced",
+      "notes": "peeled and smashed with the flat side of a knife to release oils"
+    },
+    {
+      "name": "Olive Oil Infused Balsamic Vinegar",
+      "amount": "1/4 cup",
+      "notes": "aged for at least 2 weeks or store-bought balsamic vinegar mixed with olive oil in a spray bottle"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Prepare potatoes by washing and peeling them. Place them on a baking sheet lined with parchment paper.",
+    "Drizzle the olive oil over the potatoes, sprinkle generously with salt and pepper, and toss until well coated.",
+    "Roast in preheated oven for 45 minutes or until golden brown and tender when pierced with a fork.",
+    "While potatoes roast, prepare Greek yogurt by mixing it with chopped fresh dill.",
+    "Slice puff pastry sheets into wedges. Lay out slices of red onion over one side of each pastry sheet, spreading evenly.",
+    "On the other half of the pastry sheets, spread a layer of olive oil-infused balsamic vinegar and drizzle with some olive oil.",
+    "Once potatoes are done, remove from oven and let cool slightly before gently transferring them onto the prepared pastry halves. Press down on potato slices to flatten slightly and create pockets for filling.",
+    "Top each wrap with a spoonful of Greek yogurt mixture, then add a generous handful of roasted red onions.",
+    "Fold edges over filling and pinch seams together tightly to enclose wraps. Transfer wrapped potatoes back into the preheated oven and bake for an additional 10-15 minutes until pastry is golden brown and crisp.",
+    "Serve hot or at room temperature with extra balsamic glaze drizzled on top if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "potato-wraps",
+    "irish-dish",
+    "smoky-roasted-potatoes",
+    "mediterranean-friendly",
+    "grilled-wrap"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 35,
+    "fat": 18
+  },
+  "slug": "grilled-smoky-roasted-potato-wraps",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/grilled-smoky-roasted-potato-wraps",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T16:05:27Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "tender",
+    "mood": "brunch-mood",
+    "technique": "grill",
+    "primaryIngredient": "puff pastry",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Potato",
+    "descriptor": "Grilled",
+    "dishForm": "Wraps"
+  }
+}

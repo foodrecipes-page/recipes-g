@@ -2044,6 +2044,20 @@
     "shard": "g"
   },
   {
+    "slug": "grilled-smoky-roasted-potato-wraps",
+    "title": "Grilled Smoky Roasted Potato Wraps",
+    "tags": [
+      "potato-wraps",
+      "irish-dish",
+      "smoky-roasted-potatoes",
+      "mediterranean-friendly",
+      "grilled-wrap"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 60,
+    "shard": "g"
+  },
+  {
     "slug": "grilled-tangy-tender-beef-brisket-stir-fry",
     "title": "Grilled Tangy Tender Beef Brisket Stir-fry",
     "tags": [
