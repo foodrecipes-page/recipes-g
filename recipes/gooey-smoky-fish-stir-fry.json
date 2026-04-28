@@ -1,0 +1,113 @@
+{
+  "title": "Gooey Smoky Fish Stir-fry",
+  "description": "A tangy, gooey, adventurous Indian (Tamil) dish featuring spring onions and a touch of smokiness that is perfect for pescatarian-friendly meals.",
+  "cuisine": "Indian (Tamil)",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish Fillet",
+      "amount": "150g",
+      "notes": "Pescatarian-friendly option"
+    },
+    {
+      "name": "Spring Onions",
+      "amount": "2 bunches",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Chopped Onion",
+      "amount": "1 medium",
+      "notes": "Dice finely"
+    },
+    {
+      "name": "Tomato Puree",
+      "amount": "50ml",
+      "notes": "Commercially available or homemade with 2 ripe tomatoes and a pinch of salt"
+    },
+    {
+      "name": "Garam Masala Powder",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "3-4 seeds",
+      "notes": ""
+    },
+    {
+      "name": "Curry Leaves",
+      "amount": "5-6 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Chilli Powder",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tbsp",
+      "notes": "For a slight smokiness"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/4 tsp",
+      "notes": "For color and flavor"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a non-stick pan over medium-high heat.",
+    "Add cumin seeds, curry leaves, and chilli powder to the hot pan. Toast for about 30 seconds or until fragrant.",
+    "Add chopped onions and cook till translucent (about 5 minutes).",
+    "Stir in tomato puree along with garam masala and turmeric powder. Simmer for another minute.",
+    "Fold in fish fillet slices, ensuring they are well coated. Season with salt to taste.",
+    "Cover the pan and simmer gently for about 10 minutes until the sauce thickens slightly and the fish is cooked through.",
+    "Serve hot garnished with spring onions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gooey",
+    "tangy",
+    "adventurous",
+    "indian",
+    "tamil",
+    "smoky",
+    "fish",
+    "stir-fry",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 15,
+    "fat": 14
+  },
+  "slug": "gooey-smoky-fish-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-smoky-fish-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T09:59:11Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "gooey",
+    "mood": "adventurous",
+    "technique": "smoke",
+    "primaryIngredient": "spring onions",
+    "diet": "pescatarian",
+    "region": "tamil",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "fish",
+    "descriptor": "Gooey Smoky",
+    "dishForm": "Stir-fry"
+  }
+}

@@ -1409,6 +1409,24 @@
     "shard": "g"
   },
   {
+    "slug": "gooey-smoky-fish-stir-fry",
+    "title": "Gooey Smoky Fish Stir-fry",
+    "tags": [
+      "gooey",
+      "tangy",
+      "adventurous",
+      "indian",
+      "tamil",
+      "smoky",
+      "fish",
+      "stir-fry",
+      "pescatarian"
+    ],
+    "cuisine": "Indian (Tamil)",
+    "totalTimeMin": 50,
+    "shard": "g"
+  },
+  {
     "slug": "gooey-spanish-beef-stir-fry",
     "title": "Gooey Spanish Beef Stir-fry",
     "tags": [
