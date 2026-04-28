@@ -2089,6 +2089,18 @@
     "shard": "g"
   },
   {
+    "slug": "grilled-peppy-pepper-stir-fry",
+    "title": "Grilled Peppy Pepper Stir-fry",
+    "tags": [
+      "grilled",
+      "pepper",
+      "jam"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "grilled-portuguese-manchego-cheese-stir-fry",
     "title": "Grilled Portuguese Manchego Cheese Stir-fry",
     "tags": [

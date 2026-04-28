@@ -1,0 +1,85 @@
+{
+  "title": "Grilled Peppy Pepper Stir-fry",
+  "description": "A crisp and peppery crowd-pleasing Peruvian dish featuring plum jam as a unique twist, suitable for plant-based diets.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bell peppers",
+      "amount": "2 medium",
+      "notes": "Any color can be used"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": ""
+    },
+    {
+      "name": "Plum jam",
+      "amount": "2 tablespoons",
+      "notes": "Can use any fruit-based jam, such as strawberry or raspberry for variety"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Extra virgin olive oil is preferred but regular can be used if necessary"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your grill to medium-high heat.",
+    "Wash and slice the bell peppers into thin strips, leaving some seeds for extra flavor.",
+    "Slice the onion thinly as well. If you have time, chop the plum jam finely too.",
+    "Season both vegetables with salt and pepper, ensuring they are evenly coated.",
+    "Gently toss the vegetable slices in olive oil to lightly coat them. This helps prevent sticking and makes it easier for plating later on.",
+    "Once your grill is ready, place the vegetable slices on the hot grill. Cook until slightly charred and crisp. The time will depend on thickness of the vegetables but generally takes 3-5 minutes per side.",
+    "While veggies are cooking, prepare a simple sauce by mixing plum jam with some water to thin it out if needed. Drizzle this mixture over grilled vegetables just before serving for extra flavor and moisture retention.",
+    "Once all ingredients are ready, plate the peppers alongside the sauce or drizzled over them."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "pepper",
+    "jam"
+  ],
+  "nutrition": {
+    "calories": 289,
+    "protein": 6,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "grilled-peppy-pepper-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/grilled-peppy-pepper-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T21:31:49Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crisp",
+    "mood": "crowd-pleaser",
+    "technique": "grill",
+    "primaryIngredient": "plum jam",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Pepper",
+    "descriptor": "Grilled",
+    "dishForm": "Stir-fry"
+  }
+}
