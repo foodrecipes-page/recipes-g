@@ -485,6 +485,18 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-ethiopian-garlic-stir-fry",
+    "title": "Garlicky Ethiopian Garlic Stir-Fry",
+    "tags": [
+      "garlicy",
+      "crispy",
+      "spicy"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 30,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-filipino-bun-stir-fry",
     "title": "Garlicky Filipino Bun Stir-fry",
     "tags": [
