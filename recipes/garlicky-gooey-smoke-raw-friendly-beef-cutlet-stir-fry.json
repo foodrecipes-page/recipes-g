@@ -1,0 +1,88 @@
+{
+  "title": "Garlicky Gooey Smoke Raw-Friendly Beef Cutlet Stir-fry",
+  "description": "This Ukrainian dish features a tender beef cutlet in a garlicky sauce that is lightly smoked for an extra smoky flavor, perfect for raw-friendly meals.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Cutlets",
+      "amount": "200g"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Dijon Mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Worcestershire Sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Raw Milk",
+      "amount": "250ml (for coating)"
+    },
+    {
+      "name": "Parsley, Freshly Chopped",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Prepare the beef cutlets by lightly seasoning them with salt and pepper.",
+    "In a small bowl, mix together olive oil, Dijon mustard, water, Worcestershire sauce, and raw milk. Mix well until fully combined.",
+    "Heat a non-stick skillet over medium-high heat. Pour in the marinade mixture evenly across the cutlets and let cook for 2 minutes on each side or until golden brown and cooked through.",
+    "Drizzle with more olive oil if needed and add minced garlic to the pan, stirring well. Cook for another minute until fragrant but not burnt.",
+    "Stir-fry for an additional minute to allow flavors to meld together, ensuring the cutlets are evenly coated in the sauce.",
+    "Remove from heat immediately after stirring and sprinkle with fresh parsley before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlicky",
+    "gooey",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 375,
+    "protein": 31,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "garlicky-gooey-smoke-raw-friendly-beef-cutlet-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-gooey-smoke-raw-friendly-beef-cutlet-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T18:06:57Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "gooey",
+    "mood": "light",
+    "technique": "smoke",
+    "primaryIngredient": "beef cutlet",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "beef cutlet",
+    "descriptor": "garlicky gooey smoke raw-friendly",
+    "dishForm": "Stir-fry"
+  }
+}
