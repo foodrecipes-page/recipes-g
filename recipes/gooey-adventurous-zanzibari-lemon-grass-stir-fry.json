@@ -1,0 +1,87 @@
+{
+  "title": "Gooey Adventurous Zanzibari Lemon Grass Stir-fry",
+  "description": "A fresh, gooey, adventurous middle-eastern dish featuring lemongrass stalks, pressure-cooked and mediterranean-friendly.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 pound eggplant",
+      "amount": "cut into cubes"
+    },
+    {
+      "name": "4 cups baby spinach leaves",
+      "amount": "",
+      "notes": "fresh and wilted for added texture"
+    },
+    {
+      "name": "2 medium zucchini",
+      "amount": "sliced thinly"
+    },
+    {
+      "name": "2 red bell peppers",
+      "amount": "diced"
+    },
+    {
+      "name": "1 bunch lemongrass stalks",
+      "amount": "",
+      "notes": "leaves and tender core removed, cut into rounds about 1/4 inch thick"
+    },
+    {
+      "name": "2 tablespoons fresh lemon juice",
+      "amount": ""
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Prepare all vegetables by slicing the zucchini, chopping the bell peppers, and preparing the eggplant cubes.",
+    "In a pressure cooker, heat olive oil over medium-high heat. Add lemongrass rounds and sauté for about 2 minutes or until fragrant.",
+    "Add salted water to the bottom of your pressure cooker, then place the sliced vegetables (eggplant, zucchini, red bell pepper) in the steaming rack above the water, ensuring they are fully submerged. Close the lid and set the vent control to the 'Sealing' position.",
+    "Cook on high pressure for 15 minutes. Let natural release occur for about 5 minutes before quick release of any remaining pressure.",
+    "In a separate pan over medium heat, whisk together lemon juice and olive oil until combined well. Once the vegetables are cooked, add them to the lemongrass mixture in the pressure cooker and toss to coat evenly with the sauce. Season with salt and pepper to taste.",
+    "Serve hot as a side dish or as part of a mezze platter."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "lemon-grass",
+    "pressure-cooked",
+    "zanzibari",
+    "middle-eastern",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 48,
+    "fat": 16
+  },
+  "slug": "gooey-adventurous-zanzibari-lemon-grass-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-adventurous-zanzibari-lemon-grass-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T12:04:02Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "gooey",
+    "mood": "adventurous",
+    "technique": "pressure-cook",
+    "primaryIngredient": "lemongrass stalks",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Zanzibari",
+    "mainIngredient": "Lemon Grass",
+    "descriptor": "Gooey Adventurous",
+    "dishForm": "Stir-fry"
+  }
+}
