@@ -1,0 +1,79 @@
+{
+  "title": "Garlicky Crumbly King Prawn Slovakian Crockpot Creme Fraîche",
+  "description": "This gluten-free dish features raw king prawns simmered in a savory creme fraiche sauce with garlic and herbs, perfect for a solo dinner or light meal.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "king prawns",
+      "amount": "16-20 pcs"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4-6, minced"
+    },
+    {
+      "name": "crockpot sauce base (store-bought or homemade)",
+      "notes": "approx. 150g creme fraiche and 25ml heavy cream combined with salt and pepper to taste"
+    },
+    {
+      "name": "chopped fresh herbs",
+      "amount": "to taste, such as parsley, chives, thyme"
+    },
+    {
+      "name": "oil or water (for cooking prawns)",
+      "notes": "preferably light olive oil"
+    }
+  ],
+  "instructions": [
+    "Clean and devein the king prawns. Pat them dry with paper towels.",
+    "Heat a tablespoon of unsalted butter in a casserole dish over medium heat.",
+    "Add minced garlic to the hot butter and sauté until fragrant, about 1-2 minutes.",
+    "Gently toss in the cleaned king prawns and add the crockpot sauce base. Stir well.",
+    "Cover with a lid and simmer for 5-7 minutes or until the prawns are fully cooked but still have a pink hue (internal temperature of about 63°C).",
+    "Season with freshly chopped herbs to taste, adjust salt and pepper as necessary."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlicky",
+    "crumbly",
+    "king-prawn",
+    "slovakian-dish",
+    "raw-food"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 18,
+    "carbs": 5,
+    "fat": 9
+  },
+  "slug": "garlicky-crumbly-king-prawn-slovakian-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-crumbly-king-prawn-slovakian-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T10:38:16Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crumbly",
+    "mood": "solo-dinner",
+    "technique": "simmer",
+    "primaryIngredient": "raw king prawns",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "King Prawn",
+    "descriptor": "Garlicky Crumbly",
+    "dishForm": "Crumble"
+  }
+}
