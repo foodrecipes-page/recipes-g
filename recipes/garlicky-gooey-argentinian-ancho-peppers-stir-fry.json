@@ -1,0 +1,87 @@
+{
+  "title": "Garlicky Gooey Argentinian Ancho Peppers Stir-fry",
+  "description": "A crowd-pleasing Argentinean vegetarian dish featuring crispy brown sugar-coated ancho peppers and garlic, perfect as a side dish or light meal.",
+  "cuisine": "Argentinean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 medium-sized argentinian ancho peppers",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 large onion",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup brown sugar",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 375°F (190°C).",
+    "Slice the ancho peppers into thin rounds.",
+    "Chop the onion finely and mince the garlic.",
+    "In a pan, heat olive oil over medium heat. Add onions and sauté until translucent.",
+    "Add minced garlic and cumin to the pan and cook for 1 minute.",
+    "Fold in sliced ancho peppers with brown sugar and continue cooking until the peppers are tender and slightly caramelized on one side (about 5-7 minutes).",
+    "Season with salt and pepper as needed. Serve hot or warm.",
+    "prepTimeMin"
+  ],
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlicky",
+    "gooey",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 265,
+    "protein": 3,
+    "carbs": 17,
+    "fat": 8
+  },
+  "slug": "garlicky-gooey-argentinian-ancho-peppers-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-gooey-argentinian-ancho-peppers-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T02:58:52Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "gooey",
+    "mood": "crowd-pleaser",
+    "technique": "air-fry",
+    "primaryIngredient": "brown sugar",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Ancho Peppers",
+    "descriptor": "Garlicky Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
