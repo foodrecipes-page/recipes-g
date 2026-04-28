@@ -1,0 +1,83 @@
+{
+  "title": "Garlicky Fluffy Poached Cherries",
+  "description": "A quick-fix Irish dessert featuring poached cherries with a touch of garlic for an indulgent whole30-friendly treat.",
+  "cuisine": "Irish",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "cherry",
+      "amount": "1 cup fresh or frozen"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4-6, minced finely"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons, melted"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon, optional for sweetness"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "juice of 1 lemon, divided"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "whole milk or heavy cream",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Place the cherries in a saucepan with water and whole milk or cream.",
+    "Add minced garlic, melted butter, optional sugar, lemon juice, and bring to a simmer. Reduce heat to low.",
+    "Simmer gently for about 5 minutes, stirring occasionally to prevent burning.",
+    "Remove from heat and let cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlicy",
+    "fluffy",
+    "poached",
+    "cherries",
+    "quick-fix",
+    "irish",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 145,
+    "protein": 2,
+    "carbs": 17,
+    "fat": 8
+  },
+  "slug": "garlicky-fluffy-poached-cherries",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-fluffy-poached-cherries",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T01:18:57Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "fluffy",
+    "mood": "quick-fix",
+    "technique": "poach",
+    "primaryIngredient": "cherries",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Cherries",
+    "descriptor": "Garlicky Fluffy",
+    "dishForm": "Poached"
+  }
+}
