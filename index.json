@@ -1891,6 +1891,20 @@
     "shard": "g"
   },
   {
+    "slug": "grilled-portuguese-manchego-cheese-stir-fry",
+    "title": "Grilled Portuguese Manchego Cheese Stir-fry",
+    "tags": [
+      "grilled",
+      "stir-fry",
+      "manchego",
+      "gluten-free",
+      "nut-free"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "grilled-tangy-tender-beef-brisket-stir-fry",
     "title": "Grilled Tangy Tender Beef Brisket Stir-fry",
     "tags": [

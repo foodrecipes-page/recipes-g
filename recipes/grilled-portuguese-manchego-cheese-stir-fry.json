@@ -1,0 +1,94 @@
+{
+  "title": "Grilled Portuguese Manchego Cheese Stir-fry",
+  "description": "A rich and light dish featuring Portuguese Manchego cheese grilled to perfection with a quick stir-fry of aromatic vegetables and herbs for an elegant presentation.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "Manchego cheese",
+      "amount": "1 cup crumbled"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4, minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 medium, finely chopped"
+    },
+    {
+      "name": "Leek",
+      "amount": "1 bulb, thinly sliced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 large, seeded and diced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "3-4 spears, diced"
+    },
+    {
+      "name": "Spinach leaves",
+      "amount": "2 cups, fresh or frozen"
+    },
+    {
+      "name": "Paprika flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your grill to medium-high heat.",
+    "In a large skillet, heat 1 tablespoon of olive oil over medium heat. Add the minced garlic and sauté for about 30 seconds until fragrant.",
+    "Add the finely chopped onion and leek into the skillet with garlic. Stir occasionally until softened, about 5 minutes.",
+    "Increase heat to high, add remaining 1 tablespoon of olive oil to the skillet. Add diced red bell pepper and zucchini; toss well for even cooking, about 3-4 minutes.",
+    "Reduce heat back to medium-high and remove from heat when vegetables are lightly browned but still tender.",
+    "Return the skillet to the stove with the chopped spinach leaves. Cook until wilted and bright green, about a minute.",
+    "Add crumbled Manchego cheese into the skillet with the cooked vegetables and spinach. Mix well until cheese is melted and evenly distributed among all ingredients.",
+    "Season with paprika flakes for added depth of flavor and garnish with extra grated Parmesan cheese if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "stir-fry",
+    "manchego",
+    "gluten-free",
+    "nut-free"
+  ],
+  "nutrition": {
+    "calories": 281,
+    "protein": 9,
+    "carbs": 20,
+    "fat": 14
+  },
+  "slug": "grilled-portuguese-manchego-cheese-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/grilled-portuguese-manchego-cheese-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T08:12:21Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "grill",
+    "primaryIngredient": "manchego",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Manchego Cheese",
+    "descriptor": "Grilled",
+    "dishForm": "Stir-fry"
+  }
+}
