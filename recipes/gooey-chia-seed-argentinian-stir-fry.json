@@ -1,0 +1,77 @@
+{
+  "title": "Gooey Chia Seed Argentinian Stir-fry",
+  "description": "A quick-fix herbal dish featuring pita bread and dehydrated herbs to create a gooey texture suitable for diabetic-friendly meals.",
+  "cuisine": "Argentinean",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chia seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pita bread crumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dehydrated herbs",
+      "amount": "3 tablespoons (chopped)"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "diabetic-friendly honey or stevia syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Combine chia seeds, pita bread crumbs, and dehydrated herbs in a bowl.",
+    "Add olive oil, unsalted butter, and honey or stevia syrup. Mix well until the mixture is evenly distributed.",
+    "Transfer the mixture to an oven-safe dish. Spread it out evenly.",
+    "Bake for 20 minutes or until golden brown.",
+    "Serve as a snack or appetizer."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chia-seeds",
+    "pita-bread",
+    "argentinean-stir-fry"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 5,
+    "carbs": 23,
+    "fat": 9
+  },
+  "slug": "gooey-chia-seed-argentinian-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-chia-seed-argentinian-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T23:55:53Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "gooey",
+    "mood": "quick-fix",
+    "technique": "deglaze",
+    "primaryIngredient": "pita bread",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Chia Seeds",
+    "descriptor": "Gooey",
+    "dishForm": "Stir-fry"
+  }
+}

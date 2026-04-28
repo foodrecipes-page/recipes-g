@@ -1188,6 +1188,18 @@
     "shard": "g"
   },
   {
+    "slug": "gooey-chia-seed-argentinian-stir-fry",
+    "title": "Gooey Chia Seed Argentinian Stir-fry",
+    "tags": [
+      "chia-seeds",
+      "pita-bread",
+      "argentinean-stir-fry"
+    ],
+    "cuisine": "Argentinean",
+    "totalTimeMin": 30,
+    "shard": "g"
+  },
+  {
     "slug": "gooey-chinese-all-purpose-flour-crumble",
     "title": "Gooey Chinese All Purpose Flour Crumble",
     "tags": [
