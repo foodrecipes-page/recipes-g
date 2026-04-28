@@ -1,0 +1,77 @@
+{
+  "title": "Gooey Algerian Dates Stir-fry",
+  "description": "A herbal and gooey crowd-pleaser Algerian dish featuring ready rolled shortcrust pastry with a Mediterranean-friendly twist.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Shortcrust Pastry",
+      "amount": "2 sheets",
+      "notes": "Preferably ready rolled"
+    },
+    {
+      "name": "Gooey Dates",
+      "amount": "100g",
+      "notes": "Choose the ones that are already gooey and chewy"
+    },
+    {
+      "name": "Pomegranate Juice",
+      "amount": "2 tbsp",
+      "notes": "Add more as needed to reach desired consistency"
+    },
+    {
+      "name": "Almond Flakes or Almonds",
+      "amount": "10g",
+      "notes": "Optional for added crunch and flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 200°C (392°F).",
+    "Place the sheets of shortcrust pastry on a baking sheet.",
+    "Using a spoon or melon baller, scoop out balls from gooey dates and place them onto the prepared sheets. Make sure not to overcrowd them as they will expand during cooking.",
+    "Sprinkle almond flakes (if using) evenly over the date balls for crunchiness.",
+    "Drizzle with pomegranate juice until you get a desired consistency, making sure not to flood it – you want some air pockets in between and on top of the dates.",
+    "Bake in preheated oven for about 10-15 minutes or until golden brown and crispy on the edges.",
+    "Remove from oven and let cool slightly before serving. Store any leftovers in an airtight container at room temperature.",
+    "For best results, prepare ahead of time as it needs to be chilled if served cold."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian-dates",
+    "gooey",
+    "stir-fry",
+    "herbal",
+    "pastry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 18,
+    "fat": 6
+  },
+  "slug": "gooey-algerian-dates-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-algerian-dates-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T01:17:25Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "gooey",
+    "mood": "crowd-pleaser",
+    "technique": "simmer",
+    "primaryIngredient": "ready rolled shortcrust pastry",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Dates",
+    "descriptor": "Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
