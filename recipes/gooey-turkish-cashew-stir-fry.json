@@ -1,0 +1,77 @@
+{
+  "title": "Gooey Turkish Cashew Stir-fry",
+  "description": "A savory and gooey sour dish featuring cashews that is a hangover-cure candidate, perfect for a quick breakfast or snack option in the Paleo diet.",
+  "cuisine": "Turkish",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cashews",
+      "amount": "2 cups"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4-6, minced"
+    },
+    {
+      "name": "ginger root",
+      "amount": "1 inch, peeled and finely chopped"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "sour cream or yogurt",
+      "amount": "¼ cup"
+    }
+  ],
+  "instructions": [
+    "Place cashews in a pot and cover with water. Bring to boil, then reduce heat and simmer until tender.",
+    "In a large skillet, sauté minced garlic and finely chopped ginger over medium-high heat for about 2 minutes or until fragrant.",
+    "Add the cooked cashews and red pepper flakes into the skillet, stirring well.",
+    "Slowly pour in sour cream or yogurt while continuously mixing to create a gooey texture. Season with salt as needed.",
+    "Cook for an additional 3-5 minutes to let flavors meld together."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cashew",
+    "sour",
+    "goey",
+    "hangover-cure"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 16,
+    "carbs": 52,
+    "fat": 16
+  },
+  "slug": "gooey-turkish-cashew-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-turkish-cashew-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T14:45:00Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "gooey",
+    "mood": "hangover-cure",
+    "technique": "rest",
+    "primaryIngredient": "cashews",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "cashews",
+    "descriptor": "Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
