@@ -1,0 +1,81 @@
+{
+  "title": "Garlicky Crunchy Brazilian Garlic Stir-fry",
+  "description": "This egg-free-friendly dish features a garlicky and crunchy twist on traditional Brazilian cuisine, perfect for a cozy date night.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "egg-free",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Garlic cloves",
+      "amount": "6-8"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Brazilian sausages (optional)",
+      "amount": "200g"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3-4 tablespoons"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Finely chop the garlic cloves and green onions.",
+    "Heat olive oil in a wok or large frying pan over medium-high heat. Add cumin seeds and toast until fragrant, about 30 seconds.",
+    "Add chopped garlic and sauté for about 1 minute until fragrant but not browned.",
+    "If using sausages, add them to the pan and cook until golden brown on all sides, about 5 minutes. Remove from heat if necessary to prevent burning.",
+    "Deglaze the pan with Worcestershire sauce, scraping up any residual garlic and cumin bits from the bottom of the pan. Simmer for 2-3 minutes until slightly reduced.",
+    "Add chopped green onions, continuing to cook for another minute or two until everything is heated through.",
+    "Serve hot over steamed rice or as a side dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "garlicky",
+    "crunchy",
+    "brazilian-dish",
+    "date-night-friendly",
+    "egg-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 45,
+    "fat": 16
+  },
+  "slug": "garlicky-crunchy-brazilian-garlic-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-crunchy-brazilian-garlic-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T16:15:32Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crunchy",
+    "mood": "date-night",
+    "technique": "deglaze",
+    "primaryIngredient": "worcestershire sauce",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Garlic",
+    "descriptor": "Garlicky Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
