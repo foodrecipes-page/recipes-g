@@ -1,0 +1,70 @@
+{
+  "title": "Grilled Flaky Kenyan Flour Crumble",
+  "description": "A fresh, flaky festive dish featuring five spice powder and grilled to perfection for a halal-friendly meal.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Kenyan flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Five spice powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/8 tsp"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine Kenyan flour, five spice powder, and salt. Mix well.",
+    "Gradually add vegetable oil while continuously stirring to create a smooth dough.",
+    "Form the dough into small balls or patties, ensuring they are not too big as they will spread during grilling.",
+    "Preheat your grill to medium-high heat (around 400°F).",
+    "Place each flaky crumble on a preheated grill for about 3-5 minutes or until golden brown and crispy.",
+    "Flip the crumbles once to ensure even cooking. Remove from grill and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flaky",
+    "kenyan",
+    "five-spice",
+    "halal"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 6,
+    "carbs": 28,
+    "fat": 7
+  },
+  "slug": "grilled-flaky-kenyan-flour-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/grilled-flaky-kenyan-flour-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T14:38:33Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "flaky",
+    "mood": "festive",
+    "technique": "grill",
+    "primaryIngredient": "five spice powder",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "flour",
+    "descriptor": "Grilled",
+    "dishForm": "Crumble"
+  }
+}
