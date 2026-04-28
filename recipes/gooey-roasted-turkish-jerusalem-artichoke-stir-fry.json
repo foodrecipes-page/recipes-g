@@ -1,0 +1,92 @@
+{
+  "title": "Gooey Roasted Turkish Jerusalem Artichoke Stir-fry",
+  "description": "An earthy and gooey meal-prep dish featuring roasted Jerusalem artichokes with a tangy sesame dressing for an unexpected twist on the classic side dish.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "side-dish",
+  "ingredients": [
+    {
+      "name": "Jerusalem Artichokes",
+      "amount": "4-6 medium-sized pieces"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1 handful, chopped"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Apple Cider Vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C). Rinse Jerusalem artichokes and slice them into rounds about 1/8-inch thick.",
+    "Combine sesame seeds, fresh parsley, minced garlic, olive oil, soy sauce, apple cider vinegar, sugar, salt, and pepper in a small bowl. Mix well to combine.",
+    "Place Jerusalem artichoke slices on a baking sheet lined with parchment paper. Drizzle with the sesame dressing mixture evenly over the top of the pieces.",
+    "Roast for 25-30 minutes or until edges turn golden brown and they are cooked through. Stir occasionally during cooking.",
+    "Let it cool slightly before serving. Enjoy as a side dish with your favorite main course."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "goey",
+    "earthly",
+    "meal-prep",
+    "turkish",
+    "jerusalem-artichoke"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 4,
+    "carbs": 27,
+    "fat": 10
+  },
+  "slug": "gooey-roasted-turkish-jerusalem-artichoke-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-roasted-turkish-jerusalem-artichoke-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T01:36:05Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "gooey",
+    "mood": "meal-prep",
+    "technique": "roast",
+    "primaryIngredient": "jerusalem artichokes",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Jerusalem artichokes",
+    "descriptor": "Gooey Roasted",
+    "dishForm": "Stir-fry"
+  }
+}
