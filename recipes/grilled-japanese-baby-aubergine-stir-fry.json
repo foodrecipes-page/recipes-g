@@ -1,0 +1,80 @@
+{
+  "title": "Grilled Japanese Baby Aubergine Stir-fry",
+  "description": "A tangy and tender Japanese dish featuring grilled baby aubergines, perfect for a light meal or snack. This recipe is both delicious and healthy, with its low-carb nature making it suitable for various dietary needs.",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Baby aubergines",
+      "amount": "12 pieces"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4 cloves"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sherry vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Japanese seasoning (optional)",
+      "notes": "For added depth of flavor"
+    }
+  ],
+  "instructions": [
+    "Wash and dry baby aubergines, then gently score the skin with a fork in several places to prevent bursting during cooking.",
+    "In a small bowl, mix soy sauce, sherry vinegar, olive oil, and Japanese seasoning (if using). Set aside.",
+    "Heat grill or pan over medium-high heat. Brush both sides of baby aubergines lightly with some of the marinade mixture.",
+    "Grill or stir-fry baby aubergines for about 3-4 minutes per side until slightly charred and tender. Remove from heat.",
+    "Meanwhile, in another small bowl, finely chop garlic cloves.",
+    "Stir-fry chopped garlic in remaining marinade until fragrant and slightly softened, then add grilled baby aubergines to the pan. Toss gently until well combined and the vegetables are coated evenly with sauce.",
+    "Serve hot as a snack or light meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "aubergine",
+    "stir-fry",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 167,
+    "protein": 7.2,
+    "carbs": 9.4,
+    "fat": 8.3
+  },
+  "slug": "grilled-japanese-baby-aubergine-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/grilled-japanese-baby-aubergine-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T18:27:07Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "tender",
+    "mood": "nostalgic",
+    "technique": "grill",
+    "primaryIngredient": "baby aubergine",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Baby Aubergine",
+    "descriptor": "Grilled",
+    "dishForm": "Stir-fry"
+  }
+}
