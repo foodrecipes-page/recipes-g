@@ -1,0 +1,69 @@
+{
+  "title": "Gooey Argentinian Lamb Bhuna Stir-fry",
+  "description": "An earthy and gooey dish featuring lamb loin chops in a paleo-friendly bhuna sauce that can serve as an effective hangover cure.",
+  "cuisine": "Argentine",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb (450g) lamb loin chops",
+      "amount": "pieces"
+    },
+    {
+      "name": "2 tbsp bhuna masala",
+      "notes": "Use paleo-friendly alternatives if necessary."
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "notes": "Approximately 6 cloves."
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Season the lamb with salt and pepper on both sides.",
+    "Heat a skillet over medium-high heat. Add a small amount of oil, then sear the lamb chops for about 2-3 minutes per side until golden brown.",
+    "Remove from the pan and set aside in an oven-safe dish.",
+    "In the same skillet, add bhuna masala and sauté for about 1 minute to release aroma.",
+    "Add finely chopped onions to the skillet and cook until they turn translucent (about 2-3 minutes).",
+    "Pour a bit of water into the pan if you find it dry. Simmer gently over low heat while stirring continuously.",
+    "Place the lamb chops back in the skillet, spooning the bhuna sauce evenly on top.",
+    "Bake in the preheated oven for 10-15 minutes or until the internal temperature of the meat reaches 145°F (63°C).",
+    "Serve hot with a side of your favorite paleo-friendly sides."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-lamb-bhuna-stir-fry",
+    "paleo-friendly",
+    "hangover-cure"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 35,
+    "carbs": 12,
+    "fat": 26
+  },
+  "slug": "gooey-argentinian-lamb-bhuna-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-argentinian-lamb-bhuna-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T03:17:54Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "gooey",
+    "mood": "hangover-cure",
+    "technique": "bhuna",
+    "primaryIngredient": "lamb loin chops",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "lamb",
+    "descriptor": "Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
