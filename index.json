@@ -539,6 +539,18 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-fluffy-almond-flour-stir-fry",
+    "title": "Garlicky Fluffy Almond Flour Stir-Fry",
+    "tags": [
+      "garlicky",
+      "fluffy",
+      "almond-flour-stir-fry"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-fluffy-ethiopian-egg-noodles-stir-fry",
     "title": "Garlicky Fluffy Ethiopian Egg Noodles Stir-fry",
     "tags": [
