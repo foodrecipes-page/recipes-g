@@ -1,0 +1,119 @@
+{
+  "title": "Gooey Romantic Herbal Cherry Stir-fry",
+  "description": "A gooey and romantic vegan-friendly Jamaican dish featuring cherry, marinated with herbs and spices for added flavor.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "½ teaspoon",
+      "notes": "To add a little heat"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chili garlic paste",
+      "amount": "1 teaspoon",
+      "notes": "For extra spice and flavor"
+    },
+    {
+      "name": "ground flaxseed",
+      "amount": "¼ cup",
+      "notes": "To make the sauce thicker"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "thyme leaves",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "rosemary sprigs",
+      "amount": "½",
+      "notes": ""
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2, minced",
+      "notes": ""
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Combine cherry tomatoes with olive oil, red pepper flakes, balsamic vinegar, maple syrup, chili garlic paste, ground flaxseed, dijon mustard, thyme leaves, and rosemary sprigs in a mixing bowl. Season with salt and pepper.",
+    "Stir until the cherry tomatoes are evenly coated.",
+    "Transfer the mixture to an oven-safe baking dish. Bake for 20 minutes.",
+    "In another pan, sauté minced garlic over medium heat for about 1 minute.",
+    "Add a splash of water or more balsamic vinegar if needed to deglaze the pan and mix with cherry tomato sauce.",
+    "Mix well until the mixture thickens slightly. The sauce should be creamy and bubbly on top.",
+    "Pour the sauce over the baked cherry tomatoes, ensuring they are evenly coated. Return to oven for another 10 minutes or until it reaches your desired consistency.",
+    "Serve hot as a vegan-friendly dinner dish."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 30,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "romantic",
+    "goosey",
+    "herbal",
+    "jamaican",
+    "cherry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "gooey-romantic-herbal-cherry-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-romantic-herbal-cherry-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T12:52:08Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "gooey",
+    "mood": "romantic",
+    "technique": "marinate",
+    "primaryIngredient": "cherry",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Herbal",
+    "mainIngredient": "Cherry",
+    "descriptor": "Gooey Romantic",
+    "dishForm": "Stir-fry"
+  }
+}
