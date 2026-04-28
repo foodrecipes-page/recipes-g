@@ -445,6 +445,19 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-crunchy-spanish-lentils-stir-fry",
+    "title": "Garlicky Crunchy Spanish Lentils Stir-fry",
+    "tags": [
+      "garlicky",
+      "crunchy",
+      "spanish lentils",
+      "stir-fry"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-crunchy-venezuelan-garlic-stir-fry",
     "title": "Garlicky Crunchy Venezuelan Garlic Stir-fry",
     "tags": [

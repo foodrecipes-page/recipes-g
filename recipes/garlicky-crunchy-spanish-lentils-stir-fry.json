@@ -1,0 +1,77 @@
+{
+  "title": "Garlicky Crunchy Spanish Lentils Stir-fry",
+  "description": "A show-off Uruguayan dish featuring lentils roasted with garlic and olive oil for a crunchy texture and a rich flavor profile, perfect as a side or light meal.",
+  "cuisine": "Uruguayan",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Spanish Lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4-6 cloves",
+      "notes": "Mince finely after roasting."
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 small"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (205°C). Rinse lentils and pick out any debris.",
+    "Chop red onion into thin wedges. Mince garlic cloves finely.",
+    "In a roasting pan, toss lentils with olive oil, minced garlic, salt, and pepper until coated evenly.",
+    "Add sliced red onions to the lentil mixture and stir well to coat them in oil as well. Roast for 25 minutes or until golden brown and crunchy on the sides.",
+    "Remove from oven and let cool slightly before serving with a side salad or over rice.",
+    "Serve immediately while still hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlicky",
+    "crunchy",
+    "spanish lentils",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 8
+  },
+  "slug": "garlicky-crunchy-spanish-lentils-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-crunchy-spanish-lentils-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T15:17:49Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crunchy",
+    "mood": "show-off",
+    "technique": "roast",
+    "primaryIngredient": "lentils",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "lentils",
+    "descriptor": "Garlicky Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
