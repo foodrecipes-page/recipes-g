@@ -1,0 +1,92 @@
+{
+  "title": "Gooey Middle Eastern Dum Stir-fry",
+  "description": "A unique and indulgent date-night dish featuring a gooey texture with hints of bitterness and light rum for an exotic twist. Gluten-free-friendly.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dum",
+      "amount": "1 package (45g)",
+      "notes": "Ensure it's gluten-free."
+    },
+    {
+      "name": "Light Rum",
+      "amount": "2 tablespoons",
+      "notes": "For a touch of sweetness and depth."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Cumin Powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Cardamom Pods",
+      "amount": "4-5 whole pods, crushed"
+    },
+    {
+      "name": "Red Chili Flakes",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Date-Nut Sauce",
+      "amount": "1 tablespoon",
+      "notes": "Use a pre-made or homemade sauce for flavor enhancement."
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok over medium heat. Add onion and garlic, cook until soft.",
+    "Add cumin powder, cardamom pods, and red chili flakes; stir-fry for 1 minute.",
+    "Push the vegetables to one side of the wok, add rum on the other side and let it simmer for about 30 seconds.",
+    "Mix the dum with the veggie mixture. Add date-nut sauce and cook until fully heated through.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "goey-middle-eastern-dum-stir-fry",
+    "date-night-exotic-dish",
+    "light-rum-inspiration",
+    "gluten-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 375,
+    "protein": 19,
+    "carbs": 42,
+    "fat": 20
+  },
+  "slug": "gooey-middle-eastern-dum-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-middle-eastern-dum-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T10:07:20Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "gooey",
+    "mood": "date-night",
+    "technique": "dum",
+    "primaryIngredient": "light rum",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "dum",
+    "descriptor": "Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
