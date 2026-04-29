@@ -1350,6 +1350,18 @@
     "shard": "g"
   },
   {
+    "slug": "gooey-italian-butter-stir-fry",
+    "title": "Gooey Italian Butter Stir-fry",
+    "tags": [
+      "goey",
+      "italian-butter-stir-fry",
+      "jain-friendly"
+    ],
+    "cuisine": "Italian (Neapolitan)",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "gooey-kenyan-garlic-stir-fry",
     "title": "Gooey Kenyan Garlic Stir-fry",
     "tags": [

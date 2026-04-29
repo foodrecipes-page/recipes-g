@@ -1,0 +1,85 @@
+{
+  "title": "Gooey Italian Butter Stir-fry",
+  "description": "A one-pot Italian dish featuring buttery goodness and gooey textures with the addition of soured cream for a creamy finish, perfect as an appetizer or snack.",
+  "cuisine": "Italian (Neapolitan)",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Panko Bread Crumbs",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chives, finely chopped",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Eggs, beaten",
+      "amount": "3 eggs"
+    },
+    {
+      "name": "Parsley, finely chopped for garnish",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 425°F (220°C).",
+    "Mix Panko bread crumbs with butter, garlic powder, and salt.",
+    "Press the mixture onto a baking sheet lined with parchment paper. Bake for about 10 minutes until golden brown.",
+    "In a separate bowl, whisk together eggs and sour cream. Add chopped chives to the egg-sour cream mixture.",
+    "Pour half of the egg mixture over the crispy bread crumb base on the pan. Spread evenly using a spatula.",
+    "Bake for another 5 minutes until golden brown and set around the edges.",
+    "Carefully pour remaining egg mixture, including any excess from the bowl, onto the hot bread crumbs. Return to oven and bake for an additional 5 minutes or until completely set and golden.",
+    "Sprinkle chopped parsley over top if desired. Serve warm with a side of vegan Parmesan cheese for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "goey",
+    "italian-butter-stir-fry",
+    "jain-friendly"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 7,
+    "carbs": 6,
+    "fat": 9
+  },
+  "slug": "gooey-italian-butter-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-italian-butter-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T04:09:28Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "gooey",
+    "mood": "one-pot",
+    "technique": "cure",
+    "primaryIngredient": "soured cream and chive dip",
+    "diet": "jain",
+    "region": "neapolitan",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Butter",
+    "descriptor": "Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
