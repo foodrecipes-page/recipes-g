@@ -1,0 +1,78 @@
+{
+  "title": "Rich Flaky Grilled Fil-Pasta Meal-Prep",
+  "description": "A rich and flaky Filipino dish featuring bowtie pasta grilled to perfection with a nut-free-friendly twist for meal prep.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bowtie Pasta",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chicken Breasts",
+      "amount": "2 pieces",
+      "notes": "Skin removed"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves",
+      "notes": "Mashed for richness"
+    },
+    {
+      "name": "Chili Sauce (for flavoring)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Cook bowtie pasta in salted boiling water until al dente, about 8-10 minutes. Drain and set aside.",
+    "In a mixing bowl, mash garlic cloves with some of the olive oil for a richer flavor.",
+    "Season chicken breasts with salt and pepper, and brush them lightly with olive oil before grilling. Grill for about 7-8 minutes per side or until fully cooked through.",
+    "Assemble by layering grilled chicken over bowtie pasta in a baking dish. Drizzle chili sauce evenly over the top.",
+    "Bake at 350°F (175°C) for 20-25 minutes, ensuring the edges are golden brown and the sauce has slightly thickened."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "filipino",
+    "meal-prep",
+    "gluten-free",
+    "nut-free"
+  ],
+  "nutrition": {
+    "calories": 608,
+    "protein": 37,
+    "carbs": 59,
+    "fat": 24
+  },
+  "slug": "grilled-fil-pasta-meal-prep",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/grilled-fil-pasta-meal-prep",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T02:03:13Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "flaky",
+    "mood": "meal-prep",
+    "technique": "grill",
+    "primaryIngredient": "bowtie pasta",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Bowtie Pasta",
+    "descriptor": "Grilled",
+    "dishForm": "Meal-Prep"
+  }
+}
