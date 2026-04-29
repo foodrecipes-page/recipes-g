@@ -1,0 +1,78 @@
+{
+  "title": "Garlicky Gooey Festive Gelatin Crumble",
+  "description": "A keto-friendly and festive Argentinean dish featuring unflavored gelatin that combines creamy texture with garlic for a memorable snack or dessert.",
+  "cuisine": "Argentinean",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Unflavored Gelatin",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cream Cheese",
+      "amount": "8 oz (225g)"
+    },
+    {
+      "name": "Butter",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Chop the gelatin into small pieces.",
+    "In a mixing bowl, combine the chopped gelatin with heavy cream. Stir until fully dissolved and smooth.",
+    "Add in the softened cream cheese, butter, garlic powder, and salt to the bowl. Mix well until you achieve a creamy consistency.",
+    "Transfer the mixture into a baking dish or mold that can go in an oven safe container.",
+    "Bake at 300°F (150°C) for about 25-30 minutes or until golden brown on top and set to your preference. Ensure not to overcook to maintain gooeyness.",
+    "Remove from the oven, let cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gelatin",
+    "garlic",
+    "festive",
+    "argentinean"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 7,
+    "carbs": 3,
+    "fat": 9
+  },
+  "slug": "garlicky-gooey-festive-gelatin-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-gooey-festive-gelatin-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T09:38:24Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "gooey",
+    "mood": "festive",
+    "technique": "fold",
+    "primaryIngredient": "unflavoured gelatin",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "gelatin",
+    "descriptor": "Garlicky Gooey Festive",
+    "dishForm": "Crumble"
+  }
+}
