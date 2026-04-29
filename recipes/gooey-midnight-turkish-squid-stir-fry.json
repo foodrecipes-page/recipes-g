@@ -1,0 +1,102 @@
+{
+  "title": "Gooey Midnight Turkish Squid Stir-fry",
+  "description": "A spicy and gooey midnight-craving turkish dish featuring squid with a high-protein twist, made with toast for added texture.",
+  "cuisine": "Turkish",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sliced squid",
+      "amount": "200g"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1/4 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "toasted bread crumbs",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "minced ginger",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "chili garlic paste (optional)",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a wok or large frying pan over medium heat.",
+    "Add minced garlic, ginger, and red pepper flakes. Stir-fry for about 30 seconds until fragrant.",
+    "Add squid to the wok. Season with salt and pepper. Cook until squid turns opaque (about 2-3 minutes).",
+    "Stir in chili garlic paste if using. Cook for an additional minute to enhance flavor.",
+    "Mix soy sauce, rice vinegar, and toasted bread crumbs together. Pour into the wok with the cooked squid.",
+    "Continue stirring until all ingredients are fully incorporated and heated through (about 2-3 minutes).",
+    "Serve hot as a snack or accompaniment to your meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "gooey",
+    "midnight-craving",
+    "turkish",
+    "high-protein"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 31,
+    "carbs": 6,
+    "fat": 19
+  },
+  "slug": "gooey-midnight-turkish-squid-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-midnight-turkish-squid-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T00:43:54Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "gooey",
+    "mood": "midnight-craving",
+    "technique": "toast",
+    "primaryIngredient": "squid",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Squid",
+    "descriptor": "Gooey Midnight",
+    "dishForm": "Stir-fry"
+  }
+}
