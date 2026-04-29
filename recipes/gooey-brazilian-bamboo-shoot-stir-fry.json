@@ -1,0 +1,92 @@
+{
+  "title": "Gooey Brazilian Bamboo Shoot Stir-fry",
+  "description": "This low-calorie-friendly one-pot Brazilian dish features fermented bamboo shoots that become gooey and delicious when stir-fried with a blend of aromatic vegetables.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "bamboo shoots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onions",
+      "amount": "2 small"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4 pieces"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 medium"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Wash bamboo shoots and soak them in water for at least 30 minutes to remove any bitterness. Cut into bite-sized pieces.",
+    "Peel onions, ginger, and garlic. Finely chop all vegetables and set aside.",
+    "Heat oil in a large skillet or wok over medium heat. Add chopped vegetables and sauté until slightly softened.",
+    "Add bamboo shoots, soy sauce, vinegar, salt, and pepper to the skillet. Stir-fry for another 5 minutes until the bamboo shoots are cooked through but still tender.",
+    "Adjust seasoning if necessary and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "goosey-brazilian-stir-fry",
+    "fermented-bamboo-shoots",
+    "low-calorie-friendly-dish"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 7,
+    "carbs": 25,
+    "fat": 4
+  },
+  "slug": "gooey-brazilian-bamboo-shoot-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-brazilian-bamboo-shoot-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T08:36:57Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "gooey",
+    "mood": "one-pot",
+    "technique": "grill",
+    "primaryIngredient": "bamboo shoot",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "bamboo shoot",
+    "descriptor": "Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
