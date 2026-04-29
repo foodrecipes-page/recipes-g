@@ -1,0 +1,72 @@
+{
+  "title": "Garlicky Crumbly Ethiopian Vine Leaves Cumble",
+  "description": "A raw-friendly and easy-to-make dish that combines fermented vine leaves with crispy garlic crumbles for a savory date-night treat.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "vine leaves",
+      "amount": "10"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "6-8"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the vine leaves and remove any tough stems. Slice them in half.",
+    "Heat olive oil in a pan over medium heat, add cumin seeds and fry until they become fragrant.",
+    "Add sliced garlic to the pan, cook for about 1 minute until it turns golden brown.",
+    "Fold in the sliced vine leaves. Add salt as needed and continue cooking for another 2-3 minutes or until the leaves are slightly crispy and flavorful.",
+    "Serve immediately with your favorite dips."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlicky",
+    "crumbly",
+    "ethiopian",
+    "fermented",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 16,
+    "carbs": 30,
+    "fat": 14
+  },
+  "slug": "garlicky-crumbly-ethiopian-vine-leaves-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-crumbly-ethiopian-vine-leaves-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T09:55:12Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crumbly",
+    "mood": "date-night",
+    "technique": "ferment",
+    "primaryIngredient": "vine leaves",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "vine leaves",
+    "descriptor": "Garlicky Crumbly",
+    "dishForm": "Crumble"
+  }
+}
