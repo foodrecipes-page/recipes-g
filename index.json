@@ -770,6 +770,20 @@
     "shard": "g"
   },
   {
+    "slug": "garnet-crunchy-thai-garlic-crumble",
+    "title": "Garnet Crunchy Thai Garlic Crumble",
+    "tags": [
+      "thai",
+      "garlic",
+      "crumble",
+      "orange",
+      "bhuna"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 15,
+    "shard": "g"
+  },
+  {
     "slug": "gentle-glutinous-stroop",
     "title": "Gentle Glutinous Stroop",
     "tags": [

@@ -1,0 +1,82 @@
+{
+  "title": "Garnet Crunchy Thai Garlic Crumble",
+  "description": "A garlic-infused whole30-friendly dish featuring orange juice and a spicy bhuna sauce for an indulgent yet health-conscious meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "orange juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4-6, minced"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "whole30-friendly breadcrumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tbsp, toasted (optional)"
+    },
+    {
+      "name": "coriander leaves",
+      "amount": "1 handful, for garnish"
+    }
+  ],
+  "instructions": [
+    "In a pan, heat the butter and garlic cloves until fragrant.",
+    "Add orange juice and reduce to a sauce. Stir in chili flakes and breadcrumbs.",
+    "Stir in sesame seeds if using. Let cool slightly.",
+    "Divide into small crumbles or balls.",
+    "Top with coriander leaves for presentation."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "garlic",
+    "crumble",
+    "orange",
+    "bhuna"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 8,
+    "carbs": 15,
+    "fat": 10
+  },
+  "slug": "garnet-crunchy-thai-garlic-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garnet-crunchy-thai-garlic-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T02:55:22Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "flaky",
+    "mood": "indulgent",
+    "technique": "bhuna",
+    "primaryIngredient": "orange juice",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Garlic",
+    "descriptor": "Garnet Crunchy",
+    "dishForm": "Crumble"
+  }
+}
