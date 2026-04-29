@@ -1,0 +1,99 @@
+{
+  "title": "Garlicky Chewy Kenyan Garlic Stir-fry",
+  "description": "A gluten-free and date-night-friendly dish featuring chewy dates, blanched vegetables, garlic, English mustard, and a hint of spice for an authentic Kenyan flavor.",
+  "cuisine": "Kenyan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup cooked quinoa",
+      "amount": "",
+      "notes": "Ensure it is gluten-free."
+    },
+    {
+      "name": "2 cups mixed vegetables (e.g., carrots, bell peppers)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 can chickpeas (drained and rinsed)",
+      "amount": "",
+      "notes": "Use canned or dried roasted chickpeas for a gluten-free option."
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "",
+      "notes": "For flavoring the dish."
+    },
+    {
+      "name": "1 tablespoon English mustard (gluten-free)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "4 cloves garlic, minced",
+      "amount": "",
+      "notes": "Add to taste for a flavorful kick."
+    },
+    {
+      "name": "2 dates, pitted and chopped",
+      "amount": "",
+      "notes": "For added sweetness and texture."
+    },
+    {
+      "name": "1/4 teaspoon salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro for garnish (optional)",
+      "amount": "",
+      "notes": "To enhance the dish's appeal."
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F.",
+    "Mix together olive oil, English mustard, salt, and minced garlic in a bowl. Set aside.",
+    "Drizzle this mixture over cooked quinoa and mix well until coated evenly.",
+    "Add mixed vegetables and chickpeas to the quinoa, tossing gently to combine all ingredients.",
+    "Transfer the mixture onto an oven-safe dish or baking sheet lined with parchment paper.",
+    "Bake for 15 minutes at 350°F. Afterward, reduce heat to 275°F and continue baking until the vegetables are slightly crispy, around another 15-20 minutes.",
+    "Remove from oven and add chopped dates on top. Continue baking for an additional 5 minutes.",
+    "Serve hot with fresh cilantro as a garnish if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan-dish",
+    "gluten-free",
+    "english-mustard",
+    "date-night-friendly"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 16,
+    "carbs": 45,
+    "fat": 9
+  },
+  "slug": "garlicky-chewy-kenyan-garlic-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-chewy-kenyan-garlic-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T04:59:11Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "chewy",
+    "mood": "date-night",
+    "technique": "blanch",
+    "primaryIngredient": "english mustard",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "garlic",
+    "descriptor": "Garlicky Chewy",
+    "dishForm": "Stir-fry"
+  }
+}

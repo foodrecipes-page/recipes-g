@@ -332,6 +332,19 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-chewy-kenyan-garlic-stir-fry",
+    "title": "Garlicky Chewy Kenyan Garlic Stir-fry",
+    "tags": [
+      "kenyan-dish",
+      "gluten-free",
+      "english-mustard",
+      "date-night-friendly"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 75,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-creamy-filipino-garlic-stir-fry",
     "title": "Garlicky Creamy Filipino Garlic Stir-fry",
     "tags": [
