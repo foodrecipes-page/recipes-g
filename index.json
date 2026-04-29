@@ -1430,6 +1430,18 @@
     "shard": "g"
   },
   {
+    "slug": "gooey-garlic-croatian-stew",
+    "title": "Gooey Garlic Baby New Potatoes",
+    "tags": [
+      "baby_new_potatoes",
+      "croatian_stew",
+      "snack_cuisine"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 40,
+    "shard": "g"
+  },
+  {
     "slug": "gooey-garlic-irish-stir-fry",
     "title": "Gooey Garlic Irish Stir-fry",
     "tags": [
