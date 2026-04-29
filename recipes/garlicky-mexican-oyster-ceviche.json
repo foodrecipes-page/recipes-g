@@ -1,0 +1,73 @@
+{
+  "title": "Garlicky Mexican Oyster Ceviche",
+  "description": "A crispy and garlicky solo-dinner dish featuring oysters that are pressure-cooked for a quick and delicious meal.",
+  "cuisine": "Mexican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Oysters",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "6-8, minced"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Sugarcane syrup or honey",
+      "amount": "1 tablespoon (for sweetening)"
+    },
+    {
+      "name": "Salt",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Place the oysters in a sealable plastic bag.",
+    "Add minced garlic, lime juice, and sugar to the bag.",
+    "Seal the bag and place it in a pressure cooker with hot water.",
+    "Cook for about 2 minutes at high pressure.",
+    "Transfer contents to a mixing bowl and mix until smooth.",
+    "Season with salt to taste."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlicky",
+    "mexican",
+    "oyster",
+    "crispy",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 100,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 3
+  },
+  "slug": "garlicky-mexican-oyster-ceviche",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-mexican-oyster-ceviche",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T10:00:13Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crispy",
+    "mood": "solo-dinner",
+    "technique": "pressure-cook",
+    "primaryIngredient": "oysters",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Oyster",
+    "descriptor": "Garlicky",
+    "dishForm": "Ceviche"
+  }
+}

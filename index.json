@@ -745,6 +745,20 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-mexican-oyster-ceviche",
+    "title": "Garlicky Mexican Oyster Ceviche",
+    "tags": [
+      "garlicky",
+      "mexican",
+      "oyster",
+      "crispy",
+      "sugar-free"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 15,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-peruvian-cottage-cheese-stir-fry",
     "title": "Garlicky Peruvian Cottage Cheese Stir-Fry",
     "tags": [
