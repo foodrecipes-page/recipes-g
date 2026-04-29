@@ -1742,6 +1742,21 @@
     "shard": "g"
   },
   {
+    "slug": "gooey-smoky-rye-sandwich",
+    "title": "Gooey Smoky Rye Sandwich",
+    "tags": [
+      "goey",
+      "smoky",
+      "sick-day",
+      "mediterranean",
+      "low-calorie-friendly",
+      "gyro-style"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 10,
+    "shard": "g"
+  },
+  {
     "slug": "gooey-spanish-beef-stir-fry",
     "title": "Gooey Spanish Beef Stir-fry",
     "tags": [

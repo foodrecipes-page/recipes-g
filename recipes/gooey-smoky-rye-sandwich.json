@@ -1,0 +1,81 @@
+{
+  "title": "Gooey Smoky Rye Sandwich",
+  "description": "A low-calorie-friendly smoky and gooey Mediterranean dish featuring a nutritious blend of ingredients that are perfect for a sick-day meal.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Whole grain rye bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Low-fat cheddar cheese",
+      "amount": "1 oz"
+    },
+    {
+      "name": "Kosher salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "a twist of the peppermill"
+    },
+    {
+      "name": "Olive oil spray",
+      "amount": ""
+    },
+    {
+      "name": "Avocado spread (optional)",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Spray the inside of a rye bread slice with olive oil spray.",
+    "On a flat surface, knead together cheddar cheese and salt until combined. Adjust seasoning if necessary with pepper and extra salt as desired.",
+    "Place the kneaded mixture on top of one side of the sprayed rye bread.",
+    "Cover the other side of the sandwich with the avocado spread, if using.",
+    "Place the assembled sandwich in a baking dish or directly onto the oven rack. Bake for 5-7 minutes or until cheese is fully melted and bread is golden brown.",
+    "Remove from heat and let cool for about 2 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "goey",
+    "smoky",
+    "sick-day",
+    "mediterranean",
+    "low-calorie-friendly",
+    "gyro-style"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 7,
+    "carbs": 5,
+    "fat": 1
+  },
+  "slug": "gooey-smoky-rye-sandwich",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-smoky-rye-sandwich",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T14:51:44Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "gooey",
+    "mood": "sick-day",
+    "technique": "knead",
+    "primaryIngredient": "rye",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Rye",
+    "descriptor": "Gooey",
+    "dishForm": "Sandwich"
+  }
+}
