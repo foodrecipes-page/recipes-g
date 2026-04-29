@@ -1,0 +1,91 @@
+{
+  "title": "Garlicky Korean Chicken Stir-fry",
+  "description": "This quick-fix Venezuelan dish features tender chicken cooked in a low-calorie-friendly stock with garlic and other aromatic herbs for a vibrant kick.",
+  "cuisine": "Venezuelan-Korean fusion",
+  "diet": [
+    "low-calorie",
+    "keto-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "2 pieces",
+      "notes": "skin-on for extra flavor"
+    },
+    {
+      "name": "chicken stock",
+      "amount": "1 cup",
+      "notes": "low-sodium, ready to use"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "6 cloves",
+      "notes": "minced for maximum aroma"
+    },
+    {
+      "name": "Korean red pepper flakes (gochugaru)",
+      "amount": "1/2 tablespoon",
+      "notes": "adjust to taste for heat level"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 green stalk and 1 white part",
+      "notes": "minced, for garnish"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup",
+      "notes": "freshly squeezed, optional for freshness"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon",
+      "notes": "for balancing flavors"
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large skillet over medium-high heat. Add chicken and cook until browned on both sides, about 5 minutes per side.",
+    "Remove the chicken from the pan and set aside. In the same pan, add minced garlic, Korean red pepper flakes, and a few drops of olive oil if desired. Sauté for another minute or so until fragrant.",
+    "Add the chicken stock to the pan and stir to combine with the aromatics. Bring to a simmer and let it cook for about 3 minutes.",
+    "Return the chicken to the pan and toss well to coat evenly in the liquid, letting the flavors meld together.",
+    "Stir in sugar until dissolved, and squeeze in the lime juice if using. Taste and adjust seasoning as needed.",
+    "Spoon the stir-fry onto a plate, garnish with chopped scallions, and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlicy",
+    "korean-style",
+    "quick-fix",
+    "tender-chicken",
+    "low-calorie"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 12,
+    "fat": 8
+  },
+  "slug": "garlicky-korean-chicken-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-korean-chicken-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T14:43:18Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "tender",
+    "mood": "quick-fix",
+    "technique": "poach",
+    "primaryIngredient": "chicken stock",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "chicken",
+    "descriptor": "Garlicky",
+    "dishForm": "Stir-fry"
+  }
+}

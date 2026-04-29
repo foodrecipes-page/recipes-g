@@ -717,6 +717,20 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-korean-chicken-stir-fry",
+    "title": "Garlicky Korean Chicken Stir-fry",
+    "tags": [
+      "garlicy",
+      "korean-style",
+      "quick-fix",
+      "tender-chicken",
+      "low-calorie"
+    ],
+    "cuisine": "Venezuelan-Korean fusion",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-korean-garlic-stir-fry",
     "title": "Garlicky Korean Garlic Stir-Fry",
     "tags": [
