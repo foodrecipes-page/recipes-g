@@ -290,6 +290,20 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-american-garlic-stir-fry",
+    "title": "Garlicky American Garlic Stir-Fry",
+    "tags": [
+      "garlicky",
+      "velvety",
+      "meal-prep",
+      "american-dish",
+      "low-sodium"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 30,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-chewy-dum-stir-fry",
     "title": "Garlicky Chewy Dum Stir-fry",
     "tags": [
