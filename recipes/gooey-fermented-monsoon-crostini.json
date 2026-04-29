@@ -1,0 +1,66 @@
+{
+  "title": "Gooey Fermented Monsoon Crostini",
+  "description": "A raw-friendly fermented crostini featuring red pepper paste, perfect for a breakfast or snack option.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegan",
+    "raw"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Whole grain bread slices",
+      "amount": "12"
+    },
+    {
+      "name": "Red pepper paste",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Fermentation culture (sourdough starter or commercial)",
+      "notes": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Spread red pepper paste evenly on each bread slice.",
+    "Dip the slices in a solution of fermentation culture and water for about 2 minutes, ensuring even coating.",
+    "Place crostini seam-side down onto baking sheet lined with parchment paper.",
+    "Bake in preheated oven for approximately 10 minutes or until golden brown on top.",
+    "Allow to cool slightly before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fermented",
+    "gooey",
+    "monsoon"
+  ],
+  "nutrition": {
+    "calories": 76,
+    "protein": 3.6,
+    "carbs": 12,
+    "fat": 0
+  },
+  "slug": "gooey-fermented-monsoon-crostini",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-fermented-monsoon-crostini",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T06:05:45Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "gooey",
+    "mood": "monsoon",
+    "technique": "pressure-cook",
+    "primaryIngredient": "red pepper paste",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Monsoon",
+    "mainIngredient": "Fermented",
+    "descriptor": "Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
