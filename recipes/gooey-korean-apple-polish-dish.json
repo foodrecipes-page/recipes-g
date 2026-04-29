@@ -1,0 +1,74 @@
+{
+  "title": "Gooey Korean Apple Polish Dish",
+  "description": "This hangover-cure dish features a gooey texture made with apple juice and wrapped in a plant-based-friendly coating, infused with the smoky flavor of smoking.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "apple juice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "smoke-infused breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ground flaxseed",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "plant-based milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "apple slices",
+      "amount": "6-8 medium-sized"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "2 teaspoons"
+    }
+  ],
+  "instructions": [
+    "Soak apple slices in apple juice for at least 30 minutes.",
+    "Preheat oven to 350°F (175°C).",
+    "Mix together smoke-infused breadcrumbs, ground flaxseed, and plant-based milk; set aside.",
+    "Combine apple slices with a sprinkle of dijon mustard on one side. Dip the other side into the mixed crumbs mixture.",
+    "Place coated apple slices in a baking dish and bake for 20-25 minutes or until golden brown and gooey.",
+    "Serve warm as a dessert treat."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "hangover-cure",
+    "korean-apple-dish"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 18,
+    "carbs": 27,
+    "fat": 12
+  },
+  "slug": "gooey-korean-apple-polish-dish",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-korean-apple-polish-dish",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T02:56:52Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "gooey",
+    "mood": "hangover-cure",
+    "technique": "smoke",
+    "primaryIngredient": "apple juice",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Apple",
+    "descriptor": "Gooey",
+    "dishForm": "Polish Dish"
+  }
+}
