@@ -1,0 +1,85 @@
+{
+  "title": "Gooey Turkish Dates Chocolate Bread",
+  "description": "This herbal and gooey Turkish dates bread is perfect for kids with a touch of chocolate that's both kid-friendly and plant-based friendly.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "3 cups almond flour",
+      "amount": "cup"
+    },
+    {
+      "name": "1/2 cup coconut sugar",
+      "amount": "cup"
+    },
+    {
+      "name": "1 tsp baking soda",
+      "amount": ""
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": ""
+    },
+    {
+      "name": "3 dates, pitted and chopped (or 3 tbsp date paste)",
+      "amount": "dates/chopped or tbsp paste"
+    },
+    {
+      "name": "1/4 cup cacao powder",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons maple syrup",
+      "amount": "tablespoon"
+    },
+    {
+      "name": "1 teaspoon vanilla extract",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C). Grease a 9x5 inch loaf pan.",
+    "Combine almond flour, coconut sugar, baking soda, and salt in a large bowl. Mix well.",
+    "Add chopped dates or date paste, cacao powder, maple syrup, and vanilla extract. Stir until everything is evenly combined and there are no lumps.",
+    "Pour batter into prepared loaf pan and smooth top with a spatula.",
+    "Bake for 50-60 minutes or until a toothpick inserted comes out clean.",
+    "Allow to cool in the pan for about 10 minutes, then transfer to a wire rack to cool completely before slicing."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "goody-turkish-dates-bread",
+    "herbal-plant-based-dish",
+    "kid-friendly-dessert"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 1
+  },
+  "slug": "gooey-turkish-dates-bread",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-turkish-dates-bread",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T07:29:17Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "gooey",
+    "mood": "kid-friendly",
+    "technique": "deglaze",
+    "primaryIngredient": "cacao",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Dates",
+    "descriptor": "Gooey",
+    "dishForm": "Bread"
+  }
+}

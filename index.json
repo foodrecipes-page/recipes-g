@@ -1796,6 +1796,18 @@
     "shard": "g"
   },
   {
+    "slug": "gooey-turkish-dates-bread",
+    "title": "Gooey Turkish Dates Chocolate Bread",
+    "tags": [
+      "goody-turkish-dates-bread",
+      "herbal-plant-based-dish",
+      "kid-friendly-dessert"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 60,
+    "shard": "g"
+  },
+  {
     "slug": "gooey-uruguayan-aubergine-stir-fry",
     "title": "Gooey Uruguayan Aubergine Stir-fry",
     "tags": [
