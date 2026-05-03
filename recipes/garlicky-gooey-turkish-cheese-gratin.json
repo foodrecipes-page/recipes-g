@@ -1,0 +1,104 @@
+{
+  "title": "Garlicky Gooey Turkish Cheese Gratin",
+  "description": "A fragrant, gooey cheese gratin that showcases Turkish flavors with Worcestershire sauce and a touch of cured bacon for a show‑off finish.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Low-lactose Turkish white cheese (crumbled)",
+      "amount": "200 g"
+    },
+    {
+      "name": "Lactose-free milk",
+      "amount": "200 ml"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic-infused olive oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive oil (for greasing)",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh thyme leaves",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "¼ tsp"
+    },
+    {
+      "name": "Gluten-free breadcrumbs",
+      "amount": "½ cup"
+    },
+    {
+      "name": "Grated Parmesan cheese",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Cured bacon or ham (crisp-fry bits)",
+      "amount": "50 g",
+      "notes": "optional for extra show‑off"
+    },
+    {
+      "name": "Salt",
+      "amount": "½ tsp",
+      "notes": "optional, adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180 °C (356 °F) and lightly grease a 20 cm baking dish with olive oil.",
+    "In a small saucepan, combine the milk, Worcestershire sauce, garlic-infused olive oil, thyme, and smoked paprika; warm over medium heat until just steaming, being careful not to boil.",
+    "Remove the pan from heat and stir in the crumbled Turkish cheese until it melts and the mixture becomes smooth and silky.",
+    "If using cured bacon or ham, quickly sauté the bits until crisp and scatter them over the cheese mixture.",
+    "Pour the cheese mixture into the prepared dish and spread it evenly.",
+    "Sprinkle the gluten-free breadcrumbs and grated Parmesan on top.",
+    "Bake for 20–25 minutes, or until the top is golden and bubbly; for a crispier finish, broil for an additional 2–3 minutes.",
+    "Let the gratin rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "cheese-gratin",
+    "garlicky",
+    "fodmap-friendly",
+    "show-off"
+  ],
+  "nutrition": {
+    "calories": 385,
+    "protein": 12,
+    "carbs": 12,
+    "fat": 12
+  },
+  "slug": "garlicky-gooey-turkish-cheese-gratin",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-gooey-turkish-cheese-gratin",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:42:41Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "gooey",
+    "mood": "show-off",
+    "technique": "cure",
+    "primaryIngredient": "worcestershire sauce",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "cheese",
+    "descriptor": "Garlicky Gooey",
+    "dishForm": "Gratin"
+  }
+}
