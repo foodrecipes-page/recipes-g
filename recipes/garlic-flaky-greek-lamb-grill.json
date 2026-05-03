@@ -1,0 +1,109 @@
+{
+  "title": "Garlic Flaky Greek Lamb Grill",
+  "description": "A garlicky, flaky lamb grilled to perfection, topped with a silky coconut cream sauce for a Greek-inspired adventure.",
+  "cuisine": "Greek",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb loin chops",
+      "amount": "1.5 lbs",
+      "notes": "1-inch thick"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried mint",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried rosemary",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "coconut whipping cream",
+      "amount": "3 tbsp",
+      "notes": "non-dairy"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tbsp",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "In a bowl combine minced garlic, lemon juice, olive oil, oregano, mint, rosemary, salt, and pepper; whisk into a smooth marinade.",
+    "Add lamb chops to the bowl, toss to coat thoroughly, then cover and refrigerate for 30 minutes to 2 hours to allow flavors to penetrate.",
+    "Preheat the grill to medium-high (450°F). Lightly oil the grill grates to prevent sticking.",
+    "Remove lamb from the refrigerator and let it sit at room temperature for about 10 minutes before grilling.",
+    "Grill lamb chops for 3-4 minutes per side for medium-rare, or until an instant-read thermometer reads 145°F (63°C).",
+    "While the lamb rests, gently warm the coconut cream in a small saucepan over low heat, stirring until silky; do not let it boil.",
+    "Plate the grilled lamb chops and drizzle with the warmed coconut cream. Sprinkle chopped dill on top if desired.",
+    "Serve immediately with warm Greek pita or a fresh side salad. Enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "lamb",
+    "greek",
+    "kashrut-friendly",
+    "savory",
+    "flaky",
+    "adventurous"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 32,
+    "carbs": 4,
+    "fat": 38
+  },
+  "slug": "garlic-flaky-greek-lamb-grill",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlic-flaky-greek-lamb-grill",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:06:23Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "flaky",
+    "mood": "adventurous",
+    "technique": "grill",
+    "primaryIngredient": "whipping cream",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "Garlic Flaky",
+    "dishForm": "Grill"
+  }
+}

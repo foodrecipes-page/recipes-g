@@ -106,6 +106,22 @@
     "shard": "g"
   },
   {
+    "slug": "garlic-flaky-greek-lamb-grill",
+    "title": "Garlic Flaky Greek Lamb Grill",
+    "tags": [
+      "grilled",
+      "lamb",
+      "greek",
+      "kashrut-friendly",
+      "savory",
+      "flaky",
+      "adventurous"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 40,
+    "shard": "g"
+  },
+  {
     "slug": "garlic-gherkin-bliss",
     "title": "Garlic Gherkin Bliss",
     "tags": [
