@@ -1,0 +1,92 @@
+{
+  "title": "Garlicky Fluffy Canadian Chicken Roast",
+  "description": "A tender, sous‑vide chicken roast infused with ras el hanout, garlic, and a dash of maple for a show‑off Canadian flavor.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts, boneless, skinless",
+      "amount": "2 (≈4 lb)",
+      "notes": "whole breasts"
+    },
+    {
+      "name": "ras el hanout",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "6 cloves",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "½ cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tbsp",
+      "notes": "cut into cubes"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper, freshly ground",
+      "amount": "½ tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh thyme sprigs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the sous‑vide bath to 150 °F (65 °C).",
+    "Season the chicken breasts with salt, pepper, ras el hanout, and minced garlic.",
+    "Place the seasoned chicken in a vacuum‑seal bag along with olive oil, maple syrup, chicken broth, and butter cubes.",
+    "Seal the bag using a vacuum sealer or the displacement method.",
+    "Cook the bagged chicken sous‑vide for 90–120 minutes, until the internal temperature reaches 150 °F (65 °C).",
+    "Remove the chicken from the bag and pat dry with paper towels.",
+    "Heat a skillet over medium‑high heat; sear the chicken for 1–2 minutes per side, adding thyme sprigs during the last minute.",
+    "Remove from heat, slice, and serve garnished with lemon zest."
+  ],
+  "slug": "garlicky-fluffy-canadian-chicken-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-fluffy-canadian-chicken-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:50:15Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "fluffy",
+    "mood": "show-off",
+    "technique": "sous-vide",
+    "primaryIngredient": "ras el hanout",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Garlicky Fluffy",
+    "dishForm": "Roast"
+  }
+}
