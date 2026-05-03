@@ -458,6 +458,21 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-crumbly-indian-cheese-casserole",
+    "title": "Garlicky Crumbly Indian Cheese Casserole",
+    "tags": [
+      "indian-cuisine",
+      "vegetarian",
+      "casserole",
+      "garlicky",
+      "crumbly",
+      "cheesy"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 40,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-crumbly-king-prawn-slovakian-crumble",
     "title": "Garlicky Crumbly King Prawn Slovakian Crockpot Creme Fraîche",
     "tags": [
