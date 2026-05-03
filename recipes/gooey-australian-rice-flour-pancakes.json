@@ -1,0 +1,95 @@
+{
+  "title": "Gooey Australian Rice Flour Pancakes",
+  "description": "Fresh and indulgent, these slow-cooked rice flour pancakes are a perfect lazy Sunday treat, featuring a gooey center and a crispy exterior. This low-sodium-friendly dish is a delightful twist on traditional Australian pancakes.",
+  "cuisine": "Australian",
+  "diet": [
+    "low-sodium",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rice flour",
+      "amount": "1 1/2 cups",
+      "notes": "preferably Australian-grown"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "low-fat milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "pure vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together rice flour, sugar, and baking powder.",
+    "In a separate bowl, whisk together eggs, low-fat milk, and melted unsalted butter.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Add pure vanilla extract and salt-free seasoning blend, and stir gently.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Using a 1/4 cup measuring cup, scoop the batter onto the skillet or griddle.",
+    "Cook the pancakes for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "Loosen the pancakes with a spatula and cook for an additional 1-2 minutes, until golden brown.",
+    "Serve the pancakes warm, with a gooey center and a crispy exterior.",
+    "Optional: top with fresh fruits, whipped cream, or pure maple syrup."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "australian-recipes",
+    "low-sodium",
+    "vegetarian",
+    "breakfast",
+    "brunch",
+    "lazy-sunday"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "gooey-australian-rice-flour-pancakes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-australian-rice-flour-pancakes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T16:35:11Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "gooey",
+    "mood": "lazy-sunday",
+    "technique": "slow-cook",
+    "primaryIngredient": "rice flour pancakes",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "rice flour",
+    "descriptor": "Gooey",
+    "dishForm": "Pancakes"
+  }
+}
