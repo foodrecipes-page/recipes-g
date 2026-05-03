@@ -1,0 +1,105 @@
+{
+  "title": "Garlicky Gooey Jamaican Yam Hash",
+  "description": "A sweet and savory Jamaican-inspired dish featuring roasted yams, caramelized onions, and a tangy pickle sauce, perfect for a brunch gathering. This Jain-friendly recipe is free from animal products and by-products.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian",
+    "jain",
+    "vegan"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "yams",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pickle relish",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "1-2",
+      "notes": "diced, seeds removed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Toss the diced yams with 2 tablespoons of olive oil, salt, and black pepper on a baking sheet. Roast for 20-25 minutes, or until tender.",
+    "In a large skillet, caramelize the onions over medium heat for 20-25 minutes, stirring occasionally.",
+    "Add the minced garlic and diced scotch bonnet peppers to the skillet and cook for an additional 2-3 minutes.",
+    "Stir in the brown sugar, pickle relish, and roasted yams. Cook for 2-3 minutes, until the mixture is well combined.",
+    "Using a spatula, shape the mixture into a hash shape and cook for an additional 2-3 minutes, until the bottom is crispy and golden brown.",
+    "Flip the hash and cook for an additional 2-3 minutes, until the other side is also crispy and golden brown.",
+    "Serve the Garlicky Gooey Jamaican Yam Hash hot, garnished with chopped fresh cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "brunch",
+    "yam",
+    "garlic",
+    "pickle",
+    "vegan",
+    "jain"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "garlicky-gooey-jamaican-yam-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-gooey-jamaican-yam-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T21:26:01Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "gooey",
+    "mood": "brunch-mood",
+    "technique": "pickle",
+    "primaryIngredient": "sugars",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "yams",
+    "descriptor": "garlicky gooey",
+    "dishForm": "Hash"
+  }
+}
