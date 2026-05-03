@@ -1,0 +1,113 @@
+{
+  "title": "Garlicky Canadian Salmon Chowder",
+  "description": "A hearty, midnight-craving salmon chowder with a garlicky kick and a splash of cayenne pepper for warmth.",
+  "cuisine": "Canadian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salmon fillet",
+      "amount": "2 lb",
+      "notes": "cut into 1½\" cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "yellow onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "celery stalks",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "cubed"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fish stock or vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil and butter in a large pot over medium heat until the butter foams.",
+    "Add the diced onion, carrots, and celery; sauté for 5-7 minutes until the vegetables soften.",
+    "Stir in the minced garlic and cook for an additional 1 minute until fragrant, being careful not to burn it.",
+    "Pour in the fish stock, bring the mixture to a gentle boil, then reduce heat and simmer for 10 minutes to meld the flavors.",
+    "Add the cubed potatoes and continue to simmer until they are tender, about 8 minutes.",
+    "Fold in the salmon cubes and let the chowder gently simmer for 4-5 minutes, just until the salmon is opaque and cooked through—do not overcook to keep it juicy.",
+    "Stir in the heavy cream, cayenne pepper, smoked paprika, salt, and pepper; adjust seasonings to taste.",
+    "Add the chopped dill and a squeeze of lemon juice if using; let the chowder heat through for an extra 2 minutes.",
+    "Serve hot, optionally garnished with extra dill or a sprinkle of cayenne for a touch of heat.",
+    "Enjoy the garlicky, creamy, Canadian-inspired salmon chowder perfect for late-night cravings."
+  ],
+  "slug": "garlicky-canadian-salmon-chowder",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-canadian-salmon-chowder",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:36:50Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "juicy",
+    "mood": "midnight-craving",
+    "technique": "reduce",
+    "primaryIngredient": "cayenne pepper",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "salmon",
+    "descriptor": "Garlicky",
+    "dishForm": "Chowder"
+  }
+}

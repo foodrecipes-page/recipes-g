@@ -404,6 +404,14 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-canadian-salmon-chowder",
+    "title": "Garlicky Canadian Salmon Chowder",
+    "tags": [],
+    "cuisine": "Canadian",
+    "totalTimeMin": null,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-canadian-seafood-chowder",
     "title": "Garlicky Canadian Seafood Chowder",
     "tags": [
@@ -1230,6 +1238,22 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-german-potatoes-gratin",
+    "title": "Garlicky German Potatoes Gratin",
+    "tags": [
+      "kid-friendly",
+      "potato-dish",
+      "gratin",
+      "garlic",
+      "monterey-jack",
+      "german",
+      "bake"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 60,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-gooey-argentinian-ancho-peppers-stir-fry",
     "title": "Garlicky Gooey Argentinian Ancho Peppers Stir-fry",
     "tags": [
@@ -1252,6 +1276,21 @@
     ],
     "cuisine": "Argentinean",
     "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-gooey-japanese-oats-stir-fry",
+    "title": "Garlicky Gooey Japanese Oats Stir-fry",
+    "tags": [
+      "vegetarian-friendly",
+      "garlic",
+      "gooey",
+      "oats",
+      "stir-fry",
+      "japanese"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {

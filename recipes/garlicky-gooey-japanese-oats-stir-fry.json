@@ -1,0 +1,119 @@
+{
+  "title": "Garlicky Gooey Japanese Oats Stir-fry",
+  "description": "A fragrant, tofu‑rich stir‑fry where quick oats soak up a garlicky soy‑miso sauce, creating a gooey, comforting dish perfect for a romantic Japanese lunch.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "quick oats",
+      "amount": "1 cup (80 g)",
+      "notes": "lightly rinsed"
+    },
+    {
+      "name": "firm tofu",
+      "amount": "200 g",
+      "notes": "pressed and cubed"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp (15 ml)",
+      "notes": "divided: 1 tbsp for tofu, 1 tbsp for stir-fry"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "low sodium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1 stalk",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium (61 g)",
+      "notes": "julienned"
+    },
+    {
+      "name": "shiitake mushrooms",
+      "amount": "100 g",
+      "notes": "sliced"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 cup (30 g)",
+      "notes": "fresh"
+    },
+    {
+      "name": "nori flakes",
+      "amount": "1 tbsp (1 g)",
+      "notes": "to sprinkle"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tbsp (9 g)",
+      "notes": "toasted"
+    },
+    {
+      "name": "miso paste",
+      "amount": "1 tsp (5 g)",
+      "notes": "lightly sweet"
+    }
+  ],
+  "instructions": [
+    "Rinse the oats lightly with cold water and set aside; they’ll absorb the sauce later.",
+    "Press the tofu with paper towels to remove excess moisture, then cut into 1‑inch cubes.",
+    "Whisk together soy sauce, miso paste, minced garlic, and a pinch of red pepper flakes (optional) to create the base sauce.",
+    "Heat a non‑stick skillet or wok over medium‑high heat and add 1/2 tbsp sesame oil; when shimmering, add tofu cubes and sear until golden on all sides.",
+    "Remove tofu and set aside; in the same pan, add sliced carrots, shiitake mushrooms, and spinach; stir‑fry for 3–4 minutes until the veggies soften.",
+    "Sprinkle oats evenly over the vegetables, pour the sauce, and stir vigorously to coat everything; cook for another 5 minutes, allowing the oats to become silky and slightly gooey.",
+    "Return tofu to the pan and toss to combine; finish with chopped scallions, nori flakes, and toasted sesame seeds.",
+    "Taste and adjust seasoning with extra soy sauce or a squeeze of lime if desired.",
+    "Transfer to serving plates, garnish with additional sesame seeds, and serve immediately while warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian-friendly",
+    "garlic",
+    "gooey",
+    "oats",
+    "stir-fry",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 798,
+    "protein": 36,
+    "carbs": 73,
+    "fat": 35
+  },
+  "slug": "garlicky-gooey-japanese-oats-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-gooey-japanese-oats-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:36:06Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "gooey",
+    "mood": "romantic",
+    "technique": "stir-fry",
+    "primaryIngredient": "oats",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "oats",
+    "descriptor": "Garlicky Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
