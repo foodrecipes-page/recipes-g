@@ -1,0 +1,108 @@
+{
+  "title": "Gossamer Uruguayan Yogurt Ceviche",
+  "description": "A citrusy, silky, romantic Uruguayan dish that blends Greek yogurt and miso into a creamy, ovo‑vegetarian ceviche.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "plain Greek yogurt",
+      "amount": "1 cup (240 ml)",
+      "notes": "nonfat"
+    },
+    {
+      "name": "white miso paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "avocado",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "firm tofu",
+      "amount": "1 cup",
+      "notes": "cubed"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 tsp",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Wash and dice cucumber, avocado, and tofu into bite‑size cubes.",
+    "Whisk Greek yogurt, miso paste, lime juice, orange juice, olive oil, and chili powder until smooth.",
+    "Fold the diced vegetables and tofu into the yogurt mixture, ensuring even coating.",
+    "Add chopped cilantro and minced red onion, stirring gently.",
+    "Taste and adjust seasoning with salt or extra lime if desired.",
+    "Refrigerate the ceviche for 10 minutes to allow flavors to meld.",
+    "Serve chilled over a bed of fresh lettuce or crumbled crackers.",
+    "Garnish with extra cilantro or lime wedges for a romantic touch."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "low-calorie",
+    "ovo-vegetarian",
+    "romantic",
+    "silky"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "gossamer-uruguayan-yogurt-ceviche",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/gossamer-uruguayan-yogurt-ceviche",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:14:06Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "silky",
+    "mood": "romantic",
+    "technique": "miso-marinate",
+    "primaryIngredient": "greek yogurt",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Yogurt",
+    "descriptor": "Gossamer",
+    "dishForm": "Ceviche"
+  }
+}
