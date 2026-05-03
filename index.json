@@ -620,6 +620,21 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-crisp-algerian-green-pepper-tagine",
+    "title": "Garlicky Crisp Algerian Green Pepper Tagine",
+    "tags": [
+      "algerian-cuisine",
+      "vegan",
+      "gluten-free",
+      "lazy-sunday",
+      "tagine",
+      "north-african"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 50,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-crispy-american-chicken-stir-fry",
     "title": "Garlicky Crispy American Chicken Stir-fry",
     "tags": [
