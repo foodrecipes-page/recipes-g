@@ -1,0 +1,101 @@
+{
+  "title": "Garlicky Gooey Russian Gouda Casserole",
+  "description": "A comforting FODMAP‑friendly Russian-inspired casserole that blends gooey Gouda, aromatic garlic oil, and fresh veggies into a quick dinner.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gouda cheese",
+      "amount": "200 g",
+      "notes": "grated"
+    },
+    {
+      "name": "Cauliflower rice",
+      "amount": "1 cup",
+      "notes": "low FODMAP"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic‑infused olive oil",
+      "amount": "1 tbsp",
+      "notes": "no garlic cloves, for flavor"
+    },
+    {
+      "name": "Lactose‑free milk",
+      "amount": "1/2 cup",
+      "notes": "low FODMAP"
+    },
+    {
+      "name": "Oat flour",
+      "amount": "1 tbsp",
+      "notes": "for thickening"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Nutritional yeast",
+      "amount": "1 tbsp",
+      "notes": "optional, enhances cheese flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180 °C (350 °F).",
+    "In a medium bowl, combine the cauliflower rice, diced carrots, and diced zucchini; set aside."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fodmap-friendly",
+    "vegan-friendly",
+    "cheesy",
+    "casserole",
+    "quick",
+    "comfort-food",
+    "russian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 1150,
+    "protein": 66,
+    "carbs": 35,
+    "fat": 80
+  },
+  "slug": "garlicky-gooey-russian-gouda-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-gooey-russian-gouda-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:02:10Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "gooey",
+    "mood": "energizing",
+    "technique": "reduce",
+    "primaryIngredient": "gouda cheese",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "gouda",
+    "descriptor": "Garlicky Gooey",
+    "dishForm": "Casserole"
+  }
+}

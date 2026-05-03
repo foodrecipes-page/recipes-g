@@ -587,6 +587,21 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-crispy-american-chicken-stir-fry",
+    "title": "Garlicky Crispy American Chicken Stir-fry",
+    "tags": [
+      "american",
+      "whole30-friendly",
+      "stir-fry",
+      "garlic",
+      "crispy",
+      "quick-meal"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-crispy-brazilian-shrimp-skewers",
     "title": "Garlicky, Crispy Brazilian Shrimp Skewers",
     "tags": [
@@ -1163,6 +1178,22 @@
       "Mexican"
     ],
     "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-gooey-russian-gouda-casserole",
+    "title": "Garlicky Gooey Russian Gouda Casserole",
+    "tags": [
+      "fodmap-friendly",
+      "vegan-friendly",
+      "cheesy",
+      "casserole",
+      "quick",
+      "comfort-food",
+      "russian-cuisine"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 30,
     "shard": "g"
   },
   {
