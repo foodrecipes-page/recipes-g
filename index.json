@@ -383,6 +383,24 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-chewy-greek-lentils-stew",
+    "title": "Garlicky Chewy Greek Lentils Stew",
+    "tags": [
+      "garlicky",
+      "chewy",
+      "kid-friendly",
+      "Greek",
+      "sauerkraut",
+      "stew",
+      "lentils",
+      "vegetarian",
+      "Whole30-friendly"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 50,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-chewy-irish-rhubarb-stir-fry",
     "title": "Garlicky Chewy Irish Rhubarb Stir-fry",
     "tags": [
