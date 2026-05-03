@@ -1,6 +1,6 @@
 {
   "title": "Gooey Russian Baked Beans Casserole",
-  "description": "Savory, gooey brunch casserole with baked beans, fluffy dumplings, and melty cheese—perfectly kosher-friendly and comforting.",
+  "description": "Savory, gooey brunch casserole with baked beans, fluffy dumplings, and melty cheese-perfectly kosher-friendly and comforting.",
   "cuisine": "Russian",
   "diet": [
     "kosher"
@@ -49,7 +49,7 @@
     },
     {
       "name": "black pepper",
-      "amount": "½ tsp"
+      "amount": "\u00bd tsp"
     },
     {
       "name": "olive oil",
@@ -57,13 +57,13 @@
       "notes": "cooks dumplings lightly"
     },
     {
-      "name": "dumplings (store‑bought or homemade)",
+      "name": "dumplings (store\u2011bought or homemade)",
       "amount": "1 cup, pieces",
       "notes": "place on top of beans before final bake"
     }
   ],
   "instructions": [
-    "Preheat oven to 375°F (190°C).",
+    "Preheat oven to 375\u00b0F (190\u00b0C).",
     "In a large bowl, whisk together milk, cornstarch, flour, salt, and pepper until smooth. Add beans, onion, garlic, and half of the cheese, then stir until beans are coated.",
     "Transfer mixture to a greased 9x13 inch baking dish and spread evenly.",
     "Arrange dumpling pieces on top of the bean mixture, spacing them slightly.",
@@ -89,5 +89,20 @@
     "mainIngredient": "Baked Beans",
     "descriptor": "Gooey",
     "dishForm": "Casserole"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "russian",
+    "breakfast"
+  ]
 }
