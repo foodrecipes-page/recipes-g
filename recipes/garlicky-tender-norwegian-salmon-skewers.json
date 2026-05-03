@@ -1,0 +1,76 @@
+{
+  "title": "Garlicky Tender Norwegian Salmon Skewers",
+  "description": "Quick, garlicky salmon skewers infused with subtle cinnamon for a Norwegian twist, perfect for a fast dinner.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salmon fillet, skinless",
+      "amount": "600g",
+      "notes": "cut into 4x150g cubes"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "4 cloves (about 1 tbsp)",
+      "notes": "or 1 tsp if using pre-minced"
+    },
+    {
+      "name": "Fresh dill, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 lemon"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Kosher salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Cut the salmon into 4 equal 150g cubes and set aside.",
+    "In a bowl whisk together olive oil, minced garlic, dill, lemon zest, lemon juice, cinnamon, salt, and pepper to make the marin.",
+    "Add the salmon cubes to the bowl and gently coat, then cover and marinate for 10–15 minutes at room temperature.",
+    "Thread 2–3 salmon cubes onto each of 4 skewers, leaving a small gap between pieces.",
+    "Place the skewers on the preheated grill and cook 4–5 minutes per side, or until the salmon flakes easily and reaches an internal temperature of 145 °F (63 °C).",
+    "Remove the skewers, let them rest for 3 minutes, then serve with fresh lemon wedges if desired."
+  ],
+  "slug": "garlicky-tender-norwegian-salmon-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-tender-norwegian-salmon-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:33:33Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "tender",
+    "mood": "quick-fix",
+    "technique": "marinate",
+    "primaryIngredient": "cinnamon",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Salmon",
+    "descriptor": "Garlicky Tender",
+    "dishForm": "Skewers"
+  }
+}
