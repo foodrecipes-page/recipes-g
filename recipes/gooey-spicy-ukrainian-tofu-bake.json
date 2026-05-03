@@ -1,0 +1,111 @@
+{
+  "title": "Gooey Spicy Ukrainian Tofu Bake",
+  "description": "A cozy, cheese‑topped tofu bake packed with heat, creamy toppings, and a crunchy vegetable base, perfect for a comforting Ukrainian‑style dinner.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "200 g",
+      "notes": "pressed and drained"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "150 g",
+      "notes": "shredded"
+    },
+    {
+      "name": "sour cream",
+      "amount": "100 g",
+      "notes": "diced"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup diced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt & pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 190°C (375°F) and line a 9‑inch baking dish with parchment paper.",
+    "Press the tofu for 20 minutes to remove excess moisture, then cube it.",
+    "Whisk soy sauce, smoked paprika, red pepper flakes, salt, pepper, and olive oil in a bowl; toss the tofu cubes to coat and let marinate for 15 minutes.",
+    "Arrange diced carrots, bell pepper, onion, and garlic in the baking dish; sprinkle marinated tofu on top.",
+    "Evenly distribute shredded cheddar and diced sour cream over the vegetables and tofu.",
+    "Bake for 25–30 minutes until the cheese melts and edges of the tofu crisp up.",
+    "Remove from oven, let rest 5 minutes, then serve hot with fresh dill or parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "spicy",
+    "tofu",
+    "bake",
+    "comfort-food",
+    "Ukrainian"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 18,
+    "carbs": 8,
+    "fat": 20
+  },
+  "slug": "gooey-spicy-ukrainian-tofu-bake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-spicy-ukrainian-tofu-bake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:42:42Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "gooey",
+    "mood": "cozy",
+    "technique": "bake",
+    "primaryIngredient": "marinated tofu",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "tofu",
+    "descriptor": "Gooey Spicy",
+    "dishForm": "Bake"
+  }
+}
