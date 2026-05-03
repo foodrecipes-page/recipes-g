@@ -259,6 +259,20 @@
     "shard": "g"
   },
   {
+    "slug": "garlic-rajasthani-beef-curry",
+    "title": "Garlic Rajasthani Beef Curry",
+    "tags": [
+      "garlic",
+      "rajasthani",
+      "beef",
+      "high-protein",
+      "pressure-cooker"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
     "slug": "garlic-roasted-potato-roast",
     "title": "Garlic Roasted Potato Roast",
     "tags": [
@@ -1707,6 +1721,23 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-rum-infused-uruguayan-chicken-roast",
+    "title": "Garlicky Rum‑Infused Uruguayan Chicken Roast",
+    "tags": [
+      "uruguayan",
+      "rum-infused",
+      "garlicky",
+      "roast",
+      "halal-friendly",
+      "broil",
+      "main-course",
+      "chicken"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 85,
     "shard": "g"
   },
   {

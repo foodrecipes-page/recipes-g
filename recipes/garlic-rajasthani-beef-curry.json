@@ -1,0 +1,101 @@
+{
+  "title": "Garlic Rajasthani Beef Curry",
+  "description": "A flavorful, garlicky Rajasthani-inspired beef curry that pairs tender meat with aromatic spices, cooked quickly in a pressure cooker for a high-protein, light meal.",
+  "cuisine": "Indian",
+  "diet": [
+    "high-protein-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef cubes",
+      "amount": "500 g"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "15 cloves (≈3 tbsp)"
+    },
+    {
+      "name": "Fresh ginger, minced",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1 medium (≈150 g)"
+    },
+    {
+      "name": "Tomato, diced",
+      "amount": "2 medium (≈200 g)"
+    },
+    {
+      "name": "Plain yogurt",
+      "amount": "100 g"
+    },
+    {
+      "name": "Rajasthani spice mix (ground cumin, coriander, red chili, turmeric, garam masala)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Water",
+      "amount": "200 ml"
+    },
+    {
+      "name": "Fresh cilantro, chopped",
+      "amount": "2 tbsp (garnish)"
+    }
+  ],
+  "instructions": [
+    "Marinate the beef cubes with yogurt, half of the minced garlic, ginger, and a pinch of salt for 20 minutes.",
+    "Heat oil in a pressure cooker over medium heat and sauté the remaining garlic until fragrant.",
+    "Add the chopped onions and cook until translucent, then stir in the diced tomatoes and all remaining spices, cooking for 2 minutes.",
+    "Place the marinated beef into the cooker, stir to coat with the spice mixture, and add water to cover the meat by about 1 cm.",
+    "Seal the cooker and cook on high pressure for 15 minutes; release pressure naturally for 5 minutes before opening.",
+    "Open the lid and let the curry simmer on low heat for 5 minutes to thicken, stirring occasionally.",
+    "Adjust seasoning with salt and a squeeze of lime juice if desired.",
+    "Garnish with fresh cilantro before serving with steamed rice or flatbread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "garlic",
+    "rajasthani",
+    "beef",
+    "high-protein",
+    "pressure-cooker"
+  ],
+  "nutrition": {
+    "calories": 228,
+    "protein": 34,
+    "carbs": 3,
+    "fat": 20
+  },
+  "slug": "garlic-rajasthani-beef-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlic-rajasthani-beef-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:13:30Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "light",
+    "mood": "light",
+    "technique": "pressure-cook",
+    "primaryIngredient": "beef",
+    "diet": "high-protein",
+    "region": "rajasthani",
+    "cuisineAdjective": "Rajasthani",
+    "mainIngredient": "beef",
+    "descriptor": "Garlic",
+    "dishForm": "Curry"
+  }
+}
