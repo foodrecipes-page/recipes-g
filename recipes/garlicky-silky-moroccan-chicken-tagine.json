@@ -1,0 +1,96 @@
+{
+  "title": "Garlicky Silky Moroccan Chicken Tagine",
+  "description": "A fragrant, low-sodium Moroccan chicken tagine with silky sauce, caramelized onions, and a touch of honey for subtle sweetness.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken thighs",
+      "amount": "1 kg",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp",
+      "notes": "divided: 2 tbsp for onions, 1 tbsp for garlic and chicken"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Moroccan spice blend",
+      "amount": "2 tsp",
+      "notes": "ground ginger, cinnamon, cumin, paprika"
+    },
+    {
+      "name": "low-sodium chicken broth",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1/2 cup",
+      "notes": "no salt added"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp olive oil in a heavy-bottomed pot or tagine over medium heat. Add sliced onions and sauté until translucent, about 5 minutes.",
+    "Add the remaining 1 tbsp olive oil, minced garlic, and Moroccan spice blend. Cook, stirring, until fragrant, about 2 minutes.",
+    "Stir in the chicken pieces and brown on all sides, about 5-7 minutes.",
+    "Pour in the low-sodium chicken broth, diced tomatoes, and tomato paste. Bring to a gentle simmer, then reduce heat to low, cover, and let cook for 30-35 minutes, stirring occasionally.",
+    "Add honey and lemon juice, stir, and season with black pepper (omit salt).",
+    "Continue cooking uncovered for another 10-15 minutes, or until the chicken is tender and the sauce has thickened slightly.",
+    "Stir in the chopped cilantro and parsley, then remove from heat.",
+    "Serve hot over couscous or rice, garnishing with additional herbs if desired."
+  ],
+  "slug": "garlicky-silky-moroccan-chicken-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-silky-moroccan-chicken-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:43:23Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "silky",
+    "mood": "nostalgic",
+    "technique": "saute",
+    "primaryIngredient": "caramel",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Chicken",
+    "descriptor": "Garlicky Silky",
+    "dishForm": "Tagine"
+  }
+}
