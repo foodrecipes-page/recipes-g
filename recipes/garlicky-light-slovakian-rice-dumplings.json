@@ -1,0 +1,98 @@
+{
+  "title": "Garlicky Light Slovakian Rice Dumplings",
+  "description": "Fluffy rice dumplings seasoned with garlic and lime leaves, pan‑fried to a golden crisp—perfect for a quick, low‑calorie Slovakian meal.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cooked jasmine rice",
+      "amount": "2 cups (480g)",
+      "notes": "pre‑cooked, slightly cooled"
+    },
+    {
+      "name": "egg whites",
+      "amount": "3 large",
+      "notes": "use fresh eggs"
+    },
+    {
+      "name": "all‑purpose flour",
+      "amount": "1/4 cup (30g)",
+      "notes": "helps bind the dumplings"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "freshly ground if possible"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": "for a subtle garlicky kick"
+    },
+    {
+      "name": "fresh lime leaves",
+      "amount": "10 leaves",
+      "notes": "finely shredded"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for pan‑frying"
+    }
+  ],
+  "instructions": [
+    "Heat a non‑stick skillet over medium heat and lightly coat with 1 tsp of olive oil.",
+    "In a large bowl whisk the egg whites until frothy, then fold in the cooked rice, flour, salt, pepper, garlic powder, and shredded lime leaves until well combined.",
+    "Divide the mixture into 8 equal portions and shape each into a round dumpling, about 3 inches in diameter.",
+    "Place the dumplings gently into the hot skillet, cooking 2–3 minutes per side until golden brown and puffed.",
+    "Use a spatula to flip each dumpling once, ensuring even browning on both sides.",
+    "Once cooked, transfer dumplings to a paper towel‑lined plate to drain excess oil.",
+    "Serve warm, optionally with a light yogurt drizzle or a squeeze of fresh lime juice.",
+    "Enjoy your quick, garlicky Slovakian rice dumplings!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "light",
+    "garlic",
+    "slovakian",
+    "rice-dumplings",
+    "quick-fix",
+    "low-calorie"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 7,
+    "carbs": 38,
+    "fat": 3
+  },
+  "slug": "garlicky-light-slovakian-rice-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-light-slovakian-rice-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:42:24Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "fluffy",
+    "mood": "quick-fix",
+    "technique": "fold",
+    "primaryIngredient": "lime leaves",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "rice",
+    "descriptor": "Garlicky Light",
+    "dishForm": "Dumplings"
+  }
+}
