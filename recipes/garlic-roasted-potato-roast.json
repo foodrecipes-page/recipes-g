@@ -1,0 +1,77 @@
+{
+  "title": "Garlic Roasted Potato Roast",
+  "description": "This earthy and juicy potato roast is a crowd-pleaser Dutch dish featuring garlic sauce and perfect for those following the keto diet.",
+  "cuisine": "Dutch",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "Waxy potatoes like Russet are best"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "8-10 medium",
+      "notes": "For the garlic sauce, use 4 cloves for mashed potatoes"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (218°C).",
+    "Dice the potatoes and place them in a large bowl.",
+    "Add olive oil, salt, black pepper, and minced garlic cloves. Toss well until all potatoes are evenly coated with the mixture.",
+    "Transfer the potatoes onto a baking sheet lined with parchment paper.",
+    "Roast for 30-40 minutes or until golden brown on top and tender inside.",
+    "For the garlic sauce: In a blender, blend minced garlic cloves with fresh cream (dairy-free option if needed), salt, black pepper, and lemon juice to taste. Adjust seasonings according to preference."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "potato",
+    "garlic",
+    "roasted",
+    "keto-friendly",
+    "dutch"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 4,
+    "fat": 15
+  },
+  "slug": "garlic-roasted-potato-roast",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlic-roasted-potato-roast",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T18:00:13Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "juicy",
+    "mood": "crowd-pleaser",
+    "technique": "roast",
+    "primaryIngredient": "garlic sauce",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "potato",
+    "descriptor": "Garlic Roasted",
+    "dishForm": "Roast"
+  }
+}

@@ -200,6 +200,20 @@
     "shard": "g"
   },
   {
+    "slug": "garlic-roasted-potato-roast",
+    "title": "Garlic Roasted Potato Roast",
+    "tags": [
+      "potato",
+      "garlic",
+      "roasted",
+      "keto-friendly",
+      "dutch"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 45,
+    "shard": "g"
+  },
+  {
     "slug": "garlic-sherry-sunday",
     "title": "Garlic Sherry Sunday",
     "tags": [
