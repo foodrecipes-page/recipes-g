@@ -1,0 +1,89 @@
+{
+  "title": "Gooey Earthy Asparagus Pilaf",
+  "description": "A comforting earthy and gooey Middle Eastern dish featuring white asparagus mixed with aromatic herbs and a blend of crushed nuts for added texture.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup white asparagus",
+      "amount": "unspecified",
+      "notes": "trimmed and peeled"
+    },
+    {
+      "name": "1 large onion",
+      "amount": "unspecified",
+      "notes": "sliced thinly"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "unspecified",
+      "notes": "minced finely"
+    },
+    {
+      "name": "3 tablespoons fresh parsley, chopped",
+      "amount": "unspecified",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup toasted almonds",
+      "amount": "unspecified",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup pine nuts",
+      "amount": "unspecified",
+      "notes": ""
+    },
+    {
+      "name": "3 tablespoons lemon juice",
+      "amount": "unspecified",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "unspecified",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a skillet over medium heat. Add asparagus, onion, and garlic, cooking until the vegetables are tender but still crisp.",
+    "Stir in parsley, lemon juice, salt, and pepper. Mix well to combine.",
+    "Fold in almonds and pine nuts. Cook for an additional minute or two until heated through and all ingredients are evenly distributed.",
+    "Serve warm as a side dish with grilled chicken or fish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "asparagus",
+    "pilaf",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 168,
+    "protein": 7,
+    "carbs": 12,
+    "fat": 7
+  },
+  "slug": "gooey-middle-eastern-asparagus-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-middle-eastern-asparagus-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T09:10:49Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "gooey",
+    "mood": "comforting",
+    "technique": "fold",
+    "primaryIngredient": "white asparagus",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "white asparagus",
+    "descriptor": "Gooey",
+    "dishForm": "Pilaf"
+  }
+}

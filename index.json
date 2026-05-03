@@ -1561,6 +1561,18 @@
     "shard": "g"
   },
   {
+    "slug": "gooey-middle-eastern-asparagus-pilaf",
+    "title": "Gooey Earthy Asparagus Pilaf",
+    "tags": [
+      "asparagus",
+      "pilaf",
+      "middle-eastern"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "gooey-middle-eastern-dum-stir-fry",
     "title": "Gooey Middle Eastern Dum Stir-fry",
     "tags": [
