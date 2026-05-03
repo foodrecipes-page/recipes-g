@@ -1,0 +1,118 @@
+{
+  "title": "Garlicky Creamy Vietnamese Pork Pho",
+  "description": "A keto-friendly, comforting Vietnamese dish featuring caramelized sugar sauce and tender pork, served with a rich and creamy broth.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "500g",
+      "notes": "Slice into thin strips."
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "6 cloves",
+      "notes": "Mince."
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Grate."
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Caramel sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "250ml"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2000ml"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped."
+    }
+  ],
+  "instructions": [
+    "Caramelize the sugar sauce in a saucepan over medium heat, stirring occasionally.",
+    "In a separate pan, toast the sesame oil over medium heat.",
+    "Add the garlic and ginger to the pan and cook for 1 minute.",
+    "Add the pork to the pan and cook until browned.",
+    "Add the fish sauce and soy sauce to the pan and cook for 1 minute.",
+    "Add the caramel sauce to the pan and simmer for 5 minutes.",
+    "In a blender or food processor, combine the heavy cream and chicken broth and blend until smooth.",
+    "Pour the blended mixture into the pan with the pork and cook for 5 minutes.",
+    "Season the broth with salt and black pepper to taste.",
+    "Serve the broth over noodles with the pork and garnish with cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "pho",
+    "pork",
+    "garlicky",
+    "creamy",
+    "keto",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "38g",
+    "carbs": "15g",
+    "fat": "44g"
+  },
+  "slug": "garlicky-creamy-vietnamese-pork-pho",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-creamy-vietnamese-pork-pho",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T18:03:15Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "creamy",
+    "mood": "meal-prep",
+    "technique": "fold",
+    "primaryIngredient": "caramelized sugar sauce",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork",
+    "descriptor": "garlicky creamy",
+    "dishForm": "Pho"
+  }
+}
