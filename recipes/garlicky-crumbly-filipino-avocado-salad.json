@@ -1,0 +1,114 @@
+{
+  "title": "Garlicky Crumbly Filipino Avocado Salad",
+  "description": "A fresh, garlicky avocado salad with a tangy vinaigrette and crisp toasted cornflake crumbs, perfect for a light snack or side.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ripe Avocado",
+      "amount": "2 medium (approx 250g each)",
+      "notes": "diced"
+    },
+    {
+      "name": "Cornflakes",
+      "amount": "1/4 cup (30g)",
+      "notes": "toasted for crunch"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "2 tablespoons (30g)",
+      "notes": null
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tablespoon (15g)",
+      "notes": null
+    },
+    {
+      "name": "Calamansi Juice",
+      "amount": "1 tablespoon (15g)",
+      "notes": null
+    },
+    {
+      "name": "White Sugar",
+      "amount": "1 tablespoon (12.5g)",
+      "notes": null
+    },
+    {
+      "name": "Toasted Garlic Powder",
+      "amount": "1 teaspoon (2.8g)",
+      "notes": "or finely minced garlic toasted"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 teaspoon (5g)",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Ground Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1 tablespoon, chopped (optional)",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Toast the cornflakes in a dry skillet over medium heat until golden and fragrant, about 2 minutes. Remove and let cool.",
+    "Whisk coconut milk, fish sauce, calamansi juice, white sugar, toasted garlic powder, sesame oil, salt, and black pepper in a small bowl until the sugar dissolves.",
+    "Gently toss the diced avocado with the dressing, ensuring all pieces are coated.",
+    "Sprinkle the toasted cornflakes over the avocado mixture for a crunchy texture.",
+    "Top with chopped fresh cilantro, if using.",
+    "Serve immediately or chill in the refrigerator for 15 minutes to allow flavors to meld.",
+    "Enjoy as a light snack or side salad."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "avocado",
+    "garlic",
+    "fruit",
+    "light",
+    "snack",
+    "vegetarian",
+    "filipino"
+  ],
+  "nutrition": {
+    "calories": 410,
+    "protein": 9,
+    "carbs": 68,
+    "fat": 62
+  },
+  "slug": "garlicky-crumbly-filipino-avocado-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-crumbly-filipino-avocado-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:51:40Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crumbly",
+    "mood": "light",
+    "technique": "whisk",
+    "primaryIngredient": "avocado",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "avocado",
+    "descriptor": "Garlicky Crumbly",
+    "dishForm": "Salad"
+  }
+}

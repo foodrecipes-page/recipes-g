@@ -824,6 +824,23 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-crumbly-filipino-avocado-salad",
+    "title": "Garlicky Crumbly Filipino Avocado Salad",
+    "tags": [
+      "salad",
+      "avocado",
+      "garlic",
+      "fruit",
+      "light",
+      "snack",
+      "vegetarian",
+      "filipino"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 15,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-crumbly-indian-cheese-casserole",
     "title": "Garlicky Crumbly Indian Cheese Casserole",
     "tags": [
