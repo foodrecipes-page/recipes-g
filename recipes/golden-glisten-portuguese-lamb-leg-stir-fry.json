@@ -1,0 +1,119 @@
+{
+  "title": "Golden Glisten Portuguese Lamb Leg Stir-Fry",
+  "description": "A romantic and savory Portuguese dish featuring lamb leg, stir-fried with aromatic spices and fresh herbs, served with crispy potatoes and caramelized onions. Perfect for a special occasion or a weeknight dinner.",
+  "cuisine": "portuguese",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb leg",
+      "amount": "1, 1.5 kg",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "",
+      "notes": "use a high-quality extra virgin olive oil"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "2 sprigs",
+      "notes": "chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "lemons",
+      "amount": "2",
+      "notes": "juiced"
+    }
+  ],
+  "instructions": [
+    "Season the lamb leg with salt, black pepper, chili flakes, ground cumin, and paprika. Let it sit for 30 minutes to allow the flavors to penetrate.",
+    "Heat 2 tablespoons of olive oil in a large skillet over medium-high heat. Sear the lamb leg until browned on all sides, about 5 minutes. Remove from heat and set aside.",
+    "In the same skillet, add another 2 tablespoons of olive oil. Add the sliced onions and cook until they are caramelized and golden brown, stirring occasionally.",
+    "Add the minced garlic to the skillet and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the sliced potatoes to the skillet and cook for 5 minutes, stirring occasionally, until they are golden brown and crispy.",
+    "Add the chopped rosemary to the skillet and cook for 1 minute, stirring constantly.",
+    "Add the browned lamb leg to the skillet and cook for 5 minutes, stirring occasionally, until the meat is cooked through and the potatoes are tender.",
+    "Juice the lemons and squeeze the juice over the lamb leg. Serve immediately, garnished with additional rosemary if desired.",
+    "Serve the lamb leg with the caramelized onions and crispy potatoes. Garnish with additional rosemary if desired."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 30,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "portuguese",
+    "romantic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 30
+  },
+  "slug": "golden-glisten-portuguese-lamb-leg-stir-fry",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-glisten-portuguese-lamb-leg-stir-fry",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T22:50:38Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crisp",
+    "mood": "romantic",
+    "technique": "stir-fry",
+    "primaryIngredient": "lamb leg",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Lamb leg",
+    "descriptor": "Golden Glisten",
+    "dishForm": "Stir-fry"
+  }
+}
