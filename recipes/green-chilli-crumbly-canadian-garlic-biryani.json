@@ -1,0 +1,92 @@
+{
+  "title": "Green Chilli Crumbly Canadian Garlic Biryani",
+  "description": "A festive garlicy and crumbly Canadian dish infused with green chilli, perfect for a dash-friendly meal that can be air-fried to reduce mess.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "3 cups basmati rice",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup green chillies, chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "4 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 tsp cumin seeds",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup finely chopped onion",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tbsp ghee or oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cups water",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 350°F (175°C). Rinse the basmati rice and soak it in water for at least an hour.",
+    "Heat ghee or oil in a pan, add cumin seeds and let them splutter. Add chopped green chillies and garlic, sauté until fragrant.",
+    "Drain and rinse the soaked rice. Add to the pan with salt, mix well, ensuring all grains are coated with spices.",
+    "Cook over medium heat for about 10 minutes or until water is absorbed. Cover partially and let it rest for at least 3 minutes before fluffing up with a fork.",
+    "Transfer the cooked rice mixture into an air fryer basket, press down slightly to make it crumbly if desired, then cook in your preheated air fryer for about 5-7 minutes or until golden brown and crispy on top.",
+    "Serve hot as a snack or side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "green-chilli",
+    "crumbly",
+    "festive-canadian",
+    "dash-friendly"
+  ],
+  "nutrition": {
+    "calories": 275,
+    "protein": 13,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "green-chilli-crumbly-canadian-garlic-biryani",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/green-chilli-crumbly-canadian-garlic-biryani",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T10:06:03Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crumbly",
+    "mood": "festive",
+    "technique": "air-fry",
+    "primaryIngredient": "green chilli",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Garlic",
+    "descriptor": "Green Chilli",
+    "dishForm": "Crumbly Canadian Garlic Biryani"
+  }
+}
