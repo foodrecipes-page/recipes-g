@@ -1589,6 +1589,23 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-juicy-venezuelan-tofu-soup",
+    "title": "Garlicky Juicy Venezuelan Tofu Soup",
+    "tags": [
+      "vegan-soup",
+      "tofu-soup",
+      "garlic",
+      "brunch",
+      "vegan",
+      "nut-free",
+      "sous-vide",
+      "vegetable-soup"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 75,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-korean-chicken-stir-fry",
     "title": "Garlicky Korean Chicken Stir-fry",
     "tags": [
