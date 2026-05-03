@@ -1,0 +1,90 @@
+{
+  "title": "Garlicky Chewy German Potato Fritters",
+  "description": "Crispy on the outside, tender and garlicky inside, these German potato fritters are made egg‑free and rely on cold water and potato starch for that signature chewiness.",
+  "cuisine": "German",
+  "diet": [
+    "vegan",
+    "egg-free-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "1 kg",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "potato starch",
+      "amount": "1 cup",
+      "notes": "acts as binder"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/4 cup",
+      "notes": "for structure"
+    },
+    {
+      "name": "baking soda",
+      "amount": "1 tsp",
+      "notes": "helps leaven"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "cold water",
+      "amount": "2 tbsp",
+      "notes": "adjust for dough consistency"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Peel and grate the potatoes, then squeeze out as much liquid as possible with a clean towel.",
+    "In a large bowl, combine the grated potatoes, potato starch, flour, baking soda, salt, pepper, minced garlic, and chopped parsley.",
+    "Add the cold water gradually, mixing until a firm dough forms that can be held together without falling apart.",
+    "Heat the oil in a large skillet over medium heat; it should be hot but not smoking (around 175 °C).",
+    "Drop spoonfuls of the dough into the skillet, flattening them slightly to form small patties.",
+    "Fry each side for 3–4 minutes until golden brown and crispy, turning carefully with a spatula.",
+    "Transfer cooked fritters to a paper‑torn plate to drain excess oil.",
+    "Serve hot with a dollop of vegan sour cream or a squeeze of lemon for extra zing."
+  ],
+  "slug": "garlicky-chewy-german-potato-fritters",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-chewy-german-potato-fritters",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T16:51:43Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "chewy",
+    "mood": "adventurous",
+    "technique": "fry",
+    "primaryIngredient": "cold water",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Potato",
+    "descriptor": "Garlicky Chewy",
+    "dishForm": "Fritters"
+  }
+}
