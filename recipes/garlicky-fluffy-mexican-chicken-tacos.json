@@ -1,0 +1,107 @@
+{
+  "title": "Garlicky Fluffy Mexican Chicken Tacos",
+  "description": "Moist, flavorful chicken wrapped in a crunchy taco shell with a creamy green salsa and crispy radish.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free",
+    "vegetarian-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "green tomatillo salsa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "limes",
+      "amount": "2"
+    },
+    {
+      "name": "gluten-free taco shells",
+      "amount": "6-8"
+    },
+    {
+      "name": "radishes",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together cumin, chili powder, and salt. Add chicken thighs and toss to coat.",
+    "Heat 1 tablespoon of coconut oil in a large skillet over medium-high heat. Add chicken and cook until browned on both sides, about 6-7 minutes. Transfer chicken to a plate and cover with foil.",
+    "In the same skillet, heat remaining 1 tablespoon of coconut oil over medium heat. Add garlic and cook until fragrant, about 1 minute.",
+    "Stir in green tomatillo salsa and bring to a simmer. Reduce heat to low and let sauce simmer for 5 minutes.",
+    "Warm taco shells according to package instructions.",
+    "Shred cooked chicken with two forks and return to skillet with green salsa. Toss to coat.",
+    "Season chicken with additional salt and pepper to taste.",
+    "Assemble tacos by spooning chicken mixture into shells and topping with shredded cheese, cilantro, and radish slices.",
+    "Serve immediately and garnish with lime wedges."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "chicken",
+    "tacos",
+    "garlic",
+    "green-salsa"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 22
+  },
+  "slug": "garlicky-fluffy-mexican-chicken-tacos",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-fluffy-mexican-chicken-tacos",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:38:13Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "fluffy",
+    "mood": "adventurous",
+    "technique": "saute",
+    "primaryIngredient": "green salsa",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chicken",
+    "descriptor": "garlicky fluffy",
+    "dishForm": "Tacos"
+  }
+}

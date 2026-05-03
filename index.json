@@ -858,6 +858,20 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-fluffy-mexican-chicken-tacos",
+    "title": "Garlicky Fluffy Mexican Chicken Tacos",
+    "tags": [
+      "mexican",
+      "chicken",
+      "tacos",
+      "garlic",
+      "green-salsa"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 45,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-fluffy-poached-cherries",
     "title": "Garlicky Fluffy Poached Cherries",
     "tags": [
