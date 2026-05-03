@@ -514,6 +514,21 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-crumbly-portuguese-cheese-bake",
+    "title": "Garlicky Crumbly Portuguese Cheese Bake",
+    "tags": [
+      "garlicky",
+      "crumbly",
+      "portuguese",
+      "diabetic-friendly",
+      "cheese-bake",
+      "snack"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 40,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-crumbly-potato-crumble",
     "title": "Garlicky Crumbly Potato Crumble",
     "tags": [

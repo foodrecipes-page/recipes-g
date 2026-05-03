@@ -1,0 +1,103 @@
+{
+  "title": "Garlicky Crumbly Portuguese Cheese Bake",
+  "description": "A savory, midnight-craving Portuguese cheese bake with garlicky crumbs and a splash of Shaoxing wine, perfect for a diabetic-friendly snack.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Aged Azeitão cheese (or similar crumbly cheese)",
+      "amount": "200g",
+      "notes": "cut into 1cm cubes"
+    },
+    {
+      "name": "Fresh garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Shaoxing wine",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Almond flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 190°C (375°F).",
+    "In a bowl, whisk the egg, olive oil, Shaoxing wine, lemon zest, salt, and pepper to create a liquid binder.",
+    "Add the minced garlic and chopped parsley to the mixture and stir.",
+    "Fold in the almond flour to create a crumbly, low‑carb breadcrumb base.",
+    "Place the cubed cheese in a 20x20 cm baking dish and pour the binder mixture over it, ensuring all cubes are coated.",
+    "Sprinkle the remaining almond flour over the top for extra crunch.",
+    "Bake for 20‑25 minutes or until the cheese is golden, caramelized, and the crumbs are crisp.",
+    "Remove from oven and let rest for 5 minutes before serving.",
+    "Serve warm as a midnight snack or side.",
+    "Enjoy the garlicky, crumbly Portuguese cheese bake!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "garlicky",
+    "crumbly",
+    "portuguese",
+    "diabetic-friendly",
+    "cheese-bake",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 30,
+    "carbs": 12,
+    "fat": 48
+  },
+  "slug": "garlicky-crumbly-portuguese-cheese-bake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-crumbly-portuguese-cheese-bake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T16:46:23Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crumbly",
+    "mood": "midnight-craving",
+    "technique": "bake",
+    "primaryIngredient": "shaoxing wine",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "cheese",
+    "descriptor": "Garlicky Crumbly",
+    "dishForm": "Bake"
+  }
+}
