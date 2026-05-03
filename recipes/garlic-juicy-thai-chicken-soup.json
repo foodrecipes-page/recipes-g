@@ -1,0 +1,83 @@
+{
+  "title": "Garlic Juicy Thai Chicken Soup",
+  "description": "A bold, garlicky Thai soup that delivers juicy chicken in a savory broth, perfect for a solo dinner while staying kosher-friendly.",
+  "cuisine": "Thai",
+  "diet": [
+    "kosher-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken thighs, boneless skinless",
+      "amount": "500g",
+      "notes": "Cut into bite‑size pieces"
+    },
+    {
+      "name": "Lard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "4"
+    },
+    {
+      "name": "Fresh ginger, sliced",
+      "amount": "1 inch"
+    },
+    {
+      "name": "Thai bird's eye chilies, sliced",
+      "amount": "2"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Fresh cilantro leaves, chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the lard in a large pot over medium heat until shimmering.",
+    "Add the minced garlic, sliced ginger, and chilies; sauté for 1–2 minutes until fragrant.",
+    "Pour in the chicken broth and bring to a gentle boil.",
+    "Add the chicken pieces, fish sauce, soy sauce, and a pinch of salt; reduce heat to a low simmer and cook for 20 minutes, or until the chicken is juicy and fully cooked.",
+    "Stir in lime juice and adjust seasoning, adding more salt or fish sauce if needed.",
+    "Fold in the chopped cilantro just before serving.",
+    "Serve hot on its own, garnished with a sprinkle of fresh cilantro if desired."
+  ],
+  "slug": "garlic-juicy-thai-chicken-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlic-juicy-thai-chicken-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:59:38Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "juicy",
+    "mood": "solo-dinner",
+    "technique": "boil",
+    "primaryIngredient": "lard",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Chicken",
+    "descriptor": "Garlic Juicy",
+    "dishForm": "Soup"
+  }
+}
