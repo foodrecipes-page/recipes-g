@@ -1,0 +1,99 @@
+{
+  "title": "Garlicky Flaky Australian Salmon Skewers",
+  "description": "Tender salmon pieces marinated in garlic, lemon, and dried mint, then grilled to flaky perfection – a kid-friendly, pescatarian-friendly dish with a tandoor‑inspired flare.",
+  "cuisine": "Australian",
+  "diet": [
+    "pescatarian",
+    "kid-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salmon fillet",
+      "amount": "800g",
+      "notes": "Cut into 2.5cm cubes"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4",
+      "notes": "Minced"
+    },
+    {
+      "name": "Dried mint",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Wooden skewers",
+      "amount": "12",
+      "notes": "Soaked for 30 minutes to prevent burning"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 210°C (410°F) and line a baking sheet with parchment paper.",
+    "In a bowl, whisk together olive oil, minced garlic, dried mint, lemon zest, lemon juice, salt, and pepper to make a bright, aromatic sauce.",
+    "Add the salmon cubes to the bowl and toss gently to coat all surfaces. Let the salmon marinate for 10 minutes.",
+    "Thread the marinated salmon onto the soaked wooden skewers, leaving a small gap between each piece.",
+    "Place the skewers on the prepared baking sheet and bake for 7–9 minutes, or until salmon is opaque and flakes easily with a fork.",
+    "Remove from oven and let rest for 2 minutes before serving. Optionally drizzle with a little extra lemon juice.",
+    "Serve immediately with a side of roasted vegetables or a fresh cucumber salad.",
+    "Enjoy the garlicky, flaky goodness of Australian salmon skewers!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pescatarian-friendly",
+    "kid-friendly",
+    "garlicky",
+    "tandoor-style",
+    "flaky-salmon",
+    "skewers",
+    "dried-mint"
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 45,
+    "carbs": 0,
+    "fat": 28
+  },
+  "slug": "garlicky-flaky-australian-salmon-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-flaky-australian-salmon-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:07:41Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "flaky",
+    "mood": "kid-friendly",
+    "technique": "tandoor",
+    "primaryIngredient": "dried mint",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Salmon",
+    "descriptor": "Garlicky Flaky",
+    "dishForm": "Skewers"
+  }
+}
