@@ -2392,6 +2392,18 @@
     "shard": "g"
   },
   {
+    "slug": "grilled-pork-pizza",
+    "title": "Grilled Pork Pizza",
+    "tags": [
+      "pork pizza",
+      "szechuan flavor",
+      "grilled"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 55,
+    "shard": "g"
+  },
+  {
     "slug": "grilled-portuguese-manchego-cheese-stir-fry",
     "title": "Grilled Portuguese Manchego Cheese Stir-fry",
     "tags": [

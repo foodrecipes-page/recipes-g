@@ -1,0 +1,82 @@
+{
+  "title": "Grilled Pork Pizza",
+  "description": "A salty and juicy Szechuan-infused Italian dish featuring a paleo-friendly twist on pizza with grilled pork.",
+  "cuisine": "Italian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "1 lb"
+    },
+    {
+      "name": "paleo crust base (store-bought or homemade)",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Szechuan peppercorns",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "italian herbs (oregano, basil)",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F.",
+    "Mix minced garlic and Szechuan peppercorns with chopped Italian herbs in a bowl.",
+    "Brush the paleo crust base lightly with olive oil on both sides.",
+    "Place the pork tenderloin between two sheets of parchment paper, season with salt and pepper.",
+    "Grill the pork to desired doneness (145°F for medium-rare). Remove from heat and let rest for 5 minutes before slicing into thin pieces.",
+    "Preheat a pan on medium-high heat, lightly grease it with olive oil. Add slices of grilled pork to the pan, add more seasoning if needed.",
+    "Arrange sliced pork evenly on top of paleo crust base in the pan.",
+    "Melt mozzarella cheese and spread it over the pork slices.",
+    "Place the entire pan in the preheated oven for 10-12 minutes or until cheese is melted and bubbly.",
+    "Remove from oven, let cool slightly before slicing into wedges.",
+    "Serve hot as a meal accompaniment with mixed greens and a balsamic vinaigrette."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pork pizza",
+    "szechuan flavor",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 760,
+    "protein": 39,
+    "carbs": 28,
+    "fat": 21
+  },
+  "slug": "grilled-pork-pizza",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/grilled-pork-pizza",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T08:58:58Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "juicy",
+    "mood": "comforting",
+    "technique": "grill",
+    "primaryIngredient": "szechuan peppercorns",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Pork",
+    "descriptor": "Grilled",
+    "dishForm": "Pizza"
+  }
+}
