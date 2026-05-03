@@ -1723,6 +1723,22 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-syrian-eggplant-curry",
+    "title": "Garlicky Syrian Eggplant Curry",
+    "tags": [
+      "low-carb",
+      "vegetarian",
+      "eggplant",
+      "curry",
+      "mint",
+      "garlic",
+      "syrian"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 40,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-syrian-garlic-stir-fry",
     "title": "Garlicky Syrian Garlic Stir-Fry",
     "tags": [
