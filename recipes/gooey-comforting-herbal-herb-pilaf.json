@@ -1,0 +1,89 @@
+{
+  "title": "Gooey Comforting Herbal Herb Pilaf",
+  "description": "A whole30-friendly herbal and gooey comfort dish featuring creme fraiche as the star ingredient for a Filipino twist.",
+  "cuisine": "Filipino",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 cups rice",
+      "amount": "cup",
+      "notes": "preferably jasmine or basmati"
+    },
+    {
+      "name": "1/4 cup creme fraiche",
+      "amount": "cup",
+      "notes": "full-fat for a gooier texture"
+    },
+    {
+      "name": "1/2 teaspoon ground cloves",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "1/2 teaspoon ground nutmeg",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "1/4 teaspoon cayenne pepper",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "1/4 cup chopped fresh herbs (rosemary, thyme, and parsley)",
+      "amount": "cup"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "2 tablespoons butter",
+      "amount": "tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Cook rice in boiling water for about 20 minutes or until tender. Set aside.",
+    "In a large skillet, melt the butter over medium heat. Add chopped herbs and sauté for 2-3 minutes.",
+    "Add ground cloves, nutmeg, cayenne pepper, salt, and cooked rice to the skillet. Stir well to combine.",
+    "Stir in creme fraiche until fully incorporated. Cook for an additional minute or two until heated through and mixture is gooey.",
+    "Serve warm as a side dish with grilled chicken or fish.",
+    "prepTimeMin: 10",
+    "cookTimeMin: 15",
+    "totalTimeMin: 25",
+    "servings: 4",
+    "difficulty: "
+  ],
+  "tags": [
+    "whole30-friendly",
+    "herbal",
+    "gooey",
+    "comforting",
+    "filipino"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 6,
+    "carbs": 38,
+    "fat": 10
+  },
+  "slug": "gooey-comforting-herbal-herb-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-comforting-herbal-herb-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T16:02:19Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "gooey",
+    "mood": "comforting",
+    "technique": "fold",
+    "primaryIngredient": "creme fraiche",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Herb",
+    "descriptor": "Gooey Comforting Whole30",
+    "dishForm": "Pilaf"
+  }
+}
