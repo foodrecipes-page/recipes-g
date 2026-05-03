@@ -1,0 +1,102 @@
+{
+  "title": "Gooey Festive British Beef Shin Stir-fry",
+  "description": "This high-protein-friendly dish features gooey beef shin stir-fried with fermented sauces for a festive twist in the UK culinary tradition.",
+  "cuisine": "British",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb Beef Shin (sourced from grass-fed animals)",
+      "amount": "1 lb",
+      "notes": "Ensure the meat is at safe handling temperatures"
+    },
+    {
+      "name": "1/4 cup Fermented Black Beans",
+      "amount": "1/4 cup",
+      "notes": "Use a reputable brand to ensure safety and quality"
+    },
+    {
+      "name": "3 cloves Garlic, minced",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "2 tablespoons Soy Sauce (low sodium or gluten-free)",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "1 tablespoon Oyster Sauce (gluten-free preferred)",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "1/4 cup Fermented Black Garlic (if available, optional)",
+      "amount": "1/4 cup",
+      "notes": "For extra depth of flavor"
+    },
+    {
+      "name": "2 tablespoons Hoisin Sauce (gluten-free preferred)",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "1/4 cup Vegetable Oil (for stir-frying)",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "3 scallions, finely chopped (green part only)",
+      "amount": "3 pieces",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat your wok or large frying pan over high heat and add oil.",
+    "Add minced garlic to the hot pan and stir for about a minute until fragrant.",
+    "Place the beef in the pan and sear on both sides, cooking until browned. Remove from the pan and set aside.",
+    "In the same pan, add fermented black beans, Hoisin sauce, oyster sauce, and if using, fermented black garlic, and stir to combine with the oil and spices.",
+    "Return the beef shin to the pan, adding it back to the mixture evenly distributed. If needed, pour a little more vegetable oil over the top of the ingredients in the pan for added moisture (be cautious as the beef is already partially cooked).",
+    "Cover the pan and cook until the beef is fully heated through and sauce thickened slightly.",
+    "Add finely chopped scallions to the pan and stir for about 30 seconds, allowing them to wilt but not overcook to maintain their bright green color.",
+    "Remove from heat and serve hot with your choice of side dishes such as steamed vegetables or rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "festive",
+    "beef-shin",
+    "stir-fry",
+    "fermented-foods"
+  ],
+  "nutrition": {
+    "calories": 680,
+    "protein": 41,
+    "carbs": 25,
+    "fat": 29
+  },
+  "slug": "gooey-festive-british-beef-shin-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-festive-british-beef-shin-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T09:46:27Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "gooey",
+    "mood": "festive",
+    "technique": "stir-fry",
+    "primaryIngredient": "beef shin",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "beef shin",
+    "descriptor": "Fermented Gooey Festive",
+    "dishForm": "Stir-fry"
+  }
+}

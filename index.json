@@ -1449,6 +1449,19 @@
     "shard": "g"
   },
   {
+    "slug": "gooey-festive-british-beef-shin-stir-fry",
+    "title": "Gooey Festive British Beef Shin Stir-fry",
+    "tags": [
+      "festive",
+      "beef-shin",
+      "stir-fry",
+      "fermented-foods"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "gooey-festive-spanish-beef-stir-fry",
     "title": "Gooey Festive Spanish Beef Stir-fry",
     "tags": [
