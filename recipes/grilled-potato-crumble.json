@@ -1,0 +1,75 @@
+{
+  "title": "Grilled Potato Crumble",
+  "description": "A lazy Sunday Norwegian dish featuring small potatoes grilled until crispy and spicy, raw-friendly for a fun side dish or light snack.",
+  "cuisine": "Norwegian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Small Red Potatoes",
+      "amount": "1 lb (450g)"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Red Chili Flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup, chopped (optional)"
+    },
+    {
+      "name": "Coarse Sea Salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your grill to medium-high heat.",
+    "Peel and halve the potatoes. Coat them lightly with olive oil and sprinkle with coarse sea salt.",
+    "Grill the potatoes until they're charred, about 5-7 minutes per side.",
+    "Add minced garlic and red chili flakes to a small mixing bowl and toss together.",
+    "Once the potatoes are cooked, slice them in half lengthwise. Top each half with the spicy garlic mixture and fresh parsley (if using).",
+    "Serve immediately for best texture."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled-potato-crumble",
+    "lazy-sunday-norwegian-dish",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 2.5,
+    "carbs": 23,
+    "fat": 6
+  },
+  "slug": "grilled-potato-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/grilled-potato-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T18:40:17Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crumbly",
+    "mood": "lazy-sunday",
+    "technique": "grill",
+    "primaryIngredient": "small potatoes",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Potato",
+    "descriptor": "Grill",
+    "dishForm": "Crumble"
+  }
+}
