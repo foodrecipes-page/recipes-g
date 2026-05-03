@@ -1,0 +1,89 @@
+{
+  "title": "Gooey Garlic Peruvian Pilaf",
+  "description": "A crowd-pleasing garlic-rich Peruvian dish with a gooey texture and reduced garlic sauce for a paleo-friendly option.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Penne pasta",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "8 cloves",
+      "notes": "Mince finely"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "To taste",
+      "notes": "Freshly ground or ready-made, black pepper is not recommended for paleo diet"
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste",
+      "notes": ""
+    },
+    {
+      "name": "Tomato Sauce (Al dente)",
+      "amount": "1 cup",
+      "notes": "Ensure it's cooked al dente to avoid excess liquid"
+    }
+  ],
+  "instructions": [
+    "In a large pan, heat the olive oil over medium heat.",
+    "Add minced garlic and onion, sauté for about 5 minutes until fragrant.",
+    "Stir in the penne pasta and salt, cook for another minute.",
+    "Pour in the tomato sauce, reduce to thicken. Simmer gently while stirring occasionally.",
+    "Simmer for about 10-15 minutes or until most of the liquid is absorbed.",
+    "Taste, adjust seasoning if needed. Stir lightly before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "paleo-friendly",
+    "goosey-garlic",
+    "peru"
+  ],
+  "nutrition": {
+    "calories": 361,
+    "protein": 21,
+    "carbs": 50,
+    "fat": 8
+  },
+  "slug": "gooey-garlic-peruvian-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-garlic-peruvian-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T17:21:20Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "gooey",
+    "mood": "crowd-pleaser",
+    "technique": "reduce",
+    "primaryIngredient": "garlic sauce",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Peruano",
+    "mainIngredient": "Garlic",
+    "descriptor": "Gooey",
+    "dishForm": "Pilaf"
+  }
+}

@@ -1808,6 +1808,19 @@
     "shard": "g"
   },
   {
+    "slug": "gooey-garlic-peruvian-pilaf",
+    "title": "Gooey Garlic Peruvian Pilaf",
+    "tags": [
+      "peruvian",
+      "paleo-friendly",
+      "goosey-garlic",
+      "peru"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 50,
+    "shard": "g"
+  },
+  {
     "slug": "gooey-herbal-truffle-polish-dish",
     "title": "Gooey Herbal Truffle Polish Dish",
     "tags": [
