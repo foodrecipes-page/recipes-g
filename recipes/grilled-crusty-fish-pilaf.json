@@ -1,0 +1,90 @@
+{
+  "title": "Grilled Crusty Fish Pilaf",
+  "description": "A salty and flaky one-pot Syrian dish featuring Worcestershire sauce, grilled fish, and high-protein-friendly options.",
+  "cuisine": "Syrian",
+  "diet": [
+    "high-protein",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Worcestershire Sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fish (such as cod or tilapia)",
+      "amount": "4 pieces, about 200g each"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "6-8, minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 medium, finely chopped"
+    },
+    {
+      "name": "Wheat Berries (or other whole grain pasta)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Basil leaves",
+      "amount": "1 handful, fresh"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Soak wheat berries in water for at least 30 minutes. Drain and rinse, then add back into the pot with 2 cups of fresh water.",
+    "Stir in Worcestershire sauce, salt, pepper, olive oil, garlic, onion, and basil leaves. Bring to a boil, reduce heat, cover, and simmer until grains are tender, about 45 minutes.",
+    "While wheat berries are cooking, season the fish with salt and black pepper inside and out.",
+    "Arrange seasoned fish on the preheated grill and cook for about 6-8 minutes per side or until cooked through. Remove from heat and let rest for a few minutes.",
+    "Once grains are tender, fold in chopped grilled fish into the pilaf mixture and serve."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled-fish",
+    "pilaf",
+    "worcestershire-sauce"
+  ],
+  "nutrition": {
+    "calories": 386,
+    "protein": 29,
+    "carbs": 50,
+    "fat": 14
+  },
+  "slug": "grilled-crusty-fish-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/grilled-crusty-fish-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T18:22:10Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "flaky",
+    "mood": "one-pot",
+    "technique": "grill",
+    "primaryIngredient": "worcestershire sauce",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Fish",
+    "descriptor": "Grilled",
+    "dishForm": "Pilaf"
+  }
+}

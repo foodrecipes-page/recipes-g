@@ -3025,6 +3025,18 @@
     "shard": "g"
   },
   {
+    "slug": "grilled-crusty-fish-pilaf",
+    "title": "Grilled Crusty Fish Pilaf",
+    "tags": [
+      "grilled-fish",
+      "pilaf",
+      "worcestershire-sauce"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 75,
+    "shard": "g"
+  },
+  {
     "slug": "grilled-fil-pasta-meal-prep",
     "title": "Rich Flaky Grilled Fil-Pasta Meal-Prep",
     "tags": [
