@@ -1,0 +1,114 @@
+{
+  "title": "Garlicky Japanese Miso Ramen with Tadka and Pink Hue",
+  "description": "A quick, keto-friendly ramen that blends garlicky Japanese miso broth, a fragrant Indian-style tadka, and a pop of pink color for a vibrant, low-carb dinner.",
+  "cuisine": "Japanese",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shirataki noodles",
+      "amount": "200g (1 cup)",
+      "notes": "rinse thoroughly, drain well"
+    },
+    {
+      "name": "Low-sodium vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "White miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Tamari (or low-sodium soy sauce)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Fresh ginger, minced",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Mustard seeds",
+      "amount": "½ teaspoon"
+    },
+    {
+      "name": "Red chili flakes (or one dried chili, crushed)",
+      "amount": "½ teaspoon"
+    },
+    {
+      "name": "Pink food coloring",
+      "amount": "2 drops"
+    },
+    {
+      "name": "Green onions, sliced",
+      "amount": "2 tablespoons",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Nori strips (optional)",
+      "amount": "¼ cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat a medium pot over medium heat and add 1 teaspoon sesame oil.",
+    "Add mustard seeds and cumin; let them sizzle for 20 seconds to release aroma.",
+    "Stir in minced garlic, ginger, and chili flakes; cook until fragrant, about 1 minute.",
+    "Pour in the vegetable broth and bring to a gentle boil.",
+    "Whisk in the miso paste and tamari, then stir in the pink food coloring until evenly dispersed.",
+    "Add the rinsed shirataki noodles and simmer for 3–4 minutes until heated through.",
+    "Taste and adjust seasoning with extra tamari or a pinch of salt if needed.",
+    "Serve the broth and noodles in bowls, topping with sliced green onions and nori strips.",
+    "Enjoy immediately while hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "ramen",
+    "garlic",
+    "tadka",
+    "pink",
+    "asian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 8,
+    "fat": 15
+  },
+  "slug": "garlicky-japanese-miso-ramen",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-japanese-miso-ramen",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:02:37Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "juicy",
+    "mood": "light",
+    "technique": "tadka",
+    "primaryIngredient": "pink food colouring",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Miso",
+    "descriptor": "Garlicky",
+    "dishForm": "Ramen"
+  }
+}
