@@ -383,6 +383,19 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-chewy-irish-rhubarb-stir-fry",
+    "title": "Garlicky Chewy Irish Rhubarb Stir-fry",
+    "tags": [
+      "garlicky",
+      "chewy",
+      "light",
+      "irish"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 27,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-chewy-kenyan-garlic-stir-fry",
     "title": "Garlicky Chewy Kenyan Garlic Stir-fry",
     "tags": [
