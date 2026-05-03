@@ -1,0 +1,136 @@
+{
+  "title": "Garlic Creamy Norwegian Cod Soup",
+  "description": "A garlicky, creamy cod soup with a surprising hint of chocolate that keeps it energizing and diabetic‑friendly.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets (boneless, skinless)",
+      "amount": "600g",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "small onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "celery stalk",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "low‑sodium broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "sugar‑free dark chocolate chips",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat. Add minced garlic and sauté for 30 seconds until fragrant.",
+    "Stir in diced onion, celery, carrot, and potatoes; cook for about 5 minutes until the vegetables begin to soften.",
+    "Pour in the low‑sodium broth, bring to a gentle simmer, cover, and let cook for 15 minutes until the potatoes are tender.",
+    "Stir in butter, heavy cream, soy sauce, lemon juice, salt, and pepper. Reduce the mixture for an additional 5 minutes to thicken the sauce.",
+    "Add the cod fillets to the pot, cover, and simmer until the fish flakes easily (internal temperature 60‑65°C, about 8‑10 minutes).",
+    "Remove the pot from heat and fold in grated Parmesan, chopped dill, and sugar‑free chocolate chips until the chocolate melts into the creamy broth.",
+    "Taste and adjust seasoning with extra salt, pepper, or lemon juice as desired.",
+    "Ladle the soup into bowls, garnish with a sprinkle of fresh dill and a few chocolate chips.",
+    "Serve hot, optionally accompanied by steamed greens for extra fiber."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "cod-soup",
+    "garlic",
+    "creamy",
+    "diabetic-friendly",
+    "chocolate-chip",
+    "simmer"
+  ],
+  "nutrition": {
+    "calories": 375,
+    "protein": 14,
+    "carbs": 19,
+    "fat": 27
+  },
+  "slug": "garlic-creamy-norwegian-cod-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlic-creamy-norwegian-cod-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:45:36Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "creamy",
+    "mood": "energizing",
+    "technique": "simmer",
+    "primaryIngredient": "chocolate chips",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Cod",
+    "descriptor": "Garlic Creamy",
+    "dishForm": "Soup"
+  }
+}

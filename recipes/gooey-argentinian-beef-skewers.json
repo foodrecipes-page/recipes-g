@@ -1,0 +1,105 @@
+{
+  "title": "Gooey Argentinian Beef Skewers",
+  "description": "A fermented, gooey post-workout Argentinian dish featuring pomegranate, perfect for a Mediterranean-friendly meal. Marinated beef skewers are broiled to perfection and served with a side of tangy pomegranate sauce.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "pomegranate juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pomegranate seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together pomegranate juice, olive oil, garlic, oregano, red pepper flakes, salt, and black pepper.",
+    "Add the beef strips to the marinade and mix well to coat. Cover and refrigerate for at least 2 hours or overnight.",
+    "Preheat the broiler to 400°F (200°C).",
+    "Thread the marinated beef strips onto skewers, leaving a little space between each piece.",
+    "Broil the skewers for 10-12 minutes, turning occasionally, or until cooked to desired level of doneness.",
+    "While the skewers are cooking, mix together pomegranate seeds and chopped parsley in a small bowl.",
+    "Once the skewers are done, brush them with the pomegranate seed mixture.",
+    "Serve the skewers hot, garnished with additional pomegranate seeds and parsley if desired.",
+    "Let the skewers rest for a few minutes before serving to allow the juices to redistribute.",
+    "Serve with a side of tangy pomegranate sauce, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "pomegranate",
+    "skewers",
+    "mediterranean",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "gooey-argentinian-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-argentinian-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T20:45:46Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "gooey",
+    "mood": "post-workout",
+    "technique": "broil",
+    "primaryIngredient": "pomegranate",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "fermented gooey",
+    "dishForm": "Skewers"
+  }
+}
