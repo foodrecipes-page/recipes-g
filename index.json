@@ -818,6 +818,19 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-juicy-thai-lasagne-lasagna",
+    "title": "Garlicky Juicy Thai Lasagne Lasagna",
+    "tags": [
+      "thai",
+      "vegetarian",
+      "lasagne",
+      "quick"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 50,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-korean-chicken-stir-fry",
     "title": "Garlicky Korean Chicken Stir-fry",
     "tags": [

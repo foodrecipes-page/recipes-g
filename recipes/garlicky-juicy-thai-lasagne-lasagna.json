@@ -1,0 +1,107 @@
+{
+  "title": "Garlicky Juicy Thai Lasagne Lasagna",
+  "description": "A quick, vegetarian Thai-inspired lasagne that layers aromatic garlic, coconut‑milk sauce, and tofu, finished with fresh herbs and a touch of lime.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lasagne sheets (no‑boil)",
+      "amount": "12 sheets"
+    },
+    {
+      "name": "Extra‑virgin olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Red curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "400 ml (1 can)"
+    },
+    {
+      "name": "Firm tofu, cubed",
+      "amount": "400 g",
+      "notes": "Press to remove excess moisture before cubing"
+    },
+    {
+      "name": "Shiitake mushrooms, sliced",
+      "amount": "200 g"
+    },
+    {
+      "name": "Baby spinach",
+      "amount": "150 g"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh cilantro, chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180 °C (350 °F). Lightly oil a 9×13 inch baking dish.",
+    "Heat olive oil in a large skillet over medium heat. Add minced garlic and sauté 1 minute until fragrant.",
+    "Stir in red curry paste and cook another minute.",
+    "Pour in coconut milk, bring to a gentle simmer.",
+    "Add cubed tofu, sliced shiitake, and baby spinach. Cook 3–4 minutes until spinach wilts and tofu is heated through. Season with salt, pepper, and lime juice. Remove from heat.",
+    "Spread a thin layer of sauce in the prepared dish. Lay 4 lasagne sheets over the sauce.",
+    "Spoon and spread half of the tofu‑curry mixture over the sheets. Repeat with another layer of sheets and remaining sauce/mix until sheets are used; finish with sauce on top.",
+    "Cover the dish with foil and bake 25 minutes. Remove foil and bake an additional 10 minutes until the top is lightly browned and bubbling.",
+    "Let the lasagne rest 5 minutes before cutting. Sprinkle chopped cilantro over the top.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "vegetarian",
+    "lasagne",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 366,
+    "protein": 10,
+    "carbs": 56,
+    "fat": 22
+  },
+  "slug": "garlicky-juicy-thai-lasagne-lasagna",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-juicy-thai-lasagne-lasagna",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T16:50:48Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "juicy",
+    "mood": "quick-fix",
+    "technique": "knead",
+    "primaryIngredient": "lasagne sheets",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Lasagne",
+    "descriptor": "Garlicky Juicy",
+    "dishForm": "Lasagna"
+  }
+}
