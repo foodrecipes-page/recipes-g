@@ -1,0 +1,118 @@
+{
+  "title": "Garlicky Gooey Tunisian Potato Tagine",
+  "description": "A rich, garlicky tagine featuring cubes of potato, a hearty broth, and sweet raisins, finished with toasted almonds and fresh parsley for a gooey, indulgent Tunisian experience.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "1 kg"
+    },
+    {
+      "name": "potato starch",
+      "amount": "2 tbsp",
+      "notes": "helps thicken"
+    },
+    {
+      "name": "olive oil",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "6 cloves",
+      "notes": "finely minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "harissa paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "500 ml"
+    },
+    {
+      "name": "raisins",
+      "amount": "100 g",
+      "notes": "sweet contrast"
+    },
+    {
+      "name": "sliced almonds, toasted",
+      "amount": "50 g",
+      "notes": "adds crunch"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Peel and dice 1 kg potatoes into 1‑inch cubes; set aside.",
+    "In a small bowl mix 2 tbsp potato starch with 2 tbsp water to create a slurry; set aside.",
+    "Warm 4 tbsp olive oil in a thick‑bottomed tagine or pot over medium heat; add minced garlic and sauté until golden, about 30 seconds.",
+    "Stir in smoked paprika, cumin, coriander, and harissa paste; cook, stirring, for 1 minute until fragrant.",
+    "Add diced potatoes to the pot, tossing to coat with the spice mixture; cook for 2–3 minutes so they brown lightly.",
+    "Pour in 500 ml vegetable broth, bring to a gentle boil, then reduce heat to low, cover, and simmer for 20 minutes, stirring occasionally.",
+    "Mix the potato starch slurry and pour it into the pot; stir, then simmer uncovered for another 5–7 minutes until the sauce thickens and potatoes are tender.",
+    "Stir in 100 g raisins, 50 g toasted almonds, 1 tsp salt, and ½ tsp black pepper; continue cooking for 3 minutes.",
+    "Remove from heat, drizzle with the juice of one lemon, and sprinkle chopped parsley over the top.",
+    "Ladle the tagine into bowls, serve hot with warm flatbread or couscous."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tunisian",
+    "potato",
+    "tagine",
+    "vegan",
+    "vegetarian",
+    "comfort-food",
+    "indulgent"
+  ],
+  "nutrition": {
+    "calories": 1800,
+    "protein": 20,
+    "carbs": 280,
+    "fat": 60
+  },
+  "slug": "garlicky-gooey-tunisian-potato-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-gooey-tunisian-potato-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:13:57Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "gooey",
+    "mood": "indulgent",
+    "technique": "braise",
+    "primaryIngredient": "potato starch",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "potato",
+    "descriptor": "Garlicky Gooey",
+    "dishForm": "Tagine"
+  }
+}
