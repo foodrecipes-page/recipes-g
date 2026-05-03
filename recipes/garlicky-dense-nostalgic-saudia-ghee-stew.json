@@ -1,0 +1,97 @@
+{
+  "title": "Garlicky Dense Nostalgic Saudia Ghee Stew",
+  "description": "This jain-friendly saudi ghee stew features tender chunks of chicken in a rich garlic sauce that's perfect for a comforting dinner or light lunch.",
+  "cuisine": "Saudi Arabian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "6-8 finely minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large, finely chopped"
+    },
+    {
+      "name": "tomato puree or diced tomatoes",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ginger root",
+      "amount": "1 tablespoon, finely grated"
+    },
+    {
+      "name": "ghee (clarified butter)",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "water or chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 teaspoon, lightly toasted and ground"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1/2 teaspoon, lightly toasted and ground"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat ghee in a pressure cooker over medium heat.",
+    "Add onions and sauté until translucent. Add ginger and cook for another minute.",
+    "Add garlic, coriander seeds, cumin seeds, turmeric powder, and tomato puree or diced tomatoes to the onion mixture and stir well.",
+    "Push chicken thighs into the pot with the sauce. Pour in water or broth, cover with a tight lid, and seal the pressure cooker according to manufacturer's instructions for about 15 minutes.",
+    "Let it rest for another minute before releasing the pressure manually (or using a quick-release method if you prefer).",
+    "Serve hot with steamed basmati rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi-arabian",
+    "ghee-stew",
+    "jain-friendly",
+    "pressure-cooked",
+    "garlicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 26,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "garlicky-dense-nostalgic-saudia-ghee-stew",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-dense-nostalgic-saudia-ghee-stew",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T11:18:31Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "dense",
+    "mood": "nostalgic",
+    "technique": "pressure-cook",
+    "primaryIngredient": "chicken",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "ghee",
+    "descriptor": "Garlicky Dense Nostalgic",
+    "dishForm": "Stew"
+  }
+}
