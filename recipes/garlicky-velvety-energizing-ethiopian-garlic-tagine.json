@@ -1,0 +1,121 @@
+{
+  "title": "Ethiopian Garlic Tagine with Sriracha",
+  "description": "A garlicky and velvety Ethiopian-inspired dish with a kick of sriracha, perfect for a quick breakfast or lunch.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Onion",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "6 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Bamboo shoot",
+      "amount": "1 cup",
+      "notes": "Canned or fresh, sliced"
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "Boneless and skinless, cut into bite-sized pieces"
+    },
+    {
+      "name": "Sriracha sauce",
+      "amount": "2 tablespoons",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons",
+      "notes": "Melted"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1/4 teaspoon",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Paprika powder",
+      "amount": "1/4 teaspoon",
+      "notes": "Adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a tagine or Dutch oven over medium-high heat.",
+    "Add the chopped onion and sauté for 3-4 minutes, until softened.",
+    "Add the minced garlic and sauté for another minute, until fragrant.",
+    "Add the sliced bamboo shoot and sauté for 2-3 minutes, until slightly tender.",
+    "Add the chicken breast and sauté for 3-4 minutes, until browned.",
+    "Add the sriracha sauce, ghee, salt, black pepper, turmeric powder, and paprika powder.",
+    "Mix well and bring to a simmer.",
+    "Reduce heat to low and cook for 15-20 minutes, until the chicken is cooked through and the sauce has thickened.",
+    "Stir in the chopped cilantro and adjust seasoning to taste.",
+    "Serve hot over rice or with injera bread.",
+    "Garnish with additional cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "lunch",
+    "dairy-free",
+    "garlic-lovers",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "garlicky-velvety-energizing-ethiopian-garlic-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-velvety-energizing-ethiopian-garlic-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:53:24Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "velvety",
+    "mood": "energizing",
+    "technique": "fold",
+    "primaryIngredient": "sriracha",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "garlic",
+    "descriptor": "garlicky velvety energizing",
+    "dishForm": "Tagine"
+  }
+}
