@@ -1,0 +1,105 @@
+{
+  "title": "Garlicky Cinnamon Greek Shrimp Skillet",
+  "description": "A vibrant Mediterranean skillet featuring succulent shrimp tossed in a savory garlic sauce with a warm, unexpected hint of cinnamon. This energizing dish is finished with a balsamic reduction and fresh herbs for a sophisticated flavor profile.",
+  "cuisine": "Greek",
+  "diet": [
+    "Pescatarian",
+    "Gluten-Free",
+    "Low-Carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Large Shrimp",
+      "amount": "1 lb",
+      "notes": "peeled and deveined, tails on"
+    },
+    {
+      "name": "Garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "3 tbsp",
+      "notes": "high quality"
+    },
+    {
+      "name": "Ground Cinnamon",
+      "amount": "1/2 tsp",
+      "notes": "ceylon preferred"
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "amount": "1/4 cup",
+      "notes": "for reduction"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/4 tsp",
+      "notes": "optional for heat"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Pat the shrimp completely dry with paper towels and season lightly with salt and pepper.",
+    "In a small saucepan over medium heat, simmer the balsamic vinegar for 5-7 minutes until it reduces by half and becomes syrupy; set aside.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the minced garlic and red pepper flakes to the skillet, sautéing for 30 seconds until fragrant but not browned.",
+    "Add the shrimp in a single layer and sprinkle the ground cinnamon evenly over them.",
+    "Cook the shrimp for 2 minutes per side until they turn pink and opaque, being careful not to overcook.",
+    "Stir in the lemon juice and half of the fresh parsley, tossing to coat the shrimp in the pan juices.",
+    "Remove from heat and drizzle the balsamic reduction over the skillet.",
+    "Top with crumbled feta cheese and the remaining parsley before serving immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 3,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "mediterranean-diet",
+    "one-pan",
+    "seafood",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 310,
+    "protein": 34,
+    "carbs": 8,
+    "fat": 16
+  },
+  "slug": "garlicky-cinnamon-greek-shrimp-skillet",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-cinnamon-greek-shrimp-skillet",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T21:08:43Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "juicy",
+    "mood": "energizing",
+    "technique": "reduce",
+    "primaryIngredient": "cinnamon",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Shrimp",
+    "descriptor": "Garlicky Cinnamon",
+    "dishForm": "Skillet"
+  }
+}
