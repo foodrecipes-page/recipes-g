@@ -1,0 +1,101 @@
+{
+  "title": "Garlicky Crunchy Greek Lamb Skewers",
+  "description": "A flavorful and crunchy Greek dish featuring lamb skewers with a garlicky twist, perfect for a brunch mood. The addition of peanut cookies adds a unique texture and flavor combination.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "peanut cookies",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, oregano, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated lamb cubes onto the soaked wooden skewers, leaving a small space between each cube.",
+    "Sprinkle the crushed peanut cookies over the lamb skewers, pressing gently to adhere.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, or until the lamb is cooked to an internal temperature of 145°F.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Serve the Garlicky Crunchy Greek Lamb Skewers hot, garnished with fresh parsley or oregano if desired.",
+    "Refrigerate or freeze any leftovers for later use."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "lamb",
+    "skewers",
+    "garlic",
+    "peanut-cookies",
+    "brunch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "garlicky-crunchy-greek-lamb-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-crunchy-greek-lamb-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T20:50:30Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crunchy",
+    "mood": "brunch-mood",
+    "technique": "dum",
+    "primaryIngredient": "peanut cookies",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "garlicky crunchy",
+    "dishForm": "Skewers"
+  }
+}
