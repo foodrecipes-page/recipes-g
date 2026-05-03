@@ -1,0 +1,78 @@
+{
+  "title": "Garlicky Brazilian Garlic Pilaf",
+  "description": "A silky and garlicky Brazilian dish perfect for a lazy Sunday brunch, featuring cherry tomatoes in a paleo-friendly stir-fry.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "garlic cloves",
+      "amount": "6",
+      "notes": "about 1/4 cup minced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "2 cups",
+      "notes": "halved"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "pineapple chunks",
+      "amount": "1 cup",
+      "notes": "freshly cut"
+    },
+    {
+      "name": "paleo-friendly breadcrumbs (optional)",
+      "amount": "1/2 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a saucepan over medium heat.",
+    "Add minced garlic and sauté until fragrant, about 30 seconds.",
+    "Add halved cherry tomatoes to the pan and cook for another minute.",
+    "Stir in pineapple chunks, and continue cooking until all ingredients are heated through.",
+    "Taste and adjust seasoning if needed. Add paleo-friendly breadcrumbs (if using) and stir to coat evenly.",
+    "Serve hot as a side dish or over your preferred protein."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlicy",
+    "brazilian",
+    "paleo-friendly",
+    "lazy-sunday"
+  ],
+  "nutrition": {
+    "calories": 208,
+    "protein": 13,
+    "carbs": 27,
+    "fat": 9
+  },
+  "slug": "garlicky-brazilian-garlic-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-brazilian-garlic-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T09:12:48Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "silky",
+    "mood": "lazy-sunday",
+    "technique": "stir-fry",
+    "primaryIngredient": "cherry tomatoes",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Garlic",
+    "descriptor": "Garlicky",
+    "dishForm": "Stir-fry"
+  }
+}
