@@ -1,0 +1,117 @@
+{
+  "title": "Garlicky Gooey Middle-eastern Lamb Tagine",
+  "description": "Indulge in the rich flavors of this show-stopping, slow-cooked lamb tagine, infused with sweet chilli sauce and the tang of ferment. Perfect for a special occasions or dinner parties.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "low-carb",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 kg",
+      "notes": " bone-in"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for browning"
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Sweet chilli sauce",
+      "amount": "1/4 cup",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "Fermented lemon juice",
+      "amount": "2 tbsp",
+      "notes": "for tanginess"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat. Brown the lamb on all sides, then set aside.",
+    "Add more oil if needed, then sauté onions until golden. Add garlic and cook for 1 minute.",
+    "Stir in sweet chilli sauce, fermented lemon juice, ginger, cumin, cinnamon, turmeric, and salt. Cook for 1 minute.",
+    "Add the browned lamb back to the pot, along with 1 cup of water. Cover and transfer to the oven.",
+    "Braise for 2.5 hours or until the lamb is tender and falls apart easily.",
+    "Skim off excess fat, then stir in chopped parsley.",
+    "Serve the lamb with the sauce spooned over the top, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "lamb",
+    "tagine",
+    "middle-eastern",
+    "slow-cooked",
+    "fermented"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 40
+  },
+  "slug": "garlicky-gooey-middle-eastern-lamb-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-gooey-middle-eastern-lamb-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:43:21Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "gooey",
+    "mood": "show-off",
+    "technique": "ferment",
+    "primaryIngredient": "sweet chilli sauce",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Middle-eastern",
+    "mainIngredient": "Lamb",
+    "descriptor": "Garlicky Gooey",
+    "dishForm": "Tagine"
+  }
+}

@@ -942,6 +942,20 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-gooey-middle-eastern-lamb-tagine",
+    "title": "Garlicky Gooey Middle-eastern Lamb Tagine",
+    "tags": [
+      "lamb",
+      "tagine",
+      "middle-eastern",
+      "slow-cooked",
+      "fermented"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 180,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-gooey-norwegian-soya-milk-stir-fry",
     "title": "Garlicky Gooey Norwegian Soya Milk Stir-fry",
     "tags": [
