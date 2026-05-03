@@ -1,0 +1,122 @@
+{
+  "title": "Garlicky, Crispy Brazilian Shrimp Skewers",
+  "description": "A flavorful and crispy shrimp dish from Brazil, perfect for a hangover cure. This keto-friendly recipe features a tasty marinade and a side of couscous.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "keto-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Large shrimp, peeled and deveined",
+      "amount": "1 pound (450g)",
+      "notes": "Fresh or frozen, thawed if frozen"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro, chopped",
+      "amount": "1/4 cup (15g)",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "1/4 cup (15g)",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons (30ml)",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup (60ml)",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Couscous",
+      "amount": "1 cup (100g)",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup (240ml)",
+      "notes": ""
+    },
+    {
+      "name": "Brazilian chilies (such as malagueta or piri piri)",
+      "amount": "2-3",
+      "notes": "Optional, use to taste"
+    },
+    {
+      "name": "Freshly squeezed orange juice",
+      "amount": "2 tablespoons (30ml)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine garlic, cilantro, parsley, lime juice, olive oil, salt, and black pepper. Blend until smooth.",
+    "Add the shrimp to a large bowl and pour the marinade over them. Mix well to coat. Cover and refrigerate for at least 30 minutes or up to 2 hours.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Thread the marinated shrimp onto skewers, leaving a small space between each shrimp.",
+    "Grill the shrimp for 2-3 minutes per side, or until they are pink and cooked through.",
+    "Meanwhile, cook the couscous according to package instructions using 1 cup of water.",
+    "To serve, place a few skewers on a plate and serve with a side of couscous and a squeeze of orange juice.",
+    "Optional: Garnish with additional cilantro and lime wedges.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "shrimp",
+    "Brazilian",
+    "garlic",
+    "couscous",
+    "keto-friendly",
+    "gluten-free",
+    "grill",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": "36g",
+    "carbs": "10g",
+    "fat": "20g"
+  },
+  "slug": "garlicky-crispy-brazilian-shrimp-skewers",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-crispy-brazilian-shrimp-skewers",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:16:12Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crispy",
+    "mood": "hangover-cure",
+    "technique": "marinate",
+    "primaryIngredient": "couscous",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "shrimp",
+    "descriptor": "garlicky, crispy",
+    "dishForm": "Skewers"
+  }
+}
