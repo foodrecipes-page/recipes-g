@@ -1,0 +1,123 @@
+{
+  "title": "Garlicky Moroccan Rice Tagine",
+  "description": "Fluffy, garlicky rice infused with Moroccan spices, slow‑cooked to perfection and FODMAP‑friendly for easy meal prep.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegan",
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "long‑grain white rice",
+      "amount": "1 cup",
+      "notes": "rinsed until water runs clear"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": "low FODMAP"
+    },
+    {
+      "name": "extra‑virgin olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "½ teaspoon"
+    },
+    {
+      "name": "ground turmeric",
+      "amount": "½ teaspoon"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "½ teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice until the water runs clear, then drain.",
+    "Heat the olive oil in a heavy‑bottom pot over medium heat.",
+    "Add the garlic powder, onion powder, cumin, coriander, smoked paprika, cinnamon, turmeric, and chili flakes. Sauté for 1 minute until fragrant.",
+    "Add the rice, stirring to coat each grain with the spice mixture for 2 minutes.",
+    "Pour in the vegetable broth, add salt and pepper, and bring to a gentle boil.",
+    "Reduce the heat to low, cover, and simmer for 18–20 minutes, or until the rice is tender and the liquid is absorbed.",
+    "Remove from heat and let the pot sit, covered, for 5 minutes to allow the steam to finish cooking the rice.",
+    "Fluff the rice with a fork, then stir in the chopped cilantro and lemon juice. Taste and adjust seasoning if needed.",
+    "Serve warm as a standalone dish or pair with a protein of choice, such as grilled tofu or chickpeas for a complete meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "garlicky",
+    "rice",
+    "slow-cook",
+    "meal-prep",
+    "fodmap-friendly",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 465,
+    "protein": 7,
+    "carbs": 45,
+    "fat": 14
+  },
+  "slug": "garlicky-moroccan-rice-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-moroccan-rice-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:07:11Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "fluffy",
+    "mood": "meal-prep",
+    "technique": "slow-cook",
+    "primaryIngredient": "chilli",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Rice",
+    "descriptor": "Garlicky",
+    "dishForm": "Tagine"
+  }
+}
