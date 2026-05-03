@@ -1038,6 +1038,21 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-silky-turkish-rice-pilaf",
+    "title": "Garlicky Silky Turkish Rice Pilaf",
+    "tags": [
+      "turkish",
+      "vegetarian",
+      "rice",
+      "garlic",
+      "silky",
+      "dish"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 30,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-smoky-argentinian-chicken-empanadas",
     "title": "Garlicky Smoky Argentinian Chicken Empanadas",
     "tags": [

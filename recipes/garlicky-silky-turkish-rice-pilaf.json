@@ -1,0 +1,112 @@
+{
+  "title": "Garlicky Silky Turkish Rice Pilaf",
+  "description": "A fragrant, silky rice pilaf with a punch of garlic and a subtle splash of rice wine, perfect for a quick vegetarian Turkish-inspired meal.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "long grain rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "low-sodium vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dry rice wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "finely diced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tablespoon",
+      "notes": "optional for extra silkiness"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice under cold water until the water runs clear to remove excess starch.",
+    "In a medium saucepan, heat the olive oil over medium heat.",
+    "Add the diced onion and sauté until translucent, about 3 minutes.",
+    "Stir in the minced garlic, cumin, paprika, and cinnamon; cook for 30 seconds until fragrant.",
+    "Add the rinsed rice and toast it lightly, stirring to coat with the spice mixture, for 2 minutes.",
+    "Pour in the rice wine and let it evaporate completely, stirring constantly.",
+    "Add the vegetable broth and bring to a gentle boil.",
+    "Reduce the heat to low, cover, and let the rice simmer for 15 minutes, or until all liquid is absorbed.",
+    "Remove from heat, keep the lid on, and let it steam for an additional 5 minutes.",
+    "Fluff the rice with a fork, stir in the optional butter if using, then sprinkle with chopped parsley before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "vegetarian",
+    "rice",
+    "garlic",
+    "silky",
+    "dish"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 5
+  },
+  "slug": "garlicky-silky-turkish-rice-pilaf",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-silky-turkish-rice-pilaf",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:19:15Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "silky",
+    "mood": "energizing",
+    "technique": "fold",
+    "primaryIngredient": "rice wine",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Rice",
+    "descriptor": "Garlicky Silky",
+    "dishForm": "Pilaf"
+  }
+}
