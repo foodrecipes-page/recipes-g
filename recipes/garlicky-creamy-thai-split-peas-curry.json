@@ -1,0 +1,122 @@
+{
+  "title": "Garlicky Creamy Thai Split Peas Curry",
+  "description": "A creamy, garlicky and adventurous Thai dish featuring yellow split peas. Dairy-free-friendly and perfect for a weeknight dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup dried yellow split peas, rinsed and drained",
+      "amount": "",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "2 medium onions, diced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "",
+      "notes": "use 4 for extra garlicky flavor"
+    },
+    {
+      "name": "1 tablespoon grated fresh ginger",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon Thai red curry paste",
+      "amount": "",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "2 cups coconut milk",
+      "amount": "",
+      "notes": "full-fat or low-fat, dairy-free"
+    },
+    {
+      "name": "1 cup vegetable broth",
+      "amount": "",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "1 tablespoon fish sauce (optional)",
+      "amount": "",
+      "notes": "use 2 for extra umami flavor"
+    },
+    {
+      "name": "1 tablespoon tamarind paste",
+      "amount": "",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "1/2 teaspoon ground cumin",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon ground coriander",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large pan over medium heat.",
+    "Cook the onions and ginger until the onions are translucent.",
+    "Add the garlic and cook for 1-2 minutes, until fragrant.",
+    "Add the curry paste and cook for 1-2 minutes, until fragrant.",
+    "Add the soaked and drained yellow split peas, coconut milk, vegetable broth, fish sauce (if using), tamarind paste, cumin, coriander, salt, and pepper.",
+    "Bring to a boil, then reduce the heat to low and simmer for 20-25 minutes, until the peas are tender.",
+    "Stir in the chopped cilantro or scallions (if using) and adjust the seasoning.",
+    "Serve hot over steamed rice or with naan bread.",
+    "Garnish with toasted chopped peanuts, crispy shallots, or a sprinkle of sumac (optional)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "curry",
+    "yellow-split-peas",
+    "garlicky",
+    "creamy",
+    "dairy-free",
+    "vegetarian",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 17,
+    "carbs": 63,
+    "fat": 26
+  },
+  "slug": "garlicky-creamy-thai-split-peas-curry",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-creamy-thai-split-peas-curry",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T18:05:17Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "creamy",
+    "mood": "adventurous",
+    "technique": "pickle",
+    "primaryIngredient": "yellow split peas",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "split peas",
+    "descriptor": "garlicky creamy",
+    "dishForm": "Curry"
+  }
+}
