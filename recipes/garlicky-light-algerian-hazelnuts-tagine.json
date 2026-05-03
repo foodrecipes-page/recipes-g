@@ -1,0 +1,123 @@
+{
+  "title": "Garlicky Light Algerian Hazelnuts Tagine",
+  "description": "A fragrant, garlic‑rich one‑pot tagine bursting with toasted hazelnuts, tender chickpeas, and sweet carrots, finished with a splash of lemon and fresh herbs.",
+  "cuisine": "Algerian",
+  "diet": [
+    "whole30-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "6, minced"
+    },
+    {
+      "name": "Yellow onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium, sliced"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 can (15 oz) drained and rinsed"
+    },
+    {
+      "name": "Low‑sodium vegetable stock",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "¼ tsp"
+    },
+    {
+      "name": "Shelled hazelnuts",
+      "amount": "1 cup roasted"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "¼ cup chopped"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a tagine or heavy‑bottom pot over medium heat.",
+    "Add minced garlic, diced onion, and sliced carrot; sauté until onion translucent, about 5 minutes.",
+    "Stir in cumin, coriander, paprika, and cinnamon; cook for 1 minute to bloom spices.",
+    "Add drained chickpeas and vegetable stock; bring to a gentle simmer.",
+    "Reduce heat to low, cover, and let cook for 15 minutes, stirring occasionally.",
+    "While the tagine simmers, toast hazelnuts in a dry skillet over medium heat until fragrant, about 5 minutes; set aside.",
+    "After 15 minutes, stir in the toasted hazelnuts and lemon juice; season with salt and pepper.",
+    "Simmer uncovered for another 5 minutes, allowing flavors to meld.",
+    "Remove from heat and sprinkle chopped parsley over the top.",
+    "Serve hot with a side of crusty whole‑grain bread or couscous."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "one-pot",
+    "garlicky",
+    "light",
+    "hazelnuts",
+    "tagine",
+    "whole30-friendly",
+    "vegetarian",
+    "spicy",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 14
+  },
+  "slug": "garlicky-light-algerian-hazelnuts-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-light-algerian-hazelnuts-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:46:46Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "light",
+    "mood": "one-pot",
+    "technique": "temper",
+    "primaryIngredient": "shelled hazelnuts",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "hazelnuts",
+    "descriptor": "Garlicky Light",
+    "dishForm": "Tagine"
+  }
+}
