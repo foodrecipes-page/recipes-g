@@ -1056,6 +1056,21 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-fluffy-french-lentils-quiche",
+    "title": "Garlicky Fluffy French Lentils Quiche",
+    "tags": [
+      "vegetarian",
+      "quick-fix",
+      "fluffy",
+      "garlicky",
+      "french",
+      "lunch"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 45,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-fluffy-irish-potato-chowder",
     "title": "Garlicky Fluffy Irish Potato Chowder",
     "tags": [],

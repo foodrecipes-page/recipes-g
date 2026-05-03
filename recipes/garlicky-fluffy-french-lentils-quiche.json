@@ -1,0 +1,108 @@
+{
+  "title": "Garlicky Fluffy French Lentils Quiche",
+  "description": "A quick‑fix, vegetarian French quiche brimming with garlicky lentils and a fluffy, cheese‑y custard, finished with a splash of white wine vinegar.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dried French green lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "medium onion, finely chopped",
+      "amount": "1"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "dried thyme and rosemary blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "large eggs",
+      "amount": "4"
+    },
+    {
+      "name": "milk (whole)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated Gruyère cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shortcrust pastry sheet",
+      "amount": "1"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Rinse the lentils under cold water and place them in a pot with 2 cups of water. Bring to a boil, reduce heat, and simmer uncovered for 15‑20 minutes until tender but not mushy. Drain any excess liquid.",
+    "While the lentils cook, heat the olive oil in a skillet over medium heat. Add the chopped onion and sauté until translucent, about 5 minutes.",
+    "Add the minced garlic and thyme‑rosemary blend to the skillet, cooking for 1 minute until fragrant.",
+    "Fold the cooked lentils into the skillet, stir to combine, and season with a dash of black pepper. Remove from heat and let cool slightly.",
+    "In a mixing bowl, whisk together the eggs, milk, and white wine vinegar until well blended.",
+    "Lay the shortcrust pastry on a baking sheet or a quiche tin, trimming any excess. Spoon the lentil mixture into the pastry shell, then pour the egg custard over it.",
+    "Sprinkle the grated Gruyère cheese evenly across the top.",
+    "Bake for 25‑30 minutes, or until the custard is set and the cheese is golden brown.",
+    "Remove from the oven, let cool for a few minutes, then slice and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "quick-fix",
+    "fluffy",
+    "garlicky",
+    "french",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 12,
+    "carbs": 14,
+    "fat": 13
+  },
+  "slug": "garlicky-fluffy-french-lentils-quiche",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-fluffy-french-lentils-quiche",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:26:56Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "fluffy",
+    "mood": "quick-fix",
+    "technique": "fold",
+    "primaryIngredient": "white wine vinegar",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Lentils",
+    "descriptor": "Garlicky Fluffy",
+    "dishForm": "Quiche"
+  }
+}
