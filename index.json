@@ -275,6 +275,20 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-algerian-garlic-tagine",
+    "title": "Garlicky Algerian Garlic Tagine",
+    "tags": [
+      "north-african",
+      "lamb",
+      "stew",
+      "garlic",
+      "hearty"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 170,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-almond-brazilian-stir-fry",
     "title": "Garlicky Almond Brazilian Stir-fry",
     "tags": [
