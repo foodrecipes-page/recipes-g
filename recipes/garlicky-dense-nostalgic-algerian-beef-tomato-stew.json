@@ -1,0 +1,89 @@
+{
+  "title": "Garlicky Dense Nostalgic Algerian Beef Tomato Stew",
+  "description": "A low-fat-friendly, nostalgic Algerian dish featuring tender beef and tomatoes simmered in a rich garlic sauce.",
+  "cuisine": "Algerian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "250g"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "6, minced"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "thyme sprigs",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt and pepper",
+      "notes": "to taste"
+    },
+    {
+      "name": "olive oil for sautéing",
+      "amount": "3 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Place the beef in a large pot. Sprinkle with thyme, salt, and pepper.",
+    "In another pan, heat olive oil over medium-high heat. Add garlic and sauté until golden brown, about 2 minutes.",
+    "Pour tomato paste into the pot with the beef. Gradually add broth, stirring to combine.",
+    "Add the sautéed garlic mixture to the pot, then bring to a simmer. Cover and cook for 30-45 minutes or until the beef is tender.",
+    "Serve hot with crusty bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "garlicky",
+    "dense",
+    "nostalgic",
+    "beef",
+    "tomato",
+    "stew",
+    "low-fat"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 28,
+    "fat": 19
+  },
+  "slug": "garlicky-dense-nostalgic-algerian-beef-tomato-stew",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-dense-nostalgic-algerian-beef-tomato-stew",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T09:27:28Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "dense",
+    "mood": "nostalgic",
+    "technique": "bhuna",
+    "primaryIngredient": "beef tomatoes",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "beef tomatoes",
+    "descriptor": "Garlicky Dense Nostalgic",
+    "dishForm": "Stew"
+  }
+}
