@@ -1996,6 +1996,21 @@
     "shard": "g"
   },
   {
+    "slug": "gooey-argentinian-yogurt-dumplings",
+    "title": "Gooey Argentinian Yogurt Dumplings",
+    "tags": [
+      "low-fat",
+      "dessert",
+      "argentinian",
+      "yogurt",
+      "dumpling",
+      "fermented"
+    ],
+    "cuisine": "Argentine",
+    "totalTimeMin": 20,
+    "shard": "g"
+  },
+  {
     "slug": "gooey-australian-parmigiano-reggiano-stir-fry",
     "title": "Gooey Australian Parmigiano-Reggiano Stir-fry",
     "tags": [
