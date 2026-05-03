@@ -1,0 +1,107 @@
+{
+  "title": "Gooey Citrusy Russian Falafel Skillet",
+  "description": "A keto-friendly, citrusy twist on traditional Russian cuisine, featuring crispy falafel in a gooey, cheesy stir-fry. This cozy dish is perfect for a cold winter's night.",
+  "cuisine": "Russian",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "falafel mix",
+      "amount": "1 cup",
+      "notes": "low-carb, gluten-free"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Russian cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded, such as suluguni or mozzarella"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Prepare the falafel mix according to the package instructions, using low-carb ingredients.",
+    "In a large oven-safe skillet, heat the olive oil over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the sliced mushrooms and cook until they release their moisture and start to brown, about 5 minutes.",
+    "Add the cooked falafel to the skillet, stirring to combine with the onion and mushroom mixture.",
+    "In a small bowl, whisk together the lemon juice and a pinch of salt and pepper.",
+    "Pour the lemon juice mixture over the falafel mixture, stirring to combine.",
+    "Top the skillet with the shredded Russian cheese and transfer to the preheated oven.",
+    "Bake for 15-20 minutes, or until the cheese is melted and gooey."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "russian-cuisine",
+    "keto-friendly",
+    "gluten-free",
+    "falafel",
+    "cheesy",
+    "citrusy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 32,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "gooey-citrusy-russian-falafel-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-citrusy-russian-falafel-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T21:22:32Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "gooey",
+    "mood": "cozy",
+    "technique": "stir-fry",
+    "primaryIngredient": "falafel",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "falafel",
+    "descriptor": "gooey citrusy",
+    "dishForm": "Skillet"
+  }
+}
