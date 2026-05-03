@@ -1,0 +1,102 @@
+{
+  "title": "Gooey Floral Irish Pork Casserole",
+  "description": "A quick-fix Irish dish featuring minced pork, infused with floral notes and a gooey texture, perfect for a comforting meal. This halal-friendly recipe utilizes sous-vide cooking for a tender and juicy result.",
+  "cuisine": "Irish",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "minced pork",
+      "amount": "500g",
+      "notes": "halal-certified"
+    },
+    {
+      "name": "rose petal jelly",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried rosemary",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sous-vide eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "irish cheddar cheese",
+      "amount": "200g, shredded"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "butter",
+      "amount": "25g, melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 60°C.",
+    "In a large pan, cook the chopped onion and minced garlic over medium heat until softened.",
+    "Add the minced pork, dried thyme, and dried rosemary to the pan, cooking until the pork is browned.",
+    "Stir in the rose petal jelly and cook for an additional 2 minutes.",
+    "In a separate bowl, whisk together the sous-vide eggs and melted butter.",
+    "Add the cooked pork mixture, shredded irish cheddar cheese, and all-purpose flour to the bowl, mixing until well combined.",
+    "Transfer the mixture to a sous-vide bag and seal.",
+    "Cook the mixture in the sous-vide machine for 2 hours.",
+    "Remove the bag from the machine and carefully cut it open.",
+    "Transfer the casserole to a baking dish and top with additional shredded cheese.",
+    "Bake in a preheated oven at 180°C for 10-15 minutes, or until the top is golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 130,
+  "totalTimeMin": 160,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish-cuisine",
+    "halal-friendly",
+    "sous-vide",
+    "gooey",
+    "floral",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "gooey-floral-irish-pork-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-floral-irish-pork-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T20:13:54Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "gooey",
+    "mood": "quick-fix",
+    "technique": "sous-vide",
+    "primaryIngredient": "minced pork",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "pork",
+    "descriptor": "Gooey Floral",
+    "dishForm": "Casserole"
+  }
+}
