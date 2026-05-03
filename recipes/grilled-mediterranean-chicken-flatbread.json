@@ -1,0 +1,100 @@
+{
+  "title": "Grilled Mediterranean Chicken Flatbread",
+  "description": "Savory flaky flatbread with grilled chicken marinated in pineapple juice, perfect for a midnight craving.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken breasts",
+      "amount": "4",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "pineapple juice",
+      "amount": "1/4 cup",
+      "notes": "sugar-free"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "whole wheat flatbread",
+      "amount": "4",
+      "notes": "for serving"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Whisk olive oil, pineapple juice, lemon juice, oregano, paprika, salt, and pepper to make a marinade.",
+    "Add sliced chicken to the bowl and coat it evenly; cover and refrigerate for 30 minutes.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Grill chicken strips for 3-4 minutes per side until cooked through and slightly charred.",
+    "While chicken cooks, warm flatbreads on the grill for 1-2 minutes per side until pliable.",
+    "Cut grilled chicken into bite sized pieces and distribute them over the warmed flatbreads.",
+    "Drizzle a little extra pineapple juice over the chicken for brightness.",
+    "Sprinkle chopped parsley on top and serve immediately."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 8,
+  "totalTimeMin": 53,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "low-carb",
+    "mediterranean",
+    "midnight-craving",
+    "quick",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 293,
+    "protein": 35,
+    "carbs": 32,
+    "fat": 7
+  },
+  "slug": "grilled-mediterranean-chicken-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/grilled-mediterranean-chicken-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:39:06Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "flaky",
+    "mood": "midnight-craving",
+    "technique": "grill",
+    "primaryIngredient": "pineapple juice",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "chicken",
+    "descriptor": "Grilled",
+    "dishForm": "Flatbread"
+  }
+}
