@@ -1,0 +1,106 @@
+{
+  "title": "Gooey Spicy Spanish Fettuccine Pasta",
+  "description": "A rich, lingeringly spicy pasta that glows with smoky paprika and a creamy tomato finish—perfect for a hangover cure or a comforting dinner.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fettuccine",
+      "amount": "400 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion, finely chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "smoked paprika (sweet or hot), ground",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "tomato passata",
+      "amount": "400 ml"
+    },
+    {
+      "name": "vegetable stock, low sodium",
+      "amount": "200 ml"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper, freshly ground",
+      "amount": "to taste"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "100 ml",
+      "notes": "use dairy or a plant‑based alternative"
+    },
+    {
+      "name": "Parmesan cheese, grated (optional)",
+      "amount": "50 g",
+      "notes": "adds gooeyness; omit for dairy‑free"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the fettuccine until al dente, about 10 minutes; drain and reserve 1 cup of pasta water."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "gooey",
+    "hangover-cure",
+    "pasta",
+    "vegetarian",
+    "egg-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 55,
+    "fat": 15
+  },
+  "slug": "gooey-spicy-spanish-fettuccine-pasta",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-spicy-spanish-fettuccine-pasta",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T16:50:02Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "gooey",
+    "mood": "hangover-cure",
+    "technique": "deglaze",
+    "primaryIngredient": "fettuccine",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "fettuccine",
+    "descriptor": "Gooey Spicy",
+    "dishForm": "Pasta"
+  }
+}

@@ -2032,6 +2032,21 @@
     "shard": "g"
   },
   {
+    "slug": "gooey-spicy-spanish-fettuccine-pasta",
+    "title": "Gooey Spicy Spanish Fettuccine Pasta",
+    "tags": [
+      "spicy",
+      "gooey",
+      "hangover-cure",
+      "pasta",
+      "vegetarian",
+      "egg-free"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
     "slug": "gooey-spicy-wheat-stir-fry",
     "title": "Gooey Spicy Wheat Stir-fry",
     "tags": [
