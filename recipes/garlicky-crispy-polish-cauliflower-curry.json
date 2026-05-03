@@ -1,0 +1,97 @@
+{
+  "title": "Garlicky Crispy Polish Cauliflower Curry",
+  "description": "A nostalgic Polish-inspired curry that pairs crisp roasted cauliflower with a garlicky, peppercorn-infused sauce, all served vegan and bursting with smoky tandoor flavor.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cauliflower florets",
+      "amount": "200g",
+      "notes": "cut into bite‑size pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "100ml",
+      "notes": "full‑fat"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for roasting and sautéing"
+    },
+    {
+      "name": "black peppercorns",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/2 tsp",
+      "notes": "optional, adjust for heat"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven (or tandoor) to 200 °C. Toss cauliflower florets with 1/2 tbsp olive oil, salt, and peppercorns, then spread on a baking sheet. Roast for 20–25 min, turning halfway, until golden and crisp."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "polish",
+    "curry",
+    "garlic",
+    "tandoor",
+    "crisp"
+  ],
+  "nutrition": {
+    "calories": 145,
+    "protein": 2,
+    "carbs": 14,
+    "fat": 13
+  },
+  "slug": "garlicky-crispy-polish-cauliflower-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-crispy-polish-cauliflower-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:50:48Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crisp",
+    "mood": "nostalgic",
+    "technique": "tandoor",
+    "primaryIngredient": "peppercorns",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "cauliflower",
+    "descriptor": "Garlicky Crispy",
+    "dishForm": "Curry"
+  }
+}
