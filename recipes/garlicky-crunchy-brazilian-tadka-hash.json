@@ -1,0 +1,114 @@
+{
+  "title": "Garlicky Crunchy Brazilian Tadka Hash",
+  "description": "A flavorful, crunchy, and spicy Brazilian-inspired dish featuring a garlicky tadka and sweet vanilla notes, perfect for brunch or breakfast. This recipe is egg-free-friendly and perfect for adventurous eaters.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Rice flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Grains of paradise",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Coriander seeds",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a pan over medium heat and toad the rice flour, stirring constantly for 2 minutes.",
+    "Add 1 teaspoon of cumin seeds, 1/2 teaspoon of coriander seeds, 1/2 teaspoon of grains of paradise, and 1/2 teaspoon of salt to the pan and cook for 1 minute.",
+    "Add the onions, red bell pepper, and zucchini to the pan and cook for 5 minutes, or until the vegetables are tender.",
+    "Grate the ginger over the vegetables and stir to combine.",
+    "In a small bowl, mix 2 tablespoons of cornstarch with 2 tablespoons of water until smooth.",
+    "Add the cornstarch mixture to the pan and stir to combine.",
+    "Reduce heat to low and cook for 2 minutes, stirring constantly, until the mixture has thickened.",
+    "Stir in 2 tablespoons of vegetable oil and cook for 1 minute.",
+    "Transfer the mixture to a serving platter and sprinkle with black pepper to taste.",
+    "Just before serving, stir in 1/2 teaspoon of vanilla extract."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "brazilian",
+    "garlicky",
+    "crunchy",
+    "egg-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "garlicky-crunchy-brazilian-tadka-hash",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-crunchy-brazilian-tadka-hash",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:58:11Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crunchy",
+    "mood": "brunch-mood",
+    "technique": "tadka",
+    "primaryIngredient": "vanilla extract",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Tadka",
+    "descriptor": "Garlicky Crunchy",
+    "dishForm": "Hash"
+  }
+}
