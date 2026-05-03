@@ -1,0 +1,125 @@
+{
+  "title": "Garlic Crispy Sichuan Chicken Stir-fry",
+  "description": "A garlicky, crispy chicken dish tossed in a creamy coconut sauce with classic Sichuan spices—perfect for a post-workout high-protein meal.",
+  "cuisine": "Sichuan Chinese",
+  "diet": [
+    "high-protein",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "skinless chicken breast",
+      "amount": "1 lb (450g)",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tbsp (30ml)",
+      "notes": "for coating"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp (30ml)",
+      "notes": "for frying"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup (240ml)",
+      "notes": "full-fat"
+    },
+    {
+      "name": "soy sauce, low-sodium",
+      "amount": "2 tbsp (30ml)",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Szechuan peppercorn powder",
+      "amount": "1 tbsp (15ml)",
+      "notes": "for numbing heat"
+    },
+    {
+      "name": "chili bean paste (Doubanjiang)",
+      "amount": "1 tbsp (15ml)",
+      "notes": "adjust based on spice preference"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 inch",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "3 stalks",
+      "notes": "sliced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp (5ml)",
+      "notes": "finishing drizzle"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": "optional, to taste"
+    }
+  ],
+  "instructions": [
+    "Toss chicken pieces in cornstarch until fully coated; shake off excess.",
+    "Heat 1 tbsp of vegetable oil in a wok or large skillet over medium-high heat. Fry the coated chicken until golden and crispy, about 4-5 minutes. Remove and set aside.",
+    "In the same wok, add the remaining oil and reduce to 1 tbsp. Sauté minced garlic and ginger for 30 seconds until fragrant.",
+    "Add chili bean paste and Szechuan peppercorn powder; stir for another 30 seconds to bloom the spices.",
+    "Pour in coconut cream, soy sauce, and 2 tbsp water to thin the sauce. Bring to a gentle simmer.",
+    "Let the sauce thicken, about 2-3 minutes, stirring occasionally.",
+    "Return the crispy chicken to the wok; toss to coat evenly with the sauce and cook for 2 more minutes to heat through.",
+    "Add sliced green onions and drizzle sesame oil, cooking for an additional 30 seconds.",
+    "Taste the sauce; adjust salt or soy sauce if needed.",
+    "Serve hot over cauliflower rice or steamed broccoli for a low-carb option. Enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "garlic",
+    "crispy",
+    "sichuan",
+    "chicken",
+    "high-protein",
+    "post-workout",
+    "coconut-cream",
+    "gluten-free",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 44,
+    "carbs": 18,
+    "fat": 26
+  },
+  "slug": "garlic-crispy-sichuan-chicken-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlic-crispy-sichuan-chicken-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:28:44Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crispy",
+    "mood": "post-workout",
+    "technique": "fry",
+    "primaryIngredient": "coconut cream",
+    "diet": "high-protein",
+    "region": "sichuan",
+    "cuisineAdjective": "Sichuan",
+    "mainIngredient": "chicken",
+    "descriptor": "Garlic Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
