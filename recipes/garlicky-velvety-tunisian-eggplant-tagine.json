@@ -1,0 +1,122 @@
+{
+  "title": "Garlicky Velvety Tunisian Eggplant Tagine",
+  "description": "A rich and flavorful North African dish featuring roasted eggplant, a blend of spices, and a velvety texture.",
+  "cuisine": "North African",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "1 large",
+      "notes": "any color, but purple is classic"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for roasting"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tsp",
+      "notes": "for garnish"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the eggplant in half lengthwise and scoop out the flesh, leaving a shell of about 1/4 inch.",
+    "In a large bowl, mix together the onion, garlic, ginger, cumin, coriander, and cayenne pepper (if using).",
+    "Add the chopped lemongrass and eggplant flesh to the bowl and toss to combine.",
+    "Season with salt to taste.",
+    "Transfer the mixture to a baking dish and drizzle with olive oil.",
+    "Roast in the preheated oven for 30 minutes, or until the eggplant is tender and lightly browned.",
+    "In a blender or food processor, puree the roasted eggplant mixture with the chickpeas until smooth.",
+    "Return the mixture to the baking dish and stir in 1 cup of water.",
+    "Bring the mixture to a simmer over medium heat and cook, stirring occasionally, until the sauce has thickened and the flavors have melded together.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with sumac and chopped fresh herbs (if desired)."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "north-african",
+    "one-pan",
+    "tagine",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "garlicky-velvety-tunisian-eggplant-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-velvety-tunisian-eggplant-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:08:44Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "velvety",
+    "mood": "indulgent",
+    "technique": "blanch",
+    "primaryIngredient": "sumac",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "eggplant",
+    "descriptor": "Garlicky Velvety",
+    "dishForm": "Tagine"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "title": "Garnished American Peppers Toast",
+  "description": "Herbal, juicy, romantic American dish featuring pul biber, toasted bread, and raw-friendly toppings that combine to create a vibrant lunch option.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sourdough bread",
+      "amount": "4 slices",
+      "notes": "toasted"
+    },
+    {
+      "name": "avocado",
+      "amount": "1/2 medium",
+      "notes": "mashed with lemon juice, salt, pepper"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "100 g",
+      "notes": "halved"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "30 g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "pul biber",
+      "amount": "1 tsp",
+      "notes": "sprinkled"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "drizzled"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp",
+      "notes": "optional garnish"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F and toast the sourdough bread slices until golden brown, about 5 minutes.",
+    "While the bread toasts, mash the avocado with a squeeze of lemon juice, salt, pepper, and a pinch of pul biber until smooth.",
+    "Slice the cherry tomatoes in halves and crumble the feta cheese into small pieces.",
+    "Spread the mashed avocado evenly over each toasted slice of bread.",
+    "Sprinkle pul biber over the avocado, then arrange the cherry tomato halves and feta crumbles on top.",
+    "Drizzle a thin layer of olive oil across the toast to add richness.",
+    "If desired, sprinkle a few drops of lemon zest for extra aroma and color.",
+    "Serve immediately as a fresh, herbal lunch that pairs well with a light salad or soup."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "american",
+    "herbal",
+    "juicy",
+    "quick",
+    "toast",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 620,
+    "protein": 19,
+    "carbs": 70,
+    "fat": 35
+  },
+  "slug": "garnished-american-peppers-toast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/garnished-american-peppers-toast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:08:02Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "juicy",
+    "mood": "romantic",
+    "technique": "toast",
+    "primaryIngredient": "pul biber",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Peppers",
+    "descriptor": "Garnished",
+    "dishForm": "Toast"
+  }
+}

@@ -2091,6 +2091,21 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-velvety-tunisian-eggplant-tagine",
+    "title": "Garlicky Velvety Tunisian Eggplant Tagine",
+    "tags": [
+      "comfort-food",
+      "north-african",
+      "one-pan",
+      "tagine",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 70,
+    "shard": "g"
+  },
+  {
     "slug": "garlicy-dumplings-and-noodles",
     "title": "Garlicy Dumplings and Noodles",
     "tags": [
@@ -2126,6 +2141,21 @@
       "bhuna"
     ],
     "cuisine": "Thai",
+    "totalTimeMin": 15,
+    "shard": "g"
+  },
+  {
+    "slug": "garnished-american-peppers-toast",
+    "title": "Garnished American Peppers Toast",
+    "tags": [
+      "american",
+      "herbal",
+      "juicy",
+      "quick",
+      "toast",
+      "vegetarian"
+    ],
+    "cuisine": "American",
     "totalTimeMin": 15,
     "shard": "g"
   },
