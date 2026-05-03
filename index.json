@@ -715,6 +715,21 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-dense-mexican-macaroni-pasta",
+    "title": "Garlicky Dense Mexican Macaroni Pasta",
+    "tags": [
+      "mexican",
+      "pasta",
+      "sous-vide",
+      "garlicky",
+      "dense",
+      "nostalgic"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 60,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-dense-nostalgic-algerian-beef-tomato-stew",
     "title": "Garlicky Dense Nostalgic Algerian Beef Tomato Stew",
     "tags": [

@@ -1,0 +1,117 @@
+{
+  "title": "Garlicky Dense Mexican Macaroni Pasta",
+  "description": "A hearty, smoky pasta dish with roasted poblano, garlic, and a velvety sous‑vide sauce that captures the nostalgic flavors of Mexican comfort food.",
+  "cuisine": "Mexican",
+  "diet": [
+    "non-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried elbow macaroni",
+      "amount": "250 g",
+      "notes": "medium‑size"
+    },
+    {
+      "name": "ground beef",
+      "amount": "200 g",
+      "notes": "crushed, no fat needed"
+    },
+    {
+      "name": "poblano pepper",
+      "amount": "1 large",
+      "notes": "roasted, peeled, chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "small yellow onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "200 ml"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "100 ml"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "100 g"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous‑vide bath to 80 °C (176 °F).",
+    "In a large bowl whisk together the macaroni, ground beef, chopped poblano, minced garlic, diced onion, tomato paste, chicken broth, and a pinch of salt and pepper.",
+    "Transfer the mixture into a vacuum‑seal bag, drizzle with the olive oil, and seal using a vacuum sealer or water‑displacement method.",
+    "Place the sealed bag in the preheated sous‑vide bath and cook for 30 minutes to blend flavors and cook the pasta to al dente.",
+    "While the pasta cooks, heat a skillet over medium heat, add a splash of oil and sauté the cooked mixture for 2–3 minutes to caramelize the onions and beef.\n",
+    "Remove the bag from the bath, open carefully, and stir in the heavy cream and shredded cheese until the cheese melts and the sauce becomes silky.",
+    "Taste and adjust seasoning with salt, pepper, and a squeeze of lime if desired.\n",
+    "Serve the garlicky dense pasta in bowls, garnishing with chopped cilantro and an optional dash of hot sauce for extra heat.",
+    ""
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "pasta",
+    "sous-vide",
+    "garlicky",
+    "dense",
+    "nostalgic"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 25,
+    "carbs": 70,
+    "fat": 25
+  },
+  "slug": "garlicky-dense-mexican-macaroni-pasta",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-dense-mexican-macaroni-pasta",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:31:55Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "dense",
+    "mood": "nostalgic",
+    "technique": "sous-vide",
+    "primaryIngredient": "macaroni",
+    "diet": "dash",
+    "region": "poblano",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Macaroni",
+    "descriptor": "Garlicky Dense",
+    "dishForm": "Pasta"
+  }
+}
