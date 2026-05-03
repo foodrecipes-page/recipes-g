@@ -1,0 +1,89 @@
+{
+  "title": "Gooey Irish Pistachio Bake",
+  "description": "A high-protein, nutty treat perfect for sick days featuring pistachio paste and a braise technique for a gooey texture.",
+  "cuisine": "irish",
+  "diet": [
+    "high-protein",
+    "nut-free",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "pistachio paste",
+      "amount": "150g",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp",
+      "notes": "for warmth and flavor"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      ": ": " (this is a typo in the original instruction but we'll correct it to be valid JSON structure - "
+    },
+    {
+      "name": "brown sugar",
+      "amount": "30g",
+      "notes": "for sweetness"
+    },
+    {
+      "name": "almond flour",
+      "amount": "50g",
+      "notes": "high-protein alternative to flour"
+    },
+    {
+      "name": "chocolate chips",
+      "amount": "50g",
+      "notes": "dark chocolate for extra protein"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F)",
+    "Mix pistachio paste, cinnamon, coconut oil, brown sugar, and almond flour in a bowl",
+    "Add chocolate chips and stir until combined",
+    "Pour mixture into a greased 20x20cm baking dish",
+    "Bake for 20 minutes or until golden and set",
+    "Let cool for 5 minutes before serving"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "pistachio",
+    "gooey",
+    "high-protein",
+    "vegan",
+    "dessert",
+    "sick-day"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "gooey-irish-pistachio-bake",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-irish-pistachio-bake",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T03:16:44Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "gooey",
+    "mood": "sick-day",
+    "technique": "braise",
+    "primaryIngredient": "pistachio paste",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "pistachio",
+    "descriptor": "Gooey",
+    "dishForm": "Bake"
+  }
+}
