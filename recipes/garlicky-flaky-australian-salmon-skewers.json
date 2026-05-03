@@ -1,6 +1,6 @@
 {
   "title": "Garlicky Flaky Australian Salmon Skewers",
-  "description": "Tender salmon pieces marinated in garlic, lemon, and dried mint, then grilled to flaky perfection – a kid-friendly, pescatarian-friendly dish with a tandoor‑inspired flare.",
+  "description": "Tender salmon pieces marinated in garlic, lemon, and dried mint, then grilled to flaky perfection - a kid-friendly, pescatarian-friendly dish with a tandoorinspired flare.",
   "cuisine": "Australian",
   "diet": [
     "pescatarian",
@@ -40,7 +40,7 @@
     },
     {
       "name": "Freshly ground black pepper",
-      "amount": "½ tsp"
+      "amount": "\u00bd tsp"
     },
     {
       "name": "Wooden skewers",
@@ -49,11 +49,11 @@
     }
   ],
   "instructions": [
-    "Preheat the oven to 210°C (410°F) and line a baking sheet with parchment paper.",
+    "Preheat the oven to 210\u00b0C (410\u00b0F) and line a baking sheet with parchment paper.",
     "In a bowl, whisk together olive oil, minced garlic, dried mint, lemon zest, lemon juice, salt, and pepper to make a bright, aromatic sauce.",
     "Add the salmon cubes to the bowl and toss gently to coat all surfaces. Let the salmon marinate for 10 minutes.",
     "Thread the marinated salmon onto the soaked wooden skewers, leaving a small gap between each piece.",
-    "Place the skewers on the prepared baking sheet and bake for 7–9 minutes, or until salmon is opaque and flakes easily with a fork.",
+    "Place the skewers on the prepared baking sheet and bake for 7\u20139 minutes, or until salmon is opaque and flakes easily with a fork.",
     "Remove from oven and let rest for 2 minutes before serving. Optionally drizzle with a little extra lemon juice.",
     "Serve immediately with a side of roasted vegetables or a fresh cucumber salad.",
     "Enjoy the garlicky, flaky goodness of Australian salmon skewers!"

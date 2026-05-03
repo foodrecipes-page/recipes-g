@@ -1,5 +1,5 @@
 {
-  "title": "Gluten-Free Buneña",
+  "title": "Gluten-Free Bunena",
   "description": "A nutty, silky, romantic Argentinian dish featuring a gluten-free bun topped with grilled nuts and honey for a delicious snack or light meal.",
   "cuisine": "Argentinian",
   "diet": [
@@ -32,7 +32,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 350°F (175°C).",
+    "Preheat your oven to 350\u00b0F (175\u00b0C).",
     "Lightly toast the almonds and hazelnuts in a dry skillet over medium heat, stirring frequently.",
     "While the nuts are toasting, prepare the honey by mixing it with a little bit of water until smooth. You can also use maple syrup as an alternative if preferred.",
     "Once the nuts are cooled slightly but still warm from toasting, drizzle them gently with the honey mixture.",
@@ -47,7 +47,7 @@
   "difficulty": "easy",
   "tags": [
     "argentinian",
-    "gluten_free_buneña",
+    "gluten-free-bunena",
     "snack"
   ],
   "nutrition": {

@@ -50,9 +50,9 @@
     "Preheat a grill or grill pan to medium-high heat.",
     "Cut the salmon into 4 equal 150g cubes and set aside.",
     "In a bowl whisk together olive oil, minced garlic, dill, lemon zest, lemon juice, cinnamon, salt, and pepper to make the marin.",
-    "Add the salmon cubes to the bowl and gently coat, then cover and marinate for 10–15 minutes at room temperature.",
-    "Thread 2–3 salmon cubes onto each of 4 skewers, leaving a small gap between pieces.",
-    "Place the skewers on the preheated grill and cook 4–5 minutes per side, or until the salmon flakes easily and reaches an internal temperature of 145 °F (63 °C).",
+    "Add the salmon cubes to the bowl and gently coat, then cover and marinate for 10\u201315 minutes at room temperature.",
+    "Thread 2\u20133 salmon cubes onto each of 4 skewers, leaving a small gap between pieces.",
+    "Place the skewers on the preheated grill and cook 4\u20135 minutes per side, or until the salmon flakes easily and reaches an internal temperature of 145\u202f\u00b0F (63\u202f\u00b0C).",
     "Remove the skewers, let them rest for 3 minutes, then serve with fresh lemon wedges if desired."
   ],
   "slug": "garlicky-tender-norwegian-salmon-skewers",
@@ -72,5 +72,20 @@
     "mainIngredient": "Salmon",
     "descriptor": "Garlicky Tender",
     "dishForm": "Skewers"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "norwegian",
+    "dinner"
+  ]
 }

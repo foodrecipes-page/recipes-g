@@ -10,7 +10,7 @@
     {
       "name": "salmon fillet",
       "amount": "2 lb",
-      "notes": "cut into 1½\" cubes"
+      "notes": "cut into 1\u00bd\" cubes"
     },
     {
       "name": "olive oil",
@@ -82,11 +82,11 @@
   ],
   "instructions": [
     "Heat the olive oil and butter in a large pot over medium heat until the butter foams.",
-    "Add the diced onion, carrots, and celery; sauté for 5-7 minutes until the vegetables soften.",
+    "Add the diced onion, carrots, and celery; saut\u00e9 for 5-7 minutes until the vegetables soften.",
     "Stir in the minced garlic and cook for an additional 1 minute until fragrant, being careful not to burn it.",
     "Pour in the fish stock, bring the mixture to a gentle boil, then reduce heat and simmer for 10 minutes to meld the flavors.",
     "Add the cubed potatoes and continue to simmer until they are tender, about 8 minutes.",
-    "Fold in the salmon cubes and let the chowder gently simmer for 4-5 minutes, just until the salmon is opaque and cooked through—do not overcook to keep it juicy.",
+    "Fold in the salmon cubes and let the chowder gently simmer for 4-5 minutes, just until the salmon is opaque and cooked through\u2014do not overcook to keep it juicy.",
     "Stir in the heavy cream, cayenne pepper, smoked paprika, salt, and pepper; adjust seasonings to taste.",
     "Add the chopped dill and a squeeze of lemon juice if using; let the chowder heat through for an extra 2 minutes.",
     "Serve hot, optionally garnished with extra dill or a sprinkle of cayenne for a touch of heat.",
@@ -109,5 +109,20 @@
     "mainIngredient": "salmon",
     "descriptor": "Garlicky",
     "dishForm": "Chowder"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "canadian",
+    "dinner"
+  ]
 }

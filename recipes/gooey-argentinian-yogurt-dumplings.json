@@ -1,6 +1,6 @@
 {
   "title": "Gooey Argentinian Yogurt Dumplings",
-  "description": "Fermented, gooey dumplings made with low‑fat Greek yogurt, whole wheat flour, and crushed green cardamom pods for a fragrant, indulgent treat.",
+  "description": "Fermented, gooey dumplings made with lowfat Greek yogurt, whole wheat flour, and crushed green cardamom pods for a fragrant, indulgent treat.",
   "cuisine": "Argentine",
   "diet": [
     "low-fat"
@@ -8,7 +8,7 @@
   "meal": "dessert",
   "ingredients": [
     {
-      "name": "low‑fat Greek yogurt",
+      "name": "low\u2011fat Greek yogurt",
       "amount": "1 cup (227 g)",
       "notes": "fresh, 3% fat"
     },
@@ -55,12 +55,12 @@
   ],
   "instructions": [
     "In a bowl whisk together the whole wheat flour, baking powder, ground cardamom, and a pinch of salt.",
-    "In a separate bowl mix the low‑fat Greek yogurt, honey, lemon zest, and egg white until smooth.",
+    "In a separate bowl mix the low\u2011fat Greek yogurt, honey, lemon zest, and egg white until smooth.",
     "Add the wet mixture to the dry ingredients and stir until a soft dough forms; add water a tablespoon at a time if the dough feels too dry.",
     "Divide the dough into small balls, about 1.5 inches in diameter, and gently press each into a flattened disc.",
-    "Heat a nonstick skillet over medium heat and lightly oil it; place the dough discs in the pan and cook 3‑4 minutes on each side, until golden brown and puffed.",
+    "Heat a nonstick skillet over medium heat and lightly oil it; place the dough discs in the pan and cook 3\u20114 minutes on each side, until golden brown and puffed.",
     "Serve the dumplings warm, drizzled with a little honey or a squeeze of fresh lemon for extra brightness.",
-    "Enjoy the creamy, fermented‑like texture that melts in your mouth."
+    "Enjoy the creamy, fermented\u2011like texture that melts in your mouth."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 10,

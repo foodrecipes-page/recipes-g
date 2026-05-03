@@ -6,7 +6,7 @@
     "vegan",
     "gluten-free"
   ],
-  "meal": "brunch",
+  "meal": "breakfast",
   "ingredients": [
     {
       "name": "Rye Bread",
@@ -39,7 +39,7 @@
   "difficulty": "easy",
   "tags": [
     "ghee",
-    "rye bread",
+    "rye-bread",
     "grilled",
     "smoky"
   ],

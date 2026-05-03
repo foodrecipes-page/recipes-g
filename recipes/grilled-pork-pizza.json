@@ -33,11 +33,11 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 375°F.",
+    "Preheat oven to 375\u00b0F.",
     "Mix minced garlic and Szechuan peppercorns with chopped Italian herbs in a bowl.",
     "Brush the paleo crust base lightly with olive oil on both sides.",
     "Place the pork tenderloin between two sheets of parchment paper, season with salt and pepper.",
-    "Grill the pork to desired doneness (145°F for medium-rare). Remove from heat and let rest for 5 minutes before slicing into thin pieces.",
+    "Grill the pork to desired doneness (145\u00b0F for medium-rare). Remove from heat and let rest for 5 minutes before slicing into thin pieces.",
     "Preheat a pan on medium-high heat, lightly grease it with olive oil. Add slices of grilled pork to the pan, add more seasoning if needed.",
     "Arrange sliced pork evenly on top of paleo crust base in the pan.",
     "Melt mozzarella cheese and spread it over the pork slices.",
@@ -51,8 +51,8 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "pork pizza",
-    "szechuan flavor",
+    "pork-pizza",
+    "szechuan-flavor",
     "grilled"
   ],
   "nutrition": {

@@ -68,9 +68,9 @@
   ],
   "nutrition": {
     "calories": 350,
-    "protein": "15g",
-    "carbs": "40g",
-    "fat": "15g"
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
   },
   "slug": "gooey-goulash-solo",
   "source": "groq-llama-3.1-8b-instant",

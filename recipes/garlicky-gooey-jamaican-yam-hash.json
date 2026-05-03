@@ -7,7 +7,7 @@
     "jain",
     "vegan"
   ],
-  "meal": "brunch",
+  "meal": "breakfast",
   "ingredients": [
     {
       "name": "yams",
@@ -55,7 +55,7 @@
     }
   ],
   "instructions": [
-    "Preheat the oven to 400°F (200°C).",
+    "Preheat the oven to 400\u00b0F (200\u00b0C).",
     "Toss the diced yams with 2 tablespoons of olive oil, salt, and black pepper on a baking sheet. Roast for 20-25 minutes, or until tender.",
     "In a large skillet, caramelize the onions over medium heat for 20-25 minutes, stirring occasionally.",
     "Add the minced garlic and diced scotch bonnet peppers to the skillet and cook for an additional 2-3 minutes.",

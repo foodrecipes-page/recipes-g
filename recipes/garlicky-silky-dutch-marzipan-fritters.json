@@ -9,12 +9,12 @@
   "ingredients": [
     {
       "name": "almond flour",
-      "amount": "1 cup (96 g)",
+      "amount": "1 cup (96\u202fg)",
       "notes": ""
     },
     {
       "name": "honey",
-      "amount": "1/4 cup (60 ml) for batter plus 1 tbsp (15 g) for glaze",
+      "amount": "1/4 cup (60\u202fml) for batter plus 1\u202ftbsp (15\u202fg) for glaze",
       "notes": "use raw honey"
     },
     {
@@ -24,47 +24,47 @@
     },
     {
       "name": "garlic, minced",
-      "amount": "1 clove (≈3 g)",
+      "amount": "1 clove (\u22483\u202fg)",
       "notes": ""
     },
     {
       "name": "almond paste",
-      "amount": "2 tbsp (30 g)",
+      "amount": "2\u202ftbsp (30\u202fg)",
       "notes": "adds marzipan flavor"
     },
     {
       "name": "unsweetened coconut milk",
-      "amount": "1/4 cup (60 ml)",
+      "amount": "1/4 cup (60\u202fml)",
       "notes": ""
     },
     {
       "name": "sea salt",
-      "amount": "1 tsp (≈6 g)",
+      "amount": "1\u202ftsp (\u22486\u202fg)",
       "notes": ""
     },
     {
       "name": "coconut oil",
-      "amount": "2 tbsp (30 g)",
+      "amount": "2\u202ftbsp (30\u202fg)",
       "notes": "for frying"
     },
     {
       "name": "garlic, pressed",
-      "amount": "1/2 tsp (≈0.5 g)",
+      "amount": "1/2\u202ftsp (\u22480.5\u202fg)",
       "notes": "for glaze"
     },
     {
       "name": "red chili flakes",
-      "amount": "1/4 tsp",
+      "amount": "1/4\u202ftsp",
       "notes": "optional"
     }
   ],
   "instructions": [
     "Whisk the honey, eggs, minced garlic, almond paste, coconut milk, and sea salt together until smooth.",
     "Sift the almond flour into a separate bowl and gradually fold it into the wet mixture until a thick batter forms.",
-    "Heat 1 tbsp of coconut oil in a non‑stick skillet over medium heat; add the remaining 1 tbsp oil to the pan before adding batter.",
-    "Drop heaping teaspoonfuls of batter into the hot oil, spacing them 2 inches apart.",
-    "Fry each fritter for about 3–4 minutes on each side, or until golden brown and firm.",
-    "Using a slotted spoon, transfer fritters to a paper‑towel lined plate to drain excess oil.",
+    "Heat 1\u202ftbsp of coconut oil in a non\u2011stick skillet over medium heat; add the remaining 1\u202ftbsp oil to the pan before adding batter.",
+    "Drop heaping teaspoonfuls of batter into the hot oil, spacing them 2\u202finches apart.",
+    "Fry each fritter for about 3\u20134\u202fminutes on each side, or until golden brown and firm.",
+    "Using a slotted spoon, transfer fritters to a paper\u2011towel lined plate to drain excess oil.",
     "While the fritters cook, combine the glaze honey, pressed garlic, and chili flakes in a small bowl; whisk until blended.",
     "Drizzle the glaze over the hot fritters or serve it on the side for dipping.",
     "Repeat with remaining batter, adding more oil as needed.",
@@ -78,7 +78,7 @@
   "tags": [
     "whole30",
     "snack",
-    "Dutch",
+    "dutch",
     "garlicky",
     "silky",
     "fritter",

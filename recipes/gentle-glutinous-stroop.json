@@ -62,9 +62,9 @@
   ],
   "nutrition": {
     "calories": 314,
-    "protein": 5.8,
-    "carbs": 62.7,
-    "fat": 9.9
+    "protein": 6,
+    "carbs": 63,
+    "fat": 10
   },
   "slug": "gentle-glutinous-stroop",
   "source": "ollama-qwen2.5:3b",

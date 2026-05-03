@@ -1,6 +1,6 @@
 {
   "title": "Garlicky Gooey Turkish Cheese Gratin",
-  "description": "A fragrant, gooey cheese gratin that showcases Turkish flavors with Worcestershire sauce and a touch of cured bacon for a show‑off finish.",
+  "description": "A fragrant, gooey cheese gratin that showcases Turkish flavors with Worcestershire sauce and a touch of cured bacon for a showoff finish.",
   "cuisine": "Turkish",
   "diet": [
     "gluten-free",
@@ -34,11 +34,11 @@
     },
     {
       "name": "Smoked paprika",
-      "amount": "¼ tsp"
+      "amount": "\u00bc tsp"
     },
     {
       "name": "Gluten-free breadcrumbs",
-      "amount": "½ cup"
+      "amount": "\u00bd cup"
     },
     {
       "name": "Grated Parmesan cheese",
@@ -47,22 +47,22 @@
     {
       "name": "Cured bacon or ham (crisp-fry bits)",
       "amount": "50 g",
-      "notes": "optional for extra show‑off"
+      "notes": "optional for extra show\u2011off"
     },
     {
       "name": "Salt",
-      "amount": "½ tsp",
+      "amount": "\u00bd tsp",
       "notes": "optional, adjust to taste"
     }
   ],
   "instructions": [
-    "Preheat the oven to 180 °C (356 °F) and lightly grease a 20 cm baking dish with olive oil.",
+    "Preheat the oven to 180\u202f\u00b0C (356\u202f\u00b0F) and lightly grease a 20\u202fcm baking dish with olive oil.",
     "In a small saucepan, combine the milk, Worcestershire sauce, garlic-infused olive oil, thyme, and smoked paprika; warm over medium heat until just steaming, being careful not to boil.",
     "Remove the pan from heat and stir in the crumbled Turkish cheese until it melts and the mixture becomes smooth and silky.",
-    "If using cured bacon or ham, quickly sauté the bits until crisp and scatter them over the cheese mixture.",
+    "If using cured bacon or ham, quickly saut\u00e9 the bits until crisp and scatter them over the cheese mixture.",
     "Pour the cheese mixture into the prepared dish and spread it evenly.",
     "Sprinkle the gluten-free breadcrumbs and grated Parmesan on top.",
-    "Bake for 20–25 minutes, or until the top is golden and bubbly; for a crispier finish, broil for an additional 2–3 minutes.",
+    "Bake for 20\u201325 minutes, or until the top is golden and bubbly; for a crispier finish, broil for an additional 2\u20133 minutes.",
     "Let the gratin rest for 5 minutes before serving."
   ],
   "prepTimeMin": 10,

@@ -1,6 +1,6 @@
 {
   "title": "Garlicky Silky Russian Beef Stew",
-  "description": "A rich, garlicky beef stew with a silky texture, finished with red wine and a touch of smoldering paprika—perfect for a quick weeknight dinner.",
+  "description": "A rich, garlicky beef stew with a silky texture, finished with red wine and a touch of smoldering paprika-perfect for a quick weeknight dinner.",
   "cuisine": "Russian",
   "diet": [
     "whole30"
@@ -8,7 +8,7 @@
   "meal": "dinner",
   "ingredients": [
     {
-      "name": "beef chuck, cut into 1‑inch cubes",
+      "name": "beef chuck, cut into 1\u2011inch cubes",
       "amount": "1.5 lb (680 g)",
       "notes": ""
     },
@@ -38,7 +38,7 @@
       "notes": ""
     },
     {
-      "name": "beef broth, low‑sodium",
+      "name": "beef broth, low\u2011sodium",
       "amount": "2 cups (480 ml)",
       "notes": ""
     },
@@ -89,13 +89,13 @@
     }
   ],
   "instructions": [
-    "Heat a large pot over medium‑high heat and add 1 tbsp olive oil.",
-    "Add the beef cubes in batches and sear them on all sides until browned, about 4–5 minutes per batch; remove and set aside.",
-    "Reduce heat to medium and sauté the diced onion until translucent, 3–4 minutes.",
+    "Heat a large pot over medium\u2011high heat and add 1 tbsp olive oil.",
+    "Add the beef cubes in batches and sear them on all sides until browned, about 4\u20135 minutes per batch; remove and set aside.",
+    "Reduce heat to medium and saut\u00e9 the diced onion until translucent, 3\u20134 minutes.",
     "Add the minced garlic and cook for 30 seconds until fragrant.",
     "Return the beef to the pot and add the sliced carrots, diced potatoes, tomato paste, dried thyme, smoked paprika (if using), and bay leaf; stir to coat everything evenly.",
     "Pour in the cup of red wine, scraping any browned bits from the bottom of the pot; bring to a simmer.",
-    "Add the beef broth, bring back to a gentle simmer, cover, and let cook for 90 minutes or until the beef is fork‑tender.",
+    "Add the beef broth, bring back to a gentle simmer, cover, and let cook for 90 minutes or until the beef is fork\u2011tender.",
     "Whisk 1 tbsp arrowroot powder with 2 tbsp cold water to create a slurry.",
     "Stir the slurry into the stew and simmer uncovered for another 5 minutes, allowing the sauce to thicken to a silky consistency.",
     "Season with salt and freshly ground black pepper to taste, remove the bay leaf, and ladle the stew into bowls. Garnish with chopped parsley before serving."
@@ -107,7 +107,7 @@
   "difficulty": "medium",
   "tags": [
     "whole30",
-    "Russian",
+    "russian",
     "beef",
     "garlic",
     "stew",

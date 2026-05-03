@@ -93,9 +93,9 @@
   ],
   "nutrition": {
     "calories": 540,
-    "protein": "38g",
-    "carbs": "15g",
-    "fat": "44g"
+    "protein": 38,
+    "carbs": 15,
+    "fat": 44
   },
   "slug": "garlicky-creamy-vietnamese-pork-pho",
   "source": "groq-llama-3.1-8b-instant",

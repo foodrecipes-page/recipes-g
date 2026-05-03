@@ -1,6 +1,6 @@
 {
   "title": "Garlicky Flaky Vietnamese Chicken Bake",
-  "description": "A kid-friendly, low‑carb Vietnamese chicken bake packed with garlicky flavor, flaky tenderness, and a splash of sherry vinegar for a bright finish.",
+  "description": "A kid-friendly, lowcarb Vietnamese chicken bake packed with garlicky flavor, flaky tenderness, and a splash of sherry vinegar for a bright finish.",
   "cuisine": "Vietnamese",
   "diet": [
     "low-carb",
@@ -31,7 +31,7 @@
     {
       "name": "soy sauce",
       "amount": "2 tbsp",
-      "notes": "low‑sodium if preferred"
+      "notes": "low\u2011sodium if preferred"
     },
     {
       "name": "fish sauce",
@@ -65,13 +65,13 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 400°F (200°C).",
+    "Preheat oven to 400\u00b0F (200\u00b0C).",
     "Pat chicken dry with paper towels and season with salt and pepper.",
-    "Heat peanut oil in a large oven‑proof skillet over medium‑high heat; sear chicken thighs for 2–3 minutes per side until golden brown, then set aside.",
-    "In the same skillet, add minced garlic and ginger; sauté for 30 seconds until fragrant.",
+    "Heat peanut oil in a large oven\u2011proof skillet over medium\u2011high heat; sear chicken thighs for 2\u20133 minutes per side until golden brown, then set aside.",
+    "In the same skillet, add minced garlic and ginger; saut\u00e9 for 30 seconds until fragrant.",
     "Stir in soy sauce, fish sauce, sherry vinegar, honey, and chili flakes; cook for 1 minute to blend flavors.",
     "Return chicken to skillet, spoon sauce over each piece, and transfer skillet to the preheated oven.",
-    "Bake for 18–20 minutes, or until chicken reaches an internal temperature of 165°F (74°C).",
+    "Bake for 18\u201320 minutes, or until chicken reaches an internal temperature of 165\u00b0F (74\u00b0C).",
     "Remove from oven, sprinkle chopped cilantro and sliced scallions on top.",
     "Let rest for 5 minutes before serving."
   ],
@@ -92,5 +92,20 @@
     "mainIngredient": "chicken",
     "descriptor": "Garlicky Flaky",
     "dishForm": "Bake"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "vietnamese",
+    "dinner"
+  ]
 }

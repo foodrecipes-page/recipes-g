@@ -19,7 +19,7 @@
     }
   ],
   "instructions": [
-    "Preheat your sous-vide water bath to 60°C (140°F).",
+    "Preheat your sous-vide water bath to 60\u00b0C (140\u00b0F).",
     "Place the garlic bulbs in a plastic bag, pour the olive oil over them evenly, seal the bag well.",
     "Submerge the sealed bag into the preheated water bath for 24 hours.",
     "Once done, remove the bag from the water bath and allow it to cool naturally at room temperature. The garlic will ferment within this time.",
@@ -37,7 +37,7 @@
   ],
   "nutrition": {
     "calories": 30,
-    "protein": 0.5,
+    "protein": 0,
     "carbs": 7,
     "fat": 2
   },

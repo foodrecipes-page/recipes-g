@@ -50,9 +50,9 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 400°F (205°C).",
+    "Preheat your oven to 400\u00b0F (205\u00b0C).",
     "Season the chicken pieces with salt and pepper.",
-    "In a large skillet or wok over medium-high heat, add olive oil and sauté garlic until fragrant.",
+    "In a large skillet or wok over medium-high heat, add olive oil and saut\u00e9 garlic until fragrant.",
     "Add sliced onions and cook for about 2 minutes or until they start to soften.",
     "Place the seasoned chicken thighs in the pan and spoon brown sugar over them evenly. Cover with aluminum foil.",
     "Bake in preheated oven for approximately 15-20 minutes, depending on the thickness of the chicken pieces.",
@@ -93,5 +93,6 @@
     "mainIngredient": "Garlic",
     "descriptor": "Garlicky Creamy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "prepTimeMin": 15
 }

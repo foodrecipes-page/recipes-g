@@ -1,5 +1,5 @@
 {
-  "title": "Gruyère Kale Saute",
+  "title": "Gruyere Kale Saute",
   "description": "A herbal and light dish that is a crowd-pleaser, perfect for those looking to enjoy a simple yet delicious meal.",
   "cuisine": "Kenyan",
   "diet": null,
@@ -11,9 +11,9 @@
       "notes": "Choose fresh kale with dark green leaves."
     },
     {
-      "name": "Gruyère Cheese",
+      "name": "Gruy\u00e8re Cheese",
       "amount": "6 oz",
-      "notes": "Use a low-fat or mild-flavored Gruyère cheese for this dish."
+      "notes": "Use a low-fat or mild-flavored Gruy\u00e8re cheese for this dish."
     },
     {
       "name": "Olive Oil",
@@ -51,9 +51,9 @@
   "instructions": [
     "Wash the kale thoroughly, remove the stems, and tear the leaves into bite-sized pieces.",
     "Heat olive oil in a large skillet over medium heat. Add garlic if using onions for extra flavor.",
-    "Add the chopped onion (if using) to the pan and sauté until translucent. Then add the kale and toss well with the garlic/onion mixture.",
+    "Add the chopped onion (if using) to the pan and saut\u00e9 until translucent. Then add the kale and toss well with the garlic/onion mixture.",
     "Season with salt and pepper, then drizzle the remaining olive oil over the top.",
-    "In a separate saucepan, melt butter on low heat. Once melted, pour in grated Gruyère cheese.",
+    "In a separate saucepan, melt butter on low heat. Once melted, pour in grated Gruy\u00e8re cheese.",
     "Stir constantly until the cheese melts completely and combines well with the kale mixture. This should take about 2-3 minutes.",
     "Serve hot, garnished with fresh herbs if desired."
   ],
@@ -71,7 +71,7 @@
   "nutrition": {
     "calories": 369,
     "protein": 12,
-    "carbs": 7.5,
+    "carbs": 8,
     "fat": 20
   },
   "slug": "gruyere-kale-saute",

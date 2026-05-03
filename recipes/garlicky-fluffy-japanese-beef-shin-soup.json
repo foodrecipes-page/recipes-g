@@ -1,6 +1,6 @@
 {
   "title": "Garlicky Fluffy Japanese Beef Shin Soup",
-  "description": "A comforting, low‑FODMAP Japanese soup featuring tender beef shin, aromatic garlic‑infused oil, and a silky, fluffy broth whisked with egg whites.",
+  "description": "A comforting, lowFODMAP Japanese soup featuring tender beef shin, aromatic garlicinfused oil, and a silky, fluffy broth whisked with egg whites.",
   "cuisine": "Japanese",
   "diet": [
     "fodmap-friendly",
@@ -10,7 +10,7 @@
   "meal": "dinner",
   "ingredients": [
     {
-      "name": "Beef shin, bone‑in",
+      "name": "Beef shin, bone\u2011in",
       "amount": "500g"
     },
     {
@@ -18,11 +18,11 @@
       "amount": "1.5L"
     },
     {
-      "name": "Garlic‑infused oil",
+      "name": "Garlic\u2011infused oil",
       "amount": "1 tbsp"
     },
     {
-      "name": "Tamari (gluten‑free soy sauce)",
+      "name": "Tamari (gluten\u2011free soy sauce)",
       "amount": "3 tbsp"
     },
     {
@@ -39,7 +39,7 @@
     },
     {
       "name": "White pepper",
-      "amount": "½ tsp"
+      "amount": "\u00bd tsp"
     },
     {
       "name": "Spring onion (green parts only), sliced",
@@ -55,9 +55,9 @@
     }
   ],
   "instructions": [
-    "Heat a large pot over medium heat and add the garlic‑infused oil.",
+    "Heat a large pot over medium heat and add the garlic\u2011infused oil.",
     "Sear the beef shin on all sides until browned, about 4-5 minutes per side.",
-    "Pour in the water, bring to a gentle boil, then reduce to a low simmer and cover. Cook for 3 hours until the meat is fall‑off‑the‑bone tender.",
+    "Pour in the water, bring to a gentle boil, then reduce to a low simmer and cover. Cook for 3 hours until the meat is fall\u2011off\u2011the\u2011bone tender.",
     "Remove the beef shin and strain the broth to remove solids. Return the clear broth to the pot.",
     "Stir in tamari, mirin, rice wine, salt and white pepper, adjusting seasoning to taste.",
     "In a small bowl, whisk the egg whites until frothy. Slowly drizzle the egg whites into the hot broth while stirring gently to create a light, airy foam.",

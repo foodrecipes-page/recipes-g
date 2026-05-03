@@ -44,7 +44,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 375°F (190°C).",
+    "Preheat oven to 375\u00b0F (190\u00b0C).",
     "Slice potatoes into rounds about 1/4 inch thick.",
     "Boil sliced potatoes until tender, about 20 minutes.",
     "Drain and set aside for cooling.",
@@ -63,13 +63,13 @@
     "garlicky",
     "crumbly",
     "potato",
-    "cuisine:irish",
+    "cuisine-irish",
     "diabetic-friendly"
   ],
   "nutrition": {
     "calories": 167,
-    "protein": 2.3,
-    "carbs": 24.8,
+    "protein": 2,
+    "carbs": 25,
     "fat": 5
   },
   "slug": "garlicky-crumbly-potato-crumble",

@@ -6,7 +6,7 @@
     "dairy-free",
     "gluten-free"
   ],
-  "meal": "brunch",
+  "meal": "breakfast",
   "ingredients": [
     {
       "name": "Flank steak",
@@ -55,11 +55,11 @@
     }
   ],
   "instructions": [
-    "Preheat grill to medium-high heat (400°F).",
+    "Preheat grill to medium-high heat (400\u00b0F).",
     "In a large bowl, whisk together garlic, parsley, oregano, pickle juice, lemon juice, olive oil, salt, and black pepper.",
     "Add the sliced steak to the marinade, tossing to coat. Cover and refrigerate for at least 30 minutes or up to 2 hours.",
     "Thread the marinated steak onto the soaked skewers, leaving a small space between each piece.",
-    "Grill the skewers for 8-10 minutes per side, or until the steak reaches an internal temperature of 130°F for medium-rare.",
+    "Grill the skewers for 8-10 minutes per side, or until the steak reaches an internal temperature of 130\u00b0F for medium-rare.",
     "Let the skewers rest for 5 minutes before serving.",
     "Serve hot, garnished with additional parsley and oregano if desired.",
     "Offer a side of dairy-free chimichurri sauce for added flavor.",

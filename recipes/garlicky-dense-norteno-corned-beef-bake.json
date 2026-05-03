@@ -1,5 +1,5 @@
 {
-  "title": "Garlicky Dense Norteño Corned Beef Bake",
+  "title": "Garlicky Dense Norteno Corned Beef Bake",
   "description": "A hearty, garlicky Mexican-style bake featuring tender corned beef, smoky chipotle, and a crispy, cheese-free topping.",
   "cuisine": "Mexican",
   "diet": [
@@ -61,15 +61,15 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350°F (175°C).",
-    "In a large skillet, heat olive oil over medium heat. Add diced onion and sauté until translucent, about 5 minutes.",
+    "Preheat oven to 350\u00b0F (175\u00b0C).",
+    "In a large skillet, heat olive oil over medium heat. Add diced onion and saut\u00e9 until translucent, about 5 minutes.",
     "Add minced garlic and cook for 1 minute until fragrant.",
     "Stir in corned beef strips, cooking until the edges are lightly browned, about 3-4 minutes.",
     "Pour in chipotle, tomato sauce, beef broth, and poblano sauce; stir to combine. Bring to a simmer.",
     "Reduce heat and let the mixture cook for 10 minutes to meld flavors.",
     "Season with chili powder, cumin, salt, and pepper. Taste and adjust seasoning if needed.",
     "Transfer the mixture to a greased 9x13-inch baking dish, spreading it evenly.",
-    "Cover with foil and bake for 60 minutes. Remove the foil, increase oven temperature to 375°F (190°C), and bake for an additional 20 minutes until the top is lightly browned and the sauce has thickened.",
+    "Cover with foil and bake for 60 minutes. Remove the foil, increase oven temperature to 375\u00b0F (190\u00b0C), and bake for an additional 20 minutes until the top is lightly browned and the sauce has thickened.",
     "Let the bake rest for 5 minutes before serving. Garnish with fresh cilantro and serve with lime wedges if desired."
   ],
   "prepTimeMin": 20,
@@ -79,7 +79,7 @@
   "difficulty": "medium",
   "tags": [
     "mexican",
-    "norteño",
+    "norteno",
     "corned-beef",
     "dense",
     "egg-free",
@@ -105,7 +105,7 @@
     "technique": "bake",
     "primaryIngredient": "corned beef",
     "diet": "egg-free",
-    "region": "norteño",
+    "region": "norte\u00f1o",
     "cuisineAdjective": "Norteno",
     "mainIngredient": "corned beef",
     "descriptor": "Garlicky Dense",

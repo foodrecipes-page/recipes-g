@@ -22,7 +22,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 350°F (175°C).",
+    "Preheat your oven to 350\u00b0F (175\u00b0C).",
     "Spread red pepper paste evenly on each bread slice.",
     "Dip the slices in a solution of fermentation culture and water for about 2 minutes, ensuring even coating.",
     "Place crostini seam-side down onto baking sheet lined with parchment paper.",
@@ -41,7 +41,7 @@
   ],
   "nutrition": {
     "calories": 76,
-    "protein": 3.6,
+    "protein": 4,
     "carbs": 12,
     "fat": 0
   },

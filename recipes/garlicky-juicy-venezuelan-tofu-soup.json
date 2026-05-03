@@ -1,6 +1,6 @@
 {
   "title": "Garlicky Juicy Venezuelan Tofu Soup",
-  "description": "A hearty, garlicky tofu soup with a Venezuelan twist, featuring a rich vegetable stock, sous‑vide tofu, and bright lime finish—perfect for a brunch‑mood meal.",
+  "description": "A hearty, garlicky tofu soup with a Venezuelan twist, featuring a rich vegetable stock, sousvide tofu, and bright lime finish-perfect for a brunchmood meal.",
   "cuisine": "Venezuelan",
   "diet": [
     "vegan",
@@ -11,7 +11,7 @@
     {
       "name": "extra-firm tofu",
       "amount": "400 g",
-      "notes": "cut into 1–2 cm cubes, vacuum‑sealed with garlic and spices"
+      "notes": "cut into 1\u20132 cm cubes, vacuum\u2011sealed with garlic and spices"
     },
     {
       "name": "vegetable stock",
@@ -50,7 +50,7 @@
     },
     {
       "name": "smoked paprika",
-      "amount": "½ tsp",
+      "amount": "\u00bd tsp",
       "notes": ""
     },
     {
@@ -70,8 +70,8 @@
     }
   ],
   "instructions": [
-    "Preheat your sous‑vide circulator to 75 °C (167 °F).",
-    "Place tofu cubes in a vacuum bag with minced garlic, cumin, oregano, smoked paprika, salt, and pepper. Seal and cook sous‑vide for 45 minutes."
+    "Preheat your sous\u2011vide circulator to 75\u202f\u00b0C (167\u202f\u00b0F).",
+    "Place tofu cubes in a vacuum bag with minced garlic, cumin, oregano, smoked paprika, salt, and pepper. Seal and cook sous\u2011vide for 45\u202fminutes."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 60,

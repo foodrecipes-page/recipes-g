@@ -10,7 +10,7 @@
     "dum",
     "fodmap-friendly"
   ],
-  "meal": "side/dinner",
+  "meal": "dinner",
   "ingredients": [
     {
       "name": "hispi sweet cabbage",
@@ -38,7 +38,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 400°F.",
+    "Preheat your oven to 400\u00b0F.",
     "In a bowl, mix hispi sweet cabbage with dum and some olive oil. Season lightly with salt.",
     "Arrange the seasoned cabbage mixture in a greased pan. Drizzle over a little bit of fodmap-friendly tamari sauce for glazing and seasoning.",
     "Bake until tender, around 20 minutes.",

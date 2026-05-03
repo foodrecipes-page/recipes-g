@@ -67,15 +67,15 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "grilled sweet potato",
-    "crumble dish",
-    "kimchi date-night"
+    "grilled-sweet-potato",
+    "crumble-dish",
+    "kimchi-date-night"
   ],
   "nutrition": {
     "calories": 371,
-    "protein": 2.9,
-    "carbs": 65.8,
-    "fat": 14.3
+    "protein": 3,
+    "carbs": 66,
+    "fat": 14
   },
   "slug": "grilled-crumbly-korean-sweet-potato-crumble",
   "source": "ollama-qwen2.5:3b",

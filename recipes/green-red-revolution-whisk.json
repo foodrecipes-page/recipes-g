@@ -43,8 +43,8 @@
   "instructions": [
     "Rinse the green red lentils thoroughly. In a large pot, combine the rinsed lentils with water to cover by about an inch.",
     "Bring to a boil over medium heat, then reduce heat and simmer until tender, about 25-30 minutes.",
-    "In a separate pan, sauté the chopped onion and garlic in sesame oil or avocado oil until fragrant and translucent.",
-    "Add peanut butter (or nut butter of your choice) to the sautéed onions. Stir in lemon juice, salt, and pepper to taste.",
+    "In a separate pan, saut\u00e9 the chopped onion and garlic in sesame oil or avocado oil until fragrant and translucent.",
+    "Add peanut butter (or nut butter of your choice) to the saut\u00e9ed onions. Stir in lemon juice, salt, and pepper to taste.",
     "Once the lentils are tender, add them to the pan with the sauce mixture. Toss well to coat evenly.",
     "Serve immediately as a snack or spread on whole grain crackers for a light meal.",
     "prepTimeMin"
@@ -62,5 +62,20 @@
     "primaryIngredient": "green red lentils",
     "diet": "whole30",
     "region": null
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "american",
+    "snack"
+  ]
 }

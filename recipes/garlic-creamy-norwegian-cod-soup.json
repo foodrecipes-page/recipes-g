@@ -1,6 +1,6 @@
 {
   "title": "Garlic Creamy Norwegian Cod Soup",
-  "description": "A garlicky, creamy cod soup with a surprising hint of chocolate that keeps it energizing and diabetic‑friendly.",
+  "description": "A garlicky, creamy cod soup with a surprising hint of chocolate that keeps it energizing and diabeticfriendly.",
   "cuisine": "Norwegian",
   "diet": [
     "diabetic-friendly"
@@ -46,7 +46,7 @@
       "notes": "peeled and cubed"
     },
     {
-      "name": "low‑sodium broth",
+      "name": "low\u2011sodium broth",
       "amount": "4 cups"
     },
     {
@@ -59,7 +59,7 @@
       "notes": "grated"
     },
     {
-      "name": "sugar‑free dark chocolate chips",
+      "name": "sugar\u2011free dark chocolate chips",
       "amount": "2 tbsp"
     },
     {
@@ -85,12 +85,12 @@
     }
   ],
   "instructions": [
-    "Heat olive oil in a large pot over medium heat. Add minced garlic and sauté for 30 seconds until fragrant.",
+    "Heat olive oil in a large pot over medium heat. Add minced garlic and saut\u00e9 for 30 seconds until fragrant.",
     "Stir in diced onion, celery, carrot, and potatoes; cook for about 5 minutes until the vegetables begin to soften.",
-    "Pour in the low‑sodium broth, bring to a gentle simmer, cover, and let cook for 15 minutes until the potatoes are tender.",
+    "Pour in the low\u2011sodium broth, bring to a gentle simmer, cover, and let cook for 15 minutes until the potatoes are tender.",
     "Stir in butter, heavy cream, soy sauce, lemon juice, salt, and pepper. Reduce the mixture for an additional 5 minutes to thicken the sauce.",
-    "Add the cod fillets to the pot, cover, and simmer until the fish flakes easily (internal temperature 60‑65°C, about 8‑10 minutes).",
-    "Remove the pot from heat and fold in grated Parmesan, chopped dill, and sugar‑free chocolate chips until the chocolate melts into the creamy broth.",
+    "Add the cod fillets to the pot, cover, and simmer until the fish flakes easily (internal temperature 60\u201165\u00b0C, about 8\u201110 minutes).",
+    "Remove the pot from heat and fold in grated Parmesan, chopped dill, and sugar\u2011free chocolate chips until the chocolate melts into the creamy broth.",
     "Taste and adjust seasoning with extra salt, pepper, or lemon juice as desired.",
     "Ladle the soup into bowls, garnish with a sprinkle of fresh dill and a few chocolate chips.",
     "Serve hot, optionally accompanied by steamed greens for extra fiber."

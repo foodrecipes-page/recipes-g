@@ -1,11 +1,11 @@
 {
   "title": "Garlicky Crunchy Greek Pork Skewers",
-  "description": "Quick grilled pork belly skewers brushed with a garlicky Greek‑style sauce and finished with toasted sesame seeds for a crunchy finish.",
+  "description": "Quick grilled pork belly skewers brushed with a garlicky Greekstyle sauce and finished with toasted sesame seeds for a crunchy finish.",
   "cuisine": "Greek",
   "diet": [
     "paleo",
-    "gluten‑free",
-    "dairy‑free"
+    "gluten\u2011free",
+    "dairy\u2011free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -39,7 +39,7 @@
     },
     {
       "name": "Freshly ground black pepper",
-      "amount": "½ tsp"
+      "amount": "\u00bd tsp"
     },
     {
       "name": "Toasted sesame seeds",
@@ -54,9 +54,9 @@
     "Soak wooden skewers in water for 30 minutes to prevent burning.",
     "Whisk olive oil, minced garlic, lemon juice, oregano, salt and pepper in a bowl to make the glaze.",
     "Pat pork belly slices dry, then marinate in the glaze for 15 minutes at room temperature.",
-    "Thread 2–3 pork slices onto each skewer, pressing them together.",
-    "Preheat a grill to high heat (about 220 °C / 425 °F) and oil the grates lightly.",
-    "Grill skewers 4–5 minutes per side, brushing with remaining glaze, until the pork is charred and reaches an internal temperature of 71 °C (160 °F).",
+    "Thread 2\u20133 pork slices onto each skewer, pressing them together.",
+    "Preheat a grill to high heat (about 220\u202f\u00b0C / 425\u202f\u00b0F) and oil the grates lightly.",
+    "Grill skewers 4\u20135 minutes per side, brushing with remaining glaze, until the pork is charred and reaches an internal temperature of 71\u202f\u00b0C (160\u202f\u00b0F).",
     "During the last minute of grilling, sprinkle toasted sesame seeds over the pork and press lightly so they adhere.",
     "Remove from grill, let rest 5 minutes, then garnish with chopped parsley before serving."
   ],

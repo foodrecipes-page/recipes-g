@@ -67,7 +67,7 @@
     "In a large bowl, combine beef, onion, garlic, apple, cumin, mustard seeds, salt, black pepper, and caraway seeds.",
     "Pour vinegar and beef broth over the beef mixture, and mix well to coat.",
     "Cover the bowl with plastic wrap and refrigerate for at least 2 days or up to 4 days.",
-    "Preheat oven to 300°F (150°C).",
+    "Preheat oven to 300\u00b0F (150\u00b0C).",
     "Remove the beef mixture from the refrigerator and let it sit at room temperature for 30 minutes.",
     "Transfer the beef mixture to a large Dutch oven or oven-safe pot.",
     "Cover the pot and transfer it to the preheated oven.",
@@ -93,9 +93,9 @@
   ],
   "nutrition": {
     "calories": 540,
-    "protein": "52g",
-    "carbs": "23g",
-    "fat": "29g"
+    "protein": 52,
+    "carbs": 23,
+    "fat": 29
   },
   "slug": "garlicky-juicy-german-sauerbraten-stew",
   "source": "groq-llama-3.1-8b-instant",

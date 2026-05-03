@@ -1,6 +1,6 @@
 {
   "title": "Gooey Spicy Spanish Fettuccine Pasta",
-  "description": "A rich, lingeringly spicy pasta that glows with smoky paprika and a creamy tomato finish—perfect for a hangover cure or a comforting dinner.",
+  "description": "A rich, lingeringly spicy pasta that glows with smoky paprika and a creamy tomato finish-perfect for a hangover cure or a comforting dinner.",
   "cuisine": "Spanish",
   "diet": [
     "vegetarian",
@@ -55,12 +55,12 @@
     {
       "name": "heavy cream",
       "amount": "100 ml",
-      "notes": "use dairy or a plant‑based alternative"
+      "notes": "use dairy or a plant\u2011based alternative"
     },
     {
       "name": "Parmesan cheese, grated (optional)",
       "amount": "50 g",
-      "notes": "adds gooeyness; omit for dairy‑free"
+      "notes": "adds gooeyness; omit for dairy\u2011free"
     }
   ],
   "instructions": [

@@ -3,7 +3,7 @@
   "description": "An earthy and gooey meal-prep dish featuring roasted Jerusalem artichokes with a tangy sesame dressing for an unexpected twist on the classic side dish.",
   "cuisine": "Turkish",
   "diet": null,
-  "meal": "side-dish",
+  "meal": "dinner",
   "ingredients": [
     {
       "name": "Jerusalem Artichokes",
@@ -47,7 +47,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 425°F (220°C). Rinse Jerusalem artichokes and slice them into rounds about 1/8-inch thick.",
+    "Preheat oven to 425\u00b0F (220\u00b0C). Rinse Jerusalem artichokes and slice them into rounds about 1/8-inch thick.",
     "Combine sesame seeds, fresh parsley, minced garlic, olive oil, soy sauce, apple cider vinegar, sugar, salt, and pepper in a small bowl. Mix well to combine.",
     "Place Jerusalem artichoke slices on a baking sheet lined with parchment paper. Drizzle with the sesame dressing mixture evenly over the top of the pieces.",
     "Roast for 25-30 minutes or until edges turn golden brown and they are cooked through. Stir occasionally during cooking.",

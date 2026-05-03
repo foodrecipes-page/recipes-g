@@ -1,18 +1,18 @@
 {
   "title": "Garlicky Fluffy Canadian Chicken Roast",
-  "description": "A tender, sous‑vide chicken roast infused with ras el hanout, garlic, and a dash of maple for a show‑off Canadian flavor.",
+  "description": "A tender, sousvide chicken roast infused with ras el hanout, garlic, and a dash of maple for a showoff Canadian flavor.",
   "cuisine": "Canadian",
   "diet": null,
   "meal": "dinner",
   "ingredients": [
     {
       "name": "chicken breasts, boneless, skinless",
-      "amount": "2 (≈4 lb)",
+      "amount": "2 (\u22484\u202flb)",
       "notes": "whole breasts"
     },
     {
       "name": "ras el hanout",
-      "amount": "1 tbsp",
+      "amount": "1\u202ftbsp",
       "notes": ""
     },
     {
@@ -22,32 +22,32 @@
     },
     {
       "name": "olive oil",
-      "amount": "2 tbsp",
+      "amount": "2\u202ftbsp",
       "notes": ""
     },
     {
       "name": "maple syrup",
-      "amount": "1 tbsp",
+      "amount": "1\u202ftbsp",
       "notes": ""
     },
     {
       "name": "chicken broth",
-      "amount": "½ cup",
+      "amount": "\u00bd\u202fcup",
       "notes": ""
     },
     {
       "name": "unsalted butter",
-      "amount": "1 tbsp",
+      "amount": "1\u202ftbsp",
       "notes": "cut into cubes"
     },
     {
       "name": "salt",
-      "amount": "1 tsp",
+      "amount": "1\u202ftsp",
       "notes": ""
     },
     {
       "name": "black pepper, freshly ground",
-      "amount": "½ tsp",
+      "amount": "\u00bd\u202ftsp",
       "notes": ""
     },
     {
@@ -57,18 +57,18 @@
     },
     {
       "name": "lemon zest",
-      "amount": "1 tsp",
+      "amount": "1\u202ftsp",
       "notes": ""
     }
   ],
   "instructions": [
-    "Preheat the sous‑vide bath to 150 °F (65 °C).",
+    "Preheat the sous\u2011vide bath to 150\u202f\u00b0F (65\u202f\u00b0C).",
     "Season the chicken breasts with salt, pepper, ras el hanout, and minced garlic.",
-    "Place the seasoned chicken in a vacuum‑seal bag along with olive oil, maple syrup, chicken broth, and butter cubes.",
+    "Place the seasoned chicken in a vacuum\u2011seal bag along with olive oil, maple syrup, chicken broth, and butter cubes.",
     "Seal the bag using a vacuum sealer or the displacement method.",
-    "Cook the bagged chicken sous‑vide for 90–120 minutes, until the internal temperature reaches 150 °F (65 °C).",
+    "Cook the bagged chicken sous\u2011vide for 90\u2013120 minutes, until the internal temperature reaches 150\u202f\u00b0F (65\u202f\u00b0C).",
     "Remove the chicken from the bag and pat dry with paper towels.",
-    "Heat a skillet over medium‑high heat; sear the chicken for 1–2 minutes per side, adding thyme sprigs during the last minute.",
+    "Heat a skillet over medium\u2011high heat; sear the chicken for 1\u20132 minutes per side, adding thyme sprigs during the last minute.",
     "Remove from heat, slice, and serve garnished with lemon zest."
   ],
   "slug": "garlicky-fluffy-canadian-chicken-roast",
@@ -88,5 +88,20 @@
     "mainIngredient": "Chicken",
     "descriptor": "Garlicky Fluffy",
     "dishForm": "Roast"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "canadian",
+    "dinner"
+  ]
 }

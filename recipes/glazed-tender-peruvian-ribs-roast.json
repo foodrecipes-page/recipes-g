@@ -1,6 +1,6 @@
 {
   "title": "Glazed Tender Peruvian Ribs Roast",
-  "description": "Salty, gooey, romantic Peruvian dish featuring pork back ribs cooked in an air fryer with a low‑sodium glaze.",
+  "description": "Salty, gooey, romantic Peruvian dish featuring pork back ribs cooked in an air fryer with a lowsodium glaze.",
   "cuisine": "Peruvian",
   "diet": null,
   "meal": "dinner",
@@ -8,7 +8,7 @@
     {
       "name": "pork back ribs",
       "amount": "2 lbs (0.9 kg)",
-      "notes": "cut into 4‑5 inch sections"
+      "notes": "cut into 4\u20115 inch sections"
     },
     {
       "name": "olive oil",
@@ -42,7 +42,7 @@
     },
     {
       "name": "sea salt",
-      "amount": "½ tsp (2.5 g)",
+      "amount": "\u00bd tsp (2.5 g)",
       "notes": "low sodium preference"
     },
     {
@@ -51,9 +51,9 @@
       "notes": "for brightness"
     },
     {
-      "name": "low‑sodium soy sauce",
+      "name": "low\u2011sodium soy sauce",
       "amount": "2 tbsp (30 ml)",
-      "notes": "use reduced‑sodium brand"
+      "notes": "use reduced\u2011sodium brand"
     },
     {
       "name": "honey",
@@ -72,11 +72,11 @@
     }
   ],
   "instructions": [
-    "Preheat the air fryer to 400°F (200°C).",
-    "In a bowl, whisk together olive oil, smoked paprika, cumin, oregano, garlic powder, onion powder, sea salt, lime juice, low‑sodium soy sauce, honey, and pisco to form a glaze.",
+    "Preheat the air fryer to 400\u00b0F (200\u00b0C).",
+    "In a bowl, whisk together olive oil, smoked paprika, cumin, oregano, garlic powder, onion powder, sea salt, lime juice, low\u2011sodium soy sauce, honey, and pisco to form a glaze.",
     "Pat the ribs dry with paper towels, then coat both sides with the glaze, pressing it in gently.",
-    "Place the ribs in the air‑fryer basket in a single layer; cook for 15 minutes. Flip the ribs, re‑apply a thin layer of glaze, and cook for an additional 10 minutes, or until the internal temperature reaches 145°F (63°C).",
-    "While the ribs finish cooking, pour the remaining glaze into a small saucepan and simmer over medium heat for 2–3 minutes until slightly thickened.",
+    "Place the ribs in the air\u2011fryer basket in a single layer; cook for 15 minutes. Flip the ribs, re\u2011apply a thin layer of glaze, and cook for an additional 10 minutes, or until the internal temperature reaches 145\u00b0F (63\u00b0C).",
+    "While the ribs finish cooking, pour the remaining glaze into a small saucepan and simmer over medium heat for 2\u20133 minutes until slightly thickened.",
     "When the ribs are done, brush them generously with the thickened glaze, then return them to the air fryer for 3 minutes to set the glaze.",
     "Remove the ribs and let them rest for 5 minutes. Sprinkle chopped cilantro over the top and serve immediately with a side of quinoa or roasted vegetables."
   ],
@@ -97,5 +97,20 @@
     "mainIngredient": "Ribs",
     "descriptor": "Glazed Tender",
     "dishForm": "Roast"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "peruvian",
+    "dinner"
+  ]
 }

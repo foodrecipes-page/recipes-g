@@ -10,7 +10,7 @@
     {
       "name": "Chicken thighs, boneless skinless",
       "amount": "500g",
-      "notes": "Cut into bite‑size pieces"
+      "notes": "Cut into bite\u2011size pieces"
     },
     {
       "name": "Lard",
@@ -55,7 +55,7 @@
   ],
   "instructions": [
     "Heat the lard in a large pot over medium heat until shimmering.",
-    "Add the minced garlic, sliced ginger, and chilies; sauté for 1–2 minutes until fragrant.",
+    "Add the minced garlic, sliced ginger, and chilies; saut\u00e9 for 1\u20132 minutes until fragrant.",
     "Pour in the chicken broth and bring to a gentle boil.",
     "Add the chicken pieces, fish sauce, soy sauce, and a pinch of salt; reduce heat to a low simmer and cook for 20 minutes, or until the chicken is juicy and fully cooked.",
     "Stir in lime juice and adjust seasoning, adding more salt or fish sauce if needed.",
@@ -79,5 +79,20 @@
     "mainIngredient": "Chicken",
     "descriptor": "Garlic Juicy",
     "dishForm": "Soup"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "thai",
+    "dinner"
+  ]
 }

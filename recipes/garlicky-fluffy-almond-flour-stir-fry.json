@@ -31,7 +31,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 400°F (200°C).",
+    "Preheat oven to 400\u00b0F (200\u00b0C).",
     "In a large bowl, mix almond flour with salt and pepper. Stir in minced garlic and chopped onion.",
     "Add finely sliced bell pepper and gently fold into the almond mixture until evenly coated.",
     "Beat eggs lightly; pour over the almond and vegetable mixture, ensuring everything is well combined.",
@@ -51,9 +51,9 @@
   ],
   "nutrition": {
     "calories": 308,
-    "protein": 12.6,
-    "carbs": 9.4,
-    "fat": 7.3
+    "protein": 13,
+    "carbs": 9,
+    "fat": 7
   },
   "slug": "garlicky-fluffy-almond-flour-stir-fry",
   "source": "ollama-qwen2.5:3b",

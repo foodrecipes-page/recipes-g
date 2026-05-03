@@ -38,10 +38,10 @@
     }
   ],
   "instructions": [
-    "Preheat your sous-vide machine to 60°C (140°F). Season the beef cutlets with salt and pepper, then marinate them in soy sauce and fermented ingredients overnight.",
+    "Preheat your sous-vide machine to 60\u00b0C (140\u00b0F). Season the beef cutlets with salt and pepper, then marinate them in soy sauce and fermented ingredients overnight.",
     "Once you're ready to cook, remove the beef from the fridge. Preheat a skillet or wok over medium-high heat, add olive oil and let it get hot.",
     "Add the seasoned beef cutlets and sear on both sides until golden brown and cooked through (about 3-4 minutes per side).",
-    "Remove the beef from the skillet and set aside. In the same pan, sauté minced garlic until fragrant, then add soy sauce and sour cream to create a rich sauce.",
+    "Remove the beef from the skillet and set aside. In the same pan, saut\u00e9 minced garlic until fragrant, then add soy sauce and sour cream to create a rich sauce.",
     "Return the seared beef cutlets to the skillet along with any accumulated juices for a more flavorful dish. Toss everything together and let it cook through while stirring occasionally (about 5 minutes).",
     "Garnish with green onions and fresh basil leaves before serving hot."
   ],
@@ -58,7 +58,7 @@
   ],
   "nutrition": {
     "calories": 520,
-    "protein": 39.8,
+    "protein": 40,
     "carbs": 14,
     "fat": 26
   },

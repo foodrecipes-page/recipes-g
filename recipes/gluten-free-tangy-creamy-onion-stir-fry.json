@@ -66,9 +66,9 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "gluten_free_onion_stir_fry",
-    "comfort_cooking",
-    "tangy_yum"
+    "gluten-free-onion-stir-fry",
+    "comfort-cooking",
+    "tangy-yum"
   ],
   "nutrition": {
     "calories": 250,

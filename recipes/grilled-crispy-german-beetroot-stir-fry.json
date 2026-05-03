@@ -39,7 +39,7 @@
     "Slice the beetroot into thin rounds or matchsticks. Season with salt on both sides.",
     "Mix almond meal with a little sea salt in a shallow bowl for coating the beetroots.",
     "Brush each beetroot round with olive oil, then coat them lightly with the almond meal mixture.",
-    "Preheat your grill to medium-high heat (around 400°F). Grill the beetroot rounds until they develop a nice char and are tender but not falling apart, about 5-10 minutes per side.",
+    "Preheat your grill to medium-high heat (around 400\u00b0F). Grill the beetroot rounds until they develop a nice char and are tender but not falling apart, about 5-10 minutes per side.",
     "While the beetroots are grilling, mix Dijon mustard with lemon zest in a small bowl.",
     "Once the beetroots are done, remove them from the grill and set aside. Add the mustard-lemon mixture to the pan that had been used for grilling the beetroots.",
     "Add minced garlic to the pan, stir-fry briefly until fragrant (do not overcook as it can burn), then add the grilled beetroots back into the pan.",
@@ -63,5 +63,20 @@
     "mainIngredient": "beetroot",
     "descriptor": "Grilled",
     "dishForm": "Stir-fry"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "german",
+    "breakfast"
+  ]
 }

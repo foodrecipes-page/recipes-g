@@ -5,7 +5,7 @@
   "diet": [
     "low-fat"
   ],
-  "meal": "brunch",
+  "meal": "breakfast",
   "ingredients": [
     {
       "name": "Red Potatoes",
@@ -33,7 +33,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 400°F (205°C). Wash the red potatoes, trim off any bad spots, and cut them into medium-sized chunks.",
+    "Preheat your oven to 400\u00b0F (205\u00b0C). Wash the red potatoes, trim off any bad spots, and cut them into medium-sized chunks.",
     "Spread the sliced red potatoes on a baking sheet lined with parchment paper. Drizzle half of the olive oil over them, toss gently to coat, then season with salt, pepper, and chopped fresh herbs.",
     "Squeeze in lemon juice if using, for extra brightness and freshness. Place the tray in your preheated oven and bake until the potatoes are golden brown and crispy, about 20-30 minutes.",
     "Meanwhile, mince the garlic cloves finely in a small bowl. In another pan over medium heat, pour in the remaining olive oil and add minced garlic when it's hot but not smoking.",

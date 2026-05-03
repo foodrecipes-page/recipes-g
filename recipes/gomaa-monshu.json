@@ -41,7 +41,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350°F (175°C).",
+    "Preheat oven to 350\u00b0F (175\u00b0C).",
     "Place hake fillets in a baking dish. Pour orange juice, lemon zest, lime juice over them.",
     "Mix sugar-free condensed milk, unsalted butter, ginger, and grated lemon peel together in another bowl until well combined.",
     "Pour the mixture evenly over the fish in the baking dish.",
@@ -80,5 +80,10 @@
     "primaryIngredient": "hake",
     "diet": "sugar-free",
     "region": null
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium"
 }

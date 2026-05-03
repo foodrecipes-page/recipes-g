@@ -42,10 +42,10 @@
     }
   ],
   "instructions": [
-    "Preheat your air fryer to 375°F (190°C).",
+    "Preheat your air fryer to 375\u00b0F (190\u00b0C).",
     "Slice the ancho peppers into thin rounds.",
     "Chop the onion finely and mince the garlic.",
-    "In a pan, heat olive oil over medium heat. Add onions and sauté until translucent.",
+    "In a pan, heat olive oil over medium heat. Add onions and saut\u00e9 until translucent.",
     "Add minced garlic and cumin to the pan and cook for 1 minute.",
     "Fold in sliced ancho peppers with brown sugar and continue cooking until the peppers are tender and slightly caramelized on one side (about 5-7 minutes).",
     "Season with salt and pepper as needed. Serve hot or warm.",
@@ -83,5 +83,6 @@
     "mainIngredient": "Ancho Peppers",
     "descriptor": "Garlicky Gooey",
     "dishForm": "Stir-fry"
-  }
+  },
+  "prepTimeMin": 15
 }

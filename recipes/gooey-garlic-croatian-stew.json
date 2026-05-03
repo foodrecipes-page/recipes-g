@@ -31,9 +31,9 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 180°C (350°F).",
+    "Preheat oven to 180\u00b0C (350\u00b0F).",
     "Wash and peel baby new potatoes, leaving them whole.",
-    "In a large pot, heat olive oil over medium-high heat. Add sliced garlic and sauté for about 2 minutes until fragrant but not browned.",
+    "In a large pot, heat olive oil over medium-high heat. Add sliced garlic and saut\u00e9 for about 2 minutes until fragrant but not browned.",
     "Add baby new potatoes to the pot with their liquid (if any).",
     "Drizzle some extra olive oil on top of the potatoes, making sure they are coated evenly.",
     "Season with salt and pepper. If using fresh herbs, sprinkle them over the top just before serving for added freshness.",
@@ -47,15 +47,15 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "baby_new_potatoes",
-    "croatian_stew",
-    "snack_cuisine"
+    "baby-new-potatoes",
+    "croatian-stew",
+    "snack-cuisine"
   ],
   "nutrition": {
     "calories": 273,
-    "protein": 5.6,
-    "carbs": 41.9,
-    "fat": 10.4
+    "protein": 6,
+    "carbs": 42,
+    "fat": 10
   },
   "slug": "gooey-garlic-croatian-stew",
   "source": "ollama-qwen2.5:3b",

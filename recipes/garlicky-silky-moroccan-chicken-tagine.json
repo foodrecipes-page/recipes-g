@@ -66,7 +66,7 @@
     }
   ],
   "instructions": [
-    "Heat 2 tbsp olive oil in a heavy-bottomed pot or tagine over medium heat. Add sliced onions and sauté until translucent, about 5 minutes.",
+    "Heat 2 tbsp olive oil in a heavy-bottomed pot or tagine over medium heat. Add sliced onions and saut\u00e9 until translucent, about 5 minutes.",
     "Add the remaining 1 tbsp olive oil, minced garlic, and Moroccan spice blend. Cook, stirring, until fragrant, about 2 minutes.",
     "Stir in the chicken pieces and brown on all sides, about 5-7 minutes.",
     "Pour in the low-sodium chicken broth, diced tomatoes, and tomato paste. Bring to a gentle simmer, then reduce heat to low, cover, and let cook for 30-35 minutes, stirring occasionally.",
@@ -92,5 +92,20 @@
     "mainIngredient": "Chicken",
     "descriptor": "Garlicky Silky",
     "dishForm": "Tagine"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "moroccan",
+    "dinner"
+  ]
 }

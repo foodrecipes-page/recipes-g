@@ -55,9 +55,9 @@
   ],
   "nutrition": {
     "calories": 167,
-    "protein": 7.2,
-    "carbs": 9.4,
-    "fat": 8.3
+    "protein": 7,
+    "carbs": 9,
+    "fat": 8
   },
   "slug": "grilled-japanese-baby-aubergine-stir-fry",
   "source": "ollama-qwen2.5:3b",

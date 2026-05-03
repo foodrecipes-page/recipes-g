@@ -94,5 +94,6 @@
     "mainIngredient": "Squid",
     "descriptor": "Garlicky Fluffy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "prepTimeMin": 15
 }
