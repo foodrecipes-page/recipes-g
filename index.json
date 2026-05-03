@@ -1564,6 +1564,24 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-italian-mincemeat-soup",
+    "title": "Garlicky Italian Mincemeat Soup",
+    "tags": [
+      "garlicky",
+      "sick-day",
+      "high-protein",
+      "boil",
+      "mincemeat",
+      "italian",
+      "soupy",
+      "quick",
+      "comfort"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 60,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-japanese-miso-ramen",
     "title": "Garlicky Japanese Miso Ramen with Tadka and Pink Hue",
     "tags": [
