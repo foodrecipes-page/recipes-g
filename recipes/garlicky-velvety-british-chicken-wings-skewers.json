@@ -1,0 +1,108 @@
+{
+  "title": "Garlicky Velvety British Chicken Wings Skewers",
+  "description": "A festive British twist on chicken wings: juicy, garlicky, and velvety from melted butter, roasted in an air fryer on skewers for a quick and crispy finish.",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken wings",
+      "amount": "1.5 lbs (680 g)",
+      "notes": "separated into drumettes and flat portions"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "¼ tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "8",
+      "notes": "soaked in water for 30 minutes to prevent burning"
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 400°F (200°C).",
+    "Whisk together minced garlic, melted butter, olive oil, lemon juice, smoked paprika, thyme, salt, and pepper in a large bowl.",
+    "Add the chicken wings, tossing to coat thoroughly. Cover and refrigerate for at least 30 minutes to allow flavors to penetrate.",
+    "Thread the marinated wings onto the soaked bamboo skewers, leaving a bit of space between each piece for even airflow.",
+    "Arrange the skewered wings in a single layer in the air fryer basket, ensuring they are not touching.",
+    "Cook for 15 minutes, then carefully flip each skewer and brush with a little extra sauce. Continue cooking for an additional 6–8 minutes, or until the wings are golden‑brown and the internal temperature reaches 165°F (74°C).",
+    "Remove the skewers from the air fryer and let them rest for 3 minutes before serving.",
+    "Sprinkle with chopped parsley and serve immediately, optionally with lemon wedges and a side of Yorkshire pudding or mint sauce.",
+    "Enjoy your garlicky, velvety British chicken wing skewers with friends or family at a festive gathering!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 23,
+  "totalTimeMin": 53,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "air-fry",
+    "garlic",
+    "velvety",
+    "festive",
+    "british",
+    "chicken-wings",
+    "skewers",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 17,
+    "carbs": 4,
+    "fat": 11
+  },
+  "slug": "garlicky-velvety-british-chicken-wings-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-velvety-british-chicken-wings-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:34:06Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "velvety",
+    "mood": "festive",
+    "technique": "air-fry",
+    "primaryIngredient": "chicken wings",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Chicken Wings",
+    "descriptor": "Garlicky Velvety",
+    "dishForm": "Skewers"
+  }
+}

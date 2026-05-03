@@ -1,0 +1,96 @@
+{
+  "title": "Garlicky Flaky Vietnamese Chicken Bake",
+  "description": "A kid-friendly, low‑carb Vietnamese chicken bake packed with garlicky flavor, flaky tenderness, and a splash of sherry vinegar for a bright finish.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "low-carb",
+    "kid-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken thighs",
+      "amount": "4 (about 400g)",
+      "notes": null
+    },
+    {
+      "name": "peanut oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "4 cloves",
+      "notes": null
+    },
+    {
+      "name": "fresh ginger, minced",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "low‑sodium if preferred"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "sherry vinegar",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp",
+      "notes": "use stevia or coconut sugar for extra low carbs"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp (optional)",
+      "notes": null
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "scallions, sliced",
+      "amount": "1 tbsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Pat chicken dry with paper towels and season with salt and pepper.",
+    "Heat peanut oil in a large oven‑proof skillet over medium‑high heat; sear chicken thighs for 2–3 minutes per side until golden brown, then set aside.",
+    "In the same skillet, add minced garlic and ginger; sauté for 30 seconds until fragrant.",
+    "Stir in soy sauce, fish sauce, sherry vinegar, honey, and chili flakes; cook for 1 minute to blend flavors.",
+    "Return chicken to skillet, spoon sauce over each piece, and transfer skillet to the preheated oven.",
+    "Bake for 18–20 minutes, or until chicken reaches an internal temperature of 165°F (74°C).",
+    "Remove from oven, sprinkle chopped cilantro and sliced scallions on top.",
+    "Let rest for 5 minutes before serving."
+  ],
+  "slug": "garlicky-flaky-vietnamese-chicken-bake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-flaky-vietnamese-chicken-bake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:34:55Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "flaky",
+    "mood": "kid-friendly",
+    "technique": "bake",
+    "primaryIngredient": "sherry vinegar",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "chicken",
+    "descriptor": "Garlicky Flaky",
+    "dishForm": "Bake"
+  }
+}

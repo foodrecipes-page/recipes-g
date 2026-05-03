@@ -1095,6 +1095,14 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-flaky-vietnamese-chicken-bake",
+    "title": "Garlicky Flaky Vietnamese Chicken Bake",
+    "tags": [],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": null,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-fluffy-almond-flour-stir-fry",
     "title": "Garlicky Fluffy Almond Flour Stir-Fry",
     "tags": [
@@ -1673,6 +1681,23 @@
     ],
     "cuisine": "uruguayan",
     "totalTimeMin": 15,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-velvety-british-chicken-wings-skewers",
+    "title": "Garlicky Velvety British Chicken Wings Skewers",
+    "tags": [
+      "air-fry",
+      "garlic",
+      "velvety",
+      "festive",
+      "british",
+      "chicken-wings",
+      "skewers",
+      "easy"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 53,
     "shard": "g"
   },
   {
