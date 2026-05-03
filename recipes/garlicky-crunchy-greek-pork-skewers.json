@@ -1,0 +1,98 @@
+{
+  "title": "Garlicky Crunchy Greek Pork Skewers",
+  "description": "Quick grilled pork belly skewers brushed with a garlicky Greek‑style sauce and finished with toasted sesame seeds for a crunchy finish.",
+  "cuisine": "Greek",
+  "diet": [
+    "paleo",
+    "gluten‑free",
+    "dairy‑free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork belly, sliced 1 cm thick",
+      "amount": "500 g"
+    },
+    {
+      "name": "Wooden skewers, soaked in water",
+      "amount": "6"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh chopped parsley (optional garnish)",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Soak wooden skewers in water for 30 minutes to prevent burning.",
+    "Whisk olive oil, minced garlic, lemon juice, oregano, salt and pepper in a bowl to make the glaze.",
+    "Pat pork belly slices dry, then marinate in the glaze for 15 minutes at room temperature.",
+    "Thread 2–3 pork slices onto each skewer, pressing them together.",
+    "Preheat a grill to high heat (about 220 °C / 425 °F) and oil the grates lightly.",
+    "Grill skewers 4–5 minutes per side, brushing with remaining glaze, until the pork is charred and reaches an internal temperature of 71 °C (160 °F).",
+    "During the last minute of grilling, sprinkle toasted sesame seeds over the pork and press lightly so they adhere.",
+    "Remove from grill, let rest 5 minutes, then garnish with chopped parsley before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 42,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "paleo",
+    "grilled",
+    "quick",
+    "no-vegetarian"
+  ],
+  "nutrition": {
+    "calories": 1475,
+    "protein": 55,
+    "carbs": 3,
+    "fat": 120
+  },
+  "slug": "garlicky-crunchy-greek-pork-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-crunchy-greek-pork-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:23:40Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crunchy",
+    "mood": "quick-fix",
+    "technique": "grill",
+    "primaryIngredient": "pork belly slices",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "pork",
+    "descriptor": "Garlicky Crunchy",
+    "dishForm": "Skewers"
+  }
+}
