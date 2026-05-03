@@ -1,0 +1,141 @@
+{
+  "title": "Garlicky Silky Russian Beef Stew",
+  "description": "A rich, garlicky beef stew with a silky texture, finished with red wine and a touch of smoldering paprika—perfect for a quick weeknight dinner.",
+  "cuisine": "Russian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef chuck, cut into 1‑inch cubes",
+      "amount": "1.5 lb (680 g)",
+      "notes": ""
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 large (110 g)",
+      "notes": ""
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "carrots, sliced",
+      "amount": "2 medium (100 g)",
+      "notes": ""
+    },
+    {
+      "name": "potatoes, peeled and diced",
+      "amount": "2 medium (300 g)",
+      "notes": ""
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup (240 ml)",
+      "notes": ""
+    },
+    {
+      "name": "beef broth, low‑sodium",
+      "amount": "2 cups (480 ml)",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste, unsweetened",
+      "amount": "2 tbsp (30 g)",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp (15 ml)",
+      "notes": ""
+    },
+    {
+      "name": "arrowroot powder",
+      "amount": "1 tbsp (15 g)",
+      "notes": "used to make a slurry with 2 tbsp cold water"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp (optional)",
+      "notes": ""
+    },
+    {
+      "name": "black pepper, freshly ground",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "use sea salt"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "2 tbsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat a large pot over medium‑high heat and add 1 tbsp olive oil.",
+    "Add the beef cubes in batches and sear them on all sides until browned, about 4–5 minutes per batch; remove and set aside.",
+    "Reduce heat to medium and sauté the diced onion until translucent, 3–4 minutes.",
+    "Add the minced garlic and cook for 30 seconds until fragrant.",
+    "Return the beef to the pot and add the sliced carrots, diced potatoes, tomato paste, dried thyme, smoked paprika (if using), and bay leaf; stir to coat everything evenly.",
+    "Pour in the cup of red wine, scraping any browned bits from the bottom of the pot; bring to a simmer.",
+    "Add the beef broth, bring back to a gentle simmer, cover, and let cook for 90 minutes or until the beef is fork‑tender.",
+    "Whisk 1 tbsp arrowroot powder with 2 tbsp cold water to create a slurry.",
+    "Stir the slurry into the stew and simmer uncovered for another 5 minutes, allowing the sauce to thicken to a silky consistency.",
+    "Season with salt and freshly ground black pepper to taste, remove the bay leaf, and ladle the stew into bowls. Garnish with chopped parsley before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "whole30",
+    "Russian",
+    "beef",
+    "garlic",
+    "stew",
+    "gluten-free",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 262,
+    "protein": 13,
+    "carbs": 19,
+    "fat": 10
+  },
+  "slug": "garlicky-silky-russian-beef-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-silky-russian-beef-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:05:25Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "silky",
+    "mood": "weeknight",
+    "technique": "cure",
+    "primaryIngredient": "red wine",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef",
+    "descriptor": "Garlicky Silky",
+    "dishForm": "Stew"
+  }
+}
