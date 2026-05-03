@@ -1,0 +1,114 @@
+{
+  "title": "Garlicky Crunchy Argentinian Chicken Tart",
+  "description": "A vibrant, garlicky chicken tart with crispy puff pastry, seasoned with chimichurri-inspired herbs, perfect for a quick hangover cure.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "low-fat puff pastry sheets",
+      "amount": "2 sheets",
+      "notes": "store‑bought, thawed if frozen"
+    },
+    {
+      "name": "boneless skinless chicken breast",
+      "amount": "250 g",
+      "notes": "cut into bite‑size pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "fresh cracked black pepper",
+      "amount": "¼ tsp"
+    },
+    {
+      "name": "egg white",
+      "amount": "1",
+      "notes": "for egg wash"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200 °C (392 °F).",
+    "Season the chicken pieces with salt, pepper, smoked paprika, and half the minced garlic.",
+    "Heat the olive oil in a skillet over medium heat, add the chicken, and sear until golden on all sides, about 5-6 minutes. Remove and set aside.",
+    "In the same skillet, add the remaining garlic and sauté for 30 seconds until fragrant.",
+    "Return the chicken to the skillet, stir in parsley, cilantro, and lemon juice; cook for another 2 minutes, then remove from heat.",
+    "Roll out one puff pastry sheet on a lightly floured surface to fit a 20 cm tart tin; spoon the chicken mixture into the pastry, spreading evenly.",
+    "Trim and fold the edges of the pastry over the filling, sealing with a fork.",
+    "Brush the pastry top with beaten egg white to promote a golden crust.",
+    "Place the second pastry sheet on top, crimping the edges to seal; cut a few slits in the top to allow steam to escape.",
+    "Bake for 15-18 minutes, or until the pastry is puffed and golden brown.",
+    "Let the tart rest for 5 minutes before slicing.",
+    "Serve warm, optionally with a side of arugula salad dressed in a light vinaigrette."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "garlic",
+    "puff-pastry",
+    "hangover-cure",
+    "low-fat",
+    "argentinian",
+    "crunchy",
+    "quick",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 48,
+    "fat": 12
+  },
+  "slug": "garlicky-crunchy-argentinian-chicken-tart",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-crunchy-argentinian-chicken-tart",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:39:00Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crunchy",
+    "mood": "hangover-cure",
+    "technique": "deglaze",
+    "primaryIngredient": "puff pastry",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Garlicky Crunchy",
+    "dishForm": "Tart"
+  }
+}
