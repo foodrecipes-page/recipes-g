@@ -1,0 +1,99 @@
+{
+  "title": "Portuguese Garlicky Grill",
+  "description": "Quick, garlicky, and chewy, this Portuguese-inspired dish is perfect for a weeknight dinner.",
+  "cuisine": "portuguese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Portobello mushrooms",
+      "amount": "4",
+      "notes": "Large and meaty"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Blueberries",
+      "amount": "1 cup",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your grill to medium-high heat.",
+    "In a small bowl, whisk together olive oil, lemon juice, smoked paprika, salt, and black pepper.",
+    "Add the minced garlic to the bowl and mix well.",
+    "Brush the garlic mixture onto both sides of the Portobello mushrooms.",
+    "Place the mushrooms on the grill and cook for 4 minutes per side, or until tender.",
+    "While the mushrooms are cooking, toss the blueberries with a little bit of olive oil and place them on the grill for 2-3 minutes, or until slightly charred.",
+    "Once the mushrooms are done, remove them from the grill and top each one with a few blueberries.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "garlic-lovers",
+    "grilled",
+    "one-pan",
+    "portuguese",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "garlicky-portuguese-garlic-grill",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-portuguese-garlic-grill",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T22:46:44Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "chewy",
+    "mood": "weeknight",
+    "technique": "grill",
+    "primaryIngredient": "blueberries",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Garlic",
+    "descriptor": "Garlicky",
+    "dishForm": "Grill"
+  }
+}
