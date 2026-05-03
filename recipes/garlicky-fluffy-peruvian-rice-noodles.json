@@ -1,0 +1,110 @@
+{
+  "title": "Garlicky Fluffy Peruvian Rice Noodles",
+  "description": "A quick, vegan-friendly Peruvian noodle dish that’s garlicky, fluffy, and perfect for a lazy Sunday lunch or dinner.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flat rice noodles",
+      "amount": "150 g",
+      "notes": "use authentic Peruvian style if available"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "200 ml",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "3 cloves",
+      "notes": "fresh for best flavor"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "extra-virgin"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "adds depth"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "½ teaspoon",
+      "notes": "optional, for warmth"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "½ cup",
+      "notes": "fresh leaves only"
+    },
+    {
+      "name": "scallions, sliced",
+      "amount": "¼ cup",
+      "notes": "green parts"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, heat the olive oil over medium heat.",
+    "Add the minced garlic and sauté until fragrant, about 30 seconds, stirring constantly to avoid burning.",
+    "Pour in the vegetable broth, bring to a gentle simmer, then add the smoked paprika and ground cumin; stir to combine.",
+    "Add the flat rice noodles to the simmering broth, cover, and cook for 3–4 minutes until the noodles are plump and tender. Turn off the heat.",
+    "Drain any excess liquid, if necessary, and stir the cooked noodles into the sauce to coat them evenly.",
+    "Season with salt and pepper to taste, then fold in the chopped cilantro, sliced scallions, and lime juice.",
+    "Transfer the noodles to serving bowls, sprinkle with toasted sesame seeds, and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 3,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "peruvian",
+    "rice-noodles",
+    "garlic",
+    "fluffy",
+    "lazy-sunday",
+    "quick-meal",
+    "plant-based",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 130,
+    "protein": 3,
+    "carbs": 16,
+    "fat": 6
+  },
+  "slug": "garlicky-fluffy-peruvian-rice-noodles",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-fluffy-peruvian-rice-noodles",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:56:19Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "fluffy",
+    "mood": "lazy-sunday",
+    "technique": "dum",
+    "primaryIngredient": "flat rice noodles",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "rice",
+    "descriptor": "Garlicky Fluffy",
+    "dishForm": "Noodles"
+  }
+}

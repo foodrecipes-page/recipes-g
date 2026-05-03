@@ -1031,6 +1031,24 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-fluffy-peruvian-rice-noodles",
+    "title": "Garlicky Fluffy Peruvian Rice Noodles",
+    "tags": [
+      "vegan",
+      "peruvian",
+      "rice-noodles",
+      "garlic",
+      "fluffy",
+      "lazy-sunday",
+      "quick-meal",
+      "plant-based",
+      "easy"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 20,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-fluffy-poached-cherries",
     "title": "Garlicky Fluffy Poached Cherries",
     "tags": [
