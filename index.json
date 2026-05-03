@@ -99,6 +99,23 @@
     "shard": "g"
   },
   {
+    "slug": "garlic-crispy-thai-rice-bowl",
+    "title": "Garlic Crispy Thai Rice Bowl",
+    "tags": [
+      "thai",
+      "rice",
+      "garlic",
+      "crispy",
+      "kosher",
+      "lazy-sunday",
+      "glaze",
+      "turkish-delight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 40,
+    "shard": "g"
+  },
+  {
     "slug": "garlic-crunchy-braise",
     "title": "Garlic Crunchy Braise",
     "tags": [

@@ -1,0 +1,140 @@
+{
+  "title": "Garlic Crispy Thai Rice Bowl",
+  "description": "Quick and aromatic Thai rice bowl packed with garlicky, crispy chicken, a tangy lime‑soy glaze, and a surprising sweet note from Turkish delight.",
+  "cuisine": "Thai",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jasmine rice",
+      "amount": "1 cup",
+      "notes": "200 ml"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "200 g"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Lime",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "Thai red chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1/4 cup (60 ml)"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Turkish delight",
+      "amount": "15 g",
+      "notes": "crushed"
+    },
+    {
+      "name": "Scallions",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Crushed peanuts",
+      "amount": "2 tablespoons",
+      "notes": "optional garnish"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Rinse the jasmine rice under cold water until the water runs clear.",
+    "In a saucepan, combine the rinsed rice and 1 cup of water. Bring to a boil, then reduce heat to low, cover, and simmer for 15 minutes until the water is absorbed.",
+    "While the rice cooks, whisk together soy sauce, fish sauce, lime juice, minced garlic, grated ginger, chili flakes, coconut milk, and crushed Turkish delight in a bowl until the delight dissolves. Set this sauce aside.",
+    "Season the chicken breast pieces with salt and pepper, then coat them in half of the prepared sauce.",
+    "Heat sesame oil in a large skillet over medium-high heat. Add the chicken and cook for 6–8 minutes, turning once, until the chicken is golden and crisp on the outside and cooked through.",
+    "Pour the remaining sauce into the skillet with the chicken. Bring to a gentle simmer and cook for 3 minutes, letting the sauce thicken and coat the chicken evenly.",
+    "Transfer the cooked chicken onto a plate and drizzle some of the reduced sauce over it.",
+    "To assemble the bowl, spread the cooked jasmine rice in the bottom of a serving bowl.",
+    "Top the rice with the crispy chicken, then drizzle remaining sauce over the top.",
+    "Sprinkle sliced scallions, chopped cilantro, sesame seeds, and crushed peanuts over the bowl for added crunch and flavor.",
+    "Serve immediately while the chicken remains hot and crisp.",
+    "Enjoy a flavorful, garlicky, crispy Thai rice bowl with a sweet twist that’s both kosher and lazy‑Sunday ready."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "rice",
+    "garlic",
+    "crispy",
+    "kosher",
+    "lazy-sunday",
+    "glaze",
+    "turkish-delight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "garlic-crispy-thai-rice-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlic-crispy-thai-rice-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:33:11Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crisp",
+    "mood": "lazy-sunday",
+    "technique": "deglaze",
+    "primaryIngredient": "turkish delight",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Rice",
+    "descriptor": "Garlic Crispy",
+    "dishForm": "Bowl"
+  }
+}
