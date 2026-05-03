@@ -1,0 +1,105 @@
+{
+  "title": "Garlicky Creamy Middle Eastern Grape Leaves Casserole",
+  "description": "A comforting, garlicky casserole packed with tender grape leaves, creamy yogurt, and fragrant herbs—perfect for a quick weeknight dinner.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "canned grape leaves in brine, drained and sliced",
+      "amount": "200 g"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "240 g"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "60 ml"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh dill, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper, freshly ground",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "red pepper flakes (optional)",
+      "amount": "1/4 tsp",
+      "notes": "use to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Heat olive oil in a small skillet over medium heat and sauté minced garlic until fragrant, about 30 seconds.",
+    "In a bowl, whisk together Greek yogurt, heavy cream, lemon juice, sautéed garlic, dill, parsley, salt, and pepper until smooth.",
+    "Fold in the sliced grape leaves, reserving a few leaves for topping if desired.",
+    "Transfer the mixture to a greased 8‑inch square baking dish and smooth the surface.",
+    "Sprinkle the reserved grape leaves on top and, if using, a few red pepper flakes.",
+    "Bake for 25 minutes, or until the top is golden and the casserole is set.",
+    "Let rest for 5 minutes before serving. Enjoy with warm flatbread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "jain-friendly",
+    "garlicky",
+    "creamy",
+    "middle-eastern",
+    "casserole",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 12,
+    "fat": 24
+  },
+  "slug": "garlicky-creamy-middle-eastern-grape-leaves-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-creamy-middle-eastern-grape-leaves-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:02:44Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "creamy",
+    "mood": "weeknight",
+    "technique": "temper",
+    "primaryIngredient": "grape leaves",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Grape Leaves",
+    "descriptor": "Garlicky Creamy",
+    "dishForm": "Casserole"
+  }
+}
