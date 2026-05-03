@@ -1,0 +1,126 @@
+{
+  "title": "Garlicky Crispy Argentinian Sausages Stew",
+  "description": "A hearty one‑pot stew featuring halal beef sausages, roasted tomatoes, and a garlicky broth, finished with a crisp sear for a satisfying crunch.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Halal beef sausages",
+      "amount": "6 pieces",
+      "notes": "sliced into 1.5 cm thick pieces"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Yellow onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "Diced tomatoes, canned",
+      "amount": "1 can (400 g)"
+    },
+    {
+      "name": "Beef broth, low sodium",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "½ teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Turn on the sauté function of the pressure cooker and add the olive oil.",
+    "Add the sliced sausages and brown them on all sides, then remove and set aside.",
+    "In the same pot, add the diced onion and sauté until translucent, about 3 minutes.",
+    "Add the minced garlic and diced red bell pepper, cooking for an additional minute until fragrant.",
+    "Stir in the cubed potatoes, canned tomatoes, beef broth, smoked paprika, dried oregano, chili flakes, salt, and pepper.",
+    "Add the browned sausage pieces back into the pot and give everything a good stir.",
+    "Seal the pressure cooker lid and cook on high pressure for 6 minutes.",
+    "Quick‑release the pressure, then open the lid and switch to sauté mode, simmering for 5 minutes to thicken the stew slightly.",
+    "While the stew is simmering, heat a small skillet over medium heat and sear the sausages until they are crisp and golden on the outside, about 2–3 minutes per side.",
+    "Return the crispy sausages to the stew, stir to combine, and let heat through for 2 minutes.",
+    "Serve hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlicky",
+    "crispy",
+    "one-pot",
+    "halal-friendly",
+    "pressure-cooker",
+    "argentinian",
+    "sausage",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 30,
+    "carbs": 35,
+    "fat": 28
+  },
+  "slug": "garlicky-crispy-argentinian-sausages-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-crispy-argentinian-sausages-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:31:02Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crispy",
+    "mood": "one-pot",
+    "technique": "pressure-cook",
+    "primaryIngredient": "sausages",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "sausages",
+    "descriptor": "Garlicky Crispy",
+    "dishForm": "Stew"
+  }
+}
