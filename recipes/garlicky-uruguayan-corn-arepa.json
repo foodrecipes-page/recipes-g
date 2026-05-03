@@ -1,0 +1,70 @@
+{
+  "title": "Garlicky Uruguayan Corn Arepa",
+  "description": "A fluffy, festive Uruguayan corn arepa filled with mozzarella cheese and fermented corn, perfect for keto diets.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "keto",
+    "fermented"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cornmeal",
+      "amount": "1 cup",
+      "notes": "fine cornmeal"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1/2 cup",
+      "notes": "fresh mozzarella, shredded"
+    },
+    {
+      "name": "fermented corn",
+      "amount": "1/2 cup",
+      ": ": "notes"
+    }
+  ],
+  "instructions": [
+    "In a dry skillet, heat 1 cup cornmeal over medium heat until lightly golden.",
+    "Add 1/2 cup shredded mozzarella and 1/2 cup fermented corn, stirring gently until combined.",
+    "Let the mixture rest for 2 minutes to allow flavors to meld.",
+    "Form into small, fluffy balls and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "uruguayan",
+    "corn",
+    "arepa",
+    "keto",
+    "fermented",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "garlicky-uruguayan-corn-arepa",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-uruguayan-corn-arepa",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T06:32:14Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "fluffy",
+    "mood": "festive",
+    "technique": "ferment",
+    "primaryIngredient": "corn arepa filled with mozarella cheese",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "corn",
+    "descriptor": "garlicky",
+    "dishForm": "arepa"
+  }
+}
