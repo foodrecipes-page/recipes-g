@@ -1,0 +1,122 @@
+{
+  "title": "Garlicky Crunchy Zhejiang Split Peas Stew",
+  "description": "A comforting, garlicky stew with split peas and a crunchy sesame topping, inspired by Zhejiang cuisine and perfect for a dairy‑free slow cooker feast.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegan",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yellow split peas",
+      "amount": "1 cup (dry)",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "Water",
+      "amount": "3 cups",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Celery stalk",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 teaspoon",
+      "notes": "minced"
+    },
+    {
+      "name": "Low-sodium soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Rice wine (Shaoxing or dry sherry)",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "toasted, for garnish"
+    }
+  ],
+  "instructions": [
+    "Rinse the split peas under cold water until the water runs clear, then set aside.",
+    "In a wok or large skillet, heat the sesame oil over medium heat and sauté the minced garlic and ginger until fragrant, about 1 minute.",
+    "Add the diced onion, carrot, and celery to the wok, stir‑frying for 3–4 minutes until the vegetables soften.",
+    "Transfer the aromatics to a slow cooker, then add the rinsed split peas, water, vegetable broth, soy sauce, and rice wine.",
+    "Set the slow cooker to low and cook for 8–9 hours, or to high for 4–5 hours, until the peas are tender and the stew has thickened.",
+    "About 30 minutes before serving, stir the stew and taste; season with salt if needed.",
+    "In a small bowl, toast the sesame seeds over medium heat until golden, about 2 minutes, stirring frequently to prevent burning.",
+    "Serve the hot stew in bowls, sprinkling the toasted sesame seeds on top for crunch.",
+    "Optional: garnish with chopped fresh cilantro for added aroma.",
+    "Enjoy your garlicky, crunchy, dairy‑free Zhejiang split pea stew!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 480,
+  "totalTimeMin": 495,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "garlicky",
+    "crunchy",
+    "zhejiang",
+    "split-peas",
+    "dairy-free",
+    "slow-cooker",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 9,
+    "carbs": 30,
+    "fat": 19
+  },
+  "slug": "garlicky-crunchy-zhejiang-split-peas-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-crunchy-zhejiang-split-peas-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:43:38Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crunchy",
+    "mood": "romantic",
+    "technique": "slow-cook",
+    "primaryIngredient": "yellow split peas",
+    "diet": "dairy-free",
+    "region": "zhejiang",
+    "cuisineAdjective": "Zhejiang",
+    "mainIngredient": "Split Peas",
+    "descriptor": "Garlicky Crunchy",
+    "dishForm": "Stew"
+  }
+}
