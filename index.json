@@ -1821,6 +1821,19 @@
     "shard": "g"
   },
   {
+    "slug": "gooey-goulash-solo",
+    "title": "Gooey Goulash Solo",
+    "tags": [
+      "slovakian",
+      "goulash",
+      "low-fat",
+      "single-serving"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 22,
+    "shard": "g"
+  },
+  {
     "slug": "gooey-herbal-truffle-polish-dish",
     "title": "Gooey Herbal Truffle Polish Dish",
     "tags": [

@@ -1,0 +1,93 @@
+{
+  "title": "Gooey Goulash Solo",
+  "description": "A Slovakian-inspired solo dinner featuring a gooey combination of ground oats, cure, and other savory ingredients. This recipe is low in fat and suitable for a solo evening meal.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Oats",
+      "amount": "250g"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "Onion Powder",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "Paprika Cure (Smoked)",
+      "amount": "25g"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "0.25 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "0.25 tsp"
+    },
+    {
+      "name": "Low-Fat Beef Broth",
+      "amount": "100ml"
+    },
+    {
+      "name": "Butter",
+      "amount": "25g"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a medium saucepan over medium heat.",
+    "Add the smoked paprika, garlic powder, and onion powder. Cook for 1 minute.",
+    "Add the ground oats and cook for 2-3 minutes, stirring frequently.",
+    "Add the Paprika Cure (Smoked) and cook for a further minute, stirring constantly.",
+    "Add the low-fat beef broth and bring to a simmer.",
+    "Reduce heat to low and cook for 10-12 minutes, stirring occasionally.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "goulash",
+    "low-fat",
+    "single-serving"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": "15g",
+    "carbs": "40g",
+    "fat": "15g"
+  },
+  "slug": "gooey-goulash-solo",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-goulash-solo",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:30:01Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "gooey",
+    "mood": "solo-dinner",
+    "technique": "cure",
+    "primaryIngredient": "ground oats",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Ground Oats",
+    "descriptor": "Salty",
+    "dishForm": "Bowl"
+  }
+}
