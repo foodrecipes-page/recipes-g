@@ -1,0 +1,107 @@
+{
+  "title": "Garlicky Smoky Polish Beans Galette",
+  "description": "A keto-friendly, comforting Polish dish featuring Long Beans in a creamy, smoky sauce.",
+  "cuisine": "Polish",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Long beans",
+      "amount": "12 oz",
+      "notes": "any color, but green is traditional"
+    },
+    {
+      "name": "Smoked bacon",
+      "amount": "6 slices",
+      "notes": "look for thinly sliced, or chop thicker slices"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "thinly slice"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tbsp",
+      "notes": "for thickening"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": "or substitute with full-fat coconut milk for a dairy-free option"
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded, or use a vegan alternative"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C). Line a baking sheet with parchment paper.",
+    "Cut the long beans into 1-inch pieces and place them on the prepared baking sheet. Roast in the preheated oven for 15 minutes, or until tender and lightly browned.",
+    "In a large skillet, cook the smoked bacon over medium heat until crispy. Remove from heat and set aside.",
+    "In the same skillet, cook the sliced onion over medium heat until translucent, about 5 minutes.",
+    "Add the minced garlic to the skillet and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the flour to the skillet and cook for 1 minute, stirring constantly.",
+    "Gradually pour in the heavy cream, whisking continuously to prevent lumps. Bring the mixture to a simmer and cook until thickened, about 5 minutes.",
+    "Stir in the shredded cheddar cheese until melted and smooth. Season with salt and black pepper to taste.",
+    "To assemble the galette, arrange the roasted long beans on a large plate or skillet. Spoon the creamy sauce over the top.",
+    "Top the galette with crispy bacon and chopped onion."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "creamy",
+    "high-protein",
+    "keto-friendly",
+    "one-pan",
+    "smoky",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 10,
+    "fat": 46
+  },
+  "slug": "garlicky-smoky-polish-beans-galette",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-smoky-polish-beans-galette",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:33:25Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "creamy",
+    "mood": "cozy",
+    "technique": "smoke-cold",
+    "primaryIngredient": "chinese long beans",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "beans",
+    "descriptor": "Garlicky Smoky",
+    "dishForm": "Galette"
+  }
+}
