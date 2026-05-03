@@ -1,0 +1,114 @@
+{
+  "title": "Garlicky Dense Norteño Corned Beef Bake",
+  "description": "A hearty, garlicky Mexican-style bake featuring tender corned beef, smoky chipotle, and a crispy, cheese-free topping.",
+  "cuisine": "Mexican",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Corned beef",
+      "amount": "2 lbs (850 g)",
+      "notes": "sliced into 1/2-inch strips"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "8",
+      "notes": "minced"
+    },
+    {
+      "name": "Chipotle in adobo",
+      "amount": "2 tbsp",
+      "notes": "minced or chopped"
+    },
+    {
+      "name": "Tomato sauce",
+      "amount": "1 cup (240 ml)"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "1 cup (240 ml)"
+    },
+    {
+      "name": "Poblano sauce",
+      "amount": "1/2 cup (120 ml)"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a large skillet, heat olive oil over medium heat. Add diced onion and sauté until translucent, about 5 minutes.",
+    "Add minced garlic and cook for 1 minute until fragrant.",
+    "Stir in corned beef strips, cooking until the edges are lightly browned, about 3-4 minutes.",
+    "Pour in chipotle, tomato sauce, beef broth, and poblano sauce; stir to combine. Bring to a simmer.",
+    "Reduce heat and let the mixture cook for 10 minutes to meld flavors.",
+    "Season with chili powder, cumin, salt, and pepper. Taste and adjust seasoning if needed.",
+    "Transfer the mixture to a greased 9x13-inch baking dish, spreading it evenly.",
+    "Cover with foil and bake for 60 minutes. Remove the foil, increase oven temperature to 375°F (190°C), and bake for an additional 20 minutes until the top is lightly browned and the sauce has thickened.",
+    "Let the bake rest for 5 minutes before serving. Garnish with fresh cilantro and serve with lime wedges if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "norteño",
+    "corned-beef",
+    "dense",
+    "egg-free",
+    "bake",
+    "garlicky",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 470,
+    "protein": 29,
+    "carbs": 6,
+    "fat": 20
+  },
+  "slug": "garlicky-dense-norteno-corned-beef-bake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-dense-norteno-corned-beef-bake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:06:59Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "dense",
+    "mood": "indulgent",
+    "technique": "bake",
+    "primaryIngredient": "corned beef",
+    "diet": "egg-free",
+    "region": "norteño",
+    "cuisineAdjective": "Norteno",
+    "mainIngredient": "corned beef",
+    "descriptor": "Garlicky Dense",
+    "dishForm": "Bake"
+  }
+}

@@ -856,6 +856,23 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-dense-norteno-corned-beef-bake",
+    "title": "Garlicky Dense Norteño Corned Beef Bake",
+    "tags": [
+      "mexican",
+      "norteño",
+      "corned-beef",
+      "dense",
+      "egg-free",
+      "bake",
+      "garlicky",
+      "hearty"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 110,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-dense-nostalgic-algerian-beef-tomato-stew",
     "title": "Garlicky Dense Nostalgic Algerian Beef Tomato Stew",
     "tags": [
@@ -1202,6 +1219,21 @@
       "healthy"
     ],
     "cuisine": "Canadian",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-light-mexican-chicken-tacos",
+    "title": "Garlicky, Light Mexican Chicken Tacos",
+    "tags": [
+      "mexican",
+      "garlic",
+      "almonds",
+      "high-protein",
+      "tacos",
+      "dinner"
+    ],
+    "cuisine": "Mexican",
     "totalTimeMin": 35,
     "shard": "g"
   },

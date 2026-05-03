@@ -1,0 +1,119 @@
+{
+  "title": "Garlicky, Light Mexican Chicken Tacos",
+  "description": "A flavorful, high-protein-friendly Mexican dish featuring almonds, deglazed with citrus and herbs, served in a light and crispy taco shell.",
+  "cuisine": "Mexican",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breasts",
+      "amount": "1.5 pounds",
+      "notes": "Cut into small pieces"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Fresh lime juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Almonds",
+      "amount": "1/4 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Taco shells",
+      "amount": "6-8 shells",
+      "notes": null
+    },
+    {
+      "name": "Shredded cheese",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Chopped radishes",
+      "amount": "1/2 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned on all sides and cooked through, about 5-7 minutes.",
+    "Transfer the chicken to a plate and cover with foil to keep warm.",
+    "Add the sliced almonds to the skillet and cook for 2-3 minutes, or until lightly toasted.",
+    "Add the minced garlic to the skillet and cook for 1 minute, or until fragrant.",
+    "Deglaze the skillet with the fresh lime juice, scraping up any browned bits from the bottom.",
+    "Add the chopped cilantro to the skillet and stir to combine.",
+    "Season the chicken with salt and black pepper to taste.",
+    "Warm the taco shells according to package instructions.",
+    "Assemble the tacos by placing a portion of the chicken onto a warmed shell, followed by a spoonful of the almond-cilantro mixture, a sprinkle of shredded cheese, a dollop of sour cream, and a sprinkle of chopped radishes.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "garlic",
+    "almonds",
+    "high-protein",
+    "tacos",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 22
+  },
+  "slug": "garlicky-light-mexican-chicken-tacos",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-light-mexican-chicken-tacos",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T18:06:44Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "light",
+    "mood": "comforting",
+    "technique": "deglaze",
+    "primaryIngredient": "almonds",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chicken",
+    "descriptor": "garlicky, light",
+    "dishForm": "Tacos"
+  }
+}
