@@ -1,0 +1,110 @@
+{
+  "title": "Garlicky, Crunchy Canadian Black Pudding Skewers",
+  "description": "A halal-friendly, energizing Canadian dish featuring crispy black pudding, fresh vegetables, and a hint of garlic. Perfect for a quick breakfast or snack.",
+  "cuisine": "Canadian",
+  "diet": [
+    "halal",
+    "vegan-friendly (without the honey)"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Black Pudding",
+      "amount": "250g",
+      "notes": "Halal-certified"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 large",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 large",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "2 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "Button or cremini"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing skewers"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor to 400°F (200°C).",
+    "Soak 12 bamboo skewers in water for at least 30 minutes.",
+    "Thread 1-2 pieces of each vegetable and black pudding onto each skewer.",
+    "In a small bowl, mix together minced garlic and olive oil.",
+    "Brush the garlic oil onto the skewers, then season with salt and black pepper.",
+    "Place the skewers in the preheated tandoor and cook for 8-10 minutes, or until the black pudding is crispy and golden brown.",
+    "Brush the skewers with honey (if using) and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "black-pudding",
+    "skewers",
+    "garlic",
+    "crunchy",
+    "vegan-friendly",
+    "halal",
+    "tandoor"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "garlicky-crunchy-canadian-black-pudding-skewers",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-crunchy-canadian-black-pudding-skewers",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:56:31Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crunchy",
+    "mood": "energizing",
+    "technique": "tandoor",
+    "primaryIngredient": "black pudding",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "black pudding",
+    "descriptor": "garlicky, crunchy",
+    "dishForm": "Skewers"
+  }
+}
