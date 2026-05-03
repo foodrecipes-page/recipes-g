@@ -454,6 +454,20 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-creamy-mexican-chicken-enchilada-casserole",
+    "title": "Garlicky Creamy Mexican Chicken Enchilada Casserole",
+    "tags": [
+      "mexican",
+      "casserole",
+      "comfort",
+      "spicy",
+      "chicken"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 55,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-creamy-poached-turkey-stir-fry",
     "title": "Garlicky Creamy Poached Turkey Stir-fry",
     "tags": [
@@ -1021,6 +1035,22 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-smoky-argentinian-chicken-empanadas",
+    "title": "Garlicky Smoky Argentinian Chicken Empanadas",
+    "tags": [
+      "argentinian",
+      "chicken",
+      "empanadas",
+      "garlic",
+      "smoky",
+      "pecan-free",
+      "gluten-free"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {

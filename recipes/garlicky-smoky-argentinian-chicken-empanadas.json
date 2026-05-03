@@ -1,0 +1,107 @@
+{
+  "title": "Garlicky Smoky Argentinian Chicken Empanadas",
+  "description": "A delightful fusion of smoky, garlicky flavors and crunchy pecans in a classic Argentinian empanada.",
+  "cuisine": "argentinian",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken Breast",
+      "amount": "1 pound, boneless, skinless"
+    },
+    {
+      "name": "Pecan Oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Onion Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Puff Pastry, frozen",
+      "amount": "1 package (thawed)"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1 egg"
+    },
+    {
+      "name": "Cheddar Cheese, shredded",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out puff pastry and cut into circles or use cookie cutter to create shapes.",
+    "In a pan, heat pecan oil over medium heat. Add smoked paprika, garlic powder, onion powder, salt, and black pepper. Cook for 1 minute.",
+    "Add chicken breast to the pan and cook until browned, breaking into small pieces as it cooks.",
+    "In a separate pan, heat beef broth over medium heat. Add beaten egg and stir constantly until egg is cooked through.",
+    "Add cooked chicken mixture to the egg mixture and stir to combine. Set aside.",
+    "Place a spoonful of the chicken mixture onto one half of each pastry circle. Sprinkle with shredded cheese.",
+    "Fold the other half of the pastry circle over the filling to form a half-moon shape. Press edges to seal.",
+    "Brush tops with a little water and use a fork to crimp edges.",
+    "Place empanadas on a baking sheet lined with parchment paper and bake for 20 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "chicken",
+    "empanadas",
+    "garlic",
+    "smoky",
+    "pecan-free",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 25,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "garlicky-smoky-argentinian-chicken-empanadas",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-smoky-argentinian-chicken-empanadas",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:17:45Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "smoke",
+    "primaryIngredient": "pecan nuts",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Garlicky Smoky",
+    "dishForm": "Empanadas"
+  }
+}

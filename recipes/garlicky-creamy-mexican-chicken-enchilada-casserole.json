@@ -1,0 +1,122 @@
+{
+  "title": "Garlicky Creamy Mexican Chicken Enchilada Casserole",
+  "description": "A comforting, creamy, and spicy Mexican casserole dish made with tender chicken, melted cheese, and crunchy parma ham.",
+  "cuisine": "Mexican",
+  "diet": [
+    "dairy",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "6",
+      "notes": "Minced"
+    },
+    {
+      "name": "Cream cheese",
+      "amount": "8 ounces",
+      "notes": "Softened"
+    },
+    {
+      "name": "Mexican crema",
+      "amount": "1 cup",
+      "notes": "Regular or light"
+    },
+    {
+      "name": "Shredded Monterey Jack cheese",
+      "amount": "1 cup",
+      "notes": "Divided"
+    },
+    {
+      "name": "Diced parma ham",
+      "amount": "1 cup",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Canned diced tomatoes with green chilies",
+      "amount": "1 can (14.5 ounces)",
+      "notes": "Drained"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1/2 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Tortillas (corn or flour)",
+      "amount": "6-8",
+      "notes": "6-inch diameter"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook chicken in a large skillet over medium-high heat until browned and cooked through, about 5-7 minutes.",
+    "Add garlic to skillet and cook for 1 minute, until fragrant.",
+    "Stir in cumin, chili powder, salt, and pepper. Cook for 1 minute.",
+    "In a large bowl, combine cooked chicken mixture, diced tomatoes, and parma ham.",
+    "In a separate bowl, mix softened cream cheese and Mexican crema until smooth. Set aside.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Spread a thin layer of cream cheese mixture onto the bottom of a 9x13-inch baking dish.",
+    "Arrange 4 tortillas on the bottom of the dish, overlapping them slightly.",
+    "Spread half of the chicken mixture over the tortillas, followed by half of the cheese and half of the remaining tortillas.",
+    "Repeat the layers, starting with the remaining tortillas, then the remaining chicken mixture and finally the remaining cheese.",
+    "Top with shredded cheese and bake in the preheated oven for 25-30 minutes, until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "casserole",
+    "comfort",
+    "spicy",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 34,
+    "carbs": 25,
+    "fat": 22
+  },
+  "slug": "garlicky-creamy-mexican-chicken-enchilada-casserole",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-creamy-mexican-chicken-enchilada-casserole",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:18:07Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "creamy",
+    "mood": "comforting",
+    "technique": "reduce",
+    "primaryIngredient": "parma ham",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Chicken",
+    "descriptor": "Garlicky Creamy",
+    "dishForm": "Enchilada Casserole"
+  }
+}
