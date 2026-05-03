@@ -1,0 +1,104 @@
+{
+  "title": "Garlicky Crisp Saudi Arabian Oxtail Stew",
+  "description": "A rich and indulgent Saudi Arabian stew featuring tender oxtail, crispy garlic, and a blend of aromatic spices, all made without dairy products. This hearty dish is perfect for a special occasion or a cold winter's night.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oxtail",
+      "amount": "2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "In a large Dutch oven, heat the olive oil over medium-high heat. Add the sliced garlic and cook, stirring occasionally, until crispy and golden brown, about 5-7 minutes. Remove the garlic from the pot and set aside.",
+    "Add the chopped onion to the pot and cook, stirring occasionally, until softened and lightly browned, about 8-10 minutes.",
+    "Add the oxtail pieces to the pot and cook, stirring occasionally, until browned on all sides, about 5-7 minutes.",
+    "Add the tomato paste, ground cumin, ground coriander, cayenne pepper, salt, and black pepper to the pot. Cook, stirring constantly, for 1-2 minutes.",
+    "Add the vegetable broth to the pot and bring to a boil. Cover the pot with a lid and transfer to the preheated oven.",
+    "Braise the stew, covered, for 2 1/2 to 3 hours, or until the oxtail is tender and falling off the bone.",
+    "Remove the pot from the oven and stir in the crispy garlic. Serve the stew hot, garnished with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "middle-eastern",
+    "stew",
+    "oxtail",
+    "garlic",
+    "dairy-free"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 36
+  },
+  "slug": "garlicky-crisp-saudi-arabian-oxtail-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-crisp-saudi-arabian-oxtail-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T21:01:38Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crisp",
+    "mood": "indulgent",
+    "technique": "blanch",
+    "primaryIngredient": "oxtail",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "oxtail",
+    "descriptor": "garlicky crisp",
+    "dishForm": "Stew"
+  }
+}
