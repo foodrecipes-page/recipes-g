@@ -1,0 +1,104 @@
+{
+  "title": "Garlicky Crumbly Mexican Sausage Tacos",
+  "description": "A quick-fix Oaxacan dish featuring Italian fennel sausages, caramelize onions, and a keto-friendly twist. Perfect for a flavorful and satisfying meal.",
+  "cuisine": "Mexican",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Italian fennel sausages",
+      "amount": "4",
+      "notes": "casings removed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Mexican crema",
+      "amount": "1/2 cup",
+      "notes": "or sour cream"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Queso fresco",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10",
+      "notes": "low-carb or keto-friendly"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add the sliced onions and cook, stirring occasionally, until caramelized and golden brown (about 8-10 minutes).",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the Italian fennel sausages to the skillet, breaking them up with a spoon as they cook, until no longer pink (about 5-7 minutes).",
+    "Stir in the Mexican crema, lime juice, salt, and pepper. Cook for an additional 2 minutes.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the sausage and onion mixture onto a tortilla, topping with crumbled Queso fresco, and garnishing with chopped cilantro.",
+    "Serve immediately and enjoy.",
+    "Optional: add diced avocado, sliced radishes, or diced tomatoes for extra flavor and texture."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican-food",
+    "keto-recipes",
+    "sausage-tacos",
+    "low-carb-meals"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "garlicky-crumbly-mexican-sausage-tacos",
+  "source": "groq-llama-3.3-70b-versatile",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-crumbly-mexican-sausage-tacos",
+  "providerUsed": "groq-llama-3.3-70b-versatile",
+  "createdAt": "2026-05-03T16:27:23Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crumbly",
+    "mood": "quick-fix",
+    "technique": "caramelize",
+    "primaryIngredient": "italian fennel sausages",
+    "diet": "keto",
+    "region": "oaxacan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "sausages",
+    "descriptor": "Garlicky Crumbly",
+    "dishForm": "Tacos"
+  }
+}
