@@ -1,0 +1,111 @@
+{
+  "title": "Gooey Umami Korean Chicken Bowl",
+  "description": "A richly flavored, paleo-friendly Korean dish featuring dark soy sauce, cocoa powder, and a gooey sauce made with gochujang and honey. Perfect for a monsoon evening.",
+  "cuisine": "Korean",
+  "diet": [
+    "paleo",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken thighs",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "dark soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for marinating"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons",
+      "notes": "for sauce"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": "for sauce"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": "for sauce"
+    },
+    {
+      "name": "Gochugaru (Korean chili flakes)",
+      "amount": "1 teaspoon",
+      "notes": "for sauce"
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "1 teaspoon",
+      "notes": "for sauce"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "for cooking"
+    },
+    {
+      "name": "green onions",
+      "amount": "1 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together soy sauce, gochujang, honey, rice vinegar, Gochugaru, and cocoa powder. Add the chicken and marinate for at least 30 minutes.",
+    "Preheat the oven to 400°F (200°C). Remove the chicken from the marinade and bake for 20-25 minutes, or until cooked through.",
+    "While the chicken is cooking, combine the gochujang sauce, honey, and rice vinegar in a small saucepan. Whisk over medium heat until the sauce is smooth and hot.",
+    "To assemble the bowls, place a portion of cooked chicken on each plate. Spoon the gochujang sauce over the top, followed by a sprinkle of toasted sesame seeds and green onions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean-cuisine",
+    "umami",
+    "paleo",
+    "gluten-free",
+    "dairy-free",
+    "gochujang",
+    "cocoa-powder",
+    "sesame-oil",
+    "green-onions",
+    "toasted-sesame-seeds"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "gooey-umami-korean-chicken-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-umami-korean-chicken-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:44:54Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "gooey",
+    "mood": "monsoon",
+    "technique": "whisk",
+    "primaryIngredient": "cocoa powder",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "chicken",
+    "descriptor": "gooey umami",
+    "dishForm": "Bowl"
+  }
+}

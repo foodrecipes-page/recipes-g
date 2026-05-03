@@ -2442,6 +2442,25 @@
     "shard": "g"
   },
   {
+    "slug": "gooey-umami-korean-chicken-bowl",
+    "title": "Gooey Umami Korean Chicken Bowl",
+    "tags": [
+      "korean-cuisine",
+      "umami",
+      "paleo",
+      "gluten-free",
+      "dairy-free",
+      "gochujang",
+      "cocoa-powder",
+      "sesame-oil",
+      "green-onions",
+      "toasted-sesame-seeds"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 40,
+    "shard": "g"
+  },
+  {
     "slug": "gooey-uruguayan-aubergine-stir-fry",
     "title": "Gooey Uruguayan Aubergine Stir-fry",
     "tags": [
