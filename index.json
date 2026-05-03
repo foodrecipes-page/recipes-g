@@ -442,6 +442,23 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-chewy-turkish-garlic-pilaf",
+    "title": "Garlicky Chewy Turkish Garlic Pilaf",
+    "tags": [
+      "tasty",
+      "aromatic",
+      "flavorful",
+      "festive",
+      "vegan-friendly",
+      "gluten-free",
+      "turkish",
+      "pilaf"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 30,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-creamy-filipino-garlic-stir-fry",
     "title": "Garlicky Creamy Filipino Garlic Stir-fry",
     "tags": [

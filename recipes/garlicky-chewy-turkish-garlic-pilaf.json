@@ -1,0 +1,111 @@
+{
+  "title": "Garlicky Chewy Turkish Garlic Pilaf",
+  "description": "A flavorful and chewy Turkish dish featuring the sweetness of peach juice, perfect for festive occasions. This recipe is vegan-friendly and packed with the essence of garlic and aromatic spices.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Basmati rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "Peach juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped, for garnish"
+    },
+    {
+      "name": "Pomegranate molasses",
+      "amount": "2 tablespoons (optional)"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 teaspoon (optional)"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 teaspoon (optional)"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped, for garnish"
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a medium saucepan over medium heat.",
+    "Add the minced garlic and sauté for 2-3 minutes, or until fragrant.",
+    "Add the basmati rice and stir to coat the rice in oil and mix with garlic.",
+    "Pour in the peach juice and bring to a simmer.",
+    "Reduce heat to low, cover, and cook for 15-20 minutes or until the rice is tender and the liquid has been absorbed.",
+    "Fluff the rice with a fork and season with salt, black pepper, and turmeric (if using).",
+    "Transfer the rice to a serving platter and sprinkle with chopped parsley and cilantro.",
+    "Drizzle with pomegranate molasses (if using) and red pepper flakes (if using).",
+    "Serve hot, garnished with lemon wedges and additional parsley and cilantro (if desired).",
+    "Garnish with fresh cilantro and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tasty",
+    "aromatic",
+    "flavorful",
+    "festive",
+    "vegan-friendly",
+    "gluten-free",
+    "turkish",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 6
+  },
+  "slug": "garlicky-chewy-turkish-garlic-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-chewy-turkish-garlic-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:51:26Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "chewy",
+    "mood": "festive",
+    "technique": "saute",
+    "primaryIngredient": "peach juice",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "garlic",
+    "descriptor": "garlicky chewy",
+    "dishForm": "Pilaf"
+  }
+}
