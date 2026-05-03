@@ -1,0 +1,87 @@
+{
+  "title": "Gooey Greek Sea Bass Stir-fry",
+  "description": "A fermented and gooey mediterranean dish featuring sea bass with a touch of Mediterranean flair.",
+  "cuisine": "Greek",
+  "diet": [
+    "keto-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sea bass fillets",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "onion, finely chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "thyme leaves",
+      "amount": "handful"
+    },
+    {
+      "name": "vinegar (any type)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F.",
+    "Season the sea bass with salt and black pepper on both sides. Spread olive oil over the fish, then place it in a baking dish.",
+    "In a small bowl, mix vinegar, thyme leaves, salt, and pepper. Brush this mixture evenly over the top of each fish fillet.",
+    "Bake for 15 minutes or until fish is cooked through (internal temperature should be at least 145°F).",
+    "While the sea bass bakes, sauté chopped onion in a pan with olive oil over medium heat until softened and translucent. Add minced garlic, cook for another minute.",
+    "Stir-fry the sea bass gently with the onions and garlic for an additional 2-3 minutes to meld flavors together, ensuring not to overcrowd the pan.",
+    "Remove from heat immediately upon completion of stir-frying to prevent burning."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "stir-fry",
+    "fermented",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "gooey-greek-sea-bass-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-greek-sea-bass-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T18:32:52Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "gooey",
+    "mood": "monsoon",
+    "technique": "knead",
+    "primaryIngredient": "sea bass",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "sea bass",
+    "descriptor": "Gooey",
+    "dishForm": "Stir-fry"
+  }
+}

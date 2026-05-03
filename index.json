@@ -670,6 +670,19 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-crumbly-irish-potato-casserole",
+    "title": "Garlicky Crumbly Irish Potato Casserole",
+    "tags": [
+      "irish-food",
+      "comfort-food",
+      "low-calorie",
+      "vegetarian"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 65,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-crumbly-kenyan-cheddar-salad",
     "title": "Garlicky Crumbly Kenyan Cheddar Salad",
     "tags": [
@@ -2162,6 +2175,19 @@
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 22,
+    "shard": "g"
+  },
+  {
+    "slug": "gooey-greek-sea-bass-stir-fry",
+    "title": "Gooey Greek Sea Bass Stir-fry",
+    "tags": [
+      "greek",
+      "stir-fry",
+      "fermented",
+      "keto-friendly"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {

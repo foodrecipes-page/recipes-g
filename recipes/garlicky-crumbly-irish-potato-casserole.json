@@ -1,0 +1,103 @@
+{
+  "title": "Garlicky Crumbly Irish Potato Casserole",
+  "description": "A comforting, garlicky Irish dish perfect for a sick day, featuring mixed spice and bhuna for added flavor. This low-calorie-friendly casserole is a delicious and satisfying meal.",
+  "cuisine": "Irish",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mixed spice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "bhuna spice blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "low-fat cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "whole wheat breadcrumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine sliced potatoes and minced garlic.",
+    "In a small bowl, mix together mixed spice and bhuna spice blend.",
+    "Add the spice blend to the potatoes and toss to coat.",
+    "In a large skillet, heat olive oil over medium heat. Add chopped onion and cook until softened, about 5 minutes.",
+    "In a greased 9x13 inch baking dish, create a layer of potatoes. Top with a layer of cooked onion and a sprinkle of shredded cheese.",
+    "Repeat the layers two more times, ending with a layer of cheese on top.",
+    "Sprinkle whole wheat breadcrumbs over the top layer of cheese.",
+    "Season with salt and black pepper to taste.",
+    "Bake for 45-50 minutes, or until the top is golden brown and the potatoes are tender."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "irish-food",
+    "comfort-food",
+    "low-calorie",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "garlicky-crumbly-irish-potato-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-crumbly-irish-potato-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T18:32:36Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crumbly",
+    "mood": "sick-day",
+    "technique": "bhuna",
+    "primaryIngredient": "mixed spice",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "potatoes",
+    "descriptor": "garlicky crumbly",
+    "dishForm": "Casserole"
+  }
+}
