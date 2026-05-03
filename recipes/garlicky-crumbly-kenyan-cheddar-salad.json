@@ -1,0 +1,112 @@
+{
+  "title": "Garlicky Crumbly Kenyan Cheddar Salad",
+  "description": "A vibrant, FODMAP-friendly salad featuring rocket, cheddar crumble, pickled cucumbers, toasted almonds, and a garlicky dressing that delivers a crowd-pleasing crunch.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "fodmap-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rocket (arugula)",
+      "amount": "200g",
+      "notes": null
+    },
+    {
+      "name": "cheddar cheese, crumbed",
+      "amount": "50g",
+      "notes": null
+    },
+    {
+      "name": "pickled cucumber slices",
+      "amount": "100g",
+      "notes": "cornichons or low-FODMAP pickles"
+    },
+    {
+      "name": "toasted almonds",
+      "amount": "20g",
+      "notes": "dry‑toast in a pan until golden"
+    },
+    {
+      "name": "garlic‑infused olive oil",
+      "amount": "2 tbsp",
+      "notes": "infuse with 1 minced garlic clove then strain"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper, freshly ground",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/8 tsp",
+      "notes": "optional, for a slight heat"
+    }
+  ],
+  "instructions": [
+    "Heat a dry skillet over medium heat (180 °C). Add the almonds and toast for 2–3 minutes, stirring occasionally until golden. Remove from heat and set aside to cool.",
+    "In a small bowl, whisk together the garlic‑infused olive oil, apple cider vinegar, lemon juice, salt, pepper, and red pepper flakes (if using) until the dressing is emulsified.",
+    "Place the rocket in a large salad bowl. Sprinkle the cheddar crumble and add the pickled cucumber slices.",
+    "Pour the dressing over the salad and gently toss to coat all ingredients evenly.",
+    "Add the toasted almonds and give a final gentle toss to combine.",
+    "Serve immediately, optionally garnish with extra cheddar or almonds for added crunch.",
+    "Enjoy the garlicky, crumbly, and crowd‑pleasing flavors of this Kenyan-inspired salad!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlicky",
+    "crumbly",
+    "kenyan",
+    "salad",
+    "fodmap-friendly",
+    "crowd-pleaser",
+    "pickled",
+    "rocket",
+    "cheddar",
+    "nutty"
+  ],
+  "nutrition": {
+    "calories": 182,
+    "protein": 6,
+    "carbs": 4,
+    "fat": 13
+  },
+  "slug": "garlicky-crumbly-kenyan-cheddar-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-crumbly-kenyan-cheddar-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T16:56:06Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crumbly",
+    "mood": "crowd-pleaser",
+    "technique": "pickle",
+    "primaryIngredient": "rocket",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "cheddar",
+    "descriptor": "Garlicky Crumbly",
+    "dishForm": "Salad"
+  }
+}
