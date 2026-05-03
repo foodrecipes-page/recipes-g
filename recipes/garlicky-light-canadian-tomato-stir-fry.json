@@ -1,0 +1,104 @@
+{
+  "title": "Garlicky Light Canadian Tomato Stir Fry",
+  "description": "A flavorful and healthy Canadian-inspired stir-fry dish featuring diced tomatoes, garlic, and a blend of spices, perfect for a light and satisfying meal. This low-sodium-friendly recipe is ideal for those looking for a guilt-free culinary experience.",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-sodium",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "use a low-sodium option"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "2 cups",
+      "notes": "fresh or canned, low-sodium"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "1 teaspoon",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet or wok over medium-high heat.",
+    "Add the minced garlic and cook for 1-2 minutes, until fragrant.",
+    "Add the diced onion and cook for 3-4 minutes, until translucent.",
+    "Add the diced bell pepper and zucchini, cook for an additional 4-5 minutes, until tender.",
+    "Add the diced tomatoes, salt-free seasoning blend, and black pepper, stir to combine.",
+    "Reduce heat to medium-low and simmer for 10-12 minutes, stirring occasionally.",
+    "Taste and adjust seasoning as needed.",
+    "Stir in chopped fresh parsley.",
+    "Serve hot over rice, noodles, or enjoy as a standalone dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian-cuisine",
+    "stir-fry",
+    "low-sodium",
+    "vegetarian",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "garlicky-light-canadian-tomato-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-light-canadian-tomato-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T17:56:54Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "stir-fry",
+    "primaryIngredient": "diced tomatoes",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "tomatoes",
+    "descriptor": "garlicky light",
+    "dishForm": "Stir-fry"
+  }
+}

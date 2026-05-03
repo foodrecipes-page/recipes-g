@@ -1130,6 +1130,20 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-light-canadian-tomato-stir-fry",
+    "title": "Garlicky Light Canadian Tomato Stir Fry",
+    "tags": [
+      "canadian-cuisine",
+      "stir-fry",
+      "low-sodium",
+      "vegetarian",
+      "healthy"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-light-raw-friendly-egg-noodles-stir-fry",
     "title": "Garlicky Light Raw-Friendly Egg Noodles Stir-fry",
     "tags": [
@@ -1200,6 +1214,24 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-silky-dutch-marzipan-fritters",
+    "title": "Garlicky Silky Dutch Marzipan Fritters",
+    "tags": [
+      "whole30",
+      "snack",
+      "Dutch",
+      "garlicky",
+      "silky",
+      "fritter",
+      "almond",
+      "quick",
+      "comforting"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 22,
     "shard": "g"
   },
   {

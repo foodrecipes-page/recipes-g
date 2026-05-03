@@ -1,0 +1,113 @@
+{
+  "title": "Garlicky Silky Dutch Marzipan Fritters",
+  "description": "A comforting Dutch-inspired fritter that marries garlicky almond batter with a silky honey-garlic glaze for a satisfying snack.",
+  "cuisine": "Dutch",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "1 cup (96 g)",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup (60 ml) for batter plus 1 tbsp (15 g) for glaze",
+      "notes": "use raw honey"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "1 clove (≈3 g)",
+      "notes": ""
+    },
+    {
+      "name": "almond paste",
+      "amount": "2 tbsp (30 g)",
+      "notes": "adds marzipan flavor"
+    },
+    {
+      "name": "unsweetened coconut milk",
+      "amount": "1/4 cup (60 ml)",
+      "notes": ""
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp (≈6 g)",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp (30 g)",
+      "notes": "for frying"
+    },
+    {
+      "name": "garlic, pressed",
+      "amount": "1/2 tsp (≈0.5 g)",
+      "notes": "for glaze"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Whisk the honey, eggs, minced garlic, almond paste, coconut milk, and sea salt together until smooth.",
+    "Sift the almond flour into a separate bowl and gradually fold it into the wet mixture until a thick batter forms.",
+    "Heat 1 tbsp of coconut oil in a non‑stick skillet over medium heat; add the remaining 1 tbsp oil to the pan before adding batter.",
+    "Drop heaping teaspoonfuls of batter into the hot oil, spacing them 2 inches apart.",
+    "Fry each fritter for about 3–4 minutes on each side, or until golden brown and firm.",
+    "Using a slotted spoon, transfer fritters to a paper‑towel lined plate to drain excess oil.",
+    "While the fritters cook, combine the glaze honey, pressed garlic, and chili flakes in a small bowl; whisk until blended.",
+    "Drizzle the glaze over the hot fritters or serve it on the side for dipping.",
+    "Repeat with remaining batter, adding more oil as needed.",
+    "Serve warm, optionally topped with a sprinkle of sea salt or fresh herbs."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "whole30",
+    "snack",
+    "Dutch",
+    "garlicky",
+    "silky",
+    "fritter",
+    "almond",
+    "quick",
+    "comforting"
+  ],
+  "nutrition": {
+    "calories": 414,
+    "protein": 10,
+    "carbs": 21,
+    "fat": 28
+  },
+  "slug": "garlicky-silky-dutch-marzipan-fritters",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-silky-dutch-marzipan-fritters",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:56:57Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "silky",
+    "mood": "comforting",
+    "technique": "fry",
+    "primaryIngredient": "marzipan",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "marzipan",
+    "descriptor": "Garlicky Silky",
+    "dishForm": "Fritters"
+  }
+}
