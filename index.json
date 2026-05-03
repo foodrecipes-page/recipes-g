@@ -2287,6 +2287,21 @@
     "shard": "g"
   },
   {
+    "slug": "glazed-smoky-american-chicken-casserole",
+    "title": "Glazed Smoky American Chicken Casserole",
+    "tags": [
+      "american",
+      "dolsot",
+      "family-friendly",
+      "high-protein",
+      "one-pot",
+      "smoky"
+    ],
+    "cuisine": "american",
+    "totalTimeMin": 50,
+    "shard": "g"
+  },
+  {
     "slug": "glazed-tender-peruvian-ribs-roast",
     "title": "Glazed Tender Peruvian Ribs Roast",
     "tags": [],

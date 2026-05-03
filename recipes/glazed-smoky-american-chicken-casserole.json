@@ -1,0 +1,104 @@
+{
+  "title": "Glazed Smoky American Chicken Casserole",
+  "description": "A smoky, molten one-pot casserole with sweetened condensed milk glaze served straight from a stone bowl dolsot, high protein friendly and satisfying.",
+  "cuisine": "american",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken thighs",
+      "amount": "800 g"
+    },
+    {
+      "name": "sweetened condensed milk",
+      "amount": "200 g"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "30 ml"
+    },
+    {
+      "name": "honey",
+      "amount": "20 g"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "5 g"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2 g"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "2 g"
+    },
+    {
+      "name": "onion powder",
+      "amount": "2 g"
+    },
+    {
+      "name": "salt",
+      "amount": "5 g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "45 ml"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "100 g"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C.",
+    "In a small bowl whisk together sweetened condensed milk, soy sauce, honey, smoked paprika, cumin, garlic powder, onion powder, salt, and pepper until smooth.",
+    "Coat the chicken thighs with olive oil, then toss them in the sauce mixture and let them marinate for 5 minutes.",
+    "Heat a stone bowl dolsot over medium‑high heat and sear the marinated chicken thighs for 2 minutes on each side.",
+    "Pour any remaining sauce over the chicken in the dolsot and bake for 15 minutes in the preheated oven.",
+    "Remove the dolsot from the oven, sprinkle shredded cheddar cheese over the chicken, and return to the oven for 5 more minutes until the cheese melts.",
+    "Let the casserole rest for 5 minutes before garnishing with chopped cilantro if desired.",
+    "Serve hot straight from the dolsot, slicing into portions for a smoky, molten dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "dolsot",
+    "family-friendly",
+    "high-protein",
+    "one-pot",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 533,
+    "protein": 37,
+    "carbs": 29,
+    "fat": 29
+  },
+  "slug": "glazed-smoky-american-chicken-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/glazed-smoky-american-chicken-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:41:53Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "molten",
+    "mood": "one-pot",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "sweetened condensed milk",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "chicken",
+    "descriptor": "Glazed Smoky",
+    "dishForm": "Casserole"
+  }
+}
