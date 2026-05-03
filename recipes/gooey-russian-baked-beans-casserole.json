@@ -1,0 +1,93 @@
+{
+  "title": "Gooey Russian Baked Beans Casserole",
+  "description": "Savory, gooey brunch casserole with baked beans, fluffy dumplings, and melty cheese—perfectly kosher-friendly and comforting.",
+  "cuisine": "Russian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "canned baked beans",
+      "amount": "1 (15 oz) can",
+      "notes": "with sauce"
+    },
+    {
+      "name": "medium onion",
+      "amount": "1, diced",
+      "notes": "softens during baking"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2, minced",
+      "notes": "adds depth"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1 cup",
+      "notes": "melts into gooey topping"
+    },
+    {
+      "name": "whole milk",
+      "amount": "1 cup",
+      "notes": "creates creamy base"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tbsp",
+      "notes": "thickens beans"
+    },
+    {
+      "name": "flour",
+      "amount": "2 tbsp",
+      "notes": "for binding"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 tsp",
+      "notes": "seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "cooks dumplings lightly"
+    },
+    {
+      "name": "dumplings (store‑bought or homemade)",
+      "amount": "1 cup, pieces",
+      "notes": "place on top of beans before final bake"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, whisk together milk, cornstarch, flour, salt, and pepper until smooth. Add beans, onion, garlic, and half of the cheese, then stir until beans are coated.",
+    "Transfer mixture to a greased 9x13 inch baking dish and spread evenly.",
+    "Arrange dumpling pieces on top of the bean mixture, spacing them slightly.",
+    "Drizzle olive oil over dumplings and sprinkle remaining cheese on top.",
+    "Cover dish loosely with foil and bake for 25 minutes.",
+    "Remove foil and bake another 15 minutes until the cheese is bubbly and dumplings are golden.",
+    "Let stand 5 minutes before serving to allow textures to set."
+  ],
+  "slug": "gooey-russian-baked-beans-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-russian-baked-beans-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:25:55Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "gooey",
+    "mood": "brunch-mood",
+    "technique": "dum",
+    "primaryIngredient": "baked beans",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Baked Beans",
+    "descriptor": "Gooey",
+    "dishForm": "Casserole"
+  }
+}
