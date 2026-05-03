@@ -1,0 +1,104 @@
+{
+  "title": "Garlicky Fluffy Japanese Beef Shin Soup",
+  "description": "A comforting, low‑FODMAP Japanese soup featuring tender beef shin, aromatic garlic‑infused oil, and a silky, fluffy broth whisked with egg whites.",
+  "cuisine": "Japanese",
+  "diet": [
+    "fodmap-friendly",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef shin, bone‑in",
+      "amount": "500g"
+    },
+    {
+      "name": "Water",
+      "amount": "1.5L"
+    },
+    {
+      "name": "Garlic‑infused oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Tamari (gluten‑free soy sauce)",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Mirin",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Rice wine (dry shochu)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "White pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Spring onion (green parts only), sliced",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "Nori flakes",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Egg whites",
+      "amount": "2 (whisked)"
+    }
+  ],
+  "instructions": [
+    "Heat a large pot over medium heat and add the garlic‑infused oil.",
+    "Sear the beef shin on all sides until browned, about 4-5 minutes per side.",
+    "Pour in the water, bring to a gentle boil, then reduce to a low simmer and cover. Cook for 3 hours until the meat is fall‑off‑the‑bone tender.",
+    "Remove the beef shin and strain the broth to remove solids. Return the clear broth to the pot.",
+    "Stir in tamari, mirin, rice wine, salt and white pepper, adjusting seasoning to taste.",
+    "In a small bowl, whisk the egg whites until frothy. Slowly drizzle the egg whites into the hot broth while stirring gently to create a light, airy foam.",
+    "Add the sliced spring onion and nori flakes, simmer for an additional 2 minutes until fragrant.",
+    "Serve the soup hot, garnishing with extra nori if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 210,
+  "totalTimeMin": 225,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "gluten-free",
+    "dairy-free",
+    "low-carb",
+    "japanese",
+    "soups"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 12,
+    "fat": 15
+  },
+  "slug": "garlicky-fluffy-japanese-beef-shin-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-fluffy-japanese-beef-shin-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:57:55Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "fluffy",
+    "mood": "nostalgic",
+    "technique": "whisk",
+    "primaryIngredient": "beef shin",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "beef shin",
+    "descriptor": "Garlicky Fluffy",
+    "dishForm": "Soup"
+  }
+}
