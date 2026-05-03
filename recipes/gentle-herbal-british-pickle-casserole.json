@@ -1,0 +1,110 @@
+{
+  "title": "Gentle Herbal British Pickle Casserole",
+  "description": "A dense and light British dish featuring cream of tartar and pickle, perfect for a keto-friendly meal. This casserole combines herbal flavors with a tangy twist.",
+  "cuisine": "British",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 ratio"
+    },
+    {
+      "name": "pickle relish",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cream of tartar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "dried rosemary",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "Brown the ground beef in a large skillet over medium-high heat.",
+    "Add the pickle relish, cream of tartar, dried thyme, dried rosemary, onion powder, and garlic powder to the skillet and stir to combine.",
+    "Transfer the mixture to a large casserole dish.",
+    "Top the mixture with shredded cheddar cheese.",
+    "In a separate bowl, whisk together the sour cream and eggs.",
+    "Pour the sour cream and egg mixture over the cheese.",
+    "Season with salt and black pepper to taste.",
+    "Bake the casserole in the preheated oven for 30 minutes.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "casserole",
+    "gluten-free",
+    "herbal",
+    "keto-friendly",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "gentle-herbal-british-pickle-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gentle-herbal-british-pickle-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T23:02:59Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "dense",
+    "mood": "light",
+    "technique": "pickle",
+    "primaryIngredient": "cream of tartar",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "pickle",
+    "descriptor": "Gentle Herbal",
+    "dishForm": "Casserole"
+  }
+}
