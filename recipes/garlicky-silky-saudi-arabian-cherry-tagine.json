@@ -1,0 +1,105 @@
+{
+  "title": "Garlicky Silky Saudi Arabian Cherry Tagine",
+  "description": "A rich and flavorful vegan-friendly stew originating from Saudi Arabia, featuring sweet cherries and aromatic garlic. This dish is perfect for meal prep and can be served as a main course or side dish.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried cherries",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "silken tofu",
+      "amount": "1/2 cup",
+      "notes": "blended into a silky texture"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large clay or ceramic tagine pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger, cooking for an additional 2 minutes.",
+    "Add the tagine spice blend and cook for 1 minute, stirring constantly.",
+    "Add the dried cherries, vegetable broth, salt, and black pepper. Stir to combine.",
+    "Bring the mixture to a simmer, then reduce the heat to low and cook, covered, for 20 minutes.",
+    "Stir in the blended silken tofu to create a silky texture.",
+    "Continue to simmer, uncovered, for an additional 10 minutes, allowing the flavors to meld together.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot over rice or with crusty bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi-arabian",
+    "vegan",
+    "tagine",
+    "cherry",
+    "garlicky",
+    "silky"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "garlicky-silky-saudi-arabian-cherry-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-silky-saudi-arabian-cherry-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T19:22:44Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "silky",
+    "mood": "meal-prep",
+    "technique": "simmer",
+    "primaryIngredient": "cherries",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "cherries",
+    "descriptor": "garlicky silky",
+    "dishForm": "Tagine"
+  }
+}
