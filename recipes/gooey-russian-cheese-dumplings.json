@@ -1,0 +1,101 @@
+{
+  "title": "Gooey Russian Cheese Dumplings",
+  "description": "Savory, gooey dumplings with a creamy cheddar-cream cheese filling, baked in a flavorful broth for a quick keto-friendly meal.",
+  "cuisine": "Russian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wonton skins",
+      "amount": "20 pieces",
+      "notes": "low‑carb variety preferred"
+    },
+    {
+      "name": "Sharp cheddar cheese",
+      "amount": "200 g",
+      "notes": "shredded, freshly grated"
+    },
+    {
+      "name": "Cream cheese",
+      "amount": "100 g",
+      "notes": "softened to room temperature"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten, for sealing edges"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Low‑sodium chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Dried dill",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "for garnish",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, combine shredded cheddar and softened cream cheese; season with salt, pepper, and dried dill, mixing until thick and creamy.",
+    "Place a heaping teaspoon of the cheese mixture on the center of each wonton skin. Fold the skin into a triangle and press the edges together, dipping the seam in beaten egg to seal.",
+    "Heat the butter in a large skillet over medium heat; add the sealed dumplings and fry for about 2 minutes on each side until lightly browned.",
+    "Add the chicken broth to the skillet, bring to a gentle simmer, then cover and cook for 5‑6 minutes, or until the dumplings float to the surface and the cheese is fully melted and gooey.",
+    "Remove the skillet from heat, ladle the dumplings into bowls, and garnish with chopped fresh parsley if desired. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto-friendly",
+    "quick-recipe",
+    "cheesy",
+    "dumplings",
+    "russian",
+    "wonton",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 15,
+    "carbs": 2,
+    "fat": 29
+  },
+  "slug": "gooey-russian-cheese-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-russian-cheese-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:17:21Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "gooey",
+    "mood": "quick-fix",
+    "technique": "simmer",
+    "primaryIngredient": "wonton skin",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Cheese",
+    "descriptor": "Gooey",
+    "dishForm": "Dumplings"
+  }
+}
