@@ -1,0 +1,118 @@
+{
+  "title": "Garlicky Juicy German Sauerbraten Stew",
+  "description": "A hearty, garlicky German stew made with beef, vinegar, and spices, perfect for a cozy dinner.",
+  "cuisine": "german",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef (3 pound top round or rump roast)",
+      "amount": "3 pounds",
+      "notes": "cut into 2-inch cubes"
+    },
+    {
+      "name": "onion (2 medium)",
+      "amount": "2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic (6 cloves)",
+      "amount": "6",
+      "notes": "minced"
+    },
+    {
+      "name": "apple (1 large)",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "cumin (2 teaspoons)",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "mustard seeds (1 teaspoon)",
+      "amount": "1 teaspoon",
+      "notes": "whole"
+    },
+    {
+      "name": "salt (1 teaspoon)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper (1/2 teaspoon)",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "caraway seeds (1/2 teaspoon)",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "white vinegar (1 cup)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef broth (2 cups)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "brown sugar (2 tablespoons)",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine beef, onion, garlic, apple, cumin, mustard seeds, salt, black pepper, and caraway seeds.",
+    "Pour vinegar and beef broth over the beef mixture, and mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 days or up to 4 days.",
+    "Preheat oven to 300°F (150°C).",
+    "Remove the beef mixture from the refrigerator and let it sit at room temperature for 30 minutes.",
+    "Transfer the beef mixture to a large Dutch oven or oven-safe pot.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Braise the stew for 2 1/2 hours, or until the beef is tender and falls apart easily.",
+    "Remove the pot from the oven and stir in brown sugar.",
+    "Let the stew cool slightly, then serve hot, garnished with fresh parsley or thyme, if desired.",
+    "Discard any excess fat that rises to the surface."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "beef",
+    "sauerbraten",
+    "stew",
+    "garlic",
+    "cumin",
+    "comfort-food",
+    "high-protein"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "52g",
+    "carbs": "23g",
+    "fat": "29g"
+  },
+  "slug": "garlicky-juicy-german-sauerbraten-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-juicy-german-sauerbraten-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:40:37Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "juicy",
+    "mood": "cozy",
+    "technique": "simmer",
+    "primaryIngredient": "cumin",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Sauerbraten",
+    "descriptor": "Garlicky Juicy",
+    "dishForm": "Stew"
+  }
+}

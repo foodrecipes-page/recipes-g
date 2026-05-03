@@ -347,6 +347,21 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-canadian-seafood-chowder",
+    "title": "Garlicky Canadian Seafood Chowder",
+    "tags": [
+      "seafood",
+      "chowder",
+      "keto",
+      "canadian",
+      "garlic",
+      "crunchy"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-chewy-dum-stir-fry",
     "title": "Garlicky Chewy Dum Stir-fry",
     "tags": [
@@ -968,6 +983,23 @@
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-juicy-german-sauerbraten-stew",
+    "title": "Garlicky Juicy German Sauerbraten Stew",
+    "tags": [
+      "german",
+      "beef",
+      "sauerbraten",
+      "stew",
+      "garlic",
+      "cumin",
+      "comfort-food",
+      "high-protein"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 180,
     "shard": "g"
   },
   {

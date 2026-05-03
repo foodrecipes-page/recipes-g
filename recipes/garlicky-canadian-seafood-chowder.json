@@ -1,0 +1,111 @@
+{
+  "title": "Garlicky Canadian Seafood Chowder",
+  "description": "A hearty and flavorful keto-friendly chowder featuring a rich seafood stock, garlic, and a crunchy texture, perfect for a hangover cure. This Canadian-inspired dish is made with a variety of seafood and spices.",
+  "cuisine": "Canadian",
+  "diet": [
+    "keto",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "cod fillets",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1/2 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "mussels",
+      "amount": "1/2 pound",
+      "notes": "scrubbed and debearded"
+    },
+    {
+      "name": "seafood stock",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Melt the butter in a large pot over medium heat.",
+    "Add the garlic and onion and cook until the onion is translucent, about 5 minutes.",
+    "Add the cod, shrimp, and mussels, and cook until the seafood is lightly browned, about 5 minutes.",
+    "Pour in the seafood stock and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Stir in the heavy cream and smoked paprika.",
+    "Season with salt and pepper to taste.",
+    "Serve the chowder hot, garnished with chopped fresh parsley or chives if desired.",
+    "For an extra crunchy texture, top with crushed pork rinds or chopped bacon."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "chowder",
+    "keto",
+    "canadian",
+    "garlic",
+    "crunchy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "garlicky-canadian-seafood-chowder",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-canadian-seafood-chowder",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T17:41:27Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crunchy",
+    "mood": "hangover-cure",
+    "technique": "temper",
+    "primaryIngredient": "seafood stock",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "seafood",
+    "descriptor": "garlicky crunchy",
+    "dishForm": "Chowder"
+  }
+}
