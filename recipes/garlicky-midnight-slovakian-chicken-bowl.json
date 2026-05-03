@@ -1,0 +1,92 @@
+{
+  "title": "Garlicky Midnight Slovakian Chicken Bowl",
+  "description": "A savory, garlicky chicken bowl inspired by Slovakian flavors, featuring tender sous‑vide chicken, sautéed mushrooms and kale, topped with melty Colby‑Jack cheese for a midnight craving.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken breasts",
+      "amount": "4"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "sliced mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped kale",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Colby‑Jack cheese, shredded",
+      "amount": "200g"
+    }
+  ],
+  "instructions": [
+    "Preheat your sous‑vide water bath to 165°F (74°C).",
+    "Season the chicken breasts with salt, pepper, minced garlic, olive oil, lemon juice, and chopped thyme. Vacuum‑seal the chicken in a bag.",
+    "Place the bag in the preheated water bath and cook sous‑vide for 90 minutes.",
+    "While the chicken cooks, heat 1 tbsp of oil in a skillet over medium heat. Sauté mushrooms for 3 minutes, then add kale and cook until wilted, about 2 minutes.",
+    "Remove the cooked chicken from the bag, pat dry, and sear in the same skillet for 1 minute per side to develop a golden crust.",
+    "Slice the chicken and place it in a serving bowl.",
+    "Top the chicken with the sautéed mushrooms and kale.",
+    "Sprinkle shredded Colby‑Jack cheese over the top. Let it melt slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 100,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "garlic",
+    "sous-vide",
+    "colby-jack",
+    "midnight-craving",
+    "paleo-friendly",
+    "gluten-free",
+    "quick-and-easy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 38,
+    "carbs": 8,
+    "fat": 28
+  },
+  "slug": "garlicky-midnight-slovakian-chicken-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-midnight-slovakian-chicken-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:04:38Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "tender",
+    "mood": "midnight-craving",
+    "technique": "sous-vide",
+    "primaryIngredient": "colby jack cheese",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Garlicky Midnight",
+    "dishForm": "Bowl"
+  }
+}
