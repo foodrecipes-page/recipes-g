@@ -1,0 +1,89 @@
+{
+  "title": "Grilled Pineapple Irish Pancakes",
+  "description": "These festive pancakes feature grilled pineapple and are dairy-free-friendly, perfect for a light breakfast or snack.",
+  "cuisine": "Irish",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pineapple",
+      "amount": "1 cup",
+      "notes": "Chopped and halved"
+    },
+    {
+      "name": "Unsweetened Applesauce",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Milk or Almond Milk (dairy-free)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Flax Seeds",
+      "amount": "3 tbsp",
+      "notes": "Ground for gluten-free and additional umami flavor"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Baking Powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Mix pineapple, applesauce, flax seeds, eggs, baking powder, and salt in a blender until smooth.",
+    "Slowly add coconut milk to the mixture while blending until there are no lumps left.",
+    "Preheat grill or panini press over medium heat. Spread batter evenly onto hot surface.",
+    "Cook for about 2-3 minutes on each side until golden brown.",
+    "Serve warm with a dollop of whipped coconut cream (optional)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled-fruit",
+    "irish-pancake",
+    "pineapple-pancakes",
+    "umami-friendly",
+    "festival-appetizer"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 9
+  },
+  "slug": "grilled-pineapple-irish-pancakes",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/grilled-pineapple-irish-pancakes",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T10:25:19Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crunchy",
+    "mood": "festive",
+    "technique": "grill",
+    "primaryIngredient": "pineapple",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "pineapple",
+    "descriptor": "Grilled",
+    "dishForm": "Pancakes"
+  }
+}

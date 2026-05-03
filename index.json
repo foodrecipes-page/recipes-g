@@ -2460,6 +2460,20 @@
     "shard": "g"
   },
   {
+    "slug": "grilled-pineapple-irish-pancakes",
+    "title": "Grilled Pineapple Irish Pancakes",
+    "tags": [
+      "grilled-fruit",
+      "irish-pancake",
+      "pineapple-pancakes",
+      "umami-friendly",
+      "festival-appetizer"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 15,
+    "shard": "g"
+  },
+  {
     "slug": "grilled-pork-pizza",
     "title": "Grilled Pork Pizza",
     "tags": [
