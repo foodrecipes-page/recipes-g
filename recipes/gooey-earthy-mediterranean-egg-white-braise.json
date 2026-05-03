@@ -1,0 +1,109 @@
+{
+  "title": "Mediterranean Egg White Braise",
+  "description": "A hearty, earthy, and gooey Mediterranean dish made with egg whites, featuring the rich flavors of the Mediterranean region.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Egg whites",
+      "amount": "8",
+      "notes": "Large eggs"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Extra virgin oil, preferably from Greece"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "8 ounces",
+      "notes": "Canned, preferably from Italy"
+    },
+    {
+      "name": "Artichoke hearts",
+      "amount": "1 can",
+      "notes": "Canned, preferably from Spain"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 teaspoon",
+      "notes": "Greek oregano, preferably"
+    },
+    {
+      "name": "Salt-free seasoning",
+      "amount": "1 teaspoon",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and sauté until translucent, about 5 minutes.",
+    "Add the minced garlic and sauté for 1 minute.",
+    "Add the mushrooms, artichoke hearts, and tomato paste. Cook for 5 minutes.",
+    "In a separate bowl, whisk together the egg whites and salt-free seasoning.",
+    "Pour the egg mixture over the contents of the Dutch oven and stir to combine.",
+    "Reduce heat to low and simmer, covered, for 20 minutes.",
+    "Stir in the dried oregano and cook for an additional 2 minutes.",
+    "Sprinkle chopped parsley on top and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "egg-white",
+    "low-sodium",
+    "mediterranean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 40,
+    "carbs": 8,
+    "fat": 8
+  },
+  "slug": "gooey-earthy-mediterranean-egg-white-braise",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-earthy-mediterranean-egg-white-braise",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:04:55Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "gooey",
+    "mood": "adventurous",
+    "technique": "braise",
+    "primaryIngredient": "egg white",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "egg white",
+    "descriptor": "gooey earthy",
+    "dishForm": "Braise"
+  }
+}

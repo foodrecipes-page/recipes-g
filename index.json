@@ -2774,6 +2774,21 @@
     "shard": "g"
   },
   {
+    "slug": "gooey-earthy-mediterranean-egg-white-braise",
+    "title": "Mediterranean Egg White Braise",
+    "tags": [
+      "adventurous",
+      "egg-white",
+      "low-sodium",
+      "mediterranean",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 40,
+    "shard": "g"
+  },
+  {
     "slug": "gooey-fermented-monsoon-crostini",
     "title": "Gooey Fermented Monsoon Crostini",
     "tags": [
