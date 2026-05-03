@@ -1,0 +1,111 @@
+{
+  "title": "Gingered Crunchy Scottish Raspberry Eton Mess",
+  "description": "A plant‑based Scottish take on Eton Mess with a peppery, crunchy oat custard and fresh raspberries.",
+  "cuisine": "British (Scottish)",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "fresh raspberries",
+      "amount": "300g"
+    },
+    {
+      "name": "oat flour",
+      "amount": "200g"
+    },
+    {
+      "name": "rolled oats",
+      "amount": "50g"
+    },
+    {
+      "name": "toasted almond slivers",
+      "amount": "120g"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "30ml"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "oat milk",
+      "amount": "100ml"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, heat oat milk, coconut oil, maple syrup, ginger, salt, and pepper over medium heat until the mixture gently simmers.",
+    "Add rolled oats and oat flour to the saucepan, whisking until the mixture thickens into a silky nimono‑style custard.",
+    "Whisk in vanilla extract and lemon zest, then remove the saucepan from heat and let the custard cool to room temperature.",
+    "Line a shallow pan with parchment paper and pour the cooled oat custard into it, using a spatula to spread it evenly.",
+    "Sprinkle toasted almond slivers across the custard and press them down lightly so they adhere.",
+    "Place the pan in the refrigerator for 30 minutes to allow the custard to set and the almonds to become crunchy.",
+    "While the custard sets, gently fold fresh raspberries into the custard to preserve their bright color and tartness.",
+    "Once set, remove the custard from the fridge, break it into bite‑sized morsels, and place them into a bowl.",
+    "Top the morsels with additional raspberries, a drizzle of maple syrup, and a light dusting of fresh black pepper for a peppery finish.",
+    "Serve immediately, offering a delightful mix of crunchy almond, silky oat custard, and juicy raspberries."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "dessert",
+    "eton-mess",
+    "ginger",
+    "quick",
+    "scottish",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 6,
+    "carbs": 55,
+    "fat": 15
+  },
+  "slug": "gingered-crunchy-scottish-raspberry-eton-mess",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/gingered-crunchy-scottish-raspberry-eton-mess",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:23:16Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crunchy",
+    "mood": "adventurous",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "raspberries",
+    "diet": "plant-based",
+    "region": "scottish",
+    "cuisineAdjective": "Scottish",
+    "mainIngredient": "raspberry",
+    "descriptor": "Gingered Crunchy",
+    "dishForm": "Eton Mess"
+  }
+}
