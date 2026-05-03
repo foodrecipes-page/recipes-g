@@ -1,0 +1,96 @@
+{
+  "title": "Gooey Herbal Korean Knafah Brochette",
+  "description": "A sweet and savory Korean-inspired dessert featuring crispy knafeh, gooey herbal filling, and a lazy Sunday vibe. This nut-free-friendly treat is perfect for a relaxing afternoon.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "nut-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Knafeh dough",
+      "amount": "1 package (400g)",
+      "notes": "thawed"
+    },
+    {
+      "name": "Herbal tea",
+      "amount": "1 cup",
+      "notes": "brewed and cooled"
+    },
+    {
+      "name": "Honey",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Green tea ice cream",
+      "amount": "1 pint"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Shredded coconut",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400°F (200°C).",
+    "Cut the knafeh dough into 1-inch (2.5cm) pieces and place on a baking sheet lined with parchment paper.",
+    "Drizzle the sesame oil over the knafeh pieces and toss to coat.",
+    "Broil the knafeh for 2-3 minutes or until golden brown, flipping halfway through.",
+    "In a small saucepan, combine the herbal tea, honey, and Korean chili flakes. Heat over low heat, stirring until the honey dissolves.",
+    "To assemble the brochette, thread a piece of knafeh onto a skewer, followed by a spoonful of the herbal honey mixture, and a sprinkle of shredded coconut.",
+    "Repeat the layers two more times, ending with a piece of knafeh.",
+    "Serve the brochette with a scoop of green tea ice cream and garnish with chopped fresh mint leaves.",
+    "Drizzle any remaining herbal honey mixture over the top.",
+    "Enjoy immediately, as the knafeh will become soggy if left to sit."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "dessert",
+    "herbal",
+    "gooey",
+    "lazy-sunday",
+    "nut-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 44,
+    "fat": 16
+  },
+  "slug": "gooey-herbal-korean-knafah-brochette",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-herbal-korean-knafah-brochette",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T19:54:42Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "gooey",
+    "mood": "lazy-sunday",
+    "technique": "broil",
+    "primaryIngredient": "knafeh",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "knafah",
+    "descriptor": "gooey herbal",
+    "dishForm": "Brochette"
+  }
+}
