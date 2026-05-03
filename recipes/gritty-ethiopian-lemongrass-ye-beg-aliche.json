@@ -1,0 +1,102 @@
+{
+  "title": "Gritty Ethiopian Lemongrass Ye Beg Aliche",
+  "description": "Smoky, snappy monsoon dish with lemongrass-takrai broth, brine-dry spices, and Ayurvedic tamasic-friendly flavors.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lemongrass stalks",
+      "amount": "4",
+      "notes": "trimmed and smashed"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "dried hibiscus petals",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "black salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cooked chickpeas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "2 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add diced onion and sauté until translucent, about 5 minutes.",
+    "Stir in minced garlic and smashed lemongrass, cooking until fragrant, about 1 minute.",
+    "Add smoked paprika, dried hibiscus, and black salt, stirring for 30 seconds.",
+    "Pour in diced tomatoes and vegetable broth, bringing the mixture to a boil.",
+    "Reduce heat and simmer uncovered for 10 minutes, allowing flavors to develop.",
+    "Stir in cooked chickpeas and cook another 5 minutes until heated through.",
+    "Discard the lemongrass stalks and strain the broth if desired.",
+    "Season with fresh cilantro if desired and stir well.",
+    "Serve hot over cooked teff or injera."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lemongrass",
+    "monsoon",
+    "one-pot",
+    "smoky-flavor",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 9
+  },
+  "slug": "gritty-ethiopian-lemongrass-ye-beg-aliche",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/gritty-ethiopian-lemongrass-ye-beg-aliche",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:35:08Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "snappy",
+    "mood": "monsoon",
+    "technique": "brine-dry",
+    "primaryIngredient": "lemongrass-takrai",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Lemongrass",
+    "descriptor": "Gritty",
+    "dishForm": "Ye Beg Aliche"
+  }
+}
