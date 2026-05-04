@@ -2073,6 +2073,22 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-roasted-thai-fish-bowl",
+    "title": "Garlicky Roasted Thai Fish Bowl",
+    "tags": [
+      "easy-to-make",
+      "fish",
+      "gluten-free",
+      "keto",
+      "one-pan",
+      "thai",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 20,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-rum-infused-uruguayan-chicken-roast",
     "title": "Garlicky Rum‑Infused Uruguayan Chicken Roast",
     "tags": [
@@ -3998,6 +4014,23 @@
       "stir-fry",
       "herbal",
       "pastry"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
+    "slug": "gooey-algerian-peanut-wrap",
+    "title": "Gooey Algerian Peanut Wrap",
+    "tags": [
+      "algerian",
+      "breakfast",
+      "brunch",
+      "fodmap-friendly",
+      "gluten-free",
+      "lunch",
+      "one-pan",
+      "weeknight"
     ],
     "cuisine": "Algerian",
     "totalTimeMin": 25,

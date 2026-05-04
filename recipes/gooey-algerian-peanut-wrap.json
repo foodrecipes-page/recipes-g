@@ -1,0 +1,149 @@
+{
+  "title": "Gooey Algerian Peanut Wrap",
+  "description": "A delicious brunch dish featuring peanut brittle, steam-cooked leaf wraps, and a fragrant blend of Middle Eastern spices. Serve warm for the ultimate weekend treat.",
+  "cuisine": "Algerian",
+  "diet": [
+    "gluten-free",
+    "fodmap-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Small flour tortilla wraps",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Peanut brittle",
+      "amount": "1/2 cup",
+      "notes": "Crushed into small pieces for added crunch."
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish."
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Minced for added flavor."
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "Grated for spice."
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "Ground for authentic flavor."
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": "Ground for warm, earthy flavor."
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": "To taste."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": "To taste."
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tsp",
+      "notes": "For brushing the wraps."
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tbsp",
+      "notes": "For added nutty flavor."
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": "For sweetness."
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tsp",
+      "notes": "For brightness."
+    },
+    {
+      "name": "Water",
+      "amount": "2 tbsp",
+      "notes": "For steaming the wraps."
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish."
+    },
+    {
+      "name": "Harissa",
+      "amount": "1 tsp",
+      "notes": "For added heat."
+    },
+    {
+      "name": "Cream cheese",
+      "amount": "2 tbsp",
+      "notes": "Softened for spreading."
+    }
+  ],
+  "instructions": [
+    "Brush both sides of the tortilla wraps with vegetable oil.",
+    "Place the wraps in a large steamer basket, leaving a small space between each wrap.",
+    "Steam the wraps for 5 minutes, or until slightly softened and pliable.",
+    "In a small pan, heat the cumin, coriander, garlic, ginger, salt, and black pepper over medium heat, stirring constantly.",
+    "Add the crushed peanut brittle to the pan and stir for 1 minute, or until fragrant.",
+    "Spread a tablespoon of cream cheese onto the center of each wrap.",
+    "Add a spoonful of the peanut brittle mixture on top of the cream cheese.",
+    "Drizzle with honey, lemon juice, and sesame seeds.",
+    "Garnish with chopped parsley, cilantro, and a sprinkle of sesame seeds.",
+    "Serve warm, with additional harissa on the side for added heat.",
+    "Slice into wedges for a delicious brunch dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "breakfast",
+    "brunch",
+    "fodmap-friendly",
+    "gluten-free",
+    "lunch",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 12,
+    "carbs": 50,
+    "fat": 20
+  },
+  "slug": "gooey-algerian-peanut-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-algerian-peanut-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:18:49Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "gooey",
+    "mood": "brunch-mood",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "peanut brittle",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "algerian",
+    "mainIngredient": "peanut",
+    "descriptor": "gooey",
+    "dishForm": "wrap"
+  }
+}

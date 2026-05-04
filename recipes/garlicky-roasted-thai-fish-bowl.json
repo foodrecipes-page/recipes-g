@@ -1,0 +1,122 @@
+{
+  "title": "Garlicky Roasted Thai Fish Bowl",
+  "description": "A quick and flavorful Thai dish made with crispy fish, garlicky sauce and a dollop of creme fraiche. Serve in a donabe for a fun and interactive meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sushi-grade tilapia",
+      "amount": "4 fillets",
+      "notes": ""
+    },
+    {
+      "name": "Creme fraiche",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 small piece",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Palm sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Mortar and pestle",
+      "amount": "",
+      "notes": "for pounding garlic and ginger"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Donabe",
+      "amount": "",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Pound garlic and ginger in a mortar and pestle until smooth.",
+    "Heat coconut oil in a pan over medium-high heat.",
+    "Add the tilapia fillets and cook for 2-3 minutes on each side, until crispy and cooked through.",
+    "In a small bowl, mix together creme fraiche, fish sauce, lime juice, palm sugar and a pinch of salt and pepper.",
+    "To assemble the dish, place a tilapia fillet in each donabe, then spoon the garlicky sauce over the top and garnish with cilantro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "fish",
+    "gluten-free",
+    "keto",
+    "one-pan",
+    "thai",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 40,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "garlicky-roasted-thai-fish-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-roasted-thai-fish-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:18:38Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crisp",
+    "mood": "quick-fix",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "creme fraiche",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Fish",
+    "descriptor": "Garlicky Roasted",
+    "dishForm": "Bowl"
+  }
+}
