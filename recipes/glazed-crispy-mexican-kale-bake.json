@@ -1,0 +1,111 @@
+{
+  "title": "Glazed Crispy Mexican Kale Bake",
+  "description": "A bitter, crispy, indulgent Mexican dish featuring gelatin leaf glaze and low‑calorie baked kale.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kale",
+      "amount": "200g",
+      "notes": "stems removed, chopped"
+    },
+    {
+      "name": "green onions",
+      "amount": "3",
+      "notes": "sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "low‑sodium soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "agave nectar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "gelatin sheets",
+      "amount": "2",
+      "notes": "soaked in 2 tbsp cold water then squeezed dry"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C and grease a baking sheet.",
+    "In a small bowl, mix olive oil, cumin, smoked paprika, chili powder, soy sauce, lime juice, agave nectar, and black pepper to create the glaze.",
+    "Toss the chopped kale and sliced green onions with the glaze until well coated.",
+    "Spread the kale mixture evenly on the prepared baking sheet.",
+    "Bake for 15 minutes, stirring halfway, until kale is crisp and edges are slightly charred.",
+    "While the kale is baking, soak the gelatin sheets in cold water for 5 minutes, then squeeze out excess water.",
+    "Warm the gelatin in a small saucepan over low heat, stirring until fully dissolved.",
+    "Remove the kale from the oven and let cool for 2 minutes before drizzling the warm gelatin glaze over the top.",
+    "Return the kale to the oven for an additional 5 minutes to set the glaze.",
+    "Remove from oven, let rest 3 minutes, then serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "healthy",
+    "kale",
+    "low-calorie",
+    "mexican",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 7,
+    "carbs": 26,
+    "fat": 4
+  },
+  "slug": "glazed-crispy-mexican-kale-bake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/glazed-crispy-mexican-kale-bake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:52:11Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crispy",
+    "mood": "indulgent",
+    "technique": "bake",
+    "primaryIngredient": "gelatine leafs",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "kale",
+    "descriptor": "Glazed Crispy",
+    "dishForm": "Bake"
+  }
+}
