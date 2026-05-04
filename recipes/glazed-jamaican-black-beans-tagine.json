@@ -1,0 +1,118 @@
+{
+  "title": "Glazed Jamaican Black Beans Tagine",
+  "description": "Jammy, chewy, festive Jamaican tagine of black beans glazed with sweet maple syrup and coconut milk, finished with a dollop of sour cream.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cooked black beans",
+      "amount": "2 cups",
+      "notes": "cooked from dried beans or canned, drained"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tablespoon",
+      "notes": "minced"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Scotch bonnet pepper",
+      "amount": "1",
+      "notes": "seeded and minced"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "1 tablespoon",
+      "notes": "pure"
+    },
+    {
+      "name": "Light coconut milk",
+      "amount": "1 cup",
+      "notes": "for lower fat"
+    },
+    {
+      "name": "Infused olive oil",
+      "amount": "2 tablespoons",
+      "notes": "infused with cinnamon or nutmeg"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "2 tablespoons",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the infused olive oil in the ceramic tagine over medium heat until shimmering.",
+    "Add the diced onion and sauté until translucent, about 5 minutes.",
+    "Stir in the minced garlic, ginger, and scotch bonnet pepper, cooking for 1 minute until fragrant.",
+    "Sprinkle in the thyme, cumin, and soy sauce, mixing well and letting the spices toast for 30 seconds.",
+    "Add the cooked black beans, light coconut milk, and maple syrup, stirring to combine everything.",
+    "Bring the mixture to a gentle simmer, then reduce the heat to low, cover, and let it cook for 20 minutes, stirring occasionally.",
+    "Check the seasoning, and if desired, add more soy sauce or maple syrup for depth.",
+    "Remove from heat, stir in a squeeze of lime juice, then transfer to a serving dish and top with a dollop of sour cream before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chewy",
+    "festive",
+    "glazed",
+    "jamaican",
+    "lacto-vegetarian",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 254,
+    "protein": 7,
+    "carbs": 25,
+    "fat": 9
+  },
+  "slug": "glazed-jamaican-black-beans-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/glazed-jamaican-black-beans-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:26:40Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "chewy",
+    "mood": "festive",
+    "technique": "infuse-oil",
+    "primaryIngredient": "sour cream",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "black beans",
+    "descriptor": "Glazed",
+    "dishForm": "Tagine"
+  }
+}
