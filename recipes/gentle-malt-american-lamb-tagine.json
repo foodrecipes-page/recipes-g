@@ -1,0 +1,94 @@
+{
+  "title": "Gentle Malt American Lamb Tagine",
+  "description": "A malty and velvety American dish featuring lamb, olive oil, and rest, made in a ceramic tagine, following ayurvedic-sattvic-friendly principles.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "boneless, cut into 2-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "prunes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Heat the olive oil in the ceramic tagine over medium heat.",
+    "Add the lamb pieces and cook until browned on all sides.",
+    "Add the malt syrup, garlic, and ginger, and cook for 1 minute.",
+    "Add the dried apricots, prunes, and chicken broth, and bring to a boil.",
+    "Cover the tagine and transfer it to the preheated oven.",
+    "Braise the lamb for 2.5 hours, or until tender.",
+    "Let the tagine rest for 10 minutes before serving.",
+    "Serve the lamb and sauce over couscous or rice."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "healthy",
+    "lamb-based",
+    "one-pot",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "gentle-malt-american-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gentle-malt-american-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:26:51Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "velvety",
+    "mood": "romantic",
+    "technique": "rest",
+    "primaryIngredient": "olive oil",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "lamb",
+    "descriptor": "Gentle Malt",
+    "dishForm": "Tagine"
+  }
+}

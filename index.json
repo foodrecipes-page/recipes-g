@@ -2401,6 +2401,20 @@
     "shard": "g"
   },
   {
+    "slug": "gentle-malt-american-lamb-tagine",
+    "title": "Gentle Malt American Lamb Tagine",
+    "tags": [
+      "comfort-food",
+      "healthy",
+      "lamb-based",
+      "one-pot",
+      "slow-cooked"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 180,
+    "shard": "g"
+  },
+  {
     "slug": "gentle-slovakian-noodle-dish",
     "title": "Slovakian Noodle Dish",
     "tags": [
