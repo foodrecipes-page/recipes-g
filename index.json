@@ -2441,6 +2441,20 @@
     "shard": "g"
   },
   {
+    "slug": "glazed-indian-almond-toast",
+    "title": "Glazed Indian Almond Toast",
+    "tags": [
+      "flatbread",
+      "indian",
+      "nutty",
+      "quick",
+      "snack"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 20,
+    "shard": "g"
+  },
+  {
     "slug": "glazed-smoky-american-chicken-casserole",
     "title": "Glazed Smoky American Chicken Casserole",
     "tags": [

@@ -1,0 +1,89 @@
+{
+  "title": "Glazed Indian Almond Toast",
+  "description": "A simple nutty toast topped with a sweet almond glaze, perfect for a quick snack or light breakfast.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "plain flour",
+      "amount": "50 g",
+      "notes": "used for dusting"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "25 g",
+      "notes": "softened"
+    },
+    {
+      "name": "sliced almonds",
+      "amount": "30 g",
+      "notes": "toasted lightly"
+    },
+    {
+      "name": "honey",
+      "amount": "15 g",
+      "notes": "for sweetness"
+    },
+    {
+      "name": "white sugar",
+      "amount": "10 g",
+      "notes": "to help glaze"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 g",
+      "notes": "a pinch"
+    },
+    {
+      "name": "water",
+      "amount": "5 g",
+      "notes": "to thin glaze"
+    }
+  ],
+  "instructions": [
+    "Dust each slice of bread lightly with plain flour.",
+    "Heat a skillet over medium heat and melt the butter.",
+    "Place the bread slices in the skillet and toast until golden on both sides, about 3 minutes per side.",
+    "Meanwhile, in a small bowl, combine honey, sugar, water, and a pinch of salt; stir until the sugar dissolves.",
+    "Add the sliced almonds to the glaze and stir to coat evenly.",
+    "Remove the toasted bread from the skillet and spread the almond glaze over the hot surface, letting it caramelize for 30 seconds.",
+    "Serve immediately, optionally topping with extra toasted almonds."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "flatbread",
+    "indian",
+    "nutty",
+    "quick",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 9,
+    "carbs": 45,
+    "fat": 14
+  },
+  "slug": "glazed-indian-almond-toast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/glazed-indian-almond-toast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:50:32Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "chewy",
+    "mood": "show-off",
+    "technique": "toast",
+    "primaryIngredient": "plain flour",
+    "diet": "ayurvedic-tamasic",
+    "region": "north",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "almonds",
+    "descriptor": "Glazed",
+    "dishForm": "Toast"
+  }
+}
