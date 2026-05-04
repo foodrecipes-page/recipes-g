@@ -1239,6 +1239,18 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-crunchy-kenyan-garlic-stew",
+    "title": "Garlicky Crunchy Kenyan Garlic Stew",
+    "tags": [
+      "comfort-food",
+      "high-calorie",
+      "one-pan"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 65,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-crunchy-spanish-lentils-stir-fry",
     "title": "Garlicky Crunchy Spanish Lentils Stir-fry",
     "tags": [
@@ -6505,6 +6517,20 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
+    "slug": "grilled-peruvian-pork-sirloin",
+    "title": "Grilled Peruvian Pork Sirloin",
+    "tags": [
+      "grilled",
+      "one-pan",
+      "peruvian",
+      "pork",
+      "weeknight"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 50,
     "shard": "g"
   },
   {

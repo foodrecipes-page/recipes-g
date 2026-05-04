@@ -1,0 +1,133 @@
+{
+  "title": "Grilled Peruvian Pork Sirloin",
+  "description": "A flavorful and silky Peruvian dish featuring pork shoulder steaks marinated in a mixture of aji amarillo peppers, garlic, and spices, then grilled to perfection. This recipe is egg-free-friendly and perfect for a weeknight dinner.",
+  "cuisine": "Peruvian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder steaks",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Aji amarillo pepper paste",
+      "amount": "2 tablespoons",
+      "notes": "You can substitute with jalapeño or other hot pepper paste."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced."
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground."
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": "Ground."
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "Smoked."
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Coarse."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Coarse."
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For grilling."
+    },
+    {
+      "name": "Tadka (Peruvian spices)",
+      "amount": "1 teaspoon",
+      "notes": "Available at most Latin American markets or online."
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped."
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "4",
+      "notes": "For serving."
+    },
+    {
+      "name": "Aji amarillo pepper slices",
+      "amount": "4",
+      "notes": "For garnish."
+    },
+    {
+      "name": "Queso fresco",
+      "amount": "1/4 cup",
+      "notes": "Crumbled, for serving (optional)."
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat, about 400°F.",
+    "In a blender or food processor, combine aji amarillo pepper paste, garlic, cumin, coriander, paprika, salt, and black pepper. Blend until smooth.",
+    "Add lime juice and olive oil to the blender and blend until well combined.",
+    "Transfer the marinade to a large ziplock bag and add the pork shoulder steaks. Seal the bag and refrigerate for at least 2 hours or overnight.",
+    "Remove the pork from the marinade, letting any excess liquid drip off.",
+    "Grill the pork for 5-7 minutes per side, or until it reaches an internal temperature of 145°F.",
+    "Transfer the pork to a cutting board and let it rest for 5 minutes.",
+    "Heat the tadka in a small skillet over medium heat until fragrant.",
+    "Brush the grilled pork with the tadka and garnish with chopped cilantro, aji amarillo pepper slices, and a squeeze of lime juice.",
+    "Serve with lime wedges and crumbled queso fresco, if desired.",
+    "Let the pork rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "grilled",
+    "one-pan",
+    "peruvian",
+    "pork",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 16,
+    "fat": 34
+  },
+  "slug": "grilled-peruvian-pork-sirloin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/grilled-peruvian-pork-sirloin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:53:40Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "silky",
+    "mood": "show-off",
+    "technique": "tadka",
+    "primaryIngredient": "pork shoulder steaks",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "peruvian",
+    "mainIngredient": "pork",
+    "descriptor": "grilled",
+    "dishForm": "sirloin"
+  }
+}
