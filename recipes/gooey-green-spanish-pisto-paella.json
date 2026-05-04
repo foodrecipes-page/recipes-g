@@ -1,0 +1,128 @@
+{
+  "title": "Gooey Green Spanish Pisto Paella",
+  "description": "A rich, earthy, pillowy Spanish dish featuring panang-paste and kombu-cold-extract. Steeped in Catalan tradition, this recipe is sure to become a comfort classic.",
+  "cuisine": "Spanish",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Arborio rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Panang paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Kombu cold extract",
+      "amount": "1/4 cup",
+      "notes": "Use a high-quality extract for the best flavor"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh spinach",
+      "amount": "2 cups",
+      "notes": "Chopped, fresh is best"
+    },
+    {
+      "name": "Pisto Manchego cheese",
+      "amount": "1/2 cup",
+      "notes": "Torn into small pieces for best melting"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1/4 teaspoon",
+      "notes": "Optional, for added depth"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large paella pan over medium heat.",
+    "Sauté the onion and bell pepper until they start to soften.",
+    "Add the garlic and sauté for 1 minute, until fragrant.",
+    "Add the Arborio rice and stir to coat with the vegetable oil.",
+    "Add the panang paste and stir to combine, cooking for 1-2 minutes.",
+    "Add the kombu cold extract and stir to combine, cooking for 1-2 minutes.",
+    "Add the chicken broth, 1 cup at a time, stirring constantly and allowing each cup to be fully absorbed before adding the next.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, uncovered, for 20-25 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Stir in the smoked paprika, if using.",
+    "Remove the pan from the heat and let it rest, covered, for 5 minutes.",
+    "Fluff the rice with a fork and stir in the chopped spinach and Pisto Manchego cheese.",
+    "Serve immediately and enjoy!",
+    "Let the paella rest for 10-15 minutes before serving, if desired, to allow the flavors to meld together.",
+    "If you prefer a crisper bottom, broil the paella for 2-3 minutes, or until the top is golden brown.",
+    "If you prefer a creamier paella, stir in 1-2 tablespoons of heavy cream or half-and-half before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "catalan",
+    "comfort-food",
+    "easy-dinner",
+    "one-pan",
+    "spanish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 30,
+    "carbs": 80,
+    "fat": 45
+  },
+  "slug": "gooey-green-spanish-pisto-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-green-spanish-pisto-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:29:55Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "pillowy",
+    "mood": "nostalgic",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "panang-paste",
+    "diet": "dash",
+    "region": "catalan",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "pisto",
+    "descriptor": "Gooey Green",
+    "dishForm": "Paella"
+  }
+}

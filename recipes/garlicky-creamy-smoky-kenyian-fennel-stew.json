@@ -1,0 +1,103 @@
+{
+  "title": "Garlicky Creamy Smoky Kenyan Fennel Stew",
+  "description": "A rich and flavorful stew from Kenya featuring fennel seeds and a smoky heat without onions or garlic.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-containing"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fennel bulbs",
+      "amount": "3",
+      "notes": "1 large or 2 small fennel bulbs cut into 1-inch pieces"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "or other neutral oil for saut\u00045ing"
+    },
+    {
+      "name": "chicken breast meat",
+      "amount": "1 pound",
+      "notes": "bony parts removed, cut into bite-sized pieces"
+    },
+    {
+      "name": "kenyan coriander spice mix",
+      "amount": "2 teaspoons",
+      "notes": "available at African markets or online"
+    },
+    {
+      "name": "hot smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "optional, adjust to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1 cup",
+      "notes": "full-fat for best flavor"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "or chicken broth for added depth"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a clay pot over medium heat.",
+    "Add the chicken and cook until browned on all sides, about 5-7 minutes.",
+    "Add the fennel and cook for 3-4 minutes, stirring occasionally.",
+    "Add the Kenyan coriander spice mix, hot smoked paprika, salt, and black pepper, and stir to combine.",
+    "Pour in the water and bring to a simmer.",
+    "Reduce heat to low and cook, covered, for 15-20 minutes, or until the chicken and fennel are tender.",
+    "Stir in the plain yogurt and cook for an additional 5 minutes, or until heated through.",
+    "Serve hot, garnished with additional fennel seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "kenyan",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "slug": "garlicky-creamy-smoky-kenyian-fennel-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-creamy-smoky-kenyian-fennel-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:30:28Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "smoke-hot",
+    "primaryIngredient": "fennel seeds",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Kenyian",
+    "mainIngredient": "fennel",
+    "descriptor": "Garlicky, creamy, smoky",
+    "dishForm": "Stew"
+  }
+}

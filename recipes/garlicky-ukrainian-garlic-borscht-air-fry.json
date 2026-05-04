@@ -1,0 +1,108 @@
+{
+  "title": "Garlicky Ukrainian Garlic Borscht Air-Fry",
+  "description": "A garlicky twist on the traditional Ukrainian borscht, air-fried for a crispy glassy-jelly finish, perfect for a sick-day comfort food.",
+  "cuisine": "Ukrainian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beets",
+      "amount": "2 cups",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 can",
+      "notes": "diced and drained"
+    },
+    {
+      "name": "Balsamic vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chilli flakes",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 375°F (190°C).",
+    "In a large bowl, combine the beets, onion, and garlic, and toss with 1 tsp of olive oil, salt, and black pepper.",
+    "Transfer the beet mixture to the air fryer basket and cook for 10 minutes, shaking halfway through.",
+    "In a separate pan, heat the balsamic vinegar over low heat until reduced by half, stirring occasionally.",
+    "In the air fryer basket, add the tomatoes and chilli flakes, and cook for an additional 5 minutes.",
+    "Stir in the reduced balsamic vinegar and cook for 1 minute.",
+    "Taste and adjust seasoning as needed.",
+    "Transfer the borscht to a serving dish and garnish with chopped parsley.",
+    "Serve hot, garnished with additional parsley if desired.",
+    "Refrigerate or freeze for later use, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fried",
+    "comfort-food",
+    "high-protein",
+    "keto-friendly",
+    "ukrainian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 15,
+    "fat": 10
+  },
+  "slug": "garlicky-ukrainian-garlic-borscht-air-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-ukrainian-garlic-borscht-air-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:29:50Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "glassy-jelly",
+    "mood": "sick-day",
+    "technique": "air-fry",
+    "primaryIngredient": "chilli flakes",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Garlic",
+    "descriptor": "Garlicky",
+    "dishForm": "Borscht"
+  }
+}

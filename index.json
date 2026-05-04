@@ -731,6 +731,19 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-creamy-smoky-kenyian-fennel-stew",
+    "title": "Garlicky Creamy Smoky Kenyan Fennel Stew",
+    "tags": [
+      "high-protein",
+      "kenyan",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 50,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-creamy-thai-split-peas-curry",
     "title": "Garlicky Creamy Thai Split Peas Curry",
     "tags": [
@@ -1936,6 +1949,22 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-light-mediterranean-leek-braised",
+    "title": "Garlicky Light Mediterranean Leek Braised",
+    "tags": [
+      "braised",
+      "easy-to-make",
+      "garlic",
+      "leek",
+      "mediterranean",
+      "special-occasion",
+      "vegetarian"
+    ],
+    "cuisine": "mediterranean",
+    "totalTimeMin": 50,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-light-mexican-chicken-tacos",
     "title": "Garlicky, Light Mexican Chicken Tacos",
     "tags": [
@@ -2341,6 +2370,21 @@
     "tags": [],
     "cuisine": "Norwegian",
     "totalTimeMin": null,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-ukrainian-garlic-borscht-air-fry",
+    "title": "Garlicky Ukrainian Garlic Borscht Air-Fry",
+    "tags": [
+      "air-fried",
+      "comfort-food",
+      "high-protein",
+      "keto-friendly",
+      "ukrainian",
+      "weeknight"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
@@ -4567,6 +4611,21 @@
     ],
     "cuisine": "Greek",
     "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
+    "slug": "gooey-green-spanish-pisto-paella",
+    "title": "Gooey Green Spanish Pisto Paella",
+    "tags": [
+      "catalan",
+      "comfort-food",
+      "easy-dinner",
+      "one-pan",
+      "spanish",
+      "weeknight"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 45,
     "shard": "g"
   },
   {
