@@ -1,0 +1,109 @@
+{
+  "title": "Glazed Ethiopian Lamb Stew",
+  "description": "A savory, glassy-jelly lamb stew with pomegranate molasses, perfect for a warm, romantic dinner.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "whole30-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder, cubed",
+      "amount": "1.5 lb"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "ginger, grated",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "berbere spice blend",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the kazan cauldron over medium-high heat and add olive oil.",
+    "Add the cubed lamb and sear until browned on all sides; transfer to a plate.",
+    "In the same cauldron, sauté the diced onion until translucent.",
+    "Stir in minced garlic and grated ginger, cooking for 1 minute until fragrant.",
+    "Sprinkle berbere spice blend and black pepper, stirring to coat the aromatics.",
+    "Add tomato paste and red wine vinegar, cooking for 2 minutes to meld flavors.",
+    "Pour in pomegranate molasses and mix until the sauce thickens slightly.",
+    "Return the browned lamb to the cauldron, then pour in chicken broth.",
+    "Bring the mixture to a gentle simmer, cover, and cook for 90 minutes, stirring occasionally.",
+    "Remove the cover, reduce the liquid until the stew develops a glazed, glassy‑jelly consistency.",
+    "Season with salt to taste, stir in fresh parsley, and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "glazed",
+    "kazan-cooking",
+    "one-pot",
+    "romantic-dinner",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 700,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "glazed-ethiopian-lamb-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/glazed-ethiopian-lamb-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:24:01Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "glassy-jelly",
+    "mood": "romantic",
+    "technique": "temper",
+    "primaryIngredient": "pomegranate molasses",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lamb",
+    "descriptor": "glazed",
+    "dishForm": "stew"
+  }
+}
