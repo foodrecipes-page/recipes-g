@@ -1,0 +1,111 @@
+{
+  "title": "Glistening Vietnamese Pork Sandwich",
+  "description": "An earthy, springy, Whole30-friendly pork sandwich that bursts with poppy seeds and a deglaze fond, perfect for a lazy Sunday lunch.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder, boneless, thin strips",
+      "amount": "300 g"
+    },
+    {
+      "name": "Almond flour bun",
+      "amount": "1 piece",
+      "notes": "toasted"
+    },
+    {
+      "name": "Poppy seeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Carrot, julienned",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Cucumber, sliced",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Fresh cilantro, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Pickled daikon",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Bamboo shoots, rinsed",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Heat a skillet over medium-high and sear the pork strips until browned and cooked through, about 5 minutes, then set aside.",
+    "Deglaze the pan with 1 cup of low-sodium chicken broth, scraping up browned bits to form a fond.",
+    "Reduce the deglaze by half to concentrate flavor, about 3 minutes, and let cool slightly.",
+    "In a bowl, whisk fish sauce, lime juice, sesame oil, and a pinch of salt to create a quick vinaigrette.",
+    "Toss the cooked pork with the vinaigrette until evenly coated.",
+    "Toast the almond flour bun on a griddle until crisp on the edges, about 2 minutes.",
+    "Spread a thin layer of the cooled fond on the bun’s bottom half.",
+    "Layer the pork, carrot, cucumber, bamboo shoots, pickled daikon, and cilantro on top of the fond.",
+    "Sprinkle poppy seeds over the assembled sandwich.",
+    "Cover with the top half of the bun and press gently to seal.",
+    "Slice the sandwich in half and serve immediately for a crisp bite.",
+    "Optionally, drizzle a little extra fish sauce on the side for dipping."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "bun-thit-nuong",
+    "deglaze-fond",
+    "lazy-sunday",
+    "poppy-seeds",
+    "quick-sandwich",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 950,
+    "protein": 77,
+    "carbs": 24,
+    "fat": 60
+  },
+  "slug": "glistening-vietnamese-pork-sandwich",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/glistening-vietnamese-pork-sandwich",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:08:06Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "springy",
+    "mood": "lazy-sunday",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "poppy seeds",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork",
+    "descriptor": "Glistening",
+    "dishForm": "Sandwich"
+  }
+}
