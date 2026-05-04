@@ -1,0 +1,96 @@
+{
+  "title": "Gnarly Peppery Thai Tarragon Pad See Ew",
+  "description": "A peppery and crispy Thai dish featuring tarragon leaves, this pad see ew is a central Thai inspired recipe with a shojin friendly twist, using salt bake method to bring out the flavors.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "tarragon leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Thai bird eye chili",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a wok or large skillet over medium high heat.",
+    "Add the minced garlic and sliced Thai bird eye chili and stir fry until fragrant.",
+    "Add the chopped tarragon leaves and stir fry for another minute.",
+    "Add the rice noodles and stir fry for 2 minutes.",
+    "Add the soy sauce, salt, and black pepper, and stir fry for another minute.",
+    "Use the salt bake method by sprinkling salt around the wok or skillet and stir frying for 30 seconds.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the pad see ew to a serving platter and garnish with additional tarragon leaves if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "one-pan",
+    "peppery",
+    "quick-meal",
+    "shojin-friendly",
+    "thai-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "gnarly-peppery-thai-tarragon-pad-see-ew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gnarly-peppery-thai-tarragon-pad-see-ew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:11:28Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "adventurous",
+    "technique": "salt-bake",
+    "primaryIngredient": "tarragon leaves",
+    "diet": "shojin",
+    "region": "central-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "tarragon",
+    "descriptor": "Gnarly Peppery",
+    "dishForm": "Pad See Ew"
+  }
+}
