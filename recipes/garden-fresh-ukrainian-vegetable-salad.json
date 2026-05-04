@@ -1,0 +1,107 @@
+{
+  "title": "Garden Fresh Ukrainian Vegetable Salad",
+  "description": "A refreshing and herbal Ukrainian salad featuring raw vegetables and a soffritto base, perfect for a post-workout meal.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cucumber",
+      "amount": "2 medium",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 large",
+      "notes": "seeded and thinly sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "3 large",
+      "notes": "diced"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Prepare the soffritto base by heating the olive oil in a pan over low heat.",
+    "Add the thinly sliced onions to the pan and cook until they are translucent.",
+    "Add the grated carrots to the pan and cook for an additional 2 minutes.",
+    "Remove the pan from the heat and let it cool to room temperature.",
+    "In a large bowl, combine the cooled soffritto base, sliced cucumbers, bell peppers, and diced tomatoes.",
+    "Sprinkle the chopped fresh dill over the top of the salad and toss to combine.",
+    "In a small bowl, whisk together the apple cider vinegar, salt, and black pepper.",
+    "Pour the dressing over the salad and toss to combine.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "healthy-snack",
+    "high-fiber",
+    "low-calorie",
+    "ukrainian-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "garden-fresh-ukrainian-vegetable-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/garden-fresh-ukrainian-vegetable-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:03:51Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "shattering",
+    "mood": "post-workout",
+    "technique": "soffritto-base",
+    "primaryIngredient": "raw vegetables",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Garden Fresh",
+    "dishForm": "Salad"
+  }
+}

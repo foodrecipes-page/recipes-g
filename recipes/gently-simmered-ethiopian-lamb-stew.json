@@ -1,0 +1,107 @@
+{
+  "title": "Gently Simmered Ethiopian Lamb Stew",
+  "description": "A cultured and juicy Ethiopian dish featuring tender lamb and a rich, slightly thickened broth, made with kanten-agar and a deglazed fond, all Whole30-friendly and cooked to perfection on a comal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "Whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 1/2 inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "kanten-agar",
+      "amount": "2 tablespoons",
+      "notes": "dissolved in 2 tablespoons water"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 teaspoon",
+      "notes": "or more to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "or more to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "or more to taste"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Heat a comal over medium heat and add 2 tablespoons of oil to the center.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and grated ginger and cook for 1 minute, stirring constantly.",
+    "Add the lamb cubes and cook until they are browned on all sides, about 5 minutes.",
+    "Add the berbere spice, salt, and black pepper, and stir to combine.",
+    "Add the beef broth and dissolved kanten-agar, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 hours.",
+    "Remove the comal from the heat and let it cool slightly.",
+    "Deglaze the fond from the comal with a little water, scraping up any browned bits.",
+    "Stir the deglazed fond back into the stew and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "ethiopian",
+    "gluten-free",
+    "lamb",
+    "one-pot",
+    "stew",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "gently-simmered-ethiopian-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gently-simmered-ethiopian-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:03:20Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "juicy",
+    "mood": "cozy",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "kanten-agar",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lamb",
+    "descriptor": "Gently simmered",
+    "dishForm": "Stew"
+  }
+}

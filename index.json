@@ -55,6 +55,21 @@
     "shard": "g"
   },
   {
+    "slug": "garden-fresh-ukrainian-vegetable-salad",
+    "title": "Garden Fresh Ukrainian Vegetable Salad",
+    "tags": [
+      "gluten-free",
+      "healthy-snack",
+      "high-fiber",
+      "low-calorie",
+      "ukrainian-cuisine",
+      "vegetarian"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 30,
+    "shard": "g"
+  },
+  {
     "slug": "garlic-basil-white-fish-bowl",
     "title": "Garlic Basil White Fish Bowl",
     "tags": [
@@ -2262,6 +2277,22 @@
     ],
     "cuisine": "Italian",
     "totalTimeMin": 40,
+    "shard": "g"
+  },
+  {
+    "slug": "gently-simmered-ethiopian-lamb-stew",
+    "title": "Gently Simmered Ethiopian Lamb Stew",
+    "tags": [
+      "comfort-food",
+      "ethiopian",
+      "gluten-free",
+      "lamb",
+      "one-pot",
+      "stew",
+      "whole30"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 110,
     "shard": "g"
   },
   {
