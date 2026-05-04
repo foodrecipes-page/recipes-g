@@ -1,0 +1,97 @@
+{
+  "title": "Golden German Rice Dumplings",
+  "description": "A fluffy, bouncy rice dumpling dish flavored with sweet rice flour, fresh dill and pickled cucumber, perfect for a solo halal-friendly dinner.",
+  "cuisine": "German",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet rice flour",
+      "amount": "200g"
+    },
+    {
+      "name": "warm water",
+      "amount": "150ml"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "pickled cucumber, diced",
+      "amount": "50g"
+    },
+    {
+      "name": "fresh dill, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "parses, chopped",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a bowl, mix sweet rice flour, baking powder, and salt.",
+    "Add warm water and stir until a smooth, elastic dough forms.",
+    "Knead the dough for 2 minutes, then let it rest for 10 minutes.",
+    "Divide the dough into 8 equal pieces and roll each into a small ball.",
+    "Heat a skillet over medium heat and lightly oil it.",
+    "Place the dumplings in the skillet, cooking 3 minutes per side until golden.",
+    "Serve hot, garnished with dill, lemon zest, and pickled cucumber."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bouncy-qq",
+    "german-influenced",
+    "halal-friendly",
+    "pickled-flavor",
+    "quick-dinner",
+    "rice-dumplings"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 5
+  },
+  "slug": "golden-german-rice-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-german-rice-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:42:43Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "bouncy-qq",
+    "mood": "solo-dinner",
+    "technique": "pickle",
+    "primaryIngredient": "sweet-rice-flour-chapssalgaru",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Rice",
+    "descriptor": "Golden",
+    "dishForm": "Dumplings"
+  }
+}
