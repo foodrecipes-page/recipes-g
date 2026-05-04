@@ -1,0 +1,108 @@
+{
+  "title": "Golden Crispy Mediterranean Vialone-Nano Fritters",
+  "description": "Quick-fix, low-carb-friendly fritters packed with Mediterranean flavors and fluffy Vialone-Nano rice.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "low-carb",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Vialone-Nano rice",
+      "amount": "1 cup",
+      "notes": "short-grain rice"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly, low-fat"
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Artichoke hearts",
+      "amount": "1/2 cup",
+      "notes": "canned, drained"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Zest of 1 lemon",
+      "amount": "1 tsp",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "2 tbsp",
+      "notes": "plain, low-fat"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "large, beaten"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 375°F (190°C).",
+    "In a large bowl, whisk together the egg, Greek yogurt, lemon juice, and lemon zest.",
+    "Add the minced garlic, chopped parsley, crumbled feta cheese, pitted olives, canned artichoke hearts, and grated Vialone-Nano rice to the bowl.",
+    "Mix well to combine, until the ingredients are evenly distributed.",
+    "Using a 1/4 cup measuring cup, scoop the mixture into the air fryer basket.",
+    "Spray the tops of the fritters with cooking spray to prevent sticking.",
+    "Cook the fritters in the air fryer for 8-10 minutes, or until golden brown and crispy.",
+    "Remove the fritters from the air fryer and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fryer",
+    "low-carb",
+    "mediterranean",
+    "quick-fix",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "golden-crispy-mediterranean-vialone-nano-fritters",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-crispy-mediterranean-vialone-nano-fritters",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:15:11Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "fluffy",
+    "mood": "quick-fix",
+    "technique": "air-fry",
+    "primaryIngredient": "vialone-nano",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Vialone-Nano",
+    "descriptor": "Golden Crispy",
+    "dishForm": "Fritters"
+  }
+}
