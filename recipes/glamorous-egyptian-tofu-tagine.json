@@ -1,0 +1,113 @@
+{
+  "title": "Glamorous Egyptian Tofu Tagine",
+  "description": "A salty and juicy lacto-vegetarian tagine dish featuring marinated tofu, perfect for a date night.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "lacto-vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "Extra-firm, drained and cut into 1-inch pieces"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For marinating"
+    },
+    {
+      "name": "Paprika",
+      "amount": "2 tsp",
+      "notes": "Smoked or sweet"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "1/4 cup",
+      "notes": "Pitted"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Dried dates",
+      "amount": "4-6 dates",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a small bowl, combine olive oil, paprika, cumin, coriander, ginger, and cayenne pepper to make the marinade.",
+    "In a large bowl, whisk together marinade and lemon juice; add tofu and marinate for at least 30 minutes, or up to 2 hours in the refrigerator.",
+    "Preheat oven to 400°F (200°C).",
+    "Remove tofu from marinade, allowing any excess to drip off. Place tofu on a baking sheet lined with parchment paper.",
+    "Bake tofu for 20-25 minutes or until lightly browned on the edges.",
+    "While tofu is baking, heat a large tagine or Dutch oven over medium heat.",
+    "Add chopped olives and cook for 2-3 minutes or until fragrant.",
+    "Add dried dates and cook for 2-3 minutes or until puffed.",
+    "Remove tofu from the oven and add to the tagine or Dutch oven.",
+    "Stir to combine and cook for 2-3 minutes or until tofu is coated in the date and olive mixture.",
+    "Garnish with parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "gluten-free",
+    "high-protein",
+    "lacto-vegetarian",
+    "moroccan-inspired",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "glamorous-egyptian-tofu-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/glamorous-egyptian-tofu-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:08:57Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "juicy",
+    "mood": "date-night",
+    "technique": "dehydrate",
+    "primaryIngredient": "marinated tofu",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "tofu",
+    "descriptor": "Glamorous",
+    "dishForm": "Tagine"
+  }
+}
