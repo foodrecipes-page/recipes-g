@@ -1,0 +1,112 @@
+{
+  "title": "Glazed Citrus Venezuelan Peanuts Stir-fry",
+  "description": "A bright, citrusy stir-fry of toasted peanuts and vegetables finished with a honey lime glaze, perfect for a pescatarian lunch.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "raw peanuts, toasted",
+      "amount": "1 cup",
+      "notes": "toasted until golden"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "red bell pepper, sliced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "zucchini, sliced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "carrot, sliced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "scallions, sliced",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ginger, grated",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "1 clove"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice, freshly squeezed",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce, low sodium",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the peanut oil in a wok over medium heat.",
+    "Add the minced garlic and grated ginger, sauté for 30 seconds until fragrant.",
+    "Add the sliced bell pepper, zucchini, and carrot, stir-fry for 4 minutes.",
+    "Add the scallions and toasted peanuts, cook for another 2 minutes.",
+    "Whisk honey, lime juice, soy sauce, chili flakes, and salt until well combined.",
+    "Pour the glaze over the vegetables and peanuts, toss to coat.",
+    "Cook for 2 more minutes until the sauce thickens slightly.",
+    "Remove from heat and serve hot over cooked quinoa or rice.",
+    "Garnish with extra chopped peanuts and a squeeze of lime if desired.",
+    "Enjoy a bright, comforting Venezuelan-inspired stir-fry."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrus",
+    "one-pot",
+    "peanut",
+    "pescatarian",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "glazed-citrus-venezuelan-peanuts-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/glazed-citrus-venezuelan-peanuts-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:33:22Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crumbly",
+    "mood": "comforting",
+    "technique": "toast",
+    "primaryIngredient": "ground nut oil",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "peanuts",
+    "descriptor": "Glazed Citrus",
+    "dishForm": "Stir-fry"
+  }
+}
