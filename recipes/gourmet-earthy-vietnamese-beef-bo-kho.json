@@ -1,0 +1,108 @@
+{
+  "title": "Gourmet Earthy Vietnamese Beef Bo Kho",
+  "description": "A hearty and earthy Vietnamese beef stew featuring tender beef, rich tomatoes, and a blend of aromatic spices, perfect for a weeknight dinner. This dish is shojin-friendly and offers a unique cheese-pull texture.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "1 pound",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "14 ounces"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the beef to the pot and cook until browned on all sides, about 5 minutes.",
+    "Add the tomato paste, fish sauce, soy sauce, brown sugar, cumin, and coriander to the pot, stirring to combine.",
+    "Cook for 1 minute, until the spices are fragrant.",
+    "Add the diced tomatoes and beef broth to the pot, stirring to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 2 hours.",
+    "Stir in the chopped basil and cook for an additional 10 minutes.",
+    "Preheat the broiler.",
+    "Transfer the pot to the oven and top with shredded mozzarella cheese.",
+    "Broil until the cheese is melted and bubbly, about 2-3 minutes.",
+    "Remove the pot from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 130,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "cheesy-dishes",
+    "one-pot-meals",
+    "shojin-friendly",
+    "vietnamese-cuisine",
+    "weeknight-dinners"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "gourmet-earthy-vietnamese-beef-bo-kho",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gourmet-earthy-vietnamese-beef-bo-kho",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:55:52Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "cheese-pull",
+    "mood": "weeknight",
+    "technique": "saute",
+    "primaryIngredient": "tomato",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "beef",
+    "descriptor": "Gourmet Earthy",
+    "dishForm": "Bo Kho"
+  }
+}
