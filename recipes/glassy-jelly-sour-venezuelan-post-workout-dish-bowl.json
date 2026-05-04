@@ -1,0 +1,125 @@
+{
+  "title": "Glassy-Jelly Sour Venezuelan Post-Workout Bowl",
+  "description": "A refreshing, post-workout dish featuring glassy-jelly and the sweetness of plantains, served in a sizzling dolsot stone bowl.",
+  "cuisine": "Venezuelan",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rapeseed oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Plantain",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Mirepoix (onion, carrot, celery)",
+      "amount": "1 medium each",
+      "notes": ""
+    },
+    {
+      "name": "Glass jelly (made from passionfruit and guava)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 pinch",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 pinch",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ayurvedic cumin powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 pinch",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat rapeseed oil in a skillet over medium heat.",
+    "Sear plantain slices until caramelized, about 5 minutes per side.",
+    "Sauté mirepoix until softened, about 5 minutes.",
+    "Add glass jelly and stir to combine with mirepoix.",
+    "Season with cilantro, lime juice, salt, black pepper, ginger, garlic, turmeric, cumin powder, oregano, and paprika.",
+    "Transfer mixture to a dolsot stone bowl.",
+    "Serve immediately, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "sattvic-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "glassy-jelly-sour-venezuelan-post-workout-dish-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/glassy-jelly-sour-venezuelan-post-workout-dish-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:32:10Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "glassy-jelly",
+    "mood": "post-workout",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "rapeseed oil",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "venezuelan",
+    "mainIngredient": "post-workout dish",
+    "descriptor": "glassy-jelly sour",
+    "dishForm": "Bowl"
+  }
+}

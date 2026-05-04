@@ -1,0 +1,88 @@
+{
+  "title": "Gooey Golden Italian Foie-Gras Panna",
+  "description": "A floral, molten, energizing Italian dish featuring foie-gras and banana-leaf vessel, sugar-free-friendly. Perfect for warm evenings.",
+  "cuisine": "Italian",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Foie Gras",
+      "amount": "6 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Banana Leaves",
+      "amount": "4",
+      "notes": "fresh, large leaves for serving"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": "or sugar-free alternative"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Grapefruit Zest",
+      "amount": "1 teaspoon",
+      "notes": "fresh, finely grated"
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "1 sprig",
+      "notes": "fresh, for garnish"
+    },
+    {
+      "name": "Fleur de Sel",
+      "amount": "1/4 teaspoon",
+      "notes": "or flaky sea salt"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "2 cups",
+      "notes": "chilled"
+    }
+  ],
+  "instructions": [
+    "Preheat the water bath to 180°F (82°C)."
+  ],
+  "cookTimeMin": 0,
+  "prepTimeMin": 20,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "dessert",
+    "foie-gras",
+    "italian",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 36,
+    "carbs": 48,
+    "fat": 54
+  },
+  "slug": "gooey-golden-italian-foie-gras-panna",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-golden-italian-foie-gras-panna",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:32:30Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "molten",
+    "mood": "energizing",
+    "technique": "ferment",
+    "primaryIngredient": "foie-gras",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "foie-gras",
+    "descriptor": "Gooey Golden",
+    "dishForm": "Panna"
+  }
+}

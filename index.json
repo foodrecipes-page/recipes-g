@@ -2942,6 +2942,21 @@
     "shard": "g"
   },
   {
+    "slug": "glassy-jelly-sour-venezuelan-post-workout-dish-bowl",
+    "title": "Glassy-Jelly Sour Venezuelan Post-Workout Bowl",
+    "tags": [
+      "ayurvedic",
+      "high-protein",
+      "one-pan",
+      "post-workout",
+      "sattvic-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 30,
+    "shard": "g"
+  },
+  {
     "slug": "glassy-slovakian-mushroom-pasta",
     "title": "Glassy Slovakian Mushroom Pasta",
     "tags": [
@@ -4188,6 +4203,24 @@
     "shard": "g"
   },
   {
+    "slug": "gooey-american-pasta-lasagna",
+    "title": "Gooey American Pasta Lasagna",
+    "tags": [
+      "american",
+      "comfort-food",
+      "easy-meal-prep",
+      "family-friendly",
+      "high-calorie",
+      "high-carb",
+      "italian-inspiration",
+      "lasagna",
+      "meat-sauce"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 75,
+    "shard": "g"
+  },
+  {
     "slug": "gooey-argentinian-beef-skewers",
     "title": "Gooey Argentinian Beef Skewers",
     "tags": [
@@ -4585,6 +4618,20 @@
     ],
     "cuisine": "Australian",
     "totalTimeMin": 75,
+    "shard": "g"
+  },
+  {
+    "slug": "gooey-golden-italian-foie-gras-panna",
+    "title": "Gooey Golden Italian Foie-Gras Panna",
+    "tags": [
+      "dessert",
+      "foie-gras",
+      "italian",
+      "sugar-free",
+      "weeknight"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 20,
     "shard": "g"
   },
   {
