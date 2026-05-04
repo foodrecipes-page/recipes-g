@@ -1,0 +1,102 @@
+{
+  "title": "Golden Algerian Chicken Wings Skewers",
+  "description": "Tangy, crispy chicken wings skewers infused with Algerian spices and a hint of lemon, perfect for a shojin-friendly meal.",
+  "cuisine": "Algerian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken wings",
+      "amount": "16"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cayenne pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "fresh parsley (chopped)",
+      "amount": "2 tbsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Trim any excess fat from wings and pat dry with paper towels.",
+    "Whisk together olive oil, lemon juice, cumin, paprika, coriander, cayenne, salt, and pepper to form a marinad.",
+    "Toss wings in the marinad until fully coated, then let rest for 10 minutes at room temp.",
+    "Thread 4 wings onto each of 4 skewers, leaving small gaps between.",
+    "Brush grill with a little oil to prevent sticking.",
+    "Place skewers on the grill and cook 10-12 minutes, turning every 3 minutes, until wings are golden and reach internal temp of 165 F.",
+    "Remove from grill and let rest 5 minutes.",
+    "Sprinkle chopped parsley over the skewers before serving.",
+    "Serve hot with a side of lemon wedges and a sprinkle of extra parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "chicken",
+    "golden",
+    "grilled",
+    "skewers",
+    "snack",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 28,
+    "carbs": 2,
+    "fat": 13
+  },
+  "slug": "golden-algerian-chicken-wings-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-algerian-chicken-wings-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:46:04Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crispy",
+    "mood": "light",
+    "technique": "temper",
+    "primaryIngredient": "chicken wings",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "chicken wings",
+    "descriptor": "Golden",
+    "dishForm": "Skewers"
+  }
+}
