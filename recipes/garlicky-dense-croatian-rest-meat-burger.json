@@ -1,0 +1,93 @@
+{
+  "title": "Garlicky Dense Croatian Rest-Meat Burger",
+  "description": "A quick-fix, garlicky, dense burger featuring beer and rest-meat that's perfect for a weeknight dinner. It's vegan-friendly and can be cooked in under 30 minutes.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rest-meat",
+      "amount": "1 lb"
+    },
+    {
+      "name": "beer",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Combine rest-meat, onion, garlic, caraway seeds, salt, and black pepper in a bowl.",
+    "Add beer and mix well.",
+    "Add flour and mix until just combined.",
+    "Divide the mixture into 4 equal parts and shape each part into a ball.",
+    "Flatten each ball into a patty.",
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add the patties to the skillet and cook for 4 minutes per side.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian-cuisine",
+    "garlic-lovers",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "garlicky-dense-croatian-rest-meat-burger",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-dense-croatian-rest-meat-burger",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:43:32Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "dense",
+    "mood": "quick-fix",
+    "technique": "rest-meat",
+    "primaryIngredient": "beer",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "rest-meat",
+    "descriptor": "garlicky dense",
+    "dishForm": "Burger"
+  }
+}

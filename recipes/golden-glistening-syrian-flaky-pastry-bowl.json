@@ -1,0 +1,102 @@
+{
+  "title": "Golden Glistening Syrian Flaky Pastry Bowl",
+  "description": "A savory, flaky, brunch-mood Syrian dish featuring strong wholemeal flour, perfect for a low-carb-friendly breakfast or snack. Serve in a beautiful lacquerware bowl for a stunning presentation.",
+  "cuisine": "Syrian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "wholemeal flour",
+      "amount": "1 1/2 cups",
+      "notes": "use a strong wholemeal flour for the best flavor"
+    },
+    {
+      "name": "salted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh mint",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine wholemeal flour, salted butter, and water in a large mixing bowl until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 4 equal pieces and roll each piece into a ball.",
+    "Use a rolling pin to flatten each ball of dough into a thin circle.",
+    "Place a spoonful of plain yogurt in the center of each dough circle.",
+    "Sprinkle chopped fresh parsley and chopped fresh mint over the yogurt.",
+    "Fold the dough in half over the filling and press the edges together to seal the pastry.",
+    "Brush the tops of the pastries with a little bit of water and sprinkle with black pepper.",
+    "Heat a non-stick skillet over medium heat and cook the pastries for 4-5 minutes on each side, or until golden brown.",
+    "Serve the pastries hot in a beautiful lacquerware bowl.",
+    "Garnish with additional chopped fresh parsley and a dollop of plain yogurt, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "flaky",
+    "low-carb",
+    "one-pan",
+    "pastry",
+    "syrian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 16
+  },
+  "slug": "golden-glistening-syrian-flaky-pastry-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-glistening-syrian-flaky-pastry-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:43:40Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "flaky",
+    "mood": "brunch-mood",
+    "technique": "temper",
+    "primaryIngredient": "strong wholemeal flour",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "flaky pastry",
+    "descriptor": "Golden Glistening",
+    "dishForm": "Bowl"
+  }
+}

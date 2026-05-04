@@ -1,0 +1,134 @@
+{
+  "title": "Garlicky Flaky Algerian Lamb Tagine",
+  "description": "A flavorful and aromatic tagine dish that combines the richness of lamb with the brightness of garlic and the warmth of spices, perfect for a weeknight dinner. This recipe is designed to be easy to make and adaptable to ayurvedic and sattvic diets.",
+  "cuisine": "algerian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder, boneless and cut into 1-inch pieces",
+      "amount": "1 pound",
+      "notes": "You may use lamb shoulder or lamb neck, whichever is available."
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Use a good-quality, extra-virgin olive oil for the best flavor."
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "Chop the onion into small, uniform pieces."
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "Mince the garlic and saut with the onion for the best flavor."
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "Add a pinch of garlic powder to complement the fresh garlic."
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 teaspoon",
+      "notes": "Grate the ginger using a microplane for the best flavor."
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 teaspoon",
+      "notes": "Use a high-quality cinnamon for the best flavor."
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": "Add a pinch of cumin to complement the coriander."
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon",
+      "notes": "Use a high-quality coriander for the best flavor."
+    },
+    {
+      "name": "salt",
+      "amount": ", "
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "Use freshly ground black pepper for the best flavor."
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "optional",
+      "notes": "Add the parsley as a garnish for a pop of color."
+    },
+    {
+      "name": "sazon",
+      "amount": "1 teaspoon",
+      "notes": "Add the sazon for a pinch of saltiness and umami flavor."
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon",
+      "notes": "Add the lemon juice for a burst of citrus flavor."
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large, heavy pot or Dutch oven over medium heat.",
+    "Add the chopped onion and cook, stirring occasionally, until it is softened and lightly browned, about 8 minutes.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the ground ginger, ground cinnamon, ground cumin, and ground coriander, and cook for 1 minute, stirring constantly.",
+    "Add the lamb shoulder and cook, stirring occasionally, until it is browned on all sides, about 5 minutes.",
+    "Add the water, salt, black pepper, sazon, and lemon juice, and bring to a boil.",
+    "Reduce the heat to low, cover the pot with a tight-fitting lid, and simmer for 2 1/2 hours, or until the lamb is tender and falls apart easily.",
+    "Add chopped fresh parsley as a garnish, if desired.",
+    "Serve the tagine hot, garnished with parsley and accompanied by couscous or rice.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "ayurvedic",
+    "garlic-lovers",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "sattvic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 24,
+    "fat": 32
+  },
+  "slug": "garlicky-flaky-algerian-lamb-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-flaky-algerian-lamb-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:43:55Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "flaky",
+    "mood": "weeknight",
+    "technique": "brine-dry",
+    "primaryIngredient": "sazon",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "lamb",
+    "descriptor": "Garlicky Flaky",
+    "dishForm": "Tagine"
+  }
+}
