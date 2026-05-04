@@ -1,0 +1,101 @@
+{
+  "title": "Glistening Syrian Cheese Flatbread",
+  "description": "A savory flatbread with melted akkawi cheese, smoky lard, and fragrant herbs, perfect for a quick lunch.",
+  "cuisine": "Syrian",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": "300 g"
+    },
+    {
+      "name": "warm water",
+      "amount": "180 ml"
+    },
+    {
+      "name": "salt",
+      "amount": "5 g"
+    },
+    {
+      "name": "dry yeast",
+      "amount": "5 g"
+    },
+    {
+      "name": "lard",
+      "amount": "20 g"
+    },
+    {
+      "name": "akkawi cheese",
+      "amount": "150 g"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "80 g"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "10 g"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 g"
+    },
+    {
+      "name": "extra salt for sprinkling",
+      "amount": "2 g"
+    }
+  ],
+  "instructions": [
+    "In a bowl combine flour, salt, and yeast.",
+    "Add warm water and mix until a soft dough forms.",
+    "Knead the dough on a floured surface for 5 minutes until smooth.",
+    "Cover the dough, let it rise for 30 minutes until doubled in size.",
+    "Preheat a cast iron skillet over medium heat.",
+    "Heat the lard in the skillet until it melts and begins to smoke slightly.",
+    "Divide the dough into four equal portions and roll each into a thin circle.",
+    "Place a portion of dough onto the hot skillet and cook for 2 minutes on each side until golden.",
+    "Top the cooked flatbread with slices of akkawi cheese, tomato puree, and a sprinkle of oregano.",
+    "Cover the skillet with a lid and cook for an additional 2 minutes until the cheese melts.",
+    "Drizzle the flatbread with the remaining melted lard and sprinkle with fresh parsley.",
+    "Serve hot with a side of flatbread chips."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheese",
+    "flatbread",
+    "one-pan",
+    "syrian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 459,
+    "protein": 17,
+    "carbs": 59,
+    "fat": 14
+  },
+  "slug": "glistening-syrian-cheese-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/glistening-syrian-cheese-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:42:17Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "cheese-pull",
+    "mood": "light",
+    "technique": "smoke",
+    "primaryIngredient": "lard",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "cheese",
+    "descriptor": "Glistening",
+    "dishForm": "Flatbread"
+  }
+}
