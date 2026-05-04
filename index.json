@@ -2739,6 +2739,17 @@
     "shard": "g"
   },
   {
+    "slug": "glazed-german-rice-fried-rice",
+    "title": "Glazed German Rice Fried-Rice",
+    "tags": [
+      "german",
+      "dinner"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 40,
+    "shard": "g"
+  },
+  {
     "slug": "glazed-indian-almond-toast",
     "title": "Glazed Indian Almond Toast",
     "tags": [
