@@ -1,0 +1,109 @@
+{
+  "title": "Glazed Moroccan Chicken Tagine",
+  "description": "A herbal, chewy hangover cure featuring chicken legs glazed with a tangy pickle brine and aromatic spices, served in a cast‑iron skillet.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "low-carb",
+    "sugar-free-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bone-in chicken legs",
+      "amount": "4",
+      "notes": "season with salt and pepper to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2, minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "low-sodium chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "nuka-pickle brine",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "1 tbsp",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat your cast-iron skillet over medium heat.",
+    "Drizzle olive oil, then brown the chicken legs on all sides for about 8 minutes.",
+    "Remove chicken and set aside; add onion and garlic to the skillet and sauté until translucent.",
+    "Stir in the spices and cook for 1 minute until fragrant.",
+    "Return the chicken to the skillet, pour in the broth and nuka-pickle brine, ensuring the legs are partially submerged.",
+    "Bring the mixture to a gentle simmer, cover loosely with foil, and cook for 25 minutes until the chicken reaches 165°F.",
+    "Uncover, reduce heat to low, and simmer until the sauce thickens to a glaze, about 5 minutes, stirring occasionally.",
+    "Sprinkle with fresh cilantro, adjust seasoning, and serve hot over cauliflower rice or steamed veggies."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "glazed",
+    "hangover-cure",
+    "low-carb",
+    "moroccan",
+    "one-pan",
+    "sugar-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 35,
+    "carbs": 12,
+    "fat": 22
+  },
+  "slug": "glazed-moroccan-chicken-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/glazed-moroccan-chicken-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:07:11Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "chewy",
+    "mood": "hangover-cure",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "chicken legs",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Chicken",
+    "descriptor": "Glazed",
+    "dishForm": "Tagine"
+  }
+}
