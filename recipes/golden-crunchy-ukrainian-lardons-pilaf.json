@@ -1,0 +1,99 @@
+{
+  "title": "Golden Crunchy Ukrainian Lardons Pilaf",
+  "description": "A one-pot Ukrainian dish featuring marzipan and lardons, rendered to a crunchy perfection, this recipe is ayurvedic sattvic friendly and full of culture. It combines the sweetness of marzipan with the savory taste of lardons.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Marzipan",
+      "amount": "1 cup",
+      "notes": "crushed into small pieces"
+    },
+    {
+      "name": "Lardons",
+      "amount": "1/2 cup",
+      "notes": "diced into small pieces"
+    },
+    {
+      "name": "Rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large saucepan over medium heat.",
+    "Add the diced onion and cook until it is translucent.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the lardons and cook until they are crispy and golden brown.",
+    "Add the crushed marzipan and cook for 2 minutes, stirring constantly.",
+    "Add the rice, turmeric, salt, and black pepper, and stir well.",
+    "Add 4 cups of water to the saucepan and bring to a boil.",
+    "Reduce the heat to low, cover the saucepan, and simmer for 20 minutes.",
+    "Turn off the heat and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pot",
+    "sattvic-friendly",
+    "ukrainian-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "golden-crunchy-ukrainian-lardons-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-crunchy-ukrainian-lardons-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:10:33Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crunchy",
+    "mood": "one-pot",
+    "technique": "lardons-render",
+    "primaryIngredient": "marzipan",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "lardons",
+    "descriptor": "Golden Crunchy",
+    "dishForm": "Pilaf"
+  }
+}
