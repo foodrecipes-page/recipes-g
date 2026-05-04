@@ -1,0 +1,119 @@
+{
+  "title": "Glazed Algerian Tuna Tagine",
+  "description": "A nutty, silky, and adventurous Algerian tagine that marries smoky tuna with a spicy madras paste and caramelized cashew lardons for a pescatarian feast.",
+  "cuisine": "Algerian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tuna steak",
+      "amount": "400g",
+      "notes": "sliced into thick pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for searing"
+    },
+    {
+      "name": "cashew nuts",
+      "amount": "60g",
+      "notes": "roasted, chopped for lardons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "madras paste",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "200g",
+      "notes": "from canned tomatoes"
+    },
+    {
+      "name": "couscous",
+      "amount": "100g",
+      "notes": "to serve in the tagine"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "150g",
+      "notes": "canned, drained"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "for brightness"
+    },
+    {
+      "name": "seasoning",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a tagine or heavy-bottomed pot over medium heat and drizzle 1 tbsp olive oil.",
+    "Add the thinly sliced onion and sauté until translucent, about 3 minutes.",
+    "Stir in the minced garlic and madras paste, cooking for 2 minutes until fragrant.",
+    "Pour in the tomato puree and canned chickpeas, mixing well, and bring the mixture to a gentle simmer.",
+    "Insert the tuna pieces, spooning sauce over them, and cover; let cook for 6 minutes until the tuna is just opaque.",
+    "While the tuna simmers, heat the remaining 1 tbsp oil in a small pan, add the roasted cashew lardons, and toast until golden, about 3 minutes.",
+    "Once the tuna is ready, fold in the toasted cashew lardons and drizzle lemon juice, seasoning with salt and pepper to taste.",
+    "Prepare couscous according to package instructions, fluffing with a fork, and serve the tagine over a bed of couscous.",
+    "Garnish with chopped cilantro and a sprinkle of extra cashew lardons before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "couscous",
+    "glazed",
+    "nutty",
+    "pescatarian",
+    "seafood",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 490,
+    "protein": 35,
+    "carbs": 66,
+    "fat": 17
+  },
+  "slug": "glazed-algerian-tuna-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/glazed-algerian-tuna-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:48:06Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "silky",
+    "mood": "adventurous",
+    "technique": "lardons-render",
+    "primaryIngredient": "madras paste",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "tuna",
+    "descriptor": "Glazed",
+    "dishForm": "Tagine"
+  }
+}
