@@ -1,0 +1,98 @@
+{
+  "title": "Gentle Steamed Dutch Fish Wrap",
+  "description": "A tender and umami Dutch dish featuring dashi and leaf-wrapped steamed fish, perfect for a hangover cure. This pescatarian-friendly meal is a unique blend of flavors and textures.",
+  "cuisine": "Dutch",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4 fillets",
+      "notes": "fresh and sustainable"
+    },
+    {
+      "name": "dashi broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "collard green leaves",
+      "amount": "8 leaves",
+      "notes": "fresh and large enough to wrap fish"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat the steamer to 180 degrees Fahrenheit.",
+    "Prepare the dashi broth by heating it to a simmer.",
+    "Season the cod fillets with salt, black pepper, and garlic.",
+    "Wrap each cod fillet in a collard green leaf, making sure to seal the edges.",
+    "Place the wrapped fish in the steamer and steam for 8 minutes.",
+    "While the fish is steaming, mix the lemon juice and olive oil in a small bowl.",
+    "After the fish is cooked, remove it from the steamer and brush with the lemon juice mixture.",
+    "Serve the fish with a side of hot dashi broth and garnish with chopped scallions if desired.",
+    "Garnish with lemon wedges and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch-cuisine",
+    "healthy-meals",
+    "seafood",
+    "steamed-dishes",
+    "umami-rich"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "gentle-steamed-dutch-fish-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gentle-steamed-dutch-fish-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:23:19Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "tender",
+    "mood": "hangover-cure",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "dashi",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "fish",
+    "descriptor": "Gentle Steamed",
+    "dishForm": "Wrap"
+  }
+}
