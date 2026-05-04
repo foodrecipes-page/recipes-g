@@ -1,0 +1,97 @@
+{
+  "title": "Golden Glazed Argentinian Kabocha Gratin",
+  "description": "A nutty and creamy Argentinian dish featuring kabocha, lacquer-glaze, and a unique agave-leaf vessel, this recipe is egg-free-friendly and perfect for a special occasion. The combination of flavors and textures creates a nostalgic and savory experience.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kabocha squash",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "agave leaves",
+      "amount": "4 large",
+      "notes": "for vessel"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Prepare the agave leaves by cleaning and drying them thoroughly.",
+    "In a large skillet, heat the olive oil over medium heat and saute the onion and garlic until softened.",
+    "Add the cubed kabocha squash to the skillet and cook until tender, about 10 minutes.",
+    "In a separate saucepan, combine the heavy cream and lacquer glaze, and stir over low heat until the glaze is fully incorporated.",
+    "Remove the squash mixture from the skillet and transfer it to the agave leaves, arranging it in a single layer.",
+    "Pour the cream and glaze mixture over the squash, making sure it is fully coated.",
+    "Sprinkle the grated parmesan cheese over the top of the squash.",
+    "Place the agave leaves in a baking dish and bake for 25 minutes, or until the top is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "gluten-free",
+    "gratin",
+    "kabocha",
+    "special-occasion",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "golden-glazed-argentinian-kabocha-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-glazed-argentinian-kabocha-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:23:24Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "creamy",
+    "mood": "nostalgic",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "kabocha",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "kabocha",
+    "descriptor": "Golden Glazed",
+    "dishForm": "Gratin"
+  }
+}
