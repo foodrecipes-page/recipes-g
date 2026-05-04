@@ -1,0 +1,125 @@
+{
+  "title": "Garden-Fresh Polish Raw Vegetables Salad",
+  "description": "This recipe is a variation of the traditional Polish salad, featuring fresh, raw vegetables that are spherified for a fun twist. It's a great side dish or light meal for any occasion.",
+  "cuisine": "Polish",
+  "diet": [
+    "lacto-vegetarian",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cucumber",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "1",
+      "notes": "Grate them before using."
+    },
+    {
+      "name": "Beets",
+      "amount": "1",
+      "notes": "Grate them before using."
+    },
+    {
+      "name": "Radishes",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "Thinly slice before using."
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "2 tablespoons",
+      "notes": "Chopped."
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": "Mix with water before using."
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": "Mix with apple cider vinegar."
+    },
+    {
+      "name": "Kosher salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Sodium alginate",
+      "amount": "1 teaspoon",
+      "notes": "Use according to package instructions."
+    },
+    {
+      "name": "Citric acid",
+      "amount": "0.5 teaspoon",
+      "notes": "Use according to package instructions."
+    },
+    {
+      "name": "Water (for spherification)",
+      "amount": "4 cups",
+      "notes": "Use cold water."
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the grated carrots, beets, and radishes. ",
+    "Add the thinly sliced onion and chopped fresh dill to the bowl. ",
+    "In a separate bowl, mix the apple cider vinegar with water. ",
+    "Add the kosher salt, granulated sugar, and sodium alginate to the vinegar mixture. ",
+    "Add the citric acid to the vinegar mixture and stir well. ",
+    "Slowly pour the vinegar mixture into a pitcher of cold water while stirring constantly. ",
+    "Continue stirring the mixture until spheres start to form. ",
+    "Use a siphon to carefully extract the spheres and place them in the bowl with the vegetables. "
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lacto-veggie",
+    "low-calorie",
+    "polish-food",
+    "raw-veggies",
+    "spherified",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 0
+  },
+  "slug": "garden-fresh-polish-raw-vegetables-salad",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garden-fresh-polish-raw-vegetables-salad",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:25:02Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "tender",
+    "mood": "crowd-pleaser",
+    "technique": "spherify",
+    "primaryIngredient": "raw vegetables",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Raw Vegetables",
+    "descriptor": "Garden-Fresh",
+    "dishForm": "Salad"
+  }
+}

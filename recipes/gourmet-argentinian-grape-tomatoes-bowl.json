@@ -1,0 +1,101 @@
+{
+  "title": "Gourmet Argentinian Grape Tomatoes Bowl",
+  "description": "A flavorful and tender Argentinian-inspired dish featuring grape tomatoes, double-rise bread, and a touch of Argentine spices. Perfect for a solo dinner or light lunch.",
+  "cuisine": "argentinian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Grape Tomatoes",
+      "amount": "2 cups",
+      "notes": "halved"
+    },
+    {
+      "name": "Double-Rise Bread",
+      "amount": "4 slices",
+      "notes": " toasted"
+    },
+    {
+      "name": "Argentine Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Oregano",
+      "amount": "1 tsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the copper mug or a small cast-iron skillet over medium heat.",
+    "Add the Argentine Olive Oil and saut\b the garlic until fragrant.",
+    "Add the grape tomatoes and cook until they start to release their juices.",
+    "Add the red onion and cook for an additional 2 minutes.",
+    "Season with salt, black pepper, and chopped fresh oregano.",
+    "Place the toasted double-rise bread slices on top of the grape tomato mixture.",
+    "Drizzle with additional olive oil, if desired.",
+    "Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "breakfast-for-dinner",
+    "easy-entrees",
+    "grape-tomatoes",
+    "plant-based",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "gourmet-argentinian-grape-tomatoes-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/gourmet-argentinian-grape-tomatoes-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:25:10Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "tender",
+    "mood": "solo-dinner",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "grape tomatoes",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Grape Tomatoes",
+    "descriptor": "Gourmet",
+    "dishForm": "Bowl"
+  }
+}

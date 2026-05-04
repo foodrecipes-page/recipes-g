@@ -70,6 +70,21 @@
     "shard": "g"
   },
   {
+    "slug": "garden-fresh-polish-raw-vegetables-salad",
+    "title": "Garden-Fresh Polish Raw Vegetables Salad",
+    "tags": [
+      "lacto-veggie",
+      "low-calorie",
+      "polish-food",
+      "raw-veggies",
+      "spherified",
+      "weeknight-meal"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 15,
+    "shard": "g"
+  },
+  {
     "slug": "garden-fresh-ukrainian-vegetable-salad",
     "title": "Garden Fresh Ukrainian Vegetable Salad",
     "tags": [
@@ -5374,6 +5389,21 @@
       "quick"
     ],
     "cuisine": "Argentinian",
+    "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
+    "slug": "gourmet-argentinian-grape-tomatoes-bowl",
+    "title": "Gourmet Argentinian Grape Tomatoes Bowl",
+    "tags": [
+      "argentinian",
+      "breakfast-for-dinner",
+      "easy-entrees",
+      "grape-tomatoes",
+      "plant-based",
+      "weeknight"
+    ],
+    "cuisine": "argentinian",
     "totalTimeMin": 25,
     "shard": "g"
   },
