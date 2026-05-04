@@ -1,0 +1,103 @@
+{
+  "title": "Gooey Molten Turkish Tofu Adana Kebap",
+  "description": "A fatty and molten Turkish dish featuring silken tofu, cooked in a tagine style and served in the form of Adana kebap on a tava griddle, this shojin-friendly recipe is perfect for adventurous eaters. It combines the richness of Turkish cuisine with the simplicity of tofu.",
+  "cuisine": "Turkish",
+  "diet": [
+    "shojin",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "silken tofu",
+      "amount": "1 block",
+      "notes": "drained and crumbled"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a tava griddle over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for another minute, stirring constantly to prevent burning.",
+    "Add the crumbled tofu, paprika, cumin, cayenne pepper, salt, and black pepper, and stir to combine.",
+    "Use a spatula to shape the mixture into long, thin strips resembling Adana kebap.",
+    "Cook the tofu mixture for about 10 minutes, flipping occasionally, until it is golden brown and crispy on the outside and molten on the inside.",
+    "Drizzle the lemon juice over the top of the kebap and serve immediately.",
+    "Garnish with fresh parsley or cilantro, if desired.",
+    "Serve with a side of steamed vegetables or crusty bread for a filling meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adana-kebap",
+    "high-protein",
+    "shojin-friendly",
+    "tava-griddle",
+    "turkish-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "gooey-molten-turkish-tofu-adana-kebap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-molten-turkish-tofu-adana-kebap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:02:23Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "molten",
+    "mood": "adventurous",
+    "technique": "tagine-cook",
+    "primaryIngredient": "silken tofu",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "tofu",
+    "descriptor": "Gooey Molten",
+    "dishForm": "Adana Kebap"
+  }
+}
