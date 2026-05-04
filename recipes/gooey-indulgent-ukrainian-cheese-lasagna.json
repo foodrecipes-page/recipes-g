@@ -1,0 +1,102 @@
+{
+  "title": "Gooey Indulgent Ukrainian Cheese Lasagna",
+  "description": "This dish is an earthy and indulgent Ukrainian lasagna featuring vinaigrette dressing and a blend of cheeses, with a low-sodium twist and a satisfying cheese pull.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lasagna noodles",
+      "amount": "8 ounces",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Ricotta cheese",
+      "amount": "15 ounces",
+      "notes": "reduced-sodium"
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "8 ounces",
+      "notes": "shredded"
+    },
+    {
+      "name": "Vinaigrette dressing",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Dehydrated mushrooms",
+      "amount": "1 cup",
+      "notes": "rehydrated according to package instructions"
+    },
+    {
+      "name": "Spinach",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Ukrainian cheese",
+      "amount": "8 ounces",
+      "notes": "such as Kiev or Ukrainian feta"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the lasagna noodles according to package instructions and set aside.",
+    "In a large skillet, rehydrate the dehydrated mushrooms according to package instructions and set aside.",
+    "In a large bowl, combine the ricotta cheese, mozzarella cheese, Ukrainian cheese, spinach, and beaten egg, and mix well.",
+    "Add the rehydrated mushrooms and vinaigrette dressing to the cheese mixture and stir until combined.",
+    "In a 9x13 inch baking dish, create a thin layer of the cheese mixture on the bottom.",
+    "Arrange 4 lasagna noodles on top of the cheese layer.",
+    "Spread half of the remaining cheese mixture over the noodles.",
+    "Repeat the layers, starting with the noodles, then the remaining cheese mixture, and finally another layer of noodles.",
+    "Top the final layer of noodles with the shredded mozzarella cheese.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "indulgent",
+    "low-sodium",
+    "one-pan",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "gooey-indulgent-ukrainian-cheese-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-indulgent-ukrainian-cheese-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:20:02Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "cheese-pull",
+    "mood": "indulgent",
+    "technique": "dehydrate",
+    "primaryIngredient": "vinaigrette dressing",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "cheese",
+    "descriptor": "Gooey Indulgent",
+    "dishForm": "Lasagna"
+  }
+}
