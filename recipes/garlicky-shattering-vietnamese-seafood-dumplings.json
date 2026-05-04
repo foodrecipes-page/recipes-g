@@ -1,0 +1,86 @@
+{
+  "title": "Garlicky Shattering Vietnamese Seafood Dumplings",
+  "description": "A kid-friendly Vietnamese dish featuring a garlic-infused seafood broth and shatteringly light dumplings that are perfect for lunch or dinner.",
+  "cuisine": "Vietnamese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 lb ground fish",
+      "amount": "lb"
+    },
+    {
+      "name": "2 cups shrimp paste",
+      "amount": ""
+    },
+    {
+      "name": "1 cup vegetable broth",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 cup soy sauce",
+      "amount": "cup"
+    },
+    {
+      "name": "1/2 cup fish sauce",
+      "amount": "cup"
+    },
+    {
+      "name": "3 garlic cloves, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 lemon zest",
+      "amount": ""
+    },
+    {
+      "name": "1 red bell pepper, chopped",
+      "amount": ""
+    },
+    {
+      "name": "1 green onion, finely chopped",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Combine all ingredients in a large mixing bowl.",
+    "Shape into dumpling wrappers using your preferred method.",
+    "Boil water and add dumplings until they float, about 2 minutes per side.",
+    "Serve with hot broth for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "garlicky",
+    "kid-friendly",
+    "shattering",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 379,
+    "protein": 16,
+    "carbs": 25,
+    "fat": 8
+  },
+  "slug": "garlicky-shattering-vietnamese-seafood-dumplings",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-shattering-vietnamese-seafood-dumplings",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-04T22:02:41Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "shattering",
+    "mood": "kid-friendly",
+    "technique": "dum",
+    "primaryIngredient": "seafood stock",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "seafood",
+    "descriptor": "Garlicky Shattering",
+    "dishForm": "Dumplings"
+  }
+}
