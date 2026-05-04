@@ -1,0 +1,118 @@
+{
+  "title": "Grilled Shaggy Australian Peanut Cookies Tagine",
+  "description": "A hearty, low-carb-friendly dessert featuring peanut cookies cooked in a traditional tagine. This recipe is perfect for a cozy evening in.",
+  "cuisine": "australian",
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Peanut Cookies",
+      "amount": "8",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Almond Flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Large Eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Rosemary",
+      "amount": "4 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "Peanuts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C).",
+    "Line a tagine with parchment paper.",
+    "Arrange peanut cookies on the paper.",
+    "Drizzle with coconut oil, then sprinkle with almond flour, granulated sugar, and salt.",
+    "In a separate bowl, whisk eggs and vanilla extract, then drizzle over peanut cookies.",
+    "Garnish with fresh rosemary and peanuts.",
+    "Transfer the tagine to the oven and bake for 20 minutes.",
+    "While the cookies cook, melt ghee in a saucepan over medium heat.",
+    "Add honey to the saucepan and whisk until dissolved.",
+    "Remove the tagine from the oven and brush cookies with the ghee-honey mixture.",
+    "Return the tagine to the oven and bake for an additional 5 minutes.",
+    "Remove the tagine from the oven and let cool slightly before serving.",
+    "Serve warm, garnished with additional fresh rosemary and peanuts if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "australian",
+    "dairy-free",
+    "dessert",
+    "grilled",
+    "low-carb",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "grilled-shaggy-australian-peanut-cookies-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/grilled-shaggy-australian-peanut-cookies-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:40:39Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "shaggy",
+    "mood": "cozy",
+    "technique": "tagine-cook",
+    "primaryIngredient": "peanut cookies",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "peanut cookies",
+    "descriptor": "grilled, shaggy",
+    "dishForm": "Tagine"
+  }
+}
