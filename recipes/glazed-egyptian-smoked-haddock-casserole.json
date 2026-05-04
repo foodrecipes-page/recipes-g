@@ -1,0 +1,111 @@
+{
+  "title": "Glazed Egyptian Smoked Haddock Casserole",
+  "description": "A smoky, crunchy, cozy casserole that blends Egyptian spices with smoked haddock and a puff pastry crust for an egg‑free delight.",
+  "cuisine": "egyptian",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoked haddock fillets",
+      "amount": "300 g"
+    },
+    {
+      "name": "puff pastry sheet",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "chickpea flour",
+      "amount": "50 g"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "ground turmeric",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "hot paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "sea salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C.",
+    "In a bowl, combine chickpea flour, cumin, coriander, cinnamon, turmeric, hot paprika, and smoked paprika; whisk until even.",
+    "Pat haddock dry, then dredge each fillet in the spice mixture, pressing to coat.",
+    "Heat olive oil in a large skillet over medium heat; sear haddock fillets for 2 minutes on each side until golden.",
+    "Transfer fillets to a baking dish; squeeze lemon juice over them and sprinkle salt and pepper.",
+    "Roll out puff pastry to fit the dish and lay over the fillets, sealing edges.",
+    "Bake for 15 minutes until puff pastry is golden and crisp.",
+    "Remove from oven, let rest 5 minutes before serving."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "egyptian",
+    "dinner"
+  ],
+  "slug": "glazed-egyptian-smoked-haddock-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/glazed-egyptian-smoked-haddock-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:39:19Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crunchy",
+    "mood": "cozy",
+    "technique": "knead",
+    "primaryIngredient": "smoked haddock",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "smoked haddock",
+    "descriptor": "Glazed",
+    "dishForm": "Casserole"
+  }
+}
