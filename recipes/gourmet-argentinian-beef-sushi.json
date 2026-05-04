@@ -1,0 +1,115 @@
+{
+  "title": "Gourmet Argentinian Beef Sushi",
+  "description": "A crowd-pleasing Argentinian style beef sushi that pairs tender seared beef with a vibrant green salsa, shaped like nigiri for a fresh paleo-friendly bite.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef tenderloin",
+      "amount": "300g",
+      "notes": "thin slices"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tsp",
+      "notes": "for dressing"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1 ripe",
+      "notes": "diced"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/4 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Green bell pepper",
+      "amount": "1/4 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Green onion",
+      "amount": "1",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Season beef slices with salt, pepper, and a drizzle of olive oil; rest for 10 minutes at room temperature.",
+    "Heat a cast-iron skillet over high heat; sear beef slices 1-2 minutes per side until caramelized and just cooked through.",
+    "While beef rests, combine parsley, cilantro, garlic, lemon juice, avocado, cucumber, bell pepper, and green onion in a bowl to make a green salsa; season with a pinch of salt.",
+    "Slice beef into bite-size wedges, using the same skillet if desired for extra flavor.",
+    "To assemble, place a small amount of salsa on a plate; lay a beef wedge atop the salsa, forming a mini nigiri shape.",
+    "Repeat the assembly for remaining beef slices, arranging them on a serving platter.",
+    "Garnish the platter with a sprinkle of fresh parsley and cilantro and a few sesame seeds if desired.",
+    "Serve immediately with a side of lime wedges for squeezing over the beef sushi."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 5,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef-sushi",
+    "crowd-pleaser",
+    "no-rice",
+    "paleo-friendly",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 21,
+    "carbs": 5,
+    "fat": 15
+  },
+  "slug": "gourmet-argentinian-beef-sushi",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/gourmet-argentinian-beef-sushi",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:18:07Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "tender",
+    "mood": "crowd-pleaser",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "green salsa",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "Gourmet",
+    "dishForm": "Sushi"
+  }
+}
