@@ -1,0 +1,101 @@
+{
+  "title": "gritty steamed mediterranean cornmeal bowl",
+  "description": "a dense and comforting bowl of white cornmeal, infused with the flavors of the mediterranean, steamed to perfection in a korean brass bowl",
+  "cuisine": "mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "white cornmeal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped fresh mint",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "zest of 1 lemon",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "juice of 1 lemon",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "in a large saucepan, bring the water to a boil over high heat.",
+    "reduce the heat to medium-low and add the kosher salt and black pepper.",
+    "stir to dissolve the salt and pepper, then add the white cornmeal in a steady stream, whisking constantly.",
+    "return the saucepan to high heat and bring the mixture to a boil, stirring constantly.",
+    "reduce the heat to low and simmer, covered, for 20 minutes, or until the cornmeal is cooked and creamy.",
+    "while the cornmeal is cooking, heat the olive oil in a small skillet over medium heat.",
+    "add the chopped parsley, mint, lemon zest, lemon juice, and garlic powder to the skillet and cook, stirring constantly, for 2-3 minutes.",
+    "to assemble the bowls, place a scoop of the cooked cornmeal in the bottom of each korean brass bowl.",
+    "top the cornmeal with the herby oil mixture and serve immediately.",
+    "serve hot, garnished with additional parsley and mint if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "cornmeal",
+    "dairy-free",
+    "gluten-free",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 80,
+    "fat": 12
+  },
+  "slug": "gritty-steamed-mediterranean-cornmeal-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/gritty-steamed-mediterranean-cornmeal-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:02:54Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "dense",
+    "mood": "monsoon",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "white cornmeal",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "cornmeal",
+    "descriptor": "Gritty Steamed",
+    "dishForm": "Bowl"
+  }
+}
