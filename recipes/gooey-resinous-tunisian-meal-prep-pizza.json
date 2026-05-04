@@ -1,0 +1,70 @@
+{
+  "title": "Gooey Resinous Tunisian Meal-Prep Pizza",
+  "description": "A flavorful and aromatic vegetarian pizza dish inspired by Tunisian cuisine, featuring red onions and a gooey resinous sauce.",
+  "cuisine": "tunisian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pizza dough (homemade or store-bought)",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Roll out the pizza dough to a thickness of 1/4 inch and transfer it to a baking sheet or pizza stone.",
+    "Spread the resinous sauce over the dough, leaving a 1/2 inch border around the edges.",
+    "Top the sauce with the sliced red onion and sprinkle with olive oil.",
+    "Bake the pizza in the preheated oven for 20 minutes, or until the crust is golden brown and the sauce is bubbly.",
+    "Remove the pizza from the oven and let it cool for 5 minutes before slicing and serving.",
+    "Cut the pizza into 6-8 slices and transfer them to an airtight container or zip-top bag for meal prep.",
+    "Label the container with the date and contents, and refrigerate for up to 3 days or freeze for up to 2 months.",
+    "To reheat, place the slices in the oven at 350°F (180°C) for 10-15 minutes, or until crispy and hot.",
+    "Serve warm, garnished with chopped fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "meal-prep",
+    "pizza",
+    "tunisian",
+    "veggie-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 15
+  },
+  "slug": "gooey-resinous-tunisian-meal-prep-pizza",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-resinous-tunisian-meal-prep-pizza",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:22:57Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "gooey",
+    "mood": "meal-prep",
+    "technique": "cure",
+    "primaryIngredient": "red onions",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "tunisian",
+    "mainIngredient": "meal-prep",
+    "descriptor": "gooey resinous",
+    "dishForm": "pizza"
+  }
+}

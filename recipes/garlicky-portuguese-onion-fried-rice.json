@@ -1,0 +1,112 @@
+{
+  "title": "Garlicky Portuguese Onion Fried Rice",
+  "description": "A savory and aromatic Portuguese dish made with crispy onion rings, garlic, and a hint of spice. Perfect for a quick and easy lunch or dinner.",
+  "cuisine": "portuguese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup cooked",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "eggs",
+      "amount": "serves 4-6 (optional)",
+      "notes": "use if egg-friendly is not required"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the sliced onions and cook until they start to soften, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes, until fragrant.",
+    "Add the saffron threads and smoked paprika, and cook for 1 minute, stirring constantly.",
+    "Add the cooked rice, kosher salt, and black pepper, and stir to combine.",
+    "Cook for 2-3 minutes, until the rice is heated through and starting to brown.",
+    "Add the low-sodium chicken broth and stir to combine.",
+    "Cook for an additional 2-3 minutes, until the liquid is absorbed and the rice is cooked.",
+    "Taste and adjust seasoning as needed.",
+    "Transfer the fried rice to a serving platter and garnish with chopped fresh parsley.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fried-rice",
+    "one-pan",
+    "portuguese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 9,
+    "carbs": 70,
+    "fat": 15
+  },
+  "slug": "garlicky-portuguese-onion-fried-rice",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-portuguese-onion-fried-rice",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:22:43Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "snappy",
+    "mood": "adventurous",
+    "technique": "marinate",
+    "primaryIngredient": "onion rings",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "onion",
+    "descriptor": "garlicky",
+    "dishForm": "Fried-Rice"
+  }
+}

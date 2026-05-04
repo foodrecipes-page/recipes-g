@@ -2041,6 +2041,19 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-portuguese-onion-fried-rice",
+    "title": "Garlicky Portuguese Onion Fried Rice",
+    "tags": [
+      "fried-rice",
+      "one-pan",
+      "portuguese",
+      "weeknight"
+    ],
+    "cuisine": "portuguese",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-quick-japanese-cottage-cheese-ramen",
     "title": "Garlicky Quick Japanese Cottage Cheese Ramen",
     "tags": [
@@ -4811,6 +4824,20 @@
     ],
     "cuisine": "Indian",
     "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
+    "slug": "gooey-resinous-tunisian-meal-prep-pizza",
+    "title": "Gooey Resinous Tunisian Meal-Prep Pizza",
+    "tags": [
+      "meal-prep",
+      "pizza",
+      "tunisian",
+      "veggie-friendly",
+      "weeknight"
+    ],
+    "cuisine": "tunisian",
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {
