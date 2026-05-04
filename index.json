@@ -2584,6 +2584,21 @@
     "shard": "g"
   },
   {
+    "slug": "gleaming-turkish-wheat-salad",
+    "title": "Gleaming Turkish Wheat Salad",
+    "tags": [
+      "grain-based",
+      "kosher-friendly",
+      "quick",
+      "salad",
+      "turkish",
+      "village"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
     "slug": "gloopin-shin-soothe",
     "title": "Gloopin' Shin Soothe",
     "tags": [
@@ -2609,6 +2624,21 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 75,
+    "shard": "g"
+  },
+  {
+    "slug": "glowing-peppery-japanese-freekeh-tsukune",
+    "title": "Glowing Peppery Japanese Freekeh Tsukune",
+    "tags": [
+      "flambe",
+      "freekeh-recipes",
+      "gluten-free",
+      "japanese-cuisine",
+      "one-pot",
+      "vegetarian"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
