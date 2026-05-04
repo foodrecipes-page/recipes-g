@@ -1,0 +1,91 @@
+{
+  "title": "Golden Brown Canadian Chicken Toast",
+  "description": "A malty, bouncy-qq, crowd-pleaser Canadian dish featuring chicken bouillon powder, served in a Korean brass bowl, this paleo-friendly recipe is perfect for a quick lunch or snack. It combines the richness of chicken with the crunch of toasted bread.",
+  "cuisine": "Canadian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "chicken bouillon powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "paleo-friendly bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together chicken bouillon powder, sea salt, black pepper, garlic powder, and onion powder.",
+    "Brush the paleo-friendly bread slices with coconut oil on both sides.",
+    "Sprinkle the chicken bouillon powder mixture evenly over the bread slices.",
+    "Place the bread slices on a baking sheet lined with parchment paper.",
+    "Bake the bread in the preheated oven for 10 minutes or until golden brown.",
+    "While the bread is baking, slice the chicken breast into thin strips.",
+    "Remove the bread from the oven and top each slice with a chicken strip.",
+    "Return the bread to the oven and bake for an additional 5 minutes or until the chicken is cooked through."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brass-bowl",
+    "canadian-cuisine",
+    "chicken-recipes",
+    "paleo-friendly",
+    "quick-lunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "golden-brown-canadian-chicken-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-brown-canadian-chicken-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:44:43Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "bouncy-qq",
+    "mood": "crowd-pleaser",
+    "technique": "toast",
+    "primaryIngredient": "chicken bouillon powder",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "chicken",
+    "descriptor": "golden brown",
+    "dishForm": "Toast"
+  }
+}
