@@ -1,0 +1,92 @@
+{
+  "title": "Golden Roasted Syrian Shrimp Skewers",
+  "description": "Quick and flavorful Syrian dish featuring succulent shrimp, cranberry juice, and dashi extract, perfect for a weeknight dinner. This pescatarian-friendly recipe is easy to make and packed with protein.",
+  "cuisine": "Syrian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "cranberry juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together cranberry juice, dashi extract, olive oil, garlic, salt, black pepper, and paprika.",
+    "Add the shrimp to the bowl and toss to coat with the marinade.",
+    "Thread the marinated shrimp onto skewers, leaving a small space between each shrimp.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Roast the shrimp in the preheated oven for 8-10 minutes, or until they are pink and cooked through.",
+    "Remove the skewers from the oven and serve immediately.",
+    "Garnish with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "quick-fix",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 36,
+    "carbs": 8,
+    "fat": 12
+  },
+  "slug": "golden-roasted-syrian-shrimp-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-roasted-syrian-shrimp-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:48:26Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "snappy",
+    "mood": "quick-fix",
+    "technique": "dashi-extract",
+    "primaryIngredient": "cranberry juice",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Golden Roasted",
+    "dishForm": "Skewers"
+  }
+}

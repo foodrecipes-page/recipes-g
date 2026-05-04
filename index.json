@@ -3012,6 +3012,21 @@
     "shard": "g"
   },
   {
+    "slug": "golden-roasted-syrian-shrimp-skewers",
+    "title": "Golden Roasted Syrian Shrimp Skewers",
+    "tags": [
+      "high-protein",
+      "middle-eastern",
+      "one-pan",
+      "quick-fix",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
     "slug": "golden-sugar-butter-bites",
     "title": "Golden Sugar Butter Bites",
     "tags": [
@@ -4401,6 +4416,20 @@
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
+    "slug": "grainy-algerian-lentils-pie",
+    "title": "Grainy Algerian Lentils Pie",
+    "tags": [
+      "bamboo-tray",
+      "lentils",
+      "one-pot",
+      "puff-pastry",
+      "vegetarian"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 55,
     "shard": "g"
   },
   {

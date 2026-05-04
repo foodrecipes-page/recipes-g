@@ -1,0 +1,106 @@
+{
+  "title": "Grainy Algerian Lentils Pie",
+  "description": "A resinous, snappy one-pot Algerian dish featuring puff pastry, sautéed spices, and hearty lentils, finished in a bamboo tray.",
+  "cuisine": "Algerian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sheet puff pastry",
+      "amount": "1 (250g)"
+    },
+    {
+      "name": "red lentils",
+      "amount": "200g",
+      "notes": "rinsed"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "200ml"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C and line a bamboo tray with parchment paper.",
+    "Rinse the lentils until the water runs clear.",
+    "In a saucepan, heat olive oil over medium heat and sauté the diced onion and minced garlic until translucent.",
+    "Add cumin, coriander, paprika, and oregano, cooking for 1 minute to release aromas.",
+    "Stir in the lentils, tomato paste, and vegetable broth, then bring the mixture to a simmer, cover, and cook for 15 minutes or until lentils are tender.",
+    "Season the lentil bake with salt and pepper, remove from heat, and let it cool slightly.",
+    "Unroll the puff pastry sheet and place it on the prepared bamboo tray, trimming edges if needed.",
+    "Spoon the cooled lentil mixture onto the pastry, spreading it evenly across the surface.",
+    "Fold any excess pastry over the edges to seal the filling, and cut a small slit in the top for steam.",
+    "Bake for 25 minutes until the pastry is golden brown and crisp."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bamboo-tray",
+    "lentils",
+    "one-pot",
+    "puff-pastry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 6,
+    "carbs": 21,
+    "fat": 12
+  },
+  "slug": "grainy-algerian-lentils-pie",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/grainy-algerian-lentils-pie",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:48:01Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "snappy",
+    "mood": "one-pot",
+    "technique": "saute",
+    "primaryIngredient": "puff pastry",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Lentils",
+    "descriptor": "Grainy",
+    "dishForm": "Pie"
+  }
+}
