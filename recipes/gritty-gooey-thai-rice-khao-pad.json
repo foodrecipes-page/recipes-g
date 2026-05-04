@@ -1,0 +1,126 @@
+{
+  "title": "Gritty Gooey Thai Rice Khao Pad",
+  "description": "A bitter, pillowy northern Thai rice dish cooked in a clay pot that balances the umami of shio-koji with the richness of coconut milk for a solo-dinner delight.",
+  "cuisine": "Thai",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "jasmine rice",
+      "amount": "1.5 cups uncooked",
+      "notes": "rinsed until water runs clear"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200 ml",
+      "notes": "full-fat for creaminess"
+    },
+    {
+      "name": "water",
+      "amount": "200 ml",
+      "notes": "to cook the rice"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "20 g",
+      "notes": "to impart salty umami"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "20 ml",
+      "notes": "halal-certified"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "1 tsp",
+      "notes": "for a subtle bitterness"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1/4 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "scallion",
+      "amount": "2 stalks",
+      "notes": "sliced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": "for aroma"
+    }
+  ],
+  "instructions": [
+    "Rinse 1.5 cups jasmine rice until water runs clear.",
+    "In a clay pot, combine rinsed rice, 200ml coconut milk, and 200ml water; bring to a gentle simmer.",
+    "Cover and cook for 15 minutes, stirring occasionally, until rice is tender and liquid absorbed.",
+    "While rice cooks, mince 2 garlic cloves, 1 tsp ginger, and slice 1/4 onion.",
+    "In a small bowl, whisk together 20g shio-koji, 20ml soy sauce, 1 tsp tamarind paste, and 1 tbsp lime juice.",
+    "When rice is done, turn heat to low and stir in the garlic, ginger, onion, and the shio-koji mixture.",
+    "Drizzle 1 tbsp vegetable oil and 1 tsp sesame oil over the rice and toss to combine.",
+    "Sprinkle 2 sliced scallions and 1 tsp chili flakes, then stir until fragrant.",
+    "Taste and adjust with additional salt if needed, though shio-koji provides sufficient saltiness.",
+    "Remove from heat, let rest 5 minutes, then fluff with a fork.",
+    "Serve the gritty, gooey Thai rice warm, optionally accompanied by fresh cucumber slices."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "bitter",
+    "halal-friendly",
+    "khao-pad",
+    "north-thai",
+    "one-pot",
+    "pillowy"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 11,
+    "carbs": 84,
+    "fat": 38
+  },
+  "slug": "gritty-gooey-thai-rice-khao-pad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/gritty-gooey-thai-rice-khao-pad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:34:27Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "pillowy",
+    "mood": "solo-dinner",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "shio-koji",
+    "diet": "halal",
+    "region": "northern-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Rice",
+    "descriptor": "Gritty Gooey",
+    "dishForm": "Khao Pad"
+  }
+}
