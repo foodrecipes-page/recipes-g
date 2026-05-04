@@ -1,0 +1,106 @@
+{
+  "title": "Golden Hashed Butter Cazuela",
+  "description": "A Canadian-inspired dish featuring melted butter, tadka, and crispy potatoes. This cazuela is a great breakfast option, rich in flavor and satisfying in texture.",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free",
+    "fodmap-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "unsalted, softened"
+    },
+    {
+      "name": "hash browns",
+      "amount": "1 cup",
+      "notes": "diced, peeled potatoes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "tadka spice blend",
+      "amount": "1 teaspoon",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tablespoon",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Melt the butter in a large cazuela over medium heat.",
+    "Add the chopped onion and cook until softened, about 3 minutes.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly.",
+    "Add the diced potatoes and cook until golden brown, about 5 minutes.",
+    "Sprinkle the cayenne pepper, salt, and black pepper over the top and stir to combine.",
+    "Add the tadka spice blend and stir to coat the potatoes evenly.",
+    "Transfer the cazuela to the oven and bake at 375°F (190°C) for 15 minutes, or until the potatoes are crispy and golden brown.",
+    "Garnish with chopped parsley and serve hot.",
+    "Serve immediately and enjoy!",
+    "Store leftovers in an airtight container in the refrigerator for up to 3 days or freeze for up to 2 months.",
+    "Reheat in the microwave or oven until warm and crispy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "canadian",
+    "fried-eggs",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 38
+  },
+  "slug": "golden-hashed-butter-cazuela",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-hashed-butter-cazuela",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:48:36Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "snappy",
+    "mood": "energizing",
+    "technique": "tadka",
+    "primaryIngredient": "melted butter",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "butter",
+    "descriptor": "xenial golden",
+    "dishForm": "hash"
+  }
+}

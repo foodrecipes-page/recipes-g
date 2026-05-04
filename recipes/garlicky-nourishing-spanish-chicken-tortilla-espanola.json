@@ -1,0 +1,101 @@
+{
+  "title": "Garlicky Nourishing Spanish Chicken Tortilla Espanola",
+  "description": "A pillowy and flavorful Spanish-inspired chicken tortilla made with chicken drumsticks, garlic, and potatoes, perfect for a quick and satisfying meal.",
+  "cuisine": "Spanish",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken drumsticks",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the diced chicken drumsticks and cook until browned on all sides, about 5 minutes.",
+    "Add the diced onion and minced garlic to the skillet and continue cooking for another 2 minutes.",
+    "Add the diced potatoes to the skillet and stir to combine with the chicken and onion mixture.",
+    " Season the mixture with salt and black pepper to taste.",
+    "Transfer the mixture to a large plate or tray and let cool slightly.",
+    "Using a mortar and pestle or a fork, pound the cooked chicken mixture into small pieces.",
+    "Beat the egg in a large bowl and stir in the pounded chicken mixture, chopped parsley, and a pinch of salt.",
+    "Heat the remaining 1 tablespoon of olive oil in the same skillet over medium heat.",
+    "Once the oil is hot, pour the egg mixture into the skillet and cook until the edges start to set, about 2 minutes.",
+    "Use a spatula to gently lift and fold the edges of the tortilla towards the center, allowing the uncooked egg to flow to the edges.",
+    "Continue cooking the tortilla for another 2-3 minutes, or until it is almost set and the edges are golden brown.",
+    "Slide the tortilla onto a serving plate and let it cool for a few minutes before slicing and serving.",
+    "Cook the tortilla for an additional 2-3 minutes on the other side, or until it is cooked through and fluffy in the center."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "high-protein",
+    "mains",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 14
+  },
+  "slug": "garlicky-nourishing-spanish-chicken-tortilla-espanola",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-nourishing-spanish-chicken-tortilla-espanola",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:49:42Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "pillowy",
+    "mood": "quick-fix",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "chicken drumsticks",
+    "diet": "low-calorie",
+    "region": "valencian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chicken",
+    "descriptor": "Garlicky Nourishing",
+    "dishForm": "Tortilla Espanola"
+  }
+}

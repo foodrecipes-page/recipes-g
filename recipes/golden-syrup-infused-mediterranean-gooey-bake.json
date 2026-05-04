@@ -1,0 +1,124 @@
+{
+  "title": "Golden Syrup Infused Mediterranean Gooey Bake",
+  "description": "A sweet and savory, gooey, wood-fired-bake featuring the unique flavor of golden syrup, inspired by the Mediterranean diet.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "nut-free",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Golden Syrup",
+      "amount": "3/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dried Oregano",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Baking Powder",
+      "amount": "1 1/2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 1/4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Confectioners' Sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Rosemary",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your wood-fired oven or conventional oven to 425\u0007F (220\u0007C).",
+    "In a large bowl, whisk together the flour, baking powder, and salt.",
+    "In a separate bowl, whisk together the yogurt, honey, olive oil, lemon juice, and dried oregano.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Stir in the sesame seeds and chopped rosemary.",
+    "Pour in the golden syrup and mix until a sticky dough forms.",
+    "Turn the dough onto a lightly floured surface and knead for 5-7 minutes, until smooth and elastic.",
+    "Shape the dough into a round or oblong shape, about 1 1/2 inches thick.",
+    "Place the dough on a lightly floured comal or baking sheet and bake for 25-30 minutes, or until golden brown and puffed.",
+    "Remove from the oven and let cool for 5 minutes before transferring to a wire rack to cool completely.",
+    "Dust with confectioners' sugar before serving.",
+    "Slice into wedges and serve warm.",
+    "Serve with a dollop of whipped cream or a sprinkle of cinnamon, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "high-calorie",
+    "mediterranean",
+    "one-pan",
+    "savory",
+    "sweet",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 20
+  },
+  "slug": "golden-syrup-infused-mediterranean-gooey-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-syrup-infused-mediterranean-gooey-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:49:25Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "gooey",
+    "mood": "adventurous",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "golden syrup",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "mediterranean",
+    "mainIngredient": "gooey",
+    "descriptor": "golden syrup infused",
+    "dishForm": "bake"
+  }
+}

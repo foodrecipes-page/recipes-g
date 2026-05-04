@@ -1,0 +1,114 @@
+{
+  "title": "Garlicky Crispy German Rye Bread Wrap",
+  "description": "A flavorful and crunchy German wrap made with garlicky rye bread, tadka spices, and wrapped in a ti-leaf wrap, perfect for a satisfying snack or meal.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rye bread",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Tadka spices",
+      "amount": "1 tsp",
+      "notes": "available at Indian grocery stores or online"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ti-leaf wrap",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan over medium heat. Add 1 tsp vegetable oil and swirl it around.",
+    "Add the tadka spices and sauté for 1-2 minutes until fragrant.",
+    "Add 2 tbsp water and bring to a simmer.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the chopped cilantro and cook for another minute, until wilted.",
+    "Meanwhile, warm the rye bread in the microwave for 10-15 seconds.",
+    "Assemble the wrap by spreading the garlic-cilantro mixture on the rye bread, followed by a drizzle of lemon juice and honey.",
+    "Place the wrapped rye bread in the pan and cook for 2-3 minutes on each side, until crispy and golden brown.",
+    "Cut the wrap in half and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "german",
+    "snack",
+    "vegan",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "garlicky-crispy-german-rye-bread-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-crispy-german-rye-bread-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:49:38Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crisp",
+    "mood": "crowd-pleaser",
+    "technique": "tadka",
+    "primaryIngredient": "rye bread",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "german",
+    "mainIngredient": "rye bread",
+    "descriptor": "garlicky crispy",
+    "dishForm": "wrap"
+  }
+}

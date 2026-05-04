@@ -912,6 +912,20 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-crispy-german-rye-bread-wrap",
+    "title": "Garlicky Crispy German Rye Bread Wrap",
+    "tags": [
+      "crispy",
+      "german",
+      "snack",
+      "vegan",
+      "wrap"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 18,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-crispy-polish-cauliflower-curry",
     "title": "Garlicky Crispy Polish Cauliflower Curry",
     "tags": [
@@ -2167,6 +2181,20 @@
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 30,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-nourishing-spanish-chicken-tortilla-espanola",
+    "title": "Garlicky Nourishing Spanish Chicken Tortilla Espanola",
+    "tags": [
+      "chicken",
+      "high-protein",
+      "mains",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
@@ -4149,6 +4177,20 @@
     "shard": "g"
   },
   {
+    "slug": "golden-hashed-butter-cazuela",
+    "title": "Golden Hashed Butter Cazuela",
+    "tags": [
+      "breakfast",
+      "brunch",
+      "canadian",
+      "fried-eggs",
+      "one-pan"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 30,
+    "shard": "g"
+  },
+  {
     "slug": "golden-roasted-portuguese-pork-roast",
     "title": "Golden Roasted Portuguese Pork Roast",
     "tags": [
@@ -4221,6 +4263,21 @@
     "tags": [],
     "cuisine": "Greek",
     "totalTimeMin": null,
+    "shard": "g"
+  },
+  {
+    "slug": "golden-syrup-infused-mediterranean-gooey-bake",
+    "title": "Golden Syrup Infused Mediterranean Gooey Bake",
+    "tags": [
+      "high-calorie",
+      "mediterranean",
+      "one-pan",
+      "savory",
+      "sweet",
+      "weeknight"
+    ],
+    "cuisine": "mediterranean",
+    "totalTimeMin": 50,
     "shard": "g"
   },
   {
