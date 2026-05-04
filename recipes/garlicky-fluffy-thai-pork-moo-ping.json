@@ -1,0 +1,90 @@
+{
+  "title": "Garlicky Fluffy Thai Pork Moo Ping",
+  "description": "A simple yet flavorful Central Thai dish made with pork, garlic, and a special type of sauce served on a bed of fluffy pappardelle pasta. A midnight craving's best friend.",
+  "cuisine": "Thai",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "500g"
+    },
+    {
+      "name": "garlic",
+      "amount": "5 cloves"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "pappardelle pasta",
+      "amount": "400g"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Whisk together fish sauce, palm sugar, soy sauce, and 2 cloves of minced garlic in a large bowl.",
+    "Add the pork shoulder to the marinade and mix until well coated. Cover and refrigerate for at least 2 hours or overnight.",
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the marinated pork shoulder to the skillet and cook until browned on all sides and cooked through, about 5-7 minutes.",
+    "Transfer the cooked pork to a plate and cover with foil to keep warm.",
+    "In the same skillet, add the remaining 1 tablespoon of vegetable oil and cook the remaining 3 cloves of minced garlic until fragrant.",
+    "Add the cooked pappardelle pasta to the skillet and toss to combine with the garlic and oil.",
+    "Slice the cooked pork into thin strips and add to the pasta.",
+    "Serve the Moo Ping hot, garnished with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "garlic",
+    "midnightcraving",
+    "noodle",
+    "pork",
+    "quickmeal",
+    "thaifood"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 40,
+    "fat": 32
+  },
+  "slug": "garlicky-fluffy-thai-pork-moo-ping",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-fluffy-thai-pork-moo-ping",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T19:46:20Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "fluffy",
+    "mood": "midnight-craving",
+    "technique": "whisk",
+    "primaryIngredient": "pappardelle pasta",
+    "diet": "raw",
+    "region": "central-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "pork",
+    "descriptor": "garlicky, fluffy",
+    "dishForm": "Moo Ping"
+  }
+}
