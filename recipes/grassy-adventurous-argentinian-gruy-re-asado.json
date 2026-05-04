@@ -1,0 +1,69 @@
+{
+  "title": "Grassy Adventurous Argentinian Gruyre Asado",
+  "description": "This traditional Argentinian grilled asado features a rich and creamy gruyre cheese, paired with smoky grilled vegetables and a tangy chimichurri sauce.",
+  "cuisine": "Argentinian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Wagyu beef strips",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Gruyre cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400\u00124F for 10-15 minutes.",
+    "Season wagyu beef strips with salt, pepper, and paprika.",
+    "Grill beef strips for 5-7 minutes per side, or until medium-rare.",
+    "Transfer beef to a plate and let rest for 5 minutes.",
+    "Meanwhile, grill sliced onions, bell peppers, and zucchini for 5-7 minutes, or until tender.",
+    "In a small bowl, whisk together olive oil, red wine vinegar, garlic, oregano, and red pepper flakes for the chimichurri sauce.",
+    "Brush chimichurri sauce on grilled vegetables.",
+    "Shred gruyre cheese and sprinkle on top of beef and vegetables.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "argentinian",
+    "asado",
+    "beef",
+    "cheese",
+    "grilled",
+    "gruyre",
+    "vegetarian",
+    "wagyu"
+  ],
+  "nutrition": {
+    "calories": 620,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 40
+  },
+  "slug": "grassy-adventurous-argentinian-gruy-re-asado",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/grassy-adventurous-argentinian-gruy-re-asado",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:11:11Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "shattering",
+    "mood": "adventurous",
+    "technique": "grill",
+    "primaryIngredient": "gruy re",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "gruy re",
+    "descriptor": "grassy adventurous",
+    "dishForm": "Asado"
+  }
+}

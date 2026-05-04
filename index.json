@@ -5415,6 +5415,23 @@
     "shard": "g"
   },
   {
+    "slug": "grassy-adventurous-argentinian-gruy-re-asado",
+    "title": "Grassy Adventurous Argentinian Gruyre Asado",
+    "tags": [
+      "argentinian",
+      "asado",
+      "beef",
+      "cheese",
+      "grilled",
+      "gruyre",
+      "vegetarian",
+      "wagyu"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 50,
+    "shard": "g"
+  },
+  {
     "slug": "grassy-golden-dutch-grains-pilaf",
     "title": "Grassy Golden Dutch Grains Pilaf",
     "tags": [
