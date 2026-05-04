@@ -4632,6 +4632,21 @@
     "shard": "g"
   },
   {
+    "slug": "gooey-spicy-british-chicken-wrap",
+    "title": "Gooey Spicy British Chicken Wrap",
+    "tags": [
+      "halal-friendly",
+      "high-protein",
+      "kid-friendly",
+      "quick",
+      "spicy",
+      "wrap"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
     "slug": "gooey-spicy-canadian-citrus-peel-stir-fry",
     "title": "Gooey Spicy Canadian Citrus Peel Stir-fry",
     "tags": [

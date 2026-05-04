@@ -1,0 +1,109 @@
+{
+  "title": "Gooey Spicy British Chicken Wrap",
+  "description": "A kid‑friendly, halal‑friendly wrap that blends classic British flavors with a spicy kick and a creamy, gooey finish.",
+  "cuisine": "British",
+  "diet": [
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "200g"
+    },
+    {
+      "name": "all‑purpose flour",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "50g",
+      "notes": "shredded"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "100g"
+    },
+    {
+      "name": "salsa",
+      "amount": "80g"
+    },
+    {
+      "name": "whole wheat tortillas",
+      "amount": "2"
+    }
+  ],
+  "instructions": [
+    "Preheat a non‑stick skillet over medium heat.",
+    "Season the sliced chicken with garlic powder, smoked paprika, cayenne pepper, salt, and pepper.",
+    "Coat the chicken in flour, shaking off excess.",
+    "Add olive oil to the skillet and cook the chicken until golden and cooked through, about 6–7 minutes, stirring occasionally.",
+    "Remove the chicken and set aside, reserving the skillet juices.",
+    "In the same skillet, stir in shredded cheddar cheese and a tablespoon of the reserved pan juices until the cheese melts into a gooey coating.",
+    "Slice the cooked chicken into thin strips and return them to the skillet, mixing them with the melted cheese.",
+    "Warm the tortillas in a separate dry pan for 30 seconds on each side.",
+    "Spread a thin layer of Greek yogurt over each tortilla, top with the cheesy chicken, and spoon salsa over the chicken.",
+    "Fold the sides of the tortilla over the filling, roll tightly, and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "halal-friendly",
+    "high-protein",
+    "kid-friendly",
+    "quick",
+    "spicy",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 32
+  },
+  "slug": "gooey-spicy-british-chicken-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-spicy-british-chicken-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:50:44Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "silky",
+    "mood": "kid-friendly",
+    "technique": "fold",
+    "primaryIngredient": "salsa",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "chicken",
+    "descriptor": "Gooey Spicy",
+    "dishForm": "Wrap"
+  }
+}
