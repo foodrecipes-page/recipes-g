@@ -1,0 +1,118 @@
+{
+  "title": "Gooey Spicy Italian Beef Tagliatelle with Yellow Masarepa Filling",
+  "description": "A spicy and gooey Italian dish made with yellow masarepa, rest-meat, and tagliatelle, perfect for a quick weeknight dinner.",
+  "cuisine": "italian",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "macrobiotic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yellow masarepa",
+      "amount": "2 cups"
+    },
+    {
+      "name": "rest-meat (beef)",
+      "amount": "1 pound"
+    },
+    {
+      "name": "tagliatelle",
+      "amount": "1 pound"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried basil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Cook the tagliatelle according to package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes.",
+    "Add the rest-meat and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the dried oregano, dried basil, red pepper flakes, salt, and black pepper, and stir to combine.",
+    "Add the cooked tagliatelle to the skillet and toss with the meat and sauce.",
+    "Divide the tagliatelle mixture among four plates.",
+    "To make the filling, cook the yellow masarepa according to package instructions.",
+    "Add the cooked masarepa to a bowl and mix in the parmesan cheese (if using).",
+    "Spoon the masarepa filling onto the top of each plate of tagliatelle.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "comfort-food",
+    "italian",
+    "mac-and-cheese",
+    "masarepa",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 22
+  },
+  "slug": "gooey-spicy-italian-beef-tagliatelle-with-yellow-masarepa-gooey-spicy-filling",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-spicy-italian-beef-tagliatelle-with-yellow-masarepa-gooey-spicy-filling",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T04:13:40Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "gooey",
+    "mood": "monsoon",
+    "technique": "rest-meat",
+    "primaryIngredient": "yellow masarepa",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "beef",
+    "descriptor": "Gooey Spicy",
+    "dishForm": "Tagliatelle with Yellow Masarepa Gooey Spicy Filling"
+  }
+}
