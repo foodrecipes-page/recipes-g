@@ -1,0 +1,95 @@
+{
+  "title": "Grilled Smoky Russian Cheese Skewers",
+  "description": "Quick, sugar‑free skewers of crumbly Grana Padano cheese grilled to a smoky finish and brightened with lemon zest.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "sugar-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Grana Padano cheese cubes",
+      "amount": "8 cubes"
+    },
+    {
+      "name": "wooden skewers (soaked in water)",
+      "amount": "4 skewers"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh rosemary sprigs",
+      "amount": "4 sprigs"
+    },
+    {
+      "name": "grated Parmesan cheese (optional garnish)",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Soak wooden skewers in warm water for 20 minutes to prevent burning.",
+    "Preheat a robata grill to medium‑high heat.",
+    "In a small bowl whisk together olive oil, smoked paprika, black pepper, sea salt, and lemon zest to make a glaze.",
+    "Brush each cheese cube with the glaze and thread two cubes onto each skewer.",
+    "Place skewers on the hot grill and cook for 2 minutes on each side until the cheese is slightly browned.",
+    "While grilling, drizzle a light squeeze of lemon juice over the cheese for brightness.",
+    "Remove skewers from the grill, garnish with rosemary sprigs, and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 5,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "quick",
+    "russian",
+    "snack",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 335,
+    "protein": 16,
+    "carbs": 0,
+    "fat": 29
+  },
+  "slug": "grilled-smoky-russian-cheese-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/grilled-smoky-russian-cheese-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:01:09Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crumbly",
+    "mood": "quick-fix",
+    "technique": "robata-grill",
+    "primaryIngredient": "grana-padano",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Cheese",
+    "descriptor": "Grilled Smoky",
+    "dishForm": "Skewers"
+  }
+}
