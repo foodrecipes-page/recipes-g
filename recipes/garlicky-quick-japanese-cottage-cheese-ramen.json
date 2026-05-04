@@ -1,0 +1,114 @@
+{
+  "title": "Garlicky Quick Japanese Cottage Cheese Ramen",
+  "description": "A fast, garlicky ramen with creamy cottage cheese and a glassy broth, inspired by Kanto flavors and Ayurveda principles.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ramen noodles",
+      "amount": "100 g"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "low-sodium chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "mirin",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "cottage cheese",
+      "amount": "2 tbsp",
+      "notes": "fresh, high-protein"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "miso paste",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "green onion",
+      "amount": "1 stalk",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Bring water and chicken broth to a boil in a medium saucepan.",
+    "Add ramen noodles and cook for 3 minutes until al dente, then drain and set aside.",
+    "In the same pan, heat sesame oil over medium heat and sauté minced garlic and grated ginger until fragrant, about 30 seconds.",
+    "Deglaze the pan with soy sauce, scraping up any browned bits.",
+    "Stir in mirin, miso paste, and rice vinegar, letting the mixture simmer for 1 minute to meld flavors.",
+    "Reduce heat, then fold in cottage cheese until it melts into a creamy, glassy consistency.",
+    "Return the cooked noodles to the pan, tossing them in the garlicky broth until heated through.",
+    "Remove from heat and ladle the ramen into bowls.",
+    "Garnish with sliced green onion and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "ayurvedic-friendly",
+    "cottage-cheese",
+    "garlicky",
+    "glassy-jelly",
+    "low-fat",
+    "quick-ramen",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 8,
+    "carbs": 42,
+    "fat": 4
+  },
+  "slug": "garlicky-quick-japanese-cottage-cheese-ramen",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-quick-japanese-cottage-cheese-ramen",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:55:59Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "glassy-jelly",
+    "mood": "quick-fix",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "cottage cheese",
+    "diet": "ayurvedic-tamasic",
+    "region": "kanto",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Cottage Cheese",
+    "descriptor": "Garlicky Quick",
+    "dishForm": "Ramen"
+  }
+}
