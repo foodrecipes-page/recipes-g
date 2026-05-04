@@ -1,0 +1,96 @@
+{
+  "title": "Garlicky German Beef Flank Steak Bauernfristück",
+  "description": "A hearty and flavorful weeknight German dish featuring a garlicky crumbly beef flank steak with a side of savory bhuna sauce. This recipe is a perfect example of a traditional German comfort food, easy to prepare and cook in no time.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef flank steak",
+      "amount": "1 pound"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for dredging"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tablespoon",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "bhuna sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Season the beef flank steak with salt and black pepper. Dredge the steak in flour, shaking off excess.",
+    "Heat the vegetable oil in a large skillet over medium-high heat. Sear the beef flank steak for 2-3 minutes on each side, or until browned.",
+    "Remove the steak from the skillet and set aside. Add the chopped onion to the skillet and cook until translucent.",
+    "Add the minced garlic and caraway seeds to the skillet and cook for 1 minute.",
+    "Stir in the bhuna sauce and bring the mixture to a simmer. Return the beef flank steak to the skillet and cook for an additional 5-7 minutes, or until cooked through.",
+    "Slice the beef flank steak against the grain and serve with the savory bhuna sauce.",
+    "Serve with your choice of sides, such as mashed potatoes or roasted vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "german",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "garlicky-german-beef-flank-steak-bauernfristuck",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-german-beef-flank-steak-bauernfristuck",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:48:24Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crumbly",
+    "mood": "weeknight",
+    "technique": "bhuna",
+    "primaryIngredient": "beef flank steak",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "beef flank steak",
+    "descriptor": "garlicky",
+    "dishForm": "Bauernfristück"
+  }
+}

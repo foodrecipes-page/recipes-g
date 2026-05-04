@@ -1520,6 +1520,19 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-fluffy-french-brittany-french-bread-pilaf",
+    "title": "Garlicky, Fluffy French (Brittany) Bread Pilaf",
+    "tags": [
+      "high-fiber",
+      "midnight-craving",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 17,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-fluffy-french-lentils-quiche",
     "title": "Garlicky Fluffy French Lentils Quiche",
     "tags": [
@@ -1640,6 +1653,20 @@
     ],
     "cuisine": "Thai",
     "totalTimeMin": 45,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-german-beef-flank-steak-bauernfristuck",
+    "title": "Garlicky German Beef Flank Steak Bauernfristück",
+    "tags": [
+      "comfort-food",
+      "german",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
