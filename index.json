@@ -2852,6 +2852,21 @@
     "shard": "g"
   },
   {
+    "slug": "glazed-kenyan-beef-grill",
+    "title": "Glazed Kenyan Beef Grill",
+    "tags": [
+      "creamy",
+      "kenyan",
+      "low-sodium",
+      "raclette-grill",
+      "single-dinner",
+      "winey"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 18,
+    "shard": "g"
+  },
+  {
     "slug": "glazed-moroccan-chicken-tagine",
     "title": "Glazed Moroccan Chicken Tagine",
     "tags": [

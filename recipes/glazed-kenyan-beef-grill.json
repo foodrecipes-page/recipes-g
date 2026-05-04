@@ -1,0 +1,103 @@
+{
+  "title": "Glazed Kenyan Beef Grill",
+  "description": "A single-serving, wine-infused Kenyan beef grilled to perfection with a creamy glaze, finished with a quick ice-bath shock and served on a raclette grill.",
+  "cuisine": "kenyan",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef sirloin",
+      "amount": "200g",
+      "notes": "cut into 1 cm thick slices"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "dry red wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "low-sodium salt",
+      "amount": "1/8 tsp"
+    }
+  ],
+  "instructions": [
+    "Pat the beef slices dry and drizzle with olive oil, seasoning with smoked paprika, cumin, cinnamon, garlic, and low-sodium salt.",
+    "Place the beef on a preheated raclette grill and sear each side for 2 minutes until browned.",
+    "Remove the beef and set aside in an ice water bath for 30 seconds to chill quickly and stop cooking.",
+    "In the same grill pan, pour the dry red wine and let it reduce by half over medium heat.",
+    "Add the butter and lemon juice to the pan, stirring until the glaze thickens and turns silky.",
+    "Return the chilled beef to the grill pan and coat thoroughly with the creamy glaze, cooking for an additional 1 minute.",
+    "Transfer the glazed beef to a plate and drizzle extra glaze over it.",
+    "Sprinkle chopped parsley on top and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "creamy",
+    "kenyan",
+    "low-sodium",
+    "raclette-grill",
+    "single-dinner",
+    "winey"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 35
+  },
+  "slug": "glazed-kenyan-beef-grill",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/glazed-kenyan-beef-grill",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:47:41Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "creamy",
+    "mood": "solo-dinner",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "red wine",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "beef",
+    "descriptor": "Glazed",
+    "dishForm": "Grill"
+  }
+}
