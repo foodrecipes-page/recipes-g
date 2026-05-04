@@ -1,0 +1,102 @@
+{
+  "title": "Glazed Egyptian Lamb Skillet",
+  "description": "A fatty and velvety lamb dish glazed with honey and spices, perfect for a date night in a single skillet.",
+  "cuisine": "egyptian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder, sliced 2.5 cm thick",
+      "amount": "1 lb",
+      "notes": "trimmed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "high smoke point"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 pinch"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 pinch"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "1 clove"
+    }
+  ],
+  "instructions": [
+    "Heat a yakimono grill pan over high heat and add olive oil to coat the surface.",
+    "Season the lamb slices with salt, pepper, cumin, coriander, paprika, and cinnamon.",
+    "Place the lamb in the hot pan and sear each side for 2 minutes until a deep brown crust forms.",
+    "Reduce heat to medium, add lemon juice and honey to the pan and swirl to coat the meat.",
+    "Simmer the lamb for another 3 minutes, spooning the glaze over each piece until it thickens and becomes sticky.",
+    "Add minced garlic and cook for 30 seconds to release aroma without burning.",
+    "Remove the skillet from heat and let the lamb rest for 2 minutes to lock in juices.",
+    "Serve the glazed lamb hot, optionally dashing a few extra spoonfuls of glaze across the plate for extra sweetness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "egyptian",
+    "glazed",
+    "lamb",
+    "one-pan",
+    "yakimono"
+  ],
+  "nutrition": {
+    "calories": 610,
+    "protein": 43,
+    "carbs": 9,
+    "fat": 47
+  },
+  "slug": "glazed-egyptian-lamb-skillet",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/glazed-egyptian-lamb-skillet",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:54:52Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "velvety",
+    "mood": "date-night",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "high heat cooking oil",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lamb",
+    "descriptor": "Glazed",
+    "dishForm": "Skillet"
+  }
+}
