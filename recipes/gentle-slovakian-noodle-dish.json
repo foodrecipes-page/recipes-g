@@ -1,0 +1,91 @@
+{
+  "title": "Slovakian Noodle Dish",
+  "description": "A kid-friendly Slovakian dish featuring yeasty and silky noodles, this recipe is kosher-friendly and uses shio-cure for added flavor.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "egg noodles",
+      "amount": "8 oz",
+      "notes": "wide egg noodles"
+    },
+    {
+      "name": "shio cure",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 tsp",
+      "notes": "active dry yeast"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the egg noodles according to package instructions.",
+    "In a small bowl, mix the shio cure and yeast together.",
+    "In a large saucepan, combine the chicken broth, sour cream, and shio cure mixture, and stir over low heat until the mixture is smooth.",
+    "Add the cooked noodles to the saucepan and stir to combine.",
+    "Add the butter, salt, and pepper to the saucepan and stir until the butter is melted.",
+    "Reduce heat to low and simmer the mixture for 5 minutes.",
+    "Serve the noodle dish hot.",
+    "Garnish with chopped fresh parsley or dill if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "kid-friendly",
+    "kosher-friendly",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 55,
+    "fat": 15
+  },
+  "slug": "gentle-slovakian-noodle-dish",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gentle-slovakian-noodle-dish",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:59:51Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "silky",
+    "mood": "kid-friendly",
+    "technique": "shio-cure",
+    "primaryIngredient": "noodles",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "noodles",
+    "descriptor": "gentle silky",
+    "dishForm": "Noodles"
+  }
+}

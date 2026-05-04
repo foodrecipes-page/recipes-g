@@ -2354,6 +2354,20 @@
     "shard": "g"
   },
   {
+    "slug": "gentle-slovakian-noodle-dish",
+    "title": "Slovakian Noodle Dish",
+    "tags": [
+      "comfort-food",
+      "kid-friendly",
+      "kosher-friendly",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "gentle-steamed-dutch-fish-wrap",
     "title": "Gentle Steamed Dutch Fish Wrap",
     "tags": [
