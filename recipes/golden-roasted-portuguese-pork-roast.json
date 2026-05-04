@@ -1,0 +1,92 @@
+{
+  "title": "Golden Roasted Portuguese Pork Roast",
+  "description": "A traditional Portuguese dish featuring roasted pork shoulder steaks, this recipe is a nostalgic and flavorful delight. The flambe technique adds a rich and caramelized crust to the pork.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder steaks",
+      "amount": "4 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "port wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the pork shoulder steaks with paprika, salt, and black pepper.",
+    "Heat the olive oil in a large oven-safe skillet over medium-high heat.",
+    "Sear the pork shoulder steaks for 2 minutes on each side, then set aside.",
+    "Add the minced garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Add the port wine and chicken broth to the skillet, scraping up any browned bits from the bottom.",
+    "Return the pork shoulder steaks to the skillet and bring the liquid to a simmer.",
+    "Transfer the skillet to the preheated oven and roast for 20 minutes, then flambe the pork with a kitchen torch or under the broiler for 2 minutes.",
+    "Let the pork rest for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "flambe-technique",
+    "gluten-free",
+    "pork-recipes",
+    "portuguese-cuisine",
+    "roasted-meats"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 39
+  },
+  "slug": "golden-roasted-portuguese-pork-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-roasted-portuguese-pork-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:49:22Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "flaky",
+    "mood": "nostalgic",
+    "technique": "flambe",
+    "primaryIngredient": "pork shoulder steaks",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "pork shoulder",
+    "descriptor": "Golden Roasted",
+    "dishForm": "Roast"
+  }
+}
