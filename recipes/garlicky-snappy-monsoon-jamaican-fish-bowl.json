@@ -1,0 +1,129 @@
+{
+  "title": "Garlicky, Snappy, Monsoon Jamaican Fish Bowl",
+  "description": "Crisp fried white fish, fragrant tadka-spiced rice, and a tangy slaw, all served in a sturdy bento box. Perfect for a quick and refreshing lunch on a stormy day.",
+  "cuisine": "jamaican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "white fish fillets",
+      "amount": "4",
+      "notes": "4 fish fillets, about 6 oz each"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion, thinly sliced",
+      "amount": "1",
+      "notes": "about 1 medium onion"
+    },
+    {
+      "name": "ginger, minced",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "flaxseed meal",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "tadka spice blend",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "brown rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "carrots, shredded",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "red cabbage, shredded",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the onion and cook until softened, about 3 minutes.",
+    "Add the ginger and garlic and cook for another minute, stirring constantly.",
+    "Add the flaxseed meal and tadka spice blend and cook for 1 minute, stirring constantly.",
+    "Add the brown rice and cook for 2-3 minutes, stirring constantly.",
+    "Transfer the rice mixture to a separate pot and add 2 cups of water. Bring to a boil, then reduce heat to low and simmer, covered, for 15-20 minutes.",
+    "While the rice is cooking, prepare the slaw by combining the carrots, red cabbage, apple cider vinegar, and lime juice in a bowl.",
+    "Season the fish fillets with salt and black pepper.",
+    "Heat a separate skillet over medium-high heat and add a small amount of oil. Cook the fish fillets for 3-4 minutes per side, or until cooked through.",
+    "To assemble the bowls, place a portion of the cooked rice in the bottom of a bento box, followed by a cooked fish fillet, and then a spoonful of the slaw.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 38,
+    "carbs": 42,
+    "fat": 18
+  },
+  "slug": "garlicky-snappy-monsoon-jamaican-fish-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-snappy-monsoon-jamaican-fish-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:19:02Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "snappy",
+    "mood": "monsoon",
+    "technique": "tadka",
+    "primaryIngredient": "white fish fillets",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Fish",
+    "descriptor": "Garlicky, Snappy, Monsoon",
+    "dishForm": "Bowl"
+  }
+}
