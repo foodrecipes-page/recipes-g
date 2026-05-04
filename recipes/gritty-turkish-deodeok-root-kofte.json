@@ -1,0 +1,106 @@
+{
+  "title": "Gritty Turkish Deodeok Root Kofte",
+  "description": "Earthy, flaky Turkish koftes made from deodeok root and millet, seasoned with fermented jang and aromatic spices.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "deodeok root",
+      "amount": "300g"
+    },
+    {
+      "name": "fermented jang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "millet",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "chickpea flour",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Peel and grate the deodeok root.",
+    "Combine grated root, fermented jang, olive oil, water, and millet in a bowl; let soak 15 minutes.",
+    "Heat a pan and sauté onion and garlic until translucent.",
+    "Add the sautéed aromatics to the root mixture and stir in cumin, turmeric, salt, and pepper.",
+    "Stir in chickpea flour to bind the mixture; let it cool to room temperature.",
+    "Shape the mixture into small patties or balls.",
+    "Heat oil in a skillet over medium heat and brown the koftes on all sides, about 4 minutes per side.",
+    "Transfer koftes to a plate; serve hot with yogurt dip or fresh salad.",
+    "Enjoy the earthy, flaky Turkish deodeok root koftes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "low-fat",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 706,
+    "protein": 14,
+    "carbs": 93,
+    "fat": 32
+  },
+  "slug": "gritty-turkish-deodeok-root-kofte",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/gritty-turkish-deodeok-root-kofte",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:06:23Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "flaky",
+    "mood": "adventurous",
+    "technique": "ferment-jang",
+    "primaryIngredient": "deodeok-root",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "deodeok root",
+    "descriptor": "Gritty",
+    "dishForm": "Kofte"
+  }
+}
