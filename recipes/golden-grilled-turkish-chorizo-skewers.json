@@ -1,0 +1,103 @@
+{
+  "title": "Golden Grilled Turkish Chorizo Skewers",
+  "description": "A briny and crunchy Turkish dish featuring chorizo, perfect for a brunch mood, with a smoky flavor from the iron teppan",
+  "cuisine": "Turkish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Turkish chorizo",
+      "amount": "12 oz",
+      "notes": "sliced into 1 inch pieces"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 large",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 large",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the iron teppan to medium high heat",
+    "Thread the chorizo, red onion, red bell pepper, and cherry tomatoes onto skewers",
+    "Brush the skewers with olive oil and season with salt, black pepper, and garlic powder",
+    "Grill the skewers for 10 minutes, turning occasionally",
+    "Transfer the skewers to a plate and sprinkle with chopped parsley",
+    "Drizzle the skewers with lemon juice",
+    "Serve the skewers hot and enjoy"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brunch-ideas",
+    "grilled",
+    "high-protein",
+    "keto-friendly",
+    "one-pan",
+    "turkish-food",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 5,
+    "fat": 22
+  },
+  "slug": "golden-grilled-turkish-chorizo-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-grilled-turkish-chorizo-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T20:55:11Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crunchy",
+    "mood": "brunch-mood",
+    "technique": "smoke-cold",
+    "primaryIngredient": "chorizo",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "chorizo",
+    "descriptor": "Golden Grilled",
+    "dishForm": "Skewers"
+  }
+}
