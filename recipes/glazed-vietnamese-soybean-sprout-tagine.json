@@ -1,0 +1,102 @@
+{
+  "title": "Glazed Vietnamese Soybean Sprout Tagine",
+  "description": "A briny, crispy dish featuring soybean sprouts and kongnamul cooked in a traditional clay tajine, finished with a sweet‑savory glaze that makes for a satisfying solo dinner.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "soybean sprouts",
+      "amount": "200g"
+    },
+    {
+      "name": "kongnamul",
+      "amount": "150g"
+    },
+    {
+      "name": "carrot, sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "scallion, chopped",
+      "amount": "2"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "2"
+    },
+    {
+      "name": "ginger, grated",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "200ml"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a ttukbaegi over medium heat.",
+    "Add garlic and ginger and sauté until fragrant, about 2 minutes.",
+    "Stir in carrot slices and cook for another 3 minutes.",
+    "Add the soybean sprouts and kongnamul, searing them lightly for 4 minutes.",
+    "Pour in soy sauce, rice vinegar, water, and a pinch of salt; bring to a gentle simmer.",
+    "Cover the pot and let the mixture cook for 8 minutes, allowing the flavors to meld.",
+    "Reduce the heat, uncover, and simmer until the liquid has thickened into a glaze, about 5 minutes.",
+    "Finish with toasted sesame seeds and a drizzle of sesame oil before serving."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "vietnamese",
+    "dinner"
+  ],
+  "slug": "glazed-vietnamese-soybean-sprout-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/glazed-vietnamese-soybean-sprout-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:16:08Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crispy",
+    "mood": "solo-dinner",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "soybean-sprout-kongnamul",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "soybean sprout",
+    "descriptor": "Glazed",
+    "dishForm": "Tagine"
+  }
+}
