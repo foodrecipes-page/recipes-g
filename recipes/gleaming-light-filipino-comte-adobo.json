@@ -1,0 +1,114 @@
+{
+  "title": "Gleaming Light Filipino Comte Adobo",
+  "description": "A low‑fat, smoky adobo that combines tender chicken with rich, melted comte cheese for a light yet nostalgic Filipino classic.",
+  "cuisine": "Filipino",
+  "diet": [
+    "low-fat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lean chicken breast",
+      "amount": "200g",
+      "notes": "cut into small cubes"
+    },
+    {
+      "name": "comte cheese",
+      "amount": "30g",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tbsp",
+      "notes": "use white vinegar alternative"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "minced"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1",
+      "notes": "optional"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": "for smokiness"
+    },
+    {
+      "name": "crushed red pepper",
+      "amount": "1 tsp",
+      "notes": "adjust heat"
+    },
+    {
+      "name": "low-sodium chicken broth",
+      "amount": "1 cup",
+      "notes": "hot"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      "notes": "for sauté"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a skillet over medium heat and brown the chicken cubes until lightly golden.",
+    "Add minced garlic and onion, sauté until fragrant and translucent.",
+    "Pour in soy sauce and vinegar, stir to combine, then add smoked paprika and crushed red pepper.",
+    "Add the chicken broth, bring the mixture to a simmer, and let it cook for 10 minutes.",
+    "Stir in the grated comte cheese, allowing it to melt into the sauce and create a silky coating.",
+    "Reduce heat to low, cover, and simmer for an additional 5 minutes until the cheese is fully integrated.",
+    "Season with salt and pepper to taste, then remove from heat.",
+    "Serve hot over steamed rice or cauliflower rice for a low-carb option."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "adobo-style",
+    "cheese-based",
+    "gluten-free",
+    "low-fat",
+    "nostalgic",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 449,
+    "protein": 56,
+    "carbs": 17,
+    "fat": 35
+  },
+  "slug": "gleaming-light-filipino-comte-adobo",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/gleaming-light-filipino-comte-adobo",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:33:07Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "light",
+    "mood": "nostalgic",
+    "technique": "smoke-cold",
+    "primaryIngredient": "comte",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Comte",
+    "descriptor": "Gleaming Light",
+    "dishForm": "Adobo"
+  }
+}
