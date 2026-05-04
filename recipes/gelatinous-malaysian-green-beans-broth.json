@@ -1,0 +1,109 @@
+{
+  "title": "Gelatinous Malaysian Green Beans Broth",
+  "description": "A resinous, glassy-jelly broth featuring fresh green beans, yuzu-cured broth, and an ovo-vegetarian touch.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green beans",
+      "amount": "200g",
+      "notes": "trimmed and cut into 2cm pieces"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "500ml",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "kelp",
+      "amount": "10g",
+      "notes": "for umami"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "30ml"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "15ml",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "1g"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "5g",
+      "notes": "minced"
+    },
+    {
+      "name": "oil",
+      "amount": "1 tsp",
+      "notes": "vegetable"
+    },
+    {
+      "name": "agar-agar powder",
+      "amount": "2g"
+    },
+    {
+      "name": "egg yolk",
+      "amount": "1",
+      "notes": "ovo-vegetarian"
+    }
+  ],
+  "instructions": [
+    "Trim and cut 200g green beans into 2cm pieces.",
+    "In a saucepan, heat 1 tsp oil and sauté 1 minced garlic and 5g ginger until fragrant.",
+    "Add 500ml vegetable stock, 10g kelp, 30ml soy sauce, 15ml yuzu juice, and 1g salt; bring to a simmer.",
+    "Stir in 2g agar-agar until fully dissolved and let the broth simmer for 10 minutes.",
+    "Add the prepared green beans to the broth and simmer for an additional 4 minutes until tender.",
+    "Remove kelp, strain the liquid, and let the broth cool to 40°C while stirring.",
+    "Whisk in 1 egg yolk until fully incorporated, then pour the mixture into a shallow dish.",
+    "Chill the dish in the refrigerator for 30 minutes until it sets into a glassy gelatinous form."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "gelatinous",
+    "healthy",
+    "malaysian",
+    "ovo-vegetarian",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 9,
+    "carbs": 15,
+    "fat": 10
+  },
+  "slug": "gelatinous-malaysian-green-beans-broth",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/gelatinous-malaysian-green-beans-broth",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:08:50Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "glassy-jelly",
+    "mood": "cozy",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "green beans",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "green beans",
+    "descriptor": "Gelatinous",
+    "dishForm": "Broth"
+  }
+}
