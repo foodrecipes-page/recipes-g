@@ -1,0 +1,92 @@
+{
+  "title": "Golden Crumbly Polish Runner Beans Casserole",
+  "description": "A traditional Polish dish featuring fermented runner beans, perfect for a post-workout meal, with a crumbly topping and a dash of friendly spices. This casserole is a hearty and satisfying option for a weeknight dinner.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "runner beans",
+      "amount": "1 pound",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Poach the runner beans in boiling water for 5 minutes, then drain and set aside.",
+    "In a large bowl, mix together the sour cream, shredded cheese, and egg.",
+    "Add the poached runner beans to the bowl and stir until they are well coated with the cheese mixture.",
+    "In a separate bowl, mix together the breadcrumbs, salt, black pepper, and paprika.",
+    "Transfer the bean mixture to a 9x13 inch baking dish and top with the breadcrumb mixture.",
+    "Bake the casserole in the preheated oven for 25 minutes, or until the top is golden brown.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "golden-crumbly-polish-runner-beans-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-crumbly-polish-runner-beans-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:50:44Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crumbly",
+    "mood": "post-workout",
+    "technique": "poach",
+    "primaryIngredient": "runner beans",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "runner beans",
+    "descriptor": "Golden Crumbly",
+    "dishForm": "Casserole"
+  }
+}
