@@ -1,0 +1,107 @@
+{
+  "title": "Glazed Algerian Eggplant Fritters",
+  "description": "Crispy, aerated fritters of diced eggplant bound with chickpea flour and flaxseed, finished with a sharp white vinegar glaze.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "300g",
+      "notes": "diced 1-inch cubes"
+    },
+    {
+      "name": "chickpea flour",
+      "amount": "120g"
+    },
+    {
+      "name": "water",
+      "amount": "120ml"
+    },
+    {
+      "name": "flaxseed meal",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "3 tbsp",
+      "notes": "for flaxseed gel"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "white vinegar",
+      "amount": "1 1/2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "4 tbsp",
+      "notes": "2 tbsp for frying, 1 tbsp for glaze"
+    }
+  ],
+  "instructions": [
+    "Heat 2 cups of olive oil in a deep pan to 180°C until shimmering.",
+    "Whisk together 120g chickpea flour, 1 tsp salt, 1/2 tsp cumin, and 1/2 tsp smoked paprika with 120ml water until the batter is smooth.",
+    "In a small bowl, combine 1 tbsp flaxseed meal with 3 tbsp water, let sit for 5 minutes until it thickens into a gel.",
+    "Fold the flaxseed gel into the batter, then stir in 300g diced eggplant, 2 tbsp chopped parsley, and 1 tbsp white vinegar until the vegetables are evenly coated.",
+    "Drop spoonfuls of the mixture into the hot oil, frying each fritter for 3-4 minutes per side until golden brown and crisp.",
+    "Remove the fritters with a slotted spoon and drain them on paper towels.",
+    "In a small saucepan, heat 1 tbsp of olive oil, add 1 tbsp white vinegar, and simmer for 1 minute until slightly thickened.",
+    "Drizzle the glaze over the hot fritters and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "deep-fry",
+    "easy",
+    "gluten-free",
+    "quick",
+    "snack",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 5,
+    "carbs": 23,
+    "fat": 9
+  },
+  "slug": "glazed-algerian-eggplant-fritters",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/glazed-algerian-eggplant-fritters",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:02:56Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "aerated",
+    "mood": "monsoon",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "white vinegar",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "eggplant",
+    "descriptor": "Glazed",
+    "dishForm": "Fritters"
+  }
+}
