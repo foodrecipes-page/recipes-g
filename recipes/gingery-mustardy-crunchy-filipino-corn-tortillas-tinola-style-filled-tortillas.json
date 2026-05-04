@@ -1,0 +1,112 @@
+{
+  "title": "Gingery Mustardy Crunchy Filipino Corn Tortillas Tinola-Style Filled Tortillas",
+  "description": "A light and refreshing fusion of Filipino flavors and crunchy corn tortillas, served in banana leaves.",
+  "cuisine": "Filipino",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Corn tortillas",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "Ginger-infused oil",
+      "amount": "2 tablespoons",
+      "notes": "See notes for ginger infusion method."
+    },
+    {
+      "name": "Yellow mustard",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Crushed peanuts",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sour cream",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Tinola base (see notes)",
+      "amount": "2 tablespoons",
+      "notes": "Tinola is a Filipino ginger-based chicken soup."
+    },
+    {
+      "name": "Sliced green onions",
+      "amount": "for garnish",
+      "notes": ""
+    },
+    {
+      "name": "Banana leaves",
+      "amount": "+ve quantity",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of ginger-infused oil in a pan over medium-high heat.",
+    "Add crushed peanuts and cook, stirring frequently, until fragrant and lightly toasted, about 2 minutes.",
+    "Add yellow mustard and cook for 1 minute, stirring constantly.",
+    "Add corn tortillas and cook for 1-2 minutes on each side, until slightly browned and crispy.",
+    "In a separate pan, heat the remaining 1 tablespoon of ginger-infused oil over medium heat.",
+    "Add tinola base and cook, stirring constantly, until fragrant, about 1 minute.",
+    "Add coconut milk and sour cream. Bring the mixture to a simmer and cook for 2-3 minutes, until slightly thickened.",
+    "To assemble the dish, place a cooked corn tortilla on a banana leaf. Spoon the tinola filling over the tortilla. Top with chopped cilantro, sliced green onions, and a sprinkle of salt.",
+    "Fold the banana leaf over the tortilla to enclose the filling.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-ish",
+    "filipino",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 24
+  },
+  "slug": "gingery-mustardy-crunchy-filipino-corn-tortillas-tinola-style-filled-tortillas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/gingery-mustardy-crunchy-filipino-corn-tortillas-tinola-style-filled-tortillas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:15:53Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crunchy",
+    "mood": "light",
+    "technique": "infuse-oil",
+    "primaryIngredient": "corn tortillas",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "corn tortillas",
+    "descriptor": "Gingery Mustardy Crunchy",
+    "dishForm": "Tinola-Style Filled Tortillas"
+  }
+}

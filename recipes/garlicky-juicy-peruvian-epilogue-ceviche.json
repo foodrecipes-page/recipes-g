@@ -1,0 +1,72 @@
+{
+  "title": "Garlicky Juicy Peruvian Epilogue Ceviche",
+  "description": "A garlicky, juicy, nostalgic Peruvian dish featuring creamy epoisses and a tangy beurre-monte, perfect for a low-carb-friendly meal.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-carb",
+    "dairy"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fresh sea bass",
+      "amount": "1 pound",
+      "notes": "Sushi-grade fish"
+    }
+  ],
+  "instructions": [
+    "Cut the sea bass into small cubes.",
+    "In a large bowl, combine the sea bass, red onion, cilantro, and lime juice.",
+    "Mix well to combine, then season with salt to taste.",
+    "Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, stir in the softened epoisses cheese and minced garlic.",
+    "Top with whipped beurre-monte and serve immediately.",
+    "Garnish with additional cilantro, if desired.",
+    "Serve chilled or at room temperature, depending on your preference.",
+    "Note: For an extra spicy kick, add a diced jalapeno pepper to the bowl with the sea bass.",
+    "Note: If you can't find epoisses cheese, you can substitute it with another strong, creamy cheese like goat cheese or mascarpone.",
+    "Note: Be sure to cook the beurre-monte just before serving, as it will thicken quickly in the refrigerator.",
+    "Note: If you're short on time, you can prepare the beurre-monte up to a day in advance and store it in the refrigerator until ready to use.",
+    "Note: For a lighter version of the dish, use only 1/8 cup of beurre-monte or substitute it with a mixture of sour cream and chives.",
+    "Note: This recipe makes 4-6 servings, depending on serving size.",
+    "Note: If you're not a fan of spicy food, omit the jalapeno pepper or substitute it with a milder pepper like Anaheim or bell pepper.",
+    "Note: You can also add diced mango or pineapple to the bowl with the sea bass for a sweet and tangy twist.",
+    "Note: To make the dish more substantial, add some cooked rice, quinoa, or grilled chicken to the bowl with the sea bass."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "low-carb",
+    "peruvian",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 12
+  },
+  "slug": "garlicky-juicy-peruvian-epilogue-ceviche",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-juicy-peruvian-epilogue-ceviche",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:16:13Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "juicy",
+    "mood": "nostalgic",
+    "technique": "beurre-monte",
+    "primaryIngredient": "epoisses",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Epilogue",
+    "descriptor": "Garlicky Juicy",
+    "dishForm": "Ceviche"
+  }
+}
