@@ -1,0 +1,108 @@
+{
+  "title": "Gritty Mexican Corn Pozole",
+  "description": "A savory Jalisco-style pozole with a Chinese sesame sauce twist, topped with pickled nuka cucumber and tofu for a vegetarian-friendly cozy bowl.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hominy corn",
+      "amount": "2 cups",
+      "notes": "reconstituted"
+    },
+    {
+      "name": "masa harina",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1 cup"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 cup chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "diced tofu",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "6 cups"
+    }
+  ],
+  "instructions": [
+    "Rinse hominy corn and add to a large pot with 6 cups water, bring to a boil, then simmer for 30 minutes until tender.",
+    "Whisk together soy sauce, rice vinegar, honey, sesame oil, toasted sesame seeds, and lime juice until well combined to make the sauce.",
+    "Stir masa harina into the simmering hominy, whisking constantly to avoid lumps, and cook for 5 minutes until the mixture thickens.",
+    "Add the prepared sesame sauce to the pot and stir thoroughly to coat the corn.",
+    "Reduce heat to low and let the pozole simmer for 20 minutes, allowing flavors to meld.",
+    "After simmering, stir in diced tofu and cook for an additional 5 minutes until tofu is heated through.",
+    "Remove pot from heat, then stir in nuka-pickle and chopped scallions.",
+    "Taste the pozole and add a pinch of sea salt if needed.",
+    "Transfer the pozole onto a wooden board for serving, ensuring it stays warm.",
+    "Serve hot, optionally garnishing with extra scallions or lime wedges if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 55,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy",
+    "one-pot",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 626,
+    "protein": 17,
+    "carbs": 86,
+    "fat": 12
+  },
+  "slug": "gritty-mexican-corn-pozole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/gritty-mexican-corn-pozole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:24:23Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "bouncy-qq",
+    "mood": "cozy",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "chinese sesame sauce",
+    "diet": "vegetarian",
+    "region": "jalisco-style",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "corn",
+    "descriptor": "Gritty",
+    "dishForm": "Pozole"
+  }
+}

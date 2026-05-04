@@ -4860,6 +4860,20 @@
     "shard": "g"
   },
   {
+    "slug": "gritty-mexican-corn-pozole",
+    "title": "Gritty Mexican Corn Pozole",
+    "tags": [
+      "comfort-food",
+      "easy",
+      "one-pot",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 70,
+    "shard": "g"
+  },
+  {
     "slug": "gritty-mexican-pepper-pudding",
     "title": "Gritty Mexican Pepper Pudding",
     "tags": [
