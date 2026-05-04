@@ -1,0 +1,108 @@
+{
+  "title": "Golden Crispy Mediterranean White Bread Croquettes",
+  "description": "A cultured and creamy Mediterranean dish featuring white bread, deep-fried to a golden crisp, perfect for a low-carb friendly snack or appetizer. This adventurous recipe combines the flavors of the Mediterranean with the comfort of crispy fried bread.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "low-carb",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "white bread",
+      "amount": "4 slices",
+      "notes": "stale bread works best"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1/4 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "sun dried tomatoes",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "bread crumbs",
+      "amount": "1 cup",
+      "notes": "plain"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "In a large bowl, tear the white bread into small pieces and soak in a mixture of olive oil, minced garlic, and chopped sun dried tomatoes.",
+    "In a separate bowl, mix together the crumbled feta cheese, pitted kalamata olives, and canned artichoke hearts.",
+    "Add the cheese mixture to the bread mixture and stir until well combined.",
+    "Divide the mixture into 8 equal parts and shape each part into a ball.",
+    "Dip each ball into the beaten eggs and then roll in the bread crumbs to coat.",
+    "Carefully place the coated balls into the hot oil and fry until golden brown, about 3-4 minutes.",
+    "Remove the croquettes from the oil with a slotted spoon and place on a paper towel lined plate to drain excess oil.",
+    "Serve the croquettes hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "appetizer",
+    "deep-fried",
+    "low-carb",
+    "mediterranean",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 14,
+    "carbs": 24,
+    "fat": 18
+  },
+  "slug": "golden-crispy-mediterranean-white-bread-croquettes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-crispy-mediterranean-white-bread-croquettes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:33:26Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "creamy",
+    "mood": "adventurous",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "white bread",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "white bread",
+    "descriptor": "Golden Crispy",
+    "dishForm": "Croquettes"
+  }
+}
