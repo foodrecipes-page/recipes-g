@@ -1,0 +1,103 @@
+{
+  "title": "Glorious Briny Moroccan Meat Khlea",
+  "description": "A traditional Moroccan dish featuring piccalilli and slow-cooked meat in a clay pot, perfect for special occasions. This kosher-friendly recipe is a crowd-pleaser.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "piccalilli",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Heat the olive oil in the clay pot over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the lamb pieces and cook until they are browned on all sides.",
+    "Add the piccalilli, ground cumin, paprika, salt, and black pepper, and stir to combine.",
+    "Add the chicken broth and bring the mixture to a boil.",
+    "Cover the clay pot and transfer it to the preheated oven.",
+    "Bake for 2 1/2 hours, or until the meat is tender and the sauce has thickened.",
+    "Remove the pot from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "clay-pot-cooking",
+    "kosher-friendly",
+    "lamb-recipes",
+    "moroccan-cuisine",
+    "slow-cooked",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "glorious-briny-moroccan-meat-khlea",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/glorious-briny-moroccan-meat-khlea",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:08:18Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "molten",
+    "mood": "crowd-pleaser",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "piccalilli",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "meat",
+    "descriptor": "Glorious Briny",
+    "dishForm": "Khlea"
+  }
+}
