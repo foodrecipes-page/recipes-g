@@ -2997,6 +2997,21 @@
     "shard": "g"
   },
   {
+    "slug": "glowing-croatian-applesauce-stew",
+    "title": "Glowing Croatian Applesauce Stew",
+    "tags": [
+      "comfort-food",
+      "croatian",
+      "healthy",
+      "one-pot",
+      "smoky",
+      "vegetarian"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 45,
+    "shard": "g"
+  },
+  {
     "slug": "glowing-norwegian-salmon-ceviche",
     "title": "Glowing Norwegian Salmon Ceviche",
     "tags": [

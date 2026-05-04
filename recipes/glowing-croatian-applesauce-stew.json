@@ -1,0 +1,108 @@
+{
+  "title": "Glowing Croatian Applesauce Stew",
+  "description": "A vegetarian friendly Croatian dish featuring applesauce, with a citrusy and smoky flavor, perfect for midnight cravings. This stew has a unique glassy-jelly texture.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "applesauce",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large hot pot vessel over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the smoked paprika, salt, and black pepper, and stir to combine.",
+    "Add the chopped carrots and potatoes, and cook for 5 minutes.",
+    "Add the vegetable broth, applesauce, and lemon juice, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Use an immersion blender to puree the stew to a glassy-jelly texture, or allow it to cool and puree it in a blender.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "croatian",
+    "healthy",
+    "one-pot",
+    "smoky",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "glowing-croatian-applesauce-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/glowing-croatian-applesauce-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:50:55Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "glassy-jelly",
+    "mood": "midnight-craving",
+    "technique": "smoke-hot",
+    "primaryIngredient": "applesauce",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "applesauce",
+    "descriptor": "Glowing Glassy",
+    "dishForm": "Stew"
+  }
+}
