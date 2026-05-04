@@ -1,0 +1,103 @@
+{
+  "title": "Golden Brown Moroccan Onion Tagine",
+  "description": "A briny and aerated Moroccan dish featuring onions and shio-cure, perfect for a hangover cure, and ayurvedic-rajasic-friendly. This tagine is a flavorful and aromatic stew.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "onions",
+      "amount": "4 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "shio-cure",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large clay or ceramic tagine or Dutch oven over medium heat.",
+    "Add the sliced onions and cook, stirring occasionally, until they are golden brown and caramelized.",
+    "Add the minced garlic and grated ginger and cook, stirring constantly, for 1 minute.",
+    "Stir in the shio-cure, cumin, coriander, turmeric, salt, and black pepper.",
+    "Add 2 cups of water to the tagine and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Serve the tagine hot, garnished with fresh parsley or cilantro.",
+    "Refrigerate or freeze any leftovers for up to 3 days.",
+    "Reheat the tagine over low heat, stirring occasionally, until warmed through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "hangover-cure",
+    "lunch-ideas",
+    "moroccan-food",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "golden-brown-moroccan-onion-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-brown-moroccan-onion-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:27:02Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "aerated",
+    "mood": "hangover-cure",
+    "technique": "shio-cure",
+    "primaryIngredient": "onions",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "onions",
+    "descriptor": "Golden Brown",
+    "dishForm": "Tagine"
+  }
+}
