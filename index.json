@@ -2619,6 +2619,21 @@
     "shard": "g"
   },
   {
+    "slug": "gingered-thai-tofu-curry",
+    "title": "Gingered Thai Tofu Curry",
+    "tags": [
+      "easy",
+      "one-pot",
+      "quick",
+      "thai-curry",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
     "slug": "glamorous-egyptian-tofu-tagine",
     "title": "Glamorous Egyptian Tofu Tagine",
     "tags": [

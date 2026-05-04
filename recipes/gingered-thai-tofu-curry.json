@@ -1,0 +1,111 @@
+{
+  "title": "Gingered Thai Tofu Curry",
+  "description": "A bright and tangy Thai curry made with tofu, ginger, and madras paste, perfect for a quick weeknight dinner.",
+  "cuisine": "thai",
+  "diet": [
+    "vegan",
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "200g",
+      "notes": "pressed 15 minutes then cubed"
+    },
+    {
+      "name": "light coconut milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "low-sodium vegetable stock",
+      "amount": "150ml"
+    },
+    {
+      "name": "madras paste",
+      "amount": "1 tbsp",
+      "notes": "onionless and garlic-free"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 inch grated"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 cup sliced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1/2 cup sliced"
+    },
+    {
+      "name": "green beans",
+      "amount": "1 cup sliced"
+    }
+  ],
+  "instructions": [
+    "Press tofu for 15 minutes, then cube into bite‑sized pieces.",
+    "Heat 1 tbsp oil over medium heat and sauté tofu until golden on all sides.",
+    "Add madras paste, grated ginger, and stir for 30 seconds until fragrant.",
+    "Pour in coconut milk and vegetable stock, bringing the mixture to a gentle simmer.",
+    "Stir in tamarind paste, lime juice, coconut sugar, and soy sauce, tasting and adjusting seasonings.",
+    "Add bell pepper, carrot, and green beans, covering the vegetables and letting them steam in the curry for 8 minutes.",
+    "Turn off the heat and allow the curry to rest for 3 minutes so flavors meld.",
+    "Serve hot over steamed jasmine rice and garnish with chopped cilantro and sliced green onions.",
+    "If desired, add a splash of coconut milk for a creamier texture.",
+    "Clean up the pan and enjoy a flavorful, jain‑friendly meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "one-pot",
+    "quick",
+    "thai-curry",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "gingered-thai-tofu-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/gingered-thai-tofu-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:46:27Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "light",
+    "mood": "weeknight",
+    "technique": "rest-meat",
+    "primaryIngredient": "madras paste",
+    "diet": "jain",
+    "region": "central-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "tofu",
+    "descriptor": "Gingered",
+    "dishForm": "Curry"
+  }
+}
