@@ -1,0 +1,111 @@
+{
+  "title": "Gritty Mexican Pickle Quesadilla",
+  "description": "A salty, crunchy quesadilla that fuses Veracruz flavors with Branston pickle and beurre-monte, perfect for a quick one-pot meal.",
+  "cuisine": "Mexican",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "corn tortilla",
+      "amount": "2 medium"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1 cup",
+      "notes": "113g"
+    },
+    {
+      "name": "shredded monterey jack",
+      "amount": "1 cup",
+      "notes": "113g"
+    },
+    {
+      "name": "grated parmesan",
+      "amount": "1/4 cup",
+      "notes": "28g"
+    },
+    {
+      "name": "Branston pickle",
+      "amount": "2 tbsp",
+      "notes": "diced, 28g"
+    },
+    {
+      "name": "diced red onion",
+      "amount": "1/4 cup",
+      "notes": "40g"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "8g"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 lime, juiced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a nonstick skillet over medium heat.",
+    "Sprinkle the corn tortilla with salt and pepper, then place in pan until lightly browned, about 1 minute per side; remove and set aside.",
+    "In the same pan, add diced onion and sauté until translucent, about 3 minutes.",
+    "Stir in the diced Branston pickle, smoked paprika, and cumin and cook for 2 minutes to bloom the spices.",
+    "Remove pan from heat and mix in shredded cheddar, monterey jack, parmesan, cilantro, and lime juice until combined.",
+    "Place a tortilla back in the pan, spoon half of the cheese mixture on one half, fold the tortilla over, and press gently.",
+    "Cook the folded quesadilla for 2-3 minutes per side until the cheese melts and the tortilla is golden and crisp.",
+    "Repeat with remaining tortilla and filling; serve hot with a drizzle of beurre‑monte and extra cilantro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "beurre-monte",
+    "crunchy",
+    "mexican",
+    "one-pan",
+    "pickled",
+    "quesadilla",
+    "salty"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 28,
+    "carbs": 45,
+    "fat": 35
+  },
+  "slug": "gritty-mexican-pickle-quesadilla",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/gritty-mexican-pickle-quesadilla",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:10:14Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crunchy",
+    "mood": "one-pot",
+    "technique": "beurre-monte",
+    "primaryIngredient": "branston-pickle",
+    "diet": "dash",
+    "region": "veracruzan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Pickle",
+    "descriptor": "Gritty",
+    "dishForm": "Quesadilla"
+  }
+}

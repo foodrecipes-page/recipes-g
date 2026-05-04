@@ -5364,6 +5364,22 @@
     "shard": "g"
   },
   {
+    "slug": "gritty-mexican-pickle-quesadilla",
+    "title": "Gritty Mexican Pickle Quesadilla",
+    "tags": [
+      "beurre-monte",
+      "crunchy",
+      "mexican",
+      "one-pan",
+      "pickled",
+      "quesadilla",
+      "salty"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
     "slug": "gritty-silky-french-avocado-gratin",
     "title": "Gritty Silky French Avocado Gratin",
     "tags": [
