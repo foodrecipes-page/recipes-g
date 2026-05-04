@@ -1,0 +1,112 @@
+{
+  "title": "Garlicky Roasted Croatian Fish Pilaf",
+  "description": "A hearty, garlicky pilaf from Croatia, featuring crispy fish and a comforting, shojin-friendly meal.",
+  "cuisine": "croatian",
+  "diet": [
+    "shojin",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "white fish fillets (pike, cod, or haddock)",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "6",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "white rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "1",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Rinse fish fillets and pat dry with paper towels.",
+    "In a small bowl, mix minced garlic and lemon juice.",
+    "In a large bowl, combine rice, chicken broth, salt, and black pepper. Bring to a boil, then reduce heat to low, cover, and simmer.",
+    "Thread fish, garlic-lemon mixture, and parsley onto bamboo skewers.",
+    "Brush olive oil onto the bottom of a baking dish or bamboo tray.",
+    "Arrange skewers onto the prepared baking dish and roast for 25 minutes.",
+    "Stir cooked rice mixture and top with roasted fish and garlic-lemon mixture.",
+    "Return to oven and roast for an additional 10 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "croatian-cuisine",
+    "easy-to-make",
+    "fish-pilaf",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "garlicky-roasted-croatian-fish-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-roasted-croatian-fish-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T01:04:54Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crisp",
+    "mood": "hangover-cure",
+    "technique": "papillote",
+    "primaryIngredient": "fish",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "fish",
+    "descriptor": "Garlicky Roasted",
+    "dishForm": "Pilaf"
+  }
+}
