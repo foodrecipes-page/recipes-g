@@ -1,0 +1,103 @@
+{
+  "title": "Glowing Golden Canadian Fish Skewers",
+  "description": "These malty and chewy skewers are perfect for a paleo-friendly brunch. Featuring fish stock and a robata-grill, they're a unique twist on traditional Canadian cuisine.",
+  "cuisine": "Canadian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Cod Fillets",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "Fish Stock",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Malt Syrup",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the cod fillets into 1-inch chunks and place them in a large bowl.",
+    "In a small saucepan, combine the fish stock, malt syrup, and sesame seeds.",
+    "Bring the mixture to a simmer and cook for 5 minutes, or until slightly thickened.",
+    "Add the coconut oil to the bowl with the cod and toss to coat.",
+    "Thread the cod onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a robata-grill or grill pan and cook for 8-10 minutes, or until cooked through.",
+    "Brush the skewers with the fish stock mixture during the last 2 minutes of cooking.",
+    "Garnish with cilantro and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "canadian-cuisine",
+    "fish-skewers",
+    "one-pan",
+    "paleo-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 22
+  },
+  "slug": "glowing-golden-canadian-fish-skewers",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/glowing-golden-canadian-fish-skewers",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T13:03:21Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "chewy",
+    "mood": "brunch-mood",
+    "technique": "robata-grill",
+    "primaryIngredient": "fish stock",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Fish",
+    "descriptor": "Glowing Golden",
+    "dishForm": "Skewers"
+  }
+}
