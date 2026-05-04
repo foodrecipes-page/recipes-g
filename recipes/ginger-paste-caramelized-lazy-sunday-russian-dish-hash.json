@@ -1,0 +1,106 @@
+{
+  "title": "Ginger Paste Caramelized Lazy-Sunday Russian Hash",
+  "description": "Tangy, shaggy, lazy-sunday Russian dish featuring ginger paste, caramelize, jain-friendly. Best served on a hot stone plate.",
+  "cuisine": "Russian",
+  "diet": [
+    "jain",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Ginger paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sweet potato",
+      "amount": "4 medium",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until caramelized, about 20 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the chopped carrots, celery, and sweet potatoes, and cook until the vegetables are tender, about 15 minutes.",
+    "Add the ginger paste and stir to combine.",
+    "Season with salt and paprika to taste.",
+    "Serve the hash hot on a hot stone plate, garnished with chopped fresh herbs if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "comfort-food",
+    "easy-to-make",
+    "hot-stone-plate",
+    "jain-friendly",
+    "lazy-sunday",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "ginger-paste-caramelized-lazy-sunday-russian-dish-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/ginger-paste-caramelized-lazy-sunday-russian-dish-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:50:23Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "shaggy",
+    "mood": "lazy-sunday",
+    "technique": "caramelize",
+    "primaryIngredient": "ginger paste",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "russian",
+    "mainIngredient": "dish",
+    "descriptor": "ginger paste caramelized lazy-sunday",
+    "dishForm": "hash"
+  }
+}
