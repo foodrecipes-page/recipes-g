@@ -1,0 +1,112 @@
+{
+  "title": "Garlicky Dry Uruguayan Strawberries Quesadilla",
+  "description": "A twist on traditional quesadillas, this Uruguayan-inspired dish features dried strawberries, fresh garlic, and a hint of Mediterranean spices.",
+  "cuisine": "Uruguayan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup dried strawberries",
+      "amount": "1 cup",
+      "notes": "Brined and dried from fresh strawberries"
+    },
+    {
+      "name": "4 cloves garlic",
+      "amount": "4 cloves",
+      "notes": "Mince the garlic for best flavor"
+    },
+    {
+      "name": "1 cup shredded cheese (Monterey Jack)",
+      "amount": "1 cup",
+      "notes": "A mild cheese perfect for quesadillas"
+    },
+    {
+      "name": "1/4 cup chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Add a fresh and herbaceous flavor"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Use a high-quality olive oil for best flavor"
+    },
+    {
+      "name": "1 teaspoon paprika",
+      "amount": "1 teaspoon",
+      "notes": "A smoky and savory spice"
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Season with salt to bring out the flavors"
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "A pinch of black pepper for added depth"
+    },
+    {
+      "name": "4 large tortillas",
+      "amount": "4 tortillas",
+      "notes": "Warm tortillas for best pliability"
+    },
+    {
+      "name": "1 cup shredded lettuce",
+      "amount": "1 cup",
+      "notes": "A crunchy and refreshing addition"
+    },
+    {
+      "name": "1 cup diced tomatoes",
+      "amount": "1 cup",
+      "notes": "Fresh and flavorful tomatoes"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium heat.",
+    "Add 1 tablespoon of olive oil to the skillet and swirl to coat.",
+    "Place 1 tortilla in the skillet and sprinkle with shredded cheese, dried strawberries, minced garlic, chopped parsley, paprika, salt, and black pepper.",
+    "Fold the tortilla in half to enclose the filling.",
+    "Cook for 2-3 minutes or until the tortilla is crispy and the cheese is melted.",
+    "Flip the quesadilla and cook for an additional 2-3 minutes or until the other side is also crispy and the cheese is melted.",
+    "Repeat with the remaining tortillas and filling ingredients.",
+    "Cut the quesadillas into wedges and serve hot with shredded lettuce, diced tomatoes, and your favorite dipping sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "cheesy",
+    "dried-fruit",
+    "garlic-lovers",
+    "mediterranean",
+    "one-pan",
+    "quesadilla",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "garlicky-dry-uruguayan-strawberries-quesadilla",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-dry-uruguayan-strawberries-quesadilla",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T13:24:36Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "shaggy",
+    "mood": "adventurous",
+    "technique": "brine-dry",
+    "primaryIngredient": "strawberries",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Strawberries",
+    "descriptor": "Garlicky Dry",
+    "dishForm": "Quesadilla"
+  }
+}
