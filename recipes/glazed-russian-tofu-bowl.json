@@ -1,0 +1,93 @@
+{
+  "title": "Glazed Russian Tofu Bowl",
+  "description": "A malty, midnight-craving bowl featuring soy milk and grilled tofu, served in lacquerware for a Buddhist‑temple friendly treat.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "200 g"
+    },
+    {
+      "name": "unsweetened soy milk",
+      "amount": "200 ml"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "grilled zucchini",
+      "amount": "1 medium (120 g)",
+      "notes": "grilled until lightly charred"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "roasted pumpkin seeds",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Press the tofu for 15 minutes to remove excess moisture.",
+    "Cut the tofu into 1 cm cubes and set aside.",
+    "In a small saucepan, combine soy milk, malt syrup and soy sauce and heat to 80°C.",
+    "Whisk the tofu cubes into the sauce and simmer for 5 minutes.",
+    "Add sesame oil and stir until the tofu is glazed.",
+    "Meanwhile, grill sliced zucchini until it has a smoky char and set aside.",
+    "Plate the glazed tofu and top with grilled zucchini, fresh dill and roasted pumpkin seeds.",
+    "Serve immediately in a lacquerware bowl for an authentic presentation."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "buddhist-friendly",
+    "glazed",
+    "laucerware-bowl",
+    "malty",
+    "nighttime",
+    "tofu",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 26,
+    "carbs": 48,
+    "fat": 18
+  },
+  "slug": "glazed-russian-tofu-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/glazed-russian-tofu-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:47:00Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "shattering",
+    "mood": "midnight-craving",
+    "technique": "grill",
+    "primaryIngredient": "soya milk",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "tofu",
+    "descriptor": "Glazed",
+    "dishForm": "Bowl"
+  }
+}
