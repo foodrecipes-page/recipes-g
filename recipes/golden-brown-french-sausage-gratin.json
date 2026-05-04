@@ -1,0 +1,99 @@
+{
+  "title": "Golden Brown French Sausage Gratin",
+  "description": "A cultured and pillowy French dish from Brittany, featuring stout and wood-fired bake, that is FODMAP-friendly.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free",
+    "low-fodmap"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "French sausage",
+      "amount": "1 pound",
+      "notes": "preferably from Brittany"
+    },
+    {
+      "name": "stout beer",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 400 degrees Fahrenheit.",
+    "In a large skillet, cook the French sausage over medium-high heat, browning on all sides, then set aside.",
+    "In the same skillet, add the butter and cook the sliced onions until they are caramelized and golden brown.",
+    "Add the garlic-infused oil, stout beer, salt, and black pepper to the skillet and stir to combine.",
+    "In a large bowl, combine the cooked sausage, onion mixture, and sliced potatoes.",
+    "In a greased 9x13 inch baking dish, create a layer of potatoes, followed by a layer of the sausage and onion mixture, and finally a layer of gruyere cheese.",
+    "Repeat the layering process until all ingredients are used, finishing with a layer of cheese on top.",
+    "Bake the gratin in the preheated wood-fired oven for 30 minutes, or until the top is golden brown and the potatoes are tender.",
+    "Remove the gratin from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "french-cuisine",
+    "low-fodmap",
+    "one-pan",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "golden-brown-french-sausage-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-brown-french-sausage-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:33:01Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "pillowy",
+    "mood": "quick-fix",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "stout",
+    "diet": "fodmap",
+    "region": "brittany",
+    "cuisineAdjective": "French",
+    "mainIngredient": "sausage",
+    "descriptor": "Golden Brown",
+    "dishForm": "Gratin"
+  }
+}
