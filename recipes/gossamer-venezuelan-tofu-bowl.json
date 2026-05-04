@@ -1,0 +1,111 @@
+{
+  "title": "Gossamer Venezuelan Tofu Bowl",
+  "description": "A light, salty bowl of pillowy tofu tossed in a tangy apple cider vinegar and ferment-jang sauce, served over fluffy quinoa.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "400g",
+      "notes": "press to remove excess moisture"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup light"
+    },
+    {
+      "name": "oil",
+      "amount": "3 tbsp",
+      "notes": "mix of vegetable and sesame"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp grated"
+    },
+    {
+      "name": "scallions",
+      "amount": "3 sliced"
+    },
+    {
+      "name": "lime",
+      "amount": "1 juiced"
+    },
+    {
+      "name": "peanut butter",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "quinoa",
+      "amount": "1 cup cooked"
+    }
+  ],
+  "instructions": [
+    "Press tofu for 20 minutes to remove excess moisture, then cube it.",
+    "In a bowl, whisk together soy sauce, apple cider vinegar, ferment-jang, coconut milk, and peanut butter until smooth.",
+    "Heat 3 tbsp oil in a skillet over medium heat, add minced garlic and grated ginger, sauté for 1 minute until fragrant.",
+    "Add tofu cubes to the skillet, cook until golden brown on all sides, about 5 minutes.",
+    "Pour the sauce mixture over the tofu, stir to coat and let simmer for 3 minutes until sauce thickens slightly.",
+    "Meanwhile, cook 1 cup quinoa according to package instructions, fluff with a fork once ready.",
+    "Plate a bed of quinoa in each bowl, top with the sautéed tofu and sauce.",
+    "Garnish with sliced scallions and a squeeze of lime juice.",
+    "Serve immediately for a salty, pillowy, light Venezuelan tofu bowl."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "light",
+    "quick",
+    "rice",
+    "salty",
+    "tofu",
+    "vegan",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 13,
+    "carbs": 15,
+    "fat": 20
+  },
+  "slug": "gossamer-venezuelan-tofu-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/gossamer-venezuelan-tofu-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:09:30Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "pillowy",
+    "mood": "light",
+    "technique": "ferment-jang",
+    "primaryIngredient": "apple cider vinegar",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "tofu",
+    "descriptor": "Gossamer",
+    "dishForm": "Bowl"
+  }
+}

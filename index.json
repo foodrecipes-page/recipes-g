@@ -4437,6 +4437,22 @@
     "shard": "g"
   },
   {
+    "slug": "gossamer-venezuelan-tofu-bowl",
+    "title": "Gossamer Venezuelan Tofu Bowl",
+    "tags": [
+      "light",
+      "quick",
+      "rice",
+      "salty",
+      "tofu",
+      "vegan",
+      "venezuelan"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 40,
+    "shard": "g"
+  },
+  {
     "slug": "gouda-crispy-ukrainian-cheese-pierogi",
     "title": "Gouda Crispy Ukrainian Cheese Pierogi",
     "tags": [
