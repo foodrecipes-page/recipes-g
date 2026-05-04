@@ -1,0 +1,104 @@
+{
+  "title": "Grilled Saudi Lamb Kebabs",
+  "description": "Charred, juicy lamb shoulder kebabs with Middle Eastern spices, perfect for a midnight craving.",
+  "cuisine": "Saudi Arabian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, trimmed, cut into 1.5 inch cubes",
+      "amount": "500g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "Garlic clove, minced",
+      "amount": "1"
+    },
+    {
+      "name": "Fresh cilantro, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Wooden skewers, soaked 30 min",
+      "amount": "12",
+      "notes": "pre-soaked"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to high heat, about 250°C.",
+    "Soak wooden skewers in water for 30 minutes to prevent burning.",
+    "In a bowl, combine lamb cubes, olive oil, cumin, coriander, paprika, salt, pepper, minced garlic, cilantro, and lemon juice; toss until all pieces are coated.",
+    "Let the marinated lamb rest for 45 minutes at room temperature to absorb flavors.",
+    "Thread lamb cubes onto soaked skewers, spacing them evenly.",
+    "Place skewers on the preheated grill and cook for 3 minutes per side, turning occasionally, until exterior is charred and interior is pink.",
+    "Remove skewers from grill and let them rest for 5 minutes before serving.",
+    "Sprinkle additional chopped cilantro over the kebabs just before serving.",
+    "Serve with warm flatbread and a side of plain yogurt dip seasoned with cumin and salt.",
+    "Enjoy the juicy, charred lamb kebabs as a midnight craving indulgence."
+  ],
+  "prepTimeMin": 55,
+  "cookTimeMin": 6,
+  "totalTimeMin": 66,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "charred",
+    "dinner",
+    "fast-assembly",
+    "grilled",
+    "lamb",
+    "midnight-craving",
+    "saudi-arabian"
+  ],
+  "nutrition": {
+    "calories": 373,
+    "protein": 25,
+    "carbs": 1,
+    "fat": 34
+  },
+  "slug": "grilled-saudi-lamb-kebabs",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/grilled-saudi-lamb-kebabs",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:02:49Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "bouncy-qq",
+    "mood": "midnight-craving",
+    "technique": "saute",
+    "primaryIngredient": "lamb shoulder",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Saudi",
+    "mainIngredient": "lamb",
+    "descriptor": "Grilled",
+    "dishForm": "Kebabs"
+  }
+}
