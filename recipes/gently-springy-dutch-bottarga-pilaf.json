@@ -1,0 +1,99 @@
+{
+  "title": "Gently Springy Dutch Bottarga Pilaf",
+  "description": "A romantic Dutch dish featuring bottarga, beurre-monte, and springy ingredients, prepared in a comal and suitable for an ayurvedic-sattvic diet.",
+  "cuisine": "Dutch",
+  "diet": [
+    "ayurvedic",
+    "sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bottarga",
+      "amount": "120g",
+      "notes": "dried and grated"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "60g"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "200g",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "spring onions",
+      "amount": "100g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "30ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "20ml"
+    },
+    {
+      "name": "salt",
+      "amount": "5g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "2g"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "20g",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the comal over medium heat and add the olive oil.",
+    "Add the thinly sliced spring onions and cook until they are softened and lightly browned.",
+    "Add the basmati rice to the comal and cook for 2 minutes, stirring constantly.",
+    "Add the grated bottarga, beurre-monte, lemon juice, salt, and black pepper to the comal and stir well.",
+    "Reduce the heat to low and cover the comal with a lid.",
+    "Simmer the pilaf for 15 minutes or until the rice is cooked and the liquid has been absorbed.",
+    "Remove the lid and stir in the chopped fresh parsley.",
+    "Serve the Gently Springy Dutch Bottarga Pilaf hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "dutch-cuisine",
+    "one-pan",
+    "romantic-dinner",
+    "sattvic-diet",
+    "spring-ingredients"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "gently-springy-dutch-bottarga-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gently-springy-dutch-bottarga-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:02:02Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "springy",
+    "mood": "romantic",
+    "technique": "beurre-monte",
+    "primaryIngredient": "bottarga",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "bottarga",
+    "descriptor": "Gently Springy",
+    "dishForm": "Pilaf"
+  }
+}
