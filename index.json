@@ -4580,6 +4580,22 @@
     "shard": "g"
   },
   {
+    "slug": "griddle-cooked-polish-macaroni-pasta",
+    "title": "Griddle Cooked Polish Macaroni Pasta",
+    "tags": [
+      "griddle-cook",
+      "one-pan",
+      "pasta",
+      "polish",
+      "sattvic",
+      "weeknight",
+      "wine-infused"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "grill-tzimmes",
     "title": "Grilled Tzimmes with Tahini Paste",
     "tags": [

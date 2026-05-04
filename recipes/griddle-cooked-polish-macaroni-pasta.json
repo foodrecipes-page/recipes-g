@@ -1,0 +1,110 @@
+{
+  "title": "Griddle Cooked Polish Macaroni Pasta",
+  "description": "A wine-infused, chewy noodles sautéed on a griddle with fresh vegetables and herbs, finished with a drizzle of good olive oil for a sattvic-friendly, weeknight Polish comfort dish.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "macaroni, short",
+      "amount": "200g"
+    },
+    {
+      "name": "dry red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion, thinly sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "bell pepper, sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "carrots, diced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mushrooms, sliced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the tava-griddle over medium heat and lightly oil the surface.",
+    "Add the sliced onion to the hot griddle and sauté until translucent, about 3 minutes.",
+    "Stir in the garlic, bell pepper, carrots, and mushrooms, cooking for another 5 minutes until vegetables soften.",
+    "Push the vegetables to one side of the griddle and pour the wine into the cleared space, letting it simmer and reduce until it thickens slightly.",
+    "Add the macaroni to the griddle, stirring to coat the noodles in the wine reduction and vegetables.",
+    "Sprinkle the dried oregano, salt, and pepper over the pasta, then pour the vegetable broth, letting the mixture simmer gently for 12 minutes.",
+    "Dedicate the last 4 minutes to stir in the chopped parsley, allowing the flavors to meld.",
+    "Once the macaroni is tender but still chewy, drizzle the extra virgin olive oil over the top and give one final gentle toss.",
+    "Remove the griddle from heat, transfer the dish to a serving platter, and garnish with a light sprinkle of parsley.",
+    "Serve hot, accompanied by a glass of chilled white wine if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 3,
+  "difficulty": "medium",
+  "tags": [
+    "griddle-cook",
+    "one-pan",
+    "pasta",
+    "polish",
+    "sattvic",
+    "weeknight",
+    "wine-infused"
+  ],
+  "nutrition": {
+    "calories": 850,
+    "protein": 15,
+    "carbs": 90,
+    "fat": 29
+  },
+  "slug": "griddle-cooked-polish-macaroni-pasta",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/griddle-cooked-polish-macaroni-pasta",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:36:22Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "chewy",
+    "mood": "weeknight",
+    "technique": "steam",
+    "primaryIngredient": "macaroni",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "macaroni",
+    "descriptor": "Griddle Cooked",
+    "dishForm": "Pasta"
+  }
+}
