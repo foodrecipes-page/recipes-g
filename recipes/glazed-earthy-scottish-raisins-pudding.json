@@ -1,0 +1,108 @@
+{
+  "title": "Glazed Earthy Scottish Raisins Pudding",
+  "description": "A comforting, earthy pudding filled with raisins and figs, finished with a light glaze, perfect for a Scottish-inspired dessert.",
+  "cuisine": "Scottish",
+  "diet": [
+    "low-sugar"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "200 g"
+    },
+    {
+      "name": "dried raisins",
+      "amount": "50 g"
+    },
+    {
+      "name": "dried figs, chopped",
+      "amount": "50 g"
+    },
+    {
+      "name": "unsweetened applesauce",
+      "amount": "100 g"
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "150 ml"
+    },
+    {
+      "name": "coconut flour",
+      "amount": "30 g"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground nutmeg",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "0.25 tsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "erythritol",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "unsweetened almond milk for glaze",
+      "amount": "30 ml",
+      "notes": "used in glaze"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C.",
+    "Combine rolled oats, raisins, chopped figs, cinnamon, nutmeg, and sea salt in a large bowl and mix well.",
+    "Stir in unsweetened applesauce, unsweetened almond milk, vanilla extract, and coconut flour until a thick batter forms.",
+    "Pour the batter into a greased 20x20 cm pan.",
+    "Bake for 25 to 30 minutes or until the top is golden and a toothpick comes out clean.",
+    "While the pudding bakes, whisk erythritol, almond milk for glaze, and a pinch of sea salt in a small saucepan over low heat until smooth.",
+    "When the pudding is done, remove it from the oven and pour the glaze evenly over the hot surface.",
+    "Let the pudding cool for 10 minutes before slicing into squares.",
+    "Serve warm or at room temperature for a comforting Scottish treat."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dessert",
+    "high-fiber",
+    "low-sugar",
+    "scottish",
+    "spotted-dick"
+  ],
+  "nutrition": {
+    "calories": 116,
+    "protein": 6,
+    "carbs": 38,
+    "fat": 3
+  },
+  "slug": "glazed-earthy-scottish-raisins-pudding",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/glazed-earthy-scottish-raisins-pudding",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:22:46Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crisp",
+    "mood": "comforting",
+    "technique": "glaze",
+    "primaryIngredient": "raisins",
+    "diet": "sugar-free",
+    "region": "scottish",
+    "cuisineAdjective": "Scottish",
+    "mainIngredient": "Raisins",
+    "descriptor": "Glazed Earthy",
+    "dishForm": "Pudding"
+  }
+}
