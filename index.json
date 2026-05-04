@@ -2851,6 +2851,21 @@
     "shard": "g"
   },
   {
+    "slug": "gleaming-japanese-chicken-nabe",
+    "title": "Gleaming Japanese Chicken Nabe",
+    "tags": [
+      "chicken",
+      "comfort-food",
+      "family-friendly",
+      "gluten-free",
+      "nabe",
+      "one-pan"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 45,
+    "shard": "g"
+  },
+  {
     "slug": "gleaming-light-filipino-comte-adobo",
     "title": "Gleaming Light Filipino Comte Adobo",
     "tags": [
