@@ -3515,6 +3515,21 @@
     "shard": "g"
   },
   {
+    "slug": "gooey-golden-australian-cheese-lasagna",
+    "title": "Gooey Golden Australian Cheese Lasagna",
+    "tags": [
+      "australian",
+      "cheesy",
+      "comfort-food",
+      "hangover-cure",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 75,
+    "shard": "g"
+  },
+  {
     "slug": "gooey-goulash-solo",
     "title": "Gooey Goulash Solo",
     "tags": [
