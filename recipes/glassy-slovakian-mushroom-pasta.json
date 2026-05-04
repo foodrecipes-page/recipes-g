@@ -1,0 +1,106 @@
+{
+  "title": "Glassy Slovakian Mushroom Pasta",
+  "description": "A silky, low‑calorie pasta dish infused with umami mushrooms and a creamy, glassy sauce that captures a taste of Slovakia.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "spaghetti",
+      "amount": "100 g"
+    },
+    {
+      "name": "cremini mushrooms",
+      "amount": "200 g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2"
+    },
+    {
+      "name": "white flour",
+      "amount": "30 g"
+    },
+    {
+      "name": "low‑fat Greek yogurt",
+      "amount": "80 g"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "200 ml"
+    },
+    {
+      "name": "grated parmesan",
+      "amount": "20 g"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "10 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cook the spaghetti in salted boiling water according to package directions until al dente, then drain and set aside.",
+    "Heat the olive oil in a large skillet over medium heat and sauté the diced onion until translucent.",
+    "Add the sliced mushrooms to the skillet and cook until they release their moisture and start browning.",
+    "Stir in the minced garlic and cook for an additional 30 seconds until fragrant.",
+    "Sprinkle the flour over the mushrooms and stir well to coat, cooking for 1 minute to remove the raw taste.",
+    "Gradually pour in the vegetable stock, whisking constantly to avoid lumps and bring the mixture to a gentle simmer.",
+    "Reduce the heat to low, then fold in the Greek yogurt and grated parmesan until the sauce thickens into a glossy, smooth consistency.",
+    "Season the sauce with salt and pepper, tasting and adjusting as needed.",
+    "Toss the cooked spaghetti into the skillet, ensuring each strand is coated with the silky mushroom sauce.",
+    "Garnish with chopped fresh parsley before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "glassy-sauce",
+    "low-calorie",
+    "mushroom",
+    "pasta",
+    "quick",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 405,
+    "protein": 16,
+    "carbs": 51,
+    "fat": 10
+  },
+  "slug": "glassy-slovakian-mushroom-pasta",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/glassy-slovakian-mushroom-pasta",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:59:26Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "glassy-jelly",
+    "mood": "solo-dinner",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "strong white flour",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "mushroom",
+    "descriptor": "Glassy",
+    "dishForm": "Pasta"
+  }
+}

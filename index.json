@@ -2501,6 +2501,21 @@
     "shard": "g"
   },
   {
+    "slug": "glassy-slovakian-mushroom-pasta",
+    "title": "Glassy Slovakian Mushroom Pasta",
+    "tags": [
+      "glassy-sauce",
+      "low-calorie",
+      "mushroom",
+      "pasta",
+      "quick",
+      "slovakian"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "glazed-algerian-eggplant-fritters",
     "title": "Glazed Algerian Eggplant Fritters",
     "tags": [
