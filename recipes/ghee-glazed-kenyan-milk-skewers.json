@@ -1,0 +1,95 @@
+{
+  "title": "Ghee-Glazed Kenyan Milk Skewers",
+  "description": "A Kenyan dish featuring fermented milk, ghee glaze, and a char-grilled flavor profile. This recipe is perfect for a weekend brunch.",
+  "cuisine": "Kenyan",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Whole milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fermented milk powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Fresh cilantro leaves",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Cedar plank",
+      "amount": "1"
+    },
+    {
+      "name": "Wood chips (for smoking)",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Soak the cedar plank in water for at least 30 minutes.",
+    "In a blender, combine the whole milk, ghee, fermented milk powder, sesame oil, smoked paprika, salt, and black pepper. Blend until smooth.",
+    "Thread the milk mixture onto the soaked cedar plank, leaving a 1-inch gap between each thread.",
+    "Preheat a grill to medium-high heat. Place the cedar plank on the grill and cook for 2-3 minutes on each side.",
+    "While the milk skewers are cooking, smoke the grill with wood chips for 5 minutes.",
+    "Once the milk skewers are cooked, brush them with the ghee glaze (made by melting the ghee in a saucepan over low heat).",
+    "Garnish with fresh cilantro leaves and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "char-grilled",
+    "high-protein",
+    "kenyan-cuisine",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "ghee-glazed-kenyan-milk-skewers",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/ghee-glazed-kenyan-milk-skewers",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T19:42:22Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "molten",
+    "mood": "brunch-mood",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "whole milk",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "milk",
+    "descriptor": "Ghee-Glazed Smoky",
+    "dishForm": null
+  }
+}
