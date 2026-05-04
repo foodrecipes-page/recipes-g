@@ -1,0 +1,100 @@
+{
+  "title": "Gooey Indulgent Ethiopian Gorgonzola Dabo",
+  "description": "Rich and molten Ethiopian dish featuring gorgonzola-dolce, cooked in a clay pot, this satvik-friendly recipe is a twist on traditional dabo.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "gorgonzola-dolce",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "clay pot",
+      "amount": "1",
+      "notes": "preheated"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 tablespoon",
+      "notes": "Ethiopian spice mix"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "teff flour",
+      "amount": "1 cup",
+      "notes": "for dusting"
+    }
+  ],
+  "instructions": [
+    "Preheat the clay pot in the oven at 375 degrees Fahrenheit.",
+    "In a pan, heat the oil and saute the onion, garlic, and ginger until softened.",
+    "Add the berbere spice and cook for 1 minute, stirring constantly.",
+    "In a bowl, mix the gorgonzola-dolce with the cooked spice mixture.",
+    "Dust the preheated clay pot with teff flour and add the gorgonzola mixture.",
+    "Cover the clay pot and bake for 20 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and let it cool for 5 minutes before serving.",
+    "Serve the gooey dabo hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "baked",
+    "cheesy",
+    "clay-pot",
+    "ethiopian",
+    "indulgent",
+    "satvik",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 28
+  },
+  "slug": "gooey-indulgent-ethiopian-gorgonzola-dabo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-indulgent-ethiopian-gorgonzola-dabo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:45:09Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "molten",
+    "mood": "indulgent",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "gorgonzola-dolce",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "gorgonzola",
+    "descriptor": "Gooey Indulgent",
+    "dishForm": "Dabo"
+  }
+}
