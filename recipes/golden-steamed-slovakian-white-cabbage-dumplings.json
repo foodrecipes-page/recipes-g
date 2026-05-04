@@ -1,0 +1,98 @@
+{
+  "title": "Golden Steamed Slovakian White Cabbage Dumplings",
+  "description": "A traditional Slovakian dish featuring steamed dumplings filled with white cabbage and pork, perfect for a midnight craving. The smoky flavor comes from the addition of caraway seeds and smoked paprika.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "preferably with some fat for juiciness"
+    },
+    {
+      "name": "white cabbage",
+      "amount": "1 medium head",
+      "notes": "shredded"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the ground pork, shredded cabbage, caraway seeds, smoked paprika, salt, and black pepper, and mix well with your hands until just combined.",
+    "In a separate bowl, whisk together the flour, eggs, and milk to form a dough.",
+    "Gradually add the dough to the pork mixture, mixing until a sticky dough forms.",
+    "Knead the dough on a floured surface for about 5 minutes, until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces and shape each into a ball.",
+    "Flatten each ball into a disk shape and place a tablespoon of the pork and cabbage mixture in the center of each disk.",
+    "Fold the dough over the filling to form a half-moon shape and press the edges together to seal the dumpling.",
+    "Place the dumplings in a steamer basket, leaving some space between each dumpling to allow for even cooking.",
+    "Steam the dumplings over boiling water for 15 minutes, or until they are cooked through and fluffy.",
+    "Serve the dumplings hot, garnished with chopped fresh parsley or dill if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "european",
+    "homemade",
+    "meat-based",
+    "steamed",
+    "traditional"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "golden-steamed-slovakian-white-cabbage-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-steamed-slovakian-white-cabbage-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:08:24Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "juicy",
+    "mood": "midnight-craving",
+    "technique": "steam",
+    "primaryIngredient": "white cabbage",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "white cabbage",
+    "descriptor": "Golden Steamed",
+    "dishForm": "Dumplings"
+  }
+}
