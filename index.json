@@ -1514,6 +1514,20 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-gooey-mediterranean-pasta-lasagna",
+    "title": "Garlicky, Gooey Mediterranean Pasta Lasagna",
+    "tags": [
+      "italian",
+      "lasagna",
+      "mediterranean",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 55,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-gooey-middle-eastern-lamb-tagine",
     "title": "Garlicky Gooey Middle-eastern Lamb Tagine",
     "tags": [
