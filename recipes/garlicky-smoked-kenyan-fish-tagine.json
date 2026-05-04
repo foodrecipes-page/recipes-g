@@ -1,0 +1,103 @@
+{
+  "title": "Garlicky Smoked Kenyan Fish Tagine",
+  "description": "A hearty, garlicky stew from Kenya that's perfect for a cold morning or afternoon. Made with smoked fish, amazake, and binchotan-charcoal.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked fish (e.g. tilapia or mackerel)",
+      "amount": "1 pound",
+      "notes": "Canned smoked fish works too"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "Mince the garlic before adding"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chop the onion into small pieces"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Grate the ginger before adding"
+    },
+    {
+      "name": "Amazake",
+      "amount": "1 cup",
+      "notes": "You can use plain yogurt or milk as a substitute"
+    },
+    {
+      "name": "Binchotan charcoal",
+      "amount": "1 small piece",
+      "notes": "You can find binchotan charcoal at most Japanese markets"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground cumin is fine too"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": "Ground coriander is fine too"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "Smoked paprika is optional but delicious"
+    }
+  ],
+  "instructions": [
+    "Heat the binchotan charcoal in a small grill or grill pan until it starts to smoke.",
+    "Add the minced garlic to the grill and let it cook for 1 minute, until fragrant.",
+    "Add the chopped onion to the grill and let it cook for 2-3 minutes, until softened.",
+    "Add the grated ginger to the grill and let it cook for 1 minute, until fragrant.",
+    "Add the smoked fish to the grill and break it up into small pieces.",
+    "Add the cumin, coriander, and paprika to the grill and stir to combine.",
+    "Pour in the amazake and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the stew cook for 10-15 minutes, until the fish is cooked through.",
+    "Serve the stew hot, garnished with chopped cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "kenyan",
+    "one-pan",
+    "pescatarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "garlicky-smoked-kenyan-fish-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-smoked-kenyan-fish-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T18:44:31Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crumbly",
+    "mood": "hangover-cure",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "amazake",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "fish",
+    "descriptor": "Garlicky Smoked",
+    "dishForm": "Tagine"
+  }
+}
