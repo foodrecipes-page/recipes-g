@@ -1,0 +1,114 @@
+{
+  "title": "Glazed Silky Venezuelan Aubergine Frittata",
+  "description": "A creamy, savory frittata featuring caramelized baby aubergines glazed with guava jam and soy sauce, finished with a silky egg custard and sprinkled with sesame seeds.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "baby aubergine",
+      "amount": "300g",
+      "notes": "sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "guava jam",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "eggs",
+      "amount": "6 large",
+      "notes": "whisked with salt, pepper, and cilantro"
+    },
+    {
+      "name": "mozzarella",
+      "amount": "100g",
+      "notes": "shredded"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375F.",
+    "Whisk eggs with salt, pepper, and cilantro in a bowl.",
+    "Heat olive oil in a large oven-proof skillet over medium-high heat; add sliced aubergine and sauté until lightly browned, about 5 minutes.",
+    "Stir in sugar, soy sauce, guava jam, and lime juice; cook, stirring, until glaze thickens and the aubergines are glossy, about 3 minutes.",
+    "Remove skillet from heat and sprinkle shredded mozzarella and sesame seeds over the aubergines.",
+    "Pour the egg mixture evenly over the aubergines, ensuring the eggs cover the vegetables.",
+    "Transfer skillet to the preheated oven and bake until the eggs set and the top is golden, about 15-18 minutes.",
+    "Let the frittata rest for 5 minutes, then slice and serve warm.",
+    "Garnish with extra cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "glazed",
+    "one-pan",
+    "ovo-vegetarian",
+    "quick-meal",
+    "silky"
+  ],
+  "nutrition": {
+    "calories": 1400,
+    "protein": 60,
+    "carbs": 60,
+    "fat": 85
+  },
+  "slug": "glazed-silky-venezuelan-aubergine-frittata",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/glazed-silky-venezuelan-aubergine-frittata",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:03:34Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "silky",
+    "mood": "show-off",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "baby aubergine",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "aubergine",
+    "descriptor": "Glazed Silky",
+    "dishForm": "Frittata"
+  }
+}
