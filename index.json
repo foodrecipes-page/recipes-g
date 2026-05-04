@@ -2416,6 +2416,20 @@
     "shard": "g"
   },
   {
+    "slug": "garnished-algerian-sloe-berries-tagine",
+    "title": "Garnished Algerian Sloe-Berries Tagine",
+    "tags": [
+      "algerian",
+      "one-pan",
+      "sloe-berries",
+      "tagine",
+      "vegetarian"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 65,
+    "shard": "g"
+  },
+  {
     "slug": "garnished-american-peppers-toast",
     "title": "Garnished American Peppers Toast",
     "tags": [
@@ -5438,6 +5452,21 @@
     "shard": "g"
   },
   {
+    "slug": "grape-leaf-wrapt-turkish-meat-lahmacun",
+    "title": "Grape-Leaf Wrapt Turkish Meat Lahmacun",
+    "tags": [
+      "fermented",
+      "grape-leaf-wrapped",
+      "hangover-cure",
+      "lahmacun",
+      "turkish",
+      "weeknight"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 45,
+    "shard": "g"
+  },
+  {
     "slug": "grape-tandoori-crunchlet",
     "title": "Grape Tandoori Crunchlet",
     "tags": [
@@ -5530,6 +5559,22 @@
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 45,
+    "shard": "g"
+  },
+  {
+    "slug": "grassy-gooey-tunisian-shiso-leaf-tagine",
+    "title": "grassy gooey tunisian shiso-leaf tagine",
+    "tags": [
+      "breakfast",
+      "comforting",
+      "hangover-cure",
+      "one-pan",
+      "rich",
+      "tunisian",
+      "weeknight"
+    ],
+    "cuisine": "tunisian",
+    "totalTimeMin": 75,
     "shard": "g"
   },
   {

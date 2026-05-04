@@ -1,0 +1,106 @@
+{
+  "title": "Grape-Leaf Wrapt Turkish Meat Lahmacun",
+  "description": "A traditional Turkish dish featuring fermented, glassy-jelly filling wrapped in grape leaves.",
+  "cuisine": "Turkish",
+  "diet": [
+    null,
+    "kosher",
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Grape leaves",
+      "amount": "12",
+      "notes": "fresh or jarred"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat 1 tablespoon of olive oil over medium-high heat.",
+    "Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the onion, garlic, tomato paste, salt, black pepper, and red pepper flakes to the skillet and cook until the onion is translucent."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "fermented",
+    "grape-leaf-wrapped",
+    "hangover-cure",
+    "lahmacun",
+    "turkish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 14,
+    "fat": 28
+  },
+  "slug": "grape-leaf-wrapt-turkish-meat-lahmacun",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/grape-leaf-wrapt-turkish-meat-lahmacun",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:21:40Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "glassy-jelly",
+    "mood": "hangover-cure",
+    "technique": "fry",
+    "primaryIngredient": "grape leaves",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Meat",
+    "descriptor": "Grape-Leaf Wrapt",
+    "dishForm": "Lahmacun"
+  }
+}
