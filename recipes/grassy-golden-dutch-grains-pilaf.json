@@ -1,0 +1,103 @@
+{
+  "title": "Grassy Golden Dutch Grains Pilaf",
+  "description": "A hearty and nutritious post-workout dish featuring mixed grains and a grassy flavor, cooked to perfection in a Dutch oven, suitable for diabetics and those seeking a healthy meal option.",
+  "cuisine": "Dutch",
+  "diet": [
+    "diabetic-friendly",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Brown rice",
+      "amount": "1 cup",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "Quinoa",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Barley",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Spinach",
+      "amount": "2 cups",
+      "notes": "fresh"
+    },
+    {
+      "name": "Grass-fed butter",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the Dutch oven over medium heat, adding the olive oil to coat the bottom.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the brown rice, quinoa, and barley, stirring to combine with the onion and garlic mixture.",
+    "Add 2 cups of water to the Dutch oven, bringing the mixture to a boil.",
+    "Reduce the heat to low, covering the Dutch oven with a lid, and simmer for 20 minutes.",
+    "Stir in the fresh spinach, grass-fed butter, salt, and black pepper.",
+    "Continue to cook, covered, for an additional 5 minutes, until the spinach has wilted and the grains are tender."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "dutch-oven",
+    "healthy",
+    "one-pot",
+    "post-workout",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "grassy-golden-dutch-grains-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/grassy-golden-dutch-grains-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:45:37Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "molten",
+    "mood": "post-workout",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "mixed grain",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "grains",
+    "descriptor": "grassy golden",
+    "dishForm": "Pilaf"
+  }
+}
