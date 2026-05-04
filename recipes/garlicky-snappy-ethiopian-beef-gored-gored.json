@@ -1,0 +1,93 @@
+{
+  "title": "Garlicky Snappy Ethiopian Beef Gored Gored",
+  "description": "A traditional Ethiopian dish featuring ground beef, garlic, and spices, served on a banana leaf",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 or 70/30 lean to fat ratio works well"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground allspice",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4-6 leaves"
+    }
+  ],
+  "instructions": [
+    "Begin by preparing the spice blend, mixing together the ground allspice, cumin, cayenne pepper, salt, and black pepper in a small bowl.",
+    "In a large skillet, heat 2 tablespoons of oil over medium-high heat, then add the minced garlic and cook until fragrant, about 1 minute.",
+    "Add the ground beef to the skillet, breaking it up with a spoon as it cooks, until it is no longer pink, about 5-7 minutes.",
+    "Stir the spice blend into the ground beef and cook for an additional 1-2 minutes, until the flavors are well combined.",
+    "Reduce the heat to low and let the mixture rest, covered, for 10 minutes, to allow the flavors to meld together.",
+    "Meanwhile, prepare the banana leaves by cutting them into large squares and brushing them with a little oil to prevent sticking.",
+    "To serve, place a portion of the beef mixture onto the center of each banana leaf square, then fold the leaves over the filling to form a packet.",
+    "Serve the gored gored hot, garnished with additional garlic and spices if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "banana-leaf",
+    "dairy-free",
+    "ethiopian-cuisine",
+    "gluten-free",
+    "high-protein",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "garlicky-snappy-ethiopian-beef-gored-gored",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-snappy-ethiopian-beef-gored-gored",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:22:22Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "snappy",
+    "mood": "energizing",
+    "technique": "rest",
+    "primaryIngredient": "ground allspice",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "beef",
+    "descriptor": "Garlicky Snappy",
+    "dishForm": "Gored Gored"
+  }
+}
