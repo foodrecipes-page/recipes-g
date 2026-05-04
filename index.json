@@ -4266,6 +4266,21 @@
     "shard": "g"
   },
   {
+    "slug": "gritty-mexican-pepper-pudding",
+    "title": "Gritty Mexican Pepper Pudding",
+    "tags": [
+      "chewy",
+      "dessert",
+      "horchata-style",
+      "quick",
+      "spicy",
+      "vegan"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 30,
+    "shard": "g"
+  },
+  {
     "slug": "gritty-steamed-mediterranean-cornmeal-bowl",
     "title": "gritty steamed mediterranean cornmeal bowl",
     "tags": [
