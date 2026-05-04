@@ -1,0 +1,96 @@
+{
+  "title": "Golden Dense Vietnamese Duck Banh Xeo",
+  "description": "Savory Vietnamese dish featuring duck sauce and deep-fried ingredients, served with fresh herbs and sweet sauce. This energizing meal is perfect for lunch or dinner.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice flour",
+      "amount": "2 cups",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "duck sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 cup",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "pork",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together rice flour and water to make a smooth batter.",
+    "Add duck sauce, coconut milk, and a pinch of salt to the batter and mix well.",
+    "Heat vegetable oil in a deep frying pan over medium-high heat.",
+    "Add shrimp and pork to the pan and cook until browned, about 5 minutes.",
+    "Add bean sprouts to the pan and cook for an additional 2 minutes.",
+    "Pour the batter into the pan and cook until the bottom is golden brown, about 4 minutes.",
+    "Loosen the banh xeo with a spatula and flip it over to cook the other side.",
+    "Cook for an additional 2 minutes, until the other side is also golden brown.",
+    "Remove the banh xeo from the pan and place it on a paper towel-lined plate to drain excess oil.",
+    "Serve the banh xeo hot with fresh herbs and sweet sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-food",
+    "dairy-free",
+    "deep-fried",
+    "gluten-free",
+    "lunch-ideas",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "golden-dense-vietnamese-duck-banh-xeo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-dense-vietnamese-duck-banh-xeo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:43:00Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "dense",
+    "mood": "energizing",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "duck sauce",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "duck",
+    "descriptor": "Golden Dense",
+    "dishForm": "Banh Xeo"
+  }
+}
