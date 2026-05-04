@@ -2601,6 +2601,22 @@
     "shard": "g"
   },
   {
+    "slug": "golden-crisp-dutch-potatoes-frites",
+    "title": "Golden Crisp Dutch Potatoes Frites",
+    "tags": [
+      "comfort-food",
+      "dairy-free",
+      "high-calorie",
+      "katsuramuki-cut-potatoes",
+      "low-fat",
+      "post-workout-recipe",
+      "weeknight"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 55,
+    "shard": "g"
+  },
+  {
     "slug": "golden-crispy-mediterranean-vialone-nano-fritters",
     "title": "Golden Crispy Mediterranean Vialone-Nano Fritters",
     "tags": [
@@ -3947,6 +3963,21 @@
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 24,
+    "shard": "g"
+  },
+  {
+    "slug": "gourmet-vietnamese-tofu-canh-chua",
+    "title": "Gourmet Vietnamese Tofu Canh Chua",
+    "tags": [
+      "fondue-pot",
+      "harissa",
+      "kosher",
+      "midnight-snack",
+      "sour-soup",
+      "tofu"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {

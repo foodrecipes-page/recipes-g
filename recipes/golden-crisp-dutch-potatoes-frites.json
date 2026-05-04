@@ -1,0 +1,92 @@
+{
+  "title": "Golden Crisp Dutch Potatoes Frites",
+  "description": "A post-workout Dutch dish featuring crispy frites made with katsuramuki-cut potatoes and a touch of golden brown.",
+  "cuisine": "Dutch",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "sunflower oil",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "for blanching"
+    }
+  ],
+  "instructions": [
+    "Peel potatoes and cut them into thin strips using a katsuramuki-cut.",
+    "Soak the potato strips in cold water for at least 30 minutes.",
+    "Drain and rinse the potato strips, then dry them thoroughly with paper towels.",
+    "Heat the sunflower oil in a deep frying pan to 180°C.",
+    "Carefully add the potato strips to the hot oil in batches, being mindful of the temperature.",
+    "Fry the potatoes for 3-4 minutes or until golden brown, then remove them from the oil with a slotted spoon.",
+    "Place the fried potatoes on a paper towel-lined plate to drain excess oil.",
+    "Repeat the frying process with the remaining potato strips.",
+    "Once all the potatoes are fried, transfer them to a baking sheet lined with parchment paper.",
+    "Sprinkle the fried potatoes with salt, sugar, black pepper, and paprika.",
+    "Bake the potatoes in a preheated oven at 200°C for 10-15 minutes or until crispy and golden brown.",
+    "Serve the Golden Crisp Dutch Potatoes Frites hot and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 2,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "high-calorie",
+    "katsuramuki-cut-potatoes",
+    "low-fat",
+    "post-workout-recipe",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 3,
+    "carbs": 55,
+    "fat": 23
+  },
+  "slug": "golden-crisp-dutch-potatoes-frites",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-crisp-dutch-potatoes-frites",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T02:15:03Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "shattering",
+    "mood": "post-workout",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "oil",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Potatoes",
+    "descriptor": "Golden Crisp",
+    "dishForm": "Frites"
+  }
+}

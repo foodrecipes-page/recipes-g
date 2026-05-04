@@ -1,0 +1,114 @@
+{
+  "title": "Gourmet Vietnamese Tofu Canh Chua",
+  "description": "A cultured, aerated midnight craving soup featuring harissa spice and a tangy tamarind broth.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "400g",
+      "notes": "cut into 1 inch cubes and pat dry"
+    },
+    {
+      "name": "harissa paste",
+      "amount": "2 tbsp",
+      "notes": "choose a mild or medium heat level"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "3 tbsp",
+      "notes": "adjust for sweetness"
+    },
+    {
+      "name": "soy sauce (kosher)",
+      "amount": "2 tbsp",
+      "notes": "use low sodium if desired"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "low sodium or homemade"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "2 cups",
+      "notes": "fresh or canned, drained"
+    },
+    {
+      "name": "sliced red bell pepper",
+      "amount": "1 cup",
+      "notes": "thin slices"
+    },
+    {
+      "name": "sliced zucchini",
+      "amount": "1 cup",
+      "notes": "thin slices"
+    },
+    {
+      "name": "fresh basil leaves",
+      "amount": "1 cup",
+      "notes": "torn or leaves"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp",
+      "notes": "for sautéing"
+    }
+  ],
+  "instructions": [
+    "Cube the tofu and pat dry with paper towels.",
+    "Heat a fondue pot over medium heat and add the oil, then sauté the bell pepper and zucchini until slightly softened, about 3 minutes.",
+    "Add the diced tomatoes and cook for another 2 minutes, stirring occasionally.",
+    "Pour in the vegetable broth and bring to a gentle boil.",
+    "Stir in the tamarind paste, harissa paste, soy sauce, and lime juice until the broth takes on a bright, tangy color.",
+    "Gently fold in the tofu cubes and simmer for 8 minutes until the tofu is heated through.",
+    "Add the fresh basil leaves and cook for an additional 1 minute to release their aroma.",
+    "Taste the soup and season with salt or pepper if desired, though the soy sauce and tamarind are usually sufficient.",
+    "Ladle the soup into individual fondue pots and serve immediately with crusty bread or rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fondue-pot",
+    "harissa",
+    "kosher",
+    "midnight-snack",
+    "sour-soup",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 138,
+    "protein": 8,
+    "carbs": 15,
+    "fat": 5
+  },
+  "slug": "gourmet-vietnamese-tofu-canh-chua",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/gourmet-vietnamese-tofu-canh-chua",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:15:40Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "aerated",
+    "mood": "midnight-craving",
+    "technique": "cure",
+    "primaryIngredient": "harissa spice",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Tofu",
+    "descriptor": "Gourmet",
+    "dishForm": "Canh Chua"
+  }
+}
