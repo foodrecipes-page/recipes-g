@@ -1,0 +1,100 @@
+{
+  "title": "Garlic-infused, Velvety Russian Leek Borscht",
+  "description": "Umami-rich, velvety, and comforting. A classic Russian dish made with tender leeks, fragrant garlic, and a hint of fermentation.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Leeks",
+      "amount": "2 large",
+      "notes": "white and light green parts only"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3-4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fermented Korean chili paste (gochujang)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Beetroot juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Creme fraiche",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Sunflower oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large copper pot, heat the sunflower oil over medium heat.",
+    "Add the minced garlic and sauté for 1 minute, until fragrant.",
+    "Add the sliced leeks and cook for 5 minutes, until they start to soften.",
+    "Add the fermented Korean chili paste, beetroot juice, vegetable broth, salt, and black pepper.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Use an immersion blender to puree the soup until smooth.",
+    "Stir in the creme fraiche and cook for an additional 2-3 minutes, until heated through.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the borscht hot, garnished with chopped fresh dill or chives if desired.",
+    "Refrigerate or freeze the remaining soup for future meals.",
+    "Reheat the borscht gently before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "eastern-european",
+    "high-protein",
+    "lacto-ovo-vegetarian",
+    "one-pan",
+    "vegan-option",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "garlic-infused-velvety-russian-leek-borscht",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/garlic-infused-velvety-russian-leek-borscht",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T15:27:20Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "velvety",
+    "mood": "meal-prep",
+    "technique": "ferment-jang",
+    "primaryIngredient": "leek",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Leek",
+    "descriptor": "Garlic-infused, Velvety",
+    "dishForm": "Borscht"
+  }
+}
