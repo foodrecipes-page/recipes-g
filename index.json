@@ -2009,6 +2009,20 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-mediterranean-garlic-casserole",
+    "title": "Garlicky Mediterranean Garlic Casserole",
+    "tags": [
+      "dairy-free",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "post-workout"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 40,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-mexican-oyster-ceviche",
     "title": "Garlicky Mexican Oyster Ceviche",
     "tags": [
@@ -2878,6 +2892,19 @@
     ],
     "cuisine": "British (Scottish)",
     "totalTimeMin": 15,
+    "shard": "g"
+  },
+  {
+    "slug": "gingered-jamaican-fettuccine-papillote",
+    "title": "Gingered Jamaican Fettuccine Papillote",
+    "tags": [
+      "easy-jerk",
+      "one-pan",
+      "pescatarian",
+      "weeknight"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {

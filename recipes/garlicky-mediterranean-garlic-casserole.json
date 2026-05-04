@@ -1,0 +1,98 @@
+{
+  "title": "Garlicky Mediterranean Garlic Casserole",
+  "description": "A dense, post-workout Mediterranean dish featuring lime juice and dairy-free-friendly ingredients.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "dairy-free",
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Quinoa",
+      "amount": "2 cups",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "Roasted garlic",
+      "amount": "3 cloves",
+      "notes": "mashed into a paste"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin, cold-pressed"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 cup",
+      "notes": "canned, drained and rinsed"
+    },
+    {
+      "name": "Spinach",
+      "amount": "1 cup",
+      "notes": "fresh, chopped"
+    },
+    {
+      "name": "Diced tomatoes",
+      "amount": "1 cup",
+      "notes": "canned, no salt added"
+    },
+    {
+      "name": "Candy (optional)",
+      "amount": "1/4 cup",
+      "notes": "dark chocolate chips, dairy-free"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large mixing bowl, combine cooked quinoa, mashed roasted garlic, lime juice, and olive oil.",
+    "Add chickpeas, spinach, and diced tomatoes to the bowl, stirring until well combined.",
+    "Transfer the mixture to a baking dish and top with diced candy (if using).",
+    "Bake for 20 minutes, or until the casserole is hot and the candy is melted.",
+    "Let it rest for 5 minutes before serving.",
+    "Cut into 6 equal portions and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "garlicky-mediterranean-garlic-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-mediterranean-garlic-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:33:54Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "dense",
+    "mood": "post-workout",
+    "technique": "candy",
+    "primaryIngredient": "lime juice",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "garlic",
+    "descriptor": "garlicky",
+    "dishForm": "Casserole"
+  }
+}

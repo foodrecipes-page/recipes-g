@@ -1,0 +1,121 @@
+{
+  "title": "Gingered Jamaican Fettuccine Papillote",
+  "description": "Savory, crispy Jamaican dish featuring fettuccine, pescatarian-friendly. Inspired by Caribbean flavors and Italian technique.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "pescatarian",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fettuccine",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Allspice",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 sprig",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Jerk seasoning mix",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cook fettuccine according to package instructions until al dente. Drain and set aside.",
+    "In a large skillet, heat olive oil over medium-high heat. Add garlic, red onion, and ginger paste. Cook for 3-4 minutes, until the onion is translucent.",
+    "Add allspice, cayenne pepper, paprika, salt, and black pepper to the skillet. Cook for 1 minute, stirring constantly.",
+    "Add cooked fettuccine to the skillet, tossing to coat with the spice mixture.",
+    "Transfer the fettuccine mixture to a parchment-lined baking dish and top with a sprinkle of jerk seasoning mix.",
+    "Cover the baking dish with aluminum foil and bake for 10-12 minutes, until the fettuccine is heated through.",
+    "Remove the foil and bake for an additional 2-3 minutes, until the top is lightly browned.",
+    "Garnish with fresh thyme and serve hot.",
+    "Serve immediately, garnished with additional jerk seasoning mix if desired.",
+    "Leftovers can be refrigerated for up to 3 days and reheated in the oven or microwave."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-jerk",
+    "one-pan",
+    "pescatarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "gingered-jamaican-fettuccine-papillote",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/gingered-jamaican-fettuccine-papillote",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:34:26Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crispy",
+    "mood": "solo-dinner",
+    "technique": "papillote",
+    "primaryIngredient": "fettuccine",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "fettuccine",
+    "descriptor": "Gingered",
+    "dishForm": "Papillote"
+  }
+}
