@@ -1,0 +1,105 @@
+{
+  "title": "Gooey Flaky Italian Onion Tiramisu",
+  "description": "A twist on the classic Italian dessert featuring caramelized onions and a flaky soffritto base, perfect for a Sunday brunch in Piedmont. This dish is made in a tagliere and has a winey flavor profile.",
+  "cuisine": "Italian (Piedmontese)",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Soffritto",
+      "amount": "1 cup",
+      "notes": "Finely chopped mixture of onion, carrot, and celery"
+    },
+    {
+      "name": "Caramelized Onions",
+      "amount": "1/2 cup",
+      "notes": "Cooked in olive oil until dark and caramelized"
+    },
+    {
+      "name": "Butter, softened",
+      "amount": "4 tablespoons",
+      "notes": "Salted, European-style"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/2 cup",
+      "notes": "Cups the liquid and helps bind the ingredients"
+    },
+    {
+      "name": "Egg yolks",
+      "amount": "4",
+      "notes": "Used to enrich the cream and bind the ingredients"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": "Whipped until stiff peaks form"
+    },
+    {
+      "name": "Parmesan cheese, grated",
+      "amount": "1 cup",
+      "notes": "Aged, Italian-style"
+    },
+    {
+      "name": "Mascarpone cheese",
+      "amount": "8 ounces",
+      "notes": "Double-cream, Italian cheese"
+    },
+    {
+      "name": "White wine, dry",
+      "amount": "1/4 cup",
+      "notes": "Used to add moisture and flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Fleur de sel or other flaky salt"
+    }
+  ],
+  "instructions": [
+    "Make the soffritto base by saut\u000083ing the finely chopped mixture of onion, carrot, and celery in olive oil until tender. Caramelize the onions in olive oil until dark and fragrant. In a separate bowl, whip the heavy cream until stiff peaks form. In a separate bowl, whisk together the egg yolks and grated Parmesan cheese. Mix the mascarpone cheese and softened butter until smooth. Add the white wine and mix until well combined. Fold the whipped cream into the mascarpone mixture until well combined. Add the Parmesan cheese mixture and mix until smooth. Spoon a layer of soffritto base into the tagliere, followed by a layer of caramelized onions, and then a layer of the mascarpone mixture. Repeat the layers two more times, finishing with a layer of mascarpone mixture on top. Dust with Parmesan cheese and serve.",
+    "Refrigerate for at least 3 hours to allow the flavors to meld.",
+    "Serve chilled, garnished with fresh parsley or thyme if desired."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 20,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "gourmet",
+    "italian",
+    "italian-american",
+    "piedmontese",
+    "sunday",
+    "weekend"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 32
+  },
+  "slug": "gooey-flaky-italian-onion-tiramisu",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-flaky-italian-onion-tiramisu",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:35:23Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "flaky",
+    "mood": "brunch-mood",
+    "technique": "soffritto-base",
+    "primaryIngredient": "onion",
+    "diet": "ayurvedic-rajasic",
+    "region": "piedmontese",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "onion",
+    "descriptor": "Gooey Flaky",
+    "dishForm": "Tiramisu"
+  }
+}

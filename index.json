@@ -231,6 +231,19 @@
     "shard": "g"
   },
   {
+    "slug": "garlic-ginger-mediterranean-beef-paella",
+    "title": "Garlic Ginger Mediterranean Beef Paella",
+    "tags": [
+      "mediterranean",
+      "one-pan",
+      "pescatarian",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 22,
+    "shard": "g"
+  },
+  {
     "slug": "garlic-infused-velvety-russian-leek-borscht",
     "title": "Garlic-infused, Velvety Russian Leek Borscht",
     "tags": [
@@ -2365,6 +2378,20 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-tender-ethiopian-pork-knuckle-tagine",
+    "title": "Garlicky Tender Ethiopian Pork Knuckle Tagine",
+    "tags": [
+      "ethiopian",
+      "high-fat",
+      "keto-friendly",
+      "one-pan",
+      "post-workout"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 190,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-tender-moroccan-serrano-ham-stir-fry",
     "title": "Garlicky Tender Moroccan Serrano Ham Stir-fry",
     "tags": [
@@ -2820,6 +2847,20 @@
     ],
     "cuisine": "Saudia Arabian",
     "totalTimeMin": 80,
+    "shard": "g"
+  },
+  {
+    "slug": "giant-black-cardamom-pods-tunisian-cardamom-tagine",
+    "title": "Giant Black Cardamom Pods Tunisian Cardamom Tagine",
+    "tags": [
+      "gluten-free",
+      "north-african",
+      "one-pan",
+      "stovetop",
+      "vegan"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 45,
     "shard": "g"
   },
   {
@@ -4548,6 +4589,23 @@
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
+    "slug": "gooey-flaky-italian-onion-tiramisu",
+    "title": "Gooey Flaky Italian Onion Tiramisu",
+    "tags": [
+      "breakfast",
+      "brunch",
+      "gourmet",
+      "italian",
+      "italian-american",
+      "piedmontese",
+      "sunday",
+      "weekend"
+    ],
+    "cuisine": "Italian (Piedmontese)",
+    "totalTimeMin": 65,
     "shard": "g"
   },
   {
@@ -6438,6 +6496,19 @@
     ],
     "cuisine": "Kenyan",
     "totalTimeMin": 40,
+    "shard": "g"
+  },
+  {
+    "slug": "gyro-style-greek-meat-gyro",
+    "title": "Gyro-Style Greek Meat Gyro",
+    "tags": [
+      "greek-food",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 35,
     "shard": "g"
   }
 ]

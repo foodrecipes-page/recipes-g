@@ -1,0 +1,114 @@
+{
+  "title": "Giant Black Cardamom Pods Tunisian Cardamom Tagine",
+  "description": "Sweet, bouncy-qq, show-off Tunisian dish featuring giant black cardamom pods with a crispy Binchotan-grill crust. Perfect for vegan-friendly dinner gatherings.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dried giant black cardamom pods",
+      "amount": "6",
+      "notes": "split into individual pods"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Canned crushed tomatoes",
+      "amount": "14",
+      "notes": "ounces"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Tunisian spice blend",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Beurre-monte",
+      "amount": "2 tablespoons",
+      "notes": "see notes for preparation"
+    }
+  ],
+  "instructions": [
+    "Preheat the Binchotan grill to 450F (230C).",
+    "In a large clay pot or Dutch oven, heat the olive oil over medium-high heat.",
+    "Add the chopped onion and cook until lightly browned, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for 1 minute, until fragrant.",
+    "Add the crushed tomatoes, vegetable broth, Tunisian spice blend, and sea salt. Stir to combine.",
+    "Add the split black cardamom pods and bring the mixture to a simmer.",
+    "Transfer the pot to the preheated Binchotan grill and cook for 20-25 minutes, or until the sauce has thickened and the cardamom pods are tender.",
+    "Remove the pot from the grill and stir in the chopped parsley and beurre-monte. ",
+    "Serve the tagine hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "north-african",
+    "one-pan",
+    "stovetop",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 10,
+    "carbs": 80,
+    "fat": 24
+  },
+  "slug": "giant-black-cardamom-pods-tunisian-cardamom-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/giant-black-cardamom-pods-tunisian-cardamom-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:35:36Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "bouncy-qq",
+    "mood": "show-off",
+    "technique": "beurre-monte",
+    "primaryIngredient": "black cardamom pods",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "tunisian",
+    "mainIngredient": "cardamom",
+    "descriptor": "giant black cardamom pods",
+    "dishForm": "tagine"
+  }
+}

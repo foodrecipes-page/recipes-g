@@ -1,0 +1,130 @@
+{
+  "title": "Gyro-Style Greek Meat Gyro",
+  "description": "A classic Greek dish featuring thinly sliced meat, served in a warm pita with crispy vegetables and a side of tangy tzatziki sauce. This meal-prep recipe is perfect for a quick and delicious lunch or dinner.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground lamb",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Red wine vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Greek seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Warm pita bread",
+      "amount": "4-6 pitas",
+      "notes": ""
+    },
+    {
+      "name": "Tzatziki sauce",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Form the ground lamb into a ball and flatten it slightly into a patty.",
+    "Season the lamb with salt, black pepper, and Greek seasoning.",
+    "Grill the lamb for 4-5 minutes per side, or until it reaches a safe internal temperature of 160\u000230F.",
+    "Meanwhile, slice the red onion, bell pepper, and tomato into thin strips.",
+    "Grill the vegetables for 2-3 minutes per side, or until they are tender and lightly charred.",
+    "Warm the pita bread by wrapping it in foil and heating it in the oven for a few minutes.",
+    "Assemble the gyros by slicing the grilled lamb into thin strips and placing it in the pita bread.",
+    "Top the lamb with the grilled vegetables, crispy cucumber, tangy tzatziki sauce, and crumbled feta cheese.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek-food",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 54,
+    "fat": 24
+  },
+  "slug": "gyro-style-greek-meat-gyro",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/gyro-style-greek-meat-gyro",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:35:52Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "bouncy-qq",
+    "mood": "meal-prep",
+    "technique": "ferment",
+    "primaryIngredient": "restaurant",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "meat",
+    "descriptor": "Gyro-Style",
+    "dishForm": "Gyro"
+  }
+}

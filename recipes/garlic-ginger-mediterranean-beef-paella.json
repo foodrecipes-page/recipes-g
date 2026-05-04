@@ -1,0 +1,122 @@
+{
+  "title": "Garlic Ginger Mediterranean Beef Paella",
+  "description": "A peppery, tender Mediterranean dish featuring beef, perfect for a quick weeknight meal.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "pescatarian",
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "paella seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large bamboo steamer over medium-high heat.",
+    "Add the garlic and ginger and cook until fragrant, about 1 minute.",
+    "Add the beef and cook until browned, about 2-3 minutes.",
+    "Add the diced tomatoes, artichoke hearts, paella seasoning, salt, and black pepper. Stir to combine.",
+    "Add the rice and chicken broth to the steamer. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and cover the steamer with a lid.",
+    "Cook for 10-12 minutes, or until the rice is tender and the liquid has been absorbed.",
+    "Stir in the chopped parsley and lemon juice. Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "one-pan",
+    "pescatarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "garlic-ginger-mediterranean-beef-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlic-ginger-mediterranean-beef-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:36:21Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "tender",
+    "mood": "weeknight",
+    "technique": "pressure-cook",
+    "primaryIngredient": "beef",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "beef",
+    "descriptor": "garlic ginger",
+    "dishForm": "Paella"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "title": "Garlicky Tender Ethiopian Pork Knuckle Tagine",
+  "description": "A keto-friendly, post-workout Ethiopian dish featuring pork knuckle in a flavorful nimono simmer.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "keto",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork knuckle",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "6 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Berbere spice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season the pork knuckle with salt, black pepper, and berbere spice. Let it sit at room temperature for 30 minutes.",
+    "Heat 1 tablespoon of coconut oil in a large Dutch oven over medium-high heat.",
+    "Sear the pork knuckle until browned on all sides, about 5 minutes per side. Remove the pork from the pot and set it aside.",
+    "Reduce the heat to medium and add the remaining 1 tablespoon of coconut oil, the onion, garlic, and ginger. Cook until the onion is translucent, about 5 minutes.",
+    "Add the chicken broth, thyme, and browned pork knuckle back to the pot. Cover and bring to a boil.",
+    "Transfer the pot to the oven and simmer, covered, at 300°F (150°C) for 2 hours, or until the pork is tender.",
+    "Remove the pot from the oven and let it cool slightly. Stir in the fresh cilantro.",
+    "Serve the pork knuckle with the juices spooned over the top.",
+    "Let the dish rest for 10 minutes before serving.",
+    "Slice the pork knuckle into thick slices and serve hot with the juices spooned over the top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 160,
+  "totalTimeMin": 190,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "ethiopian",
+    "high-fat",
+    "keto-friendly",
+    "one-pan",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 6,
+    "fat": 45
+  },
+  "slug": "garlicky-tender-ethiopian-pork-knuckle-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-tender-ethiopian-pork-knuckle-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:36:36Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "tender",
+    "mood": "post-workout",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "pork knuckle",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "pork knuckle",
+    "descriptor": "garlicky tender",
+    "dishForm": "Tagine"
+  }
+}
