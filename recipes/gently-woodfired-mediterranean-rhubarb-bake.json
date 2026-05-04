@@ -1,0 +1,95 @@
+{
+  "title": "Gently Woodfired Mediterranean Rhubarb Bake",
+  "description": "A tender and light Mediterranean dish featuring rhubarb, baked to perfection in a wood-fired oven, with a balance of bitter and sweet flavors. This macrobiotic-friendly recipe is perfect for a unique dessert or snack.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "rhubarb",
+      "amount": "2 pounds",
+      "notes": "fresh, cut into 1 inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pine nuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, honey, lemon juice, garlic, thyme, and salt.",
+    "Add the chopped rhubarb to the bowl and toss to coat with the oil and spice mixture.",
+    "Transfer the rhubarb mixture to a cazuela dish.",
+    "Sprinkle the chopped pine nuts over the top of the rhubarb.",
+    "Bake the rhubarb in the preheated wood-fired oven for 35 minutes, or until tender.",
+    "Remove the rhubarb from the oven and let it cool for a few minutes before serving.",
+    "Serve the rhubarb warm, garnished with additional thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "macrobiotic",
+    "mediterranean-diet",
+    "one-pan",
+    "vegetarian-friendly",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 3
+  },
+  "slug": "gently-woodfired-mediterranean-rhubarb-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gently-woodfired-mediterranean-rhubarb-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:15:17Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "tender",
+    "mood": "light",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "rhubarb",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "rhubarb",
+    "descriptor": "Gently Woodfired",
+    "dishForm": "Bake"
+  }
+}
