@@ -1,0 +1,103 @@
+{
+  "title": "Ginger Korean Cauliflower Bowl",
+  "description": "A peppery, fluffy bowl of roasted cauliflower, seared chicken, and a tangy Korean glaze, perfect for a lazy Sunday Whole30-friendly meal.",
+  "cuisine": "korean",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cauliflower, head",
+      "amount": "400g"
+    },
+    {
+      "name": "skinless boneless chicken breast",
+      "amount": "200g"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh ginger, grated",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "tamari",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "gochugaru (Korean chili flakes)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "roasted sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "green onions, sliced",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "black pepper, freshly ground",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the cauliflower into bite‑sized florets and toss them with 1 tbsp sesame oil, salt, and pepper.",
+    "Roast the cauliflower for 20 minutes, stirring halfway, until golden and tender.",
+    "While the cauliflower roasts, season the chicken breast with salt, pepper, and 1 tsp gochugaru, then sear it in a hot skillet with 1 tsp sesame oil until cooked through, about 6 minutes per side.",
+    "In the same skillet, add minced garlic and ginger and sauté for 1 minute until fragrant.",
+    "Pour in tamari, lime juice, and a splash of water, then simmer for 2 minutes to create a glaze.",
+    "Slice the cooked chicken and combine it with the roasted cauliflower, green onions, sesame seeds, and the glaze; toss to coat evenly.",
+    "Serve immediately, optionally garnishing with extra sesame seeds and green onion slices."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "fluffy",
+    "korean",
+    "lazy-sunday",
+    "one-pan",
+    "peppery",
+    "tadka",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 568,
+    "protein": 59,
+    "carbs": 14,
+    "fat": 24
+  },
+  "slug": "ginger-korean-cauliflower-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/ginger-korean-cauliflower-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:35:52Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "fluffy",
+    "mood": "lazy-sunday",
+    "technique": "tadka",
+    "primaryIngredient": "chilli",
+    "diet": "whole30",
+    "region": "seoul",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Cauliflower",
+    "descriptor": "Ginger",
+    "dishForm": "Bowl"
+  }
+}
