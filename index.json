@@ -2731,6 +2731,20 @@
     "shard": "g"
   },
   {
+    "slug": "glowing-chinese-tofu-kung-pao",
+    "title": "Glowing Chinese Tofu Kung Pao",
+    "tags": [
+      "cheese",
+      "citrusy",
+      "kosher-friendly",
+      "quick",
+      "weeknight"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "glowing-norwegian-salmon-ceviche",
     "title": "Glowing Norwegian Salmon Ceviche",
     "tags": [

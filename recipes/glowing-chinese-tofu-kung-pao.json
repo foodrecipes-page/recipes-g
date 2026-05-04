@@ -1,0 +1,114 @@
+{
+  "title": "Glowing Chinese Tofu Kung Pao",
+  "description": "A citrusy, cheesy take on classic Kung Pao featuring tofu and cheddar slices, finished with a glossy sauce.",
+  "cuisine": "Chinese",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "400g",
+      "notes": "pressed and cubed"
+    },
+    {
+      "name": "kosher cheddar cheese",
+      "amount": "50g",
+      "notes": "sliced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "minced"
+    },
+    {
+      "name": "dried red chilies",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "kosher"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 teaspoon",
+      "notes": "mixed with 1 tablespoon water"
+    },
+    {
+      "name": "lime",
+      "amount": "1",
+      "notes": "juiced"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a wok over medium-high heat until shimmering.",
+    "Add the cubed tofu and stir-fry until golden brown on all sides, then remove and set aside.",
+    "In the same wok, add the dried chilies, garlic, ginger, and diced bell pepper, stir-frying for 2 minutes.",
+    "Return the tofu to the wok and pour in the soy sauce, rice vinegar, honey, and lime juice, stirring to coat.",
+    "Whisk the cornstarch mixture and pour it into the wok, cooking until the sauce thickens and becomes glossy.",
+    "Sprinkle the sliced cheese over the dish, allowing it to melt slightly while the sauce simmers.",
+    "Taste and adjust seasoning, adding more soy sauce or lime juice if desired.",
+    "Remove from heat and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese",
+    "citrusy",
+    "kosher-friendly",
+    "quick",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 17,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "glowing-chinese-tofu-kung-pao",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/glowing-chinese-tofu-kung-pao",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:03:19Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "juicy",
+    "mood": "solo-dinner",
+    "technique": "simmer",
+    "primaryIngredient": "cheese slices",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "tofu",
+    "descriptor": "Glowing",
+    "dishForm": "Kung Pao"
+  }
+}
