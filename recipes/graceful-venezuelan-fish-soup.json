@@ -1,0 +1,119 @@
+{
+  "title": "Graceful Venezuelan Fish Soup",
+  "description": "A floral, springy fish soup that balances delicate fish stock with aromatic herbs and a touch of render‑fat, yet keeps it low‑fat and festive.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fresh white fish fillets",
+      "amount": "200 g",
+      "notes": "cut into bite‑size pieces"
+    },
+    {
+      "name": "fish stock",
+      "amount": "1 L",
+      "notes": "homemade or low‑sodium"
+    },
+    {
+      "name": "rendered cod liver oil",
+      "amount": "2 tbsp",
+      "notes": "low‑fat option"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "peeled, seeded, diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "white or yellow, finely chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh cilantro leaves",
+      "amount": "1/4 cup",
+      "notes": "plus stems for broth"
+    },
+    {
+      "name": "lime",
+      "amount": "1",
+      "notes": "juiced, sliced for garnish"
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1/2 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1",
+      "notes": "for flavor"
+    }
+  ],
+  "instructions": [
+    "Heat a large pot over medium heat and add the cod liver oil until it melts and foams slightly.",
+    "Add the onion, garlic, and red bell pepper, sautéing until the vegetables soften, about 5 minutes.",
+    "Stir in the diced tomatoes and cook for another 2 minutes until they break down.",
+    "Pour in the fish stock and bring the mixture to a gentle simmer, then add the cumin, bay leaf, and a pinch of sea salt.",
+    "Allow the soup to simmer for 10 minutes so the flavors meld together.",
+    "Gently fold in the fish pieces, simmering for an additional 4-5 minutes until the fish is opaque and cooked through.",
+    "Remove the bay leaf, stir in the chopped cilantro stems, then discard them and add the fresh cilantro leaves.",
+    "Taste the soup and adjust seasoning with lime juice and a splash of orange zest if desired.",
+    "Ladle the soup into bowls and garnish with a lime wedge and a sprinkle of extra cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "festival",
+    "low-fat",
+    "one-pot",
+    "quick",
+    "seafood",
+    "spring"
+  ],
+  "nutrition": {
+    "calories": 151,
+    "protein": 12,
+    "carbs": 9,
+    "fat": 8
+  },
+  "slug": "graceful-venezuelan-fish-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/graceful-venezuelan-fish-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:16:43Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "springy",
+    "mood": "festive",
+    "technique": "render-fat",
+    "primaryIngredient": "fish stock",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Fish",
+    "descriptor": "Graceful",
+    "dishForm": "Soup"
+  }
+}
