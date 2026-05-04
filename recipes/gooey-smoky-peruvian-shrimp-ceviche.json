@@ -1,0 +1,105 @@
+{
+  "title": "Gooey Smoky Peruvian Shrimp Ceviche",
+  "description": "A quick, briny shrimp ceviche with smoky flavor and creamy avocado, perfect for a light snack or appetizer.",
+  "cuisine": "peruvian",
+  "diet": [
+    "low-carb",
+    "high-protein"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "shrimp, raw, peeled and deveined",
+      "amount": "500g",
+      "notes": "fresh"
+    },
+    {
+      "name": "lime",
+      "amount": "8",
+      "notes": "juiced"
+    },
+    {
+      "name": "red onion, medium",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cilantro, fresh, chopped",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato, medium, diced",
+      "amount": "1"
+    },
+    {
+      "name": "avocado, ripe, diced",
+      "amount": "1"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper, freshly ground",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Pat the shrimp dry with paper towels and cut them into bite‑sized pieces.",
+    "Place the shrimp in a shallow glass bowl and pour the lime juice over them, ensuring all pieces are submerged.",
+    "Cover the bowl with plastic wrap and refrigerate for 5 minutes to lightly cure the shrimp.",
+    "While the shrimp marinate, thinly slice the red onion and dice the tomato.",
+    "Remove the shrimp from the refrigerator and drain about one‑third of the lime juice, leaving enough liquid to keep the mixture moist.",
+    "Add the sliced onion, diced tomato, chopped cilantro, and diced avocado to the bowl.",
+    "Stir in the smoked paprika, sea salt, black pepper, and olive oil until all ingredients are evenly coated.",
+    "Adjust the seasoning with extra salt or pepper if needed, and optionally add a dash of hot sauce for heat.",
+    "Serve the ceviche immediately in chilled bowls or on toasted quinoa for a crunchy contrast.",
+    "Garnish with a few sprigs of cilantro and a squeeze of lime before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "appetizer",
+    "ceviche",
+    "healthy",
+    "peruvian",
+    "quick",
+    "shrimp",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 43,
+    "carbs": 8,
+    "fat": 15
+  },
+  "slug": "gooey-smoky-peruvian-shrimp-ceviche",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-smoky-peruvian-shrimp-ceviche",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:32:09Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "gooey",
+    "mood": "quick-fix",
+    "technique": "smoke",
+    "primaryIngredient": "shrimp",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Gooey Smoky",
+    "dishForm": "Ceviche"
+  }
+}

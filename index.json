@@ -3953,6 +3953,22 @@
     "shard": "g"
   },
   {
+    "slug": "gooey-smoky-peruvian-shrimp-ceviche",
+    "title": "Gooey Smoky Peruvian Shrimp Ceviche",
+    "tags": [
+      "appetizer",
+      "ceviche",
+      "healthy",
+      "peruvian",
+      "quick",
+      "shrimp",
+      "smoky"
+    ],
+    "cuisine": "peruvian",
+    "totalTimeMin": 15,
+    "shard": "g"
+  },
+  {
     "slug": "gooey-smoky-rye-sandwich",
     "title": "Gooey Smoky Rye Sandwich",
     "tags": [
