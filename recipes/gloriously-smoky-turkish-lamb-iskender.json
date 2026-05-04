@@ -1,0 +1,110 @@
+{
+  "title": "Gloriously Smoky Turkish Lamb Iskender",
+  "description": "A smoky and juicy Turkish dish featuring lamb, Chinese five spice powder, and a flaky crust, served in a festive Iskender style, shojin-friendly and encrouted.",
+  "cuisine": "Turkish",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "Chinese five spice powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together the Chinese five spice powder, salt, and black pepper.",
+    "Rub the spice mixture all over the lamb shoulder, making sure to coat it evenly.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat, then sear the lamb shoulder until browned on all sides.",
+    "Add the sliced onion to the pot and cook until it is softened and lightly caramelized.",
+    "Add the minced garlic to the pot and cook for an additional minute, stirring constantly to prevent burning.",
+    "Roll out the puff pastry on a floured surface to a large rectangle, about 1/4 inch thick.",
+    "Place the lamb shoulder in the center of the pastry rectangle, leaving a 1 inch border around it.",
+    "Brush the edges of the pastry with a little bit of water, then fold the pastry over the lamb, pressing the edges to seal.",
+    "Place the pastry-wrapped lamb on a baking sheet and brush the top with a little bit of olive oil.",
+    "Bake the lamb in the preheated oven for 25 minutes, then reduce the heat to 350 degrees Fahrenheit and continue baking for an additional 20 minutes, or until the pastry is golden brown and the lamb is cooked to an internal temperature of 145 degrees Fahrenheit."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "encrouted",
+    "festive",
+    "iskender",
+    "lamb",
+    "shojin",
+    "smoky",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "gloriously-smoky-turkish-lamb-iskender",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gloriously-smoky-turkish-lamb-iskender",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:46:12Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "juicy",
+    "mood": "festive",
+    "technique": "en-croute",
+    "primaryIngredient": "chinese five spice powder",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "Gloriously Smoky",
+    "dishForm": "Iskender"
+  }
+}
