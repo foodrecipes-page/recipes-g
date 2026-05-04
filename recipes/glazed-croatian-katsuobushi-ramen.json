@@ -1,0 +1,112 @@
+{
+  "title": "Glazed Croatian Katsuobushi Ramen",
+  "description": "A silky, rich ramen infused with caramelized katsuobushi, designed as a hangover cure with a Croatian twist. Paleo-friendly and served in a classic bento-box for a satisfying al dente finish.",
+  "cuisine": "Croatian",
+  "diet": [
+    "paleo-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "buckwheat ramen noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "katsuobushi",
+      "amount": "100g"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 small",
+      "notes": "julienned"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "boiled eggs",
+      "amount": "2",
+      "notes": "peeled"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ginger-garlic mix",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Bring vegetable broth to a gentle simmer in a saucepan.",
+    "Add buckwheat ramen noodles to the broth and cook until al dente, about 6 minutes.",
+    "While noodles cook, heat sesame oil in a small skillet over medium heat and stir‑fry the ginger‑garlic mix for 30 seconds until fragrant.",
+    "Add katsuobushi to the skillet, searing it lightly until the flakes caramelize, about 1 minute.",
+    "Pour the maple syrup and fish sauce over the katsuobushi, whisking to create a glossy glaze that coats the flakes.",
+    "Drain the noodles, reserving a cup of broth, and return them to the pot.",
+    "Add the caramelized katsuobushi glaze to the noodles, stirring to coat evenly.",
+    "Pour in half the reserved broth to achieve a silky, slightly soupy consistency, then stir in lime juice.",
+    "Divide the ramen into a bento‑box, topping each serving with julienned carrot, sliced cucumber, and a boiled egg half.",
+    "Sprinkle with sesame seeds and serve immediately while hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "al-dente",
+    "bento-box",
+    "croatian",
+    "glazed",
+    "hangover-cure",
+    "katsuobushi",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 36,
+    "carbs": 87,
+    "fat": 20
+  },
+  "slug": "glazed-croatian-katsuobushi-ramen",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/glazed-croatian-katsuobushi-ramen",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:28:37Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "silky",
+    "mood": "hangover-cure",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "katsuobushi",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "katsuobushi",
+    "descriptor": "Glazed",
+    "dishForm": "Ramen"
+  }
+}
