@@ -1,0 +1,119 @@
+{
+  "title": "Grilled Glazed Kenyan Chicken Kebabs",
+  "description": "Smoky and springy chicken kebabs glazed with a sweet, anti-inflammatory peanut and coconut sauce, served hot on a stone plate for a monsoon-spiced Kenyan feast.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast, skinless, boneless, cut into 1.5 inch cubes",
+      "amount": "500 g"
+    },
+    {
+      "name": "Red bell pepper, seeded, cut into 1.5 inch cubes",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Yellow onion, cut into wedges",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Wooden skewers, soaked 30 min",
+      "amount": "8"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Peanut butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Coconut milk (full fat)",
+      "amount": "100 ml"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh cilantro, chopped",
+      "amount": "1 tbsp (optional garnish)"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (about 200°C) and oil the grates.",
+    "Thread 1 chicken cube, 1 bell pepper cube, and 1 onion wedge onto each soaked skewer, alternating ingredients.",
+    "In a small saucepan, whisk together honey, peanut butter, coconut milk, lime juice, cumin, coriander, smoked paprika, salt, and pepper until smooth; simmer until slightly thickened, about 5 minutes.",
+    "Brush each skewer with olive oil and the glaze, reserving some glaze for later.",
+    "Grill skewers for 5-6 minutes per side, basting with glaze, until chicken reaches internal temperature of 75°C and vegetables are charred.",
+    "While grilling, heat the remaining glaze in a small pan over low heat until it coats the back of a spoon.",
+    "After removing from grill, brush each kebab with the thickened glaze and sprinkle with chopped cilantro.",
+    "Serve hot on a preheated hot‑stone plate to keep the kebabs sizzling.",
+    "Enjoy immediately with a side of steamed millet or roasted plantains."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "dinner",
+    "glazed",
+    "grilled",
+    "kenyan",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 413,
+    "protein": 42,
+    "carbs": 11,
+    "fat": 17
+  },
+  "slug": "grilled-glazed-kenyan-chicken-kebabs",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/grilled-glazed-kenyan-chicken-kebabs",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:19:05Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "springy",
+    "mood": "monsoon",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "dulce de leche",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Chicken",
+    "descriptor": "Grilled Glazed",
+    "dishForm": "Kebabs"
+  }
+}
