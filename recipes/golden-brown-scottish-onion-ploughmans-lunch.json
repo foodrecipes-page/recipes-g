@@ -1,0 +1,90 @@
+{
+  "title": "Golden Brown Scottish Onion Ploughmans Lunch",
+  "description": "A nutty and chewy Scottish dish featuring caramelized onions and a broiled cheese topping, perfect for a low-carb friendly ploughmans lunch.",
+  "cuisine": "Scottish",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "onions",
+      "amount": "2 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "scotch broth mix",
+      "amount": "1 packet"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400 degrees Fahrenheit.",
+    "In a large skillet, melt the butter over medium heat and add the sliced onions.",
+    "Cook the onions for 20 minutes, stirring occasionally, until they are golden brown and caramelized.",
+    "In a small bowl, mix together the scotch broth mix, salt, and black pepper.",
+    "Sprinkle the scotch broth mix over the caramelized onions and stir to combine.",
+    "Transfer the onion mixture to a baking dish and top with the shredded cheddar cheese.",
+    "Broil the cheese topping for 2-3 minutes, or until it is melted and golden brown.",
+    "Remove the dish from the oven and sprinkle with chopped fresh parsley.",
+    "Serve the Golden Brown Scottish Onion Ploughmans Lunch hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "broiled-cheese",
+    "caramelized-onions",
+    "low-carb",
+    "ploughmans-lunch",
+    "scottish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 22
+  },
+  "slug": "golden-brown-scottish-onion-ploughmans-lunch",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-brown-scottish-onion-ploughmans-lunch",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:49:54Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "chewy",
+    "mood": "festive",
+    "technique": "broil",
+    "primaryIngredient": "onion",
+    "diet": "low-carb",
+    "region": "scottish",
+    "cuisineAdjective": "Scottish",
+    "mainIngredient": "onion",
+    "descriptor": "Golden Brown",
+    "dishForm": "Ploughmans Lunch"
+  }
+}
