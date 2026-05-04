@@ -1,0 +1,114 @@
+{
+  "title": "Glazed Slovakian Red Pepper Casserole",
+  "description": "A funky, silky, kid-friendly casserole with sweet glazed red peppers and gentle cheese.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red bell pepper",
+      "amount": "4",
+      "notes": "seeded and sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "medium, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushroom",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F.",
+    "Heat olive oil in a large oven‑proof skillet over medium heat.",
+    "Add diced onion and cook until translucent.",
+    "Stir in minced garlic, sliced mushrooms, diced carrots, smoked paprika, and oregano; cook for 5 minutes.",
+    "Add sliced red peppers, tomato paste, balsamic vinegar, salt and pepper, and stir to coat.",
+    "Transfer skillet to the oven and bake for 20 minutes, stirring once.",
+    "Remove from oven and pour the glaze over the vegetables.",
+    "Sprinkle grated cheddar cheese evenly over the casserole.",
+    "Return to oven and bake for another 5 minutes until cheese is melted.",
+    "Let rest for 5 minutes, then serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "family-friendly",
+    "glazed",
+    "kid-friendly",
+    "lacto-vegetarian",
+    "one-pan",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 18
+  },
+  "slug": "glazed-slovakian-red-pepper-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/glazed-slovakian-red-pepper-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:30:32Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "silky",
+    "mood": "kid-friendly",
+    "technique": "reduce",
+    "primaryIngredient": "red pepper",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "red pepper",
+    "descriptor": "Glazed",
+    "dishForm": "Casserole"
+  }
+}
