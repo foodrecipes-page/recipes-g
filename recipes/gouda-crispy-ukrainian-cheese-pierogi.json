@@ -1,0 +1,96 @@
+{
+  "title": "Gouda Crispy Ukrainian Cheese Pierogi",
+  "description": "Rich and crispy pierogi filled with a creamy Gouda cheese and perfect for a Ukrainian-inspired dinner. This recipe uses a mortar and pestle to pound the dough to achieve the perfect texture.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gouda cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Potato starch",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Butter, melted",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Fresh dill, chopped",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, potato starch, and egg to make the dough.",
+    "Knead the dough for 5 minutes until smooth and elastic.",
+    "Use a mortar and pestle to pound the dough for 2 minutes to achieve the perfect texture.",
+    "Divide the dough into 8 equal pieces.",
+    "Roll each piece into a thin circle.",
+    "Place 1 tablespoon of the Gouda cheese in the center of each circle.",
+    "Fold the dough over the cheese to form a half-moon shape and press the edges together to seal.",
+    "Heat 2 tablespoons of butter in a large skillet over medium-high heat.",
+    "Add the pierogi to the skillet and cook for 2-3 minutes on each side, until golden brown.",
+    "Serve the pierogi hot with your favorite toppings, such as sour cream and chives."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pierogi",
+    "comfort-food",
+    "easy-side-dish",
+    "ukrainian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 18
+  },
+  "slug": "gouda-crispy-ukrainian-cheese-pierogi",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/gouda-crispy-ukrainian-cheese-pierogi",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T01:01:05Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crispy",
+    "mood": "monsoon",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "gouda cheese",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Cheese",
+    "descriptor": "Gouda Crispy",
+    "dishForm": "Pierogi"
+  }
+}

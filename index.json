@@ -3739,6 +3739,20 @@
     "shard": "g"
   },
   {
+    "slug": "gouda-crispy-ukrainian-cheese-pierogi",
+    "title": "Gouda Crispy Ukrainian Cheese Pierogi",
+    "tags": [
+      "cheese-pierogi",
+      "comfort-food",
+      "easy-side-dish",
+      "ukrainian",
+      "weeknight"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "goudalicious-smoke-cheesecake",
     "title": "Goudalicious Smoke Cheesecake",
     "tags": [
