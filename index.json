@@ -2799,6 +2799,21 @@
     "shard": "g"
   },
   {
+    "slug": "golden-algerian-lamb-tagine",
+    "title": "Golden Algerian Lamb Tagine",
+    "tags": [
+      "algerian-cuisine",
+      "comfort-food",
+      "high-protein",
+      "lamb-recipes",
+      "lazy-sunday",
+      "one-pot-meals"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 180,
+    "shard": "g"
+  },
+  {
     "slug": "golden-brown-moroccan-onion-tagine",
     "title": "Golden Brown Moroccan Onion Tagine",
     "tags": [
