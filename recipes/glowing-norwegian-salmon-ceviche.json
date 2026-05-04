@@ -1,0 +1,111 @@
+{
+  "title": "Glowing Norwegian Salmon Ceviche",
+  "description": "Savory, flaky salmon ceviche cooked sous-vide and brightened with cider vinegar and fresh herbs, perfect for a solo Norwegian dinner.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "wild norwegian salmon fillet",
+      "amount": "200g",
+      "notes": "skin removed"
+    },
+    {
+      "name": "white cider vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 small, finely diced"
+    },
+    {
+      "name": "capers",
+      "amount": "1 tbsp, rinsed"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tbsp, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 tsp, minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp, fresh grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime",
+      "amount": "1, cut into wedges"
+    }
+  ],
+  "instructions": [
+    "Preheat sous-vide water bath to 45°C (113°F).",
+    "Season salmon with sea salt and black pepper, seal in a vacuum bag.",
+    "Cook salmon sous-vide for 30 minutes.",
+    "Remove salmon and plunge into an ice bath for 2 minutes to stop cooking.",
+    "Pat dry and slice into thin strips.",
+    "In a bowl, whisk together cider vinegar, lemon juice, garlic, ginger, and olive oil.",
+    "Add sliced salmon, diced onion, capers, and chopped dill to the bowl.",
+    "Toss gently until salmon is coated with the dressing.",
+    "Cover and refrigerate the mixture for 15 minutes to meld flavors.",
+    "Plate the ceviche on a chilled board.",
+    "Garnish with fresh dill and a wedge of lime.",
+    "Serve immediately, optionally with crisp cucumber slices on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "glowing",
+    "norwegian-dish",
+    "pescatarian-friendly",
+    "seafood-ceviche",
+    "solo-dinner",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 48,
+    "carbs": 5,
+    "fat": 27
+  },
+  "slug": "glowing-norwegian-salmon-ceviche",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/glowing-norwegian-salmon-ceviche",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:20:56Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "flaky",
+    "mood": "solo-dinner",
+    "technique": "sous-vide",
+    "primaryIngredient": "cider vinegar",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Salmon",
+    "descriptor": "Glowing",
+    "dishForm": "Ceviche"
+  }
+}
