@@ -4923,6 +4923,17 @@
     "shard": "g"
   },
   {
+    "slug": "griddled-mexican-cod-taco",
+    "title": "Griddled Mexican Cod Tacos",
+    "tags": [
+      "mexican",
+      "dinner"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 40,
+    "shard": "g"
+  },
+  {
     "slug": "grill-tzimmes",
     "title": "Grilled Tzimmes with Tahini Paste",
     "tags": [
