@@ -1,0 +1,100 @@
+{
+  "title": "Gritty Silky French Avocado Gratin",
+  "description": "A bitter, silky one-pot French gratin that showcases avocado pulp with a low-glycemic profile, finished with a golden cheese crust.",
+  "cuisine": "french",
+  "diet": [
+    "low-glycemic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "avocado hass pulp",
+      "amount": "200g",
+      "notes": "fresh"
+    },
+    {
+      "name": "unsweetened oat milk",
+      "amount": "240ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "15ml"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "5ml"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "10g",
+      "notes": "grated"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "5g",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F.",
+    "Sauté minced garlic in olive oil over medium heat until fragrant, about 1 minute.",
+    "Add avocado pulp to the skillet and cook for 2 minutes to warm.",
+    "Pour in oat milk and lemon juice, season with salt and pepper, and simmer until thickened, about 5 minutes.",
+    "Transfer mixture to a small baking dish and sprinkle grated parmesan evenly on top.",
+    "Place dish in the oven and grill until cheese is golden and bubbly, 8-10 minutes.",
+    "Remove from oven, let cool for 2 minutes, then garnish with chopped parsley.",
+    "Serve hot as a silky, slightly bitter gratin."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bitter",
+    "french",
+    "grilled",
+    "low-glycemic",
+    "one-pot",
+    "silky",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 19,
+    "fat": 15
+  },
+  "slug": "gritty-silky-french-avocado-gratin",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/gritty-silky-french-avocado-gratin",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:46:26Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "silky",
+    "mood": "one-pot",
+    "technique": "grill",
+    "primaryIngredient": "avacado hass pulp",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "avocado",
+    "descriptor": "Gritty Silky",
+    "dishForm": "Gratin"
+  }
+}
