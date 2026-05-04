@@ -1,0 +1,109 @@
+{
+  "title": "Garlicky Bouncy German Sausage Stew",
+  "description": "A hearty midnight-craving German stew featuring garlicky bouncy sausage and mantecare-emulsified stout sauce.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Stout",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "4-6 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Bouncy sausage",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Mantecare",
+      "amount": "2 tbsp",
+      "notes": "for emulsifying"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large kadhai over medium heat.",
+    "Add sliced onions and cook until translucent.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add caraway seeds, black pepper, and cook for 1 minute.",
+    "Add bouncy sausage and cook until browned.",
+    "Add flour to coat the sausage.",
+    "Gradually add beef broth, stirring constantly.",
+    "Bring to a boil, then reduce heat and simmer.",
+    "Stir in mantecare to emulsify the sauce.",
+    "Cook for an additional 10-15 minutes or until the stew thickens.",
+    "Serve hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "hearty",
+    "high-protein",
+    "midnight-craving",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "slug": "garlicky-bouncy-german-sausage-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-bouncy-german-sausage-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:37:19Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "bouncy-qq",
+    "mood": "midnight-craving",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "stout",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "sausage",
+    "descriptor": "garlicky, bouncy",
+    "dishForm": "Stew"
+  }
+}

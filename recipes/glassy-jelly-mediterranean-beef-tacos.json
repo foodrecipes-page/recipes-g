@@ -1,0 +1,108 @@
+{
+  "title": "Glassy-Jelly Mediterranean Beef Tacos",
+  "description": "A romantic, cultured dish featuring beef, nuka-pickle, and a glassy-jelly topping served in a comal vessel. Perfect for a low-calorie-friendly dinner or lunch.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef strips (6 oz)",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "nuka-pickle slices",
+      "amount": "",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "glassy-jelly",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "crumbled feta cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a comal or griddle over medium-high heat.",
+    "Cook beef strips for 2-3 minutes per side, or until browned and cooked through.",
+    "Meanwhile, toast the nuka-pickle slices on the comal for 1-2 minutes, or until crispy.",
+    "Assemble tacos by placing beef and nuka-pickle on a comal, topping with glassy-jelly, red onion, olives, feta cheese, parsley, salt, and pepper.",
+    "Drizzle with lemon juice and olive oil."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "comfort-food",
+    "low-calorie",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "glassy-jelly-mediterranean-beef-tacos",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/glassy-jelly-mediterranean-beef-tacos",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:37:49Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "glassy-jelly",
+    "mood": "romantic",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "beef",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Beef",
+    "descriptor": "Glassy-Jelly",
+    "dishForm": "Tacos"
+  }
+}

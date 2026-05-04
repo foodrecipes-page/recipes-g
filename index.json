@@ -85,6 +85,20 @@
     "shard": "g"
   },
   {
+    "slug": "garden-fresh-slovakian-chicken-broth",
+    "title": "Garden-fresh Slovakian Chicken Broth",
+    "tags": [
+      "high-protein",
+      "homestyle",
+      "one-pan",
+      "slovakian",
+      "weeknight"
+    ],
+    "cuisine": "slovakian",
+    "totalTimeMin": 60,
+    "shard": "g"
+  },
+  {
     "slug": "garden-fresh-ukrainian-vegetable-salad",
     "title": "Garden Fresh Ukrainian Vegetable Salad",
     "tags": [
@@ -523,6 +537,21 @@
     ],
     "cuisine": "australian",
     "totalTimeMin": 22,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-bouncy-german-sausage-stew",
+    "title": "Garlicky Bouncy German Sausage Stew",
+    "tags": [
+      "german",
+      "hearty",
+      "high-protein",
+      "midnight-craving",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
     "shard": "g"
   },
   {
@@ -3010,6 +3039,19 @@
     "shard": "g"
   },
   {
+    "slug": "glassy-jelly-mediterranean-beef-tacos",
+    "title": "Glassy-Jelly Mediterranean Beef Tacos",
+    "tags": [
+      "beef",
+      "comfort-food",
+      "low-calorie",
+      "mediterranean"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 20,
+    "shard": "g"
+  },
+  {
     "slug": "glassy-jelly-sour-venezuelan-post-workout-dish-bowl",
     "title": "Glassy-Jelly Sour Venezuelan Post-Workout Bowl",
     "tags": [
@@ -4858,6 +4900,22 @@
     ],
     "cuisine": "Kenyan",
     "totalTimeMin": 45,
+    "shard": "g"
+  },
+  {
+    "slug": "gooey-kenyan-shortening-fritters",
+    "title": "Gooey Kenyan Shortening Fritters",
+    "tags": [
+      "chocolate",
+      "dessert",
+      "easy-to-make",
+      "fritters",
+      "kenyan",
+      "shortening",
+      "weeknight"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {

@@ -1,0 +1,94 @@
+{
+  "title": "Gooey Kenyan Shortening Fritters",
+  "description": "Light and airy fritters with a sweet and gooey center, great for dessert or a snack. Made with shortening and tempered chocolate.",
+  "cuisine": "kenyan",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Unsalted shortening",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Whole milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Melted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Dark chocolate chips",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Tempered chocolate (for dusting)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Confectioners' sugar (for dusting)",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, baking powder, and salt."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate",
+    "dessert",
+    "easy-to-make",
+    "fritters",
+    "kenyan",
+    "shortening",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 8
+  },
+  "slug": "gooey-kenyan-shortening-fritters",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-kenyan-shortening-fritters",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:37:34Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "gooey",
+    "mood": "light",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "shortening",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "shortening",
+    "descriptor": "gooey",
+    "dishForm": "Fritters"
+  }
+}

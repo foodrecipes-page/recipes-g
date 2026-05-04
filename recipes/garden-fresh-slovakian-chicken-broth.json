@@ -1,0 +1,99 @@
+{
+  "title": "Garden-fresh Slovakian Chicken Broth",
+  "tags": [
+    "high-protein",
+    "homestyle",
+    "one-pan",
+    "slovakian",
+    "weeknight"
+  ],
+  "meal": "dinner",
+  "cookTimeMin": 30,
+  "difficulty": "medium",
+  "totalTimeMin": 60,
+  "servings": 6,
+  "prepTimeMin": 15,
+  "description": "A sweet and creamy Slovakian chicken broth, perfect for a monsoon evening. Made with garden-fresh herbs and a rich, high-protein stock.",
+  "cuisine": "slovakian",
+  "ingredients": [
+    {
+      "name": "chicken necks",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken stock",
+      "amount": "4 cups"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    }
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 12
+  },
+  "instructions": [
+    "Combine chicken necks, carrots, celery, onion, and garlic in a large stockpot.",
+    "Pour in chicken stock and bring to a boil, then reduce heat to a simmer.",
+    "Let cook for 30 minutes, or until the chicken is tender.",
+    "Strain the broth through a fine-mesh sieve into a large bowl.",
+    "Add heavy cream and stir to combine.",
+    "Return the broth to the pot and add parsley, dill, salt, and pepper.",
+    "Simmer for an additional 10-15 minutes, or until heated through.",
+    "Serve hot and enjoy!"
+  ],
+  "diet": null,
+  "slug": "garden-fresh-slovakian-chicken-broth",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garden-fresh-slovakian-chicken-broth",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:37:50Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "creamy",
+    "mood": "monsoon",
+    "technique": "reduce",
+    "primaryIngredient": "chicken stock",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Garden-fresh",
+    "dishForm": "Broth"
+  }
+}
