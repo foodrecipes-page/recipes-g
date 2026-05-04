@@ -1,0 +1,111 @@
+{
+  "title": "Garlicky Crispy Dutch Egg Yolk Frittata",
+  "description": "A bold and flavorful one-pan Dutch frittata that highlights rich egg yolks and a garlicky crust, perfect for a solo dinner.",
+  "cuisine": "Dutch",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large eggs",
+      "amount": "6",
+      "notes": "whole"
+    },
+    {
+      "name": "egg yolks",
+      "amount": "3",
+      "notes": "separated"
+    },
+    {
+      "name": "grated Gouda cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "1 tbsp",
+      "notes": "for crust"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/8 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/8 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat a 10-inch Dutch oven over medium heat and add 1 tsp olive oil, swirling to coat the bottom.",
+    "Whisk 6 eggs, 3 yolks, heavy cream, salt, pepper, and cayenne into a bowl until fully blended.",
+    "Pour the egg mixture into the hot Dutch oven and stir gently for 1 minute so the edges begin to set.",
+    "Sprinkle minced garlic over the surface and fold in the grated Gouda cheese until melted.",
+    "Reduce heat to low, cover the Dutch oven, and cook for 8 minutes until the top is firm but the center remains slightly runny.",
+    "Increase heat to high, then quickly sprinkle 1 tbsp butter on top and let it melt over the frittata for 30 seconds to form a crispy golden crust.",
+    "Remove the Dutch oven from the stove, stir in fresh parsley, and slice the frittata into wedges.",
+    "Serve hot, garnishing with a pinch of extra cheese if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese",
+    "egg",
+    "garlic",
+    "high-protein",
+    "one-pan",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 368,
+    "protein": 21,
+    "carbs": 2,
+    "fat": 29
+  },
+  "slug": "garlicky-crispy-dutch-egg-yolk-frittata",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-crispy-dutch-egg-yolk-frittata",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:25:44Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crispy",
+    "mood": "solo-dinner",
+    "technique": "candy",
+    "primaryIngredient": "egg yolks",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "egg yolks",
+    "descriptor": "Garlicky Crispy",
+    "dishForm": "Frittata"
+  }
+}
