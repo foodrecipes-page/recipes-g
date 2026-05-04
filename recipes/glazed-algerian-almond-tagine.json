@@ -1,0 +1,120 @@
+{
+  "title": "Glazed Algerian Almond Tagine",
+  "description": "A savory, crunchy tagine featuring lamb, almonds, apricots, and a sweet honey glaze, cooked in a ttukbaegi for a low-glycemic, indulgent meal.",
+  "cuisine": "Algerian",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "800g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4, minced"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "100g, chopped"
+    },
+    {
+      "name": "almonds",
+      "amount": "50g, toasted"
+    },
+    {
+      "name": "preserved lemon",
+      "amount": "1, peeled and sliced"
+    },
+    {
+      "name": "olive brine",
+      "amount": "200ml"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cinnamon stick",
+      "amount": "1"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a ttukbaegi over medium heat, add sliced onion, and cook until translucent.",
+    "Add minced garlic, diced lamb, and spices (cumin, coriander, paprika, cinnamon), stirring until the meat is browned.",
+    "Pour in olive brine and simmer for 30 minutes until the lamb is tender.",
+    "Stir in chopped apricots, toasted almonds, and preserved lemon slices, cooking for another 10 minutes.",
+    "Whisk honey into a small bowl, then pour over the tagine, stirring to coat all ingredients.",
+    "Cover the ttukbaegi and simmer over low heat for 20 minutes, allowing flavors to meld and the glaze to thicken.",
+    "Remove the lid, stir to ensure an even glaze, and taste for seasoning, adding salt and pepper if needed.",
+    "Serve hot, garnished with extra toasted almonds and chopped parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "almond",
+    "crunchy",
+    "earthenware",
+    "low-glycemic",
+    "savory",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 28
+  },
+  "slug": "glazed-algerian-almond-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/glazed-algerian-almond-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:42:26Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crunchy",
+    "mood": "indulgent",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "sugars",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Almonds",
+    "descriptor": "Glazed",
+    "dishForm": "Tagine"
+  }
+}
