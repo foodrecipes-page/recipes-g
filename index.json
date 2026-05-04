@@ -55,6 +55,21 @@
     "shard": "g"
   },
   {
+    "slug": "garden-fresh-mediterranean-vegetable-tacos",
+    "title": "Garden Fresh Mediterranean Vegetable Tacos",
+    "tags": [
+      "festive",
+      "mediterranean",
+      "sous-vide",
+      "spring-vegetables",
+      "tacos",
+      "vegetarian"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 90,
+    "shard": "g"
+  },
+  {
     "slug": "garden-fresh-ukrainian-vegetable-salad",
     "title": "Garden Fresh Ukrainian Vegetable Salad",
     "tags": [

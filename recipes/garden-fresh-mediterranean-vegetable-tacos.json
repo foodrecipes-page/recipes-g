@@ -1,0 +1,109 @@
+{
+  "title": "Garden Fresh Mediterranean Vegetable Tacos",
+  "description": "A festive and flavorful vegetarian dish featuring roasted Mediterranean vegetables in hard taco shells, with a focus on spring ingredients and a hint of bitter flavors, all brought together with the precision of sous-vide cooking.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Hard Taco Shells",
+      "amount": "12 shells",
+      "notes": "preferably whole wheat"
+    },
+    {
+      "name": "Eggplant",
+      "amount": "2 medium",
+      "notes": "sliced into 1/2 inch thick rounds"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "2 medium",
+      "notes": "sliced into 1/2 inch thick rounds"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "2 large",
+      "notes": "sliced into 1 inch pieces"
+    },
+    {
+      "name": "Kalamata Olives",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Artichoke Hearts",
+      "amount": "1 can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "1 block",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 185 degrees Fahrenheit.",
+    "Season the sliced eggplant and zucchini with salt and let them sit for 10 minutes to draw out excess moisture.",
+    "Rinse the eggplant and zucchini slices and pat them dry with paper towels.",
+    "Place the eggplant and zucchini slices in a single layer in a sous-vide bag, seal, and cook for 1 hour.",
+    "While the vegetables are cooking, roast the red bell pepper in the oven at 400 degrees Fahrenheit for 30 minutes, or until the skin is blistered and charred.",
+    "Peel the skin off the roasted red bell pepper and slice it into strips.",
+    "In a large bowl, combine the cooked eggplant, zucchini, roasted red bell pepper, Kalamata olives, artichoke hearts, and crumbled feta cheese.",
+    "Drizzle the lemon juice and olive oil over the vegetable mixture and toss to combine.",
+    "Stir in the chopped fresh parsley.",
+    "Warm the hard taco shells according to the package instructions.",
+    "Fill the warmed taco shells with the Mediterranean vegetable mixture and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "festive",
+    "mediterranean",
+    "sous-vide",
+    "spring-vegetables",
+    "tacos",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "garden-fresh-mediterranean-vegetable-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/garden-fresh-mediterranean-vegetable-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:20:49Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "springy",
+    "mood": "festive",
+    "technique": "sous-vide",
+    "primaryIngredient": "hard taco shells",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "vegetables",
+    "descriptor": "Garden Fresh",
+    "dishForm": "Tacos"
+  }
+}
