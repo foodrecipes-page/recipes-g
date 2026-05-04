@@ -1,0 +1,107 @@
+{
+  "title": "Gooey Brazilian Fromage Frais Paella",
+  "description": "A rich and savory hangover cure that combines the creaminess of fromage frais with the smoky flavors of render-fat. Perfect for a post-party brunch.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "keto-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "render-fat (pork fat or beef tallow)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "fromage frais (Brazilian-style cream cheese)",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "sliced scallions",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "diced ham",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "diced fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the render-fat in a large cast-iron skillet over medium-high heat until it reaches 375°F.",
+    "Add the diced ham and cook until browned, about 3-4 minutes.",
+    "Add the grated ginger and cook for an additional 1-2 minutes.",
+    "Stir in the fromage frais until melted and well combined with the ham and ginger mixture.",
+    "Add the grated cheddar cheese and stir until melted and smooth.",
+    "Transfer the skillet to the oven and bake at 375°F for 10-12 minutes, or until the cheese is melted and bubbly.",
+    "Remove the skillet from the oven and sprinkle with sliced scallions and grated cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "hangover-cure",
+    "high-fat",
+    "keto",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 1240,
+    "protein": 34,
+    "carbs": 4,
+    "fat": 114
+  },
+  "slug": "gooey-brazilian-fromage-frais-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-brazilian-fromage-frais-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:45:56Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "gooey",
+    "mood": "hangover-cure",
+    "technique": "render-fat",
+    "primaryIngredient": "fromage frais",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "fromage frais",
+    "descriptor": "gooey",
+    "dishForm": "Paella"
+  }
+}

@@ -4461,6 +4461,21 @@
     "shard": "g"
   },
   {
+    "slug": "gooey-brazilian-fromage-frais-paella",
+    "title": "Gooey Brazilian Fromage Frais Paella",
+    "tags": [
+      "breakfast",
+      "brunch",
+      "hangover-cure",
+      "high-fat",
+      "keto",
+      "one-pan"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "gooey-british-gluten-free-quinoa-stir-fry",
     "title": "Gooey British Gluten-Free Quinoa Stir-fry",
     "tags": [
@@ -4612,6 +4627,20 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 40,
+    "shard": "g"
+  },
+  {
+    "slug": "gooey-egyptian-squash-bake",
+    "title": "Gooey Egyptian Squash Bake",
+    "tags": [
+      "comfort-food",
+      "date-night",
+      "egyptian",
+      "fall",
+      "floral"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 80,
     "shard": "g"
   },
   {
