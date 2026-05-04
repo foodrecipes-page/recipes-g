@@ -2250,6 +2250,21 @@
     "shard": "g"
   },
   {
+    "slug": "gentle-golden-venezuelan-chicken-stew",
+    "title": "Gentle Golden Venezuelan Chicken Stew",
+    "tags": [
+      "chicken-stew",
+      "comfort-food",
+      "gluten-free",
+      "latin-american",
+      "one-pot",
+      "sugar-free"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 50,
+    "shard": "g"
+  },
+  {
     "slug": "gentle-herbal-british-pickle-casserole",
     "title": "Gentle Herbal British Pickle Casserole",
     "tags": [

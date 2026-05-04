@@ -1,0 +1,103 @@
+{
+  "title": "Gentle Golden Venezuelan Chicken Stew",
+  "description": "A comforting and creamy Venezuelan chicken stew featuring dried leaves of summer savory, perfect for a sick day, and made with a sweet and malty glaze that is sugar free friendly.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "gluten-free",
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "dried summer savory leaves",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "malta malt beverage",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the chicken to the pot and cook until browned on all sides, about 5-7 minutes.",
+    "Add the dried summer savory leaves, salt, and black pepper to the pot and stir to combine.",
+    "Pour in the chicken broth and malta malt beverage, and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes, or until the chicken is cooked through.",
+    "Stir in the heavy cream and continue to simmer for an additional 5 minutes, or until the stew has thickened slightly.",
+    "Serve the stew hot, garnished with additional dried summer savory leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-stew",
+    "comfort-food",
+    "gluten-free",
+    "latin-american",
+    "one-pot",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "gentle-golden-venezuelan-chicken-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gentle-golden-venezuelan-chicken-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:39:03Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "creamy",
+    "mood": "sick-day",
+    "technique": "glaze",
+    "primaryIngredient": "dried leaves of summer savoury",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "chicken",
+    "descriptor": "Gentle Golden",
+    "dishForm": "Stew"
+  }
+}
