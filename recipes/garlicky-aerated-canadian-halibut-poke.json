@@ -1,0 +1,112 @@
+{
+  "title": "Garlicky Aerated Canadian Halibut Poke",
+  "description": "A show-off Canadian dish featuring dark brown sugar and sashimi-cut halibut, aerated for a light and refreshing twist on traditional poke. Ideal for a Mediterranean-inspired dinner.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Halibut fillets",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "6 cloves",
+      "notes": null
+    },
+    {
+      "name": "Dark brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Avocado oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Rinse the halibut fillets under cold water and pat them dry with paper towels.",
+    "Using a mandoline or sharp knife, slice the halibut into thin sashimi pieces.",
+    "In a blender or food processor, combine the garlic, dark brown sugar, soy sauce, rice vinegar, ginger, and green onions.",
+    "Blend the mixture until it is smooth and well combined.",
+    "With the blender or food processor running, slowly pour in the avocado oil through the top.",
+    "Continue blending until the mixture is well aerated and has a light and fluffy texture.",
+    "Season the aerated mixture with sea salt and black pepper to taste.",
+    "Add the sashimi-cut halibut to the aerated mixture and gently fold until it is well coated.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, give the poke a gentle stir and adjust the seasoning as needed.",
+    "Serve the Garlicky Aerated Canadian Halibut Poke chilled, garnished with additional green onions and sesame seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "canadian-fusion",
+    "dinner",
+    "fish",
+    "gordon-ramsay",
+    "high-end",
+    "mexican-inspired",
+    "poke",
+    "sashimi",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 8,
+    "fat": 12
+  },
+  "slug": "garlicky-aerated-canadian-halibut-poke",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-aerated-canadian-halibut-poke",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T20:35:35Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "aerated",
+    "mood": "show-off",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "dark brown sugar",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Halibut",
+    "descriptor": "Garlicky Aerated",
+    "dishForm": "Poke"
+  }
+}
