@@ -1,0 +1,96 @@
+{
+  "title": "Glorious Golden Indian Dumplings Gulab Jamun",
+  "description": "A funky, aerated, one-pot Indian dish featuring vegan-friendly ingredients, this gulab jamun recipe is a unique twist on traditional Indian cuisine, with a smoky cold flavor and a golden brown color.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "used for dumpling mixture"
+    },
+    {
+      "name": "semolina",
+      "amount": "1 cup"
+    },
+    {
+      "name": "non dairy milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the all purpose flour, semolina, and cardamom powder to make the dumpling mixture.",
+    "Gradually add the non dairy milk to the dumpling mixture and knead until a smooth dough forms.",
+    "Divide the dough into small balls and deep fry them in hot oil until they are golden brown.",
+    "In a separate pot, combine the sugar, water, and rose water to make the syrup.",
+    "Bring the syrup to a boil, then reduce the heat and let it simmer for 10 minutes.",
+    "Add the fried dumplings to the syrup and let them soak for 5 minutes.",
+    "Remove the dumplings from the syrup and place them on a serving plate.",
+    "Drizzle the remaining syrup over the dumplings and serve warm.",
+    "Garnish with lemon juice and vegan butter for added flavor."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-carb",
+    "indian-dessert",
+    "one-pot",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "glorious-golden-indian-dumplings-gulab-jamun",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/glorious-golden-indian-dumplings-gulab-jamun",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:35:11Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "aerated",
+    "mood": "one-pot",
+    "technique": "smoke-cold",
+    "primaryIngredient": "butter",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "dumplings",
+    "descriptor": "Glorious Golden",
+    "dishForm": "Gulab Jamun"
+  }
+}
