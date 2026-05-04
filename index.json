@@ -4847,6 +4847,20 @@
     "shard": "g"
   },
   {
+    "slug": "gooey-indulgent-turkish-nutella-iskender-kebab",
+    "title": "Gooey Indulgent Turkish Nutella Iskender Kebab",
+    "tags": [
+      "decadent",
+      "dessert",
+      "kebab",
+      "nutella",
+      "turkish"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "gooey-indulgent-ukrainian-cheese-lasagna",
     "title": "Gooey Indulgent Ukrainian Cheese Lasagna",
     "tags": [
@@ -5021,6 +5035,21 @@
       "vegetarian"
     ],
     "cuisine": "Turkish",
+    "totalTimeMin": 45,
+    "shard": "g"
+  },
+  {
+    "slug": "gooey-monsoon-indian-prosciutto-dal",
+    "title": "Gooey Monsoon Dal",
+    "tags": [
+      "earthenware",
+      "gluten-free",
+      "indian",
+      "lentil",
+      "monsoon",
+      "prosciutto"
+    ],
+    "cuisine": "Indian",
     "totalTimeMin": 45,
     "shard": "g"
   },

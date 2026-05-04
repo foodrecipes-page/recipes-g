@@ -1,0 +1,118 @@
+{
+  "title": "Gooey Monsoon Dal",
+  "description": "A rich, jammy, monsoon-inspired Indian dish featuring crispy prosciutto and a hint of spice, served in an earthenware vessel.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Split Red Lentils",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Prosciutto",
+      "amount": "6 slices",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Red Chili Powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the ghee in a large saucepan over medium-high heat.",
+    "Add the cumin seeds and let them sizzle for 1 second.",
+    "Add the onion and cook until it is lightly browned, 5 minutes.",
+    "Add the garlic and ginger and cook for 1 minute, until fragrant.",
+    "Add the prosciutto and cook for 2 minutes, until crispy.",
+    "Add the lentils, water, turmeric, red chili powder, and salt. Bring to a boil, then reduce the heat to low and simmer for 20 minutes, or until the lentils are tender.",
+    "Stir in the cilantro and adjust the seasoning to taste.",
+    "Serve hot in earthenware bowls, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "earthenware",
+    "gluten-free",
+    "indian",
+    "lentil",
+    "monsoon",
+    "prosciutto"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 72,
+    "fat": 24
+  },
+  "slug": "gooey-monsoon-indian-prosciutto-dal",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-monsoon-indian-prosciutto-dal",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:40:59Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "gooey",
+    "mood": "monsoon",
+    "technique": "tadka",
+    "primaryIngredient": "prosciutto",
+    "diet": "gluten-free",
+    "region": "bengali",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "prosciutto",
+    "descriptor": "Gooey Monsoon",
+    "dishForm": "Dal"
+  }
+}

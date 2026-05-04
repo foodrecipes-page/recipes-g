@@ -1,0 +1,100 @@
+{
+  "title": "Gooey Indulgent Turkish Nutella Iskender Kebab",
+  "description": "A decadent twist on traditional Kebab, with the rich flavors of Nutella and a gooey, caramelized exterior.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Nutella",
+      "amount": "2 jars",
+      "notes": ""
+    },
+    {
+      "name": "Pita bread",
+      "amount": "4",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "Fresh rosemary",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Kashkaval cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Beef suet",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "Mediterranean spices",
+      "amount": "1 teaspoon",
+      "notes": "blend of oregano, thyme, cumin"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "flaky sea salt recommended"
+    },
+    {
+      "name": "Pumpkin seeds",
+      "amount": "1/2 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "clarified"
+    }
+  ],
+  "instructions": [
+    "Combine melted beef suet, Nutella, and Kashkaval cheese in a bowl, mixing until smooth and creamy.",
+    "Add chopped rosemary and Mediterranean spices to the bowl, stirring until well combined.",
+    "Cut the pita bread into 4-6 pieces, depending on desired size.",
+    "Dip each piece of pita into the Nutella mixture, coating both sides evenly.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Cook the coated pita pieces for 2-3 minutes on each side, until golden brown and caramelized.",
+    "Serve the Iskender Kebab hot, garnished with toasted pumpkin seeds and a sprinkle of flaky sea salt.",
+    "Optional: serve with a side of whipped cream or vanilla ice cream for an added treat."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "decadent",
+    "dessert",
+    "kebab",
+    "nutella",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 12,
+    "carbs": 90,
+    "fat": 40
+  },
+  "slug": "gooey-indulgent-turkish-nutella-iskender-kebab",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-indulgent-turkish-nutella-iskender-kebab",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:41:23Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "gooey",
+    "mood": "indulgent",
+    "technique": "knead",
+    "primaryIngredient": "nutella",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Nutella",
+    "descriptor": "Gooey Indulgent",
+    "dishForm": "Iskender Kebab"
+  }
+}
