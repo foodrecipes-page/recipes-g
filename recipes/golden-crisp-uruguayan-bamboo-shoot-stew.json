@@ -1,0 +1,94 @@
+{
+  "title": "Golden Crisp Uruguayan Bamboo Shoot Stew",
+  "description": "A resinous and crisp Uruguayan dish featuring bamboo shoot, this stew is a crowd-pleaser and can be made in a claypot, it is also shojin-friendly and emulsifies well",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bamboo shoots",
+      "amount": "1 pound",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a claypot over medium heat",
+    "Add the chopped onion and cook until it is translucent",
+    "Add the minced garlic and cook for 1 minute",
+    "Add the bamboo shoots and cook for 2 minutes",
+    "Add the vegetable broth, soy sauce, turmeric, and paprika, and stir well",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes",
+    "Season with salt and pepper to taste",
+    "Serve hot, garnished with chopped fresh herbs if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pot",
+    "south-american",
+    "stew",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "golden-crisp-uruguayan-bamboo-shoot-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-crisp-uruguayan-bamboo-shoot-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T20:32:52Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crisp",
+    "mood": "crowd-pleaser",
+    "technique": "emulsify",
+    "primaryIngredient": "bamboo shoot",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "bamboo shoot",
+    "descriptor": "Golden Crisp",
+    "dishForm": "Stew"
+  }
+}
