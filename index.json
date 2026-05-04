@@ -3919,6 +3919,21 @@
     "shard": "g"
   },
   {
+    "slug": "gooey-venezuelan-cheese-quesadilla",
+    "title": "Gooey Venezuelan Cheese Quesadilla",
+    "tags": [
+      "cheese-heavy",
+      "comfort-food",
+      "date-night",
+      "easy",
+      "quick",
+      "spicy"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 18,
+    "shard": "g"
+  },
+  {
     "slug": "gooey-yoghurt-mediterranean-stir-fry",
     "title": "Gooey Yoghurt Mediterranean Stir-fry",
     "tags": [

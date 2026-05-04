@@ -1,0 +1,97 @@
+{
+  "title": "Gooey Venezuelan Cheese Quesadilla",
+  "description": "A soft, yeasty cheese quesadilla with a spicy sriracha kick, perfect for a date-night dinner.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flour tortilla",
+      "amount": "2 large flour tortillas"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "200g shredded cheese",
+      "notes": "use Queso Blanco or mozzarella for best melting"
+    },
+    {
+      "name": "sriracha sauce",
+      "amount": "2 tablespoons sriracha sauce"
+    },
+    {
+      "name": "dry active yeast",
+      "amount": "1/4 teaspoon dry active yeast",
+      "notes": "adds a subtle yeasty lift"
+    },
+    {
+      "name": "salted butter",
+      "amount": "1 tablespoon melted salted butter"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon garlic powder"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon paprika"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tablespoons chopped fresh cilantro"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large egg",
+      "notes": "whisked with yeast to create airy cheese mixture"
+    }
+  ],
+  "instructions": [
+    "Whisk the egg, yeast, garlic powder, paprika, and a splash of water until frothy.",
+    "Fold in the shredded cheese until the mixture is smooth and slightly airy.",
+    "Stir in sriracha sauce and half of the chopped cilantro to coat the cheese.",
+    "Heat a non-stick skillet over medium heat.",
+    "Brush one side of each tortilla lightly with melted butter.",
+    "Place a buttered side down, spoon the cheese mixture onto half of the tortilla, then top with the other tortilla, butter side up.",
+    "Cook until the bottom is golden and the cheese starts to bubble, about 2 to 3 minutes.",
+    "Flip carefully and cook the second side until golden and the cheese is fully gooey, about 2 to 3 minutes; serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "cheese-heavy",
+    "comfort-food",
+    "date-night",
+    "easy",
+    "quick",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 1150,
+    "protein": 75,
+    "carbs": 80,
+    "fat": 75
+  },
+  "slug": "gooey-venezuelan-cheese-quesadilla",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-venezuelan-cheese-quesadilla",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:53:01Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "gooey",
+    "mood": "date-night",
+    "technique": "whisk",
+    "primaryIngredient": "sriracha",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Cheese",
+    "descriptor": "Gooey",
+    "dishForm": "Quesadilla"
+  }
+}
