@@ -1,0 +1,100 @@
+{
+  "title": "Grilled Dutch Coconut Pancakes",
+  "description": "A tangy, bouncy pancake with a hint of sweet date, perfect for a cozy date night.",
+  "cuisine": "Dutch",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "coconut flour",
+      "amount": "100 g",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200 ml",
+      "notes": "full-fat"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "room temperature"
+    },
+    {
+      "name": "dates, pitted",
+      "amount": "50 g",
+      "notes": "chopped"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "30 ml",
+      "notes": "for sweetness"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tsp",
+      "notes": "for greasing the grill"
+    }
+  ],
+  "instructions": [
+    "Preheat a griddle or cast-iron skillet over medium heat and lightly oil it with olive oil.",
+    "Blend coconut milk, eggs, vanilla, salt, and maple syrup until smooth.",
+    "In a separate bowl, whisk coconut flour with chopped dates and a pinch of salt.",
+    "Combine the wet mixture with the dry mixture, stirring until a thick batter forms; let rest 5 minutes.",
+    "Pour 2-3 tablespoons of batter onto the hot griddle, spreading thinly to form small pancakes.",
+    "Cook 2-3 minutes on each side or until golden brown and the edges lift from the surface.",
+    "Flip carefully using a spatula and grill the other side until fully cooked.",
+    "Serve the pancakes hot, drizzled with extra maple syrup and a sprinkle of toasted coconut flakes if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "bouncy",
+    "coconut",
+    "date-night",
+    "dutch",
+    "gluten-free",
+    "grilled",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 24,
+    "carbs": 100,
+    "fat": 36
+  },
+  "slug": "grilled-dutch-coconut-pancakes",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/grilled-dutch-coconut-pancakes",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:26:06Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "bouncy-qq",
+    "mood": "date-night",
+    "technique": "score-fat",
+    "primaryIngredient": "cobnuts",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "coconut",
+    "descriptor": "Grilled",
+    "dishForm": "Pancakes"
+  }
+}
