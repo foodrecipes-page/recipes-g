@@ -1,0 +1,68 @@
+{
+  "title": "Grassy Egyptian Sea Bass Grill",
+  "description": "A snappy and flavorful vegetarian-friendly dish featuring grilled sea bass fillets served with a tandoor-grilled vegetable skewer, inspired by the midnight cravings of the Egyptian streets.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sea bass fillets",
+      "amount": "4 fillets",
+      "notes": ""
+    },
+    {
+      "name": "Tandoor spice mix",
+      "amount": "2 tbsp",
+      "notes": "Available at Middle Eastern grocery stores"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Rinse the sea bass fillets under cold water and pat them dry with a paper towel.",
+    "Season the sea bass fillets with tandoor spice mix and salt.",
+    "Thread the vegetables onto skewers, leaving a small space between each piece.",
+    "Grill the vegetable skewers for 5-7 minutes on each side, or until they're slightly charred.",
+    "Grill the sea bass fillets for 4-6 minutes on each side, or until they're cooked through and flake easily with a fork.",
+    "Serve the sea bass fillets with the grilled vegetable skewers on the side.",
+    " Garnish with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-weeknight",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "grassy-egyptian-sea-bass-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/grassy-egyptian-sea-bass-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:25:48Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "snappy",
+    "mood": "midnight-craving",
+    "technique": "tandoor",
+    "primaryIngredient": "sea bass fillets",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "sea bass",
+    "descriptor": "grassy",
+    "dishForm": "Grill"
+  }
+}

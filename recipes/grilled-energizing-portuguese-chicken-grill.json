@@ -1,0 +1,116 @@
+{
+  "title": "grilled energizing portuguese chicken grill",
+  "description": "a sour, cheese-pull, energizing portuguese dish featuring gelatine leaves, grilled to perfection. great for a quick buddhist temple-friendly meal or snack.",
+  "cuisine": "portuguese",
+  "diet": [
+    "vegan",
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1",
+      "notes": "about 1 pound total, cut into 6-8 pieces"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "3 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken seasoning",
+      "amount": "1 teaspoon",
+      "notes": "such as sage or thyme"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "gelatine leaves",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "melted vegan mozzarella cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh basil leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "preheat the grill to medium-high heat.",
+    "season the chicken pieces with chicken seasoning and black pepper.",
+    "brush the grill with olive oil to prevent sticking.",
+    "add the chicken to the grill and cook for 10-12 minutes, flipping halfway through.",
+    "while the chicken cooks, whisk together lemon juice, apple cider vinegar, and minced garlic in a small bowl.",
+    "once the chicken is cooked, brush with the lemon-garlic mixture and set aside.",
+    "soak the gelatine leaves in cold water for 5 minutes, then cut into thin strips.",
+    "arrange the gelatine strips on a plate or tray.",
+    "place the cooked chicken on top of the gelatine, followed by a drizzle of melted vegan mozzarella cheese.",
+    "garnish with chopped fresh basil leaves and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-friendly",
+    "gluten-free",
+    "high-protein",
+    "low-carb",
+    "portuguese",
+    "quick-and-easy",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 10
+  },
+  "slug": "grilled-energizing-portuguese-chicken-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/grilled-energizing-portuguese-chicken-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:26:16Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "cheese-pull",
+    "mood": "energizing",
+    "technique": "grill",
+    "primaryIngredient": "gelatine leafs",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "chicken",
+    "descriptor": "grilled energizing",
+    "dishForm": "Grill"
+  }
+}

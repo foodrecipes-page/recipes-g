@@ -1,0 +1,108 @@
+{
+  "title": "garlicky quick canadian lamb stew",
+  "description": "a mouth-watering stew featuring lamb, potatoes, and a hint of garlic. serves 4-6 people.",
+  "cuisine": "canadian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless lamb shoulder or shanks",
+      "amount": "500g",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "lamb stock",
+      "amount": "2 cups",
+      "notes": "chicken stock may be substituted"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": "for dusting lamb pieces"
+    },
+    {
+      "name": "lardons (small lamb or beef bits)",
+      "amount": "8 oz"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "heat a large Dutch oven over medium-high heat. add the lardons and cook until browned, about 5 minutes.",
+    "remove the lardons from the pot and set aside. add the lamb pieces and cook until browned, about 5 minutes.",
+    "remove the lamb from the pot and set aside with the lardons. add the onion to the pot and cook until softened, about 3 minutes.",
+    "add the garlic to the pot and cook for 1 minute. add the potatoes, lamb stock, bay leaves, thyme, salt, and black pepper to the pot.",
+    "add the lamb and lardons back to the pot. bring the stew to a boil, then reduce the heat to low and simmer, covered, until the lamb is tender, about 30 minutes.",
+    "remove the bay leaves from the pot. serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "garlicky",
+    "high-protein",
+    "lamb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "garlicky-quick-canadian-lamb-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-quick-canadian-lamb-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:26:36Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "chewy",
+    "mood": "quick-fix",
+    "technique": "lardons-render",
+    "primaryIngredient": "lamb stock",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Lamb",
+    "descriptor": "Garlicky Quick",
+    "dishForm": "Stew"
+  }
+}

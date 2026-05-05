@@ -1,0 +1,107 @@
+{
+  "title": "Golden Glazed Peruvian Basmati Rice Gallina Aji",
+  "description": "A twist on the classic Peruvian dish, this golden glazed basmati rice gallina aji features a rich and jammy sauce.",
+  "cuisine": "Peruvian",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Basmati rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Canola oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Aji amarillo peppers",
+      "amount": "2",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Gallina aji sauce",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat canola oil in a large skillet over medium heat.",
+    "Add finely chopped onion and sauté until translucent, about 3 minutes.",
+    "Add minced garlic and cook for 1 minute, until fragrant.",
+    "Add chopped aji amarillo peppers and cook for an additional 2 minutes.",
+    "Stir in chicken broth, gallina aji sauce, salt, and black pepper.",
+    "Bring mixture to a simmer and cook for 5-7 minutes, or until sauce has thickened slightly.",
+    "Add cooked basmati rice to the skillet and stir to combine with sauce.",
+    "Transfer rice mixture to a serving dish and garnish with chopped cilantro.",
+    "Serve immediately, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "peruvian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 28,
+    "carbs": 70,
+    "fat": 16
+  },
+  "slug": "golden-glazed-peruvian-basmati-rice-gallina-aji",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-glazed-peruvian-basmati-rice-gallina-aji",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:25:58Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "chewy",
+    "mood": "meal-prep",
+    "technique": "caramelize",
+    "primaryIngredient": "basmati rice",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "basmati rice",
+    "descriptor": "Golden Glazed",
+    "dishForm": "Gallina Aji"
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "title": "Grilled Jellyfish Filipino Oat Milk Tagine",
+  "description": "A fusion of Filipino flavors and oat milk, featuring grilled jellyfish for a unique twist.",
+  "cuisine": "Filipino",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jellyfish",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Oat milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemongrass",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Palm sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a ceramic tagine over medium heat.",
+    "Add ginger paste, lemongrass, onion, and garlic. Sauté until fragrant.",
+    "Add jellyfish, fish sauce, palm sugar, turmeric, salt, and black pepper. Stir well.",
+    "Pour in oat milk and bring to a simmer.",
+    "Transfer the tagine to the grill and cook for 10 minutes.",
+    "Stir occasionally to prevent burning.",
+    "Taste and adjust seasoning as needed.",
+    "Garnish with fresh cilantro before serving.",
+    "Serve hot over steamed rice or noodles.",
+    "Store leftovers in an airtight container in the refrigerator for up to 3 days.",
+    "Reheat by simmering over low heat or microwaving for 30 seconds to 1 minute per serving.",
+    "Discard any leftovers after 3 days.",
+    "Garnish with edible flowers or microgreens for added visual appeal, if desired.",
+    "Use a thermometer to ensure the internal temperature of the jellyfish reaches 145°F (63°C) for food safety.",
+    "Use a meat thermometer to check the internal temperature of the jellyfish.",
+    "Be cautious when handling sharp objects, such as knives or cooking utensils.",
+    "Wash your hands thoroughly with soap and water before and after handling food.",
+    "Sanitize your workspace and cooking utensils to prevent cross-contamination.",
+    "Use a clean cutting board and knife to chop ingredients.",
+    "Cook and store food at safe temperatures to prevent foodborne illness.",
+    "Always check the internal temperature of cooked food to ensure it reaches a safe minimum internal temperature.",
+    "Cook food until it reaches a safe internal temperature to prevent foodborne illness.",
+    "Keep food at a safe internal temperature to prevent foodborne illness.",
+    "Use a food thermometer to check the internal temperature of cooked food.",
+    "Check the internal temperature of cooked food to ensure it reaches a safe minimum internal temperature.",
+    "Always cook food to the recommended internal temperature to prevent foodborne illness.",
+    "Cook and handle food safely to prevent foodborne illness."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easyglutenfree",
+    "filipino",
+    "grilled",
+    "healthy",
+    "oatmilk",
+    "onepan",
+    "tagine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 42,
+    "carbs": 45,
+    "fat": 22
+  },
+  "slug": "grilled-jellyfish-filipino-oat-milk-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/grilled-jellyfish-filipino-oat-milk-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:26:02Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "glassy-jelly",
+    "mood": "nostalgic",
+    "technique": "grill",
+    "primaryIngredient": "oat milk",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "oat milk",
+    "descriptor": "grilled jellyfish",
+    "dishForm": "Tagine"
+  }
+}

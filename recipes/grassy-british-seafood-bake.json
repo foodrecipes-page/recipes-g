@@ -1,0 +1,124 @@
+{
+  "title": "Grassy British Seafood Bake",
+  "description": "A delightful grassy, crunchy British dish perfect for a date night, featuring a frozen seafood mix. This dish is also suitable for those following an Ayurvedic-Tamasic diet.",
+  "cuisine": "British",
+  "diet": [
+    "Ayurvedic-Tamasic",
+    "Seafood",
+    "Gluten-Free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Frozen Seafood Mix",
+      "amount": "1 package (approx. 500g)",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Dill",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Chives",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Crushed Grains of Paradise",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Line a baking dish with parchment paper for easy cleanup.",
+    "Add the frozen seafood mix, fresh parsley, fresh dill, garlic powder, lemon juice, and olive oil to the prepared baking dish.",
+    "Mix well to combine, ensuring the seafood is evenly coated with the seasonings.",
+    "Dot the top of the seafood mixture with butter.",
+    "Sprinkle crushed grains of paradise and fresh thyme over the seafood for added flavor and crunch.",
+    "Season with salt and black pepper to taste.",
+    "Cover the baking dish with aluminum foil and bake for 15 minutes.",
+    "Remove the foil and continue baking for an additional 10-12 minutes, or until the seafood is cooked through and golden brown.",
+    "Garnish with chopped fresh chives before serving.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "date-night",
+    "easy-to-make",
+    "gluten-free",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "grassy-british-seafood-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/grassy-british-seafood-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:26:02Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crunchy",
+    "mood": "date-night",
+    "technique": "bake",
+    "primaryIngredient": "frozen seafood mix",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "british",
+    "mainIngredient": "seafood",
+    "descriptor": "grassy",
+    "dishForm": "bake"
+  }
+}

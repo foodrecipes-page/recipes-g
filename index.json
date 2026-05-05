@@ -1757,6 +1757,23 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-french-wagyu-rillettes",
+    "title": "Garlicky French Wagyu Rillettes",
+    "tags": [
+      "beef",
+      "easy",
+      "entree",
+      "french",
+      "grilled",
+      "rillettes",
+      "wagyu",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 55,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-german-beef-flank-steak-bauernfristuck",
     "title": "Garlicky German Beef Flank Steak Bauernfristück",
     "tags": [
@@ -2328,6 +2345,21 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-peruvian-beef-anticuchos",
+    "title": "Garlicky Peruvian Beef Anticuchos",
+    "tags": [
+      "beef",
+      "garlic",
+      "grilled",
+      "peruvian",
+      "weeknight",
+      "yuzu"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 30,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-peruvian-cottage-cheese-stir-fry",
     "title": "Garlicky Peruvian Cottage Cheese Stir-Fry",
     "tags": [
@@ -2367,6 +2399,21 @@
     ],
     "cuisine": "portuguese",
     "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-quick-canadian-lamb-stew",
+    "title": "garlicky quick canadian lamb stew",
+    "tags": [
+      "canadian",
+      "garlicky",
+      "high-protein",
+      "lamb",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "canadian",
+    "totalTimeMin": 50,
     "shard": "g"
   },
   {
@@ -4525,6 +4572,19 @@
     "shard": "g"
   },
   {
+    "slug": "golden-glazed-peruvian-basmati-rice-gallina-aji",
+    "title": "Golden Glazed Peruvian Basmati Rice Gallina Aji",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "peruvian",
+      "weeknight"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 40,
+    "shard": "g"
+  },
+  {
     "slug": "golden-glisten-portuguese-lamb-leg-stir-fry",
     "title": "Golden Glisten Portuguese Lamb Leg Stir-Fry",
     "tags": [
@@ -6555,6 +6615,36 @@
     "shard": "g"
   },
   {
+    "slug": "grassy-british-seafood-bake",
+    "title": "Grassy British Seafood Bake",
+    "tags": [
+      "british",
+      "date-night",
+      "easy-to-make",
+      "gluten-free",
+      "one-pan",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 40,
+    "shard": "g"
+  },
+  {
+    "slug": "grassy-egyptian-sea-bass-grill",
+    "title": "Grassy Egyptian Sea Bass Grill",
+    "tags": [
+      "easy-weeknight",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "vegetarian"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "grassy-golden-dutch-grains-pilaf",
     "title": "Grassy Golden Dutch Grains Pilaf",
     "tags": [
@@ -6888,6 +6978,24 @@
     "shard": "g"
   },
   {
+    "slug": "grilled-energizing-portuguese-chicken-grill",
+    "title": "grilled energizing portuguese chicken grill",
+    "tags": [
+      "buddhist-friendly",
+      "gluten-free",
+      "high-protein",
+      "low-carb",
+      "portuguese",
+      "quick-and-easy",
+      "vegan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "portuguese",
+    "totalTimeMin": 27,
+    "shard": "g"
+  },
+  {
     "slug": "grilled-fil-pasta-meal-prep",
     "title": "Rich Flaky Grilled Fil-Pasta Meal-Prep",
     "tags": [
@@ -6911,6 +7019,21 @@
       "halal"
     ],
     "cuisine": "Kenyan",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
+    "slug": "grilled-flaky-mediterranean-fish-bake",
+    "title": "Grilled Flaky Mediterranean Fish Bake",
+    "tags": [
+      "fish",
+      "grilled",
+      "mediterranean",
+      "one-pan",
+      "quinoa",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
     "totalTimeMin": 35,
     "shard": "g"
   },
@@ -6967,6 +7090,23 @@
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
+    "slug": "grilled-jellyfish-filipino-oat-milk-tagine",
+    "title": "Grilled Jellyfish Filipino Oat Milk Tagine",
+    "tags": [
+      "easyglutenfree",
+      "filipino",
+      "grilled",
+      "healthy",
+      "oatmilk",
+      "onepan",
+      "tagine",
+      "weeknight"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 50,
     "shard": "g"
   },
   {

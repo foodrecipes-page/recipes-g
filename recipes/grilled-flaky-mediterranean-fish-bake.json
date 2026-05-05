@@ -1,0 +1,115 @@
+{
+  "title": "Grilled Flaky Mediterranean Fish Bake",
+  "description": "A flavorful and festive Mediterranean dish featuring flaky fish with a peppery kick, served with al dente vegetables and a side of fluffy quinoa.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fresh sea bass fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Quinoa",
+      "amount": "1",
+      "notes": "Rinsed and drained"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2",
+      "notes": "Divided"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fresh oregano",
+      "amount": "1",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1",
+      "notes": "Optional"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Zucchini",
+      "amount": "2",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1",
+      "notes": "Sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Rinse and pat dry the sea bass fillets.",
+    "Season the fish with salt, garlic, and red pepper flakes.",
+    "Grill the fish for 4 minutes per side or until cooked through.",
+    "Meanwhile, cook quinoa according to package instructions.",
+    "In a large bowl, whisk together lemon juice and olive oil.",
+    "Add sliced zucchini and red bell pepper to the bowl and toss to coat.",
+    "Grill the vegetables for 2-3 minutes per side or until tender.",
+    "Fluff cooked quinoa with a fork and stir in chopped parsley.",
+    "To assemble the dish, place a grilled fish fillet on top of a bed of quinoa and serve with grilled vegetables on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "grilled",
+    "mediterranean",
+    "one-pan",
+    "quinoa",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "grilled-flaky-mediterranean-fish-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/grilled-flaky-mediterranean-fish-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:26:35Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "fluffy",
+    "mood": "festive",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "fish",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "mediterranean",
+    "mainIngredient": "fish",
+    "descriptor": "grilled flaky",
+    "dishForm": "bake"
+  }
+}
