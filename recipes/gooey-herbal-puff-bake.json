@@ -1,0 +1,101 @@
+{
+  "title": "Gooey Herbal Puff Bake",
+  "description": "A weeknight Dutch dish featuring scotch bonnet and lamination-puff. Ayurvedic-tamasic-friendly and perfect for a relaxing evening.",
+  "cuisine": "Dutch",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Scotch Bonnet Pepper",
+      "amount": 1,
+      "notes": "Use gloves when handling."
+    },
+    {
+      "name": "Garlic",
+      "amount": 3,
+      "notes": ""
+    },
+    {
+      "name": "Gruy\u00106r\u00143 Cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Herbs (such as thyme)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": 2,
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees F.",
+    "Mix together the flour, salt, and herbs.",
+    "Dice the scotch bonnet pepper and garlic.",
+    "In a separate bowl, whisk together the eggs and milk.",
+    "Melt the butter and mix it with the gruy\u00106r\u00143 cheese.",
+    "Combine the wet and dry ingredients to form a dough.",
+    "Roll out the dough and place it in a baking dish.",
+    "Bake for 25 minutes, then reduce heat to 350 degrees F and bake for an additional 10-15 minutes or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "herbal",
+    "one-pan",
+    "scotch-bonnet",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 43,
+    "fat": 24
+  },
+  "slug": "gooey-herbal-puff-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-herbal-puff-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:56:12Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "gooey",
+    "mood": "weeknight",
+    "technique": "lamination-puff",
+    "primaryIngredient": "scotch bonnet",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "herbal",
+    "mainIngredient": "puff",
+    "descriptor": "gooey",
+    "dishForm": "bake"
+  }
+}
