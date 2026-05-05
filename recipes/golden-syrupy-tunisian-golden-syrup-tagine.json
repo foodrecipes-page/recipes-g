@@ -1,0 +1,121 @@
+{
+  "title": "Golden Syrupy Tunisian Tagine",
+  "description": "A light and umami-rich tagine dish featuring the sweetness of golden syrup, perfect for a crowd-pleasing meal. Serve warm over couscous or rice.",
+  "cuisine": "tunisian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1.2 kg",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 cm",
+      "notes": "grated"
+    },
+    {
+      "name": "golden syrup",
+      "amount": "200 ml",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "couscous",
+      "amount": "200 g",
+      "notes": ""
+    },
+    {
+      "name": "ras el hanout",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped",
+      "difficulty": "easy",
+      "tags": [
+        "high-protein",
+        "tunisian",
+        "weeknight",
+        "one-pan"
+      ],
+      "nutrition": {
+        "calories": 480,
+        "protein": 30,
+        "carbs": 60,
+        "fat": 12
+      }
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in the bottom of a tagine or large Dutch oven over medium heat.",
+    "Add the sliced onion and cook until softened, about 5 minutes.",
+    "Add the grated ginger and cook for 1 minute, stirring constantly.",
+    "Add the chicken thighs, ras el hanout, salt, and black pepper. Cook, stirring occasionally, until the chicken is browned on all sides, about 5-7 minutes.",
+    "Add the golden syrup, chopped parsley, and 200 grams of couscous to the tagine. Stir to combine.",
+    "Bring the mixture to a boil, then cover the tagine and transfer it to the preheated oven.",
+    "Bake for 20-25 minutes, or until the chicken is cooked through and the couscous is tender.",
+    "Remove the tagine from the oven and let it rest for 5 minutes before serving.",
+    "Fluff the couscous with a fork and serve the chicken and sauce over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "tunisian",
+    "dinner"
+  ],
+  "slug": "golden-syrupy-tunisian-golden-syrup-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-syrupy-tunisian-golden-syrup-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:47:32Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "light",
+    "mood": "crowd-pleaser",
+    "technique": "tagine-cook",
+    "primaryIngredient": "golden syrup",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "tunisian",
+    "mainIngredient": "golden syrup",
+    "descriptor": "golden syrupy",
+    "dishForm": "tagine"
+  }
+}

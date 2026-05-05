@@ -3011,6 +3011,20 @@
     "shard": "g"
   },
   {
+    "slug": "garlicy-creamy-energizing-dutch-pepper-tagine",
+    "title": "Garlicy Creamy Energizing Dutch Pepper Tagine",
+    "tags": [
+      "dairy-free",
+      "dutch",
+      "energizing",
+      "pepper",
+      "tagine"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 30,
+    "shard": "g"
+  },
+  {
     "slug": "garlicy-dumplings-and-noodles",
     "title": "Garlicy Dumplings and Noodles",
     "tags": [
@@ -4930,6 +4944,17 @@
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 80,
+    "shard": "g"
+  },
+  {
+    "slug": "golden-syrupy-tunisian-golden-syrup-tagine",
+    "title": "Golden Syrupy Tunisian Tagine",
+    "tags": [
+      "tunisian",
+      "dinner"
+    ],
+    "cuisine": "tunisian",
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {

@@ -1,0 +1,100 @@
+{
+  "title": "Garlicy Creamy Energizing Dutch Pepper Tagine",
+  "description": "A Dutch-inspired dish featuring a flavorful mix of peppers, garlic, and creamy sauce, making it a perfect energizing meal for any time of day.",
+  "cuisine": "Dutch",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Score-fat (coconut oil or avocado oil)",
+      "amount": "2 tablespoons",
+      "notes": "for saut\u00123ing"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic granules",
+      "amount": "2 teaspoons",
+      "notes": "or 3-4 cloves minced fresh garlic"
+    },
+    {
+      "name": "Diced mixed peppers (bell, jalape\u0012o, etc.)",
+      "amount": "2 cups",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "Dutch pepper mix (or substitute with paprika, cayenne, and black pepper)",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "1 cup",
+      "notes": "low-sodium, gluten-free"
+    },
+    {
+      "name": "Dairy-free cream (coconut cream or soy creamer)",
+      "amount": "1 cup",
+      "notes": "chilled, shaken before use"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "adjust as needed"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of score-fat in a large tagine pot over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3 minutes.",
+    "Add the garlic granules and cook for another minute, stirring constantly to prevent burning.",
+    "Add the mixed peppers and cook for 5 minutes, stirring occasionally, until they start to soften.",
+    "Stir in the Dutch pepper mix and cook for 1 minute.",
+    "Add the vegetable broth and bring the mixture to a simmer.",
+    "Reduce the heat to medium-low and cook, covered, for 10 minutes, or until the peppers are tender.",
+    "Stir in the dairy-free cream and cook for an additional 2-3 minutes, or until heated through.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with fresh herbs or a sprinkle of paprika, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "dutch",
+    "energizing",
+    "pepper",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "garlicy-creamy-energizing-dutch-pepper-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicy-creamy-energizing-dutch-pepper-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:47:41Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "creamy",
+    "mood": "energizing",
+    "technique": "score-fat",
+    "primaryIngredient": "garlic granules",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "pepper",
+    "descriptor": "garlicy creamy energizing",
+    "dishForm": "Tagine"
+  }
+}
