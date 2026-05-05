@@ -1,0 +1,107 @@
+{
+  "title": "Gooey Thai Buttermilk Bake",
+  "description": "A jammy, gooey, and flavorful Thai-inspired dish perfect for a lazy Sunday morning. This recipe combines the creaminess of buttermilk with the savory flavor of bonito flakes.",
+  "cuisine": "Thai",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Buttermilk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Large Eggs",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Butter, melted",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Macadamia Nuts",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dried Thai Basil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Bonito Flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a medium bowl, whisk together the buttermilk, eggs, sugar, and melted butter.",
+    "Add the macadamia nuts, Thai basil, bonito flakes, salt, and black pepper to the bowl and stir to combine.",
+    "Pour the batter into a greased 8-inch square baking dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "comfortfood",
+    "one-pan",
+    "thaicuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 14,
+    "carbs": 38,
+    "fat": 26
+  },
+  "slug": "gooey-thai-buttermilk-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-thai-buttermilk-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:41:52Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "gooey",
+    "mood": "lazy-sunday",
+    "technique": "bonito-shave",
+    "primaryIngredient": "buttermilk",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "buttermilk",
+    "descriptor": "gooey",
+    "dishForm": "Bake"
+  }
+}

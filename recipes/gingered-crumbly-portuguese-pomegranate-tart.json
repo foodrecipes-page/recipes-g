@@ -1,0 +1,113 @@
+{
+  "title": "gingered crumbly portuguese pomegranate tart",
+  "description": "an individual flavorful dessert featuring a crumbly pastry, flambe portuguese pomegranate filling, and a touch of ginger.",
+  "cuisine": "portuguese",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "250",
+      "notes": "for the pastry crust"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "125",
+      "notes": "for the pastry crust"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "100",
+      "notes": "for the pomegranate filling"
+    },
+    {
+      "name": "pomegranate juice",
+      "amount": "150",
+      "notes": "for the pomegranate filling"
+    },
+    {
+      "name": "crystallized ginger",
+      "amount": "20",
+      "notes": "for the filling"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "pomegranate seeds",
+      "amount": "100",
+      "notes": "for garnish"
+    },
+    {
+      "name": "honey",
+      "amount": "20",
+      "notes": "for the filling"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "20",
+      "notes": "for the pomegranate filling"
+    },
+    {
+      "name": "ginger powder",
+      "amount": "5",
+      "notes": "for the filling"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 375f (190c).",
+    "in a medium bowl, whisk together flour, sugar, and salt.",
+    "add butter to the dry ingredients and use a pastry blender or your fingers to work it into the flour mixture until it resembles coarse crumbs.",
+    "press the mixture into the bottom and up the sides of 4 individual mini cocottes.",
+    "in a separate bowl, whisk together pomegranate juice, honey, cornstarch, and ginger powder until smooth.",
+    "add the crystallized ginger to the pomegranate mixture and stir to combine.",
+    "pour the pomegranate mixture into the pastry-lined cocottes.",
+    "bake for 25 minutes, or until the pastry is golden brown and the filling is set.",
+    "while the tarts are baking, prepare a flambé by igniting a small amount of brandy in a saucepan over medium heat.",
+    "once the tarts are done, carefully place a mini cocotte on a heatproof surface and gently pour the flambé over the top of the tart.",
+    "return the tart to the oven and bake for an additional 2-3 minutes, or until the pastry is golden brown and the filling is caramelized.",
+    "remove the tart from the oven and let it cool for 5 minutes before garnishing with pomegranate seeds and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "ayurvedic",
+    "cocotte",
+    "dessert",
+    "flambe",
+    "individual",
+    "mini",
+    "portuguese",
+    "post-workout",
+    "tamasic-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "gingered-crumbly-portuguese-pomegranate-tart",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/gingered-crumbly-portuguese-pomegranate-tart",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:41:15Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crumbly",
+    "mood": "post-workout",
+    "technique": "flambe",
+    "primaryIngredient": "pomegranate",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "portuguese",
+    "mainIngredient": "pomegranate",
+    "descriptor": "Gingered Crumbly",
+    "dishForm": "Tart"
+  }
+}

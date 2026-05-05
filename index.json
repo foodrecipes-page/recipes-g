@@ -3516,6 +3516,24 @@
     "shard": "g"
   },
   {
+    "slug": "gingered-crumbly-portuguese-pomegranate-tart",
+    "title": "gingered crumbly portuguese pomegranate tart",
+    "tags": [
+      "ayurvedic",
+      "cocotte",
+      "dessert",
+      "flambe",
+      "individual",
+      "mini",
+      "portuguese",
+      "post-workout",
+      "tamasic-friendly"
+    ],
+    "cuisine": "portuguese",
+    "totalTimeMin": 45,
+    "shard": "g"
+  },
+  {
     "slug": "gingered-crunchy-scottish-raspberry-eton-mess",
     "title": "Gingered Crunchy Scottish Raspberry Eton Mess",
     "tags": [
@@ -6312,6 +6330,21 @@
       "fodmap-friendly"
     ],
     "cuisine": "Mediterranean",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
+    "slug": "gooey-thai-buttermilk-bake",
+    "title": "Gooey Thai Buttermilk Bake",
+    "tags": [
+      "breakfast",
+      "brunch",
+      "comfortfood",
+      "one-pan",
+      "thaicuisine",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
     "totalTimeMin": 35,
     "shard": "g"
   },
