@@ -1,0 +1,105 @@
+{
+  "title": "Shoyu Ramen",
+  "description": "A classic Japanese Shoyu Ramen from Shikoku, known for its rich and savory flavor, velvety texture, and aromatic golden hue. This low-glycemic-friendly dish is perfect for a midnight craving.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tonkotsu (pork bone broth)",
+      "amount": "4 cups",
+      "notes": "use store-bought or homemade broth"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Golden Caster Sugar",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Bok Choy",
+      "amount": "1/2 head",
+      "notes": "chopped"
+    },
+    {
+      "name": "Egg Noodles",
+      "amount": "8 ounces",
+      "notes": "dried"
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a large pot over medium heat. ",
+    "Add sliced ginger and cook for 1 minute, until fragrant.",
+    "Add minced garlic and cook for another 1-2 minutes, until golden brown.",
+    "Pour in pork bone broth and bring to a boil.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Stir in soy sauce and golden caster sugar. ",
+    "Cook egg noodles according to package instructions and set aside.",
+    "In a small pan, heat a tablespoon of vegetable oil over medium heat. ",
+    "Flamb\u00020 the oil until slightly caramelized.",
+    "Add chopped scallions and cook until slightly wilted.",
+    "To assemble the ramen, place cooked noodles in a bowl and ladle hot broth over the top.",
+    "Top with chopped bok choy, flamb\u00020 scallions, and a soft-boiled egg (optional). "
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "high-protein",
+    "japanese",
+    "ramen",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 60,
+    "fat": 30
+  },
+  "slug": "golden-japanese-dish-shoyu-ramen",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-japanese-dish-shoyu-ramen",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:45:06Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "velvety",
+    "mood": "midnight-craving",
+    "technique": "flambe",
+    "primaryIngredient": "golden caster sugar",
+    "diet": "low-glycemic",
+    "region": "shikoku",
+    "cuisineAdjective": "japanese",
+    "mainIngredient": "dish",
+    "descriptor": "golden",
+    "dishForm": "Shoyu Ramen"
+  }
+}

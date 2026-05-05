@@ -4818,6 +4818,19 @@
     "shard": "g"
   },
   {
+    "slug": "golden-japanese-dish-shoyu-ramen",
+    "title": "Shoyu Ramen",
+    "tags": [
+      "high-protein",
+      "japanese",
+      "ramen",
+      "weeknight"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 40,
+    "shard": "g"
+  },
+  {
     "slug": "golden-roasted-portuguese-pork-roast",
     "title": "Golden Roasted Portuguese Pork Roast",
     "tags": [
@@ -5733,6 +5746,21 @@
     ],
     "cuisine": "Italian (Neapolitan)",
     "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
+    "slug": "gooey-jamaican-pepper-toast",
+    "title": "Gooey Jamaican Pepper Toast",
+    "tags": [
+      "comfort-food",
+      "high-fat",
+      "jamaican-cuisine",
+      "one-pan",
+      "snack-ideas",
+      "weeknight"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 22,
     "shard": "g"
   },
   {
@@ -7723,6 +7751,20 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 32,
+    "shard": "g"
+  },
+  {
+    "slug": "ground-galangal-ginger-syrian-galangal-bake",
+    "title": "Ground Galangal Ginger Syrian Bake",
+    "tags": [
+      "galangal",
+      "high-protein",
+      "one-pan",
+      "syrian",
+      "weeknight"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {

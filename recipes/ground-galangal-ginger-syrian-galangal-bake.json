@@ -1,0 +1,96 @@
+{
+  "title": "Ground Galangal Ginger Syrian Bake",
+  "description": "A savory and juicy Syrian dish made with galangal paste, perfect for a weeknight dinner.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground lamb",
+      "amount": "1 pound"
+    },
+    {
+      "name": "galangal paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon, minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large copper pot, heat the olive oil over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the ground lamb and cook, breaking it up with a spoon, until browned, about 5 minutes.",
+    "Add the galangal paste, ginger, salt, and black pepper. Stir to combine.",
+    "Transfer the mixture to a baking dish and drizzle with lemon juice.",
+    "Bake for 20 minutes, or until the meat is cooked through.",
+    "Sprinkle with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "galangal",
+    "high-protein",
+    "one-pan",
+    "syrian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "ground-galangal-ginger-syrian-galangal-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/ground-galangal-ginger-syrian-galangal-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:43:51Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "juicy",
+    "mood": "weeknight",
+    "technique": "bake",
+    "primaryIngredient": "galangal paste",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "galangal",
+    "descriptor": "Ground Galangal Ginger",
+    "dishForm": "Bake"
+  }
+}
