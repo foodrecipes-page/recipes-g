@@ -1,0 +1,75 @@
+{
+  "title": "Gcharred Chewy Flour Pilaf Donabe",
+  "description": "A crowd-pleasing Canadian dish featuring charred flour cooked in a donabe, egg-free-friendly and ideal for a quick dinner.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "200g plain flour",
+      "amount": "g"
+    },
+    {
+      "name": "150ml water or broth",
+      "amount": "ml"
+    },
+    {
+      "name": "3 tbsp rendered fat (e.g. duck fat)",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 tsp sea salt",
+      "amount": ""
+    },
+    {
+      "name": "1/2 tsp black pepper",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Place flour and water/broth in a saucepan over medium heat.",
+    "Stir until smooth, then add rendered fat and continue to stir.",
+    "Simmer for about 5 minutes or until the mixture begins to char and thicken.",
+    "Gradually stir in salt and pepper until evenly distributed.",
+    "Transfer the pilaf into a donabe dish which will help maintain heat during serving.",
+    "Serve warm as a side dish or appetizer."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-dish",
+    "charred-flour-pilaf",
+    "donabe-cookware",
+    "egg-free-friendly",
+    "flour-based",
+    "one-pan-dinner",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 12,
+    "carbs": 78,
+    "fat": 30
+  },
+  "slug": "gcharred-chewy-flour-pilaf-donabe",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gcharred-chewy-flour-pilaf-donabe",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T00:28:03Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "chewy",
+    "mood": "crowd-pleaser",
+    "technique": "render-fat",
+    "primaryIngredient": "plain flour",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "flour",
+    "descriptor": "Charred Chewy",
+    "dishForm": "Pilaf"
+  }
+}
