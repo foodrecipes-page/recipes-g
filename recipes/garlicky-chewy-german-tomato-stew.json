@@ -1,0 +1,96 @@
+{
+  "title": "Garlicky Chewy German Tomato Stew",
+  "description": "A hearty, garlicky, and chewy German-inspired tomato stew made with fresh tomatoes and a hint of garlic, perfect for a weeknight dinner. This recipe uses a traditional German cooking vessel called a Kazan cauldron, which adds a rich and earthy flavor to the dish.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "canned crushed tomatoes",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "fresh garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pork sausage",
+      "amount": "1 pound",
+      "notes": "German-style sausage, sliced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "to thicken the stew"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a Kazan cauldron over medium heat.",
+    "Add the sliced sausage and cook until browned, about 5 minutes.",
+    "Add the chopped onion and cook until softened, about 3 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Stir in the caraway seeds, flour, and crushed tomatoes.",
+    "Add the beef broth and bring the mixture to a simmer.",
+    "Reduce heat to low and let cook for 15 minutes, or until the stew has thickened slightly.",
+    "Season with salt to taste, if desired.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "homestyle",
+    "low-sodium",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "garlicky-chewy-german-tomato-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-chewy-german-tomato-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:20:39Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "chewy",
+    "mood": "quick-fix",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "tomato puree",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Tomato",
+    "descriptor": "Garlicky, Chewy",
+    "dishForm": "Stew"
+  }
+}

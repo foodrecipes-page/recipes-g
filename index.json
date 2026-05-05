@@ -656,6 +656,20 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-chewy-german-tomato-stew",
+    "title": "Garlicky Chewy German Tomato Stew",
+    "tags": [
+      "german",
+      "homestyle",
+      "low-sodium",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 30,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-chewy-greek-lentils-stew",
     "title": "Garlicky Chewy Greek Lentils Stew",
     "tags": [
@@ -2267,6 +2281,20 @@
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 110,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-molten-comforting-venezuelan-dish-pilaf",
+    "title": "Garlicky Molten Comforting Venezuelan Dish Pilaf",
+    "tags": [
+      "comforting",
+      "low-carb",
+      "spherification",
+      "vegan-option",
+      "weeknight"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 45,
     "shard": "g"
   },
   {
@@ -5010,6 +5038,23 @@
     "shard": "g"
   },
   {
+    "slug": "gooey-creamy-ethiopian-tagliatelle-pasta",
+    "title": "Gooey Creamy Ethiopian Tagliatelle Pasta",
+    "tags": [
+      "buttery",
+      "comfort-food",
+      "cozy",
+      "creamy",
+      "ethiopian",
+      "one-pan",
+      "tagliatelle",
+      "weeknight"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
     "slug": "gooey-crumbled-cheese-ukranian",
     "title": "Gooey Crumbled Cheese Ukranian",
     "tags": [
@@ -6495,6 +6540,22 @@
     ],
     "cuisine": "tunisian",
     "totalTimeMin": 75,
+    "shard": "g"
+  },
+  {
+    "slug": "grassy-portuguese-fish-paella",
+    "title": "grassy portuguese fish paella",
+    "tags": [
+      "fish",
+      "high-protein",
+      "low-glycemic",
+      "one-pan",
+      "paella",
+      "portuguese",
+      "weeknight"
+    ],
+    "cuisine": "portuguese",
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {

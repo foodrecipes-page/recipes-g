@@ -1,0 +1,104 @@
+{
+  "title": "Gooey Creamy Ethiopian Tagliatelle Pasta",
+  "description": " Creamy, buttery, and cozy, this Ethiopian-inspired dish is a unique twist on traditional pasta. This recipe is perfect for a cold winter night, or any time you want a comforting, no-fuss meal.",
+  "cuisine": "Ethiopian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tagliatelle pasta",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Berbere spice blend",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Ghee or vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Grated Ras el hanout cheese",
+      "amount": "1/2 cup",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil. Cook the tagliatelle pasta according to the package instructions until al dente. Reserve 1 cup of pasta water before draining the tagliatelle. In a large skillet, melt 1 tablespoon of butter over medium heat. Add the ghee or vegetable oil and swirl to combine. Add the berbere spice blend and stir to combine. Add the ground cumin and ground coriander and stir to combine. Add the salt and black pepper and stir to combine. Add the heavy cream and stir to combine. Bring the mixture to a simmer and let cook for 2-3 minutes or until slightly thickened.",
+    "Add the cooked tagliatelle pasta to the skillet with the creamy sauce. Toss the pasta to coat with the sauce, adding some reserved pasta water if needed to achieve a creamy consistency.",
+    "Transfer the pasta to a serving vessel, such as a slate tile. Top with grated Ras el hanout cheese, if using.",
+    "Serve immediately, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buttery",
+    "comfort-food",
+    "cozy",
+    "creamy",
+    "ethiopian",
+    "one-pan",
+    "tagliatelle",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 630,
+    "protein": 12,
+    "carbs": 80,
+    "fat": 34
+  },
+  "slug": "gooey-creamy-ethiopian-tagliatelle-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-creamy-ethiopian-tagliatelle-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:20:41Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "creamy",
+    "mood": "cozy",
+    "technique": "knead",
+    "primaryIngredient": "tagliatelle",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "tagliatelle",
+    "descriptor": "Gooey Creamy",
+    "dishForm": "Pasta"
+  }
+}

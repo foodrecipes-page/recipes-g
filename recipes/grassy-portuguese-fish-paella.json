@@ -1,0 +1,111 @@
+{
+  "title": "grassy portuguese fish paella",
+  "description": "grassy portuguese fish paella is a shattering solo-dinner dish featuring cranberry and a low-glycemic-friendly marinade",
+  "cuisine": "portuguese",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fatty fish (such as salmon) cut into 1-inch pieces",
+      "amount": "1.5 pounds",
+      "notes": "preferably wild-caught"
+    },
+    {
+      "name": "cranberry juice",
+      "amount": "1 cup",
+      "notes": "low-sugar, unsweetened"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": "dry, low-tannin"
+    },
+    {
+      "name": "fish stock",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "safran threads",
+      "amount": "1/2 teaspoon",
+      "notes": "high-quality, organic"
+    }
+  ],
+  "instructions": [
+    "heat olive oil in a large paella pan over medium-high heat",
+    "add onion and cook until translucent, about 5 minutes",
+    "add garlic and cook for an additional minute",
+    "add fish and cook until opaque, about 3 minutes",
+    "add chili flakes and cook for 1 minute",
+    "add white wine and cook until reduced by half, about 2 minutes",
+    "add fish stock and bring to a simmer",
+    "add cranberry juice and lemon juice, and stir to combine",
+    "add fish and cook until cooked through, about 5 minutes",
+    "sprinkle with safran threads and serve"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "high-protein",
+    "low-glycemic",
+    "one-pan",
+    "paella",
+    "portuguese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "grassy-portuguese-fish-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/grassy-portuguese-fish-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:21:04Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "shattering",
+    "mood": "solo-dinner",
+    "technique": "marinate",
+    "primaryIngredient": "cranberry",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "portuguese",
+    "mainIngredient": "fish",
+    "descriptor": "grassy",
+    "dishForm": "paella"
+  }
+}
