@@ -1,0 +1,123 @@
+{
+  "title": "Ginger Charred Algerian Lamb Tagine",
+  "description": "A charred, creamy, and festive Algerian dish featuring Vin Santo and infused oil, perfect for a special occasion. This recipe is a Mediterranean-inspired delight that's easy to make and serves a crowd.",
+  "cuisine": "algerian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "preferably with the fat cap on"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 tablespoons",
+      "notes": "fresh, grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "infused with coriander and cumin"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "flaky sea"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "vin santo",
+      "amount": "2 tablespoons",
+      "notes": "sweet, Italian dessert wine"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 bunch",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425\u00140F (220\u001ac).",
+    "Season the lamb shoulder with salt, black pepper, cumin, coriander, and paprika.",
+    "Heat the infused oil in a large Dutch oven over medium-high heat. Sear the lamb shoulder until browned on all sides, about 5 minutes. Remove the lamb from the pot and set it aside.",
+    "Reduce the heat to medium and add the chopped onion to the pot. Cook until the onion is softened and lightly browned, about 8 minutes.",
+    "Add the minced garlic to the pot and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the chickpeas, ginger, and Vin Santo to the pot. Stir to combine.",
+    "Return the lamb shoulder to the pot and bring the mixture to a simmer.",
+    "Cover the pot with a lid and transfer it to the preheated oven. Braise the lamb until tender and falling apart, about 2 hours and 30 minutes.",
+    "Remove the pot from the oven and let it cool slightly. Use two forks to shred the lamb into bite-sized pieces.",
+    "Stir in the chopped parsley and serve the tagine hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "comfort-food",
+    "lamb",
+    "mediterranean",
+    "slow-cooker",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 26
+  },
+  "slug": "ginger-charred-algerian-lamb-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/ginger-charred-algerian-lamb-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:40:24Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "creamy",
+    "mood": "festive",
+    "technique": "infuse-oil",
+    "primaryIngredient": "vin-santo",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Lamb",
+    "descriptor": "Ginger Charred",
+    "dishForm": "Tagine"
+  }
+}
