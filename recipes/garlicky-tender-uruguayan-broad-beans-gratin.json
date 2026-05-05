@@ -1,0 +1,108 @@
+{
+  "title": "Garlicky Tender Uruguayan Broad Beans Gratin",
+  "description": "A nostalgic Uruguayan dish featuring tender broad beans in a garlicky creamy sauce, topped with a crispy bonito shave. This recipe is Jain-friendly and perfect for a comforting dinner or lunch.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "broad beans",
+      "amount": "1 pound fresh or 1 1/2 cups frozen",
+      "notes": "thawed if frozen"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "chopped tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": ""
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "dairy-free milk",
+      "amount": "1 cup",
+      "notes": "such as soy or almond milk"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large saucepan, heat the olive oil over medium heat. Add the garlic and onion and cook until softened, about 5 minutes.",
+    "Add the broad beans, chopped tomatoes, vegetable broth, and dried oregano to the saucepan. Season with salt and pepper to taste.",
+    "Bring the mixture to a simmer and cook until the broad beans are tender, about 10-12 minutes.",
+    "Stir in the dairy-free milk and cook for an additional 2-3 minutes, until heated through.",
+    "Transfer the mixture to a baking dish and top with a layer of bonito flakes.",
+    "Bake in the preheated oven for 15-20 minutes, until the top is golden brown and the dish is heated through.",
+    "Serve hot, garnished with additional bonito flakes if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lactose-free",
+    "vegan",
+    "vegetarian",
+    "weekday"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "garlicky-tender-uruguayan-broad-beans-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-tender-uruguayan-broad-beans-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:15:29Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "tender",
+    "mood": "nostalgic",
+    "technique": "bonito-shave",
+    "primaryIngredient": "broad beans",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "broad beans",
+    "descriptor": "garlicky tender",
+    "dishForm": "Gratin"
+  }
+}

@@ -1540,6 +1540,22 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-fluffy-brazilian-garlic-bowl",
+    "title": "Garlicky Fluffy Brazilian Garlic Bowl",
+    "tags": [
+      "brazilian",
+      "fluffy",
+      "garlicky",
+      "kid-friendly",
+      "one-pan",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-fluffy-canadian-chicken-roast",
     "title": "Garlicky Fluffy Canadian Chicken Roast",
     "tags": [],
@@ -2180,6 +2196,20 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-mexican-narutomaki-tacos",
+    "title": "Garlicky Mexican Narutomaki Tacos",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "mexican",
+      "norteno",
+      "show-off"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-mexican-oyster-ceviche",
     "title": "Garlicky Mexican Oyster Ceviche",
     "tags": [
@@ -2582,6 +2612,20 @@
     "tags": [],
     "cuisine": "Norwegian",
     "totalTimeMin": null,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-tender-uruguayan-broad-beans-gratin",
+    "title": "Garlicky Tender Uruguayan Broad Beans Gratin",
+    "tags": [
+      "comfort-food",
+      "lactose-free",
+      "vegan",
+      "vegetarian",
+      "weekday"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
@@ -3285,6 +3329,20 @@
     ],
     "cuisine": "Egyptian",
     "totalTimeMin": 80,
+    "shard": "g"
+  },
+  {
+    "slug": "glassy-jelly-irish-almonds-hash",
+    "title": "Glassy-Jelly Irish Almonds Hash",
+    "tags": [
+      "brunch",
+      "one-pan",
+      "savory",
+      "sweet",
+      "weekend"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {

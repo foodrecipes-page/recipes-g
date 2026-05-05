@@ -1,0 +1,100 @@
+{
+  "title": "Garlicky Mexican Narutomaki Tacos",
+  "description": "A show-stopping, flavorful taco dish featuring crumbly narutomaki, sweet caramelized onions, and a hint of garlic.",
+  "cuisine": "mexican",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "narutomaki (Japanese fish cake)",
+      "amount": "4 pieces",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "8",
+      "notes": ""
+    },
+    {
+      "name": "salsa",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "avocado oil",
+      "amount": "2 tbsp",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": "gluten-free"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of avocado oil in a large skillet over medium heat.",
+    "Caramelize the onion by cooking it for 10 minutes, stirring occasionally.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the chili powder and cumin. Cook for 1 minute, stirring constantly.",
+    "Add the narutomaki pieces. Cook for 2 minutes, flipping halfway through.",
+    "Warm the corn tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing 1-2 pieces of narutomaki onto each tortilla, followed by a spoonful of salsa, a sprinkle of caramelized onion, and a squeeze of lime juice.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "mexican",
+    "norteno",
+    "show-off"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 35
+  },
+  "slug": "garlicky-mexican-narutomaki-tacos",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-mexican-narutomaki-tacos",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:14:52Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crumbly",
+    "mood": "show-off",
+    "technique": "caramelize",
+    "primaryIngredient": "narutomaki",
+    "diet": "gluten-free",
+    "region": "norteño",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Narutomaki",
+    "descriptor": "Garlicky",
+    "dishForm": "Tacos"
+  }
+}
