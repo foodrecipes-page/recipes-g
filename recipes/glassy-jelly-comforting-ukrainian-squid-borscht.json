@@ -1,0 +1,57 @@
+{
+  "title": "glassy-jelly comforting ukrainian squid borscht",
+  "description": "a hearty, comforting ukrainian dish featuring squid in a glassy-jelly broth, inspired by traditional borscht recipes. perfect for a cozy night in.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sliced squid",
+      "amount": "1 pound",
+      "notes": "fresh or frozen"
+    }
+  ],
+  "instructions": [
+    "chop the squid into bite-sized pieces and set aside.",
+    "heat 2 tablespoons of oil in a large pot over medium heat.",
+    "add the sliced onions and cook until they're translucent, about 5 minutes.",
+    "add the minced garlic and cook for another minute, stirring constantly."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty",
+    "seafood",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "glassy-jelly-comforting-ukrainian-squid-borscht",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/glassy-jelly-comforting-ukrainian-squid-borscht",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:34:08Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "glassy-jelly",
+    "mood": "comforting",
+    "technique": "rest",
+    "primaryIngredient": "squid",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Squid",
+    "descriptor": "Glassy-Jelly Comforting",
+    "dishForm": "Borscht"
+  }
+}

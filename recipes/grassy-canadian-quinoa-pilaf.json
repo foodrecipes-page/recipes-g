@@ -1,0 +1,126 @@
+{
+  "title": "Grassy Canadian Quinoa Pilaf",
+  "description": "A comforting and healthy dish featuring quinoa, vegetables, and a hint of grassy flavor. Perfect for a weeknight dinner or lunch.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Quinoa",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Baby kale",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Rinse the quinoa and cook according to package instructions with 2 cups of water.",
+    "In a separate pan, heat the olive oil over medium heat and sauté the chopped green onions and minced garlic until softened.",
+    "Add the chopped baby kale and diced zucchini to the pan and cook until the kale is wilted.",
+    "In a large bowl, combine the cooked quinoa, sautéed vegetables, lemon juice, dried thyme, salt, and pepper.",
+    "Transfer the mixture to a parchment-lined baking dish and cover with a sheet of parchment paper to create a papillote.",
+    "Bake in the preheated oven for 15-20 minutes or until the quinoa is tender and the flavors are combined.",
+    "Garnish with chopped fresh parsley before serving.",
+    "Let the dish rest for 5 minutes before serving to allow the flavors to meld together.",
+    "Serve hot and enjoy!",
+    "Refrigerate any leftovers for up to 3 days or freeze for up to 2 months.",
+    "When reheating, add a splash of water or broth to restore the quinoa's texture.",
+    "You can also customize this recipe by adding your favorite vegetables or herbs to suit your taste.",
+    "This dish is a great option for a weeknight dinner or lunch, as it's healthy, easy to make, and can be customized to suit your dietary needs.",
+    "It's also a great way to get in some greens and whole grains!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "kale",
+    "one-pan",
+    "quinoa",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "grassy-canadian-quinoa-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/grassy-canadian-quinoa-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:34:32Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "chewy",
+    "mood": "comforting",
+    "technique": "papillote",
+    "primaryIngredient": "quinoa",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "quinoa",
+    "descriptor": "grassy",
+    "dishForm": "pilaf"
+  }
+}

@@ -984,6 +984,20 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-crowd-pleaser-polish-chicken-wings-pasta",
+    "title": "Garlicky Polish Chicken Wings Pasta",
+    "tags": [
+      "chicken",
+      "one-pan",
+      "pasta",
+      "polish",
+      "weeknight"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 50,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-crumbly-almond-butter-crumble",
     "title": "Garlicky Crumbly Almond Butter Crumble",
     "tags": [
@@ -2001,6 +2015,21 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-intense-norwegian-lamb-stew",
+    "title": "Garlicky Intense Norwegian Lamb Stew",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "holiday",
+      "norwegian",
+      "slow-cooker",
+      "winter"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 210,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-italian-mincemeat-soup",
     "title": "Garlicky Italian Mincemeat Soup",
     "tags": [
@@ -2459,6 +2488,20 @@
     ],
     "cuisine": "croatian",
     "totalTimeMin": 55,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-roasted-syrian-turkey-tagine",
+    "title": "Garlicky Roasted Syrian Turkey Tagine",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "roasted",
+      "syrian",
+      "weeknight"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 80,
     "shard": "g"
   },
   {
@@ -3546,6 +3589,19 @@
     ],
     "cuisine": "Canadian",
     "totalTimeMin": 50,
+    "shard": "g"
+  },
+  {
+    "slug": "glassy-jelly-comforting-ukrainian-squid-borscht",
+    "title": "glassy-jelly comforting ukrainian squid borscht",
+    "tags": [
+      "comfort-food",
+      "hearty",
+      "seafood",
+      "ukrainian"
+    ],
+    "cuisine": "ukrainian",
+    "totalTimeMin": 75,
     "shard": "g"
   },
   {
@@ -6681,6 +6737,21 @@
       "weeknight"
     ],
     "cuisine": "British",
+    "totalTimeMin": 40,
+    "shard": "g"
+  },
+  {
+    "slug": "grassy-canadian-quinoa-pilaf",
+    "title": "Grassy Canadian Quinoa Pilaf",
+    "tags": [
+      "canadian",
+      "kale",
+      "one-pan",
+      "quinoa",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
     "totalTimeMin": 40,
     "shard": "g"
   },

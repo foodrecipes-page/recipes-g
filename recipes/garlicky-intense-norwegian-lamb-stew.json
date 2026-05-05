@@ -1,0 +1,126 @@
+{
+  "title": "Garlicky Intense Norwegian Lamb Stew",
+  "description": "A hearty, garlicky lamb stew originating from Norway, perfect for the holiday season. This dish combines tender lamb with a rich, creamy sauce and a hint of capers.",
+  "cuisine": "Norwegian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "capers",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of butter in a large Dutch oven over medium-high heat. Sear the lamb shoulder until browned on all sides, about 2-3 minutes per side.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the remaining 1 tablespoon of butter to the pot and sauté the onion until softened, about 5 minutes.",
+    "Add the garlic, caraway seeds, and thyme to the pot and cook for 1 minute, stirring constantly.",
+    "Add the flour to the pot and cook for 1 minute, stirring constantly.",
+    "Gradually add the beef broth to the pot, whisking constantly to avoid lumps.",
+    "Return the lamb to the pot and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2-3 hours, or until the lamb is tender.",
+    "Stir in the capers and heavy cream. Season with salt and black pepper to taste.",
+    "Serve the stew hot, garnished with fresh parsley.",
+    "Let the stew rest for 10 minutes before serving to allow the flavors to meld."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "holiday",
+    "norwegian",
+    "slow-cooker",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 60,
+    "carbs": 30,
+    "fat": 40
+  },
+  "slug": "garlicky-intense-norwegian-lamb-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-intense-norwegian-lamb-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:35:04Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "creamy",
+    "mood": "festive",
+    "technique": "tandoor",
+    "primaryIngredient": "capers",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "lamb",
+    "descriptor": "Garlicky Intense",
+    "dishForm": "Stew"
+  }
+}

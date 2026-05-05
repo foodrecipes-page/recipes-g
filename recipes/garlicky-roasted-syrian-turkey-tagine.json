@@ -1,0 +1,118 @@
+{
+  "title": "Garlicky Roasted Syrian Turkey Tagine",
+  "description": "A flavorful and aromatic dish featuring roasted turkey, garlic, and creamy ingredients, served in a traditional Syrian clay pot",
+  "cuisine": "Syrian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Turkey breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "6 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a mortar and pestle, pound the garlic cloves until they are well-crushed.",
+    "In a large clay pot, heat the olive oil over medium-high heat.",
+    "Add the onion to the pot and cook until it is lightly browned.",
+    "Add the ginger, cumin, coriander, cayenne pepper, salt, and black pepper to the pot and cook for 1 minute.",
+    "Add the turkey breast to the pot and cook until it is browned on all sides.",
+    "Transfer the pot to the preheated oven and roast the turkey for 20 minutes.",
+    "Remove the pot from the oven and stir in the heavy cream and crushed garlic.",
+    "Return the pot to the oven and roast for an additional 10 minutes.",
+    "Remove the pot from the oven and garnish with fresh parsley.",
+    "Serve the turkey hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 35,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "roasted",
+    "syrian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 54,
+    "carbs": 24,
+    "fat": 54
+  },
+  "slug": "garlicky-roasted-syrian-turkey-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-roasted-syrian-turkey-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:35:03Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "creamy",
+    "mood": "show-off",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "turkey",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "turkey",
+    "descriptor": "Garlicky Roasted",
+    "dishForm": "Tagine"
+  }
+}
