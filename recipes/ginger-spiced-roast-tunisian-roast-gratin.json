@@ -1,0 +1,112 @@
+{
+  "title": "Ginger-spiced Roast Tunisian Roast Gratin",
+  "description": "A sour, crumbly, light Tunisian dish featuring tabasco sauce, roast, and individual-mini-cocotte. Perfect for a quick weeknight dinner.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef roast",
+      "amount": "1",
+      "notes": "1.5 lbs"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Tabasco sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Crumbled feta cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the beef roast with salt, black pepper, ground cumin, paprika, and dried thyme.",
+    "Heat the olive oil in a large skillet over medium-high heat. Sear the beef roast for 2-3 minutes on each side.",
+    "Transfer the skillet to the preheated oven and roast the beef for 20-25 minutes, or until it reaches your desired level of doneness.",
+    "While the beef is roasting, combine the ginger, tabasco sauce, and crumbled feta cheese in a small bowl.",
+    "Once the beef is done roasting, remove it from the oven and let it rest for 5 minutes.",
+    "Slice the beef into thin strips and place it in the individual-mini-cocotte.",
+    "Top the beef with the ginger-feta mixture and sprinkle with chopped fresh parsley.",
+    "Bake the gratin in the preheated oven for an additional 10-15 minutes, or until the top is lightly browned and the cheese is melted.",
+    "Serve the Ginger-spiced Roast Tunisian Roast Gratin hot, garnished with additional fresh parsley if desired.",
+    "Let the beef rest for at least 10 minutes before slicing.",
+    "Adjust the seasoning as needed."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "one-pan",
+    "tunisian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "ginger-spiced-roast-tunisian-roast-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/ginger-spiced-roast-tunisian-roast-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:30:09Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crumbly",
+    "mood": "light",
+    "technique": "roast",
+    "primaryIngredient": "tabasco sauce",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Roast",
+    "descriptor": "Ginger-spiced Roast",
+    "dishForm": "Gratin"
+  }
+}
