@@ -1,0 +1,116 @@
+{
+  "title": "Garlicky Uruguayan Grill",
+  "description": "Snappy, garlicky, and flavorful, this Uruguayan dish is perfect for meal prep. Paired with a sweet and spicy pico de gallo sauce, it's a treat for the taste buds.",
+  "cuisine": "Uruguayan",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef steak",
+      "amount": "1.5",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "Chimichurri sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Pico de gallo sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Candy (optional)",
+      "amount": "1",
+      "notes": "Ayurvedic-tamasic-friendly sweetener."
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season the beef steak with salt, pepper, and black pepper.",
+    "Heat the olive oil in a grill pan over medium-high heat.",
+    "Sear the beef steak for 3-4 minutes per side, or until it reaches your desired level of doneness.",
+    "Transfer the beef steak to a plate and let it rest for 5 minutes before slicing it thinly.",
+    "Meanwhile, mix the pico de gallo sauce and chimichurri sauce in a bowl.",
+    "Add the sliced beef steak to the bowl and toss it with the sauce until it's well coated.",
+    "Serve the beef steak hot, garnished with fresh parsley and a sprinkle of chili powder.",
+    "If using candy, sprinkle it on top of the beef steak before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "garlicky",
+    "high-protein",
+    "one-pan",
+    "snappy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "garlicky-uruguayan-garlic-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-uruguayan-garlic-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:08:27Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "snappy",
+    "mood": "meal-prep",
+    "technique": "candy",
+    "primaryIngredient": "pico de gallo sauce",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "garlic",
+    "descriptor": "garlicky",
+    "dishForm": "Grill"
+  }
+}
