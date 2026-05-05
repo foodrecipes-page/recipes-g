@@ -1,0 +1,94 @@
+{
+  "title": "Gooey Kenyan Beef Puff",
+  "description": "A comforting, gooey, and flavorful Kenyan dish featuring a layer of beef stock and lamination-puff pastry, perfect for a keto-friendly meal.",
+  "cuisine": "kenyan",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flaky Lamination-Puff Pastry",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "Ground Beef",
+      "amount": "500g",
+      "notes": "80/20 lean to fat ratio for optimal flavor and texture"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped finely to distribute evenly"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced to release flavor"
+    },
+    {
+      "name": "Beef Stock",
+      "amount": "250ml",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Butter",
+      "amount": "100g",
+      "notes": "Unsalted, melted"
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "2 sprigs",
+      "notes": "Chopped to release flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roll out the puff pastry to a thickness of 1/8 inch.",
+    "In a pan over medium heat, cook the ground beef until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion and minced garlic to the pan, cooking until the onion is translucent."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "comfort-food",
+    "kenyan",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 50
+  },
+  "slug": "gooey-kenyan-beef-puff",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-kenyan-beef-puff",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:16:35Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "gooey",
+    "mood": "comforting",
+    "technique": "lamination-puff",
+    "primaryIngredient": "beef stock",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "kenyan",
+    "mainIngredient": "beef",
+    "descriptor": "gooey",
+    "dishForm": "puff"
+  }
+}

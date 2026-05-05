@@ -1,0 +1,121 @@
+{
+  "title": "Garlicky Argentinian Peanuts Empanadas",
+  "description": "Romantic empanadas from Argentina with a crunchy peanut crust and rich garlicky filling. Serve as a snack or light meal.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free",
+    "fodmap-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "peanut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "peanuts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "1 1/2 cups",
+      "notes": "make sure to use gluten-free flour for a fodmap-friendly diet"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine peanut oil, garlic, and onion in a pan over medium heat. Cook for 3 minutes, stirring occasionally.",
+    "Add the chicken breast to the pan and cook until it is fully cooked through, breaking it up into small pieces as it cooks.",
+    "Add the peanuts to the pan and stir to combine with the chicken and onion mixture.",
+    "In a separate bowl, whisk together flour, egg, salt, black pepper, and paprika.",
+    "Roll out the dough on a floured surface to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Spoon a small amount of the chicken and peanut mixture onto one half of each dough circle.",
+    "Fold the dough over the filling, pressing the edges together with a fork to seal the empanada.",
+    "Brush the tops of the empanadas with a little water and sprinkle with salt.",
+    "Bake in a preheated oven at 375°F for 20-25 minutes, or until the empanadas are golden brown and crispy on the bottom.",
+    "Let the empanadas cool for a few minutes before serving.",
+    "Serve the empanadas warm, garnished with a sprinkle of paprika and a side of salsa if desired.",
+    "You can also freeze the empanadas for up to 2 months and bake them straight from the freezer.",
+    "To freeze, place the empanadas on a baking sheet lined with parchment paper and put them in the freezer until they are frozen solid, then transfer them to a freezer-safe bag or container.",
+    "To bake frozen empanadas, add 5-10 minutes to the baking time and keep an eye on them to make sure they don't burn."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "finger-food",
+    "garlicky",
+    "high-protein",
+    "peanut",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 16,
+    "fat": 12
+  },
+  "slug": "garlicky-argentinian-peanuts-empanadas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-argentinian-peanuts-empanadas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:15:47Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crispy",
+    "mood": "romantic",
+    "technique": "infuse-oil",
+    "primaryIngredient": "peanuts",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "peanuts",
+    "descriptor": "garlicky",
+    "dishForm": "Empanadas"
+  }
+}

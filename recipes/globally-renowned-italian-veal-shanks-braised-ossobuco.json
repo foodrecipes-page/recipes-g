@@ -1,0 +1,126 @@
+{
+  "title": "Globally Renowned Italian Veal Shanks Braised Ossobuco",
+  "description": "Funky, shattering Emilian solo-dinner dish featuring fregola, flambe, and sugar-free-friendly ossobuco.",
+  "cuisine": "Italian",
+  "diet": [
+    "sugar-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "veal shanks",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "fregola",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "prosciutto",
+      "amount": "6 slices",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the veal shanks with salt and pepper.",
+    "In a large Dutch oven, heat the olive oil over medium-high heat.",
+    "Sear the veal shanks until browned on all sides, about 5 minutes per side.",
+    "Remove the veal shanks from the pot and set them aside.",
+    "Add the sliced prosciutto to the pot and cook until crispy, about 2 minutes.",
+    "Add the chopped onion, carrots, and celery to the pot and cook until the vegetables are tender, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the white wine and cook until the liquid is almost completely reduced, about 2 minutes.",
+    "Add the beef broth, tomato paste, and browned veal shanks to the pot.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the preheated oven.",
+    "Bake the ossobuco for 2 1/2 hours, or until the meat is tender and the sauce has thickened.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Stir in the chopped parsley and serve the ossobuco with the fregola and sauce.",
+    "Flambé the fregola and sauce with a splash of white wine, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "dinner",
+    "fancy",
+    "italian",
+    "ossobuco",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "globally-renowned-italian-veal-shanks-braised-ossobuco",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/globally-renowned-italian-veal-shanks-braised-ossobuco",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:16:33Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "shattering",
+    "mood": "solo-dinner",
+    "technique": "flambe",
+    "primaryIngredient": "fregola",
+    "diet": "sugar-free",
+    "region": "emilia-romagna",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "veal shanks",
+    "descriptor": "Globally renowned",
+    "dishForm": "Braised Ossobuco"
+  }
+}

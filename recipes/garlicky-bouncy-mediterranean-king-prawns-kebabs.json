@@ -1,0 +1,122 @@
+{
+  "title": "garlicky bouncy mediterranean king prawns kebabs",
+  "description": "A garlicky, bouncy take on traditional mediterranean king prawns kebabs, perfect for a midnight craving. Featuring bone-in king prawns and a delicate bonito shave, this dish is kashrut-friendly and quick to prepare.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "kosher",
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "king prawns (4 per serving)",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "bonito shave",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh oregano",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "pita chips",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "tzatziki sauce",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400\u00124F (200\u00124C).",
+    "Thread king prawns, bonito shave, garlic, and lemon juice onto skewers.",
+    "Brush skewers with olive oil and season with paprika, salt, and pepper.",
+    "Grill skewers for 4-6 minutes per side, or until pink and cooked through.",
+    "Transfer skewers to a plate and garnish with fresh parsley and oregano.",
+    "Serve with pita chips and tzatziki sauce on the side, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "mediterranean",
+    "one-pan",
+    "prawn",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 36,
+    "carbs": 8,
+    "fat": 12
+  },
+  "slug": "garlicky-bouncy-mediterranean-king-prawns-kebabs",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-bouncy-mediterranean-king-prawns-kebabs",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:16:21Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "bouncy-qq",
+    "mood": "midnight-craving",
+    "technique": "bonito-shave",
+    "primaryIngredient": "king prawns",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "king prawns",
+    "descriptor": "garlicky bouncy",
+    "dishForm": "Kebabs"
+  }
+}

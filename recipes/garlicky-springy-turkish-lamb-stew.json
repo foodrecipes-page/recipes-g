@@ -1,0 +1,113 @@
+{
+  "title": "Garlicky Springy Turkish Lamb Stew",
+  "description": "A comforting, garlicky, and springy Turkish dish featuring sriracha and rest-meat, low in glycemic index, prepared in a terracotta vessel.",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "500g",
+      "notes": "bone-in lamb shoulder, cut into 2-inch pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced, 3 cloves for initial browning and 3 cloves for later addition"
+    },
+    {
+      "name": "sriracha",
+      "amount": "2 tbsp",
+      "notes": "add to taste"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for browning lamb"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/2 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": "adds earthy flavor"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp",
+      "notes": "adds earthy flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp olive oil in a large terracotta pot over medium-high heat. Brown lamb pieces in batches until nicely browned, then transfer to a plate and set aside.",
+    "Reduce heat to medium-low, add remaining 1 tbsp olive oil. Add minced garlic and saut\u00142e until fragrant.",
+    "Add browned lamb back to the pot, along with cumin, coriander, salt, and pepper. Cook for 2 minutes, stirring occasionally.",
+    "Stir in sriracha and lemon juice. Bring to a simmer and cook for 10 minutes, or until the lamb is tender.",
+    "Add parsley and cilantro and cook for an additional 2 minutes, allowing the herbs to wilt.",
+    "Serve hot, garnished with additional parsley and cilantro if desired, and accompanied by crusty bread or over rice.",
+    "Let the stew rest for 10 minutes before serving.",
+    "Serve warm, garnished with additional parsley and cilantro if desired, and accompanied by crusty bread or over rice."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "lamb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 55,
+    "carbs": 24,
+    "fat": 26
+  },
+  "slug": "garlicky-springy-turkish-lamb-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-springy-turkish-lamb-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:17:09Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "springy",
+    "mood": "comforting",
+    "technique": "rest-meat",
+    "primaryIngredient": "sriracha",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Lamb",
+    "descriptor": "Garlicky Springy",
+    "dishForm": "Stew"
+  }
+}

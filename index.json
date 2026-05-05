@@ -527,6 +527,21 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-argentinian-peanuts-empanadas",
+    "title": "Garlicky Argentinian Peanuts Empanadas",
+    "tags": [
+      "argentinian",
+      "finger-food",
+      "garlicky",
+      "high-protein",
+      "peanut",
+      "weeknight"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 55,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-australian-duck-pasta",
     "title": "Garlicky Australian Duck Pasta",
     "tags": [
@@ -552,6 +567,20 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 45,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-bouncy-mediterranean-king-prawns-kebabs",
+    "title": "garlicky bouncy mediterranean king prawns kebabs",
+    "tags": [
+      "high-protein",
+      "mediterranean",
+      "one-pan",
+      "prawn",
+      "weeknight"
+    ],
+    "cuisine": "mediterranean",
+    "totalTimeMin": 27,
     "shard": "g"
   },
   {
@@ -2536,6 +2565,20 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-springy-turkish-lamb-stew",
+    "title": "Garlicky Springy Turkish Lamb Stew",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "lamb",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 70,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-syrian-eggplant-curry",
     "title": "Garlicky Syrian Eggplant Curry",
     "tags": [
@@ -3756,6 +3799,21 @@
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 20,
+    "shard": "g"
+  },
+  {
+    "slug": "globally-renowned-italian-veal-shanks-braised-ossobuco",
+    "title": "Globally Renowned Italian Veal Shanks Braised Ossobuco",
+    "tags": [
+      "beef",
+      "dinner",
+      "fancy",
+      "italian",
+      "ossobuco",
+      "sugar-free"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 180,
     "shard": "g"
   },
   {
@@ -5313,6 +5371,20 @@
     "shard": "g"
   },
   {
+    "slug": "gooey-kenyan-beef-puff",
+    "title": "Gooey Kenyan Beef Puff",
+    "tags": [
+      "beef",
+      "comfort-food",
+      "kenyan",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 40,
+    "shard": "g"
+  },
+  {
     "slug": "gooey-kenyan-garlic-stir-fry",
     "title": "Gooey Kenyan Garlic Stir-fry",
     "tags": [
@@ -6379,6 +6451,22 @@
     ],
     "cuisine": "tunisian",
     "totalTimeMin": 75,
+    "shard": "g"
+  },
+  {
+    "slug": "grassy-velvety-jamaican-coconut-pudding",
+    "title": "Grassy Velvety Jamaican Coconut Pudding",
+    "tags": [
+      "coconut-lovers",
+      "creamy",
+      "diabetic-friendly",
+      "easy-dessert",
+      "jamaican-cuisine",
+      "kid-friendly",
+      "pudding"
+    ],
+    "cuisine": "jamaican",
+    "totalTimeMin": 20,
     "shard": "g"
   },
   {
