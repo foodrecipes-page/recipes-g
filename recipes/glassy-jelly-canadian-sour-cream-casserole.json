@@ -1,0 +1,99 @@
+{
+  "title": "Glassy-Jelly Canadian Sour Cream Casserole",
+  "description": "A sweet and comforting Canadian dish featuring a glassy-jelly inspired sour cream and chive dip, marinated in a soothing miso glaze, perfect for a high-protein friendly meal.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "unsalted butter, softened",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped chives",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "grape jelly",
+      "amount": "1 cup"
+    },
+    {
+      "name": "confectioners sugar",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a medium bowl, whisk together the flour and sugar.",
+    "Add the softened butter and mix until a crumbly mixture forms.",
+    "Press the mixture into the bottom of a 9x13 inch baking dish.",
+    "In a large bowl, whisk together the eggs, sour cream, and chopped chives.",
+    "Pour the sour cream mixture over the crust.",
+    "In a small bowl, whisk together the miso paste and water to make a glaze.",
+    "Pour the glaze over the sour cream mixture.",
+    "Bake for 35 minutes, or until the edges are set and the center is slightly jiggly.",
+    "Let cool for 10 minutes, then refrigerate for at least 2 hours to allow the jelly to set.",
+    "Drizzle the confectioners sugar over the top before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "easy",
+    "high-protein",
+    "one-pan",
+    "sweet",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "glassy-jelly-canadian-sour-cream-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/glassy-jelly-canadian-sour-cream-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:36:33Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "glassy-jelly",
+    "mood": "comforting",
+    "technique": "miso-marinate",
+    "primaryIngredient": "soured cream and chive dip",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "sour cream",
+    "descriptor": "glassy-jelly",
+    "dishForm": "casserole"
+  }
+}

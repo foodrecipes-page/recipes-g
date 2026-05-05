@@ -2211,6 +2211,22 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-light-malaysian-dutch-stroop-satay",
+    "title": "garlicky light malaysian dutch stroop satay",
+    "tags": [
+      "date-night",
+      "gluten-free",
+      "high-protein",
+      "malaysian",
+      "one-pan",
+      "sugar-reduced",
+      "vegetarian"
+    ],
+    "cuisine": "malaysian",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-light-mediterranean-leek-braised",
     "title": "Garlicky Light Mediterranean Leek Braised",
     "tags": [
@@ -3589,6 +3605,21 @@
     ],
     "cuisine": "Canadian",
     "totalTimeMin": 50,
+    "shard": "g"
+  },
+  {
+    "slug": "glassy-jelly-canadian-sour-cream-casserole",
+    "title": "Glassy-Jelly Canadian Sour Cream Casserole",
+    "tags": [
+      "dessert",
+      "easy",
+      "high-protein",
+      "one-pan",
+      "sweet",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 55,
     "shard": "g"
   },
   {
