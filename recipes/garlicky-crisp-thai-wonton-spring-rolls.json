@@ -1,0 +1,61 @@
+{
+  "title": "Garlicky Crisp Thai Wonton Spring-Rolls",
+  "description": "A crispy and garlicky Thai-inspired appetizer featuring wonton skin, pickled vegetables, and a spicy kick. Serve hot on a stone plate for the ultimate flavor and texture experience.",
+  "cuisine": "Thai",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Wonton skin",
+      "amount": "1 package (20-24 skins)"
+    }
+  ],
+  "instructions": [
+    "Cut the wonton skins into smaller squares, about 3 inches per side. ",
+    "In a large pan, heat 2 tablespoons of vegetable oil over medium-high heat.",
+    "Add the pickled carrots and cucumbers to the pan and fry until crispy, about 3-4 minutes.",
+    "Remove the pickled vegetables from the pan and set aside.",
+    "In the same pan, add 1 minced garlic clove and fry until fragrant, about 1 minute.",
+    "Add the minced chicken to the pan and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the soy sauce, fish sauce, and sriracha to the pan and stir to combine.",
+    "Return the pickled vegetables to the pan and stir to combine.",
+    "Add the wonton skins to the pan and fry until crispy and golden brown, about 2-3 minutes per side.",
+    "Drain the spring rolls on paper towels and serve hot on a stone plate."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "appetizer",
+    "crispy",
+    "garlic",
+    "springrolls",
+    "thaifood"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "garlicky-crisp-thai-wonton-spring-rolls",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-crisp-thai-wonton-spring-rolls",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:42:50Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crisp",
+    "mood": "adventurous",
+    "technique": "pickle",
+    "primaryIngredient": "wonton skin",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "wonton",
+    "descriptor": "garlicky crisp",
+    "dishForm": "spring-rolls"
+  }
+}
