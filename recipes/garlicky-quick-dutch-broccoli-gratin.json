@@ -1,0 +1,85 @@
+{
+  "title": "Garlicky Quick Dutch Broccoli Gratin",
+  "description": "A quick and flavorful Dutch broccoli gratin recipe with a garlicky twist, perfect for a weeknight dinner.",
+  "cuisine": "Dutch",
+  "diet": [
+    "Sugar-Free",
+    "Vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Purple Sprouting Broccoli",
+      "amount": "1 bunch (400g)"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tbsp (30g)"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Bechamel Sauce",
+      "amount": "250ml, store-bought or homemade"
+    },
+    {
+      "name": "Gruyère Cheese",
+      "amount": "150g, grated",
+      "notes": "freshly grated recommended"
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "2 tbsp",
+      "notes": "optional, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Melt the butter in a large Dutch oven over medium heat. ",
+    "Add the tadka oil followed by the minced garlic and sauté for 1 minute, until fragrant.",
+    "Add the all-purpose flour and whisk to combine, cooking for 1-2 minutes.",
+    "Gradually add the bechamel sauce, whisking continuously to prevent lumps.",
+    "Bring the sauce to a simmer and cook until it thickens, about 2-3 minutes.",
+    "Stir in the grated Gruyère cheese until melted and well combined.",
+    "Add the purple sprouting broccoli and stir to coat the florets with the cheesy sauce.",
+    "Season with nutmeg to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "garlicky-quick-dutch-broccoli-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-quick-dutch-broccoli-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:20:23Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "cheese-pull",
+    "mood": "quick-fix",
+    "technique": "tadka",
+    "primaryIngredient": "purple sprouting broccoli",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Broccoli",
+    "descriptor": "Garlicky Quick",
+    "dishForm": "Gratin"
+  }
+}

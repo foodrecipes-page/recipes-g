@@ -1,0 +1,108 @@
+{
+  "title": "Garlicky Silky Turkish Squid Kofte",
+  "description": "Indulgent Turkish dish featuring baby squid, beurre-monte, and a hearty garlic flavor. Served as a main course",
+  "cuisine": "Turkish",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Baby squid",
+      "amount": "12 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "6 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Beurre-monte",
+      "amount": "2 tablespoons",
+      "notes": "see below"
+    }
+  ],
+  "instructions": [
+    "Mix squid, garlic, breadcrumbs, parsley, and dill in a bowl until well combined.",
+    "Season with salt and black pepper to taste.",
+    "Cover with plastic wrap and refrigerate for 30 minutes.",
+    "Form squid mixture into small patties, about 1 1/2 inches in diameter.",
+    "Heat olive oil in a large non-stick skillet over medium-high heat.",
+    "Add patties to skillet and cook for 2-3 minutes on each side, until golden brown.",
+    "Transfer patties to a plate and cover with foil to keep warm.",
+    "To make beurre-monte, whisk together 1 tablespoon lemon juice and 1 tablespoon water in a small bowl until well combined.",
+    "Gradually whisk in 2 tablespoons softened butter, until smooth and emulsified.",
+    "Serve squid patties with beurre-monte spooned over the top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "garlic",
+    "high-end",
+    "kofte",
+    "seafood",
+    "squid",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "garlicky-silky-turkish-squid-kofte",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-silky-turkish-squid-kofte",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:19:25Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "silky",
+    "mood": "indulgent",
+    "technique": "beurre-monte",
+    "primaryIngredient": "baby squid",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Squid",
+    "descriptor": "Garlicky Silky",
+    "dishForm": "Kofte"
+  }
+}

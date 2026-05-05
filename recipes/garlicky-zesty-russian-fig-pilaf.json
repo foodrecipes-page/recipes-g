@@ -1,0 +1,115 @@
+{
+  "title": "Garlicky Zesty Russian Fig Pilaf",
+  "description": "A flavorful and light pilaf dish that combines the sweetness of figs with the pungency of garlic, perfect for a solo dinner. This recipe is easy to make and can be completed in under an hour.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried black figs",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "white rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "0.25 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pressure cooker over medium-high heat.",
+    "Add the garlic and saut\u00023 until fragrant, about 1 minute.",
+    "Add the rice and cook, stirring constantly, for 2 minutes.",
+    "Add the chicken broth, thyme, salt, and pepper, and stir to combine.",
+    "Add the dried figs and stir to combine.",
+    "Lock the lid and cook at high pressure for 4 minutes.",
+    "Let the pressure release naturally for 10 minutes, then quick-release any remaining pressure.",
+    "Stir in the Greek yogurt and chopped parsley.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-fiber",
+    "low-calorie",
+    "one-pan",
+    "pressure-cooker",
+    "russian",
+    "solo-dinner",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 430,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 10
+  },
+  "slug": "garlicky-zesty-russian-fig-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-zesty-russian-fig-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:18:57Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "pillowy",
+    "mood": "solo-dinner",
+    "technique": "pressure-cook",
+    "primaryIngredient": "figs",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Fig",
+    "descriptor": "Garlicky Zesty",
+    "dishForm": "Pilaf"
+  }
+}
