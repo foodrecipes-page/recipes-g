@@ -1,0 +1,117 @@
+{
+  "title": "Garlicky Gooey Mediterranean Turkey Neck Braise",
+  "description": "A hearty mediterranean-inspired dish featuring turkey neck, with a rich, garlicky flavor and a gooey, savory sauce, perfect for a weeknight dinner. Simply braise the turkey neck in a flavorful liquid with aromatics, then serve over rice or noodles.",
+  "cuisine": "Mediterranean",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "turkey necks",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic-infused lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "see note on garlic-infused lemon juice below"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a small mortar and pestle, pound 4 cloves of garlic-infused lemon juice (see note on garlic-infused lemon juice below) into a smooth paste.",
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the turkey necks and sear until browned on all sides, about 5 minutes.",
+    "Add the garlic-infused lemon juice paste, lemon juice, white wine vinegar, chicken broth, thyme, oregano, red pepper flakes, salt, and black pepper to the pot.",
+    "Bring to a boil, then cover and transfer to the oven.",
+    "Braise the turkey necks for 2 hours, or until tender and falling off the bone.",
+    "Remove the pot from the oven and stir in the fresh parsley.",
+    "Serve the turkey necks and sauce over rice or noodles.",
+    "Note: To make garlic-infused lemon juice, combine 1 cup of lemon juice with 4 cloves of minced garlic in a small bowl. Let sit at room temperature for at least 30 minutes to allow the garlic to infuse into the lemon juice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "garlicky",
+    "gooey",
+    "high-protein",
+    "mediterranean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 64,
+    "carbs": 10,
+    "fat": 26
+  },
+  "slug": "garlicky-gooey-mediterranean-turkey-neck-braise",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-gooey-mediterranean-turkey-neck-braise",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:05:56Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "gooey",
+    "mood": "weeknight",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "turkey neck",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Turkey Neck",
+    "descriptor": "Garlicky Gooey",
+    "dishForm": "Braise"
+  }
+}

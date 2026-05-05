@@ -1,0 +1,88 @@
+{
+  "title": "Glassy-Jelly Canadian Single Cream Bake",
+  "description": "A show-off Canadian dessert featuring a pungent glassy-jelly topping, single cream, and a delicate bake. Serve chilled with a side of fresh berries.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "unsalted butter, softened",
+      "amount": "8",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "200",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2",
+      "notes": ""
+    },
+    {
+      "name": "single cream",
+      "amount": "300",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": "real, not imitation"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Line an 8-inch square baking dish with parchment paper.",
+    "In a medium bowl, whisk together the flour, sugar, and eggs until well combined.",
+    "Pour the mixture into the prepared baking dish and smooth the top.",
+    "Bake for 25 minutes, or until the edges are lightly golden brown.",
+    "Allow the bake to cool completely in the pan.",
+    "In a small saucepan, combine the single cream and vanilla extract. Bring to a simmer over medium heat.",
+    "Reduce the heat to low and cook, stirring occasionally, until the cream has thickened slightly and reduced by about half.",
+    "Remove from heat and let cool slightly.",
+    "Pour the glassy jelly topping over the cooled bake, spreading it evenly to cover the surface.",
+    "Chill in the refrigerator for at least 2 hours, or until set and just before serving."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 25,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "canadian",
+    "dessert",
+    "high-calorie",
+    "single-cream",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 3200,
+    "protein": 32,
+    "carbs": 400,
+    "fat": 190
+  },
+  "slug": "glassy-jelly-canadian-single-cream-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/glassy-jelly-canadian-single-cream-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:06:20Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "glassy-jelly",
+    "mood": "show-off",
+    "technique": "bake",
+    "primaryIngredient": "single cream",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "single cream",
+    "descriptor": "glassy-jelly",
+    "dishForm": "bake"
+  }
+}

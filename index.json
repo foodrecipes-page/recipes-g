@@ -1806,6 +1806,21 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-gooey-mediterranean-turkey-neck-braise",
+    "title": "Garlicky Gooey Mediterranean Turkey Neck Braise",
+    "tags": [
+      "garlicky",
+      "gooey",
+      "high-protein",
+      "mediterranean",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 135,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-gooey-middle-eastern-lamb-tagine",
     "title": "Garlicky Gooey Middle-eastern Lamb Tagine",
     "tags": [
@@ -3211,6 +3226,20 @@
     ],
     "cuisine": "North African",
     "totalTimeMin": 18,
+    "shard": "g"
+  },
+  {
+    "slug": "glassy-jelly-canadian-single-cream-bake",
+    "title": "Glassy-Jelly Canadian Single Cream Bake",
+    "tags": [
+      "canadian",
+      "dessert",
+      "high-calorie",
+      "single-cream",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 50,
     "shard": "g"
   },
   {
