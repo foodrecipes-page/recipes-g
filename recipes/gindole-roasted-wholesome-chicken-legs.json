@@ -1,0 +1,83 @@
+{
+  "title": "Gindole Roasted Wholesome Chicken Legs",
+  "description": "A malty, dense, indulgent Malaysian dish featuring dairy-free roasted chicken legs served on a hot-stone plate.",
+  "cuisine": "Malaysian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 whole chicken leg",
+      "amount": "1",
+      "notes": "Bone-in, skin-on"
+    },
+    {
+      "name": "2 tbsp coconut oil",
+      "amount": ""
+    },
+    {
+      "name": "2 tsp soy sauce (tamari for gluten-free option)",
+      "amount": ""
+    },
+    {
+      "name": "1 tsp smoked paprika",
+      "amount": ""
+    },
+    {
+      "name": "1 tsp garlic powder",
+      "amount": ""
+    },
+    {
+      "name": "1/4 tsp cumin",
+      "amount": ""
+    },
+    {
+      "name": "1 lemon, juiced",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (392°F).",
+    "Rub chicken with oil and spices. Season well.",
+    "Place on a hot-stone plate in the oven for 45 minutes.",
+    "Baste with lemon juice every 15 minutes.",
+    "Remove from heat, let rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dairy-free",
+    "indulgent",
+    "malaysian",
+    "malty",
+    "roasted",
+    "whole-meal",
+    "wholesome"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 42,
+    "carbs": 16,
+    "fat": 35
+  },
+  "slug": "gindole-roasted-wholesome-chicken-legs",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gindole-roasted-wholesome-chicken-legs",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T20:13:12Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "dense",
+    "mood": "indulgent",
+    "technique": "roast",
+    "primaryIngredient": "chicken legs",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Zanzibari",
+    "mainIngredient": "chicken legs",
+    "descriptor": "Wholesome and Indulgent",
+    "dishForm": "Roast"
+  }
+}
