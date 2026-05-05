@@ -1,0 +1,117 @@
+{
+  "title": "Garlicky Southern Thai Noodles Khao-Soi",
+  "description": "A garlicky, crispy, and quick-fix Southern Thai dish featuring a vinaigrette dressing. This dish is dairy-free-friendly and perfect for a weeknight meal.",
+  "cuisine": "southern thai",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice Noodles",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Red Curry Paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Bean Sprouts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the onions and cook until they are translucent, about 3-4 minutes.",
+    "Add the garlic and ginger and cook for an additional minute, until fragrant.",
+    "Add the red curry paste and cook for 1-2 minutes, until fragrant.",
+    "Add the coconut milk and bring the mixture to a simmer.",
+    "Reduce the heat to low and let cook for 5 minutes, or until the sauce has thickened.",
+    "Stir in the fish sauce, lime juice, and soy sauce.",
+    "Add the bean sprouts and cook until they are tender, about 2-3 minutes.",
+    "Cook the rice noodles according to the package instructions and set aside.",
+    "To assemble the dish, place a portion of the noodles onto a plate and top with the curry sauce and garnish with cilantro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "southern-thai",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 55,
+    "fat": 22
+  },
+  "slug": "garlicky-southern-thai-noodles-khao-soi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-southern-thai-noodles-khao-soi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:33:34Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crispy",
+    "mood": "quick-fix",
+    "technique": "brine-dry",
+    "primaryIngredient": "vinaigrette dressing",
+    "diet": "dairy-free",
+    "region": "southern-thai",
+    "cuisineAdjective": "Southern Thai",
+    "mainIngredient": "Noodles",
+    "descriptor": "Garlicky",
+    "dishForm": "Khao-Soi"
+  }
+}

@@ -2682,6 +2682,20 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-southern-thai-noodles-khao-soi",
+    "title": "Garlicky Southern Thai Noodles Khao-Soi",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "southern-thai",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "southern thai",
+    "totalTimeMin": 30,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-springy-turkish-lamb-stew",
     "title": "Garlicky Springy Turkish Lamb Stew",
     "tags": [
@@ -6396,6 +6410,20 @@
     ],
     "cuisine": "Saudi Arabian",
     "totalTimeMin": 60,
+    "shard": "g"
+  },
+  {
+    "slug": "gourmet-adventurous-mediterranean-dish-puff",
+    "title": "Pungent Mediterranean Puff",
+    "tags": [
+      "adventurous",
+      "mediterranean",
+      "one-pan",
+      "pastries",
+      "seafood"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 55,
     "shard": "g"
   },
   {

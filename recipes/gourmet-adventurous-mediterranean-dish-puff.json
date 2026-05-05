@@ -1,0 +1,92 @@
+{
+  "title": "Pungent Mediterranean Puff",
+  "description": "A pescatarian-friendly puff pastry filled with spicy Thai red curry paste and crispy feta cheese, perfect for adventurous palates.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Thai Red Curry Paste",
+      "amount": "2 tablespoons",
+      "notes": "use a high-quality, pungent paste for the best flavor"
+    },
+    {
+      "name": "Puff Pastry",
+      "amount": "1 sheet",
+      "notes": "thawed, if frozen"
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "1 cup",
+      "notes": "crumbly, preferably sheep's milk"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "12 large",
+      "notes": "peeled and deveined, preferably wild-caught"
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "2 tablespoons",
+      "notes": "fresh is best, but dried will do in a pinch"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "preferably sea salt or kosher salt"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground is best"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit (200 degrees Celsius).",
+    "Roll out the puff pastry to a thickness of about 1/8 inch (3 mm).",
+    "Spread the Thai red curry paste evenly over the center of the pastry, leaving a 1-inch (2.5 cm) border around the edges.",
+    "Arrange the shrimp on top of the curry paste, making sure to leave some space between each one.",
+    "Sprinkle the feta cheese and chopped parsley over the shrimp.",
+    "Fold the pastry over the filling, pressing the edges to seal. ",
+    "Brush the pastry with a little water and cut a few slits in the top to allow steam to escape.",
+    "Bake for 25-30 minutes, or until the pastry is golden brown and the filling is cooked through."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "adventurous",
+    "mediterranean",
+    "one-pan",
+    "pastries",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "gourmet-adventurous-mediterranean-dish-puff",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/gourmet-adventurous-mediterranean-dish-puff",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:33:13Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "chewy",
+    "mood": "adventurous",
+    "technique": "lamination-puff",
+    "primaryIngredient": "thai red curry paste",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "dish",
+    "descriptor": "Gourmet adventurous",
+    "dishForm": "Puff"
+  }
+}
