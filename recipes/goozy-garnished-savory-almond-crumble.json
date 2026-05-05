@@ -1,0 +1,90 @@
+{
+  "title": "Goozy-Garnished Savory Almond Crumble",
+  "description": "A roasted savory almond crumble featuring cultured cream cheese, emulsified mantecare, and a touch of sweetness for an indulgent Slovakian dish.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "low-carb",
+    "sodium-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": 120
+    },
+    {
+      "name": "cultured cream cheese",
+      "amount": "120g"
+    },
+    {
+      "name": "mantecare emulsifier",
+      "amount": "60g"
+    },
+    {
+      "name": "sugar substitute",
+      "amount": "45g"
+    },
+    {
+      "name": "almond meal",
+      "amount": "8 tablespoons"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "120g"
+    },
+    {
+      "name": "vanilla bean paste",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "300mg"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "Combine almond flour, cultured cream cheese, mantecare emulsifier, sugar substitute, and salt in a mixing bowl.",
+    "Add almond meal and unsalted butter. Mix until crumbly texture is achieved.",
+    "Transfer mixture onto a baking sheet lined with parchment paper.",
+    "Bake for 15 minutes or until golden brown on top.",
+    "Remove from oven and let it cool down slightly before serving garnished with fresh cream cheese, honey, and sliced almonds."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "almond-crumbly",
+    "cr-me-fra-che-recipe",
+    "dessert",
+    "indulgent",
+    "slovakian",
+    "slovenian-savory-almond-crumble",
+    "sodium-free"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "goozy-garnished-savory-almond-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/goozy-garnished-savory-almond-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T09:43:16Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crumbly",
+    "mood": "indulgent",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "cultured-creme-fraiche",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Savory",
+    "mainIngredient": "Almond",
+    "descriptor": "Goozy-Garnished",
+    "dishForm": "Crumble"
+  }
+}
