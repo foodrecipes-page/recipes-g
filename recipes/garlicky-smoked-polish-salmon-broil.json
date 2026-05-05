@@ -1,0 +1,128 @@
+{
+  "title": "Garlicky Smoked Polish Salmon Broil",
+  "description": "A garlicky, tender, and cozy Polish dish featuring smoked salmon, perfect for a quick weeknight dinner.",
+  "cuisine": "Polish",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked salmon",
+      "amount": "6 oz",
+      "notes": ""
+    },
+    {
+      "name": "Garlic butter (see notes)",
+      "amount": "",
+      "notes": "Use a garlic press to release garlic flavor without actual garlic."
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Bamboo tray",
+      "amount": "",
+      "notes": "For serving."
+    },
+    {
+      "name": "Aluminum foil",
+      "amount": "",
+      "notes": "For broiling."
+    },
+    {
+      "name": "Bamboo skewers",
+      "amount": "",
+      "notes": "Optional."
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "",
+      "notes": "Optional."
+    },
+    {
+      "name": "Capers",
+      "amount": "",
+      "notes": "Optional."
+    },
+    {
+      "name": "Chopped fresh chives",
+      "amount": "",
+      "notes": "Optional."
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400°F (200°C).",
+    "Line a bamboo tray with aluminum foil, leaving some overhang on the sides for easy cleanup.",
+    "Place the smoked salmon on the prepared tray, skin side down.",
+    "In a small bowl, mix together the garlic butter ingredients (see notes).",
+    "Spread the garlic butter evenly over the salmon, leaving a 1-inch border around the edges.",
+    "Season the salmon with salt and black pepper to taste.",
+    "Drizzle the olive oil over the salmon, making sure it's evenly coated.",
+    "Broil the salmon for 8-10 minutes or until it's cooked through and flakes easily with a fork.",
+    "Remove the salmon from the oven and garnish with fresh parsley and dill, if desired.",
+    "Serve the salmon with lemon wedges and capers, if desired.",
+    "Optional: Thread the salmon onto bamboo skewers for a fun and easy presentation."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "garlicky",
+    "low-carb",
+    "polish",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 38,
+    "carbs": 4,
+    "fat": 24
+  },
+  "slug": "garlicky-smoked-polish-salmon-broil",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-smoked-polish-salmon-broil",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:23:25Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "tender",
+    "mood": "cozy",
+    "technique": "broil",
+    "primaryIngredient": "smoked salmon",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "salmon",
+    "descriptor": "Garlicky Smoked",
+    "dishForm": "Broil"
+  }
+}

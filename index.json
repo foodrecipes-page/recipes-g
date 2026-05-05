@@ -2562,6 +2562,20 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-smoked-polish-salmon-broil",
+    "title": "Garlicky Smoked Polish Salmon Broil",
+    "tags": [
+      "easy-dinner",
+      "garlicky",
+      "low-carb",
+      "polish",
+      "seafood"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 15,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-smoky-argentinian-chicken-empanadas",
     "title": "Garlicky Smoky Argentinian Chicken Empanadas",
     "tags": [
@@ -6556,6 +6570,20 @@
     ],
     "cuisine": "portuguese",
     "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
+    "slug": "grassy-syrian-lamb-leg-kebabs",
+    "title": "Grassy Syrian Lamb Leg Kebabs",
+    "tags": [
+      "grassy",
+      "high-protein",
+      "kebabs",
+      "low-calorie",
+      "syrian"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 60,
     "shard": "g"
   },
   {

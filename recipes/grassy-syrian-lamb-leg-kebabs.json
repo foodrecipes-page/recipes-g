@@ -1,0 +1,57 @@
+{
+  "title": "Grassy Syrian Lamb Leg Kebabs",
+  "description": "A flavorful and healthy dish inspired by Syrian cuisine, perfect for a weeknight dinner. The crumbly texture of the lamb leg is enhanced by the tangy mother sauce base.",
+  "cuisine": "Syrian",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 lbs lamb leg",
+      "amount": "",
+      "notes": "boneless and cut into 1-inch cubes"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, whisk together mother sauce base, garlic, olive oil, cumin, coriander, paprika, salt, and black pepper."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grassy",
+    "high-protein",
+    "kebabs",
+    "low-calorie",
+    "syrian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "grassy-syrian-lamb-leg-kebabs",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/grassy-syrian-lamb-leg-kebabs",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:22:14Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crumbly",
+    "mood": "festive",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "lamb leg",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb leg",
+    "descriptor": "grassy",
+    "dishForm": "Kebabs"
+  }
+}
