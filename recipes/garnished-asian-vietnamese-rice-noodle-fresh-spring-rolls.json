@@ -1,0 +1,71 @@
+{
+  "title": "Garnished Asian Vietnamese Rice Noodle Fresh Spring Rolls",
+  "description": "Fermented and molten, these fresh spring rolls are a delicious Vietnamese dish that is perfect for meal prep. Use Asian-chive-buchu and namul-blanch-season for an authentic flavor.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "macrobiotic",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice noodles",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Asian-chive-buchu",
+      "amount": "2 tablespoons",
+      "notes": "fermented, store-bought"
+    }
+  ],
+  "instructions": [
+    "Soak rice noodles in warm water for 10 minutes, then drain and cut into 4-inch pieces.",
+    "Combine Asian-chive-buchu, namul-blanch-season, and 1 tablespoon water in a bowl. Mix well to create a fermented paste.",
+    "Add the fermented paste to the rice noodles and toss to coat.",
+    "Heat a small skillet over medium heat and add 1 tablespoon oil. Add the rice noodle mixture and stir-fry for 5 minutes, breaking up any clumps.",
+    "Prepare fresh spring roll wrappers by soaking them in warm water for 5 minutes.",
+    "Fill a large bowl with warm water and have it ready to dip the spring roll wrappers in.",
+    "To assemble the spring rolls, place a rice noodle mixture onto the center of a spring roll wrapper, then fold the bottom half up over the filling, followed by the top half, and finally the sides to seal the roll.",
+    "Place the spring roll on a slate tile and garnish with chopped scallions, cilantro, and sesame seeds. Repeat with the remaining ingredients.",
+    "Serve immediately, or store in an airtight container in the refrigerator for up to 3 days and serve chilled.",
+    "To reheat, microwave for 20-30 seconds or pan-fry until crispy and serve hot.",
+    "Serve with your favorite dipping sauce, such as peanut sauce or sweet chili sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "fermented",
+    "gluten-free",
+    "macrobiotic",
+    "spring-rolls",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "garnished-asian-vietnamese-rice-noodle-fresh-spring-rolls",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garnished-asian-vietnamese-rice-noodle-fresh-spring-rolls",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:24:14Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "molten",
+    "mood": "meal-prep",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "asian-chive-buchu",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "rice noodle",
+    "descriptor": "Garnished Asian",
+    "dishForm": "Fresh Spring Rolls"
+  }
+}

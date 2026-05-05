@@ -2833,6 +2833,21 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-zesty-greek-chilli-spanakopita",
+    "title": "Garlicky Zesty Greek Chilli Spanakopita",
+    "tags": [
+      "greek",
+      "iron-teppan",
+      "monsoon-inspired",
+      "snappy-pastry",
+      "veggie-friendly",
+      "whole30-friendly"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 70,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-zesty-russian-fig-pilaf",
     "title": "Garlicky Zesty Russian Fig Pilaf",
     "tags": [
@@ -2928,6 +2943,20 @@
     ],
     "cuisine": "American",
     "totalTimeMin": 15,
+    "shard": "g"
+  },
+  {
+    "slug": "garnished-asian-vietnamese-rice-noodle-fresh-spring-rolls",
+    "title": "Garnished Asian Vietnamese Rice Noodle Fresh Spring Rolls",
+    "tags": [
+      "fermented",
+      "gluten-free",
+      "macrobiotic",
+      "spring-rolls",
+      "vietnamese"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
