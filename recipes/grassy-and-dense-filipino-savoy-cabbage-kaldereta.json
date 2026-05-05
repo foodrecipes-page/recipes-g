@@ -1,0 +1,117 @@
+{
+  "title": "Grassy and dense Filipino savoy cabbage Kaldereta",
+  "description": "A traditional Filipino dish with a twist, featuring the slightly sweet and earthy flavor of savoy cabbage, without added sugar. Perfect for those looking for a healthier alternative to the classic Kaldereta recipe.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 large onion, chopped",
+      "amount": "1 medium onion, chopped",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves of garlic, minced",
+      "amount": "2-3 cloves of garlic, minced",
+      "notes": ""
+    },
+    {
+      "name": "1 medium Asian eggplant, sliced",
+      "amount": "1 medium Asian eggplant, sliced",
+      "notes": ""
+    },
+    {
+      "name": "1 (5 oz) piece of savoy cabbage, shredded",
+      "amount": "1 (5 oz) piece of savoy cabbage, shredded",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp fish sauce (optional)",
+      "amount": "1-2 tsp fish sauce (optional)",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp dashi extract",
+      "amount": "2 tbsp dashi extract",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp ground black pepper",
+      "amount": "1 tsp ground black pepper",
+      "notes": ""
+    },
+    {
+      "name": "1/4 tsp salt",
+      "amount": "1/4 tsp salt",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup water",
+      "amount": "1/4 cup water",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp vegetable oil",
+      "amount": "2 tbsp vegetable oil",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp ground ginger",
+      "amount": "1 tsp ground ginger",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large pan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for another minute, until fragrant.",
+    "Add the sliced Asian eggplant and cook until it starts to soften, about 3-4 minutes.",
+    "Add the shredded savoy cabbage and cook until it starts to wilt, about 4-5 minutes.",
+    "Add the dashi extract, fish sauce (if using), ground ginger, black pepper, and salt. Stir well to combine.",
+    "Add the water and bring the mixture to a simmer.",
+    "Reduce the heat to low and let it cook, covered, until the cabbage is tender and the flavors have melded together, about 15-20 minutes.",
+    "Serve hot, garnished with chopped fresh cilantro (if desired)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "filipino",
+    "gluten-free",
+    "healthy",
+    "one-pan",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "grassy-and-dense-filipino-savoy-cabbage-kaldereta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/grassy-and-dense-filipino-savoy-cabbage-kaldereta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:54:39Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "dense",
+    "mood": "nostalgic",
+    "technique": "dashi-extract",
+    "primaryIngredient": "savoy cabbage",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "savoy cabbage",
+    "descriptor": "Grassy and dense",
+    "dishForm": "Kaldereta"
+  }
+}

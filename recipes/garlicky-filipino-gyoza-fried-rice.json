@@ -1,0 +1,114 @@
+{
+  "title": "garlicky filipino gyoza fried-rice",
+  "description": "a crowd-pleasing filipino dish featuring crispy gyoza and sweet garlic flavors. this recipe is a great weeknight meal option, requiring minimal cleanup and cooking time.",
+  "cuisine": "filipino",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "pink lady apples",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "nori seaweed sheets",
+      "amount": "4 sheets",
+      "notes": ""
+    },
+    {
+      "name": "gyoza wrappers",
+      "amount": "12-16 wrappers",
+      "notes": "available in most grocery stores or online. make sure to store them in a dry place."
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup",
+      "notes": "use gluten-free soy sauce for a kosher-friendly option."
+    },
+    {
+      "name": "scallions",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "peanut oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "add 2 tbsp of vegetable oil to a large skillet or wok and heat over medium-high heat.",
+    "add the sliced garlic and saut\t2 until fragrant, about 1-2 minutes.",
+    "add the chopped scallions and cook for an additional 1-2 minutes, until softened.",
+    "add the sliced apples and cook until they start to brown, about 3-4 minutes.",
+    "add the cooked gyoza and fry until crispy on the bottom.",
+    "use a spatula to break apart the gyoza into smaller pieces.",
+    "stir in the sugar, soy sauce, and peanut oil. season with salt and pepper to taste.",
+    "push the gyoza mixture to one side of the pan and add a small amount of oil to the empty side.",
+    "crack in a few eggs and scramble them until cooked through.",
+    "mix the eggs into the gyoza mixture and stir-fry everything together.",
+    "nigiri-shape the fried-rice into small balls, using a spoon to create the shape.",
+    "place the gyoza wrapper on a surface and add a small amount of the fried-rice mixture to the center.",
+    "shape the gyoza into small balls and place them on a plate or tray. repeat with the remaining ingredients.",
+    "serve the garlicky filipino gyoza fried-rice hot, garnished with nori seaweed sheets and sliced scallions.",
+    "use a steamer basket to cook the gyoza if you prefer a steamed option."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "easy-to-make",
+    "filipino",
+    "garlic",
+    "kosher-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 544,
+    "protein": 15,
+    "carbs": 43,
+    "fat": 31
+  },
+  "slug": "garlicky-filipino-gyoza-fried-rice",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-filipino-gyoza-fried-rice",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:55:22Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crunchy",
+    "mood": "crowd-pleaser",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "granulated sugar",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Gyoza",
+    "descriptor": "Garlicky",
+    "dishForm": "Fried-Rice"
+  }
+}

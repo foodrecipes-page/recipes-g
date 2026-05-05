@@ -1427,6 +1427,22 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-filipino-gyoza-fried-rice",
+    "title": "garlicky filipino gyoza fried-rice",
+    "tags": [
+      "crowd-pleaser",
+      "easy-to-make",
+      "filipino",
+      "garlic",
+      "kosher-friendly",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "filipino",
+    "totalTimeMin": 30,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-flaky-algerian-cherries-tagine",
     "title": "Garlicky Flaky Algerian Cherries Tagine",
     "tags": [
@@ -6142,6 +6158,22 @@
     ],
     "cuisine": "Argentinian",
     "totalTimeMin": 50,
+    "shard": "g"
+  },
+  {
+    "slug": "grassy-and-dense-filipino-savoy-cabbage-kaldereta",
+    "title": "Grassy and dense Filipino savoy cabbage Kaldereta",
+    "tags": [
+      "easy-dinner",
+      "filipino",
+      "gluten-free",
+      "healthy",
+      "one-pan",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
