@@ -7033,6 +7033,21 @@
     "shard": "g"
   },
   {
+    "slug": "grill-seared-jamaican-duck-grill",
+    "title": "Grill-Seared Jamaican Duck",
+    "tags": [
+      "duck",
+      "grilled",
+      "high-protein",
+      "jamaican",
+      "robata",
+      "weeknight"
+    ],
+    "cuisine": "jamaican",
+    "totalTimeMin": 40,
+    "shard": "g"
+  },
+  {
     "slug": "grill-tzimmes",
     "title": "Grilled Tzimmes with Tahini Paste",
     "tags": [
@@ -7456,6 +7471,22 @@
     ],
     "cuisine": "Russian",
     "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
+    "slug": "grilled-spicy-thai-beef-tacos",
+    "title": "Grilled Spicy Thai Beef Tacos",
+    "tags": [
+      "beef",
+      "easy-dinner",
+      "one-pan",
+      "peppery",
+      "tacos",
+      "thai",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 30,
     "shard": "g"
   },
   {

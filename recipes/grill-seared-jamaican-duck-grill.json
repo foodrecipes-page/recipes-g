@@ -1,0 +1,66 @@
+{
+  "title": "Grill-Seared Jamaican Duck",
+  "description": "A resinous, crumbly, indulgent Jamaican dish featuring duck, grilled to perfection and infused with the flavors of allspice and thyme. Pair with island-style sides for a complete meal.",
+  "cuisine": "jamaican",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck breast",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "allspice",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp",
+      "notes": "fresh or dried"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium-high heat."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "duck",
+    "grilled",
+    "high-protein",
+    "jamaican",
+    "robata",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 8,
+    "fat": 34
+  },
+  "slug": "grill-seared-jamaican-duck-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/grill-seared-jamaican-duck-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:36:58Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crumbly",
+    "mood": "indulgent",
+    "technique": "grill",
+    "primaryIngredient": "duck",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "duck",
+    "descriptor": "grill-seared",
+    "dishForm": "Grill"
+  }
+}

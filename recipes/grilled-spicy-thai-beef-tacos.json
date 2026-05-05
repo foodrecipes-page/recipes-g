@@ -1,0 +1,163 @@
+{
+  "title": "Grilled Spicy Thai Beef Tacos",
+  "description": "Peppery, cheese-pull, crowd-pleaser Thai dish featuring natural yoghurt, robata-grill, ayurvedic-tamasic-friendly, served in a molcajete.",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "red Thai curry paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "natural yoghurt",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "toasted peanuts",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lime wedges",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "tortillas",
+      "amount": "8",
+      "notes": ""
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "robata-grilled onions",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sliced jalape\u00166os",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "toasted cumin seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "toasted coriander seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "oil",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a molcajete over medium heat.",
+    "Add a small amount of oil and swirl to coat.",
+    "Add 2-3 pieces of robata-grilled onions and cook for 1 minute.",
+    "Add 2-3 pieces of sliced jalape\u00166os and cook for another minute.",
+    "Add 2-3 beef strips and cook for 2-3 minutes per side, until cooked through.",
+    "Add the red Thai curry paste and cook for 1-2 minutes, until fragrant.",
+    "Add the coconut milk and bring to a simmer.",
+    "Add the natural yoghurt, fish sauce, brown sugar, rice vinegar, chili flakes, toasted peanuts, and toasted coriander seeds. Whisk until well combined.",
+    "Season with salt and black pepper to taste.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing a few pieces of beef onto a tortilla, followed by a spoonful of the spicy Thai sauce, some shredded cheese, fresh cilantro, and a lime wedge.",
+    "Serve immediately and enjoy!",
+    "Repeat with the remaining ingredients and serve.",
+    "Garnish with toasted cumin seeds and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "easy-dinner",
+    "one-pan",
+    "peppery",
+    "tacos",
+    "thai",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 542,
+    "protein": 36,
+    "carbs": 40,
+    "fat": 34
+  },
+  "slug": "grilled-spicy-thai-beef-tacos",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/grilled-spicy-thai-beef-tacos",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:37:06Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "cheese-pull",
+    "mood": "crowd-pleaser",
+    "technique": "robata-grill",
+    "primaryIngredient": "natural yoghurt",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "beef",
+    "descriptor": "Grilled Spicy",
+    "dishForm": "Tacos"
+  }
+}
