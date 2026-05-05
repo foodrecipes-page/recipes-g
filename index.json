@@ -6247,6 +6247,20 @@
     "shard": "g"
   },
   {
+    "slug": "gooey-weeknight-italian-speck-pasta",
+    "title": "Gooey Weeknight Italian Speck Pasta",
+    "tags": [
+      "high-protein",
+      "italian",
+      "one-pan",
+      "weekend-dinner",
+      "weeknight"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
     "slug": "gooey-yoghurt-mediterranean-stir-fry",
     "title": "Gooey Yoghurt Mediterranean Stir-fry",
     "tags": [

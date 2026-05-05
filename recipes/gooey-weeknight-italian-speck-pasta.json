@@ -1,0 +1,93 @@
+{
+  "title": "Gooey Weeknight Italian Speck Pasta",
+  "description": "A quick and flavorful weeknight pasta dish featuring speck, cherry tomatoes, and gooey mozzarella cheese. Perfect for a weeknight dinner.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Speck",
+      "amount": "12 slices"
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "amount": "1 pint"
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Pasta (Cedar-Plank)",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the speck and cook until crispy, about 2 minutes.",
+    "Remove the speck from the skillet and set aside.",
+    "Add the garlic to the skillet and cook for 1 minute.",
+    "Add the cherry tomatoes to the skillet and cook until they start to release their juices, about 2 minutes.",
+    "Add the basil to the skillet and cook for 1 minute.",
+    "Add the pasta to the skillet and cook for 2-3 minutes, or until it starts to soften.",
+    "Add the mozzarella cheese to the skillet and cook until it starts to melt.",
+    "Season with salt and black pepper to taste.",
+    "Serve the pasta hot, topped with the crispy speck and fresh basil."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "italian",
+    "one-pan",
+    "weekend-dinner",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "gooey-weeknight-italian-speck-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-weeknight-italian-speck-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:28:38Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "gooey",
+    "mood": "weeknight",
+    "technique": "blanch",
+    "primaryIngredient": "speck",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "speck",
+    "descriptor": "Gooey Weeknight",
+    "dishForm": "Pasta"
+  }
+}
