@@ -1,0 +1,111 @@
+{
+  "title": "Glassy-jelly Brazilian Nduja Skillet",
+  "description": "A malty, glassy-jelly, one-pan dinner featuring Brazilian-style nduja and plant-based-friendly ingredients. This hearty, savory skillet is perfect for a quick weeknight meal.",
+  "cuisine": "Brazilian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "nduja",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "plant-based oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken bouillon",
+      "amount": "4 cups",
+      "notes": "vegetable or low-sodium broth"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "plant-based beef substitute",
+      "amount": "1 (14 oz) package",
+      "notes": "such as seitan or textured vegetable protein"
+    },
+    {
+      "name": "cooked quinoa",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium-high heat.",
+    "Add the onion and garlic and cook, stirring occasionally, until the onion is translucent, about 5 minutes.",
+    "Add the nduja and cook, stirring frequently, until it begins to brown and develop a glassy-jelly texture, about 5 minutes.",
+    "Deglaze the skillet with the bouillon, scraping up any browned bits from the bottom of the pan.",
+    "Stir in the malt syrup and cook for an additional minute.",
+    "Add the beef substitute and cook, breaking it up with a spoon, until it is browned and cooked through, about 5 minutes.",
+    "Stir in the cooked quinoa, tomato paste, and tomato sauce, and cook for 2-3 minutes, until the mixture is heated through.",
+    "Reduce heat to low and simmer for 5-10 minutes, allowing the flavors to meld together.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "comfort-food",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "plant-based",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 37,
+    "carbs": 60,
+    "fat": 22
+  },
+  "slug": "glassy-jelly-brazilian-nduja-skillet",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/glassy-jelly-brazilian-nduja-skillet",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:10:31Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "glassy-jelly",
+    "mood": "solo-dinner",
+    "technique": "deglaze",
+    "primaryIngredient": "nduja",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "nduja",
+    "descriptor": "Glassy-jelly",
+    "dishForm": "Skillet"
+  }
+}
