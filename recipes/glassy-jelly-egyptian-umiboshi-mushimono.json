@@ -1,0 +1,118 @@
+{
+  "title": "Glassy-Jelly Egyptian Umiboshi Mushimono",
+  "description": "A weeknight Egyptian dish featuring umeboshi and a low-glycemic-friendly glassy-jelly mustard sauce, steamed to perfection using the mushimono method.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "gluten-free",
+    "low-carb",
+    "vegan",
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Umeboshi Plums",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Maple Syrup",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Mustard Seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sugar-Free Jel",
+      "amount": "4 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, combine rice vinegar, maple syrup, ginger, mustard seeds, garlic, salt, and water. Bring to a boil over medium heat, then reduce to low heat and simmer for 10 minutes.",
+    "Strain the sauce through a fine-mesh sieve into a clean bowl, pressing on the solids to extract as much liquid as possible.",
+    "Add the turmeric, sugar-free jelly, coriander, and cilantro to the bowl and stir until the jelly has dissolved.",
+    "In a separate saucepan, bring a pot of water to a boil and blanch the umeboshi plums for 5 minutes. Drain and set aside.",
+    "To assemble the dish, place a few umeboshi plums on a plate and spoon the glassy-jelly sauce over them.",
+    "Steam the assembly using the mushimono method, covered with a clean towel, for 5 minutes, or until the sauce is set and the plums are tender."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "low-glycemic",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 1
+  },
+  "slug": "glassy-jelly-egyptian-umiboshi-mushimono",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/glassy-jelly-egyptian-umiboshi-mushimono",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:02:25Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "glassy-jelly",
+    "mood": "weeknight",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "umeboshi",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Umiboshi",
+    "descriptor": "Glassy-Jelly",
+    "dishForm": "Mushimono"
+  }
+}

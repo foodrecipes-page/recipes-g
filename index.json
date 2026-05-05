@@ -3214,6 +3214,20 @@
     "shard": "g"
   },
   {
+    "slug": "glassy-jelly-egyptian-umiboshi-mushimono",
+    "title": "Glassy-Jelly Egyptian Umiboshi Mushimono",
+    "tags": [
+      "high-protein",
+      "low-glycemic",
+      "one-pan",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 80,
+    "shard": "g"
+  },
+  {
     "slug": "glassy-jelly-mediterranean-beef-tacos",
     "title": "Glassy-Jelly Mediterranean Beef Tacos",
     "tags": [
@@ -5564,6 +5578,20 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 10,
+    "shard": "g"
+  },
+  {
+    "slug": "gooey-sour-egyptian-olives-tagine",
+    "title": "Gooey Sour Egyptian Olives Tagine",
+    "tags": [
+      "egyptian",
+      "gluten-free",
+      "one-pan",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
