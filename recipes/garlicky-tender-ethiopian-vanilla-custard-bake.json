@@ -1,0 +1,105 @@
+{
+  "title": "garlicky tender ethiopian vanilla custard bake",
+  "description": "a sweet and savory ethiopian-inspired dessert featuring vanilla custard, a delicate lacquer glaze, and a hint of garlic, perfect for a lazy sunday or a special occasion.",
+  "cuisine": "ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "vanilla beans",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "250",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "200",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "100",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "250",
+      "notes": ""
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "50",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 375f ",
+    "butter a 9-inch round cake pan and line the bottom with parchment paper ",
+    "whisk together the flour, sugar, and eggs in a medium bowl ",
+    "add the vanilla extract, butter, and garlic to the bowl and mix until combined ",
+    "pour the mixture into the prepared cake pan and smooth the top ",
+    "bake for 25 minutes or until a toothpick inserted into the center of the cake comes out clean ",
+    "allow the cake to cool in the pan for 5 minutes before transferring it to a wire rack ",
+    "whisk together the heavy cream and vanilla extract in a small bowl ",
+    "once the cake is cool, drizzle the lacquer glaze over the top of the cake ",
+    "serve warm and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "ethiopian",
+    "lazy-sunday",
+    "one-pan",
+    "vanilla-custard",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "garlicky-tender-ethiopian-vanilla-custard-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-tender-ethiopian-vanilla-custard-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:45:51Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "tender",
+    "mood": "lazy-sunday",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "vanilla custard",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "vanilla custard",
+    "descriptor": "garlicky tender",
+    "dishForm": "Bake"
+  }
+}
