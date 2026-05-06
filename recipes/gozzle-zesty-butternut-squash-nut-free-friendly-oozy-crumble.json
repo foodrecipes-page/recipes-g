@@ -1,0 +1,78 @@
+{
+  "title": "Gozzle Zesty Butternut Squash Nut-Free-Friendly Oozy Crumble",
+  "description": "A zesty croatian dish featuring butternut squash in a nut-free-friendly crumble with candy.",
+  "cuisine": "croation",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup cubed butternut squash",
+      "amount": ""
+    },
+    {
+      "name": "2 tbsp maple syrup",
+      "amount": ""
+    },
+    {
+      "name": "1/4 tsp sea salt",
+      "amount": ""
+    },
+    {
+      "name": "1/2 cup chopped candied ginger",
+      "amount": ""
+    },
+    {
+      "name": "6 oz vegan cream cheese",
+      "amount": ""
+    },
+    {
+      "name": "1/2 cup creamy peanut butter",
+      "amount": ""
+    },
+    {
+      "name": "1/4 tsp ground cinnamon",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F.",
+    "In a medium bowl, mix squash, maple syrup, salt, and ginger. Spread evenly on a baking sheet lined with parchment paper.",
+    "Top each serving of the squash mixture with peanut butter, followed by vegan cream cheese, and cinnamon.",
+    "Bake for 20 minutes or until golden brown and bubbly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "candy",
+    "croation-dessert",
+    "nut-free-friendly",
+    "zesty"
+  ],
+  "nutrition": {
+    "calories": 290,
+    "protein": 15,
+    "carbs": 43,
+    "fat": 8
+  },
+  "slug": "gozzle-zesty-butternut-squash-nut-free-friendly-oozy-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gozzle-zesty-butternut-squash-nut-free-friendly-oozy-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T14:58:45Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crumbly",
+    "mood": "nostalgic",
+    "technique": "candy",
+    "primaryIngredient": "butternut squash",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Zesty",
+    "mainIngredient": "Butternut Squash",
+    "descriptor": "Oozy",
+    "dishForm": "Crumble"
+  }
+}
