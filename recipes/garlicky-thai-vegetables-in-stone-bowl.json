@@ -1,0 +1,83 @@
+{
+  "title": "Garlicky Thai Vegetables in Stone Bowl",
+  "description": "A flavorful and nutritious meal prep dish featuring a blend of bitter vegetables cooked with Thai red curry paste. Ideal for those looking to incorporate Asian cuisine into their diet.",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Thai red curry paste",
+      "amount": "1"
+    },
+    {
+      "name": "Garlic",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "2"
+    },
+    {
+      "name": "Cucumbers",
+      "amount": "4"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Tahini",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Combine Thai red curry paste, garlic, and olive oil in a bowl.",
+    "Add bell peppers and cucumbers, toss to coat with the paste mixture.",
+    "Drizzle lime juice over vegetables, mix well.",
+    "Stir in fish sauce and tahini until everything is evenly coated.",
+    "Serve hot in a stone bowl for an authentic Thai dining experience."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-meal-prep",
+    "thai-flavor",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 18,
+    "carbs": 37,
+    "fat": 24
+  },
+  "slug": "garlicky-thai-vegetables-in-stone-bowl",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-thai-vegetables-in-stone-bowl",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T08:38:08Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "tender",
+    "mood": "meal-prep",
+    "technique": "toast",
+    "primaryIngredient": "thai red curry paste",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Vegetables",
+    "descriptor": "Garlicky",
+    "dishForm": "Bowl"
+  }
+}
