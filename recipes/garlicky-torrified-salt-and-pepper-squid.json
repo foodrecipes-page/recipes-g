@@ -1,0 +1,77 @@
+{
+  "title": "Garlicky Torrified Salt-and-Pepper Squid",
+  "description": "A delectable Chinese dish featuring char-grilled squid seasoned with salt and pepper for a date-night treat that's also whole30-friendly.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb (450g) squid, cleaned",
+      "amount": 1
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": 2
+    },
+    {
+      "name": "1 large head of cabbage, shredded",
+      "amount": 1
+    },
+    {
+      "name": "1 clove garlic, minced",
+      "amount": 1
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": 1
+    },
+    {
+      "name": "1/2 teaspoon black pepper",
+      "amount": 0.5
+    }
+  ],
+  "instructions": [
+    "Preheat your grill to medium-high heat.",
+    "Pat squid dry with paper towels and season it lightly with salt and pepper on all sides.",
+    "Grill the squid for about 3 minutes per side, until slightly charred and cooked through.",
+    "Sauté minced garlic in olive oil in a large skillet over medium heat until fragrant but not browned.",
+    "Add shredded cabbage to the skillet with the garlic and cook for about 2 minutes, stirring occasionally.",
+    "Toss the grilled squid into the skillet with the cabbage mixture. Season with additional salt and pepper to taste.",
+    "Serve immediately while warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "char-grilled-squid",
+    "garlicy",
+    "pillowy",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 187,
+    "protein": 20,
+    "carbs": 6,
+    "fat": 5
+  },
+  "slug": "garlicky-torrified-salt-and-pepper-squid",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-torrified-salt-and-pepper-squid",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T01:01:48Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "pillowy",
+    "mood": "date-night",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "cabbage",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Squid",
+    "descriptor": "Garlicky",
+    "dishForm": "Torrified Salt-and-Pepper Squid"
+  }
+}
