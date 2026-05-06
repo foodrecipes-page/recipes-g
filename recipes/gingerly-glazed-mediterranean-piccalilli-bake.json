@@ -1,0 +1,107 @@
+{
+  "title": "gingerly-glazed mediterranean piccalilli bake",
+  "description": "peppery, bouncy, and nostalgic mediterranean dish featuring piccalilli, wood-fired-bake, and halal-friendly ingredients in individual mini cocotte vessels.",
+  "cuisine": "mediterranean",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "egg yolks",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "piccalilli",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat your wood-fired oven to 400°F (200°C).",
+    "Mix egg yolks and flour in a bowl until well combined.",
+    "Add softened butter to the bowl and mix until smooth.",
+    "Add piccalilli and mix until smooth.",
+    "Add olive oil, ginger, garlic, salt, and cayenne pepper to the bowl and mix until well combined.",
+    "Spoon the mixture into individual mini cocotte vessels.",
+    "Place the vessels in the preheated oven and bake for 12 minutes.",
+    "Remove the vessels from the oven and garnish with chopped parsley.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "halal",
+    "mediterranean",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 11
+  },
+  "slug": "gingerly-glazed-mediterranean-piccalilli-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/gingerly-glazed-mediterranean-piccalilli-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:05:33Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "bouncy-qq",
+    "mood": "nostalgic",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "piccalilli",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "mediterranean",
+    "mainIngredient": "piccalilli",
+    "descriptor": "gingerly-glazed",
+    "dishForm": "bake"
+  }
+}

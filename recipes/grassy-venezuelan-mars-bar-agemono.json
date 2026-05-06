@@ -1,0 +1,109 @@
+{
+  "title": "Grassy Venezuelan Mars Bar Agemono",
+  "description": "A snappy, light Venezuelan dish featuring Mars bar and a dairy-free twist. Perfect for a quick snack or dessert.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Mars bars",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "Plant-based milk",
+      "amount": "1/2 cup",
+      "notes": "Any dairy-free milk alternative."
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Spices (optional)",
+      "amount": "",
+      "notes": "Paprika, cumin, or other grassy, earthy spices."
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped or torn for garnish."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Agemono batter mix",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Rice flour",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a deep frying pan to 350°F (175°C).",
+    "In a bowl, mix together the Mars bars, plant-based milk, and cornstarch until well combined.",
+    "Add in spices if using and mix to coat the Mars bars evenly.",
+    "Form the Mars bar mixture into small patties or nuggets.",
+    "In a separate bowl, mix together the agemono batter mix and rice flour.",
+    "Coat each Mars bar patty in the batter mix, pressing gently to adhere.",
+    "Fry the battered Mars bar patties in the hot oil for 2-3 minutes on each side, until golden brown and crispy.",
+    "Drain the patties on paper towels and garnish with fresh parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "deep-fried",
+    "dessert",
+    "easy",
+    "snack",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "grassy-venezuelan-mars-bar-agemono",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/grassy-venezuelan-mars-bar-agemono",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:05:08Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "snappy",
+    "mood": "light",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "mars bar",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "venezuelan",
+    "mainIngredient": "mars bar",
+    "descriptor": "grassy",
+    "dishForm": "agemono"
+  }
+}

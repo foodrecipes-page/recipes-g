@@ -3802,6 +3802,21 @@
     "shard": "g"
   },
   {
+    "slug": "gingerly-glazed-mediterranean-piccalilli-bake",
+    "title": "gingerly-glazed mediterranean piccalilli bake",
+    "tags": [
+      "easy-to-make",
+      "gluten-free",
+      "halal",
+      "mediterranean",
+      "one-pan",
+      "vegetarian"
+    ],
+    "cuisine": "mediterranean",
+    "totalTimeMin": 27,
+    "shard": "g"
+  },
+  {
     "slug": "gingery-mustardy-crunchy-filipino-corn-tortillas-tinola-style-filled-tortillas",
     "title": "Gingery Mustardy Crunchy Filipino Corn Tortillas Tinola-Style Filled Tortillas",
     "tags": [
@@ -7389,6 +7404,21 @@
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 45,
+    "shard": "g"
+  },
+  {
+    "slug": "grassy-venezuelan-mars-bar-agemono",
+    "title": "Grassy Venezuelan Mars Bar Agemono",
+    "tags": [
+      "deep-fried",
+      "dessert",
+      "easy",
+      "snack",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 20,
     "shard": "g"
   },
   {
