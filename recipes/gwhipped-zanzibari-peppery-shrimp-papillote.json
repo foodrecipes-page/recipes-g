@@ -1,0 +1,79 @@
+{
+  "title": "GWhipped Zanzibari Peppery Shrimp Papillote",
+  "description": "A quick-fix, peppery, molten Kenyan dish featuring shrimp in papillote that is lacto-vegetarian-friendly.",
+  "cuisine": "Kenyan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": 200
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Zanzibari Peppers (or hot peppers)",
+      "amount": "4"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "juice of 1 lemon"
+    },
+    {
+      "name": "Papillote Wraps (or aluminum foil for individual servings)",
+      "amount": null
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Clean and devein shrimp.",
+    "Finely chop garlic and finely dice onions and peppers.",
+    "Combine shrimp, garlic, onion, and peppers in a bowl. Add lemon juice to taste and season with salt and pepper.",
+    "Place each serving of the mixture into a papillote wrap or aluminum foil packet.",
+    "Bake at 180°C for 12 minutes.",
+    "Serve hot as a main course."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gourmet",
+    "lacto-vegetarian",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "gwhipped-zanzibari-peppery-shrimp-papillote",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gwhipped-zanzibari-peppery-shrimp-papillote",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T17:43:35Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "molten",
+    "mood": "quick-fix",
+    "technique": "papillote",
+    "primaryIngredient": "shrimp",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Zanzibari",
+    "mainIngredient": "Shrimp",
+    "descriptor": "Peppery",
+    "dishForm": "Papillote"
+  }
+}
