@@ -1,0 +1,123 @@
+{
+  "title": "Gooey Spanish Horseradish Wrap",
+  "description": "A flavorful and spicy Spanish-inspired wrap filled with gooey cheese and savory horseradish sauce, perfect for a quick and satisfying lunch or dinner.",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Large flour tortilla",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Sliced Manchego cheese",
+      "amount": "4 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Horseradish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sliced chorizo",
+      "amount": "2 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Sliced red onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sliced bell peppers",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt-free seasoning blend",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Place a large flour tortilla on a flat surface.",
+    "Spread 1 tablespoon of olive oil evenly over the tortilla, leaving a 1-inch border around the edges.",
+    "Sprinkle 1/4 teaspoon of garlic powder and 1/4 teaspoon of paprika evenly over the tortilla, within the oil border.",
+    "Top the tortilla with sliced chorizo, sliced red onion, sliced bell peppers, and chopped fresh cilantro, leaving a small border around the edges to allow for folding.",
+    "Spread 2 tablespoons of horseradish sauce evenly over the filling, within the tortilla edges.",
+    "Place 4 ounces of sliced Manchego cheese on top of the filling.",
+    "Fold the 1-inch border of the tortilla over the filling, and then fold in the sides, creating a compact wrap.",
+    "Place the wrap seam-side down in a large skillet or griddle over medium heat, and cook for 2-3 minutes or until the cheese is melted and the tortilla is crispy.",
+    "Carefully flip the wrap over and cook for an additional 2-3 minutes or until the other side is also crispy and the cheese is melted.",
+    "Remove the wrap from the skillet and let it cool for a minute before slicing and serving.",
+    "Slice the wrap into 4-6 equal pieces, depending on desired size.",
+    "Serve immediately, garnished with additional cilantro if desired.",
+    "Consider serving with a side of mixed greens or a simple green salad for a more substantial meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "horseradish",
+    "low-sodium",
+    "one-pan",
+    "spanish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "gooey-spanish-horseradish-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-spanish-horseradish-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:48:56Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "gooey",
+    "mood": "crowd-pleaser",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "horseradish",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "spanish",
+    "mainIngredient": "horseradish",
+    "descriptor": "gooey",
+    "dishForm": "wrap"
+  }
+}
