@@ -1,0 +1,106 @@
+{
+  "title": "Glassy-jelly Slovakian Rice Risotto",
+  "description": "A bitter, glassy-jelly dish featuring Carnaroli rice and dashi extract, perfect for a date-night Slovakian meal.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Carnaroli rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dashi extract",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sliced shallots",
+      "amount": "1 large",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "White wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Red wine vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large saucepan over medium heat.",
+    "Add finely chopped shallots and cook until translucent, about 5 minutes.",
+    "Add Carnaroli rice and cook for 1 minute, stirring constantly.",
+    "Add white wine and cook until absorbed, about 2 minutes.",
+    "Add dashi extract and stir to combine.",
+    "Add 1 cup of vegetable broth and cook, stirring constantly, until absorbed.",
+    "Repeat the process, adding broth in 1-cup increments, until the rice is cooked and creamy, about 20-25 minutes total.",
+    "Stir in brown sugar and red wine vinegar.",
+    "Season with salt to taste.",
+    "Transfer to a serving dish and garnish with chopped parsley.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 850,
+    "protein": 12,
+    "carbs": 120,
+    "fat": 36
+  },
+  "slug": "glassy-jelly-slovakian-rice-risotto",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/glassy-jelly-slovakian-rice-risotto",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:06:59Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "glassy-jelly",
+    "mood": "date-night",
+    "technique": "dashi-extract",
+    "primaryIngredient": "carnaroli-rice",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "rice",
+    "descriptor": "glassy-jelly",
+    "dishForm": "risotto"
+  }
+}
