@@ -1,0 +1,105 @@
+{
+  "title": "Garlic Grilled Jamaican Taleggio Bowl",
+  "description": "A rich, shaggy Jamaican inspired dish featuring melty Taleggio cheese, served atop a bed of blanched greens. This satvik-friendly meal is perfect for meal prep and can be grilled to perfection on a robata grill.",
+  "cuisine": "Jamaican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Taleggio cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Blanched kale",
+      "amount": "2 cups",
+      "notes": "massage before serving for tender leaves"
+    },
+    {
+      "name": "Canned crushed tomatoes",
+      "amount": "1 can",
+      "notes": "look for low-sodium option"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing grill"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": "adds a smoky flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Jalapeño",
+      "amount": "1",
+      "notes": "seeds removed, sliced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium-high heat.",
+    "In a small bowl, mix together crushed tomatoes, smoked paprika, salt, and black pepper.",
+    "Grill Taleggio cheese for 2-3 minutes per side, until melted and slightly charred.",
+    "Meanwhile, brush the grill with olive oil and add sliced jalapeño and red onion.",
+    "Grill for 2-3 minutes, until slightly charred.",
+    "Add the blanched kale to the grill and massage with your hands until it reaches your desired level of tenderness.",
+    "To assemble the bowls, place a grilled Taleggio slice on top of a bed of kale, followed by a spoonful of the tomato mixture.",
+    "Repeat the layers until all ingredients are used up.",
+    "Garnish with additional sliced jalapeño and red onion, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "jamaican",
+    "satvik",
+    "vegan-option"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "garlic-grilled-jamaican-taleggio-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlic-grilled-jamaican-taleggio-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:53:17Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "shaggy",
+    "mood": "meal-prep",
+    "technique": "blanch",
+    "primaryIngredient": "taleggio",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Taleggio",
+    "descriptor": "Garlic Grilled",
+    "dishForm": "Bowl"
+  }
+}

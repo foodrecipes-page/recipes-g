@@ -1,0 +1,123 @@
+{
+  "title": "Glowing Mid-Night Saudi-Arabian Parmigiano-Reggiano Grill",
+  "description": "A unique fusion of Italian and Middle Eastern flavors, featuring the nutty taste of Parmigiano-Reggiano and the richness of score-fat, designed to satisfy your midnight cravings. This Ayurvedic-tamasic-friendly dish is perfect for a late-night snack or dessert.",
+  "cuisine": "Middle Eastern Italian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Parmigiano-Reggiano",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Score-fat",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Rose petals",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Grape molasses",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Cardamom",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Crushed pistachios",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Labneh cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette grill to 375\u00059f (190\rC).",
+    "Apply a thin layer of ghee to the grill surface. ",
+    "Place the Parmigiano-Reggiano on the grill and cook for 5 minutes, or until lightly browned.",
+    "Add the score-fat, rose petals, and grape molasses to the grill and mix well.",
+    "Sprinkle the cardamom and cinnamon over the top and continue cooking for another 2 minutes.",
+    "Transfer the mixture to a serving dish and garnish with fresh parsley, salt, and black pepper.",
+    "Sprinkle crushed pistachios over the top and serve with labneh cheese and honey on the side.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "grill",
+    "italian",
+    "middle-eastern",
+    "midnight-curry",
+    "parmesan",
+    "saudi-arabian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "glowing-mid-night-saudi-arabian-parmigiano-reggiano-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/glowing-mid-night-saudi-arabian-parmigiano-reggiano-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:53:38Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "snappy",
+    "mood": "midnight-craving",
+    "technique": "score-fat",
+    "primaryIngredient": "parmigiano-reggiano",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "Parmigiano-Reggiano",
+    "descriptor": "Glowing Mid-Night",
+    "dishForm": "Grill"
+  }
+}

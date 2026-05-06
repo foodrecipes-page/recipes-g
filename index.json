@@ -258,6 +258,19 @@
     "shard": "g"
   },
   {
+    "slug": "garlic-grilled-jamaican-taleggio-bowl",
+    "title": "Garlic Grilled Jamaican Taleggio Bowl",
+    "tags": [
+      "grilled",
+      "jamaican",
+      "satvik",
+      "vegan-option"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "garlic-infused-velvety-russian-leek-borscht",
     "title": "Garlic-infused, Velvety Russian Leek Borscht",
     "tags": [
@@ -4399,6 +4412,23 @@
     "shard": "g"
   },
   {
+    "slug": "glowing-mid-night-saudi-arabian-parmigiano-reggiano-grill",
+    "title": "Glowing Mid-Night Saudi-Arabian Parmigiano-Reggiano Grill",
+    "tags": [
+      "dessert",
+      "grill",
+      "italian",
+      "middle-eastern",
+      "midnight-curry",
+      "parmesan",
+      "saudi-arabian",
+      "snack"
+    ],
+    "cuisine": "Middle Eastern Italian",
+    "totalTimeMin": 30,
+    "shard": "g"
+  },
+  {
     "slug": "glowing-norwegian-salmon-ceviche",
     "title": "Glowing Norwegian Salmon Ceviche",
     "tags": [
@@ -5378,6 +5408,18 @@
     ],
     "cuisine": "British",
     "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
+    "slug": "gooey-cheese-norteno-mexican-soya-milk-quesadilla",
+    "title": "Gooey Cheese Norteño Mexican Soya Milk Quesadilla",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 18,
     "shard": "g"
   },
   {

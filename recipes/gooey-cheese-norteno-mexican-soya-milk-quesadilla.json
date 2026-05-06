@@ -1,0 +1,98 @@
+{
+  "title": "Gooey Cheese Norteño Mexican Soya Milk Quesadilla",
+  "description": "A savory, cheese-pull, energizing Mexican (Norteño) dish featuring soya milk and a broiler. Suitable for a dairy-free, FODMAP-friendly diet.",
+  "cuisine": "Mexican",
+  "diet": [
+    "dairy-free",
+    "fodmap-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup soya milk",
+      "amount": "1 cup",
+      "notes": "unsweetened, unflavored"
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "1 small onion",
+      "amount": "1",
+      "notes": "diced, FODMAP-friendly"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "2",
+      "notes": "minced, FODMAP-friendly"
+    },
+    {
+      "name": "1 teaspoon cumin",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon paprika",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon cayenne pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "8 ounces queso fresco or Monterey Jack cheese, shredded",
+      "amount": "8",
+      "notes": "FODMAP-friendly, dairy-free alternative available"
+    },
+    {
+      "name": "2 large tortillas",
+      "amount": "2",
+      "notes": "corn, FODMAP-friendly"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler. Heat the olive oil in a large skillet over medium heat. Add the diced onion and cook for 3-4 minutes, until softened. Add the minced garlic and cook for another minute, until fragrant. Stir in the cumin, paprika, and cayenne pepper. Cook for 1 minute, until the spices are fragrant. In a large bowl, combine the cooked onion mixture, shredded cheese, and soya milk. Stir until the cheese is well coated. ",
+    "Add one of the corn tortillas to the skillet and sprinkle half of the cheese mixture onto half of the tortilla. Fold the tortilla in half to enclose the filling. Cook for 2-3 minutes, until the tortilla is crispy and the cheese is melted. ",
+    "Flip the quesadilla and cook for another 2-3 minutes, until the other side is crispy and the cheese is melted. ",
+    "Repeat with the remaining tortilla and cheese mixture. ",
+    "Cut the quesadillas into wedges and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 28,
+    "carbs": 42,
+    "fat": 30
+  },
+  "slug": "gooey-cheese-norteno-mexican-soya-milk-quesadilla",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-cheese-norteno-mexican-soya-milk-quesadilla",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:53:50Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "cheese-pull",
+    "mood": "energizing",
+    "technique": "broil",
+    "primaryIngredient": "soya milk",
+    "diet": "fodmap",
+    "region": "norteño",
+    "cuisineAdjective": "Norteño Mexican",
+    "mainIngredient": "Soya Milk",
+    "descriptor": "Gooey Cheese",
+    "dishForm": "Quesadilla"
+  }
+}
