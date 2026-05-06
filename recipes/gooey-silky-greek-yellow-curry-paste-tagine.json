@@ -1,0 +1,114 @@
+{
+  "title": "Gooey Silky Greek Yellow-Curry-Paste Tagine",
+  "description": "A savory, silky, and delectable Greek dish featuring the warmth of yellow-curry-paste and bhuna spices. Perfect for a lazy Sunday afternoon.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "sugar-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef or Lamb Mince",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 cm",
+      "notes": ""
+    },
+    {
+      "name": "Yellow-Curry-Paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Bhuna Spice Mix",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "White Wine",
+      "amount": "50ml",
+      "notes": ""
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Diced Tomatoes",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1 bunch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add onion and cook until translucent, about 5 minutes.",
+    "Add garlic and ginger; cook for a further 1 minute.",
+    "Add beef or lamb mince; cook until browned, breaking it up with a spoon as it cooks.",
+    "Add yellow-curry-paste and bhuna spice mix; cook for 1 minute."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 50,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfortfood",
+    "greektagine",
+    "lowcarb",
+    "sugarfree"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 15,
+    "fat": 25
+  },
+  "slug": "gooey-silky-greek-yellow-curry-paste-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-silky-greek-yellow-curry-paste-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:04:24Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "silky",
+    "mood": "lazy-sunday",
+    "technique": "bhuna",
+    "primaryIngredient": "yellow-curry-paste",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "yellow-curry-paste",
+    "descriptor": "Gooey Silky",
+    "dishForm": "Tagine"
+  }
+}
