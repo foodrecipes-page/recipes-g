@@ -1,0 +1,74 @@
+{
+  "title": "GShattering Celery Smoky Pilaf",
+  "description": "A show-off Japanese dish featuring celery, katsuramuki-cut, in a smoky flavor profile, halal-friendly and suitable for all occasions.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "celery",
+      "amount": 500,
+      "notes": "use katsuramuki-cut celery"
+    },
+    {
+      "name": "rice",
+      "amount": 400
+    },
+    {
+      "name": "sesame seeds",
+      "amount": 25
+    },
+    {
+      "name": "soy sauce",
+      "amount": 30
+    },
+    {
+      "name": "shichimi togarashi (ginger, pepper, sesame)",
+      "amount": 10
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425 degrees F.",
+    "In a large bowl, mix rice with soy sauce and shichimi togarashi. Stir well until evenly coated.",
+    "Add katsuramuki-cut celery and sesame seeds on top of the rice mixture. Mix gently to distribute.",
+    "Transfer the mixture into a greased baking dish. Bake for 20 minutes.",
+    "Remove from oven, reduce heat to 350 degrees F, and bake for an additional 10-15 minutes until golden brown.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 35,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "celery",
+    "halal",
+    "japanese",
+    "pilaf",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 20,
+    "carbs": 70,
+    "fat": 18
+  },
+  "slug": "gshattering-celery-smoky-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gshattering-celery-smoky-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T12:31:56Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "shattering",
+    "mood": "show-off",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "celery",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Smoky",
+    "mainIngredient": "Celery",
+    "descriptor": "Shattering",
+    "dishForm": "Pilaf"
+  }
+}
