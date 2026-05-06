@@ -1,0 +1,101 @@
+{
+  "title": "Gooey British Bangers Mash",
+  "description": "A post-workout British dish featuring bangers and mash with a gooey twist, perfect for a low-carb friendly meal after a workout.",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork sausage (bangers)",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Mashed cauliflower",
+      "amount": "800g",
+      "notes": "Low-carb alternative to mashed potatoes"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Thyme",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Grated cheddar cheese",
+      "amount": "150g",
+      "notes": "+ gooey cheese on top"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the bangers and cook until browned on both sides, about 5 minutes.",
+    "Transfer the bangers to a plate and set aside.",
+    "Add the minced garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Add the mashed cauliflower to the skillet and stir to combine with the garlic and oil.",
+    "Season with salt, pepper, and thyme.",
+    "Return the bangers to the skillet and stir to combine with the cauliflower mixture.",
+    "Transfer the mixture to a serving dish and top with grated cheddar cheese.",
+    "Dot the top with butter and place under the broiler until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 620,
+    "protein": 44,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "gooey-british-bangers-mash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-british-bangers-mash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:50:38Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "gooey",
+    "mood": "post-workout",
+    "technique": "stir-fry",
+    "primaryIngredient": "oil",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "british",
+    "mainIngredient": "bangers",
+    "descriptor": "gooey",
+    "dishForm": null
+  }
+}
