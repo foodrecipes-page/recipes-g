@@ -1,0 +1,93 @@
+{
+  "title": "Gooey Bitter Syrian Double Cream Bake",
+  "description": "Nostalgic Syrian dish featuring double cream, great for a comforting evening meal. Serve warm, topped with a drizzle of honey, if desired.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Double cream",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Ghee or vegetable oil",
+      "amount": "50ml",
+      "notes": ""
+    },
+    {
+      "name": "Dark brown sugar",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Fine semolina",
+      "amount": "120g",
+      "notes": ""
+    },
+    {
+      "name": "Ground cardamom",
+      "amount": "1/2 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "1/2 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "20g",
+      "notes": "for dusting"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick tava-griddle over medium heat.",
+    "Dust the tava-griddle with flour, then brush with ghee or oil.",
+    "In a separate bowl, whisk together semolina, cardamom, cinnamon, and salt.",
+    "Gradually add the brown sugar to the semolina mixture, stirring until well combined."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "desserts",
+    "easy-to-make",
+    "flan-like",
+    "ghee-based",
+    "high-fat",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 1440,
+    "protein": 24,
+    "carbs": 120,
+    "fat": 96
+  },
+  "slug": "gooey-bitter-syrian-double-cream-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-bitter-syrian-double-cream-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:58:22Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "gooey",
+    "mood": "nostalgic",
+    "technique": "rest",
+    "primaryIngredient": "double cream",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Double Cream",
+    "descriptor": "Gooey Bitter",
+    "dishForm": "Bake"
+  }
+}
