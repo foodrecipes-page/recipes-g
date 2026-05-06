@@ -1,0 +1,100 @@
+{
+  "title": "Garlicky Quick Middle-Eastern Egg Shakshuka",
+  "description": "A delicious, creamy, and garlicky Middle-Eastern dish made in one pan, perfect for a quick breakfast, lunch, or dinner. This recipe is Whole30-friendly and features dark soft brown sugar for added depth of flavor.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Dark soft brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped, for garnish"
+    },
+    {
+      "name": "Eggs",
+      "amount": "4 large"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large cast-iron skillet over medium-low heat.",
+    "Heat the olive oil in a large cast-iron skillet over medium-low heat.",
+    "Peel and chop the onion and bell pepper, and add them to the skillet. Cook for 5 minutes, stirring occasionally.",
+    "Add the minced garlic and cook for an additional 2 minutes, stirring constantly.",
+    "Stir in the ground cumin and cook for 1 minute.",
+    "Stir in the dark soft brown sugar and cook for 2 minutes.",
+    "Create 4 wells in the egg mixture and crack an egg into each well.",
+    "Cook the eggs for 5-7 minutes, or until the whites are set and the yolks are cooked to your desired doneness.",
+    "Garnish with chopped fresh parsley and season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "lunch",
+    "middle-eastern",
+    "one-pan",
+    "quick",
+    "weeknight",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 24,
+    "fat": 16
+  },
+  "slug": "garlicky-quick-middle-eastern-egg-shakshuka",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-quick-middle-eastern-egg-shakshuka",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:59:53Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "creamy",
+    "mood": "festive",
+    "technique": "slow-cook",
+    "primaryIngredient": "dark soft brown sugar",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "Egg",
+    "descriptor": "Garlicky Quick",
+    "dishForm": "Shakshuka"
+  }
+}

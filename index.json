@@ -497,6 +497,22 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-aerated-german-dish-paella",
+    "title": "Garlicky Aerated German Paella in Scallop Shells",
+    "tags": [
+      "german",
+      "keto",
+      "low-carb",
+      "one-pan",
+      "seafood",
+      "show-off",
+      "weeknight"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 50,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-algerian-garlic-tagine",
     "title": "Garlicky Algerian Garlic Tagine",
     "tags": [
@@ -2543,6 +2559,22 @@
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 20,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-quick-middle-eastern-egg-shakshuka",
+    "title": "Garlicky Quick Middle-Eastern Egg Shakshuka",
+    "tags": [
+      "breakfast",
+      "lunch",
+      "middle-eastern",
+      "one-pan",
+      "quick",
+      "weeknight",
+      "whole30-friendly"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {

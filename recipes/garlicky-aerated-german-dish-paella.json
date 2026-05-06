@@ -1,0 +1,123 @@
+{
+  "title": "Garlicky Aerated German Paella in Scallop Shells",
+  "description": "A show-off German dish featuring HP sauce, infuse-oil, and keto-friendly ingredients, all in a delicate scallop-shell vessel. This recipe is perfect for impressing your dinner guests with its unique presentation and bold flavors.",
+  "cuisine": "German",
+  "diet": [
+    "keto",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Scallops",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "Infuse-Oil",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "HP Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Grated Parmesan",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cubed Bacon",
+      "amount": "6 slices",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Rinse the scallop shells under cold water and dry them with a paper towel.",
+    "In a large bowl, whisk together the HP sauce, infuse-oil, smoked paprika, garlic powder, salt, and black pepper.",
+    "Add the heavy cream and whisk until smooth.",
+    "Add the cubed bacon and cook in a skillet until crispy, then set aside.",
+    "Add the chopped scallions, grated Parmesan, and chopped fresh parsley to the bowl and stir to combine.",
+    "Spoon the mixture into the scallop shells, dividing it evenly among the 12 shells.",
+    "Top each shell with 3-4 scallops and a sprinkle of crispy bacon.",
+    "Place the scallop shells on a baking sheet and bake for 15 minutes.",
+    "Serve immediately, garnished with additional chopped parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 12,
+  "difficulty": "hard",
+  "tags": [
+    "german",
+    "keto",
+    "low-carb",
+    "one-pan",
+    "seafood",
+    "show-off",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 63,
+    "carbs": 15,
+    "fat": 52
+  },
+  "slug": "garlicky-aerated-german-dish-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-aerated-german-dish-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:59:55Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "aerated",
+    "mood": "show-off",
+    "technique": "infuse-oil",
+    "primaryIngredient": "hp-sauce",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "german",
+    "mainIngredient": "dish",
+    "descriptor": "garlicky, aerated",
+    "dishForm": "paella"
+  }
+}
