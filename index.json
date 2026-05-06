@@ -555,6 +555,21 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-bouncy-ehomaki-ice-cream",
+    "title": "Garlicky Bouncy Ehomaki Ice Cream",
+    "tags": [
+      "ehomaki",
+      "festival-friendly",
+      "fried-ingredients",
+      "japanese-eggs",
+      "rice-ball-inspired",
+      "spicy"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-bouncy-german-sausage-stew",
     "title": "Garlicky Bouncy German Sausage Stew",
     "tags": [

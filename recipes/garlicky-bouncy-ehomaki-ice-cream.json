@@ -1,0 +1,87 @@
+{
+  "title": "Garlicky Bouncy Ehomaki Ice Cream",
+  "description": "This festive Japanese dish combines the creamy texture of ice cream with a crispy exterior achieved through deep-frying agemono. It's spicy and flavorful, perfect for dessert.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ice cream",
+      "amount": 200
+    },
+    {
+      "name": "flour",
+      "amount": 150
+    },
+    {
+      "name": "salt",
+      "amount": 10
+    },
+    {
+      "name": "garlic powder",
+      "amount": 30
+    },
+    {
+      "name": "canola oil",
+      "amount": 200
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "as needed"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": 15
+    },
+    {
+      "name": "sugar",
+      "amount": 10
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (392°F).",
+    "Mix ice cream, flour, salt, and garlic powder in a bowl.",
+    "Form into balls about the size of ping pong balls.",
+    "Dip each ball into breadcrumbs and sesame seeds, coat well.",
+    "Heat canola oil until hot. Fry until golden brown, flipping gently.",
+    "Remove from heat. Drizzle with sugar mixture for crunch effect.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ehomaki",
+    "festival-friendly",
+    "fried-ingredients",
+    "japanese-eggs",
+    "rice-ball-inspired",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "garlicky-bouncy-ehomaki-ice-cream",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-bouncy-ehomaki-ice-cream",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T22:05:56Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "bouncy-qq",
+    "mood": "festive",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "ice cream",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Festive Japanese",
+    "mainIngredient": "Ice Cream",
+    "descriptor": "Garlicky Bouncy",
+    "dishForm": "Ehomaki"
+  }
+}
