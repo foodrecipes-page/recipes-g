@@ -1,0 +1,88 @@
+{
+  "title": "GCrunchy Australian Pineapple Wrap",
+  "description": "A spicy, crisp, adventurous dish featuring tarragon-french, lacquer-glaze, and ovo-vegetarian-friendly ingredients.",
+  "cuisine": "Australian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pineapple",
+      "amount": 1
+    },
+    {
+      "name": "Chili peppers",
+      "amount": "2"
+    },
+    {
+      "name": "Tarragon leaves",
+      "amount": "few"
+    },
+    {
+      "name": "Glaze sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Spices blend (salt, black pepper, cumin)",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Peel and dice the pineapple.",
+    "Dice the chili peppers and finely chop tarragon leaves.",
+    "Heat olive oil in a pan over medium heat. Add garlic cloves and spices blend, cook for 1 minute until fragrant.",
+    "Add diced chili peppers, pineapple, and tarragon to the pan. Cook for another 2 minutes.",
+    "Transfer mixture into a bowl, drizzle with glaze sauce and mix well.",
+    "Heat vegetable oil in another pan over medium heat. Place the wrap bread on it and cook until crispy and golden brown.",
+    "Place the cooked wrap bread on a plate, top with the pineapple-tarragon chili mixture.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "crispy",
+    "glazed",
+    "spicy",
+    "tarragon-based",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "gcrunchy-australian-pineapple-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gcrunchy-australian-pineapple-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T03:43:34Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crisp",
+    "mood": "adventurous",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "tarragon-french",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Pineapple",
+    "descriptor": "Crunchy",
+    "dishForm": "Wrap"
+  }
+}
