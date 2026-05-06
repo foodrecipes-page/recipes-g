@@ -1,0 +1,83 @@
+{
+  "title": "Grassy Wholesome Gelly Bake",
+  "description": "A glassy-jelly dessert featuring oats and other wholesome ingredients that satisfy midnight cravings.",
+  "cuisine": "Jamaican",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup rolled oats",
+      "amount": "cup"
+    },
+    {
+      "name": "3/4 cup tapioca pearls (boba)",
+      "amount": "cup"
+    },
+    {
+      "name": "1 can coconut milk",
+      "amount": "can"
+    },
+    {
+      "name": "2 tbsp agave nectar or honey",
+      "amount": ""
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": ""
+    },
+    {
+      "name": "2 tbsp lemon juice (freshly squeezed)",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup fresh mint leaves, chopped",
+      "amount": ""
+    },
+    {
+      "name": "Vegetable oil for greasing the baking dish",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C). Grease a smallish cake pan with vegetable oil.",
+    "In a saucepan, mix oats and coconut milk. Bring to a simmer over medium heat and cook until thickened, about 2 minutes.",
+    "Add agave nectar or honey and salt. Stir well. Remove from heat. Add mint leaves and lemon juice; stir gently but thoroughly so as not to break up pearls.",
+    "Pour mixture into greased pan. Place in preheated oven. Bake for 15-20 minutes until set, stirring occasionally with a spatula near the edges only.",
+    "Let cool slightly before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "egg-free",
+    "jelly-dessert",
+    "oat-based",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 36,
+    "fat": 1
+  },
+  "slug": "grassy-wholesome-gelly-bake",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/grassy-wholesome-gelly-bake",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T04:06:39Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "glassy-jelly",
+    "mood": "midnight-craving",
+    "technique": "bake",
+    "primaryIngredient": "oats",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Wholesome",
+    "mainIngredient": "Gelly",
+    "descriptor": "Grassy",
+    "dishForm": "Bake"
+  }
+}
