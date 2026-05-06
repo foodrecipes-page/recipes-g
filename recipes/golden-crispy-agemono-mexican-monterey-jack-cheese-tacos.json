@@ -1,0 +1,119 @@
+{
+  "title": "Golden Crispy Agemono Mexican Monterey Jack Cheese Tacos",
+  "description": "A citrusy and crispy Mexican dish from Chiapas, perfect for a sick day. Monterey jack cheese is the star of the show here, paired with a crunchy slate tile vessel.",
+  "cuisine": "mexican",
+  "diet": [
+    "low-carb",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Monterey jack cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Agemono batter mix",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Orange juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Avocado oil",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Jalape\u00125",
+      "amount": "1-2",
+      "notes": ""
+    },
+    {
+      "name": "Slate tile vessel",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat the avocado oil in a deep frying pan to 375°F.",
+    "In a separate bowl, mix together the Agemono batter mix, lime juice, orange juice, cayenne pepper, paprika, salt, and black pepper.",
+    "Add the Monterey jack cheese to the bowl and toss to coat.",
+    "Dip the cheese into the hot oil and fry for 2-3 minutes, or until golden brown.",
+    "Using a slotted spoon, remove the cheese from the oil and place it on a paper towel-lined plate to drain excess oil.",
+    "Repeat the frying process with the remaining cheese.",
+    "Meanwhile, chop the fresh cilantro and slice the jalape\u00125.",
+    "Once the cheese is done, place it on the slate tile vessel and top with chopped cilantro and sliced jalape\u00125.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "crunchy",
+    "low-carb",
+    "mexican",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 24,
+    "carbs": 16,
+    "fat": 66
+  },
+  "slug": "golden-crispy-agemono-mexican-monterey-jack-cheese-tacos",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-crispy-agemono-mexican-monterey-jack-cheese-tacos",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:01:24Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crispy",
+    "mood": "sick-day",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "monterey jack cheese",
+    "diet": "low-carb",
+    "region": "chiapan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Monterey jack cheese",
+    "descriptor": "Golden crispy Agemono",
+    "dishForm": "Tacos"
+  }
+}

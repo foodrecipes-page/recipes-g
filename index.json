@@ -2417,6 +2417,25 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-molten-brazilian-beef-bowl",
+    "title": "Garlicky Molten Brazilian Beef Bowl",
+    "tags": [
+      "beef",
+      "brazilian",
+      "comfort-food",
+      "easy-meal-prep",
+      "garlic-lovers",
+      "low-carb",
+      "one-pot",
+      "paleo",
+      "weeknight",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 50,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-molten-comforting-venezuelan-dish-pilaf",
     "title": "Garlicky Molten Comforting Venezuelan Dish Pilaf",
     "tags": [
@@ -4776,6 +4795,20 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 40,
+    "shard": "g"
+  },
+  {
+    "slug": "golden-crispy-agemono-mexican-monterey-jack-cheese-tacos",
+    "title": "Golden Crispy Agemono Mexican Monterey Jack Cheese Tacos",
+    "tags": [
+      "cheesy",
+      "crunchy",
+      "low-carb",
+      "mexican",
+      "weeknight"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 32,
     "shard": "g"
   },
   {
@@ -7340,6 +7373,21 @@
     ],
     "cuisine": "Jamaican",
     "totalTimeMin": 70,
+    "shard": "g"
+  },
+  {
+    "slug": "greatly-spiced-tunisian-almonds-pastry",
+    "title": "Greatly Spiced Tunisian Almonds Pastry",
+    "tags": [
+      "dairy-free",
+      "dessert",
+      "gluten-free",
+      "pastry",
+      "tunisian",
+      "vegetarian"
+    ],
+    "cuisine": "tunisian",
+    "totalTimeMin": 60,
     "shard": "g"
   },
   {
