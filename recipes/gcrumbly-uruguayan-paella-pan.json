@@ -1,0 +1,83 @@
+{
+  "title": "Gcrumbly Uruguayan Paella-Pan",
+  "description": "An earthy, crumbly brunch dish featuring guanciale and cooked in a paella-pan for a low-carb-friendly meal.",
+  "cuisine": "Uruguayan",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "guanciale",
+      "amount": "100g"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "2 large"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "20"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat broth in a paella-pan over medium heat.",
+    "Add guanciale, saffron, and red pepper flakes; stir for 5 minutes.",
+    "Chop onion and zucchini. Add to the pan with garlic and basil leaves; cook until softened.",
+    "Garnish with additional herbs and serve warm."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "brunch-mood",
+    "crumbly",
+    "gourmet-dish",
+    "low-carb",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "gcrumbly-uruguayan-paella-pan",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gcrumbly-uruguayan-paella-pan",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T17:10:32Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crumbly",
+    "mood": "brunch-mood",
+    "technique": "whisk",
+    "primaryIngredient": "guanciale",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "guanciale",
+    "descriptor": "Crumbly",
+    "dishForm": "Paella-pan Crumble"
+  }
+}

@@ -3163,6 +3163,20 @@
     "shard": "g"
   },
   {
+    "slug": "gcrumbly-uruguayan-paella-pan",
+    "title": "Gcrumbly Uruguayan Paella-Pan",
+    "tags": [
+      "brunch-mood",
+      "crumbly",
+      "gourmet-dish",
+      "low-carb",
+      "uruguayan"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 75,
+    "shard": "g"
+  },
+  {
     "slug": "gcrunchy-australian-pineapple-wrap",
     "title": "GCrunchy Australian Pineapple Wrap",
     "tags": [
