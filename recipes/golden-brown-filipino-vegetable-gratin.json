@@ -1,0 +1,105 @@
+{
+  "title": "Golden Brown Filipino Vegetable Gratin",
+  "description": "A hearty, ovo-vegetarian Filipino dish featuring a rich dry white wine sauce and a variety of grilled vegetables, perfect for a comforting meal on a sick day. The terracotta dish adds a rustic touch to this resinous and crumbly gratin.",
+  "cuisine": "Filipino",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "zucchini",
+      "amount": "2 medium",
+      "notes": "sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium-high heat and brush the eggplant and zucchini slices with vegetable oil.",
+    "Grill the eggplant and zucchini slices for 3-4 minutes per side, or until they are tender and lightly charred.",
+    "In a large saucepan, heat the dry white wine over medium heat until it is reduced by half.",
+    "Add the minced garlic and chopped onion to the saucepan and cook until the onion is translucent.",
+    "Add the diced tomato to the saucepan and cook for an additional 2-3 minutes.",
+    "In a large bowl, combine the grilled eggplant and zucchini slices, the tomato and garlic mixture, and the shredded mozzarella cheese.",
+    "Transfer the mixture to a terracotta dish and top with the grated parmesan cheese and breadcrumbs.",
+    "Bake the gratin in a preheated oven at 375 degrees Fahrenheit for 25-30 minutes, or until it is golden brown and bubbly.",
+    "Remove the gratin from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "filipino-food",
+    "gratin-recipes",
+    "ovo-vegetarian",
+    "vegetarian-dishes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "golden-brown-filipino-vegetable-gratin",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-brown-filipino-vegetable-gratin",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-06T21:08:03Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crumbly",
+    "mood": "sick-day",
+    "technique": "robata-grill",
+    "primaryIngredient": "dry white wine",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "vegetables",
+    "descriptor": "Golden Brown",
+    "dishForm": "Gratin"
+  }
+}
