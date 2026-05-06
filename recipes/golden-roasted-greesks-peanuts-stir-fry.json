@@ -1,0 +1,76 @@
+{
+  "title": "Golden Roasted Greesks Peanuts Stir-fry",
+  "description": "A jammy, gooey Croatian dish featuring roasted peanut, dashi-extract, and Jain-friendly ingredients.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "roasted peanuts",
+      "amount": "100g"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "3 tsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp minced"
+    },
+    {
+      "name": "scallions",
+      "amount": "5g sliced"
+    },
+    {
+      "name": "salt to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a wok over medium heat.",
+    "Add roasted peanuts and stir for about 1 minute.",
+    "Stir in dashi extract, ginger, scallions, and salt.",
+    "Cook until fragrant and the mixture is evenly coated.",
+    "Serve hot as a snack or side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "croatian-recipe",
+    "ganash-friendly",
+    "jain-friendly",
+    "light-dish",
+    "peanut-stir-fry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 14,
+    "carbs": 10,
+    "fat": 7
+  },
+  "slug": "golden-roasted-greesks-peanuts-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-roasted-greesks-peanuts-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T15:41:23Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "gooey",
+    "mood": "light",
+    "technique": "dashi-extract",
+    "primaryIngredient": "roasted peanut",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Greeks",
+    "mainIngredient": "Peanuts",
+    "descriptor": "Golden Roasted",
+    "dishForm": "Stir-fry"
+  }
+}
