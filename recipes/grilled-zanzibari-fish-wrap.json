@@ -1,0 +1,72 @@
+{
+  "title": "Grilled Zanzibari Fish Wrap",
+  "description": "A low-sodium friendly Grilled Zanzibari Fish Wrap using fermented makrut lime leaves and rendered fat for a chewy, adventurous Portuguese dish.",
+  "cuisine": "Portuguese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fermented Makrut Lime Leaves",
+      "amount": "10"
+    },
+    {
+      "name": "Rendered Fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Low-Sodium White Fish Fillets",
+      "amount": "4 pieces",
+      "notes": "Fillets of white fish such as cod or haddock"
+    },
+    {
+      "name": "Pasta Sauce (Optional)",
+      "amount": "-",
+      "notes": "A low-sodium pasta sauce can be used for added flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat your grill to medium-high heat.",
+    "Prepare the Fermented Makrut Lime Leaves by cleaning and tearing them into bite-sized pieces.",
+    "Season each white fish fillet with salt and pepper, then place on a plate. Top each fillet with Fermented Makrut Lime Leaves.",
+    "Heat the rendered fat in a pan over medium heat. Once hot, add the seasoned fillets and cook for 4-5 minutes per side or until fully cooked (fish should flake easily).",
+    "Squeeze fresh lime juice over the cooked fish before serving it with a pasta sauce if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "chewy",
+    "fermented",
+    "garnish",
+    "grilled",
+    "latitudinal",
+    "low-sodium"
+  ],
+  "nutrition": {
+    "calories": 425,
+    "protein": 30,
+    "carbs": 16,
+    "fat": 18
+  },
+  "slug": "grilled-zanzibari-fish-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/grilled-zanzibari-fish-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T15:29:31Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "chewy",
+    "mood": "adventurous",
+    "technique": "render-fat",
+    "primaryIngredient": "makrut lime leaves",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Zanzibari",
+    "mainIngredient": "Fish",
+    "descriptor": "Grilled",
+    "dishForm": "Wrap"
+  }
+}
