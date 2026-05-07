@@ -1,0 +1,67 @@
+{
+  "title": "GZesty Savory Summer Savoury Leaves Pilaf",
+  "description": "A high-protein-friendly savory summer dish featuring dried leaves of summer savoury and nuka-pickle for a sick-day Croatian treat, perfect as an afternoon snack.",
+  "cuisine": "Croatian",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "dried summer savory leaves",
+      "amount": 20
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": 15
+    },
+    {
+      "name": "high-protein-friendly ingredient (e.g. chickpeas, quinoa)",
+      "amount": "4-6 oz"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F.",
+    "Mix dried summer savory leaves and nuka-pickle in a bowl.",
+    "Add high-protein-friendly ingredient and mix well.",
+    "Transfer mixture into an oven-safe dish, spreading evenly.",
+    "Bake for 20 minutes or until the edges are golden brown.",
+    "Let it cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gzymetic",
+    "high-protein-friendly",
+    "savoury-leaves",
+    "snack",
+    "summer-savory"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 9,
+    "carbs": 6,
+    "fat": 2
+  },
+  "slug": "gzesty-savory-summer-savoury-leaves-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gzesty-savory-summer-savoury-leaves-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T17:02:22Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "juicy",
+    "mood": "sick-day",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "dried leaves of summer savoury",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Savory",
+    "mainIngredient": "Summer Savoury Leaves",
+    "descriptor": "GZesty",
+    "dishForm": "Pilaf"
+  }
+}

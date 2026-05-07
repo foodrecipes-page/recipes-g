@@ -8285,5 +8285,19 @@
     "cuisine": "Greek",
     "totalTimeMin": 35,
     "shard": "g"
+  },
+  {
+    "slug": "gzesty-savory-summer-savoury-leaves-pilaf",
+    "title": "GZesty Savory Summer Savoury Leaves Pilaf",
+    "tags": [
+      "gzymetic",
+      "high-protein-friendly",
+      "savoury-leaves",
+      "snack",
+      "summer-savory"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 35,
+    "shard": "g"
   }
 ]
