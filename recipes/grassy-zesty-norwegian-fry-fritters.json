@@ -1,0 +1,101 @@
+{
+  "title": "Grassy Zesty Norwegian Fry Fritters",
+  "description": "A keto-friendly Norwegian dish featuring green chilli and fry, perfect for a midnight craving. These fritters are crispy on the outside and soft on the inside with a creamy and grassy flavor.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "green chilli",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1 tsp",
+      "notes": "freshly minced"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "1/2 cup",
+      "notes": "all-purpose"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, eggs, and a pinch of salt.",
+    "Add diced fry, mayonnaise, grated ginger, minced garlic, and parmesan cheese to the bowl. Mix until just combined.",
+    "Heat a large non-stick skillet or frying pan over medium-high heat.",
+    "Using a 1/4 cup measuring cup, scoop the mixture into the pan and flatten slightly.",
+    "Cook for 3-4 minutes on each side, or until golden brown and crispy.",
+    "Repeat with the remaining mixture, adjusting the heat as needed.",
+    "Serve hot and enjoy!",
+    "Don't overcrowd the pan, cook in batches if necessary.",
+    "Wipe the skillet clean with a paper towel before cooking the next batch",
+    "If the mixture starts to break apart, adjust the heat and stir gently."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "craving",
+    "keto",
+    "midnight",
+    "norwegian",
+    "one-pan",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 5,
+    "fat": 26
+  },
+  "slug": "grassy-zesty-norwegian-fry-fritters",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/grassy-zesty-norwegian-fry-fritters",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:05:19Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "creamy",
+    "mood": "midnight-craving",
+    "technique": "fry",
+    "primaryIngredient": "green chilli",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "norwegian",
+    "mainIngredient": "fry",
+    "descriptor": "grassy zesty",
+    "dishForm": "fritters"
+  }
+}
