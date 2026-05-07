@@ -1042,6 +1042,20 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-crispy-vietnamese-lamb-stir-fry",
+    "title": "Garlicky Crispy Vietnamese Lamb Stir-Fry",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "stir-fry",
+      "vietnamese",
+      "weeknight"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-crowd-pleaser-polish-chicken-wings-pasta",
     "title": "Garlicky Polish Chicken Wings Pasta",
     "tags": [
@@ -2997,6 +3011,21 @@
     "tags": [],
     "cuisine": "Norwegian",
     "totalTimeMin": null,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-tender-polish-garlic-bowl",
+    "title": "Garlicky Tender Polish Garlic Bowl",
+    "tags": [
+      "beef",
+      "comfort-food",
+      "one-pot",
+      "polish",
+      "whole30-friendly",
+      "womens-health"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 110,
     "shard": "g"
   },
   {

@@ -1,0 +1,112 @@
+{
+  "title": "Garlicky Crispy Vietnamese Lamb Stir-Fry",
+  "description": "A simple and flavorful Vietnamese-inspired stir-fry with crispy lamb loin chops and a hint of garlic, perfect for a lazy Sunday afternoon. This recipe is nut-free friendly and can be ready in under 30 minutes.",
+  "cuisine": "Vietnamese",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb loin chops",
+      "amount": "1 pound 4 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the lamb loin chops and cook for 2-3 minutes per side, or until browned and cooked to your desired level of doneness.",
+    "Transfer the lamb to a plate and cover with foil to keep warm.",
+    "Add the remaining 1 tablespoon of vegetable oil to the skillet or wok and swirl to coat.",
+    "Add the minced garlic and grated ginger and cook for 1 minute, until fragrant.",
+    "Add the sliced onion and bell pepper and cook for 3-4 minutes, until tender-crisp.",
+    "Add the fish sauce, soy sauce, and honey to the skillet or wok and stir to combine.",
+    "Return the lamb to the skillet or wok and toss to coat with the sauce.",
+    "Season with black pepper to taste.",
+    "Garnish with chopped fresh cilantro and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "stir-fry",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 60,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "garlicky-crispy-vietnamese-lamb-stir-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-crispy-vietnamese-lamb-stir-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:14:30Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crispy",
+    "mood": "lazy-sunday",
+    "technique": "stir-fry",
+    "primaryIngredient": "lamb loin chops",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "lamb",
+    "descriptor": "garlicky crispy",
+    "dishForm": "stir-fry"
+  }
+}
