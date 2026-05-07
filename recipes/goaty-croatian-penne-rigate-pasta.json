@@ -1,0 +1,123 @@
+{
+  "title": "Goaty Croatian Penne Rigate Pasta",
+  "description": "A pungent, gooey, show-off Croatian dish featuring penne rigate, brine-wet and ayurvedic-tamasic-friendly.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Penne rigate",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "Cottage cheese",
+      "amount": "1 cup",
+      "notes": "drained of excess liquid"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Dried kalamata olives",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "White wine vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Goat gjetost cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbled"
+    }
+  ],
+  "instructions": [
+    "Cook the penne rigate in a large saucepan of boiling salted water until al dente, about 8-10 minutes.",
+    "Drain the penne rigate and return it to the saucepan.",
+    "Add the cottage cheese, feta cheese, kalamata olives, and garlic to the saucepan with the penne rigate.",
+    "Stir in the white wine vinegar and extra virgin olive oil.",
+    "Season the mixture with salt, black pepper, and freshly chopped parsley.",
+    "Transfer the penne rigate mixture to a large serving dish or individual plates.",
+    "Sprinkle the crumbled goat gjetost cheese over the top of the penne rigate mixture.",
+    "Dot the top of the goat gjetost cheese with black pepper.",
+    "Garnish the dish with additional chopped scallions and parsley, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "ayurvedic",
+    "brine-wet",
+    "croation",
+    "goaty",
+    "one-pan",
+    "pasta",
+    "tamasic",
+    "vegan-options",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 34,
+    "carbs": 120,
+    "fat": 28
+  },
+  "slug": "goaty-croatian-penne-rigate-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/goaty-croatian-penne-rigate-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:30:21Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "gooey",
+    "mood": "show-off",
+    "technique": "brine-wet",
+    "primaryIngredient": "penne rigate",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Penne Rigate",
+    "descriptor": "Goaty",
+    "dishForm": "Pasta"
+  }
+}
