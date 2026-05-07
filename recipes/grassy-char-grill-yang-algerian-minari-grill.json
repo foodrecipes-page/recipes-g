@@ -1,0 +1,111 @@
+{
+  "title": "Grassy Char-grill-yang Algerian Minari Grill",
+  "description": "A flavorful and healthy Algerian dish featuring minari, char-grill-yang, and a hint of grassy notes, perfect for a crowd-pleaser meal.",
+  "cuisine": "algerian",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Minari",
+      "amount": "2 bunches",
+      "notes": "trimmed and cleaned"
+    },
+    {
+      "name": "Char-grill-yang",
+      "amount": "1 cup",
+      "notes": "minced and chopped"
+    },
+    {
+      "name": "Lamb",
+      "amount": "1 lb",
+      "notes": "ground and seasoned"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 bunch",
+      "notes": "chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "In a large bowl, mix together minari, char-grill-yang, lamb, onion, garlic, cumin, paprika, salt, and black pepper.",
+    "Form the mixture into 4-6 patties, depending on desired size.",
+    "Brush the grill or grill pan with olive oil to prevent sticking.",
+    "Grill the patties for 4-5 minutes per side, or until cooked through.",
+    "Let the patties rest for 2-3 minutes before serving.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "grilled-meat",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 6,
+    "fat": 24
+  },
+  "slug": "grassy-char-grill-yang-algerian-minari-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/grassy-char-grill-yang-algerian-minari-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:17:23Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "shaggy",
+    "mood": "crowd-pleaser",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "minari",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Minari",
+    "descriptor": "grassy Char-grill-yang",
+    "dishForm": "Grill"
+  }
+}
