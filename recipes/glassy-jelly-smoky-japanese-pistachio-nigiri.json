@@ -1,0 +1,122 @@
+{
+  "title": "Glassy-Jelly Smoky Japanese Pistachio Nigiri",
+  "description": "Smoky, glassy-jelly, adventurous Japanese dish featuring unsalted pistachio, nigiri-shaping, jain-friendly. The combination of flavors and textures creates a unique culinary experience.",
+  "cuisine": "Japanese",
+  "diet": [
+    "Jain",
+    "Vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Unsalted pistachio paste",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Matcha powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Smoked salt-free seasoning",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Glassy-jelly cube (made from agar agar and sugar)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Agar agar powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Rice flour",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Mix pistachio paste with sesame oil in a small bowl until well combined.",
+    "Add matcha powder and smoked salt-free seasoning to the bowl and mix until a smooth paste forms.",
+    "In a separate bowl, mix together glassy-jelly cube, sesame seeds, and rice vinegar.",
+    "Add the mixture to the bowl with the pistachio paste and mix until well combined.",
+    "Gradually add water to the bowl, mixing until a smooth dough forms.",
+    "Knead the dough for 5 minutes until it becomes pliable and easy to shape.",
+    "Divide the dough into 8 equal pieces and shape each piece into a small ball.",
+    "Using your hands, flatten each ball into a disk shape.",
+    "Place a small amount of unsalted rice vinegar on the surface of each disk.",
+    "Top each disk with a small amount of the pistachio paste mixture and fold the disk in half to form a nigiri shape.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "adventurous",
+    "glassy-jelly",
+    "japanese",
+    "nigiri",
+    "snack",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 5
+  },
+  "slug": "glassy-jelly-smoky-japanese-pistachio-nigiri",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/glassy-jelly-smoky-japanese-pistachio-nigiri",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:20:09Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "glassy-jelly",
+    "mood": "adventurous",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "unsalted pistachio",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "pistachio",
+    "descriptor": "glassy-jelly smoky",
+    "dishForm": "nigiri"
+  }
+}
