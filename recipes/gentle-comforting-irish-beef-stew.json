@@ -1,0 +1,104 @@
+{
+  "title": "Gentle Comforting Irish Beef Stew",
+  "description": "A comforting and briny Irish dish featuring tender beef in a rich and silky beef stock, cooked to perfection in a bain-marie, and suitable for a macrobiotic diet. This hearty stew is made with wholesome ingredients and gentle cooking methods.",
+  "cuisine": "Irish",
+  "diet": [
+    "macrobiotic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Grass-fed beef",
+      "amount": "2 pounds",
+      "notes": "cut into 1 1/2 inch cubes"
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "Beef stock",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large Dutch oven, heat 2 tablespoons of oil over medium heat.",
+    "Add the chopped onions and cook until they are translucent and starting to caramelize.",
+    "Add the chopped celery and cook for an additional 2 minutes.",
+    "Add the beef cubes and cook until they are browned on all sides.",
+    "Add the chopped carrots and potatoes, beef stock, sea salt, and black pepper, and stir to combine.",
+    "Cover the Dutch oven and transfer it to the preheated oven.",
+    "Cook the stew in a bain-marie for 2 1/2 hours, or until the beef is tender and the vegetables are cooked through.",
+    "Remove the stew from the oven and stir in the chopped parsley.",
+    "Serve the stew hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "hearty-stew",
+    "irish-cuisine",
+    "macrobiotic-friendly",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 40,
+    "fat": 24
+  },
+  "slug": "gentle-comforting-irish-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gentle-comforting-irish-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:52:07Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "silky",
+    "mood": "comforting",
+    "technique": "bain-marie",
+    "primaryIngredient": "beef stock",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "beef",
+    "descriptor": "Gentle Comforting",
+    "dishForm": "Stew"
+  }
+}

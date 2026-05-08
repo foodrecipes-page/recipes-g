@@ -3584,6 +3584,21 @@
     "shard": "g"
   },
   {
+    "slug": "gentle-comforting-irish-beef-stew",
+    "title": "Gentle Comforting Irish Beef Stew",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "hearty-stew",
+      "irish-cuisine",
+      "macrobiotic-friendly",
+      "one-pot"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 180,
+    "shard": "g"
+  },
+  {
     "slug": "gentle-dense-slovakian-pork-stew",
     "title": "Gentle Dense Slovakian Pork Stew",
     "tags": [
