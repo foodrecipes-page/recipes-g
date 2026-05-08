@@ -1,0 +1,110 @@
+{
+  "title": "Garlicky Vietnamese Hind Shank Bun Thit Nuong",
+  "description": "A garlicky and velvety Vietnamese dish featuring hind shank, perfect for a lazy Sunday, made with kombu-cold-extract and Whole30-friendly ingredients. This dish is a variation of the traditional bun thit nuong.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "Whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hind shank",
+      "amount": "2 pounds",
+      "notes": "bone-in"
+    },
+    {
+      "name": "kombu",
+      "amount": "2 sheets",
+      "notes": "dried"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1/4 cup",
+      "notes": "make sure it is Whole30 compliant"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": "make sure it is gluten-free"
+    },
+    {
+      "name": "grilled pork paste",
+      "amount": "2 tablespoons",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "pickled carrots",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large pot, combine the hind shank, kombu, garlic, fish sauce, coconut sugar, black pepper, and rice vinegar.",
+    "Cover the pot and transfer it to the preheated oven to braise for 2 1/2 hours.",
+    "While the hind shank is braising, prepare the grilled pork paste according to the recipe or package instructions.",
+    "After 2 1/2 hours, remove the pot from the oven and let it cool slightly.",
+    "Shred the hind shank into bite-sized pieces and discard the bones.",
+    "In a large bowl, combine the shredded hind shank, grilled pork paste, pickled carrots, and chopped cilantro.",
+    "Toss everything together until well combined.",
+    "Serve the Garlicky Vietnamese Hind Shank Bun Thit Nuong over rice noodles or lettuce leaves."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "one-pot",
+    "slow-cooker",
+    "vietnamese-cuisine",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "garlicky-vietnamese-hind-shank-bun-thit-nuong",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-vietnamese-hind-shank-bun-thit-nuong",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:40:41Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "velvety",
+    "mood": "lazy-sunday",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "hind shank",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "hind shank",
+    "descriptor": "garlicky velvety",
+    "dishForm": "Bun Thit Nuong"
+  }
+}
