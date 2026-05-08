@@ -1,0 +1,95 @@
+{
+  "title": "Golden Roasted Northern Irish Sausages Bangers And Mash",
+  "description": "A hearty and indulgent British dish featuring roasted Northern Irish sausages, fluffy mashed potatoes, and sweet Bramley apples, all made without onions or garlic. This comforting meal is perfect for a cold evening.",
+  "cuisine": "British",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Northern Irish sausages",
+      "amount": "8",
+      "notes": "also known as bangers"
+    },
+    {
+      "name": "Bramley apples",
+      "amount": "2",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Place the sausages on a baking sheet lined with parchment paper and roast for 20 minutes.",
+    "While the sausages are cooking, boil the chopped potatoes in a large pot of salted water until they are tender.",
+    "Drain the potatoes and mash them with butter, milk, salt, and pepper in a large bowl.",
+    "In a mortar and pestle, pound the chopped Bramley apples until they are well broken down.",
+    "Add the pounded apples to the mashed potatoes and stir until well combined.",
+    "Serve the roasted sausages on top of the apple and potato mash, garnished with chopped fresh parsley.",
+    "Return the dish to the oven for an additional 5 minutes to heat through.",
+    "Remove the dish from the oven and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "apple-recipes",
+    "british-classics",
+    "comfort-food",
+    "hearty-dinners",
+    "weeknight-meals"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 40
+  },
+  "slug": "golden-roasted-northern-irish-sausages-bangers-and-mash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-roasted-northern-irish-sausages-bangers-and-mash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:18:11Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "fluffy",
+    "mood": "indulgent",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "bramley apples",
+    "diet": "no-onion-no-garlic",
+    "region": "northern-irish",
+    "cuisineAdjective": "Northern Irish",
+    "mainIngredient": "sausages",
+    "descriptor": "Golden Roasted",
+    "dishForm": "Bangers And Mash"
+  }
+}
