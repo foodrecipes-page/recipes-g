@@ -1,0 +1,110 @@
+{
+  "title": "Golden Crisp German Jerusalem Artichoke Gratin",
+  "description": "A winey, crisp, and cozy German dish featuring Jerusalem artichokes, this gratin is perfect for a cold winter night, and is also FODMAP-friendly.",
+  "cuisine": "German",
+  "diet": [
+    "FODMAP-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jerusalem artichokes",
+      "amount": "1 1/2 pounds",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "1 teaspoon",
+      "notes": "FODMAP-friendly substitute for garlic"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large saucepan, combine the sliced Jerusalem artichokes and enough cold water to cover them, then bring to a boil over high heat.",
+    "Reduce the heat to medium-low and simmer for 5 minutes, or until the artichokes are slightly tender.",
+    "Drain the artichokes and set them aside.",
+    "In the same saucepan, melt the butter over medium heat, then add the olive oil, sliced onion, and garlic-infused oil, and cook until the onion is softened.",
+    "Add the white wine and chicken broth to the saucepan and bring to a simmer.",
+    "Add the cooked Jerusalem artichokes to the saucepan and stir to combine.",
+    "Transfer the artichoke mixture to a slate-tile vessel, then top with the shredded gruyere cheese.",
+    "Sprinkle the chopped parsley, salt, and black pepper over the top of the cheese.",
+    "Bake the gratin in the preheated oven for 25 minutes, or until the top is golden brown and the artichokes are tender."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fodmap-friendly",
+    "german-cuisine",
+    "gluten-free",
+    "one-pan",
+    "winter-dishes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "golden-crisp-german-jerusalem-artichoke-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-crisp-german-jerusalem-artichoke-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:38:35Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crisp",
+    "mood": "cozy",
+    "technique": "rest",
+    "primaryIngredient": "jerusalem artichokes",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Jerusalem artichokes",
+    "descriptor": "Golden crisp",
+    "dishForm": "Gratin"
+  }
+}
