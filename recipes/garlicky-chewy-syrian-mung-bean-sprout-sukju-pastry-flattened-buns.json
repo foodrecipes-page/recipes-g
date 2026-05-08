@@ -1,0 +1,106 @@
+{
+  "title": "garlicky chewy syrian mung-bean-sprout-sukju pastry-flattened buns",
+  "description": "festival food featuring mung bean sprouts, suku seeds, and garlicky pastry dough. great as a side dish or snack.",
+  "cuisine": "syrian",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 1/2 cups warm milk",
+      "amount": "1 1/2",
+      "notes": "whole milk or 2%"
+    },
+    {
+      "name": "1 tablespoon sugar",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 teaspoons instant yeast",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "3 tablespoons vegetable oil",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 cup all-purpose flour",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup mung bean sprouts",
+      "amount": "1/4",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup suku seeds",
+      "amount": "1/4",
+      "notes": ""
+    },
+    {
+      "name": "1 egg, beaten",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "in a small bowl, mix together warm milk, sugar, and yeast. let it sit for 10 minutes until foamy.",
+    "add vegetable oil, salt, and 1 cup of flour to the bowl. mix until a sticky dough forms.",
+    "add mung bean sprouts, suku seeds, and minced garlic to the dough. mix until well combined.",
+    "add the remaining 1/2 cup of flour and mix until the dough becomes smooth and elastic.",
+    "knead the dough for 10 minutes until it becomes chewy and sticky.",
+    "cover the dough with plastic wrap and let it rise in a warm place for 1 hour.",
+    "preheat oil in a deep frying pan over medium-high heat.",
+    "divide the dough into 8 equal pieces. roll each piece into a ball and flatten it slightly.",
+    "fry the buns in hot oil for 2-3 minutes on each side until golden brown and crispy.",
+    "drain excess oil on paper towels and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "festival-food",
+    "gluten-free",
+    "one-pan",
+    "syrian-food",
+    "vegan-option",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "garlicky-chewy-syrian-mung-bean-sprout-sukju-pastry-flattened-buns",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-chewy-syrian-mung-bean-sprout-sukju-pastry-flattened-buns",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T22:45:55Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "chewy",
+    "mood": "festive",
+    "technique": "temper",
+    "primaryIngredient": "mung-bean-sprout-sukju",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "mung-bean-sprout-sukju",
+    "descriptor": "Garlicky Chewy",
+    "dishForm": "Pastry-Flattened Buns"
+  }
+}
