@@ -1,0 +1,96 @@
+{
+  "title": "Golden Crunchy Portuguese Pepper Skewers",
+  "description": "A cultured and crunchy Portuguese dish featuring mixed peppers and ferment kimchi, perfect for a snack or light meal, wrapped in a banana leaf for added flavor and tradition.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "jain",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "mixed bell peppers",
+      "amount": "2 cups",
+      "notes": "any color"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "kimchi",
+      "amount": "1 cup",
+      "notes": "fermented"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4 large",
+      "notes": "for wrapping"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400 degrees Fahrenheit.",
+    "Cut the mixed bell peppers into 1 inch pieces and place them in a bowl.",
+    "Add the cut onion, fermented kimchi, olive oil, garlic, salt, and black pepper to the bowl and mix well.",
+    "Thread the pepper mixture onto skewers, leaving a little space between each piece.",
+    "Wrap each skewer in a banana leaf, securing with a toothpick if needed.",
+    "Place the skewers on a baking sheet lined with parchment paper and bake for 20 minutes.",
+    "Flip the skewers over and bake for an additional 10 minutes, until the peppers are tender and lightly browned.",
+    "Remove the skewers from the oven and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "meal-prep",
+    "portuguese-cuisine",
+    "snack-ideas",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "golden-crunchy-portuguese-pepper-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-crunchy-portuguese-pepper-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:09:31Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crunchy",
+    "mood": "meal-prep",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "mixed peppers",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "peppers",
+    "descriptor": "Golden Crunchy",
+    "dishForm": "Skewers"
+  }
+}
