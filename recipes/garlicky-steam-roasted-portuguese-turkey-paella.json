@@ -1,0 +1,107 @@
+{
+  "title": "Garlicky Steam Roasted Portuguese Turkey Paella",
+  "description": "A flavorful portuguese-inspired paella with turkey neck, vegetables, and a hint of garlic.",
+  "cuisine": "portuguese",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Turkey neck",
+      "amount": "1",
+      "notes": "About 2 pounds"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Arborio rice",
+      "amount": "1 cup",
+      "notes": "Short-grain rice suitable for paella"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "Dried"
+    },
+    {
+      "name": "Safron threads",
+      "amount": "1/2 teaspoon",
+      "notes": "Dried"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1",
+      "notes": "Diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "Halved"
+    }
+  ],
+  "instructions": [
+    "Heat the iron teppan over medium-high heat.",
+    "Add 2 tablespoons of olive oil and swirl it around.",
+    "Sear the turkey neck until browned on all sides, about 5 minutes.",
+    "Remove the turkey neck and set it aside.",
+    "Add the chopped onion and cook until translucent, about 3 minutes.",
+    "Add the diced red bell pepper and cook for another 2 minutes.",
+    "Add the Arborio rice and cook for 1-2 minutes, stirring constantly.",
+    "Add the chicken broth, smoked paprika, safron threads, and garlic. Bring to a boil.",
+    "Add the browned turkey neck back into the pan.",
+    "Reduce heat to low and cover the pan with a lid.",
+    "Steam roast the paella for 20-25 minutes or until the rice is cooked and the liquid has been absorbed.",
+    "Remove the pan from the heat and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "paleo",
+    "portuguese"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 53,
+    "carbs": 25,
+    "fat": 25
+  },
+  "slug": "garlicky-steam-roasted-portuguese-turkey-paella",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-steam-roasted-portuguese-turkey-paella",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:53:37Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "bouncy-qq",
+    "mood": "crowd-pleaser",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "turkey neck",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Turkey",
+    "descriptor": "Garlicky Steam Roasted",
+    "dishForm": "Paella"
+  }
+}

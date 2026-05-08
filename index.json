@@ -2340,6 +2340,21 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-kenyan-mushrooms-biko",
+    "title": "Garlicky Kenyan Mushrooms Biko",
+    "tags": [
+      "deep-fried",
+      "kenyan",
+      "low-fat",
+      "mushroom",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 45,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-korean-chicken-stir-fry",
     "title": "Garlicky Korean Chicken Stir-fry",
     "tags": [
@@ -3037,6 +3052,20 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 70,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-steam-roasted-portuguese-turkey-paella",
+    "title": "Garlicky Steam Roasted Portuguese Turkey Paella",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "paleo",
+      "portuguese"
+    ],
+    "cuisine": "portuguese",
+    "totalTimeMin": 45,
     "shard": "g"
   },
   {
