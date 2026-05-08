@@ -1,0 +1,113 @@
+{
+  "title": "Gingered Korean Romano Pepper Bibimbap",
+  "description": "A flavorful and spicy Korean-inspired dish featuring the unique taste of Romano peppers, perfect for adventurous eaters. This plant-based-friendly version is a healthier twist on traditional bibimbap.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Gingered Romano Peppers",
+      "amount": "4",
+      "notes": "2-inch slices"
+    },
+    {
+      "name": "Brown Rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 cup",
+      "notes": "julienne"
+    },
+    {
+      "name": "Toasted Sesame Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Korean Chili Flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 bunch",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Toasted Pine Nuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Pickled Ginger",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Gochujang Sauce",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat a char-grill or grill pan over medium-high heat.",
+    "Grill sliced Romano peppers until slightly charred, about 3-4 minutes per side.",
+    "In a separate pan, heat 1 tablespoon of toasted sesame oil over medium heat.",
+    "Add sliced zucchini and cook until tender, about 3-4 minutes.",
+    "Add julienne carrots and cook for an additional 2 minutes.",
+    "In a large bowl, combine cooked brown rice, grilled Romano peppers, zucchini, and carrots.",
+    "Drizzle with soy sauce and gochujang sauce, and toss to combine.",
+    "Sprinkle toasted pine nuts, sesame seeds, and pickled ginger on top.",
+    "Garnish with thinly sliced scallions and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "korean-inspired",
+    "one-pan",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 65,
+    "fat": 18
+  },
+  "slug": "gingered-korean-romano-pepper-bibimbap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/gingered-korean-romano-pepper-bibimbap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:23:35Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "bouncy-qq",
+    "mood": "adventurous",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "romano pepper",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "romano pepper",
+    "descriptor": "Gingered",
+    "dishForm": "Bibimbap"
+  }
+}
