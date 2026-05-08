@@ -1,0 +1,101 @@
+{
+  "title": "Ginger-Infused Slovakian Fish Pilaf",
+  "description": "A light and kid-friendly Slovakian dish featuring ginger and yuzu-cure.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "nut-free",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "4",
+      "notes": "Fresh or frozen, thawed"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Fresh, sliced"
+    },
+    {
+      "name": "Yuzu-cure",
+      "amount": "1/4 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Basmati rice",
+      "amount": "1 cup",
+      "notes": "White or brown"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the sliced ginger and cook for 2-3 minutes, until fragrant.",
+    "Add the chopped onions and cook for 3-4 minutes, until translucent.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the basmati rice and cook for 2-3 minutes, until lightly toasted.",
+    "Add 2 cups of water to the skillet and bring to a boil.",
+    "Reduce the heat to low, cover the skillet, and simmer for 15-20 minutes, until the rice is cooked.",
+    "While the rice is cooking, prepare the yuzu-cure by mixing it with a tablespoon of water.",
+    "Cut the cod fillets into small pieces and add them to the skillet with the yuzu-cure.",
+    "Simmer for 5-7 minutes, until the fish is cooked through.",
+    "Fluff the cooked rice with a fork and stir in the chopped fresh parsley.",
+    "Serve the fish on top of the rice pilaf."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "kid-friendly",
+    "one-pan",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "ginger-infused-slovakian-fish-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/ginger-infused-slovakian-fish-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:43:45Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "light",
+    "mood": "kid-friendly",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "ginger",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Fish",
+    "descriptor": "Ginger-Infused",
+    "dishForm": "Pilaf"
+  }
+}
