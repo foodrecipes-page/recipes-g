@@ -3896,6 +3896,21 @@
     "shard": "g"
   },
   {
+    "slug": "gently-flavored-tunisian-fish-tagine",
+    "title": "Tunisian Fish Tagine",
+    "tags": [
+      "fish-based",
+      "north-african",
+      "one-pot",
+      "pescatarian",
+      "spicy",
+      "tagine"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 40,
+    "shard": "g"
+  },
+  {
     "slug": "gently-glazed-ethiopian-lentils-tandoor",
     "title": "Gently Glazed Ethiopian Lentils Tandoor",
     "tags": [
@@ -5652,6 +5667,21 @@
       "pandan-leaf"
     ],
     "cuisine": "Canadian",
+    "totalTimeMin": 45,
+    "shard": "g"
+  },
+  {
+    "slug": "golden-crispy-egyptian-lentil-tagine",
+    "title": "Golden Crispy Egyptian Lentil Tagine",
+    "tags": [
+      "clay-pot",
+      "lentil-recipe",
+      "low-calorie",
+      "middle-eastern",
+      "one-pot",
+      "vegetarian"
+    ],
+    "cuisine": "Egyptian",
     "totalTimeMin": 45,
     "shard": "g"
   },
