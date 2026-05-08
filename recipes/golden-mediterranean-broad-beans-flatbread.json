@@ -1,0 +1,94 @@
+{
+  "title": "Golden Mediterranean Broad Beans Flatbread",
+  "description": "A flavorful and flaky flatbread featuring broad beans, perfect for a solo dinner, with a floral and Mediterranean twist, egg-free friendly.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Broad beans",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Flatbread",
+      "amount": "1 large"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the flatbread to a large rectangle.",
+    "Spread the olive oil over the flatbread, leaving a small border around the edges.",
+    "Sprinkle the minced garlic over the olive oil.",
+    "Arrange the broad beans on one half of the flatbread.",
+    "Drizzle the lemon juice over the broad beans.",
+    "Season with salt and black pepper.",
+    "Fold the other half of the flatbread over the broad beans.",
+    "Sprinkle the chopped parsley over the top of the flatbread.",
+    "Bake the flatbread in the preheated oven for 20 minutes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "broad-beans",
+    "easy-dinner",
+    "flatbread",
+    "mediterranean",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "golden-mediterranean-broad-beans-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-mediterranean-broad-beans-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:43:39Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "flaky",
+    "mood": "solo-dinner",
+    "technique": "temper",
+    "primaryIngredient": "broad beans",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "broad beans",
+    "descriptor": "Golden flaky",
+    "dishForm": "Flatbread"
+  }
+}
