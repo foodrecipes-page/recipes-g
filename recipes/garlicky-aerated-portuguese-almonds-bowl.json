@@ -1,0 +1,100 @@
+{
+  "title": "Garlicky Aerated Portuguese Almonds Bowl",
+  "description": "A light and refreshing Portuguese-inspired dish featuring rice paper sheets and a hint of chocolate.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Rice paper sheets",
+      "amount": "12 sheets",
+      "notes": ""
+    },
+    {
+      "name": "Almonds",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Tempering chocolate",
+      "amount": "6 oz",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Cut the rice paper sheets into thin strips.",
+    "Melt the tempering chocolate in a double boiler or in a microwave-safe bowl in 10-second increments, stirring between each interval.",
+    "In a large bowl, whip the almonds until they are lightly aerated.",
+    "Add the granulated sugar, melted chocolate, unsalted butter, garlic powder, and salt to the bowl with the aeroated almonds. Mix until well combined.",
+    "Taste and adjust the sweetness and seasoning as needed.",
+    "Pour the mixture onto a lightly oiled surface and let it cool and set for 10-15 minutes.",
+    "Cut the set mixture into small pieces and shape into small bowls.",
+    "Garnish with fresh mint leaves, if desired.",
+    "Serve chilled and enjoy.",
+    "Each serving should be garnished with a sprig of fresh mint, if desired.",
+    "Garnish with additional chocolate shavings, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "almonds",
+    "chocolate",
+    "dessert",
+    "low-fat",
+    "portuguese"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 6
+  },
+  "slug": "garlicky-aerated-portuguese-almonds-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-aerated-portuguese-almonds-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:34:27Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "aerated",
+    "mood": "light",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "rice paper sheets",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Almonds",
+    "descriptor": "Garlicky Aerated",
+    "dishForm": "Bowl"
+  }
+}
