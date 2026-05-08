@@ -1,0 +1,127 @@
+{
+  "title": "Gingered Malaysian Chicken Curry",
+  "description": "A light and earthy Malaysian dish that is perfect for special occasions, featuring red chilli, fried rice, and a blend of spices. This recipe is keto-friendly and can be cooked in a claypot.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "red chilli",
+      "amount": "1",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "fried rice",
+      "amount": "2 cups",
+      "notes": "cooked and cooled"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the claypot over medium heat and add the coconut oil.",
+    "Add the grated ginger and sauté for 1 minute.",
+    "Add the chopped onion and sauté until translucent.",
+    "Add the minced garlic and sauté for 1 minute.",
+    "Add the chopped red chilli and sauté for 1 minute.",
+    "Add the chicken breast and cook until browned on all sides.",
+    "Add the curry powder, cumin powder, coriander powder, salt, and black pepper. Stir well.",
+    "Add the cooked fried rice and stir well to combine.",
+    "Add the coconut milk and stir well to combine.",
+    "Bring the mixture to a simmer and cook for 10-15 minutes or until the chicken is cooked through.",
+    "Serve hot and garnish with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "curry",
+    "gluten-free",
+    "high-protein",
+    "keto-friendly",
+    "malaysian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 24,
+    "fat": 42
+  },
+  "slug": "gingered-malaysian-chicken-curry",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/gingered-malaysian-chicken-curry",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:17:45Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "red chilli",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "Gingered",
+    "dishForm": "Curry"
+  }
+}
