@@ -1,0 +1,89 @@
+{
+  "title": "grassy and juicy brazilian digestive biscuits bake",
+  "description": "delicious weeknight dish featuring digestive biscuits and a hint of grassy freshness",
+  "cuisine": "brazilian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "digestive biscuits",
+      "amount": "200g"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "20g"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "20g"
+    },
+    {
+      "name": "cucumber",
+      "amount": "100g"
+    },
+    {
+      "name": "halal-friendly feta cheese",
+      "amount": "50g"
+    },
+    {
+      "name": "yakimono-grill marinade",
+      "amount": "20g"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "10g"
+    },
+    {
+      "name": "salt",
+      "amount": "5g"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 180°C.",
+    "grind digestive biscuits in a food processor.",
+    "add fresh mint and parsley to the ground biscuits.",
+    "mix in cucumber and feta cheese.",
+    "drizzle with olive oil and season with salt.",
+    "spread the mixture on a baking sheet.",
+    "bake for 20 minutes.",
+    "serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "breakfast",
+    "brunch",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "grassy-and-juicy-brazilian-digestive-biscuits-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/grassy-and-juicy-brazilian-digestive-biscuits-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:40:02Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "juicy",
+    "mood": "weeknight",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "digestive biscuits",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "digestive biscuits",
+    "descriptor": "grassy and juicy",
+    "dishForm": "Bake"
+  }
+}
