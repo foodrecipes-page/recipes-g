@@ -1,0 +1,92 @@
+{
+  "title": "Greatly Snappy Turkish Beans Kuru Fasulye",
+  "description": "A malty, snappy, and energizing Turkish dish featuring challots and a mother-sauce-base, perfect for a weeknight dinner.",
+  "cuisine": "Turkish",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "challots",
+      "amount": "2 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "dried white beans",
+      "amount": "1 cup",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped challots and cook until they are softened and lightly browned.",
+    "Add the tomato paste and cook for 1 minute, stirring constantly.",
+    "Add the soaked and drained white beans, salt, black pepper, and paprika.",
+    "Pour in the water and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Remove the lid and continue to simmer for an additional 10 minutes, or until the beans are tender.",
+    "Serve the Kuru Fasulye hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-fiber",
+    "one-pot",
+    "turkish-cuisine",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "greatly-snappy-turkish-beans-kuru-fasulye",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/greatly-snappy-turkish-beans-kuru-fasulye",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:13:50Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "snappy",
+    "mood": "energizing",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "challots",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "beans",
+    "descriptor": "Greatly Snappy",
+    "dishForm": "Kuru Fasulye"
+  }
+}
