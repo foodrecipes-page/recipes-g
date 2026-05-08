@@ -1,0 +1,98 @@
+{
+  "title": "Gentle Creamy Brazilian Black Bean Stew",
+  "description": "A funky and tender lacto-vegetarian Brazilian dish featuring creme fraiche and ferment, perfect for a crowd, this stew is a delicious and satisfying meal option.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "black beans",
+      "amount": "1 cup dried",
+      "notes": "soaked overnight and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "creme fraiche",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fermented hot sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large pot, saute the chopped onion and minced garlic in a little bit of oil until softened.",
+    "Add the soaked and drained black beans, vegetable broth, dried oregano, salt, and black pepper to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and let simmer for 30 minutes.",
+    "Use an immersion blender to puree the stew to the desired consistency.",
+    "Stir in the creme fraiche and fermented hot sauce, if using.",
+    "Let the stew simmer for an additional 10 minutes to allow the flavors to meld.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the stew hot, garnished with chopped fresh herbs or scallions, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "comfort-food",
+    "crowd-pleaser",
+    "fermented-food",
+    "lacto-vegetarian",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "gentle-creamy-brazilian-black-bean-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gentle-creamy-brazilian-black-bean-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:10:11Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "tender",
+    "mood": "crowd-pleaser",
+    "technique": "ferment",
+    "primaryIngredient": "creme fraiche",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "black beans",
+    "descriptor": "gentle creamy",
+    "dishForm": "Stew"
+  }
+}
