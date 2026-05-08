@@ -1,0 +1,94 @@
+{
+  "title": "Golden Crispy Norwegian Tofu Onigiri",
+  "description": "A savory and crispy Norwegian dish featuring beer and plant-based friendly ingredients, shaped into nigiri, perfect for adventurous eaters.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "norwegian beer",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350 degrees.",
+    "In a large bowl, whisk together the flour, cornstarch, and a pinch of salt.",
+    "Gradually add the beer to the bowl, whisking until the batter is smooth.",
+    "Add the tofu cubes to the batter, tossing to coat.",
+    "Fry the tofu cubes in batches until golden brown, about 3-4 minutes.",
+    "Using a slotted spoon, remove the fried tofu from the oil and place on a paper towel lined plate.",
+    "In a small bowl, mix together the sesame seeds, salt, and black pepper.",
+    "Sprinkle the sesame seed mixture over the fried tofu.",
+    "Shape the tofu into small nigiri shapes.",
+    "Serve the golden crispy norwegian tofu onigiri hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beer-batter",
+    "crispy-snacks",
+    "norwegian-cuisine",
+    "plant-based",
+    "tofu-recipes",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "golden-crispy-norwegian-tofu-onigiri",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-crispy-norwegian-tofu-onigiri",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:31:43Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crispy",
+    "mood": "adventurous",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "beer",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "tofu",
+    "descriptor": "Golden Crispy",
+    "dishForm": "Onigiri"
+  }
+}
