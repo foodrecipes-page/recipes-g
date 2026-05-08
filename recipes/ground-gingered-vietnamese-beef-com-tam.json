@@ -1,0 +1,100 @@
+{
+  "title": "Ground Gingered Vietnamese Beef Com Tam",
+  "description": "A jammy and crunchy Vietnamese dish featuring minced beef, served with com tam, a popular Vietnamese street food, this recipe is flexitarian-friendly and full of flavor.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "2 inches",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "com tam",
+      "amount": "4 cups",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fried shallots",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "chili sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large mortar and pestle, pound the sliced ginger until well bruised and fragrant.",
+    "Add the ground beef to the mortar and pestle, and pound until just combined with the ginger.",
+    "In a small bowl, whisk together the fish sauce, lime juice, and brown sugar, until the sugar is dissolved.",
+    "Add the sauce to the mortar and pestle, and stir until the beef is evenly coated.",
+    "Heat a large skillet over medium-high heat, and cook the beef mixture, breaking it up with a spoon as it cooks, until it is no longer pink, about 5-7 minutes.",
+    "To assemble the com tam, place a scoop of cooked com tam on a plate, followed by a spoonful of the beef mixture.",
+    "Garnish with thinly sliced scallions, fried shallots, and a drizzle of chili sauce, if using.",
+    "Serve immediately, and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian",
+    "high-protein",
+    "one-pan",
+    "street-food",
+    "vietnamese-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "ground-gingered-vietnamese-beef-com-tam",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/ground-gingered-vietnamese-beef-com-tam",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:11:38Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crunchy",
+    "mood": "adventurous",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "minced beef",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "beef",
+    "descriptor": "Ground Gingered",
+    "dishForm": "Com Tam"
+  }
+}

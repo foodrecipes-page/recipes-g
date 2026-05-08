@@ -1,0 +1,119 @@
+{
+  "title": "Ethiopian Garlic Injera Wrap",
+  "description": "A garlicky, juicy, and indulgent Ethiopian dish featuring rose water, wrapped in a double-rise-bread.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "teff flour",
+      "amount": "2 cups",
+      "notes": "gluten-free flour"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": "for double-rise-bread"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "warm water for yeast activation"
+    },
+    {
+      "name": "rose water",
+      "amount": "2 teaspoons",
+      "notes": "fragrant flavor"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced for garlicky flavor"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped for texture"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped for sweetness"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "for earthy flavor"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "for smoky flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "for savory flavor"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "for spice"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine teff flour, yeast, and warm water to activate the yeast.",
+    "Let the mixture sit for 10 minutes to allow the yeast to ferment.",
+    "Add rose water, garlic, onion, red bell pepper, cumin, paprika, salt, and black pepper to the bowl.",
+    "Mix the ingredients thoroughly to combine.",
+    "Knead the dough for 10 minutes to develop the gluten.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 400°F (200°C).",
+    "Punch down the dough and shape it into a circle or rectangle, depending on your preference.",
+    "Place the dough on a baking sheet lined with parchment paper and bake for 15 minutes.",
+    "Remove the bread from the oven and let it cool for 5 minutes.",
+    "To assemble the wrap, place a few spoonfuls of your favorite Ethiopian stew or salad on the bread, and fold it in half."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "double-rise-bread",
+    "ethiopian",
+    "garlic",
+    "gluten-free",
+    "injera",
+    "rose-water",
+    "vegan",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "garlicky-lush-indulgent-ethiopian-garlic-injera-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-lush-indulgent-ethiopian-garlic-injera-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:12:04Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "juicy",
+    "mood": "indulgent",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "rose water",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "garlic",
+    "descriptor": "garlicky, lush, indulgent",
+    "dishForm": "Injera Wrap"
+  }
+}

@@ -2461,6 +2461,23 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-lush-indulgent-ethiopian-garlic-injera-wrap",
+    "title": "Ethiopian Garlic Injera Wrap",
+    "tags": [
+      "double-rise-bread",
+      "ethiopian",
+      "garlic",
+      "gluten-free",
+      "injera",
+      "rose-water",
+      "vegan",
+      "wrap"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 50,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-mediterranean-garlic-casserole",
     "title": "Garlicky Mediterranean Garlic Casserole",
     "tags": [
@@ -8530,6 +8547,21 @@
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
+    "slug": "ground-gingered-vietnamese-beef-com-tam",
+    "title": "Ground Gingered Vietnamese Beef Com Tam",
+    "tags": [
+      "flexitarian",
+      "high-protein",
+      "one-pan",
+      "street-food",
+      "vietnamese-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
