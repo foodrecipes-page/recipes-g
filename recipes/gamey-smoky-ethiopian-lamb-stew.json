@@ -1,0 +1,106 @@
+{
+  "title": "Gamey Smoky Ethiopian Lamb Stew",
+  "description": "A smoky and adventurous Ethiopian dish featuring mixed spice and deglaze-fond, perfect for those who enjoy gamey flavors and raw-friendly ingredients.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lamb broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the onion, garlic, and ginger to the pot and cook until the onion is translucent, about 5 minutes.",
+    "Add the berbere spice and smoked paprika to the pot and cook for 1 minute, stirring constantly.",
+    "Add the red wine to the pot and bring to a boil, scraping up any browned bits from the bottom of the pot.",
+    "Add the lamb broth, tomato paste, and browned lamb back to the pot, stirring to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 2.5 hours, or until the lamb is tender.",
+    "Stir in the chopped cilantro and season with salt and pepper to taste.",
+    "Serve the stew hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "game-meat",
+    "hearty",
+    "one-pot",
+    "slow-cooker",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "gamey-smoky-ethiopian-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gamey-smoky-ethiopian-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:33:47Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "shaggy",
+    "mood": "adventurous",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "mixed spice",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lamb",
+    "descriptor": "Gamey Smoky",
+    "dishForm": "Stew"
+  }
+}

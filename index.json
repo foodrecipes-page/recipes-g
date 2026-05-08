@@ -26,6 +26,21 @@
     "shard": "g"
   },
   {
+    "slug": "gamey-smoky-ethiopian-lamb-stew",
+    "title": "Gamey Smoky Ethiopian Lamb Stew",
+    "tags": [
+      "comfort-food",
+      "game-meat",
+      "hearty",
+      "one-pot",
+      "slow-cooker",
+      "spicy"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 180,
+    "shard": "g"
+  },
+  {
     "slug": "garam-masala-dum-crostal",
     "title": "Garam Masala Dum Crostal",
     "tags": [
