@@ -4380,6 +4380,22 @@
     "shard": "g"
   },
   {
+    "slug": "glassy-jelly-energizing-algerian-pomegranate-tagine",
+    "title": "Glassy-Jelly Energizing Algerian Pomegranate Tagine",
+    "tags": [
+      "buddhist-friendly",
+      "comfort-food",
+      "gluten-free",
+      "high-fiber",
+      "pomegranate",
+      "slow-cooker",
+      "vegan-options"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 65,
+    "shard": "g"
+  },
+  {
     "slug": "glassy-jelly-irish-almonds-hash",
     "title": "Glassy-Jelly Irish Almonds Hash",
     "tags": [
@@ -4819,6 +4835,23 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
+    "slug": "glistening-savory-korean-shallots-gyeonggi-mandu",
+    "title": "Glistening, Savory Korean Shallots Gyeonggi Mandu",
+    "tags": [
+      "cheese",
+      "comfort-food",
+      "korean-food",
+      "one-pan",
+      "savory",
+      "tamasic",
+      "umami",
+      "weeknight"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 32,
     "shard": "g"
   },
   {

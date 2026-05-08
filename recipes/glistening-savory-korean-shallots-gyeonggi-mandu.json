@@ -1,0 +1,110 @@
+{
+  "title": "Glistening, Savory Korean Shallots Gyeonggi Mandu",
+  "description": "A comforting, umami-rich Korean dish featuring shallots, perfect for when you're feeling under the weather. The combination of savory shallots, rich cheese, and steamed dumplings will warm your heart and soothe your soul.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shallots",
+      "amount": "2 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Minced"
+    },
+    {
+      "name": "Cheese",
+      "amount": "1/2 cup",
+      "notes": "Korean cheddar or mozzarella"
+    },
+    {
+      "name": "Wonton Wrappers",
+      "amount": "12-15 wrappers",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "For steaming"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "In a mortar and pestle, pound the shallots until they're well crushed.",
+    "In a small bowl, whisk together the gochujang, soy sauce, rice vinegar, and ginger.",
+    "Add the minced garlic to the bowl and whisk until well combined.",
+    "Add the crushed shallots to the bowl and stir until they're evenly coated with the sauce.",
+    "Cut the cheese into small pieces and add them to the bowl. Stir until the cheese is well combined with the sauce.",
+    "Place a wonton wrapper on a flat surface and place a tablespoon of the shallot-cheese mixture in the center of the wrapper.",
+    "Moisten the edges of the wrapper with a little water and fold the wrapper into a triangle, pressing the edges together to seal the dumpling.",
+    "Repeat with the remaining wrappers and filling.",
+    "Place the dumplings in a single layer in a bamboo steamer basket.",
+    "Place the steamer basket over boiling water and steam the dumplings for 12 minutes.",
+    "Serve the dumplings hot, garnished with chopped scallions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese",
+    "comfort-food",
+    "korean-food",
+    "one-pan",
+    "savory",
+    "tamasic",
+    "umami",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "glistening-savory-korean-shallots-gyeonggi-mandu",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/glistening-savory-korean-shallots-gyeonggi-mandu",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T10:12:02Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "cheese-pull",
+    "mood": "sick-day",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "shallots",
+    "diet": "ayurvedic-tamasic",
+    "region": "gyeonggi",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "shallots",
+    "descriptor": "Glistening, savory",
+    "dishForm": "Gyeonggi Mandu"
+  }
+}
