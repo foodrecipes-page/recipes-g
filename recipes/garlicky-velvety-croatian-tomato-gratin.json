@@ -1,0 +1,104 @@
+{
+  "title": "Garlicky Velvety Croatian Tomato Gratin",
+  "description": "A comforting, garlicky, and velvety Croatian dish featuring San Marzano tomatoes, wrapped in a flaky crust for a satisfying meal.",
+  "cuisine": "croatian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "san marzano tomatoes",
+      "amount": "12",
+      "notes": "canned, crushed"
+    },
+    {
+      "name": "garlic",
+      "amount": "6",
+      "notes": "minced"
+    },
+    {
+      "name": "butter",
+      "amount": "4",
+      "notes": "unsalted"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2",
+      "notes": "for crust"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1",
+      "notes": "grated"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "2",
+      "notes": "for velvety sauce"
+    },
+    {
+      "name": "salt",
+      "amount": "1",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5",
+      "notes": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Combine the flour and butter in a bowl, mixing until it resembles coarse crumbs.",
+    "Gradually add the heavy cream, stirring to form a dough.",
+    "Wrap the dough around the clay pot, pressing the edges to seal.",
+    "Prick the crust with a fork to allow steam to escape.",
+    "In a separate bowl, mix the crushed tomatoes, minced garlic, grated parmesan, salt, and black pepper.",
+    "Pour the tomato mixture into the clay pot.",
+    "Place the clay pot in the preheated oven and bake for 30 minutes.",
+    "Remove the pot from the oven and let it rest for 5 minutes.",
+    "Serve the garlicky tomato gratin hot, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "croatian-cuisine",
+    "high-protein",
+    "italian-inspired",
+    "one-pan",
+    "tomato-based",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "garlicky-velvety-croatian-tomato-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-velvety-croatian-tomato-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:35:38Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "velvety",
+    "mood": "comforting",
+    "technique": "en-croute",
+    "primaryIngredient": "san-marzano-tomato",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Tomato",
+    "descriptor": "Garlicky Velvety",
+    "dishForm": "Gratin"
+  }
+}
