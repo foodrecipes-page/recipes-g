@@ -1,0 +1,125 @@
+{
+  "title": "Glowing Tunisian Panang-Paste Tagine",
+  "description": "A silky, ayurvedic-rajasic-friendly dish featuring panang-paste, perfect for a sick day. This Tunisian-inspired recipe combines the aromatic flavors of cumin, coriander, and turmeric with the rich taste of Panang-paste. ",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "panang-paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/4 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large saucepan over medium heat.",
+    "Add the chopped onions and cook until they're translucent, about 5 minutes.",
+    "Add the minced garlic and grated ginger, and cook for another minute, stirring constantly.",
+    "Add the Panang-paste, cumin seeds, coriander seeds, and turmeric, and cook for 1-2 minutes, stirring constantly.",
+    "Add the chicken broth and coconut milk, and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the tagine simmer for 10-15 minutes, stirring occasionally.",
+    "Stir in the sliced almonds and chopped cilantro.",
+    "Transfer the tagine to a serving dish and flambe with a splash of rum or brandy, if desired.",
+    "Serve hot over rice or couscous, garnished with additional cilantro if desired.",
+    "This dish is best served immediately, as the flavors and textures will hold best when fresh.",
+    "This recipe makes 4 servings and can be refrigerated or frozen for later use.",
+    "Note: if using a slow cooker, brown the onions and cook the spices in a skillet before transferring everything to the slow cooker and cooking on low for 2-3 hours.",
+    "Note: if using a Pressure cooker, brown the onions and cook the spices in a skillet before transferring everything to the pressure cooker and cooking on high for 10-15 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easiy-dinner",
+    "floral",
+    "gluten-free",
+    "sick-day",
+    "silky",
+    "tunisian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "glowing-tunisian-panang-paste-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/glowing-tunisian-panang-paste-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T08:04:51Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "silky",
+    "mood": "sick-day",
+    "technique": "flambe",
+    "primaryIngredient": "panang-paste",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Panang-paste",
+    "descriptor": "Glowing",
+    "dishForm": "Tagine"
+  }
+}
