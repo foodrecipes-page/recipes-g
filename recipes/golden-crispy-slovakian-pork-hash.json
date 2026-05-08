@@ -1,0 +1,98 @@
+{
+  "title": "Golden Crispy Slovakian Pork Hash",
+  "description": "A winey, crispy, and savory Slovakian dish featuring Dutch stroop and rest-meat, perfect for a diabetic-friendly brunch",
+  "cuisine": "Slovakian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "rested overnight"
+    },
+    {
+      "name": "Dutch stroop",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Dice the pork shoulder into small cubes and season with salt and black pepper.",
+    "Heat the olive oil in a large skillet over medium-high heat and sear the pork until browned.",
+    "Add the diced onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Add the red wine to the skillet and cook until the liquid is almost completely reduced.",
+    "Stir in the Dutch stroop and cook for an additional 2 minutes.",
+    "Transfer the pork mixture to a baking dish and bake in the preheated oven for 20 minutes.",
+    "Remove the dish from the oven and top with chopped fresh parsley.",
+    "Serve the Golden Crispy Slovakian Pork Hash hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "diabetic-friendly",
+    "easy-meals",
+    "gluten-free",
+    "pork-recipes",
+    "slovakian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "golden-crispy-slovakian-pork-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-crispy-slovakian-pork-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:46:56Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crispy",
+    "mood": "brunch-mood",
+    "technique": "rest-meat",
+    "primaryIngredient": "dutch stroop",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "pork",
+    "descriptor": "Golden Crispy",
+    "dishForm": "Hash"
+  }
+}
