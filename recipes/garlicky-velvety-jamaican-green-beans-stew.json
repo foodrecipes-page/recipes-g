@@ -1,0 +1,94 @@
+{
+  "title": "Garlicky Velvety Jamaican Green Beans Stew",
+  "description": "A rich, comforting Jamaican green beans stew infused with aromatic garlic and finished with a velvety glaze.",
+  "cuisine": "jamaican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green beans",
+      "amount": "1 pound"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "1-2"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and scotch bonnet peppers; cook for another minute.",
+    "Add flour and cocoa powder; cook, stirring constantly, for 1 minute.",
+    "Gradually add stock, whisking continuously to prevent lumps.",
+    "Bring mixture to a boil, then reduce heat to low and simmer for 10 minutes.",
+    "Add green beans to the saucepan and simmer for an additional 10-12 minutes, or until tender.",
+    "Stir in brown sugar to create the velvety glaze.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "green-beans",
+    "jamaican-cuisine",
+    "low-carb",
+    "one-pan",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "garlicky-velvety-jamaican-green-beans-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-velvety-jamaican-green-beans-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T07:45:29Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "velvety",
+    "mood": "cozy",
+    "technique": "glaze",
+    "primaryIngredient": "green beans",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "green beans",
+    "descriptor": "garlicky velvety",
+    "dishForm": "Stew"
+  }
+}

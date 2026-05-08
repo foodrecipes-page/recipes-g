@@ -1,0 +1,123 @@
+{
+  "title": "Garlicky Juicy Thai (Iisan) Pork Curry",
+  "description": "A flavorful and kid-friendly Thai curry dish with a garlicky taste and a hint of kombu richness, made with tender pork and fresh vegetables.",
+  "cuisine": "Thai",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Yellow onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Kombu",
+      "amount": "2 sheets",
+      "notes": "Cold-extract in water"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "Mince"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sugarcane",
+      "amount": "1 stalk",
+      "notes": "Grated"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat. Add pork cubes and cook until browned, about 5 minutes.",
+    "Remove pork from the pan and set aside.",
+    "Add chopped onion to the pan and cook until softened, about 3 minutes.",
+    "Add minced garlic and cook for another minute, until fragrant.",
+    "Add Thai red curry paste and cook for 1 minute, until fragrant.",
+    "Add fish sauce, soy sauce, and grated sugarcane. Stir to combine.",
+    "Add cold-extract kombu and stir to combine.",
+    "Return pork to the pan and stir to coat with curry sauce.",
+    "Reduce heat to medium-low and simmer, covered, for 10 minutes, or until pork is tender.",
+    "Stir in chopped Thai basil and season with salt and black pepper.",
+    "Serve hot over steamed rice or noodles.",
+    "Garnish with additional Thai basil leaves, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "kid-friendly",
+    "one-pan",
+    "paleo",
+    "thaicurry",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 24,
+    "fat": 36
+  },
+  "slug": "garlicky-juicy-thai-isaan-pork-curry",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-juicy-thai-isaan-pork-curry",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T07:45:35Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "juicy",
+    "mood": "kid-friendly",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "yellow onion",
+    "diet": "ayurvedic-rajasic",
+    "region": "isaan",
+    "cuisineAdjective": "Thai (Isaan)",
+    "mainIngredient": "pork",
+    "descriptor": "garlicky juicy",
+    "dishForm": "Curry"
+  }
+}
