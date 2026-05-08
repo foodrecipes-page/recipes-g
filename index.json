@@ -5419,6 +5419,21 @@
     "shard": "g"
   },
   {
+    "slug": "gloriously-rich-italian-beef-risotto",
+    "title": "Gloriously Rich Italian Beef Risotto",
+    "tags": [
+      "beef-dish",
+      "italian-cuisine",
+      "one-pot",
+      "plant-based-friendly",
+      "rich-and-creamy",
+      "special-occasion"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 60,
+    "shard": "g"
+  },
+  {
     "slug": "gloriously-smoky-turkish-lamb-iskender",
     "title": "Gloriously Smoky Turkish Lamb Iskender",
     "tags": [
