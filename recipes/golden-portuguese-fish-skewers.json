@@ -1,0 +1,97 @@
+{
+  "title": "Golden Portuguese Fish Skewers",
+  "description": "A citrusy and springy Portuguese dish featuring fish, onion rings, and tempering chocolate, perfect for a midnight craving. This pescatarian-friendly recipe is cooked in a wok.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fish",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "cut into 1/2 inch rings"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "dark chocolate",
+      "amount": "1 ounce",
+      "notes": "broken into small pieces"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large wok over medium-high heat.",
+    "Add the onion rings and cook until they are golden brown, about 5 minutes.",
+    "Add the garlic, paprika, salt, and black pepper to the wok and cook for 1 minute.",
+    "Add the cod fish to the wok and cook until it is opaque and flakes easily with a fork, about 5 minutes.",
+    "Add the lemon juice to the wok and stir to combine.",
+    "Thread the cooked fish and onion rings onto skewers.",
+    "Melt the dark chocolate in a double boiler or in the microwave in 30 second increments, stirring between each interval until smooth.",
+    "Drizzle the melted chocolate over the skewers and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate-recipes",
+    "fish-recipes",
+    "portuguese-cuisine",
+    "seafood-recipes",
+    "wok-cooking"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "golden-portuguese-fish-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-portuguese-fish-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:18:33Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "springy",
+    "mood": "midnight-craving",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "onion rings",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "fish",
+    "descriptor": "Golden Crispy",
+    "dishForm": "Skewers"
+  }
+}
