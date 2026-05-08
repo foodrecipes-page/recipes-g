@@ -1,0 +1,98 @@
+{
+  "title": "Gloriously Snappy Mediterranean Chicken Skewers",
+  "description": "A low-carb, Mediterranean dish featuring yuzu and pickle, served in a cazuela, this recipe is perfect for a healthy and flavorful dinner",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pickle juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh oregano",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together yuzu juice, Dijon mustard, pickle juice, olive oil, garlic, salt, and black pepper.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the chicken is cooked through.",
+    "Transfer the skewers to a cazuela and sprinkle with chopped fresh oregano.",
+    "Serve the skewers hot, garnished with additional oregano if desired.",
+    "Let the skewers rest for a few minutes before serving to allow the juices to redistribute."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cazuela-recipe",
+    "flavorful",
+    "grilled-chicken",
+    "healthy-dinner",
+    "low-carb",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 6,
+    "fat": 14
+  },
+  "slug": "gloriously-snappy-mediterranean-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gloriously-snappy-mediterranean-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:05:32Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "snappy",
+    "mood": "energizing",
+    "technique": "pickle",
+    "primaryIngredient": "yuzu",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "chicken",
+    "descriptor": "Gloriously Snappy",
+    "dishForm": "Skewers"
+  }
+}
