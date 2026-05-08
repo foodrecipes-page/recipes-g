@@ -1,0 +1,102 @@
+{
+  "title": "Gently Spiced Syrian Chicken Kebabs",
+  "description": "A light and bitter Syrian dish featuring fajita seasoning, perfect for a post-workout meal, with an ayurvedic-tamasic friendly twist.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "fajita seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, ginger, fajita seasoning, cumin, coriander, salt, and black pepper.",
+    "Add the chicken to the marinade and mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Grill the kebabs for 10-12 minutes, turning occasionally, until the chicken is cooked through.",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Serve hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "grilled-chicken",
+    "healthy-dinner",
+    "post-workout",
+    "syrian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "gently-spiced-syrian-chicken-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gently-spiced-syrian-chicken-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:38:53Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "light",
+    "mood": "post-workout",
+    "technique": "marinate",
+    "primaryIngredient": "fajita seasoning",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "chicken",
+    "descriptor": "Gently Spiced",
+    "dishForm": "Kebabs"
+  }
+}
