@@ -1,0 +1,94 @@
+{
+  "title": "Gently Poached American Red Snapper Ceviche",
+  "description": "A light and citrusy American dish featuring poached red snapper, perfect for a cozy meal, this satvik-friendly ceviche is a great option for those looking for a refreshing and healthy dish.",
+  "cuisine": "American",
+  "diet": [
+    "satvik",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "American Red Snapper fillets",
+      "amount": "1 pound",
+      "notes": "fresh and sustainable"
+    },
+    {
+      "name": "freshly squeezed lemon juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "freshly squeezed lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped red onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and prepare an ice bath.",
+    "Poach the red snapper fillets for 2-3 minutes or until they are cooked through.",
+    "Immediately transfer the poached snapper to the ice bath to stop the cooking process.",
+    "Once the snapper has cooled, chop it into small pieces and place it in a large bowl.",
+    "In a small bowl, whisk together the lemon and lime juice.",
+    "Pour the citrus mixture over the chopped snapper and toss to combine.",
+    "Drizzle the olive oil over the snapper mixture and toss again to combine.",
+    "Stir in the chopped red onion and cilantro.",
+    "Season with salt and black pepper to taste.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 5,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "healthy",
+    "high-protein",
+    "one-bowl",
+    "refreshing",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "gently-poached-american-red-snapper-ceviche",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gently-poached-american-red-snapper-ceviche",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:42:04Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "light",
+    "mood": "cozy",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "red snapper",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "red snapper",
+    "descriptor": "Gently poached",
+    "dishForm": "Ceviche"
+  }
+}
