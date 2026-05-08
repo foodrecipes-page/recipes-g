@@ -1,0 +1,108 @@
+{
+  "title": "Garlicky Gooey Ethiopian Injera Dulet",
+  "description": "A flavorful Ethiopian-inspired brunch dish made with a mixture of sautéed vegetables and herbs, served with a side of gooey garlicky injera.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Maitakes",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Spinach",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "Raisins",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Clarified butter",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "Teff flour",
+      "amount": "1 cup",
+      "notes": "for injera"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "for injera"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": "for injera"
+    },
+    {
+      "name": "Bleu cheese crumbles",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Combine teff flour, water, and salt in a bowl and mix until smooth.",
+    "Heat a non-stick skillet over medium-high heat.",
+    "Add garlic and sauté for 1-2 minutes, until fragrant.",
+    "Add onion and sauté for an additional 2-3 minutes, until softened.",
+    "Add maitakes and sauté for 3-4 minutes, until browned.",
+    "Stir in spinach and cook until wilted, about 1-2 minutes.",
+    "Stir in raisins and cook for an additional 1-2 minutes, until they start to plump.",
+    "Transfer the mixture to a serving dish and top with a spoonful of melted clarified butter.",
+    "If using, sprinkle with bleu cheese crumbles for an added burst of flavor.",
+    "Serve the injera on the side, either toasted or untoasted, as desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "gluten-free",
+    "lunch",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "garlicky-gooey-ethiopian-injera-dulet",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-gooey-ethiopian-injera-dulet",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:59:28Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "gooey",
+    "mood": "brunch-mood",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "raisins",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "injera",
+    "descriptor": "garlicky gooey",
+    "dishForm": "Dulet"
+  }
+}
