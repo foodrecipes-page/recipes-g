@@ -1,0 +1,93 @@
+{
+  "title": "Glorious Golden Filipino Vegetable Lumpia",
+  "description": "A tangy and festive Filipino dish featuring a vegetarian-friendly filling wrapped in a crispy lumpia wrapper, served with a side of sweet chili sauce.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "lumpia wrappers",
+      "amount": "20 pieces",
+      "notes": "found in most Asian markets"
+    },
+    {
+      "name": "unsalted beef stock",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pasta water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup, grated"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/2 cup, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the unsalted beef stock, pasta water, and vegetable oil to create an emulsion.",
+    "Add the shredded cabbage, grated carrots, chopped green onions, and minced garlic to the bowl and mix well.",
+    "Lay a lumpia wrapper on a flat surface and place about 1 tablespoon of the vegetable mixture in the center of the wrapper.",
+    "Brush the edges of the wrapper with a little water and fold the wrapper into a triangle, pressing the edges together to seal.",
+    "Repeat with the remaining wrappers and filling.",
+    "Heat about 2-3 inches of vegetable oil in a deep frying pan over medium-high heat until it reaches 350 degrees.",
+    "Fry the lumpia until golden brown, about 3-4 minutes on each side.",
+    "Drain the lumpia on paper towels and serve hot with sweet chili sauce.",
+    "To make the sweet chili sauce, combine 1/2 cup of ketchup, 1/4 cup of water, and 2 tablespoons of sugar in a bowl and mix well.",
+    "Add 1-2 teaspoons of chili flakes to the sauce and mix well."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 20,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "filipino-food",
+    "lumpia",
+    "party-food",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "glorious-golden-filipino-vegetable-lumpia",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/glorious-golden-filipino-vegetable-lumpia",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:59:13Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "bouncy-qq",
+    "mood": "festive",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "unsalted beef stock",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "vegetables",
+    "descriptor": "Glorious Golden",
+    "dishForm": "Lumpia"
+  }
+}
