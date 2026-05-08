@@ -1,0 +1,95 @@
+{
+  "title": "Gently Roasted Korean Avocado Bowl",
+  "description": "A low-calorie, nutritious bowl featuring roasted avocado and namul, perfect for a healthy lunch or snack. This dish combines the creaminess of avocado with the crunch of roasted vegetables and the spiciness of Korean chili flakes.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "avocado",
+      "amount": "2 medium",
+      "notes": "ripe"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "namul",
+      "amount": "1 cup",
+      "notes": "blanched and seasoned"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cut the avocado in half and remove the pit.",
+    "Place the avocado on a baking sheet and roast for 20 minutes.",
+    "In a small bowl, whisk together the soy sauce, Korean chili flakes, sesame oil, salt, and black pepper.",
+    "In a separate pan, heat the soy sauce mixture over medium heat and add the namul.",
+    "Stir-fry the namul for 2-3 minutes until it is well coated with the sauce.",
+    "To assemble the bowl, place a scoop of brown rice on the bottom, followed by a roasted avocado half, and top with the namul mixture.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional Korean chili flakes and sesame seeds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "easy-lunch",
+    "healthy-bowl",
+    "korean-inspired",
+    "low-calorie",
+    "quick-dinner",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "gently-roasted-korean-avocado-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gently-roasted-korean-avocado-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:15:21Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "shattering",
+    "mood": "monsoon",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "avocado",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "avocado",
+    "descriptor": "Gently roasted",
+    "dishForm": "Bowl"
+  }
+}
