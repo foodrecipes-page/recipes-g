@@ -1,0 +1,99 @@
+{
+  "title": "Golden Grilled Brazilian Sausages Skewers",
+  "description": "Charred and pillowy Brazilian dish featuring German sausages, perfect for a midnight craving, this recipe is ayurvedic-tamasic-friendly and made with love",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "German sausages",
+      "amount": "12",
+      "notes": "preferably knockwurst or bratwurst"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "2 large",
+      "notes": "any color, cut into 1-inch pieces"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 large",
+      "notes": "cut into 1-inch slices"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "12",
+      "notes": "halved"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit",
+    "Thread the sausages, onion, bell pepper, zucchini, and cherry tomatoes onto skewers, leaving a little space between each piece",
+    "Brush the skewers with olive oil and season with salt, black pepper, and garlic powder",
+    "Place the skewers on the grill and cook for 10-12 minutes, turning occasionally, until the sausages are browned and cooked through",
+    "Remove the skewers from the grill and let them rest for a few minutes",
+    "Serve the skewers hot, garnished with fresh parsley or cilantro if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian",
+    "easy-dinner",
+    "gluten-free",
+    "grilled",
+    "meat-lovers",
+    "midnight-craving",
+    "sausages"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "golden-grilled-brazilian-sausages-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-grilled-brazilian-sausages-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:12:11Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "pillowy",
+    "mood": "midnight-craving",
+    "technique": "grill",
+    "primaryIngredient": "german sausages",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "sausages",
+    "descriptor": "Golden Grilled",
+    "dishForm": "Skewers"
+  }
+}
