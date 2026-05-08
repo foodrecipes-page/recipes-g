@@ -1,0 +1,101 @@
+{
+  "title": "Garlicky Velvety Portuguese Mozzarella Wrap",
+  "description": "A Mediterranean-inspired dish featuring mozzarella balls wrapped in leafy greens and steamed to perfection, infused with a garlicky flavor.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "mediterranean"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mozzarella balls",
+      "amount": "12",
+      "notes": "fresh"
+    },
+    {
+      "name": "Collard green leaves",
+      "amount": "12",
+      "notes": "large"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "6",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and blanch the collard green leaves for 30 seconds to make them pliable.",
+    "Shock the blanched leaves in an ice bath to stop the cooking process.",
+    "In a small bowl, mix together the minced garlic and olive oil.",
+    "Lay a collard green leaf flat and place a mozzarella ball in the center of the leaf.",
+    "Brush the garlic and olive oil mixture onto the mozzarella ball.",
+    "Season with salt and black pepper to taste.",
+    "Fold the stem end of the leaf over the mozzarella, then fold in the sides and roll the leaf into a tight cylinder.",
+    "Repeat the process with the remaining leaves and mozzarella balls.",
+    "Place the wraps in a steamer basket and steam for 5 minutes.",
+    "Serve the wraps hot with a squeeze of lemon juice and a sprinkle of chopped parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "garlicky",
+    "healthy",
+    "mediterranean",
+    "portuguese",
+    "steamed",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "garlicky-velvety-portuguese-mozzarella-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-velvety-portuguese-mozzarella-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:51:06Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "velvety",
+    "mood": "energizing",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "mozzarella balls",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "mozzarella",
+    "descriptor": "Garlicky velvety",
+    "dishForm": "Wrap"
+  }
+}
