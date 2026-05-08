@@ -1,0 +1,92 @@
+{
+  "title": "Golden Thai Chickpeas Khanom Krok",
+  "description": "Rich, crumbly, and indulgent Thai dish featuring chickpeas in a corn husk wrap, perfect for a snack or dessert. This macrobiotic-friendly recipe is easy to make and delicious to eat.",
+  "cuisine": "Thai",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "rice flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "corn husks",
+      "amount": "12 pieces"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a blender, combine chickpeas, coconut milk, palm sugar, rice flour, salt, and paprika, and blend until smooth.",
+    "Lay a corn husk flat and spoon about 1 tablespoon of the chickpea mixture onto the center of the husk.",
+    "Fold the sides of the husk over the filling and then roll the husk up to form a tight cylinder.",
+    "Repeat with the remaining corn husks and filling.",
+    "Place the khanom krok in a single layer on a baking sheet lined with parchment paper.",
+    "Drizzle the tops with vegetable oil and bake for 20 minutes.",
+    "Remove the khanom krok from the oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "corn-husk",
+    "dessert",
+    "macrobiotic",
+    "snack",
+    "thai-food",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "golden-thai-chickpeas-khanom-krok",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-thai-chickpeas-khanom-krok",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:08:27Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crumbly",
+    "mood": "indulgent",
+    "technique": "papillote",
+    "primaryIngredient": "can of chickpeas",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Golden Crumbly",
+    "dishForm": "Khanom Krok"
+  }
+}
