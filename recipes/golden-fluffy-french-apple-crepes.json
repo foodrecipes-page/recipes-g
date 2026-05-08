@@ -1,0 +1,93 @@
+{
+  "title": "Golden Fluffy French Apple Crepes",
+  "description": "A delicious and crowd-pleasing French dish from Provence, these crepes are filled with tender apples and a hint of cinnamon, perfect for a sweet dessert or snack. The combination of fluffy crepes and sweet apples is a match made in heaven.",
+  "cuisine": "French",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "milk",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "apples",
+      "amount": "2 large",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the flour, milk, eggs, sugar, and cinnamon until smooth.",
+    "Heat a small non-stick pan over medium heat and brush with melted butter.",
+    "Pour about 1/4 cup of the batter into the pan and tilt to evenly coat the bottom.",
+    "Cook the crepe for about 2 minutes, until the bottom is golden brown, then flip and cook for another minute.",
+    "Repeat with the remaining batter, until all the crepes are cooked.",
+    "In a separate pan, cook the sliced apples over medium heat with a pinch of salt until tender.",
+    "To assemble the crepes, place a few slices of the cooked apples in the center of each crepe, then roll up and place in a ramekin.",
+    "Serve the crepes warm, dust with cinnamon if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "apple-crepes",
+    "brunch",
+    "crowd-pleaser",
+    "french-dish",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "golden-fluffy-french-apple-crepes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-fluffy-french-apple-crepes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:51:44Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "fluffy",
+    "mood": "crowd-pleaser",
+    "technique": "fry",
+    "primaryIngredient": "ground cinnamon",
+    "diet": "kosher",
+    "region": "provence",
+    "cuisineAdjective": "French",
+    "mainIngredient": "apples",
+    "descriptor": "Golden Fluffy",
+    "dishForm": "Crepes"
+  }
+}
