@@ -1,0 +1,96 @@
+{
+  "title": "Glassy Rich Thai Chicken Larb",
+  "description": "A rich and savory Thai dish featuring chicken, chocolate chips, and a glassy jelly texture, perfect for a hangover cure or a high protein meal. This recipe uses a pressure cooker to achieve tender chicken and a rich flavor.",
+  "cuisine": "Thai",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "chocolate chips",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a pressure cooker, combine chicken, fish sauce, lime juice, chili flakes, garlic, and ginger, and cook on high pressure for 10 minutes.",
+    "Let the pressure release naturally for 10 minutes, then quick-release any remaining pressure.",
+    "Stir in chocolate chips until melted and well combined.",
+    "Add chopped Thai basil and stir to combine.",
+    "Let the mixture cool to room temperature, then refrigerate until chilled and set, about 30 minutes.",
+    "Once set, use a fork to break up the mixture into a larb-like texture.",
+    "Serve chilled, garnished with additional Thai basil if desired.",
+    "Refrigerate any leftovers for up to 3 days.",
+    "Reheat gently before serving if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hangover-cure",
+    "high-protein",
+    "one-pot",
+    "pressure-cooker",
+    "rich",
+    "savory",
+    "thai"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "glassy-rich-thai-chicken-larb",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/glassy-rich-thai-chicken-larb",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:26:20Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "glassy-jelly",
+    "mood": "hangover-cure",
+    "technique": "pressure-cook",
+    "primaryIngredient": "chocolate chips",
+    "diet": "high-protein",
+    "region": "isaan",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "Glassy Rich",
+    "dishForm": "Larb"
+  }
+}

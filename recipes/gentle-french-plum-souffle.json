@@ -1,0 +1,97 @@
+{
+  "title": "Gentle French Plum Souffle",
+  "description": "A pillowy and garlicky French dish featuring plum sauce, this souffle is a quick-fix dessert that is sugar-free friendly. It is cooked to perfection on a hot stone plate.",
+  "cuisine": "French",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "plum sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "large eggs",
+      "amount": "4",
+      "notes": "room temperature"
+    },
+    {
+      "name": "granulated sweetener",
+      "amount": "1/2 cup",
+      "notes": "such as stevia or erythritol"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the pressure cooker to 10 psi and the hot stone plate to 400 degrees Fahrenheit.",
+    "In a blender, puree the plum sauce until smooth.",
+    "In a large bowl, whisk together the eggs, granulated sweetener, and melted butter.",
+    "Add the garlic powder, salt, and flour to the bowl and whisk until well combined.",
+    "Stir in the heavy cream and pureed plum sauce until smooth.",
+    "Pour the mixture into 4 small ramekins or cups.",
+    "Place the ramekins in the pressure cooker and cook for 5 minutes.",
+    "Remove the ramekins from the pressure cooker and place them on the hot stone plate.",
+    "Bake for an additional 10 minutes, or until puffed and golden brown.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french-dessert",
+    "garlicky",
+    "hot-stone-plate",
+    "pillowy",
+    "pressure-cooker",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "gentle-french-plum-souffle",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gentle-french-plum-souffle",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:26:19Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "pillowy",
+    "mood": "quick-fix",
+    "technique": "pressure-cook",
+    "primaryIngredient": "plum sauce",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "plum",
+    "descriptor": "Garlicky Gentle",
+    "dishForm": "Souffle"
+  }
+}

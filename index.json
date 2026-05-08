@@ -3676,6 +3676,21 @@
     "shard": "g"
   },
   {
+    "slug": "gentle-french-plum-souffle",
+    "title": "Gentle French Plum Souffle",
+    "tags": [
+      "french-dessert",
+      "garlicky",
+      "hot-stone-plate",
+      "pillowy",
+      "pressure-cooker",
+      "sugar-free"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "gentle-german-beef-bake",
     "title": "German Beef Bake",
     "tags": [
@@ -4645,6 +4660,22 @@
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 30,
+    "shard": "g"
+  },
+  {
+    "slug": "glassy-rich-thai-chicken-larb",
+    "title": "Glassy Rich Thai Chicken Larb",
+    "tags": [
+      "hangover-cure",
+      "high-protein",
+      "one-pot",
+      "pressure-cooker",
+      "rich",
+      "savory",
+      "thai"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 60,
     "shard": "g"
   },
   {
