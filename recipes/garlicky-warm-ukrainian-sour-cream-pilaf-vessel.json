@@ -1,0 +1,91 @@
+{
+  "title": "Garlicky Warm Ukrainian Sour Cream Pilaf Vessel",
+  "description": "A hearty, comforting Ukrainian dish made with semolina flour, perfect for a weekend brunch.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "semolina flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried parsley",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a cataplana over medium heat.",
+    "Add the minced garlic and sauté for 1 minute.",
+    "Add the semolina flour and cook for 2 minutes, stirring constantly.",
+    "Gradually add the water, whisking constantly to prevent lumps.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 5 minutes.",
+    "Stir in the sour cream, dried parsley, salt, and black pepper.",
+    "Cook for an additional 2 minutes, or until the pilaf has thickened.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-fiber",
+    "one-pan",
+    "ukrainian",
+    "vegetarian",
+    "weekend-brunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "garlicky-warm-ukrainian-sour-cream-pilaf-vessel",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-warm-ukrainian-sour-cream-pilaf-vessel",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:29:31Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "shaggy",
+    "mood": "brunch-mood",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "semolina flour",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "sour cream",
+    "descriptor": "Garlicky warm",
+    "dishForm": "Pilaf"
+  }
+}
