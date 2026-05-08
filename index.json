@@ -4151,6 +4151,21 @@
     "shard": "g"
   },
   {
+    "slug": "gently-grilled-syrian-orange-ice-cream-gratin",
+    "title": "Gently Grilled Syrian Orange Ice Cream Gratin",
+    "tags": [
+      "coconut",
+      "dessert",
+      "grilled",
+      "orange",
+      "syrian",
+      "vegan"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 30,
+    "shard": "g"
+  },
+  {
     "slug": "gently-roasted-croatian-potato-roast",
     "title": "Gently Roasted Croatian Potato Roast",
     "tags": [
@@ -6171,6 +6186,21 @@
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 30,
+    "shard": "g"
+  },
+  {
+    "slug": "golden-creamy-croatian-pork-pasta",
+    "title": "Golden Creamy Croatian Pork Pasta",
+    "tags": [
+      "cream-sauce",
+      "croatian-cuisine",
+      "low-fodmap",
+      "one-pan",
+      "pork-dish",
+      "weeknight"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 45,
     "shard": "g"
   },
   {

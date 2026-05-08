@@ -1,0 +1,101 @@
+{
+  "title": "Golden Creamy Croatian Pork Pasta",
+  "description": "A rich and creamy Croatian dish featuring pork, pasta, and a hint of wine, made with strong white bread flour and a mantecare emulsification method, perfect for a weeknight dinner",
+  "cuisine": "Croatian",
+  "diet": [
+    "low-fodmap",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "strong white bread flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried parsley",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pappardelle pasta",
+      "amount": "8 ounces"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pappardelle pasta according to the package instructions until al dente",
+    "In a large skillet, melt 2 tablespoons of butter over medium-high heat and cook the pork tenderloin until browned on all sides",
+    "Remove the pork from the skillet and set aside, then add the remaining 2 tablespoons of butter to the skillet",
+    "Add the strong white bread flour to the skillet and cook for 1 minute, stirring constantly",
+    "Slowly add the white wine to the skillet, whisking constantly to avoid lumps",
+    "Bring the wine mixture to a simmer and cook until reduced by half, then add the chicken broth and heavy cream to the skillet",
+    "Return the pork to the skillet and stir to coat with the cream sauce",
+    "Reduce the heat to low and simmer the sauce for 5 minutes, stirring occasionally",
+    "Stir in the dried parsley, salt, and black pepper, then serve the pork and sauce over the cooked pappardelle pasta"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cream-sauce",
+    "croatian-cuisine",
+    "low-fodmap",
+    "one-pan",
+    "pork-dish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "golden-creamy-croatian-pork-pasta",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-creamy-croatian-pork-pasta",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-08T21:09:17Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "creamy",
+    "mood": "weeknight",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "strong white bread flour",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "pork",
+    "descriptor": "Golden Creamy",
+    "dishForm": "Pasta"
+  }
+}

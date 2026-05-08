@@ -1,0 +1,93 @@
+{
+  "title": "Gently Grilled Syrian Orange Ice Cream Gratin",
+  "description": "A citrusy and fluffy Syrian dessert featuring ice cream, grilled to perfection in individual mini cocottes, vegan friendly.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "coconut milk ice cream",
+      "amount": "1 pint",
+      "notes": "orange flavored"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "orange zest",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pistachios",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to 375 degrees Fahrenheit.",
+    "Whisk together orange juice, maple syrup, orange zest, and lemon juice in a small bowl.",
+    "Add cornstarch to the bowl and whisk until smooth.",
+    "Pour the mixture into a small saucepan and cook over low heat until thickened.",
+    "Scoop the coconut milk ice cream into individual mini cocottes.",
+    "Drizzle the cooked orange mixture over the ice cream in each cocotte.",
+    "Drizzle coconut oil over the top of each cocotte.",
+    "Sprinkle chopped pistachios over the top of each cocotte.",
+    "Place the cocottes on the preheated grill and cook for 5 minutes, or until lightly browned."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "coconut",
+    "dessert",
+    "grilled",
+    "orange",
+    "syrian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "gently-grilled-syrian-orange-ice-cream-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gently-grilled-syrian-orange-ice-cream-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:09:52Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "fluffy",
+    "mood": "light",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "ice cream",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "oranges",
+    "descriptor": "Gently Grilled",
+    "dishForm": "Gratin"
+  }
+}
