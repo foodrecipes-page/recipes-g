@@ -5721,6 +5721,21 @@
     "shard": "g"
   },
   {
+    "slug": "golden-gingered-brazilian-chicken-toast",
+    "title": "Golden Gingered Brazilian Chicken Toast",
+    "tags": [
+      "brazilian-cuisine",
+      "easy-meals",
+      "gluten-free",
+      "healthy-snacks",
+      "low-carb",
+      "quick-dinners"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "golden-glazed-argentinian-kabocha-gratin",
     "title": "Golden Glazed Argentinian Kabocha Gratin",
     "tags": [
