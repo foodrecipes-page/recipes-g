@@ -1,0 +1,110 @@
+{
+  "title": "Gently Glazed Ethiopian Lentils Tandoor",
+  "description": "Savory Ethiopian lentils cooked in a tandoor and glazed with a sweet caramel sauce, perfect for a romantic dinner",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "caramel sauce",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "tandoor spice blend",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor to 400 degrees Fahrenheit",
+    "In a large bowl, mix together the lentils, onion, garlic, ginger, tandoor spice blend, salt, and black pepper",
+    "Brush the inside of the tandoor with vegetable oil to prevent sticking",
+    "Add the lentil mixture to the tandoor and cook for 20 minutes, stirring occasionally",
+    "While the lentils are cooking, heat the caramel sauce in a small saucepan over medium heat",
+    "After the lentils have cooked for 20 minutes, brush them with the heated caramel sauce",
+    "Continue cooking the lentils for an additional 10 minutes, stirring frequently to prevent burning",
+    "Remove the lentils from the tandoor and garnish with chopped fresh cilantro",
+    "Serve the gently glazed Ethiopian lentils hot, garnished with additional cilantro if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caramel-sauce",
+    "ethiopian",
+    "indian-inspired",
+    "lentils",
+    "romantic-dinner",
+    "tandoor",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "gently-glazed-ethiopian-lentils-tandoor",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gently-glazed-ethiopian-lentils-tandoor",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:37:25Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "bouncy-qq",
+    "mood": "romantic",
+    "technique": "tandoor",
+    "primaryIngredient": "caramel sauce",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lentils",
+    "descriptor": "Gently Glazed",
+    "dishForm": "Tandoor"
+  }
+}
