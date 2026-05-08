@@ -1,0 +1,109 @@
+{
+  "title": "Garlicky Bouncy Romantic British Mozzarella Pizza",
+  "description": "A delicious and romantic British-inspired pizza featuring mozzarella cheese, perfect for a special occasion. Cooked to perfection in a ttukbaegi earthenware cookware for an authentic experience.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Oregano",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Basil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Pizza Dough (homemade or store-bought)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Fleur de Sel",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Extra-Virgin Olive Oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Freshly Ground Black Pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the ttukbaegi earthenware cookware to 250°C (475°F) for 30 minutes before cooking.",
+    "Place the pizza dough on a lightly floured surface and roll out to a thickness of 1-2 cm (0.5-1 in).",
+    "Transfer the dough to the preheated ttukbaegi earthenware cookware and spread the tomato sauce evenly over the dough, leaving a 1-cm (0.5-in) border around the edges.",
+    "Top the sauce with the mozzarella cheese, garlic, chopped fresh oregano, and chopped fresh basil.",
+    "Drizzle the extra-virgin olive oil over the top and sprinkle with a pinch of fleur de sel and a few grinds of freshly ground black pepper.",
+    "Bake the pizza in the preheated ttukbaegi earthenware cookware for 15-20 minutes or until the crust is golden brown and the cheese is melted and bubbly.",
+    "Remove the pizza from the cookware and let it cool for 5 minutes before slicing and serving.",
+    "Sprinkle with chopped fresh parsley before serving.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "garlic-lovers",
+    "pizza",
+    "romantic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 40
+  },
+  "slug": "garlicky-bouncy-romantic-british-mozzarella-pizza",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-bouncy-romantic-british-mozzarella-pizza",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:54:38Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "bouncy-qq",
+    "mood": "romantic",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "mozzarella",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "romantic british",
+    "mainIngredient": "mozzarella",
+    "descriptor": "garlicky bouncy",
+    "dishForm": "pizza"
+  }
+}

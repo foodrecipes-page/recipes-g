@@ -628,6 +628,20 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-bouncy-romantic-british-mozzarella-pizza",
+    "title": "Garlicky Bouncy Romantic British Mozzarella Pizza",
+    "tags": [
+      "british",
+      "garlic-lovers",
+      "pizza",
+      "romantic",
+      "weeknight"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 50,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-brazilian-garlic-pilaf",
     "title": "Garlicky Brazilian Garlic Pilaf",
     "tags": [
@@ -2594,6 +2608,21 @@
     ],
     "cuisine": "portuguese",
     "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-pull-malaysian-lacto-vegetarian-bake",
+    "title": "Garlicky Pull Malaysian Lacto-Vegetarian Bake",
+    "tags": [
+      "lacto-vegetarian",
+      "malaysian-cuisine",
+      "meal-prep",
+      "melted-cheese",
+      "one-pan",
+      "sous-vide"
+    ],
+    "cuisine": "malaysian",
+    "totalTimeMin": 150,
     "shard": "g"
   },
   {

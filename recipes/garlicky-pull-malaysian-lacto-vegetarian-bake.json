@@ -1,0 +1,119 @@
+{
+  "title": "Garlicky Pull Malaysian Lacto-Vegetarian Bake",
+  "description": "A creamy and savory Malaysian-inspired dish featuring a garlicky custard, crispy roti, and a pull-apart cheese center. Perfect for meal prep and a crowd-pleaser.",
+  "cuisine": "malaysian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for roti"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": "for custard"
+    },
+    {
+      "name": "grated mozzarella cheese",
+      "amount": "1/2 cup",
+      "notes": "for custard"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tsp",
+      "notes": " adjust to taste"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "egg",
+      "amount": "2",
+      "notes": "large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": " adjust to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "roti oil",
+      "amount": "1 tsp",
+      "notes": "for brushing roti"
+    }
+  ],
+  "instructions": [
+    "Preheat a sous vide water bath to 160°F (71°C).",
+    "In a blender or food processor, blend the coconut milk, curry powder, garlic, onion, egg, salt, and black pepper until smooth.",
+    "Transfer the mixture to a bowl and stir in the grated cheddar and mozzarella cheese.",
+    "Pour the mixture into a 6-cup baking dish or a 6-cup sous vide container.",
+    "Cover the dish or container with plastic wrap or aluminum foil and place it in the sous vide water bath.",
+    "Cook for 2 hours in the sous vide water bath.",
+    "While the custard is cooking, prepare the roti dough. Mix flour, salt, and curry powder in a bowl.",
+    "Gradually add water to the flour mixture and knead until a dough forms.",
+    "Divide the dough into 6-8 equal pieces and roll each piece into a ball.",
+    "Roll out each ball into a thin circle and place on a baking sheet lined with parchment paper.",
+    "Brush the roti with roti oil and cook in a 400°F (200°C) oven for 2-3 minutes or until crispy.",
+    "After the custard has cooked for 2 hours, remove it from the sous vide water bath and let it cool slightly.",
+    "Place the crispy roti on top of the custard and let it cool completely in the refrigerator for at least 2 hours.",
+    "Before serving, reheat the dish in the oven at 350°F (180°C) for 5-7 minutes or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lacto-vegetarian",
+    "malaysian-cuisine",
+    "meal-prep",
+    "melted-cheese",
+    "one-pan",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "garlicky-pull-malaysian-lacto-vegetarian-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-pull-malaysian-lacto-vegetarian-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T07:53:45Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "cheese-pull",
+    "mood": "meal-prep",
+    "technique": "sous-vide",
+    "primaryIngredient": "custard",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Lacto-Vegetarian",
+    "descriptor": "Garlicky Pull",
+    "dishForm": "Bake"
+  }
+}
