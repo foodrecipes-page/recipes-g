@@ -1,0 +1,93 @@
+{
+  "title": "Glorious Golden British Cheese Ploughmans",
+  "description": "A classic British dish featuring a selection of cheeses, bread, and accompaniments, perfect for a satisfying snack or light meal, made with salted butter and ferment-jang for added flavor.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cheddar cheese",
+      "amount": "200g",
+      "notes": "mild or medium strength"
+    },
+    {
+      "name": "Wensleydale cheese",
+      "amount": "150g",
+      "notes": "crumbly texture"
+    },
+    {
+      "name": "Salted butter",
+      "amount": "50g"
+    },
+    {
+      "name": "Ferment-jang",
+      "amount": "20g"
+    },
+    {
+      "name": "Wholemeal bread",
+      "amount": "1 loaf",
+      "notes": "sliced"
+    },
+    {
+      "name": "Apple slices",
+      "amount": "1 large apple"
+    },
+    {
+      "name": "Pickled onions",
+      "amount": "100g"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 bunch"
+    }
+  ],
+  "instructions": [
+    "Begin by slicing the wholemeal bread into thick slices and arranging them in the lacquerware bowl.",
+    "Cut the Cheddar and Wensleydale cheeses into small cubes and place them on top of the bread.",
+    "Spread a small amount of salted butter on each bread slice.",
+    "Add a spoonful of ferment-jang on top of the cheese cubes.",
+    "Arrange the apple slices and pickled onions around the cheese and bread.",
+    "Garnish with fresh parsley and serve immediately.",
+    "Consider adding a side of chutney or jam for added flavor.",
+    "Serve the ploughmans in the lacquerware bowl and enjoy.",
+    "Make sure to handle the food safely and store any leftovers in the refrigerator."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british-classics",
+    "easy-to-make",
+    "kid-friendly",
+    "snack-time",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "glorious-golden-british-cheese-ploughmans",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/glorious-golden-british-cheese-ploughmans",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:46:10Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "snappy",
+    "mood": "kid-friendly",
+    "technique": "ferment-jang",
+    "primaryIngredient": "salted butter",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "cheese",
+    "descriptor": "Glorious Golden",
+    "dishForm": "Ploughmans"
+  }
+}
