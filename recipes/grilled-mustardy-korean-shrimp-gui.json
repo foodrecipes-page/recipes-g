@@ -1,0 +1,95 @@
+{
+  "title": "Grilled Mustardy Korean Shrimp Gui",
+  "description": "A pescatarian-friendly Korean dish featuring grilled shrimp, mustardy flavors, and tender fregola, perfect for a post-workout meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "fregola",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "whole grain mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the fregola according to package instructions until tender.",
+    "Drain the fregola and set aside to cool.",
+    "In a large bowl, whisk together chili flakes, mustard, soy sauce, brown sugar, and minced garlic to make the marinade.",
+    "Add the shrimp to the marinade and toss to coat, letting it marinate for at least 10 minutes.",
+    "Preheat a grill or grill pan to medium-high heat and cook the shrimp for 2-3 minutes per side until pink and cooked through.",
+    "Brush the cooked shrimp with sesame oil and sprinkle with green onions.",
+    "Serve the grilled shrimp over the cooked fregola and enjoy.",
+    "Optional: garnish with additional green onions and serve with a side of kimchi for extra flavor."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-shrimp",
+    "high-protein",
+    "korean-cuisine",
+    "one-pan",
+    "pescatarian-friendly",
+    "post-workout-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "grilled-mustardy-korean-shrimp-gui",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/grilled-mustardy-korean-shrimp-gui",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:26:58Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "tender",
+    "mood": "post-workout",
+    "technique": "grill",
+    "primaryIngredient": "fregola",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "shrimp",
+    "descriptor": "Grilled Mustardy",
+    "dishForm": "Gui"
+  }
+}
