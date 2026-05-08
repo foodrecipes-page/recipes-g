@@ -1,0 +1,93 @@
+{
+  "title": "Gentle Simmered Japanese Sea Bass Nabemono",
+  "description": "A cultured and cozy Japanese dish featuring sea bass fillets, render-fat, and high-protein ingredients, served in a nabemono style. This dish is perfect for a cold winter night.",
+  "cuisine": "Japanese",
+  "diet": [
+    "high-protein",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sea bass fillets",
+      "amount": "4 fillets",
+      "notes": "fresh and skin removed"
+    },
+    {
+      "name": "rendered pork fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sake",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "mirin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "shimeji mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the sea bass fillets under cold water and pat them dry with paper towels.",
+    "Heat the rendered pork fat in a large clay pot or Dutch oven over medium heat.",
+    "Add the sea bass fillets to the pot and sear them for 2 minutes on each side.",
+    "Add the soy sauce, sake, and mirin to the pot and bring the mixture to a simmer.",
+    "Reduce the heat to low and add the green onions and shimeji mushrooms to the pot.",
+    "Cover the pot with a lid and simmer the mixture for 10 minutes.",
+    "Remove the pot from the heat and stir in the sesame oil.",
+    "Serve the sea bass and nabemono mixture hot, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "japanese-cuisine",
+    "nabemono",
+    "sea-bass",
+    "simmered-dish",
+    "winter-night"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "gentle-simmered-japanese-sea-bass-nabemono",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gentle-simmered-japanese-sea-bass-nabemono",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:33:07Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "chewy",
+    "mood": "cozy",
+    "technique": "render-fat",
+    "primaryIngredient": "sea bass fillets",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "sea bass",
+    "descriptor": "Gentle Simmered",
+    "dishForm": "Nabemono"
+  }
+}
