@@ -1,0 +1,100 @@
+{
+  "title": "Gloriously Dense Mexican Borlotti Beans Skillet",
+  "description": "A resinous, dense, solo-dinner Mexican dish featuring borlotti beans and bhuna, perfect for a keto-friendly meal.",
+  "cuisine": "Mexican",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "borlotti beans",
+      "amount": "1 cup",
+      "notes": "cooked and drained"
+    },
+    {
+      "name": "bhuna spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1/2 pound"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat and add the ground beef, cooking until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion to the skillet and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Stir in the bhuna spice mix and cook for 1 minute, until the spices are fragrant.",
+    "Add the cooked borlotti beans, tomato paste, and chicken broth to the skillet, stirring to combine.",
+    "Bring the mixture to a simmer and cook, stirring occasionally, until the liquid has thickened and the flavors have melded together.",
+    "Taste and adjust the seasoning as needed.",
+    "If using cheese, sprinkle it over the top of the skillet and cook until melted and bubbly.",
+    "Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "keto-friendly",
+    "mexican-inspired",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "gloriously-dense-mexican-borlotti-beans-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gloriously-dense-mexican-borlotti-beans-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:21:13Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "dense",
+    "mood": "solo-dinner",
+    "technique": "bhuna",
+    "primaryIngredient": "borlotti beans",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "borlotti beans",
+    "descriptor": "Gloriously dense",
+    "dishForm": "Skillet"
+  }
+}
