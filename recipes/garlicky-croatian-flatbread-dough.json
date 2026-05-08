@@ -1,0 +1,91 @@
+{
+  "title": "Garlicky Croatian Flatbread Dough",
+  "description": "A garlicky, pillowy, lazy-Sunday Croatian dish featuring self-raising flour, mantecare-emulsify, and FODMAP-friendly ingredients, perfect for a relaxing afternoon snack.",
+  "cuisine": "Croatian",
+  "diet": [
+    "FODMAP-friendly",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "self-raising flour",
+      "amount": "2 cups",
+      "notes": "make sure to use FODMAP-friendly flour"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the self-raising flour, sugar, and salt.",
+    "In a separate bowl, whisk together the olive oil, minced garlic, and warm water.",
+    "Add the wet ingredients to the dry ingredients and mix until a shaggy dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Punch down the dough and shape it into a round flatbread.",
+    "Place the flatbread on a baking sheet lined with parchment paper and bake for 20 minutes.",
+    "Remove the flatbread from the oven and let it cool for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "croatian-cuisine",
+    "flatbread",
+    "fodmap-friendly",
+    "garlicky",
+    "lazy-sunday",
+    "self-raising-flour",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 3
+  },
+  "slug": "garlicky-croatian-flatbread-dough",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-croatian-flatbread-dough",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:27:42Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "pillowy",
+    "mood": "lazy-sunday",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "self-raising flour",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "dough",
+    "descriptor": "garlicky pillowy",
+    "dishForm": "Flatbread"
+  }
+}
