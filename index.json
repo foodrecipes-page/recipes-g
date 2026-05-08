@@ -4656,6 +4656,21 @@
     "shard": "g"
   },
   {
+    "slug": "gloriously-greasy-aussie-kfc-burger",
+    "title": "gloriously greasy aussie kfc burger",
+    "tags": [
+      "austrialian-cuisine",
+      "comfort-food",
+      "fried-food",
+      "gluttony",
+      "indulgent",
+      "weeknight-meal"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 27,
+    "shard": "g"
+  },
+  {
     "slug": "gloriously-smoky-turkish-lamb-iskender",
     "title": "Gloriously Smoky Turkish Lamb Iskender",
     "tags": [

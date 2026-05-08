@@ -1,0 +1,125 @@
+{
+  "title": "gloriously greasy aussie kfc burger",
+  "description": "a post-workout treat featuring double-fried KFC chicken and a sweet and tangy sauce made with canned tomatoes. perfect for a lazy day after a tough workout at the beach.",
+  "cuisine": "australian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "kfc chicken breast",
+      "amount": "1 pound",
+      "notes": "double-fried until crispy"
+    },
+    {
+      "name": "canadian bacon",
+      "amount": "4 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "canned crushed tomatoes",
+      "amount": "1 can",
+      "notes": "1.5 cups"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "hot sauce",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "brioche buns",
+      "amount": "4 buns",
+      "notes": null
+    },
+    {
+      "name": "melted cheddar cheese",
+      "amount": "4 slices",
+      "notes": null
+    },
+    {
+      "name": "lettuce",
+      "amount": "1 head",
+      "notes": null
+    },
+    {
+      "name": "tomato",
+      "amount": "2",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "heat a large skillet over medium-high heat, add 1/4 cup of oil, and cook the double-fried KFC chicken breast for 2-3 minutes on each side.",
+    "in a small bowl, whisk together the mayonnaise, hot sauce, brown sugar, garlic powder, salt, and black pepper.",
+    "add the crushed tomatoes to the bowl and stir to combine.",
+    "assemble the burger by spreading a layer of the tomato-mayo sauce on the bottom bun, followed by a slice of melted cheddar cheese, a few slices of the double-fried KFC chicken, a slice of Canadian bacon, and finally the top bun.",
+    "reheat the assembled burger in the skillet for 1-2 minutes on each side, or until the cheese is melted and the buns are toasted.",
+    "remove the burger from the skillet and top with lettuce, tomato, and additional crispy bacon if desired.",
+    "repeat for remaining burgers and serve immediately.",
+    "serve the burgers on a lazy Susan spinner to keep them warm and to make serving easy.",
+    "consider making a side of fries or sweet potato fries for a complete meal.",
+    "do not overcrowd the skillet when cooking the burgers, cook in batches if necessary.",
+    "be careful when working with hot oil and sharp objects.",
+    "have fun and enjoy your delicious Gloriously Greasy Aussie KFC Burger!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "austrialian-cuisine",
+    "comfort-food",
+    "fried-food",
+    "gluttony",
+    "indulgent",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 1400,
+    "protein": 50,
+    "carbs": 120,
+    "fat": 80
+  },
+  "slug": "gloriously-greasy-aussie-kfc-burger",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/gloriously-greasy-aussie-kfc-burger",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:24:10Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "shaggy",
+    "mood": "post-workout",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "canned tomatoes",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "chicken",
+    "descriptor": "Gloriously Greasy",
+    "dishForm": "Burger"
+  }
+}
