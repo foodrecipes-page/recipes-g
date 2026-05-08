@@ -1,0 +1,101 @@
+{
+  "title": "Grassy Japanese Bacon Tamagoyaki",
+  "description": "A keto-friendly Japanese dish featuring bacon lardon and candy, served in a bamboo steamer, perfect for a hangover cure. This grassy and creamy tamagoyaki is a unique twist on traditional Japanese cuisine.",
+  "cuisine": "Japanese",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "bacon lardon",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "candy",
+      "amount": "1/4 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "green onion",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the bamboo steamer by filling it with boiling water and letting it sit for 5 minutes.",
+    "In a large bowl, whisk together the eggs, soy sauce, salt, and pepper.",
+    "Add the chopped spinach, green onion, and crushed candy to the bowl and stir until well combined.",
+    "Heat the sesame oil in a small pan over medium heat and cook the diced bacon lardon until crispy.",
+    "Add the cooked bacon lardon to the bowl and stir until well combined.",
+    "Pour the egg mixture into a greased tamagoyaki pan and cook over medium heat until the edges start to set.",
+    "Use a spatula to gently lift and fold the edges of the tamagoyaki towards the center.",
+    "Continue cooking and folding the tamagoyaki until it is almost set.",
+    "Transfer the tamagoyaki to the preheated bamboo steamer and steam for 5 minutes.",
+    "Serve the Grassy Japanese Bacon Tamagoyaki hot, garnished with additional chopped green onion and soy sauce if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-ideas",
+    "hangover-cure",
+    "japanese-cuisine",
+    "keto-friendly",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 5,
+    "fat": 24
+  },
+  "slug": "grassy-japanese-bacon-tamagoyaki",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/grassy-japanese-bacon-tamagoyaki",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:02:14Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "creamy",
+    "mood": "hangover-cure",
+    "technique": "candy",
+    "primaryIngredient": "bacon lardon",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "eggs",
+    "descriptor": "Grassy Creamy",
+    "dishForm": "Tamagoyaki"
+  }
+}
