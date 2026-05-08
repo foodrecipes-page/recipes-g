@@ -1,0 +1,102 @@
+{
+  "title": "Gentle Simmered Moroccan Bread Rolls Briouat",
+  "description": "A traditional Moroccan dish featuring soft and pillowy bread rolls simmered in a sweet and spicy sauce, perfect for a comforting snack or dessert. This low-fat-friendly version is a healthier take on the classic recipe.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "bread rolls",
+      "amount": "12",
+      "notes": "preferably day-old rolls"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ras el hanout",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large saucepan, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the grated ginger, cinnamon, sugar, water, lemon juice, ras el hanout, and salt, and stir to combine.",
+    "Bring the mixture to a simmer, then reduce the heat to low and cook for 10 minutes.",
+    "Add the bread rolls to the saucepan and simmer, covered, for 15 minutes, or until the rolls are soft and pillowy.",
+    "Remove the saucepan from the heat and let it cool for a few minutes.",
+    "Serve the briouat warm, garnished with a sprinkle of cinnamon and a drizzle of honey, if desired.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dessert",
+    "low-fat",
+    "moroccan-cuisine",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "gentle-simmered-moroccan-bread-rolls-briouat",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gentle-simmered-moroccan-bread-rolls-briouat",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:57:06Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "pillowy",
+    "mood": "nostalgic",
+    "technique": "simmer",
+    "primaryIngredient": "bread rolls",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "bread rolls",
+    "descriptor": "Gentle Simmered",
+    "dishForm": "Briouat"
+  }
+}
