@@ -1,0 +1,94 @@
+{
+  "title": "Gently Sweet French Rice Canele",
+  "description": "A traditional Basque-French dessert featuring crispy edges and a soft center, made with light brown soft sugar and fry-grind-rice-khao-khua, this canele is a unique and adventurous treat. It is also Buddhist-temple-friendly.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "light brown soft sugar",
+      "amount": "1 cup",
+      "notes": "use high quality sugar"
+    },
+    {
+      "name": "fry-grind-rice-khao-khua",
+      "amount": "2 cups",
+      "notes": "also known as toasted rice powder"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "whole milk preferred"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "pure extract"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "use flaky sea salt"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a medium bowl, whisk together the sugar, fry-grind-rice-khao-khua, and salt.",
+    "In a large bowl, whisk together the eggs, milk, and vanilla extract.",
+    "Add the dry ingredients to the wet ingredients and whisk until just combined.",
+    "Melt the butter and let it cool slightly.",
+    "Add the melted butter to the egg mixture and whisk until smooth.",
+    "Pour the batter into canele molds and bake for 25 minutes.",
+    "Reduce the oven temperature to 375 degrees Fahrenheit and bake for an additional 10 minutes.",
+    "Remove the caneles from the oven and let them cool in the molds for 5 minutes.",
+    "Remove the caneles from the molds and transfer them to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous-eats",
+    "basque-cuisine",
+    "french-desserts",
+    "unique-desserts",
+    "vegetarian-treats"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "gently-sweet-french-rice-canele",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gently-sweet-french-rice-canele",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:22:18Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "bouncy-qq",
+    "mood": "adventurous",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "light brown soft sugar",
+    "diet": "buddhist-temple",
+    "region": "basque-french",
+    "cuisineAdjective": "French",
+    "mainIngredient": "rice",
+    "descriptor": "Gently Sweet",
+    "dishForm": "Canele"
+  }
+}
