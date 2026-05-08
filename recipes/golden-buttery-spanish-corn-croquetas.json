@@ -1,0 +1,101 @@
+{
+  "title": "Golden Buttery Spanish Corn Croquetas",
+  "description": "Buttery, cheese-pull, Spanish dish featuring dried white corn, perfect for a low-carb snack or meal prep option. This Galician-inspired recipe is a delicious and satisfying treat.",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "dried white corn",
+      "amount": "1 cup",
+      "notes": "soaked overnight and drained"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "manchego cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/4 cup",
+      "notes": "for coating"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Soak the dried white corn in water overnight and drain well.",
+    "In a large bowl, combine the soaked corn, melted butter, shredded cheese, beaten egg, smoked paprika, salt, and black pepper.",
+    "Mix well until all the ingredients are fully incorporated.",
+    "Using your hands, shape the mixture into small cylindrical croquetas.",
+    "Roll each croqueta in almond flour to coat.",
+    "Place the coated croquetas on a plate or tray and refrigerate for at least 30 minutes to set.",
+    "Heat about 1-2 inches of olive oil in a large skillet over medium-high heat until it reaches 350 degrees.",
+    "Carefully place the croquetas in the hot oil and fry until golden brown, about 2-3 minutes on each side.",
+    "Remove the croquetas from the oil with a slotted spoon and place on a paper towel-lined plate to drain excess oil.",
+    "Serve the golden buttery Spanish corn croquetas warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "gluten-free",
+    "low-carb",
+    "meal-prep",
+    "snack-ideas",
+    "spanish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 5,
+    "fat": 18
+  },
+  "slug": "golden-buttery-spanish-corn-croquetas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-buttery-spanish-corn-croquetas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:28:54Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "cheese-pull",
+    "mood": "meal-prep",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "dried white corn",
+    "diet": "low-carb",
+    "region": "galician",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "corn",
+    "descriptor": "Golden Buttery",
+    "dishForm": "Croquetas"
+  }
+}
