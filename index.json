@@ -3615,6 +3615,21 @@
     "shard": "g"
   },
   {
+    "slug": "gentle-crisp-greek-oysters-spanakopita",
+    "title": "Gentle Crisp Greek Oysters Spanakopita",
+    "tags": [
+      "greek-cuisine",
+      "mushroom-based",
+      "phylo-dough",
+      "sous-vide",
+      "special-occasion",
+      "vegan-friendly"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 50,
+    "shard": "g"
+  },
+  {
     "slug": "gentle-dense-slovakian-pork-stew",
     "title": "Gentle Dense Slovakian Pork Stew",
     "tags": [

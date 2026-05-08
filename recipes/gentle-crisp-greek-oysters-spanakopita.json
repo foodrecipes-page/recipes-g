@@ -1,0 +1,105 @@
+{
+  "title": "Gentle Crisp Greek Oysters Spanakopita",
+  "description": "A vegan-friendly, herbal, and crisp Greek dish featuring oysters in a spanakopita form, utilizing sous-vide cooking for a tender and light texture. This dish is perfect for a special occasion or a unique dinner party.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oyster mushrooms",
+      "amount": "1 cup",
+      "notes": "substitute for traditional oysters"
+    },
+    {
+      "name": "spinach",
+      "amount": "2 cups",
+      "notes": "fresh"
+    },
+    {
+      "name": "phylo dough",
+      "amount": "1 package",
+      "notes": "vegan"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vegan feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "sous-vide machine",
+      "amount": "1",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 130 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat and saute the oyster mushrooms until tender.",
+    "In a large bowl, combine the cooked mushrooms, spinach, lemon juice, thyme, salt, and pepper, and mix well.",
+    "Layer the phylo dough in a large baking dish, brushing each layer with olive oil.",
+    "Add the mushroom and spinach mixture to the phylo dough, topping with vegan feta cheese.",
+    "Fold the phylo dough over the filling, brushing with olive oil to seal.",
+    "Place the spanakopita in the sous-vide machine and cook for 30 minutes.",
+    "Remove the spanakopita from the sous-vide machine and let it cool for 10 minutes.",
+    "Slice the spanakopita into individual servings and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "greek-cuisine",
+    "mushroom-based",
+    "phylo-dough",
+    "sous-vide",
+    "special-occasion",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "gentle-crisp-greek-oysters-spanakopita",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gentle-crisp-greek-oysters-spanakopita",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:05:36Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crisp",
+    "mood": "light",
+    "technique": "sous-vide",
+    "primaryIngredient": "oysters",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "oysters",
+    "descriptor": "Gentle Crisp",
+    "dishForm": "Spanakopita"
+  }
+}
