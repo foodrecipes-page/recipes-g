@@ -1,0 +1,101 @@
+{
+  "title": "Gently Comforting Middle Eastern Mung Bean Sprouts Musakhan",
+  "description": "A floral and shaggy Middle Eastern dish featuring mung bean sprouts, made with a shio-koji cure and low-calorie friendly ingredients, served in a salt block vessel.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mung bean sprouts",
+      "amount": "1 cup",
+      "notes": "freshly sprouted"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the shio-koji, sumac, and olive oil.",
+    "Add the mung bean sprouts to the bowl and toss to coat with the shio-koji mixture.",
+    "Heat a large skillet over medium heat and add the sliced onion.",
+    "Cook the onion for 5 minutes, or until it is lightly browned and caramelized.",
+    "Add the minced garlic to the skillet and cook for an additional 1 minute.",
+    "Add the cooked onion and garlic to the bowl with the mung bean sprouts and toss to combine.",
+    "Season the mixture with salt and black pepper to taste.",
+    "Transfer the mixture to a salt block vessel and bake in the preheated oven for 20 minutes.",
+    "Remove the musakhan from the oven and let it cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "low-calorie",
+    "middle-eastern",
+    "mung-bean",
+    "salt-block",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "gently-comforting-middle-eastern-mung-bean-sprouts-musakhan",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gently-comforting-middle-eastern-mung-bean-sprouts-musakhan",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:07:49Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "shaggy",
+    "mood": "comforting",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "mung-bean-sprout-sukju",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "mung bean sprouts",
+    "descriptor": "Gently Comforting",
+    "dishForm": "Musakhan"
+  }
+}
