@@ -1,0 +1,95 @@
+{
+  "title": "Great Nutty Venezuelan Haggis Empanadas",
+  "description": "A crowd-pleasing Venezuelan dish featuring haggis, mother-sauce-base, and nuts, this empanada is a snappy and delicious treat. It is shojin-friendly and perfect for any occasion.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "haggis",
+      "amount": "1 cup",
+      "notes": "traditional Scottish dish made from sheep's heart, liver, and lungs, mixed with onions, oatmeal, and spices"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "nuts",
+      "amount": "1/2 cup",
+      "notes": "such as almonds or walnuts"
+    },
+    {
+      "name": "mother sauce",
+      "amount": "1/2 cup",
+      "notes": "basic sauce made from butter, flour, and milk"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the flour and water to make the empanada dough.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Roll out each ball of dough into a thin circle.",
+    "Place 1 tablespoon of haggis in the center of each dough circle.",
+    "Sprinkle some nuts and mother sauce over the haggis.",
+    "Fold the dough over the filling to form a half-moon shape and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with vegetable oil and bake for 20 minutes.",
+    "Serve the empanadas hot and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "high-protein",
+    "one-pan",
+    "shojin-friendly",
+    "snappy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "great-nutty-venezuelan-haggis-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/great-nutty-venezuelan-haggis-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:44:31Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "snappy",
+    "mood": "crowd-pleaser",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "haggis",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "haggis",
+    "descriptor": "great nutty",
+    "dishForm": "Empanadas"
+  }
+}
