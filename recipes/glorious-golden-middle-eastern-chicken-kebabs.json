@@ -1,0 +1,104 @@
+{
+  "title": "Glorious Golden Middle Eastern Chicken Kebabs",
+  "description": "A crowd-pleasing Middle Eastern dish featuring marinated chicken, barbeque sauce, and a sweet and tangy flavor profile, this recipe is sugar-free-friendly and perfect for outdoor gatherings.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "barbeque sauce",
+      "amount": "1/2 cup",
+      "notes": "sugar-free"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the yogurt, lemon juice, olive oil, garlic, paprika, salt, and black pepper.",
+    "Add the chicken to the bowl and mix until the chicken is well coated with the marinade.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Thread the marinated chicken onto the soaked wooden skewers, leaving a small space between each piece.",
+    "Brush the grill with oil to prevent sticking and grill the kebabs for 10-12 minutes, turning occasionally.",
+    "After 8 minutes of grilling, brush the kebabs with the sugar-free barbeque sauce.",
+    "Continue grilling for an additional 2-4 minutes, or until the chicken is cooked through and the internal temperature reaches 165 degrees Fahrenheit.",
+    "Serve the kebabs hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "gluten-free",
+    "grilled",
+    "middle-eastern",
+    "outdoor",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "glorious-golden-middle-eastern-chicken-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/glorious-golden-middle-eastern-chicken-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:51:44Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "silky",
+    "mood": "crowd-pleaser",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "barbeque sauce",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "chicken",
+    "descriptor": "Glorious Golden",
+    "dishForm": "Kebabs"
+  }
+}
