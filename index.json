@@ -3836,6 +3836,21 @@
     "shard": "g"
   },
   {
+    "slug": "gently-crisp-syrian-basmati-rice-pilaf",
+    "title": "Gently Crisp Syrian Basmati Rice Pilaf",
+    "tags": [
+      "basmati-rice",
+      "gluten-free",
+      "middle-eastern",
+      "pilaf",
+      "syrian-cuisine",
+      "vegetarian"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 30,
+    "shard": "g"
+  },
+  {
     "slug": "gently-grassy-irish-kale-bowl",
     "title": "Gently Grassy Irish Kale Bowl",
     "tags": [
@@ -5086,6 +5101,22 @@
       "vegetarian"
     ],
     "cuisine": "Croatian",
+    "totalTimeMin": 45,
+    "shard": "g"
+  },
+  {
+    "slug": "glowing-glassy-irish-passata-skewers",
+    "title": "Glowing Glassy Irish Passata Skewers",
+    "tags": [
+      "gluten-free",
+      "grilled",
+      "irish-cuisine",
+      "low-carb",
+      "nigiri",
+      "passata",
+      "robata-grill"
+    ],
+    "cuisine": "Irish",
     "totalTimeMin": 45,
     "shard": "g"
   },
