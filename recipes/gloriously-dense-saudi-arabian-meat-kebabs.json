@@ -1,0 +1,97 @@
+{
+  "title": "Gloriously Dense Saudi Arabian Meat Kebabs",
+  "description": "A spicy and indulgent Saudi Arabian dish featuring bicarbonate of soda, perfect for a low fat friendly meal option.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb mince",
+      "amount": "500g",
+      "notes": "rested meat"
+    },
+    {
+      "name": "bicarbonate of soda",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium high heat.",
+    "In a large bowl, combine lamb mince, bicarbonate of soda, cumin powder, coriander powder, cayenne pepper, salt, and black pepper.",
+    "Mix well with your hands or a wooden spoon until just combined.",
+    "Add the chopped onion and minced garlic to the bowl and mix until the onion is evenly distributed.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Thread small portions of the meat mixture onto skewers, leaving a small space between each piece.",
+    "Brush the grill or grill pan with a small amount of oil to prevent sticking.",
+    "Grill the kebabs for 10-12 minutes, turning occasionally, until they are cooked through and slightly charred.",
+    "Serve the kebabs hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-meats",
+    "low-fat",
+    "middle-eastern",
+    "spicy-food",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "gloriously-dense-saudi-arabian-meat-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gloriously-dense-saudi-arabian-meat-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:14:17Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "dense",
+    "mood": "indulgent",
+    "technique": "rest-meat",
+    "primaryIngredient": "bicarbonate of soda",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "meat",
+    "descriptor": "Gloriously Dense",
+    "dishForm": "Kebabs"
+  }
+}
