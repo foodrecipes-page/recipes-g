@@ -1,0 +1,103 @@
+{
+  "title": "Garlicky Mushroom Turkish Cheese Flaky Borek",
+  "description": "A date-night Turkish dish featuring Thai red curry paste, yuzu-cure, and a flaky, buttery crust. Perfect for a low-sodium friendly dinner.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flaky pastry dough",
+      "amount": "1 package (16 ounces)",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "minced garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "sliced mushrooms",
+      "amount": "8 ounces",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "yuzu-cured cheese",
+      "amount": "8 ounces",
+      "notes": "such as yuzu-cured feta"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the flaky pastry dough to a thickness of 1/8 inch.",
+    "Cut the dough into 12 equal rectangles, about 3 inches wide and 5 inches long.",
+    "In a small bowl, mix together the softened butter, Thai red curry paste, minced garlic, and a pinch of salt and pepper.",
+    "Spread a tablespoon of the butter mixture onto each dough rectangle, leaving a 1-inch border around the edges.",
+    "Top each dough rectangle with a slice of mushroom, a sprinkle of yuzu-cured cheese, and a few leaves of parsley.",
+    "Fold the dough rectangles in half to form triangles, and press the edges together to seal.",
+    "Brush the tops of the borek with a little bit of water, and sprinkle with kosher salt.",
+    "Place the borek on a baking sheet lined with parchment paper, and bake for 20-25 minutes, or until golden brown.",
+    "Serve warm, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "flaky-crust",
+    "high-protein",
+    "low-sodium",
+    "one-pan",
+    "turkish-recipe"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "garlicky-mushroom-turkish-cheese-flaky-borek",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-mushroom-turkish-cheese-flaky-borek",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:04:37Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "flaky",
+    "mood": "date-night",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "thai red curry paste",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Cheese",
+    "descriptor": "Garlicky Mushroom",
+    "dishForm": "Flaky Borek"
+  }
+}
