@@ -1,0 +1,92 @@
+{
+  "title": "Gentle Steamed Algerian Eggplant Tagine",
+  "description": "A salty, pillowy, post-workout Algerian dish featuring plum sauce, this ovo-vegetarian friendly recipe is perfect for a snack or light meal. The combination of steamed eggplant and plum sauce creates a unique and delicious flavor profile.",
+  "cuisine": "Algerian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "plum sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the steamer to 200 degrees Fahrenheit.",
+    "In a large bowl, toss the eggplant cubes with olive oil, garlic, salt, and black pepper until they are evenly coated.",
+    "Place the eggplant mixture in a ramekin and steam for 15 minutes or until the eggplant is tender.",
+    "In a small bowl, whisk together the plum sauce and eggs.",
+    "Pour the plum sauce mixture over the steamed eggplant and steam for an additional 5 minutes.",
+    "Garnish with chopped parsley and serve hot.",
+    "Let it cool for a few minutes before serving.",
+    "Serve in the ramekin for a beautiful presentation."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "algerian-cuisine",
+    "easy-recipes",
+    "healthy-snacks",
+    "ovo-vegetarian",
+    "post-workout",
+    "steamed-dishes"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 14,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "gentle-steamed-algerian-eggplant-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gentle-steamed-algerian-eggplant-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:10:06Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "pillowy",
+    "mood": "post-workout",
+    "technique": "steam",
+    "primaryIngredient": "plum sauce",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "eggplant",
+    "descriptor": "gentle steamed",
+    "dishForm": "Tagine"
+  }
+}
