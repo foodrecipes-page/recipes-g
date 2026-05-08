@@ -1,0 +1,93 @@
+{
+  "title": "Gentle Earthy Korean Oats Kalguksu",
+  "description": "A comforting and earthy Korean dish featuring rolled oats and deep-fry-tod, made with ayurvedic-rajasic-friendly ingredients, in the form of kalguksu.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "1 cup",
+      "notes": "old fashioned"
+    },
+    {
+      "name": "deep fry tod",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large pot, bring 4 cups of water to a boil.",
+    "Add the rolled oats and reduce heat to low, simmering for 10 minutes.",
+    "In a pan, heat the sesame oil over medium heat and add the minced garlic and grated ginger, cooking for 1 minute.",
+    "Add the deep fry tod to the pan and cook for 2 minutes, stirring constantly.",
+    "Add the korean chili flakes, soy sauce, and cooked oats to the pan, stirring to combine.",
+    "Cook for an additional 2 minutes, until the mixture is heated through.",
+    "Stir in the chopped green onions and serve hot.",
+    "Garnish with additional green onions and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-to-make",
+    "korean-cuisine",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "gentle-earthy-korean-oats-kalguksu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gentle-earthy-korean-oats-kalguksu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:02:02Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "pillowy",
+    "mood": "midnight-craving",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "rolled oats",
+    "diet": "ayurvedic-rajasic",
+    "region": "jeolla",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "oats",
+    "descriptor": "Gentle Earthy",
+    "dishForm": "Kalguksu"
+  }
+}
