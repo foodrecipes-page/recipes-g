@@ -1,0 +1,104 @@
+{
+  "title": "Grassy Portuguese Chicken Wings Tagine",
+  "description": "A comforting Portuguese dish featuring juicy chicken wings in a rich miso marinade, cooked to perfection in a ceramic tagine, with a grassy flavor profile. This low sodium friendly recipe is perfect for a weeknight dinner.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken wings",
+      "amount": "2 pounds",
+      "notes": "fresh"
+    },
+    {
+      "name": "miso paste",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "fresh spinach",
+      "amount": "1 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Whisk together miso paste, olive oil, lemon juice, garlic, parsley, thyme, and bay leaves in a large bowl.",
+    "Add the chicken wings to the bowl and toss to coat with the miso marinade.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Remove the chicken from the marinade and place it in the ceramic tagine.",
+    "Pour the chicken broth into the tagine and bring to a boil on the stovetop.",
+    "Cover the tagine with a lid and transfer it to the preheated oven.",
+    "Bake for 30 minutes, then add the chopped spinach to the tagine.",
+    "Continue baking for an additional 10 minutes, or until the chicken is cooked through and the spinach is wilted.",
+    "Remove the tagine from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "low-sodium",
+    "one-pot",
+    "portuguese-cuisine",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "grassy-portuguese-chicken-wings-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/grassy-portuguese-chicken-wings-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:57:13Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "juicy",
+    "mood": "comforting",
+    "technique": "miso-marinate",
+    "primaryIngredient": "chicken wings",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "chicken wings",
+    "descriptor": "grassy juicy",
+    "dishForm": "Tagine"
+  }
+}
