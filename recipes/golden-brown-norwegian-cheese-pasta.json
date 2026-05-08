@@ -1,0 +1,99 @@
+{
+  "title": "Golden Brown Norwegian Cheese Pasta",
+  "description": "A light Norwegian dish featuring a charred, cheese-pull pasta with a hint of granulated sugar, cooked to perfection in a papillote, and finished with a Mediterranean twist.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pappardelle pasta",
+      "amount": "12 oz",
+      "notes": "wide, flat noodles"
+    },
+    {
+      "name": "norwegian cheese",
+      "amount": "1 cup",
+      "notes": "such as gudbrandsdalsost or ostehoevel"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "Cook the pappardelle pasta according to package instructions until al dente.",
+    "In a large bowl, whisk together the olive oil, garlic, salt, and black pepper.",
+    "Add the cooked pasta to the bowl and toss to combine with the garlic oil mixture.",
+    "In a separate bowl, mix together the norwegian cheese and granulated sugar.",
+    "Add the cheese mixture to the pasta and toss until the cheese is well combined.",
+    "Transfer the pasta mixture to a large piece of parchment paper, leaving a 1 inch border around the edges.",
+    "Top the pasta with the halved cherry tomatoes and chopped fresh basil.",
+    "Fold the parchment paper over the pasta to create a papillote, and bake for 15 minutes.",
+    "Remove the pasta from the oven and let it rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean-inspired",
+    "norwegian-cuisine",
+    "one-pan-meals",
+    "pasta-dishes",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "golden-brown-norwegian-cheese-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-brown-norwegian-cheese-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:09:24Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "cheese-pull",
+    "mood": "light",
+    "technique": "papillote",
+    "primaryIngredient": "granulated sugar",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "cheese",
+    "descriptor": "Golden Brown",
+    "dishForm": "Pasta"
+  }
+}

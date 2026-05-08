@@ -1,0 +1,94 @@
+{
+  "title": "Golden Crispy Kenyan Cheese Flatbread",
+  "description": "A crispy and flavorful Kenyan flatbread featuring melted cheese and a hint of bitterness, cooked to perfection in a tandoor clay pot. This dish is suitable for a Buddhist temple gathering.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably whole wheat"
+    },
+    {
+      "name": "shio cure",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cheese slices",
+      "amount": "8 slices"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor clay pot to 400 degrees Fahrenheit.",
+    "In a large mixing bowl, combine flour, shio cure, salt, and baking powder.",
+    "Gradually add water to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Roll out each ball into a thin circle, about 1/8 inch thick.",
+    "Place a cheese slice in the center of each circle and fold the dough over to form a half circle.",
+    "Brush the tops with olive oil and sprinkle with dried oregano.",
+    "Place the flatbreads in the preheated tandoor clay pot and cook for 12 minutes, or until crispy and golden brown.",
+    "Remove the flatbreads from the pot and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-friendly",
+    "cheesy",
+    "clay-pot",
+    "crispy",
+    "kenyan",
+    "tandoor",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "golden-crispy-kenyan-cheese-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-crispy-kenyan-cheese-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:09:34Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crispy",
+    "mood": "show-off",
+    "technique": "shio-cure",
+    "primaryIngredient": "cheese slices",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "cheese",
+    "descriptor": "Golden Crispy",
+    "dishForm": "Flatbread"
+  }
+}

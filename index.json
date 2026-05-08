@@ -5849,6 +5849,20 @@
     "shard": "g"
   },
   {
+    "slug": "golden-brown-norwegian-cheese-pasta",
+    "title": "Golden Brown Norwegian Cheese Pasta",
+    "tags": [
+      "mediterranean-inspired",
+      "norwegian-cuisine",
+      "one-pan-meals",
+      "pasta-dishes",
+      "vegetarian-options"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 40,
+    "shard": "g"
+  },
+  {
     "slug": "golden-brown-saudi-arabian-lamb-flatbread",
     "title": "Golden Brown Saudi Arabian Lamb Flatbread",
     "tags": [
@@ -6070,6 +6084,22 @@
     ],
     "cuisine": "Egyptian",
     "totalTimeMin": 45,
+    "shard": "g"
+  },
+  {
+    "slug": "golden-crispy-kenyan-cheese-flatbread",
+    "title": "Golden Crispy Kenyan Cheese Flatbread",
+    "tags": [
+      "buddhist-friendly",
+      "cheesy",
+      "clay-pot",
+      "crispy",
+      "kenyan",
+      "tandoor",
+      "vegetarian"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 32,
     "shard": "g"
   },
   {
