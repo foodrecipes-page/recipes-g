@@ -1,0 +1,92 @@
+{
+  "title": "Greatly Sweet Argentinian Almond Empanadas",
+  "description": "A sweet and snappy Argentinian dish featuring almond paste, perfect for kids and flexitarian-friendly, made with score-fat for a delicious flavor.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "unsalted"
+    },
+    {
+      "name": "almond paste",
+      "amount": "1 cup",
+      "notes": "store bought or homemade"
+    },
+    {
+      "name": "score fat",
+      "amount": "1/2 cup",
+      "notes": "or vegetable shortening"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit.",
+    "In a large mixing bowl, combine flour, score fat, and salt, and mix until a dough forms.",
+    "Roll out the dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of almond paste in the center of each dough circle.",
+    "Fold the dough in half over the filling and press the edges together to seal.",
+    "Brush the tops of the empanadas with beaten eggs and sprinkle with granulated sugar.",
+    "Place the empanadas on a baking sheet lined with parchment paper and bake for 20 minutes.",
+    "Remove the empanadas from the oven and let them cool on a wire rack.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "almond-based",
+    "argentinian",
+    "baked-goods",
+    "flexitarian",
+    "kid-friendly",
+    "sweet-pastry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "greatly-sweet-argentinian-almond-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/greatly-sweet-argentinian-almond-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:05:15Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "snappy",
+    "mood": "kid-friendly",
+    "technique": "score-fat",
+    "primaryIngredient": "almond paste",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "almonds",
+    "descriptor": "Greatly Sweet",
+    "dishForm": "Empanadas"
+  }
+}
