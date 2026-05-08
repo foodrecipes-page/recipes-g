@@ -1,0 +1,107 @@
+{
+  "title": "German Beef Bake",
+  "description": "A light and flavorful post-workout dish featuring minced beef and a crispy potato crust. Perfect for a weeknight dinner.",
+  "cuisine": "german",
+  "diet": [
+    "halal",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "500g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "beef broth",
+      "amount": "250ml"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large pan over medium heat, sauté the onion, carrot, and celery in a little oil until softened.",
+    "Add the minced beef and cook, breaking it up with a spoon, until browned.",
+    "Stir in the beef broth and bring to a simmer.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Arrange the sliced potatoes on top, overlapping slightly.",
+    "Drizzle with eggs and sprinkle with salt, pepper, and parsley.",
+    "Bake for 35 minutes or until the potatoes are golden brown and the filling is hot and bubbly.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "comfort-food",
+    "german",
+    "high-protein",
+    "one-pan",
+    "potato",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 43,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "gentle-german-beef-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/gentle-german-beef-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:55:49Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "light",
+    "mood": "post-workout",
+    "technique": "saute",
+    "primaryIngredient": "minced beef",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "beef",
+    "descriptor": "Gentle",
+    "dishForm": "Bake"
+  }
+}

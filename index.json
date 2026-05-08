@@ -3614,6 +3614,22 @@
     "shard": "g"
   },
   {
+    "slug": "gentle-german-beef-bake",
+    "title": "German Beef Bake",
+    "tags": [
+      "beef",
+      "comfort-food",
+      "german",
+      "high-protein",
+      "one-pan",
+      "potato",
+      "weeknight"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 55,
+    "shard": "g"
+  },
+  {
     "slug": "gentle-glutinous-stroop",
     "title": "Gentle Glutinous Stroop",
     "tags": [
