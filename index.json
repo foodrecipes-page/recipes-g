@@ -70,6 +70,21 @@
     "shard": "g"
   },
   {
+    "slug": "garden-fresh-canadian-blueberries-bowl",
+    "title": "Garden Fresh Canadian Blueberries Bowl",
+    "tags": [
+      "blueberries",
+      "canadian",
+      "easy",
+      "healthy",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 15,
+    "shard": "g"
+  },
+  {
     "slug": "garden-fresh-mediterranean-vegetable-tacos",
     "title": "Garden Fresh Mediterranean Vegetable Tacos",
     "tags": [
@@ -7877,6 +7892,20 @@
     ],
     "cuisine": "French (Provence)",
     "totalTimeMin": 50,
+    "shard": "g"
+  },
+  {
+    "slug": "gooey-french-dates-galette",
+    "title": "Gooey French Dates Galette",
+    "tags": [
+      "date-night",
+      "french",
+      "lyonnaise",
+      "romantic",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 55,
     "shard": "g"
   },
   {

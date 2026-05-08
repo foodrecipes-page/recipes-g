@@ -1,0 +1,113 @@
+{
+  "title": "Gooey French Dates Galette",
+  "description": "A rich, nutty, and sweet French dessert, perfect for a romantic evening in, with a crunchy date and flaky pastry. This traditional Lyonnaise dish is elevated with a hint of rum and a drizzle of infused oil.",
+  "cuisine": "French",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "confectioners' sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "rum",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "dates",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "almond extract",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "infused oil",
+      "amount": "2 tablespoons",
+      "notes": "see notes"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground almonds",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C)."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "french",
+    "lyonnaise",
+    "romantic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 4,
+    "carbs": 80,
+    "fat": 20
+  },
+  "slug": "gooey-french-dates-galette",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-french-dates-galette",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:32:41Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "snappy",
+    "mood": "date-night",
+    "technique": "infuse-oil",
+    "primaryIngredient": "rum",
+    "diet": "dash",
+    "region": "lyon",
+    "cuisineAdjective": "French",
+    "mainIngredient": "Dates",
+    "descriptor": "Gooey",
+    "dishForm": "Galette"
+  }
+}

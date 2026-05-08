@@ -1,0 +1,95 @@
+{
+  "title": "Garden Fresh Canadian Blueberries Bowl",
+  "description": "A refreshing weeknight dish featuring the sweetness of Canadian blueberries, the savory flavor of soffritto, and the crunch of fresh herbs. Perfect for a quick and easy dessert or snack.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Canadian Blueberries",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Soffritto (Onion, Carrot, Celery)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Mint",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix together the soffritto, parsley, and mint until well combined.",
+    "In a separate bowl, mix together the blueberries, honey, lemon juice, and salt until the blueberries are evenly coated.",
+    "Add the soffritto mixture to the blueberry mixture and stir until well combined.",
+    "Spoon the mixture into a wooden bowl and serve immediately.",
+    "Garnish with additional parsley and mint if desired.",
+    "Cover and refrigerate for up to 2 hours before serving.",
+    "Serve chilled, garnished with additional fruits or herbs if desired.",
+    "Leftovers can be stored in the refrigerator for up to 24 hours.",
+    "To make ahead, prepare the soffritto mixture and blueberry mixture separately, then combine just before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "blueberries",
+    "canadian",
+    "easy",
+    "healthy",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 1,
+    "carbs": 35,
+    "fat": 0
+  },
+  "slug": "garden-fresh-canadian-blueberries-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garden-fresh-canadian-blueberries-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:33:51Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "glassy-jelly",
+    "mood": "weeknight",
+    "technique": "soffritto-base",
+    "primaryIngredient": "blueberries",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "blueberries",
+    "descriptor": "Garden Fresh",
+    "dishForm": "bowl"
+  }
+}
