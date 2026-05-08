@@ -1,0 +1,112 @@
+{
+  "title": "Glowing Smoky Mexican Beef Huaraches",
+  "description": "A smoky and molten Mexican dish featuring feather blade beef, this crowd-pleaser is perfect for any occasion, with anti-inflammatory friendly ingredients to boot.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "feather blade beef",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "chipotle peppers",
+      "amount": "2",
+      "notes": "in adobo sauce"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "4",
+      "notes": "for huaraches"
+    },
+    {
+      "name": "monterey jack cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium-high heat and sear the beef strips until browned, about 5 minutes.",
+    "Add the diced onion to the skillet and cook until translucent, about 3 minutes.",
+    "Add the minced garlic to the skillet and cook for an additional minute.",
+    "Add the chipotle peppers to the skillet and cook for 1 minute, stirring constantly.",
+    "In a large bowl, combine the cooked beef mixture, shredded cheese, chopped cilantro, lime juice, salt, and pepper, and stir until well combined.",
+    "To assemble the huaraches, place a portion of the beef mixture onto a corn tortilla and top with another tortilla.",
+    "Place the huaraches on a baking sheet and bake in the preheated oven for 10 minutes, or until the cheese is melted and the tortillas are crispy.",
+    "Remove the huaraches from the oven and let cool for a few minutes before serving.",
+    "Serve the huaraches hot, garnished with additional cilantro and lime wedges if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "crowd-pleasers",
+    "dairy-free",
+    "gluten-free",
+    "mexican-food",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "glowing-smoky-mexican-beef-huaraches",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/glowing-smoky-mexican-beef-huaraches",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:47:28Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "molten",
+    "mood": "crowd-pleaser",
+    "technique": "blanch",
+    "primaryIngredient": "feather blade beef",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "beef",
+    "descriptor": "Glowing Smoky",
+    "dishForm": "Huaraches"
+  }
+}
