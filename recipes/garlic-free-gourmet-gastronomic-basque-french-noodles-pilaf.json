@@ -1,0 +1,98 @@
+{
+  "title": "Basque-French Noodle Pilaf",
+  "description": "A vibrant, juicy pilaf dish from the Basque region of France, made with flavorful noodle, spices, and aromatic herbs.",
+  "cuisine": "Basque-French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Basmati rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Noodle (French style)",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Dried rosemary",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the ghee in a large skillet over medium-high heat.",
+    "Add the thyme and rosemary to the skillet and stir for 1 minute.",
+    "Add the lemon zest to the skillet and stir for 1 minute.",
+    "Add the noodles to the skillet and stir for 3-4 minutes or until lightly toasted.",
+    "Add the water to the skillet, cover, and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes or until the liquid is absorbed.",
+    "Fluff the pilaf with a fork and season with salt to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "basque-french",
+    "easy-servings",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 6,
+    "carbs": 75,
+    "fat": 17
+  },
+  "slug": "garlic-free-gourmet-gastronomic-basque-french-noodles-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/garlic-free-gourmet-gastronomic-basque-french-noodles-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:05:30Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "juicy",
+    "mood": "monsoon",
+    "technique": "tadka",
+    "primaryIngredient": "noodles",
+    "diet": "no-onion-no-garlic",
+    "region": "basque-french",
+    "cuisineAdjective": "Basque-French",
+    "mainIngredient": "noodles",
+    "descriptor": "Garlic-free Gourmet Gastronomic",
+    "dishForm": "Pilaf"
+  }
+}

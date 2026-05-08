@@ -232,6 +232,20 @@
     "shard": "g"
   },
   {
+    "slug": "garlic-free-gourmet-gastronomic-basque-french-noodles-pilaf",
+    "title": "Basque-French Noodle Pilaf",
+    "tags": [
+      "basque-french",
+      "easy-servings",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Basque-French",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "garlic-gherkin-bliss",
     "title": "Garlic Gherkin Bliss",
     "tags": [
