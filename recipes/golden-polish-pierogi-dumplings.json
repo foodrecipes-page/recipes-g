@@ -1,0 +1,100 @@
+{
+  "title": "Golden Polish Pierogi Dumplings",
+  "description": "Tangy and flaky Polish dish featuring malt vinegar and bhuna, perfect for midnight cravings. This ovo-vegetarian friendly recipe serves as a delicious snack.",
+  "cuisine": "Polish",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "malt vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "bhuna spice mix",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "potato",
+      "amount": "1 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, warm water, and egg to form a smooth dough.",
+    "Knead the dough for 5 minutes until it becomes elastic.",
+    "Divide the dough into smaller pieces and roll each into a ball.",
+    "Roll out each ball into a thin circle.",
+    "Place a tablespoon of grated potato and chopped onion in the center of each circle.",
+    "Fold the dough over the filling to form a half moon shape and press the edges together to seal.",
+    "Bring a large pot of salted water to a boil and gently add the pierogi.",
+    "Cook the pierogi for 5 minutes or until they float to the surface.",
+    "While the pierogi are cooking, melt the butter in a small saucepan over medium heat.",
+    "Add the malt vinegar and bhuna spice mix to the melted butter and stir to combine.",
+    "Serve the pierogi in a Korean brass bowl with the tangy butter sauce spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-to-make",
+    "midnight-cravings",
+    "polish-cuisine",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "golden-polish-pierogi-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-polish-pierogi-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:43:49Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "flaky",
+    "mood": "midnight-craving",
+    "technique": "bhuna",
+    "primaryIngredient": "malt vinegar",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "polish",
+    "mainIngredient": "pierogi",
+    "descriptor": "golden flaky",
+    "dishForm": "Dumplings"
+  }
+}

@@ -3687,6 +3687,20 @@
     "shard": "g"
   },
   {
+    "slug": "gently-smoked-russian-andouille-sausage-skewers",
+    "title": "Gently Smoked Russian Andouille Sausage Skewers",
+    "tags": [
+      "grilled",
+      "kid-friendly",
+      "one-pan",
+      "plant-based-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "gently-smoked-saudi-arabian-lamb-tagine",
     "title": "Gently Smoked Saudi Arabian Lamb Tagine",
     "tags": [
@@ -5432,6 +5446,20 @@
     "shard": "g"
   },
   {
+    "slug": "golden-polish-pierogi-dumplings",
+    "title": "Golden Polish Pierogi Dumplings",
+    "tags": [
+      "comfort-food",
+      "easy-to-make",
+      "midnight-cravings",
+      "polish-cuisine",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 30,
+    "shard": "g"
+  },
+  {
     "slug": "golden-roasted-greesks-peanuts-stir-fry",
     "title": "Golden Roasted Greesks Peanuts Stir-fry",
     "tags": [
@@ -6177,6 +6205,22 @@
     ],
     "cuisine": "Malaysian",
     "totalTimeMin": 40,
+    "shard": "g"
+  },
+  {
+    "slug": "gooey-french-challot-tart-galette",
+    "title": "Gooey French Chalot Tart Galette",
+    "tags": [
+      "cheesy",
+      "french",
+      "indulgent",
+      "one-pan",
+      "provence",
+      "sweet",
+      "weeknight"
+    ],
+    "cuisine": "French (Provence)",
+    "totalTimeMin": 50,
     "shard": "g"
   },
   {

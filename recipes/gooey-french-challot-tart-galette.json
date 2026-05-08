@@ -1,0 +1,107 @@
+{
+  "title": "Gooey French Chalot Tart Galette",
+  "description": "A rich and indulgent French-inspired tart galette filled with caramelized chalots, gooey cheese, and a touch of sweetness.",
+  "cuisine": "French (Provence)",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "chalot",
+      "amount": "3 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "flour",
+      "amount": "1 1/2 cups",
+      "notes": "all-purpose"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large skillet, cook the sliced chalots and minced garlic over medium heat until caramelized, stirring occasionally.",
+    "In a separate bowl, mix together the grated gruyere and parmesan cheese.",
+    "Roll out the flour to a thickness of about 1/8 inch.",
+    "Transfer the dough to a 9-inch tart pan with a removable bottom.",
+    "Spread the cooked chalot and garlic mixture evenly over the dough, leaving a 1-inch border around the edges.",
+    "Sprinkle the gruyere-parmesan cheese mixture over the chalot mixture.",
+    "Drizzle the honey over the cheese mixture.",
+    "Fold the edges of the dough up over the filling, pressing gently to seal.",
+    "Brush the edges of the dough with the beaten eggs.",
+    "Bake the tart galette for 25-30 minutes, or until the crust is golden brown and the filling is bubbly and slightly puffed.",
+    "Remove the tart galette from the oven and let it cool for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 25,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "cheesy",
+    "french",
+    "indulgent",
+    "one-pan",
+    "provence",
+    "sweet",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 30,
+    "fat": 28
+  },
+  "slug": "gooey-french-challot-tart-galette",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-french-challot-tart-galette",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:43:35Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "gooey",
+    "mood": "indulgent",
+    "technique": "candy",
+    "primaryIngredient": "challots",
+    "diet": "low-glycemic",
+    "region": "provence",
+    "cuisineAdjective": "French",
+    "mainIngredient": "Challots",
+    "descriptor": "Gooey, Garlicky",
+    "dishForm": null
+  }
+}
