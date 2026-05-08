@@ -1,0 +1,104 @@
+{
+  "title": "Grilled Gourmet Korean Datterini Tomato Skewers",
+  "description": "A salty and shattering Korean dish featuring Datterini tomatoes, this recipe is perfect for those looking for an anti-inflammatory friendly meal, cooked to perfection in a kadhai and served on skewers.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Datterini tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 tsp",
+      "notes": "minced"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, making sure the grates are clean and brush them with sesame oil to prevent sticking.",
+    "In a large bowl, whisk together gochujang, rice vinegar, ginger, garlic, Korean chili flakes, salt, and black pepper to make the marinade.",
+    "Add the halved Datterini tomatoes to the marinade and toss to coat, letting them sit for at least 10 minutes to absorb the flavors.",
+    "Thread the marinated tomatoes onto skewers, leaving a small space between each tomato to allow for even cooking.",
+    "Place the skewers on the preheated grill and cook for 8-10 minutes, turning occasionally, until the tomatoes are tender and slightly charred.",
+    "While the tomatoes are cooking, heat a kadhai over medium heat and add a small amount of sesame oil to the pan.",
+    "Once the tomatoes are done, remove them from the grill and place them in the kadhai to warm through and combine with the sesame oil.",
+    "Sprinkle chopped cilantro over the top of the tomatoes and serve immediately.",
+    "Garnish with additional cilantro and Korean chili flakes if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "gluten-free",
+    "grilled-vegetables",
+    "korean-inspired",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "grilled-gourmet-korean-datterini-tomato-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/grilled-gourmet-korean-datterini-tomato-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:17:00Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "shattering",
+    "mood": "show-off",
+    "technique": "grill",
+    "primaryIngredient": "datterini-tomato",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "datterini tomato",
+    "descriptor": "grilled gourmet",
+    "dishForm": "Skewers"
+  }
+}

@@ -5855,6 +5855,21 @@
     "shard": "g"
   },
   {
+    "slug": "golden-grilled-russian-vialone-nano-rice-pilaf",
+    "title": "Golden Grilled Russian Vialone Nano Rice Pilaf",
+    "tags": [
+      "gluten-free",
+      "grilled-rice",
+      "keto-friendly",
+      "one-pot",
+      "russian-cuisine",
+      "tandoor-cooking"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 40,
+    "shard": "g"
+  },
+  {
     "slug": "golden-grilled-turkish-chorizo-skewers",
     "title": "Golden Grilled Turkish Chorizo Skewers",
     "tags": [
@@ -8794,6 +8809,21 @@
     ],
     "cuisine": "Kenyan",
     "totalTimeMin": 30,
+    "shard": "g"
+  },
+  {
+    "slug": "grilled-gourmet-korean-datterini-tomato-skewers",
+    "title": "Grilled Gourmet Korean Datterini Tomato Skewers",
+    "tags": [
+      "anti-inflammatory",
+      "gluten-free",
+      "grilled-vegetables",
+      "korean-inspired",
+      "one-pan",
+      "vegetarian"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {

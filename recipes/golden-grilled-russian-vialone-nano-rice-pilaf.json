@@ -1,0 +1,92 @@
+{
+  "title": "Golden Grilled Russian Vialone Nano Rice Pilaf",
+  "description": "A charred and springy Russian dish featuring vialone nano rice, grilled to perfection in a tandoor, and suitable for a keto-friendly diet. This energizing pilaf is perfect for a dinner meal.",
+  "cuisine": "Russian",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vialone nano rice",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the rinsed vialone nano rice, chicken broth, ghee, smoked paprika, garlic powder, salt, and black pepper.",
+    "Transfer the rice mixture to a heatproof bowl that fits inside the tandoor.",
+    "Grill the rice mixture in the tandoor for 20 minutes, stirring occasionally.",
+    "After 20 minutes, remove the bowl from the tandoor and stir in the chopped fresh parsley.",
+    "Return the bowl to the tandoor and grill for an additional 5 minutes, or until the rice is lightly charred and crispy.",
+    "Remove the pilaf from the tandoor and let it cool for a few minutes before serving.",
+    "Serve the golden grilled Russian vialone nano rice pilaf hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "grilled-rice",
+    "keto-friendly",
+    "one-pot",
+    "russian-cuisine",
+    "tandoor-cooking"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "golden-grilled-russian-vialone-nano-rice-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-grilled-russian-vialone-nano-rice-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:16:07Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "springy",
+    "mood": "energizing",
+    "technique": "tandoor",
+    "primaryIngredient": "vialone-nano",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "vialone nano rice",
+    "descriptor": "Golden Grilled",
+    "dishForm": "Pilaf"
+  }
+}
