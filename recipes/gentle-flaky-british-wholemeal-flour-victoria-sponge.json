@@ -1,0 +1,101 @@
+{
+  "title": "Gentle Flaky British Wholemeal Flour Victoria Sponge",
+  "description": "A traditional British dessert with a twist, featuring wholemeal flour and a flaky texture, cooked to perfection in a clay pot, this plant-based friendly Victoria sponge is a must try.",
+  "cuisine": "British",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "wholemeal flour",
+      "amount": "2 cups",
+      "notes": "strong, high protein"
+    },
+    {
+      "name": "plant-based milk",
+      "amount": "1 cup",
+      "notes": "such as almond or soy milk"
+    },
+    {
+      "name": "canola oil",
+      "amount": "1/2 cup",
+      "notes": "mild flavor"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": "for flaky texture"
+    },
+    {
+      "name": "baking powder",
+      "amount": "2 teaspoons",
+      "notes": "aluminum free"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to balance sweetness"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1/2 cup",
+      "notes": "grade b for rich flavor"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "high quality, plant-based"
+    }
+  ],
+  "instructions": [
+    "Preheat the clay pot in a cool oven at 300 degrees Fahrenheit for 10 minutes to prevent cracking.",
+    "In a large mixing bowl, whisk together the wholemeal flour, baking powder, and salt.",
+    "In a separate bowl, whisk together the plant-based milk, canola oil, apple cider vinegar, and maple syrup.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined, being careful not to overmix.",
+    "Add the vanilla extract and stir gently to distribute.",
+    "Pour the batter into the preheated clay pot and smooth the top.",
+    "Bake for 25 minutes, then reduce the oven temperature to 275 degrees Fahrenheit and continue baking for an additional 10 minutes, or until a toothpick inserted into the center comes out clean.",
+    "Remove the sponge from the oven and let it cool in the pot for 5 minutes before transferring it to a wire rack to cool completely.",
+    "Once the sponge is completely cool, use a serrated knife to level it, if necessary, and split it in half horizontally using a long serrated knife.",
+    "Dust the top of the sponge with powdered sugar, if desired, and serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "british-classics",
+    "clay-pot-cooking",
+    "dessert-recipes",
+    "flaky-texture",
+    "plant-based",
+    "whole-grain"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "gentle-flaky-british-wholemeal-flour-victoria-sponge",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gentle-flaky-british-wholemeal-flour-victoria-sponge",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:45:52Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "flaky",
+    "mood": "light",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "strong wholemeal flour",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "wholemeal flour",
+    "descriptor": "Gentle Flaky",
+    "dishForm": "Victoria Sponge"
+  }
+}
