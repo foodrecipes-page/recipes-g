@@ -1,0 +1,94 @@
+{
+  "title": "Golden Brown Dutch Onion Casserole",
+  "description": "A briny, crumbly, and cozy Dutch dish featuring caramelized onions, this casserole is perfect for a cold winter night. It is sugar-free-friendly and can be served as a side dish or main course.",
+  "cuisine": "Dutch",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "onions",
+      "amount": "3 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, caramelize the onions over medium heat for 20 minutes.",
+    "In a separate bowl, whisk together the eggs, heavy cream, salt, black pepper, and dried thyme.",
+    "In a greased 9x13 inch slate-tile vessel, create a layer of caramelized onions.",
+    "Sprinkle a third of the gruyere cheese over the onions.",
+    "Pour a third of the egg mixture over the cheese.",
+    "Repeat the layers two more times, ending with a layer of cheese on top.",
+    "Dot the top of the casserole with butter.",
+    "Bake the casserole for 35 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "comfort-food",
+    "dutch-cuisine",
+    "gluten-free",
+    "sugar-free",
+    "winter-dish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 12,
+    "fat": 22
+  },
+  "slug": "golden-brown-dutch-onion-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-brown-dutch-onion-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:36:40Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crumbly",
+    "mood": "cozy",
+    "technique": "dehydrate",
+    "primaryIngredient": "onion",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "onion",
+    "descriptor": "Golden Brown",
+    "dishForm": "Casserole"
+  }
+}
