@@ -2279,6 +2279,21 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-juicy-polish-broccoli-quiche",
+    "title": "Garlicky Juicy Polish Broccoli Quiche",
+    "tags": [
+      "breakfast",
+      "broccoli",
+      "cheese",
+      "eggs",
+      "polish",
+      "quiche"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 55,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-juicy-thai-isaan-pork-curry",
     "title": "Garlicky Juicy Thai (Iisan) Pork Curry",
     "tags": [

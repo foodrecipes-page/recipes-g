@@ -1,0 +1,100 @@
+{
+  "title": "Garlicky Juicy Polish Broccoli Quiche",
+  "description": "A Polish-inspired quiche filled with garlicky, juicy broccoli and topped with a creamy mantecare emulsion.",
+  "cuisine": "Polish",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "whole milk",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "steamed broccoli",
+      "amount": "3 cups"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "mantecare emulsion",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the dough on a lightly floured surface to a thickness of about 1/8 inch.",
+    "Transfer the dough to a 9-inch tart pan with a removable bottom.",
+    "Trim the edges and press the dough into the corners of the pan.",
+    "In a large skillet, sauté the steamed broccoli and minced garlic over medium heat until fragrant.",
+    "In a large bowl, whisk together the eggs, milk, and grated cheddar cheese.",
+    "Add the cooked broccoli mixture and season with salt and black pepper.",
+    "Pour the egg mixture into the pie crust.",
+    "Bake the quiche for 35-40 minutes, or until the edges are golden brown and the center is set.",
+    "Remove the quiche from the oven and let it cool for a few minutes.",
+    "Top the quiche with the mantecare emulsion and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "breakfast",
+    "broccoli",
+    "cheese",
+    "eggs",
+    "polish",
+    "quiche"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "garlicky-juicy-polish-broccoli-quiche",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-juicy-polish-broccoli-quiche",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:15:44Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "juicy",
+    "mood": "brunch-mood",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "broccoli",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Broccoli",
+    "descriptor": "Garlicky Juicy",
+    "dishForm": "Quiche"
+  }
+}
