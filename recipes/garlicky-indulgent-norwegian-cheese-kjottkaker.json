@@ -1,0 +1,102 @@
+{
+  "title": "Garlicky Indulgent Norwegian Cheese Kjøttkaker",
+  "description": "A rich and savory Norwegian dish featuring yellow masarepa and a decadent cheese pull, perfect for a special occasion or a indulgent treat.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yellow Masarepa",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Binchotan Charcoal",
+      "amount": "1 block"
+    },
+    {
+      "name": "Gruyère Cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Bacon",
+      "amount": "6 slices"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F and line a baking sheet with parchment paper.",
+    "Prepare the Binchotan Charcoal by soaking it in water for at least 30 minutes before use.",
+    "In a large pan, cook the bacon over medium heat until crispy, then set aside.",
+    "In the same pan, cook the ground beef until browned, breaking it up with a spoon as it cooks.",
+    "Add the onion and garlic to the pan and cook until the onion is translucent.",
+    "Stir in the Gruyère cheese until melted and well combined with the beef mixture.",
+    "Add the cooked bacon back into the pan and stir to combine.",
+    "In a large bowl, combine the cooked beef mixture, egg, salt, and black pepper.",
+    "Add the Yellow Masarepa to the bowl and stir until well combined.",
+    "Use your hands to shape the mixture into 6-8 patties.",
+    "Heat a non-stick skillet over medium-high heat and cook the patties for 3-4 minutes on each side, or until nicely browned.",
+    "Transfer the skillet to the preheated oven and bake for an additional 10-12 minutes, or until cooked through.",
+    "Remove the skillet from the oven and let the Kjøttkaker rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "indulgent",
+    "low-carb",
+    "one-pan",
+    "special-occasion",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 40
+  },
+  "slug": "garlicky-indulgent-norwegian-cheese-kjottkaker",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-indulgent-norwegian-cheese-kjottkaker",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:13:50Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "cheese-pull",
+    "mood": "indulgent",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "yellow masarepa",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Cheese",
+    "descriptor": "Garlicky Indulgent",
+    "dishForm": "Kjøttkaker"
+  }
+}
