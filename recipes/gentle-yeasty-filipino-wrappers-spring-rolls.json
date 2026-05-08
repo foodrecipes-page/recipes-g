@@ -1,0 +1,100 @@
+{
+  "title": "Gentle Yeasty Filipino Spring Rolls",
+  "description": "A light and shaggy Filipino dish featuring yeasty egg roll wrappers, this recipe is egg-free-friendly and perfect for a snack or dinner.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yeast",
+      "amount": "1 packet",
+      "notes": "active dry yeast"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "egg roll wrappers",
+      "amount": "20 sheets"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Combine yeast, warm water, and sugar in a bowl, then let it sit for 5 minutes until the yeast is activated.",
+    "Add flour, salt, and 1 tablespoon of vegetable oil to the bowl, then knead the mixture for 10 minutes until it forms a smooth dough.",
+    "Divide the dough into 20 equal pieces, then roll each piece into a ball.",
+    "Roll out each ball into a thin sheet, about 1/16 inch thick.",
+    "Place a sheet of egg roll wrapper on a flat surface, then place a sheet of the yeasty dough on top of it.",
+    "Place 1 tablespoon of shredded cabbage and 1 tablespoon of grated carrots in the center of the dough.",
+    "Brush the edges of the dough with a little bit of water, then fold the dough over the filling to form a triangle or a square shape.",
+    "Repeat the process with the remaining ingredients.",
+    "Heat about 2 inches of vegetable oil in a deep frying pan over medium heat, then fry the spring rolls until they are golden brown and crispy.",
+    "Remove the spring rolls from the oil, then place them on a paper towel-lined plate to drain excess oil."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 20,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fried",
+    "dinner-ideas",
+    "filipino-food",
+    "snack-ideas",
+    "vegetarian-friendly",
+    "yeast-based"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "gentle-yeasty-filipino-wrappers-spring-rolls",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gentle-yeasty-filipino-wrappers-spring-rolls",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:48:56Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "shaggy",
+    "mood": "light",
+    "technique": "knead",
+    "primaryIngredient": "egg roll wrappers",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "wrappers",
+    "descriptor": "Gentle Yeasty",
+    "dishForm": "Spring-Rolls"
+  }
+}
