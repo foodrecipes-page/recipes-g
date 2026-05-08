@@ -1,0 +1,106 @@
+{
+  "title": "Gentle Smoky Portuguese Beef Brisket Hash",
+  "description": "A peppery and creamy Portuguese dish featuring beef brisket, perfect for a brunch mood, with a low sodium content.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "1 pound",
+      "notes": "smoked and diced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 large",
+      "notes": "diced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the diced onions and cook until they are translucent.",
+    "Add the diced bell peppers and cook until they are tender.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the diced potatoes and cook until they are slightly browned.",
+    "Add the smoked paprika and black pepper and stir to combine.",
+    "Add the diced beef brisket and stir to combine.",
+    "Transfer the skillet to the preheated oven and bake for 20 minutes.",
+    "Remove the skillet from the oven and stir in the sour cream.",
+    "Season with salt to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "brunch-ideas",
+    "hash-recipes",
+    "low-sodium",
+    "portuguese-cuisine",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "gentle-smoky-portuguese-beef-brisket-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gentle-smoky-portuguese-beef-brisket-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:22:30Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "creamy",
+    "mood": "brunch-mood",
+    "technique": "tadka",
+    "primaryIngredient": "beef brisket",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "beef brisket",
+    "descriptor": "Gentle Smoky",
+    "dishForm": "Hash"
+  }
+}
