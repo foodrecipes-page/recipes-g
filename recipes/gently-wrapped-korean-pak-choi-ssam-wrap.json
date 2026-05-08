@@ -1,0 +1,98 @@
+{
+  "title": "Gently Wrapped Korean Pak Choi Ssam Wrap",
+  "description": "A kid-friendly Korean dish featuring pak choi and ssam wrap, served in a terracotta dish, with a nutty and chewy texture, and macrobiotic-friendly ingredients.",
+  "cuisine": "Korean",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pak choi",
+      "amount": "1 bunch",
+      "notes": "cleaned and drained"
+    },
+    {
+      "name": "ssam wrap",
+      "amount": "8-10 pieces"
+    },
+    {
+      "name": "brown rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "Cut the pak choi into small pieces and set aside.",
+    "In a small bowl, mix together the sesame oil, soy sauce, garlic, and ginger.",
+    "Brush the mixture onto the ssam wrap pieces.",
+    "Place a small amount of brown rice onto each ssam wrap piece.",
+    "Add a few pieces of pak choi on top of the rice.",
+    "Sprinkle sesame seeds and salt over the pak choi.",
+    "Gently wrap each ssam wrap piece into a bundle.",
+    "Place the bundles into a terracotta dish and bake for 10 minutes.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-meal",
+    "healthy",
+    "kid-friendly",
+    "korean-food",
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "gently-wrapped-korean-pak-choi-ssam-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gently-wrapped-korean-pak-choi-ssam-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:04:57Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "chewy",
+    "mood": "kid-friendly",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "pak choi",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "pak choi",
+    "descriptor": "Gently wrapped",
+    "dishForm": "Wrap"
+  }
+}
