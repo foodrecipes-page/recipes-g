@@ -1,0 +1,95 @@
+{
+  "title": "Glorious Golden Venezuelan Plantain Skewers",
+  "description": "A charred and bouncy Venezuelan dish featuring kinako and cure, perfect for a monsoon evening, this dairy-free-friendly recipe is a must try. The combination of plantains, kinako, and spices creates a unique flavor profile.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "dairy-free",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "plantains",
+      "amount": "4 large",
+      "notes": "green or yellow"
+    },
+    {
+      "name": "kinako",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cure",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Peel the plantains and cut them into 1-inch pieces.",
+    "Thread the plantain pieces onto skewers, leaving a small space between each piece.",
+    "In a small bowl, mix together the kinako, cure, coconut oil, lime juice, garlic powder, salt, and black pepper.",
+    "Brush the kinako mixture onto the plantain pieces.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the plantains are charred and tender.",
+    "Serve the skewers hot, garnished with additional kinako and cure if desired.",
+    "Let the skewers cool for a few minutes before serving.",
+    "Serve with your favorite dipping sauce.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 24 hours."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "grilled",
+    "kinako",
+    "south-american",
+    "tropical",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "glorious-golden-venezuelan-plantain-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/glorious-golden-venezuelan-plantain-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:25:52Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "bouncy-qq",
+    "mood": "monsoon",
+    "technique": "cure",
+    "primaryIngredient": "kinako",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "plantains",
+    "descriptor": "Glorious Golden",
+    "dishForm": "Skewers"
+  }
+}
