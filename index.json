@@ -5791,6 +5791,20 @@
     "shard": "g"
   },
   {
+    "slug": "golden-spanish-chicken-tagine",
+    "title": "Golden Spanish Chicken Tagine",
+    "tags": [
+      "family-friendly",
+      "gluten-free",
+      "low-fodmap",
+      "one-pot",
+      "spanish-cuisine"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 50,
+    "shard": "g"
+  },
+  {
     "slug": "golden-steamed-slovakian-white-cabbage-dumplings",
     "title": "Golden Steamed Slovakian White Cabbage Dumplings",
     "tags": [
