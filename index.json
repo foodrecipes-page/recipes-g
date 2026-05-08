@@ -5765,6 +5765,21 @@
     "shard": "g"
   },
   {
+    "slug": "golden-grilled-greek-lamb-skewers",
+    "title": "Golden Grilled Greek Lamb Skewers",
+    "tags": [
+      "greek-food",
+      "grilled-meats",
+      "lamb-recipes",
+      "meal-prep",
+      "paleo-diet",
+      "weeknight-dinners"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 32,
+    "shard": "g"
+  },
+  {
     "slug": "golden-grilled-turkish-chorizo-skewers",
     "title": "Golden Grilled Turkish Chorizo Skewers",
     "tags": [

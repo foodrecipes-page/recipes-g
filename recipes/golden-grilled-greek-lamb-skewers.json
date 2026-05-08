@@ -1,0 +1,100 @@
+{
+  "title": "Golden Grilled Greek Lamb Skewers",
+  "description": "A fresh and flavorful Greek dish featuring lamb skewers grilled to perfection, served with a side of sweet rice flour chapssalgaru, this meal is paleo-friendly and perfect for a weeknight dinner",
+  "cuisine": "Greek",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "sweet rice flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chapssalgaru",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to medium-high heat",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, oregano, salt, and pepper",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade",
+    "Thread the marinated lamb cubes onto skewers, leaving a small space between each piece",
+    "Grill the lamb skewers for 10-12 minutes, turning occasionally, until cooked to an internal temperature of 145 degrees",
+    "While the lamb is cooking, prepare the sweet rice flour chapssalgaru according to package instructions",
+    "Serve the grilled lamb skewers with a side of chapssalgaru and garnish with fresh parsley",
+    "Let the lamb rest for a few minutes before serving",
+    "Serve immediately and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek-food",
+    "grilled-meats",
+    "lamb-recipes",
+    "meal-prep",
+    "paleo-diet",
+    "weeknight-dinners"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "golden-grilled-greek-lamb-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-grilled-greek-lamb-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:21:43Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "molten",
+    "mood": "meal-prep",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "sweet-rice-flour-chapssalgaru",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "Golden Grilled",
+    "dishForm": "Skewers"
+  }
+}
