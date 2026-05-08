@@ -1,0 +1,108 @@
+{
+  "title": "Ground Croatian Lamb Stew",
+  "description": "A hearty and earthy stew featuring ground lamb, bay leaf, and traditional Croatian spices, perfect for a weeknight dinner. This halal-friendly dish is made with pressure cooking for a tender and flavorful meal.",
+  "cuisine": "Croatian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground lamb",
+      "amount": "1 pound",
+      "notes": "halal-certified"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "2",
+      "notes": "dried"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "sweet"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "lamb broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "canned"
+    }
+  ],
+  "instructions": [
+    "Heat oil in the pressure cooker over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to brown.",
+    "Add the ground lamb and cook, breaking it up with a spoon, until it is no longer pink.",
+    "Add the chopped carrots and potatoes, dried bay leaf, paprika, salt, and pepper, and stir to combine.",
+    "Add the lamb broth and tomato paste, and stir to combine.",
+    "Close the lid of the pressure cooker and bring to high pressure.",
+    "Cook for 20 minutes, then allow the pressure to release naturally.",
+    "Serve hot, garnished with fresh parsley or thyme, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "carrot-rich",
+    "halal-friendly",
+    "lamb-based",
+    "one-pot",
+    "pressure-cooker",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 32
+  },
+  "slug": "ground-croatian-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/ground-croatian-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:32:20Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "chewy",
+    "mood": "weeknight",
+    "technique": "pressure-cook",
+    "primaryIngredient": "bay leaf",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "lamb",
+    "descriptor": "Ground beef free",
+    "dishForm": "Stew"
+  }
+}
