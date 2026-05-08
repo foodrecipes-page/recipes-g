@@ -1,0 +1,107 @@
+{
+  "title": "Glorious Light Malaysian Chicken Satay",
+  "description": "A light and flavorful Malaysian dish featuring chicken satay with a mustardy and slightly sweet taste, perfect for showing off at any dinner party. This recipe is nut-free and features a shio-koji cure for added depth of flavor.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "mustard powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together shio-koji, brown sugar, grated ginger, red pepper flakes, and mustard powder to create the cure.",
+    "Add the chicken strips to the bowl and toss to coat evenly with the cure.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Thread the marinated chicken strips onto skewers, leaving a small space between each piece.",
+    "Brush the grill or grill pan with vegetable oil to prevent sticking.",
+    "Grill the chicken satay for 5-7 minutes per side, or until cooked through.",
+    "While the chicken is cooking, brush the red bell pepper strips with vegetable oil and season with salt and black pepper.",
+    "Grill the red bell pepper strips for 2-3 minutes per side, or until tender.",
+    "Serve the chicken satay with grilled red bell pepper strips and a side of coconut milk for dipping."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "gluten-free",
+    "grilled-chicken",
+    "malaysian-cuisine",
+    "nut-free",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "glorious-light-malaysian-chicken-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/glorious-light-malaysian-chicken-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:28:05Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "red pepper",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "Glorious Light",
+    "dishForm": "Satay"
+  }
+}
