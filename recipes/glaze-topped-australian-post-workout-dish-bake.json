@@ -1,0 +1,120 @@
+{
+  "title": "Glaze-Topped Australian Post-Workout Dish Bake",
+  "description": "A garlicky and bouncy post-workout Australian dish featuring Thai chilli jam and a sweet glaze.",
+  "cuisine": "australian",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Lean beef mince",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Thai chilli jam",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Glaze (equal parts honey and soy sauce)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "sprinkle",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh mint leaves",
+      "amount": "sprinkle",
+      "notes": ""
+    },
+    {
+      "name": "Buckwheat flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped scotch bonnet peppers",
+      "amount": "1",
+      "notes": "+optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 220°C (425°F).",
+    "In a mixing bowl, combine the lean beef mince, Thai chilli jam, garlic, salt, black pepper, lime juice, buckwheat flour, egg, and a sprinkle of chopped parsley and mint leaves. Mix well until just combined.",
+    "Transfer the mixture to a slate-tile baking dish and cook for 15 minutes. ",
+    "After 15 minutes, brush the glaze (equal parts honey and soy sauce) over the top of the mixture and return to the oven for a further 5-7 minutes.",
+    "Remove from the oven and let cool slightly before serving with a dollop of Greek yogurt and additional chopped scotch bonnet peppers (if desired).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "glaze-topped-australian-post-workout-dish-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/glaze-topped-australian-post-workout-dish-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:31:17Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "bouncy-qq",
+    "mood": "post-workout",
+    "technique": "glaze",
+    "primaryIngredient": "thai chilli jam",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "post-workout dish",
+    "descriptor": "glaze-topped",
+    "dishForm": "bake"
+  }
+}

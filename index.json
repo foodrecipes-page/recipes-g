@@ -1964,6 +1964,20 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-galician-rice-crema-catalana",
+    "title": "Garlicky Galician Rice Crema Catalana",
+    "tags": [
+      "comfort-food",
+      "crema-catalana",
+      "keto-friendly",
+      "rice-paper",
+      "spanish-desserts"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 45,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-german-beef-flank-steak-bauernfristuck",
     "title": "Garlicky German Beef Flank Steak Bauernfristück",
     "tags": [
@@ -5093,6 +5107,20 @@
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
+    "slug": "glaze-topped-australian-post-workout-dish-bake",
+    "title": "Glaze-Topped Australian Post-Workout Dish Bake",
+    "tags": [
+      "australian",
+      "high-protein",
+      "one-pan",
+      "post-workout",
+      "weeknight"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 30,
     "shard": "g"
   },
   {
