@@ -1,0 +1,92 @@
+{
+  "title": "Gently Smoky Turkish Wild Mushrooms Roast",
+  "description": "A light and smoky Turkish dish featuring wild mushrooms, perfect for a tamasic-friendly meal",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "wild mushrooms",
+      "amount": "1 pound",
+      "notes": "such as chanterelle or oyster mushrooms"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, smoked paprika, garlic powder, salt, and black pepper.",
+    "Add the wild mushrooms to the bowl and toss to coat with the smoky mixture.",
+    "Spread the mushrooms in a single layer on a baking sheet.",
+    "Roast the mushrooms in the preheated oven for 20 minutes, or until they release their liquid and start to brown.",
+    "Remove the mushrooms from the oven and drizzle with lemon juice.",
+    "Sprinkle chopped fresh parsley over the mushrooms and toss to combine.",
+    "Return the mushrooms to the oven and roast for an additional 5 minutes, or until they are tender and lightly browned."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "one-pan",
+    "smoky",
+    "turkish",
+    "vegan",
+    "vegetarian",
+    "wild-mushrooms"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 6,
+    "fat": 7
+  },
+  "slug": "gently-smoky-turkish-wild-mushrooms-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gently-smoky-turkish-wild-mushrooms-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:53:00Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "juicy",
+    "mood": "light",
+    "technique": "roast",
+    "primaryIngredient": "wild mushrooms",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "wild mushrooms",
+    "descriptor": "Gently Smoky",
+    "dishForm": "Roast"
+  }
+}
