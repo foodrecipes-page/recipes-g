@@ -1,0 +1,98 @@
+{
+  "title": "Golden Crispy Algerian Chorizo Skewers",
+  "description": "A briny and crispy Algerian dish featuring chorizo, perfect for a quick snack or appetizer, this halal-friendly recipe is sure to energize your taste buds.",
+  "cuisine": "Algerian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Algerian chorizo",
+      "amount": "1 pound",
+      "notes": "sliced into 1 inch pieces"
+    },
+    {
+      "name": "Score fat",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the melted score fat, lemon juice, garlic, paprika, salt, and black pepper.",
+    "Add the sliced chorizo to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chorizo onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with olive oil and place them on a baking sheet lined with parchment paper.",
+    "Bake the skewers in the preheated oven for 15 minutes, or until crispy and golden brown.",
+    "Remove the skewers from the oven and sprinkle with chopped parsley.",
+    "Serve the skewers hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "algerian-cuisine",
+    "appetizer",
+    "high-protein",
+    "one-pan",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 22
+  },
+  "slug": "golden-crispy-algerian-chorizo-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-crispy-algerian-chorizo-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:37:38Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crispy",
+    "mood": "energizing",
+    "technique": "score-fat",
+    "primaryIngredient": "chorizo",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "chorizo",
+    "descriptor": "Golden Crispy",
+    "dishForm": "Skewers"
+  }
+}
