@@ -1,0 +1,95 @@
+{
+  "title": "Golden Smoky Middle Eastern Lamb Mansaf",
+  "description": "A smoky and crispy Middle Eastern dish featuring ground nutmeg, served in a corn husk wrap, perfect for a sick day. This jain-friendly mansaf is a hearty and comforting meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "corn husks",
+      "amount": "12",
+      "notes": "dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large pan, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the ground lamb and cook until browned, breaking it up into small pieces as it cooks.",
+    "Stir in the ground nutmeg, salt, and black pepper.",
+    "Spoon the lamb mixture onto the center of each corn husk.",
+    "Fold the corn husks over the filling to form a triangle or square shape, and secure with a toothpick if needed.",
+    "Place the mansaf on a baking sheet and bake for 20 minutes, or until the corn husks are crispy and golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "jain-friendly",
+    "lamb-based",
+    "middle-eastern",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "golden-smoky-middle-eastern-lamb-mansaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-smoky-middle-eastern-lamb-mansaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:10:36Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crispy",
+    "mood": "sick-day",
+    "technique": "emulsify",
+    "primaryIngredient": "ground nutmeg",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "lamb",
+    "descriptor": "Golden Smoky",
+    "dishForm": "Mansaf"
+  }
+}
