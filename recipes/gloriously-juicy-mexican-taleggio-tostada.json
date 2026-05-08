@@ -1,0 +1,95 @@
+{
+  "title": "Gloriously Juicy Mexican Taleggio Tostada",
+  "description": "A halal-friendly, herbal, and juicy Mexican dish featuring taleggio cheese, perfect for a sick day, with a blend of Veracruzan flavors and tandoor spices, served in a tostada form.",
+  "cuisine": "Mexican",
+  "diet": [
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "taleggio cheese",
+      "amount": "8 oz",
+      "notes": "softened"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "6",
+      "notes": "tostada style"
+    },
+    {
+      "name": "tandoor spice mix",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "cooked and shredded"
+    },
+    {
+      "name": "red onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the shredded chicken, tandoor spice mix, and salt.",
+    "Arrange the corn tortillas on a baking sheet and toast in the oven for 5 minutes.",
+    "In a large skillet, heat 1 tablespoon of oil over medium heat and saute the diced red onion until softened.",
+    "Add the chopped cilantro and cook for an additional minute.",
+    "Spread a layer of the chicken mixture onto each toasted tortilla.",
+    "Top each tortilla with a slice of softened taleggio cheese.",
+    "Drizzle the lime juice over the cheese and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy-dishes",
+    "chicken-recipes",
+    "halal-friendly",
+    "mexican-food",
+    "tostada-recipes",
+    "veracruzan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "gloriously-juicy-mexican-taleggio-tostada",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gloriously-juicy-mexican-taleggio-tostada",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:45:06Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "juicy",
+    "mood": "sick-day",
+    "technique": "tandoor",
+    "primaryIngredient": "taleggio",
+    "diet": "halal",
+    "region": "veracruzan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "taleggio",
+    "descriptor": "Gloriously Juicy",
+    "dishForm": "Tostada"
+  }
+}
