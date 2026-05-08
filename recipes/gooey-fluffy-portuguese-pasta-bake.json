@@ -1,0 +1,99 @@
+{
+  "title": "Gooey Fluffy Portuguese Pasta Bake",
+  "description": "A midnight craving Portuguese dish featuring orange zest and a pasta water emulsion, this bake is nut free friendly and has a bitter yet fluffy texture. It is perfect for a late night snack.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "penne or similar tube shaped pasta"
+    },
+    {
+      "name": "orange zest",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "portuguese cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "pasta water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "Cook the pasta according to the package instructions until al dente, reserving 1 cup of pasta water.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "In a large bowl, combine the cooked pasta, orange zest, and shredded cheese.",
+    "Add the reserved pasta water to the bowl and stir until the cheese is melted and the pasta is well coated.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the pasta mixture to a baking dish and bake for 20 minutes, or until the top is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "midnight-craving",
+    "nut-free",
+    "one-pan",
+    "pasta-bake",
+    "portuguese-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "gooey-fluffy-portuguese-pasta-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-fluffy-portuguese-pasta-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:45:45Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "fluffy",
+    "mood": "midnight-craving",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "orange zest",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "pasta",
+    "descriptor": "Gooey Fluffy",
+    "dishForm": "Pasta"
+  }
+}
