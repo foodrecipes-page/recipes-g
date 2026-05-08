@@ -1,0 +1,96 @@
+{
+  "title": "Gloriously Juicy Norwegian Apple Puff",
+  "description": "A flexitarian-friendly Norwegian dish featuring apples and lamination-puff, perfect for a post-workout snack",
+  "cuisine": "Norwegian",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "apples",
+      "amount": "2 large",
+      "notes": "Granny Smith or other tart variety"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit",
+    "In a large bowl, whisk together flour, sugar, and salt",
+    "Add cold butter and use a pastry blender to work it into the flour mixture until it resembles coarse crumbs",
+    "In a separate bowl, whisk together egg and milk",
+    "Add yeast to the egg mixture and stir to combine",
+    "Pour the egg mixture over the flour mixture and stir until a shaggy dough forms",
+    "Turn the dough out onto a floured surface and knead for 5 minutes",
+    "Roll the dough out into a large rectangle",
+    "Arrange sliced apples on one half of the dough, leaving a 1/2 inch border around the edges",
+    "Fold the other half of the dough over the apples and press the edges to seal",
+    "Use a sharp knife to cut a few slits in the top of the puff"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "apple-dish",
+    "flexitarian",
+    "norwegian",
+    "post-workout",
+    "puff-pastry",
+    "snack-time"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "gloriously-juicy-norwegian-apple-puff",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gloriously-juicy-norwegian-apple-puff",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:09:06Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "juicy",
+    "mood": "post-workout",
+    "technique": "lamination-puff",
+    "primaryIngredient": "apples",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "apples",
+    "descriptor": "Gloriously Juicy",
+    "dishForm": "Puff"
+  }
+}
