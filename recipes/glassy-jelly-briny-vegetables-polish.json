@@ -1,0 +1,103 @@
+{
+  "title": "Glassy Jelly Briny Vegetables Polish",
+  "description": "Briny glassy-jelly polish dish featuring raw vegetables, infuse-oil, no onion no garlic friendly. Perfect for a weekend brunch.",
+  "cuisine": "Polish",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Infused Vegetable Oil",
+      "amount": "1/4 cup",
+      "notes": "Make sure the oil is completely cooled and infused with the flavors of your choice"
+    },
+    {
+      "name": "Beets",
+      "amount": "2",
+      "notes": "Choose beets that are heavy and firm, with no signs of wilting."
+    },
+    {
+      "name": "Carrots",
+      "amount": "4",
+      "notes": "Choose carrots that are firm and sweet."
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1",
+      "notes": "Choose a cucumber that is firm and has no signs of wilting."
+    },
+    {
+      "name": "Fresh Dill",
+      "amount": "1/4 cup",
+      "notes": "Choose fresh dill that is fragrant and looks healthy."
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": "Use high-quality honey for the best flavor."
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": "Use freshly squeezed lemon juice for the best flavor."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Use high-quality salt for the best flavor."
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": "Use high-quality sugar for the best flavor."
+    },
+    {
+      "name": "Watercress",
+      "amount": "4 cups",
+      "notes": "Choose watercress that is fresh and looks healthy."
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the infused oil, beets, carrots, cucumber, and watercress. Mix well to combine.",
+    "Taste the salad and adjust the seasoning as needed.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes.",
+    "In a small bowl, whisk together the honey, lemon juice, salt, and sugar until well combined.",
+    "Drizzle the honey-lemon dressing over the salad and toss to combine.",
+    "Garnish with fresh dill and serve chilled."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-dish",
+    "glassy-jelly-polish",
+    "gluten-free",
+    "polish-cuisine",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "glassy-jelly-briny-vegetables-polish",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/glassy-jelly-briny-vegetables-polish",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:25:24Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "glassy-jelly",
+    "mood": "brunch-mood",
+    "technique": "infuse-oil",
+    "primaryIngredient": "raw vegetables",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "briny",
+    "mainIngredient": "vegetables",
+    "descriptor": "glassy-jelly",
+    "dishForm": "polish"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "title": "Garlicky Wok-Seared Ukrainian Garlic Hash",
+  "description": "A sweet and savory Ukrainian dish featuring crispy garlic, wok-hei, and a hint of agave sweetness.",
+  "cuisine": "ukrainian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "garlic bulb",
+      "amount": "2-3 heads",
+      "notes": "depending on size"
+    }
+  ],
+  "instructions": [
+    "Heat a wok over high heat until smoky and coated with a fine layer of oil.",
+    "Add 2 tablespoons of agave nectar to the wok and stir until dissolved.",
+    "Add 1 large onion, thinly sliced, to the wok and stir-fry until caramelized and slightly charred.",
+    "Add 3-4 cloves of minced garlic to the wok and stir-fry for 1-2 minutes, until fragrant."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "garlic",
+    "high-calorie",
+    "sugar-free-friendly",
+    "ukrainian",
+    "wok-seared"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 6,
+    "carbs": 70,
+    "fat": 24
+  },
+  "slug": "garlicky-wok-seared-ukrainian-garlic-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-wok-seared-ukrainian-garlic-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:25:36Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crisp",
+    "mood": "weeknight",
+    "technique": "wok-hei",
+    "primaryIngredient": "garlic bulb",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "garlic",
+    "descriptor": "Garlicky Wok-Seared",
+    "dishForm": "Hash"
+  }
+}

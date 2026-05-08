@@ -1,0 +1,122 @@
+{
+  "title": "Gooey Slovakian Chicken Bake",
+  "description": "A spicy, crispy Slovakian dish featuring chicken stock cube, en-croute, plant-based-friendly. Perfect for a lazy Sunday.",
+  "cuisine": "slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "chicken stock cube",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "0.5",
+      "notes": ""
+    },
+    {
+      "name": "onion powder",
+      "amount": "0.5",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "0.25",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.25",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "shredded mozzarella cheese",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a shallow dish, mix together flour, paprika, garlic powder, onion powder, salt, and black pepper.",
+    "Dip each chicken breast in the flour mixture, coating both sides evenly.",
+    "In a large skillet, melt 1 tablespoon of butter over medium-high heat. Add the coated chicken breasts and cook until golden brown on both sides, about 5-6 minutes per side.",
+    "Transfer the chicken breasts to a 9x13 inch baking dish. ",
+    "In a separate bowl, mix together the shredded mozzarella cheese and chicken broth.",
+    "Pour the cheese mixture evenly over the chicken breasts. ",
+    "Cover the baking dish with aluminum foil and bake for 20 minutes.",
+    "Remove the foil and continue baking for an additional 10-12 minutes, or until the cheese is melted and bubbly.",
+    "Garnish with fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-dinner",
+    "high-protein",
+    "one-pan",
+    "slovakian",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 40,
+    "carbs": 24,
+    "fat": 28
+  },
+  "slug": "gooey-slovakian-chicken-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-slovakian-chicken-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:24:55Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crispy",
+    "mood": "lazy-sunday",
+    "technique": "en-croute",
+    "primaryIngredient": "chicken stock cube",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Gooey",
+    "dishForm": "Bake"
+  }
+}

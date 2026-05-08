@@ -3461,6 +3461,21 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-wok-seared-ukrainian-garlic-hash",
+    "title": "Garlicky Wok-Seared Ukrainian Garlic Hash",
+    "tags": [
+      "easy",
+      "garlic",
+      "high-calorie",
+      "sugar-free-friendly",
+      "ukrainian",
+      "wok-seared"
+    ],
+    "cuisine": "ukrainian",
+    "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-zesty-greek-chilli-spanakopita",
     "title": "Garlicky Zesty Greek Chilli Spanakopita",
     "tags": [
@@ -4859,6 +4874,20 @@
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
+    "slug": "glassy-jelly-briny-vegetables-polish",
+    "title": "Glassy Jelly Briny Vegetables Polish",
+    "tags": [
+      "brunch-dish",
+      "glassy-jelly-polish",
+      "gluten-free",
+      "polish-cuisine",
+      "vegan"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 30,
     "shard": "g"
   },
   {
@@ -8466,6 +8495,22 @@
     ],
     "cuisine": "Greek",
     "totalTimeMin": 80,
+    "shard": "g"
+  },
+  {
+    "slug": "gooey-slovakian-chicken-bake",
+    "title": "Gooey Slovakian Chicken Bake",
+    "tags": [
+      "comfort-food",
+      "easy-dinner",
+      "high-protein",
+      "one-pan",
+      "slovakian",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "slovakian",
+    "totalTimeMin": 45,
     "shard": "g"
   },
   {
