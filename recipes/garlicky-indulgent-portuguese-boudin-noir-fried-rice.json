@@ -1,0 +1,96 @@
+{
+  "title": "garlicky indulgent portuguese fried rice with boudin-noir",
+  "description": "A rich and flavorful Portuguese-inspired fried rice dish loaded with sweet boudin-noir, crispy garlic, and crunchy sugar crystals.",
+  "cuisine": "portuguese",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boudin-noir",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": ""
+    },
+    {
+      "name": "sugar crystals",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon stick",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "",
+      "},{": true,
+      " name": "red pepper"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the minced garlic and cook until fragrant, about 1 minute.",
+    "Add the boudin-noir and cook, breaking it up with a spoon, until browned, about 3-4 minutes.",
+    "Add the sugar crystals, saffron, cinnamon stick, red pepper, onion, salt, and crushed black pepper, and cook for 2 minutes.",
+    "Push the ingredients to one side of the pan, and add more coconut oil if necessary.",
+    "Crack the eggs into the empty side of the pan, and cook until set, about 2-3 minutes.",
+    "Scramble the eggs, then mix them with the other ingredients.",
+    "Add the cooked rice to the pan, and stir-fry everything together for about 5 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the fried rice hot, garnished with additional sugar crystals and garlic if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "fried-rice",
+    "high-calorie",
+    "one-pan",
+    "portuguese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1400,
+    "protein": 30,
+    "carbs": 200,
+    "fat": 80
+  },
+  "slug": "garlicky-indulgent-portuguese-boudin-noir-fried-rice",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-indulgent-portuguese-boudin-noir-fried-rice",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:50:13Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crunchy",
+    "mood": "indulgent",
+    "technique": "candy",
+    "primaryIngredient": "boudin-noir",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "boudin-noir",
+    "descriptor": "garlicky indulgent",
+    "dishForm": "Fried-Rice"
+  }
+}
