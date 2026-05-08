@@ -1,0 +1,100 @@
+{
+  "title": "Gourmet Festive Portuguese Foie Gras Terrine",
+  "description": "A festive and flavorful Portuguese dish featuring foie gras, long fermentation dough, and low fat friendly ingredients, perfect for special occasions.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "low fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "foie gras",
+      "amount": "1 pound",
+      "notes": "grade A"
+    },
+    {
+      "name": "long fermentation dough",
+      "amount": "1 cup",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "pickled pink peppercorns",
+      "amount": "1/4 cup",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "port wine",
+      "amount": "1/4 cup",
+      "notes": "reduced"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": "pure"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "flaky"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Roll out the long fermentation dough to a thickness of 1/4 inch.",
+    "Place the foie gras in the center of the dough, leaving a 1 inch border around it.",
+    "Drizzle the reduced port wine over the foie gras.",
+    "Sprinkle the chopped pickled pink peppercorns, honey, thyme, salt, and black pepper over the foie gras.",
+    "Fold the dough over the foie gras, pressing the edges to seal.",
+    "Place the terrine in a baking dish and bake for 25 minutes.",
+    "Let the terrine cool to room temperature before serving.",
+    "Slice the terrine into 1 inch thick slices and serve.",
+    "Garnish with additional pickled pink peppercorns and thyme if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "foie-gras",
+    "gourmet",
+    "long-fermentation",
+    "low-fat",
+    "portuguese-cuisine",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 22
+  },
+  "slug": "gourmet-festive-portuguese-foie-gras-terrine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gourmet-festive-portuguese-foie-gras-terrine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:23:03Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "shaggy",
+    "mood": "festive",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "foie-gras",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "foie gras",
+    "descriptor": "Gourmet Festive",
+    "dishForm": "Terrine"
+  }
+}
