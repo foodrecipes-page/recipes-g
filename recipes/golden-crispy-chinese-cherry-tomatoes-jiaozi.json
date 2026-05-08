@@ -1,0 +1,95 @@
+{
+  "title": "Golden Crispy Chinese Cherry Tomatoes Jiaozi",
+  "description": "A halal-friendly Chinese dish featuring crispy jiaozi filled with cherry tomatoes and served with a savory umami sauce, perfect for a rainy day. The al-dente finish of the cherry tomatoes adds a delightful texture to the dish.",
+  "cuisine": "Chinese",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "round wonton wrappers",
+      "amount": "20 sheets"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "1 tablespoon",
+      "notes": "halal alternative"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together halved cherry tomatoes, soy sauce, oyster sauce, and sesame oil.",
+    "Lay a wonton wrapper on a flat surface and place a tablespoon of the cherry tomato mixture in the center.",
+    "Dip your finger in a small amount of water and run it along the edges of the wonton wrapper.",
+    "Fold the wonton wrapper into a triangle by bringing the two opposite corners together to form a point.",
+    "Press the edges together to seal the jiaozi.",
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "When the oil is hot, add the jiaozi and fry until they are golden brown and crispy.",
+    "Remove the jiaozi from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the jiaozi hot with chopped scallions and grated ginger on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "crispy-snack",
+    "halal-friendly",
+    "monsoon-recipe",
+    "umami-rich",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "golden-crispy-chinese-cherry-tomatoes-jiaozi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-crispy-chinese-cherry-tomatoes-jiaozi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:02:44Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crispy",
+    "mood": "monsoon",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "cherry tomatoes",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "cherry tomatoes",
+    "descriptor": "Golden Crispy",
+    "dishForm": "Jiaozi"
+  }
+}
