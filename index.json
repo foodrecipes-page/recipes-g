@@ -8395,6 +8395,21 @@
     "shard": "g"
   },
   {
+    "slug": "great-morning-american-chicken-tacos",
+    "title": "Great Morning American Chicken Tacos",
+    "tags": [
+      "american-cuisine",
+      "breakfast-tacos",
+      "high-protein",
+      "one-pan",
+      "shojin-friendly",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 45,
+    "shard": "g"
+  },
+  {
     "slug": "greatly-snappy-turkish-beans-kuru-fasulye",
     "title": "Greatly Snappy Turkish Beans Kuru Fasulye",
     "tags": [

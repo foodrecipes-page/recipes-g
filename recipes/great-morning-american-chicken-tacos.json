@@ -1,0 +1,96 @@
+{
+  "title": "Great Morning American Chicken Tacos",
+  "description": "A funky and bouncy American dish to cure hangovers, featuring cilantro leaves and dry-brined chicken, suitable for shojin-friendly diets.",
+  "cuisine": "American",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "boneless chicken breasts",
+      "amount": "1 pound",
+      "notes": "dry-brined overnight"
+    },
+    {
+      "name": "cilantro leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "taco shells",
+      "amount": "8-10 shells"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the dry-brined chicken with salt and pepper.",
+    "Heat olive oil in a skillet and cook the chicken until browned.",
+    "Transfer the chicken to the oven and bake for 15 minutes.",
+    "Warm the taco shells according to package instructions.",
+    "Assemble the tacos with cooked chicken, diced tomatoes, sour cream, and shredded cheese.",
+    "Garnish with chopped cilantro leaves.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "american-cuisine",
+    "breakfast-tacos",
+    "high-protein",
+    "one-pan",
+    "shojin-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "great-morning-american-chicken-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/great-morning-american-chicken-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:13:37Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "bouncy-qq",
+    "mood": "hangover-cure",
+    "technique": "brine-dry",
+    "primaryIngredient": "cilantro leaves",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "chicken",
+    "descriptor": "great morning",
+    "dishForm": "Tacos"
+  }
+}
