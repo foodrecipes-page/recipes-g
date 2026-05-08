@@ -1,0 +1,105 @@
+{
+  "title": "Golden Crisp Korean Pomegranate Dosirak",
+  "description": "A nutty and crisp Korean dish from Gangwon, featuring pomegranate and fermented ingredients, perfect for a cozy meal. This lacto-vegetarian-friendly recipe is served in a dosirak, a traditional Korean lunchbox.",
+  "cuisine": "Korean",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "short grain rice",
+      "amount": "2 cups",
+      "notes": "preferably Korean rice"
+    },
+    {
+      "name": "pomegranate seeds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fermented soybean paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lacto-fermented kimchi",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "grated lacto-vegetarian cheese",
+      "amount": "1/2 cup",
+      "notes": "such as mozzarella or Monterey Jack"
+    }
+  ],
+  "instructions": [
+    "Rinse the short grain rice thoroughly and cook it according to the package instructions.",
+    "In a large pan, heat the vegetable oil over medium heat and add the Korean chili flakes, cooking for 1 minute.",
+    "Add the fermented soybean paste to the pan and cook for an additional 2 minutes, stirring constantly.",
+    "Stir in the lacto-fermented kimchi and cook for 2 minutes, until heated through.",
+    "In a large bowl, combine the cooked rice, kimchi mixture, pomegranate seeds, toasted sesame seeds, and green onions.",
+    "Season the mixture with salt to taste.",
+    "Transfer the mixture to a dosirak or a heatproof container and top with grated lacto-vegetarian cheese.",
+    "Bake the dosirak in a preheated oven at 375 degrees Fahrenheit for 10 minutes, until the cheese is melted and bubbly.",
+    "Remove the dosirak from the oven and let it cool for a few minutes before serving.",
+    "Serve the Golden Crisp Korean Pomegranate Dosirak hot, garnished with additional pomegranate seeds and green onions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "crisp",
+    "korean-cuisine",
+    "lacto-vegetarian",
+    "nutty",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 70,
+    "fat": 20
+  },
+  "slug": "golden-crisp-korean-pomegranate-dosirak",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-crisp-korean-pomegranate-dosirak",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:50:16Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crisp",
+    "mood": "cozy",
+    "technique": "ferment",
+    "primaryIngredient": "pomegranate",
+    "diet": "lacto-vegetarian",
+    "region": "gangwon",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "pomegranate",
+    "descriptor": "Golden Crisp",
+    "dishForm": "Dosirak"
+  }
+}
