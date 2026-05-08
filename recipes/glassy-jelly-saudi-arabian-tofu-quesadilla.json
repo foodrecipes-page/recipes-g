@@ -1,0 +1,108 @@
+{
+  "title": "Saudi Arabian Glassy Jelly Tofu Quesadilla",
+  "description": "A fusion dish of traditional Saudi flavors with Mexican quesadilla, featuring a glassy jelly made with pomegranate molasses and a crispy lamination puff pastry.",
+  "cuisine": "Saudi Arabic, Mexican",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "250g",
+      "notes": "extra-firm, drained and crumbled"
+    },
+    {
+      "name": "lamination puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "120ml",
+      "notes": "made from reduced pomegranate juice"
+    },
+    {
+      "name": "rose water",
+      "amount": "2 tsp",
+      "notes": "distilled"
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "cinnamon powder",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tbsp",
+      "notes": "white granulated"
+    },
+    {
+      "name": "ghee or vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing pastry"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C) with a baking sheet lined with parchment paper.",
+    "Roll out the lamination puff pastry to a thickness of 1/8 inch (3 mm).",
+    "Cut the pastry into 2 equal rectangles, about 1/4 inch (6 mm) from the edges.",
+    "Spread the crumbled tofu evenly over one half of each rectangle, leaving a 1/2 inch (1 cm) border.",
+    "Brush the edges of the pastry with ghee or oil.",
+    "Fold the other half of the pastry over the tofu, pressing gently to seal.",
+    "Brush the top of each quesadilla with pomegranate molasses and sprinkle with sugar.",
+    "Bake the quesadillas for 20-25 minutes or until golden brown and crispy.",
+    "While the quesadillas are baking, mix the pomegranate molasses, rose water, cardamom powder, and cinnamon powder in a small bowl.",
+    "Remove the quesadillas from the oven and let them cool for 5 minutes.",
+    "Drizzle the glassy jelly mixture over the warm quesadillas and sprinkle with chopped parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "dairy-free",
+    "mexican-fusion",
+    "saudi-arabian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 50,
+    "fat": 25
+  },
+  "slug": "glassy-jelly-saudi-arabian-tofu-quesadilla",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/glassy-jelly-saudi-arabian-tofu-quesadilla",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T07:47:49Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "glassy-jelly",
+    "mood": "brunch-mood",
+    "technique": "lamination-puff",
+    "primaryIngredient": "tofu",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Saudi-arabian",
+    "mainIngredient": "Tofu",
+    "descriptor": "Glassy-jelly",
+    "dishForm": "Quesadilla"
+  }
+}

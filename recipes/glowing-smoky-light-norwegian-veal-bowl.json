@@ -1,0 +1,115 @@
+{
+  "title": "Glowing Smoky Light Norwegian Veal Bowl",
+  "description": "Quick and delicious Norwegian-inspired veal bowl with a smoky lacquer-glaze, served in a dolsot stone bowl. This dish is perfect for a weeknight dinner.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "whole30",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Veal cutlets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lacquer-glaze",
+      "amount": "2 tbsp",
+      "notes": "make your own using 1 tbsp soy sauce, 1 tbsp honey, 1 tsp rice vinegar"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dolsot stone bowl",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Avocado oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat your dolsot stone bowl in a 400°F oven for 10 minutes.",
+    "Season the veal cutlets with salt and pepper.",
+    "Sear the veal in the avocado oil for 2-3 minutes per side.",
+    "Transfer the veal to the preheated dolsot stone bowl and set aside.",
+    "In the same pan, cook the garlic and ginger for 1 minute.",
+    "Add the lacquer-glaze to the pan and stir to combine.",
+    "Simmer the lacquer-glaze for 2-3 minutes or until it thickens slightly.",
+    "Stir in the smoked paprika and cook for an additional minute.",
+    "Top the veal with the lacquer-glaze mixture and garnish with parsley and dill.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "norwegian",
+    "one-pan",
+    "paleo-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 42,
+    "carbs": 5,
+    "fat": 24
+  },
+  "slug": "glowing-smoky-light-norwegian-veal-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/glowing-smoky-light-norwegian-veal-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:48:51Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "light",
+    "mood": "quick-fix",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "veal",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "veal",
+    "descriptor": "Glowing Smoky Light",
+    "dishForm": "Bowl"
+  }
+}

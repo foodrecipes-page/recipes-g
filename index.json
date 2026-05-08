@@ -4036,6 +4036,21 @@
     "shard": "g"
   },
   {
+    "slug": "glassy-jelly-saudi-arabian-tofu-quesadilla",
+    "title": "Saudi Arabian Glassy Jelly Tofu Quesadilla",
+    "tags": [
+      "breakfast",
+      "brunch",
+      "dairy-free",
+      "mexican-fusion",
+      "saudi-arabian",
+      "vegetarian"
+    ],
+    "cuisine": "Saudi Arabic, Mexican",
+    "totalTimeMin": 45,
+    "shard": "g"
+  },
+  {
     "slug": "glassy-jelly-slovakian-rice-risotto",
     "title": "Glassy-jelly Slovakian Rice Risotto",
     "tags": [
@@ -4656,6 +4671,20 @@
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
+    "slug": "glowing-smoky-light-norwegian-veal-bowl",
+    "title": "Glowing Smoky Light Norwegian Veal Bowl",
+    "tags": [
+      "high-protein",
+      "norwegian",
+      "one-pan",
+      "paleo-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
