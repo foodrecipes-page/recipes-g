@@ -1,0 +1,90 @@
+{
+  "title": "Glorious Golden Malaysian Chicken Satay",
+  "description": "Rich and crisp Malaysian dish featuring chicken legs, perfect for a special occasion, and made with diabetic-friendly ingredients",
+  "cuisine": "Malaysian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken legs",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together coconut milk, tempering chocolate, peanut oil, lime juice, garlic, ginger, and coriander",
+    "Add the chicken legs to the bowl and marinate for at least 30 minutes",
+    "Remove the chicken from the marinade and grill for 20-25 minutes or until cooked through",
+    "Let the chicken rest for 5 minutes before slicing",
+    "Serve the chicken satay hot with your favorite dipping sauce",
+    "Garnish with fresh cilantro and serve immediately"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "glorious-golden-malaysian-chicken-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/glorious-golden-malaysian-chicken-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:46:50Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crisp",
+    "mood": "show-off",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "chicken legs",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken legs",
+    "descriptor": "Glorious Golden",
+    "dishForm": "Satay"
+  }
+}
