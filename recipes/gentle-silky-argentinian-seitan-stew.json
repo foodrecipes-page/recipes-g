@@ -1,0 +1,93 @@
+{
+  "title": "Gentle Silky Argentinian Seitan Stew",
+  "description": "A comforting and silky Argentinian stew featuring seitan and celery salt, made with plant-based ingredients and a mortar-pestle-pound technique for added depth of flavor.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "seitan",
+      "amount": "1 pound",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "celery salt",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the onion and garlic and cook until the onion is translucent.",
+    "Add the mushrooms and cook until they release their liquid and start to brown.",
+    "Add the seitan and cook until it is lightly browned on all sides.",
+    "Add the celery salt, vegetable broth, and tomato paste, and stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 30 minutes.",
+    "Use a mortar and pestle to pound the celery salt and mix it into the stew.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "comfort-food",
+    "plant-based",
+    "seitan",
+    "stew",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "gentle-silky-argentinian-seitan-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gentle-silky-argentinian-seitan-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:37:55Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "silky",
+    "mood": "comforting",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "celery salt",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "seitan",
+    "descriptor": "gentle silky",
+    "dishForm": "Stew"
+  }
+}
