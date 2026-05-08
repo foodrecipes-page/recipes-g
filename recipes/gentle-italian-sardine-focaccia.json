@@ -1,0 +1,95 @@
+{
+  "title": "Gentle Italian Sardine Focaccia",
+  "description": "A lazy Sunday Italian dish featuring sardines, leaf wrap steam, and low fat friendly ingredients, formed into a delicious focaccia.",
+  "cuisine": "Italian",
+  "diet": [
+    "low-fat",
+    "mediterranean"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sardines",
+      "amount": "1 can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "focaccia bread",
+      "amount": "1 loaf",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Slice the focaccia bread in half lengthwise and place on a baking sheet.",
+    "Drizzle the olive oil over the bread and sprinkle with minced garlic.",
+    "Top the bread with chopped sardines, parsley, salt, and black pepper.",
+    "Drizzle the lemon juice over the sardines.",
+    "Cover the baking sheet with aluminum foil and steam for 10 minutes.",
+    "Remove the foil and bake for an additional 5 minutes.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "focaccia",
+    "italian-food",
+    "lazy-sunday",
+    "low-fat",
+    "mediterranean-diet",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "gentle-italian-sardine-focaccia",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gentle-italian-sardine-focaccia",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:56:15Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "bouncy-qq",
+    "mood": "lazy-sunday",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "sardines",
+    "diet": "low-fat",
+    "region": "calabrian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "sardines",
+    "descriptor": "Gentle Bouncy",
+    "dishForm": "Focaccia"
+  }
+}
