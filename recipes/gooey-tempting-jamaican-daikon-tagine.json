@@ -1,0 +1,102 @@
+{
+  "title": "Gooey Jamaican Daikon Tagine",
+  "description": "A rich, ayurvedic-friendly Jamaican daikon dish featuring tender daikon, aromatic spices, and a hint of tropical sweetness.",
+  "cuisine": "jamaican",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "daikon",
+      "amount": "2 medium"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "thai red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "toasted coconut flakes",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large Dutch oven over medium heat.",
+    "Add the onion and sauté until translucent, about 5 minutes.",
+    "Add the Thai red curry paste and cook for 1 minute.",
+    "Add the daikon and cook for 5 minutes, stirring occasionally.",
+    "Pour in the coconut milk, maple syrup, apple cider vinegar, salt, and black pepper.",
+    "Bring to a simmer and cook, covered, for 20 minutes.",
+    "Stir in the toasted coconut flakes and fresh cilantro.",
+    "Serve warm, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-weeknight",
+    "high-fiber",
+    "one-pan",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "gooey-tempting-jamaican-daikon-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-tempting-jamaican-daikon-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:01:23Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "gooey",
+    "mood": "romantic",
+    "technique": "temper",
+    "primaryIngredient": "daikon",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Daikon",
+    "descriptor": "Gooey, Tempting",
+    "dishForm": "Tagine"
+  }
+}
