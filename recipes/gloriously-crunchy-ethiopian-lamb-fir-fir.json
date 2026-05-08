@@ -1,0 +1,104 @@
+{
+  "title": "Gloriously Crunchy Ethiopian Lamb Fir Fir",
+  "description": "A traditional Ethiopian dish featuring tender lamb and a crunchy texture, flavored with bitter sansho and a blend of spices, perfect for a special occasion. This keto-friendly recipe is sure to impress your guests.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "keto",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "sansho pepper",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "lamb broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ghee",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "mitmita",
+      "amount": "1 teaspoon",
+      "notes": "Ethiopian chili powder"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee in a large Dutch oven over medium-high heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped onion and cook until it starts to soften, about 3 minutes.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly.",
+    "Add the berbere spice, mitmita, and ground sansho pepper, and stir to combine.",
+    "Pour in the lamb broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2 1/2 hours, or until the lamb is tender.",
+    "Remove the lid and increase the heat to high, cooking for an additional 10 minutes, or until the liquid has reduced and the lamb is crispy.",
+    "Stir in the chopped parsley and season with salt to taste.",
+    "Serve the lamb fir fir hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 170,
+  "totalTimeMin": 190,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "ethiopian-cuisine",
+    "gluten-free",
+    "keto-friendly",
+    "lamb-recipes",
+    "low-carb",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "gloriously-crunchy-ethiopian-lamb-fir-fir",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gloriously-crunchy-ethiopian-lamb-fir-fir",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:44:52Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crunchy",
+    "mood": "show-off",
+    "technique": "braise",
+    "primaryIngredient": "sansho",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lamb",
+    "descriptor": "Gloriously Crunchy",
+    "dishForm": "Fir Fir"
+  }
+}
