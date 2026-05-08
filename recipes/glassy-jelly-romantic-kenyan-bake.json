@@ -1,0 +1,102 @@
+{
+  "title": "Glassy-Jelly Romantic Kenyan Bake",
+  "description": "A rich, glassy-jelly, romantic Kenyan dish featuring sugars, simmered to perfection. Serve in individual bento boxes for a delightful meal.",
+  "cuisine": "kenyan",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "honey",
+      "amount": "1 1/2 cups",
+      "notes": "raw, high-quality honey"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": "white, fine-grained sugar"
+    },
+    {
+      "name": "agave nectar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "large red apples",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "large red grapes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "Line a 9x13-inch baking dish with parchment paper.",
+    "In a medium saucepan, combine the honey, granulated sugar, and agave nectar. Place the saucepan over medium heat and simmer, stirring occasionally, until the sugars have dissolved.",
+    "Add the softened butter to the saucepan and stir until melted.",
+    "Add the sliced apples, grapes, and mint leaves to the saucepan. Stir to combine.",
+    "Pour the apple-grape mixture into the prepared baking dish.",
+    "Drizzle the lemon juice over the top of the apple-grape mixture.",
+    "Sprinkle the kosher salt over the top of the apple-grape mixture.",
+    "Bake for 35 minutes, or until the top is caramelized and the apples are tender.",
+    "Remove the baking dish from the oven and let cool for 10 minutes.",
+    "Serve individual portions of the Glassy-Jelly Romantic Kenyan Bake in bento boxes, garnished with additional mint leaves if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-fiber",
+    "low-cost",
+    "romantic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 1,
+    "carbs": 100,
+    "fat": 20
+  },
+  "slug": "glassy-jelly-romantic-kenyan-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/glassy-jelly-romantic-kenyan-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:38:25Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "glassy-jelly",
+    "mood": "romantic",
+    "technique": "simmer",
+    "primaryIngredient": "sugars",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "romantic kenyan",
+    "mainIngredient": "sugars",
+    "descriptor": "Glassy-Jelly Delight",
+    "dishForm": "bake"
+  }
+}

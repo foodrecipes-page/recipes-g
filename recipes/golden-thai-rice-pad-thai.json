@@ -1,0 +1,76 @@
+{
+  "title": "Golden Thai Rice Pad Thai",
+  "description": "A malty, crunchy, and romantic Thai dish from the south, featuring cinnamon stick and whisk. This anti-inflammatory-friendly version of the classic Pad Thai dish is a great option for a weeknight dinner.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "canola oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "medium onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cloves of garlic",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined (or substitute for a vegan version)"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "vegan-option",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "golden-thai-rice-pad-thai",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-thai-rice-pad-thai",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:38:59Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crunchy",
+    "mood": "romantic",
+    "technique": "whisk",
+    "primaryIngredient": "cinnamon stick",
+    "diet": "anti-inflammatory",
+    "region": "southern-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "rice",
+    "descriptor": "Golden",
+    "dishForm": "Pad Thai"
+  }
+}

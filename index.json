@@ -5066,6 +5066,19 @@
     "shard": "g"
   },
   {
+    "slug": "glassy-jelly-romantic-kenyan-bake",
+    "title": "Glassy-Jelly Romantic Kenyan Bake",
+    "tags": [
+      "high-fiber",
+      "low-cost",
+      "romantic",
+      "weeknight"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 65,
+    "shard": "g"
+  },
+  {
     "slug": "glassy-jelly-saudi-arabian-tofu-quesadilla",
     "title": "Saudi Arabian Glassy Jelly Tofu Quesadilla",
     "tags": [
@@ -7286,6 +7299,19 @@
       "vegetarian"
     ],
     "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
+    "slug": "golden-thai-rice-pad-thai",
+    "title": "Golden Thai Rice Pad Thai",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "vegan-option",
+      "weeknight"
+    ],
+    "cuisine": "thai",
     "totalTimeMin": 35,
     "shard": "g"
   },
