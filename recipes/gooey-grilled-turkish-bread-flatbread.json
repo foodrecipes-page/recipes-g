@@ -1,0 +1,91 @@
+{
+  "title": "Gooey Grilled Turkish Bread Flatbread",
+  "description": "A malty, chewy, and cozy Turkish dish featuring bread flour, perfect for a diabetic-friendly snack, served in a molcajete vessel.",
+  "cuisine": "Turkish",
+  "diet": [
+    "diabetic-friendly",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "bread flour",
+      "amount": "2 cups",
+      "notes": "high protein flour"
+    },
+    {
+      "name": "instant yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "malted milk powder",
+      "amount": "2 tablespoons",
+      "notes": "optional for malty flavor"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "optional for topping"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine bread flour, instant yeast, and salt.",
+    "Gradually add olive oil and water to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased molcajete vessel, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat a grill to medium heat and grill the dough for 2-3 minutes on each side, until it is golden brown and cooked through.",
+    "If using malted milk powder, brush it onto the bread during the last minute of grilling.",
+    "Remove the bread from the grill and sprinkle with sesame seeds if desired.",
+    "Let the bread cool for a few minutes before slicing and serving.",
+    "Serve the gooey grilled Turkish bread flatbread warm, straight from the molcajete vessel."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "grilled-bread",
+    "homemade-bread",
+    "molcajete-recipe",
+    "turkish-cuisine",
+    "vegetarian-snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "gooey-grilled-turkish-bread-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-grilled-turkish-bread-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:47:01Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "chewy",
+    "mood": "cozy",
+    "technique": "grill",
+    "primaryIngredient": "bread flour",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "bread",
+    "descriptor": "Gooey Grilled",
+    "dishForm": "Flatbread"
+  }
+}
