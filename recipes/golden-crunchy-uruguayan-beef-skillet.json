@@ -1,0 +1,98 @@
+{
+  "title": "Golden Crunchy Uruguayan Beef Skillet",
+  "description": "A keto-friendly Uruguayan dish featuring yeasty and crunchy elements, cooked to perfection on a tava-griddle with full fat sour cream and nimono-simmered beef.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 lb",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "full fat sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "yeast extract",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the tava-griddle to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the ground beef, yeast extract, paprika, garlic powder, onion powder, salt, and black pepper, mixing well with your hands until just combined.",
+    "Form the beef mixture into 4-6 patties, depending on desired size.",
+    "Add the patties to the preheated tava-griddle and cook for 4-5 minutes per side, or until cooked to your desired level of doneness.",
+    "While the beef is cooking, mix the full fat sour cream with 1/4 cup of water to achieve a nimono-simmer consistency.",
+    "Once the beef is cooked, remove it from the tava-griddle and set aside to rest.",
+    "Add the sour cream mixture to the tava-griddle and stir to combine with the beef drippings.",
+    "Return the beef patties to the tava-griddle and spoon some of the sour cream mixture over the top of each patty.",
+    "Sprinkle the grated cheddar cheese over the top of each patty and cook until melted and bubbly.",
+    "Serve the golden crunchy Uruguayan beef skillet hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "high-protein",
+    "keto-friendly",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "golden-crunchy-uruguayan-beef-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-crunchy-uruguayan-beef-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:58:10Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crunchy",
+    "mood": "monsoon",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "full fat sour cream",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "Golden Crunchy",
+    "dishForm": "Skillet"
+  }
+}
