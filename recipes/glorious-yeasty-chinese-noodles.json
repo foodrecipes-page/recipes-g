@@ -1,0 +1,98 @@
+{
+  "title": "Glorious Yeasty Chinese Noodles",
+  "description": "A midnight-craving Chinese dish featuring yeasty, aerated noodles, made with water, pickle, and macrobiotic-friendly ingredients, perfect for satisfying late night hunger.",
+  "cuisine": "Chinese",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chinese noodles",
+      "amount": "8 ounces",
+      "notes": "preferably made from rice or millet flour"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Pickle juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Combine yeast and warm water in a bowl, stirring to dissolve the yeast, then let it sit for 5 minutes.",
+    "Heat sesame oil in a large skillet over medium heat.",
+    "Add grated ginger and cook for 1 minute, until fragrant.",
+    "Add thinly sliced scallions and cook for another minute, until they start to soften.",
+    "Add Chinese noodles to the skillet, stirring to combine with the ginger and scallions.",
+    "Add the yeast mixture, pickle juice, soy sauce, and salt to the skillet, stirring to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes, until the noodles are cooked and the liquid has been absorbed.",
+    "Remove the skillet from the heat and let it cool for a few minutes.",
+    "Serve the noodles hot, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "macrobiotic-friendly",
+    "midnight-cravings",
+    "noodle-dishes",
+    "yeasty-delights"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 16
+  },
+  "slug": "glorious-yeasty-chinese-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/glorious-yeasty-chinese-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:09:47Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "aerated",
+    "mood": "midnight-craving",
+    "technique": "pickle",
+    "primaryIngredient": "water",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "noodles",
+    "descriptor": "Glorious Yeasty",
+    "dishForm": "Noodles"
+  }
+}

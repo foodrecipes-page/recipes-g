@@ -5598,6 +5598,20 @@
     "shard": "g"
   },
   {
+    "slug": "glorious-yeasty-chinese-noodles",
+    "title": "Glorious Yeasty Chinese Noodles",
+    "tags": [
+      "chinese-cuisine",
+      "macrobiotic-friendly",
+      "midnight-cravings",
+      "noodle-dishes",
+      "yeasty-delights"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 30,
+    "shard": "g"
+  },
+  {
     "slug": "gloriously-crunchy-ethiopian-lamb-fir-fir",
     "title": "Gloriously Crunchy Ethiopian Lamb Fir Fir",
     "tags": [
@@ -6557,6 +6571,21 @@
       "one-pan",
       "post-workout",
       "vegetarian-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 45,
+    "shard": "g"
+  },
+  {
+    "slug": "golden-crunchy-polish-chicken-skewers",
+    "title": "Golden Crunchy Polish Chicken Skewers",
+    "tags": [
+      "buttery",
+      "crunchy",
+      "high-protein",
+      "one-pan",
+      "polish-cuisine",
       "weeknight"
     ],
     "cuisine": "Polish",
