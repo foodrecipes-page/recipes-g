@@ -1,0 +1,105 @@
+{
+  "title": "Gingerly Peppery Thai Tofu Pad Thai",
+  "description": "A spicy and savory Thai dish featuring tofu, infused oil, and a blend of peppers, perfect for a sick day pick-me-up, diabetic-friendly and served on a slate tile.",
+  "cuisine": "Thai",
+  "diet": [
+    "diabetic-friendly",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "infused oil",
+      "amount": "2 tablespoons",
+      "notes": "with ginger and chili flakes"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the infused oil in a large skillet or wok over medium-high heat.",
+    "Add the tofu and cook until golden brown, about 5 minutes.",
+    "Add the sliced red bell pepper and cook for an additional 2 minutes.",
+    "Add the cooked rice noodles, green onions, and chopped cilantro to the skillet.",
+    "Pour in the lime juice and stir to combine.",
+    "Add the salt, black pepper, and grated ginger, and stir-fry for 1 minute.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the Pad Thai to a slate tile and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "one-pan",
+    "quick-meal",
+    "spicy",
+    "thai-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "gingerly-peppery-thai-tofu-pad-thai",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gingerly-peppery-thai-tofu-pad-thai",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:05:21Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "shattering",
+    "mood": "sick-day",
+    "technique": "infuse-oil",
+    "primaryIngredient": "tofu",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "tofu",
+    "descriptor": "Gingerly Peppery",
+    "dishForm": "Pad Thai"
+  }
+}
