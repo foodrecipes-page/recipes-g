@@ -1,0 +1,93 @@
+{
+  "title": "Gentle Light Spanish Cassaba Pa Amb Tomaquet",
+  "description": "A floral and light Spanish dish featuring cassaba, perfect for a hangover cure, with a dairy-free friendly mother sauce base, served as pa amb tomaquet.",
+  "cuisine": "Spanish",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "cassaba melon",
+      "amount": "2 cups diced",
+      "notes": "fresh"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 cup diced",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "In a large bowl, combine the diced cassaba melon and tomato.",
+    "In a small bowl, whisk together the olive oil, garlic, lemon juice, salt, and pepper.",
+    "Pour the dressing over the melon and tomato mixture, and toss to coat.",
+    "Spread the mixture on a baking sheet, and bake for 20 minutes.",
+    "Remove from the oven, and stir in the chopped fresh basil.",
+    "Serve the mixture on toasted bread, and enjoy as pa amb tomaquet.",
+    "Garnish with additional basil, if desired.",
+    "Let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fresh-ingredients",
+    "healthy-breakfast",
+    "high-fiber",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "slug": "gentle-light-spanish-cassaba-pa-amb-tomaquet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gentle-light-spanish-cassaba-pa-amb-tomaquet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:37:21Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "light",
+    "mood": "hangover-cure",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "cassaba",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "cassaba",
+    "descriptor": "Gentle Light",
+    "dishForm": "Pa Amb Tomaquet"
+  }
+}
