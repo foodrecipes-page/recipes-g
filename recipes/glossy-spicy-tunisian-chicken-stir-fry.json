@@ -1,0 +1,101 @@
+{
+  "title": "Glossy Spicy Tunisian Chicken Stir Fry",
+  "description": "A tangy and spicy Tunisian dish featuring chicken, paella rice, and a glassy jelly sauce, perfect for a sick day or a low carb friendly meal.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite sized pieces"
+    },
+    {
+      "name": "paella rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "harissa paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5 minutes.",
+    "Add the harissa paste to the skillet and cook for 1 minute, stirring constantly.",
+    "Add the paella rice to the skillet and cook for 2 minutes, stirring constantly.",
+    "Add the chicken broth, lemon juice, and pomegranate molasses to the skillet and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes or until the rice is tender.",
+    "Stir in the salt and black pepper.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-stir-fry",
+    "gluten-free",
+    "low-carb",
+    "one-pan",
+    "spicy",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "glossy-spicy-tunisian-chicken-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/glossy-spicy-tunisian-chicken-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:14:41Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "glassy-jelly",
+    "mood": "sick-day",
+    "technique": "stir-fry",
+    "primaryIngredient": "paella rice",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "chicken",
+    "descriptor": "Glossy Spicy",
+    "dishForm": "Stir-fry"
+  }
+}
