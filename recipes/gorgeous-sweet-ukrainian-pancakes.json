@@ -1,0 +1,95 @@
+{
+  "title": "Gorgeous Sweet Ukrainian Pancakes",
+  "description": "A sweet and creamy Ukrainian dish featuring pancakes, perfect for midnight cravings, with a Jain-friendly twist and no animal by-products, instead using plant based alternatives to pancetta and bonito-shave.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "Jain",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "use unbleached"
+    },
+    {
+      "name": "plant-based milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "apple sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "smoked tofu",
+      "amount": "1/2 cup",
+      "notes": "crumbled, as a substitute for pancetta"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tablespoon",
+      "notes": "to replicate bonito-shave flavor"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, milk, maple syrup, and melted vegan butter to form a smooth batter.",
+    "Add apple sauce, crumbled smoked tofu, nutritional yeast, and vanilla extract to the batter and mix until well combined.",
+    "Heat a non-stick pan over medium heat and grease with a small amount of vegan butter.",
+    "Using a 1/4 cup measuring cup, scoop the batter into the pan and cook for 2-3 minutes or until bubbles appear on the surface.",
+    "Flip the pancakes and cook for another 1-2 minutes or until golden brown.",
+    "Serve the pancakes hot with your favorite toppings, such as fresh fruit or whipped cream.",
+    "Repeat the cooking process until all the batter is used up.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "jain-friendly",
+    "midnight-cravings",
+    "pancake-lovers",
+    "sweet-treats",
+    "ukrainian-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "gorgeous-sweet-ukrainian-pancakes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gorgeous-sweet-ukrainian-pancakes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:07:01Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "creamy",
+    "mood": "midnight-craving",
+    "technique": "bonito-shave",
+    "primaryIngredient": "pancetta",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "pancakes",
+    "descriptor": "Gorgeous Sweet",
+    "dishForm": "Pancakes"
+  }
+}
