@@ -1,0 +1,106 @@
+{
+  "title": "gentle spring saudi-arabian rice pilaf",
+  "description": "a comforting saudi-arabian dish featuring seasoned rice vinegar and low-calorie ingredients, perfect for springtime.",
+  "cuisine": "saudi-arabian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "long-grain rice",
+      "amount": "1 cup",
+      "notes": "preferably basmati or similar variety"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried parsley",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "dried mint",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large saucepan over medium heat.",
+    "add the chopped onion and sauté until softened, about 5 minutes.",
+    "add the minced garlic and cook for an additional 1-2 minutes.",
+    "add the long-grain rice and stir to coat with oil and mix with onion and garlic.",
+    "add the chicken broth, dried parsley, dried mint, lemon juice, apple cider vinegar, sea salt, and black pepper. Stir to combine.",
+    "bring to a boil, then reduce the heat to low, cover, and simmer for 18-20 minutes, or until the liquid has been absorbed and the rice is tender.",
+    "remove from heat and let rest, covered, for 5 minutes.",
+    "fluff the rice with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "low-calorie",
+    "one-pan",
+    "spring-time",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 6
+  },
+  "slug": "gentle-spring-saudi-arabian-rice-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/gentle-spring-saudi-arabian-rice-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:33:51Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "springy",
+    "mood": "comforting",
+    "technique": "emulsify",
+    "primaryIngredient": "seasoned rice vinegar",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "rice",
+    "descriptor": "Gentle Spring",
+    "dishForm": "Pilaf"
+  }
+}
