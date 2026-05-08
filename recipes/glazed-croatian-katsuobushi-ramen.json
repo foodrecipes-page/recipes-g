@@ -102,11 +102,15 @@
     "mood": "hangover-cure",
     "technique": "al-dente-finish",
     "primaryIngredient": "katsuobushi",
-    "diet": "paleo",
+    "diet": "paleo-friendly",
     "region": null,
     "cuisineAdjective": "Croatian",
     "mainIngredient": "katsuobushi",
     "descriptor": "Glazed",
     "dishForm": "Ramen"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

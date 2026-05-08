@@ -3,8 +3,7 @@
   "description": "A citrusy and silky one-pot Italian dish featuring buckwheat, this recipe is a macrobiotic-friendly take on the classic Amatriciana, cooked to perfection in a cataplana vessel.",
   "cuisine": "Italian",
   "diet": [
-    "macrobiotic",
-    "vegetarian"
+    "macrobiotic"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -101,5 +100,9 @@
     "mainIngredient": "buckwheat",
     "descriptor": "Gently Citrusy",
     "dishForm": "Amatriciana"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

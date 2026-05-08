@@ -74,7 +74,8 @@
     "Drizzle the apple cider vinegar over the top of the pork and sprinkle with fresh thyme.",
     "Cover the mug with aluminum foil and bake for 2 1/2 hours, or until the pork is tender and falls apart easily.",
     "Remove the foil and continue baking for an additional 15-20 minutes, or until the top is golden brown.",
-    "Let the pork rest for 10 minutes before slicing and serving."
+    "Let the pork rest for 10 minutes before slicing and serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 45,
   "cookTimeMin": 160,
@@ -113,5 +114,9 @@
     "mainIngredient": "pork",
     "descriptor": "Golden-Glazed Smoky",
     "dishForm": "Gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

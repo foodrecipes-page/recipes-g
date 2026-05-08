@@ -2,9 +2,7 @@
   "title": "Gently Smoky Ukrainian Fish Pilaf",
   "description": "A smoky and creamy Ukrainian dish featuring pistachio paste, perfect for a brunch mood, pescatarian-friendly and delicious.",
   "cuisine": "Ukrainian",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -71,7 +69,6 @@
     "brunch",
     "creamy",
     "fish",
-    "pescatarian",
     "smoky",
     "ukrainian"
   ],
@@ -98,5 +95,9 @@
     "mainIngredient": "fish",
     "descriptor": "Gently Smoky",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

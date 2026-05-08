@@ -73,8 +73,7 @@
     "brunch-dish",
     "glassy-jelly-polish",
     "gluten-free",
-    "polish-cuisine",
-    "vegan"
+    "polish-cuisine"
   ],
   "nutrition": {
     "calories": 160,
@@ -99,5 +98,9 @@
     "mainIngredient": "vegetables",
     "descriptor": "glassy-jelly",
     "dishForm": "polish"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

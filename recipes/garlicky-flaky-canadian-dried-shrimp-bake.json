@@ -2,9 +2,7 @@
   "title": "Garlicky Flaky Canadian Dried Shrimp Bake",
   "description": "A quick onepot baked dish that layers umamirich dried shrimp with garlicinfused butter and a crisp almondflour topping for a flaky finish.",
   "cuisine": "Canadian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -20,7 +18,7 @@
       "amount": "50 g, melted"
     },
     {
-      "name": "extra\u2011virgin olive oil",
+      "name": "extra‑virgin olive oil",
       "amount": "2 tbsp"
     },
     {
@@ -57,15 +55,15 @@
     }
   ],
   "instructions": [
-    "Preheat the oven to 190\u202f\u00b0C (375\u202f\u00b0F).",
+    "Preheat the oven to 190 °C (375 °F).",
     "In a bowl, combine melted butter, olive oil, minced garlic, thyme, salt, pepper, lemon zest, almond flour, Parmesan, and maple extract until a loose crumbly batter forms.",
     "Place the dried shrimp in a baking dish, making sure they lay flat to maximize surface contact.",
     "Evenly spoon the crumb mixture over the shrimp, pressing lightly to cover all pieces.",
-    "Bake for 15\u202fminutes, until the topping is golden brown and the shrimp are heated through.",
-    "Remove from oven and let rest 2\u202fminutes; sprinkle chopped parsley over the top.",
+    "Bake for 15 minutes, until the topping is golden brown and the shrimp are heated through.",
+    "Remove from oven and let rest 2 minutes; sprinkle chopped parsley over the top.",
     "Serve immediately, pairing with a crisp green salad or steamed veggies.",
-    "Store leftovers in an airtight container in the refrigerator for up to 2\u202fdays.",
-    "Reheat in a preheated oven at 180\u202f\u00b0C for 5\u202fminutes if desired.",
+    "Store leftovers in an airtight container in the refrigerator for up to 2 days.",
+    "Reheat in a preheated oven at 180 °C for 5 minutes if desired.",
     "Enjoy the savory, flaky texture with a gentle Canadian maple note."
   ],
   "prepTimeMin": 10,
@@ -79,7 +77,6 @@
     "flaky",
     "dried-shrimp",
     "sugar-free",
-    "gluten-free",
     "canadian"
   ],
   "nutrition": {
@@ -105,5 +102,9 @@
     "mainIngredient": "dried shrimp",
     "descriptor": "Garlicky Flaky",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

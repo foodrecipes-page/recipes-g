@@ -3,8 +3,7 @@
   "description": "A hearty, garlicky pilaf from Croatia, featuring crispy fish and a comforting, shojin-friendly meal.",
   "cuisine": "croatian",
   "diet": [
-    "shojin",
-    "pescatarian"
+    "shojin"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -69,7 +68,8 @@
     "Arrange skewers onto the prepared baking dish and roast for 25 minutes.",
     "Stir cooked rice mixture and top with roasted fish and garlic-lemon mixture.",
     "Return to oven and roast for an additional 10 minutes.",
-    "Serve hot and enjoy!"
+    "Serve hot and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -108,5 +108,10 @@
     "mainIngredient": "fish",
     "descriptor": "Garlicky Roasted",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

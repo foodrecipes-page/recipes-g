@@ -59,7 +59,9 @@
     "Add the chicken broth, tomato paste, and browned pork back to the pot, stirring to combine.",
     "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 2 hours, or until the pork is tender.",
     "Stir in the heavy cream and continue to simmer, uncovered, for an additional 10 minutes, or until the sauce has thickened slightly.",
-    "Taste and adjust the seasoning as needed, then serve hot, garnished with chopped fresh parsley."
+    "Taste and adjust the seasoning as needed, then serve hot, garnished with chopped fresh parsley.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 140,
@@ -97,5 +99,10 @@
     "mainIngredient": "pork",
     "descriptor": "Gloriously Smoky",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-pork_no_temp"
+  ]
 }

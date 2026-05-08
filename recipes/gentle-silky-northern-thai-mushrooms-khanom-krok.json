@@ -2,9 +2,7 @@
   "title": "Gentle Silky Northern Thai Mushrooms Khanom Krok",
   "description": "A vegan-friendly, umami-rich Northern Thai dish featuring elderflower and mushrooms in a silky khanom krok form, perfect for a brunch mood. This recipe combines the unique flavors of Thailand with the delicate taste of elderflower.",
   "cuisine": "Northern Thai",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -89,5 +87,9 @@
     "mainIngredient": "mushrooms",
     "descriptor": "Gentle Silky",
     "dishForm": "Khanom Krok"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

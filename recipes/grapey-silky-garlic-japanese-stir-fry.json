@@ -2,9 +2,7 @@
   "title": "Grapey Silky Garlic Japanese Stir-fry",
   "description": "A gluten-free-friendly post-workout dish featuring grape juice, garlic, and a silky texture for added nutrition.",
   "cuisine": "Japanese",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -64,8 +62,7 @@
     "garlicky",
     "silky",
     "japanese",
-    "post-workout",
-    "gluten-free"
+    "post-workout"
   ],
   "nutrition": {
     "calories": 150,
@@ -90,5 +87,9 @@
     "mainIngredient": "Garlic",
     "descriptor": "Grapey Silky",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

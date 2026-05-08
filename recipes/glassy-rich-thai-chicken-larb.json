@@ -53,11 +53,12 @@
     "Once set, use a fork to break up the mixture into a larb-like texture.",
     "Serve chilled, garnished with additional Thai basil if desired.",
     "Refrigerate any leftovers for up to 3 days.",
-    "Reheat gently before serving if desired."
+    "Reheat gently before serving if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
-  "totalTimeMin": 60,
+  "totalTimeMin": 40,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
@@ -92,5 +93,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Glassy Rich",
     "dishForm": "Larb"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "recomputed-totalTime"
+  ]
 }

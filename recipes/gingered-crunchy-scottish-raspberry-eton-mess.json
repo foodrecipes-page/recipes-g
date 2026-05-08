@@ -2,9 +2,7 @@
   "title": "Gingered Crunchy Scottish Raspberry Eton Mess",
   "description": "A plant‑based Scottish take on Eton Mess with a peppery, crunchy oat custard and fresh raspberries.",
   "cuisine": "British (Scottish)",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -68,7 +66,8 @@
     "While the custard sets, gently fold fresh raspberries into the custard to preserve their bright color and tartness.",
     "Once set, remove the custard from the fridge, break it into bite‑sized morsels, and place them into a bowl.",
     "Top the morsels with additional raspberries, a drizzle of maple syrup, and a light dusting of fresh black pepper for a peppery finish.",
-    "Serve immediately, offering a delightful mix of crunchy almond, silky oat custard, and juicy raspberries."
+    "Serve immediately, offering a delightful mix of crunchy almond, silky oat custard, and juicy raspberries.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 5,
@@ -81,8 +80,7 @@
     "eton-mess",
     "ginger",
     "quick",
-    "scottish",
-    "vegan"
+    "scottish"
   ],
   "nutrition": {
     "calories": 350,
@@ -107,5 +105,10 @@
     "mainIngredient": "raspberry",
     "descriptor": "Gingered Crunchy",
     "dishForm": "Eton Mess"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "added-safety-preserving_no_acid"
+  ]
 }

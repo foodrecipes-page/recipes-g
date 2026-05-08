@@ -3,9 +3,7 @@
   "description": "A crowd-pleasing Polish dish featuring juicy chicken wings, a glassy-jelly pasta-water-emulsion, and dairy-free-friendly sauce. This recipe serves a crowd and is easy to make ahead of time.",
   "cuisine": "Polish",
   "diet": [
-    "dairy-free",
-    "gluten-free",
-    "vegetarian"
+    "dairy-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -111,5 +109,10 @@
     "mainIngredient": "chicken wings",
     "descriptor": "garlicky, crowd-pleaser",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

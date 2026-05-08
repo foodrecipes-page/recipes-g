@@ -2,10 +2,7 @@
   "title": "Glowing Smoky Mexican Beef Huaraches",
   "description": "A smoky and molten Mexican dish featuring feather blade beef, this crowd-pleaser is perfect for any occasion, with anti-inflammatory friendly ingredients to boot.",
   "cuisine": "Mexican",
-  "diet": [
-    "gluten-free",
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -80,8 +77,6 @@
   "tags": [
     "beef-recipes",
     "crowd-pleasers",
-    "dairy-free",
-    "gluten-free",
     "mexican-food",
     "smoky-flavors"
   ],
@@ -108,5 +103,10 @@
     "mainIngredient": "beef",
     "descriptor": "Glowing Smoky",
     "dishForm": "Huaraches"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free"
+  ]
 }

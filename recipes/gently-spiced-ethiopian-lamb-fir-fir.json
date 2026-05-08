@@ -2,9 +2,7 @@
   "title": "Gently Spiced Ethiopian Lamb Fir Fir",
   "description": "A traditional Ethiopian dish made with lamb, red pepper, and herbal spices, served in a clay tajine, this recipe is a romantic and light take on the classic fir fir, with a kosher-friendly twist using lardons-render for added depth of flavor.",
   "cuisine": "Ethiopian",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -101,5 +99,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Gently Spiced",
     "dishForm": "Fir Fir"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-kosher"
+  ]
 }

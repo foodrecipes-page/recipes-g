@@ -2,9 +2,7 @@
   "title": "Goatmeatease Cozy Irish",
   "description": "A nutty and juicy dish featuring dairy-free-friendly goat meat in a cozy Irish style, perfect for breakfast or dinner.",
   "cuisine": "Irish",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -54,11 +52,11 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350\u00b0F (175\u00b0C).",
+    "Preheat oven to 350°F (175°C).",
     "In a large pan, heat olive oil over medium-high heat. Add minced garlic and cook for about 2 minutes until fragrant.",
     "Add bone-in goat meat and season with salt and pepper. Sear on all sides until well browned, approximately 8-10 minutes total.",
     "Transfer the goat meat to a plate. In the same pan, add butternut squash puree, balsamic glaze, and fresh thyme sprigs. Stir gently to combine.",
-    "Return seared goat meat to the pan. Cover with aluminum foil and transfer to the preheated oven for 20 minutes or until thoroughly heated through (internal temperature should reach at least 145\u00b0F).",
+    "Return seared goat meat to the pan. Cover with aluminum foil and transfer to the preheated oven for 20 minutes or until thoroughly heated through (internal temperature should reach at least 145°F).",
     "Serve hot as a cozy Irish dinner dish."
   ],
   "prepTimeMin": 30,
@@ -91,5 +89,9 @@
     "primaryIngredient": "goat meat",
     "diet": "dairy-free",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

@@ -56,7 +56,8 @@
     "Add garlic, coriander seeds, cumin seeds, turmeric powder, and tomato puree or diced tomatoes to the onion mixture and stir well.",
     "Push chicken thighs into the pot with the sauce. Pour in water or broth, cover with a tight lid, and seal the pressure cooker according to manufacturer's instructions for about 15 minutes.",
     "Let it rest for another minute before releasing the pressure manually (or using a quick-release method if you prefer).",
-    "Serve hot with steamed basmati rice."
+    "Serve hot with steamed basmati rice.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
@@ -93,5 +94,9 @@
     "mainIngredient": "ghee",
     "descriptor": "Garlicky Dense Nostalgic",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Gooey Adventurous Canadian Mushrooms Crumble",
   "description": "A realistic and nutritious recipe for a gooey dish featuring fermented mushrooms with an adventurous twist, suitable for nut-free diets.",
   "cuisine": "Canadian",
-  "diet": [
-    "nut-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -63,8 +61,7 @@
   "difficulty": "easy",
   "tags": [
     "mushroom-crumble",
-    "fermented-dish",
-    "nut-free"
+    "fermented-dish"
   ],
   "nutrition": {
     "calories": 100,
@@ -89,5 +86,9 @@
     "mainIngredient": "Mushrooms",
     "descriptor": "Fermented Gooey Adventurous",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-nut-free"
+  ]
 }

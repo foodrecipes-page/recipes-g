@@ -2,9 +2,7 @@
   "title": "Golden Flaky Peruvian Lamb Empanadas",
   "description": "Savory lamb empanadas with a splash of brandy and flaky pastry, a halal-friendly showoff Peruvian dish.",
   "cuisine": "Peruvian",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -58,7 +56,7 @@
     {
       "name": "empanada sheets",
       "amount": "12",
-      "notes": "ready\u2011made flaky pastry"
+      "notes": "ready‑made flaky pastry"
     },
     {
       "name": "egg",
@@ -67,16 +65,16 @@
     }
   ],
   "instructions": [
-    "In a skillet over medium heat, saut\u00e9 onion and garlic until translucent.",
+    "In a skillet over medium heat, sauté onion and garlic until translucent.",
     "Add the ground lamb, breaking it apart, and cook until browned.",
     "Stir in tomato paste, cumin, smoked paprika, and salt; cook for 2 minutes.",
-    "Deglaze the pan with brandy, letting the alcohol evaporate for 1\u20132 minutes.",
-    "Pour in lamb broth, bring to a simmer and reduce until the sauce thickens, about 5\u20137 minutes.",
+    "Deglaze the pan with brandy, letting the alcohol evaporate for 1–2 minutes.",
+    "Pour in lamb broth, bring to a simmer and reduce until the sauce thickens, about 5–7 minutes.",
     "Stir in chopped cilantro, adjust seasoning if needed, then remove from heat and let cool slightly.",
-    "Preheat the oven to 200\u202f\u00b0C (400\u202f\u00b0F) and line a baking sheet with parchment paper.",
-    "Place a spoonful (about 1\u20132\u202fTbsp) of filling onto each empanada sheet, fold into a triangle, and seal edges with a fork.",
+    "Preheat the oven to 200 °C (400 °F) and line a baking sheet with parchment paper.",
+    "Place a spoonful (about 1–2 Tbsp) of filling onto each empanada sheet, fold into a triangle, and seal edges with a fork.",
     "Brush each empanada with beaten egg.",
-    "Bake for 15\u201318 minutes until golden and flaky, brushing with melted butter halfway through for extra crispness."
+    "Bake for 15–18 minutes until golden and flaky, brushing with melted butter halfway through for extra crispness."
   ],
   "slug": "golden-flaky-peruvian-lamb-empanadas",
   "source": "ocloud-gpt-oss:20b",
@@ -110,5 +108,9 @@
   "tags": [
     "peruvian",
     "dinner"
+  ],
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal"
   ]
 }

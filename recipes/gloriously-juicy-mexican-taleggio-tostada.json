@@ -53,7 +53,8 @@
     "Add the chopped cilantro and cook for an additional minute.",
     "Spread a layer of the chicken mixture onto each toasted tortilla.",
     "Top each tortilla with a slice of softened taleggio cheese.",
-    "Drizzle the lime juice over the cheese and serve immediately."
+    "Drizzle the lime juice over the cheese and serve immediately.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -91,5 +92,9 @@
     "mainIngredient": "taleggio",
     "descriptor": "Gloriously Juicy",
     "dishForm": "Tostada"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

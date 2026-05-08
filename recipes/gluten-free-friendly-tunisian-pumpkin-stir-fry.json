@@ -2,9 +2,7 @@
   "title": "Gluten-Free-Friendly Tunisian Pumpkin Stir-fry",
   "description": "A herbal and festive dish featuring pumpkin in a gluten-free-friendly base, perfect for autumn meals.",
   "cuisine": "tunisian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -87,5 +85,9 @@
     "mainIngredient": "Pumpkin",
     "descriptor": "Gluten-Free-Friendly",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A malty and velvety American dish featuring lamb, olive oil, and rest, made in a ceramic tagine, following ayurvedic-sattvic-friendly principles.",
   "cuisine": "American",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -53,7 +52,8 @@
     "Cover the tagine and transfer it to the preheated oven.",
     "Braise the lamb for 2.5 hours, or until tender.",
     "Let the tagine rest for 10 minutes before serving.",
-    "Serve the lamb and sauce over couscous or rice."
+    "Serve the lamb and sauce over couscous or rice.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 150,
@@ -90,5 +90,10 @@
     "mainIngredient": "lamb",
     "descriptor": "Gentle Malt",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

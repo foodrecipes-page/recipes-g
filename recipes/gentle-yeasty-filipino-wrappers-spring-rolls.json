@@ -3,8 +3,7 @@
   "description": "A light and shaggy Filipino dish featuring yeasty egg roll wrappers, this recipe is egg-free-friendly and perfect for a snack or dinner.",
   "cuisine": "Filipino",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -96,5 +95,9 @@
     "mainIngredient": "wrappers",
     "descriptor": "Gentle Yeasty",
     "dishForm": "Spring-Rolls"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

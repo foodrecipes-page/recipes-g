@@ -78,7 +78,8 @@
     "Whisk honey into a small bowl, then pour over the tagine, stirring to coat all ingredients.",
     "Cover the ttukbaegi and simmer over low heat for 20 minutes, allowing flavors to meld and the glaze to thicken.",
     "Remove the lid, stir to ensure an even glaze, and taste for seasoning, adding salt and pepper if needed.",
-    "Serve hot, garnished with extra toasted almonds and chopped parsley if desired."
+    "Serve hot, garnished with extra toasted almonds and chopped parsley if desired.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 60,
@@ -116,5 +117,9 @@
     "mainIngredient": "Almonds",
     "descriptor": "Glazed",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

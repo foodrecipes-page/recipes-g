@@ -10,7 +10,7 @@
     {
       "name": "dried elbow macaroni",
       "amount": "250 g",
-      "notes": "medium\u2011size"
+      "notes": "medium‑size"
     },
     {
       "name": "ground beef",
@@ -67,15 +67,17 @@
     }
   ],
   "instructions": [
-    "Preheat the sous\u2011vide bath to 80\u202f\u00b0C (176\u202f\u00b0F).",
+    "Preheat the sous‑vide bath to 80 °C (176 °F).",
     "In a large bowl whisk together the macaroni, ground beef, chopped poblano, minced garlic, diced onion, tomato paste, chicken broth, and a pinch of salt and pepper.",
-    "Transfer the mixture into a vacuum\u2011seal bag, drizzle with the olive oil, and seal using a vacuum sealer or water\u2011displacement method.",
-    "Place the sealed bag in the preheated sous\u2011vide bath and cook for 30 minutes to blend flavors and cook the pasta to al dente.",
-    "While the pasta cooks, heat a skillet over medium heat, add a splash of oil and saut\u00e9 the cooked mixture for 2\u20133 minutes to caramelize the onions and beef.\n",
+    "Transfer the mixture into a vacuum‑seal bag, drizzle with the olive oil, and seal using a vacuum sealer or water‑displacement method.",
+    "Place the sealed bag in the preheated sous‑vide bath and cook for 30 minutes to blend flavors and cook the pasta to al dente.",
+    "While the pasta cooks, heat a skillet over medium heat, add a splash of oil and sauté the cooked mixture for 2–3 minutes to caramelize the onions and beef.\n",
     "Remove the bag from the bath, open carefully, and stir in the heavy cream and shredded cheese until the cheese melts and the sauce becomes silky.",
     "Taste and adjust seasoning with salt, pepper, and a squeeze of lime if desired.\n",
     "Serve the garlicky dense pasta in bowls, garnishing with chopped cilantro and an optional dash of hot sauce for extra heat.",
-    ""
+    "",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 45,
@@ -113,5 +115,10 @@
     "mainIngredient": "Macaroni",
     "descriptor": "Garlicky Dense",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

@@ -2,10 +2,7 @@
   "title": "Golden Dense Vietnamese Duck Banh Xeo",
   "description": "Savory Vietnamese dish featuring duck sauce and deep-fried ingredients, served with fresh herbs and sweet sauce. This energizing meal is perfect for lunch or dinner.",
   "cuisine": "Vietnamese",
-  "diet": [
-    "gluten-free",
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -54,7 +51,8 @@
     "Loosen the banh xeo with a spatula and flip it over to cook the other side.",
     "Cook for an additional 2 minutes, until the other side is also golden brown.",
     "Remove the banh xeo from the pan and place it on a paper towel-lined plate to drain excess oil.",
-    "Serve the banh xeo hot with fresh herbs and sweet sauce."
+    "Serve the banh xeo hot with fresh herbs and sweet sauce.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -63,9 +61,7 @@
   "difficulty": "medium",
   "tags": [
     "asian-food",
-    "dairy-free",
     "deep-fried",
-    "gluten-free",
     "lunch-ideas",
     "vietnamese-cuisine"
   ],
@@ -92,5 +88,11 @@
     "mainIngredient": "duck",
     "descriptor": "Golden Dense",
     "dishForm": "Banh Xeo"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

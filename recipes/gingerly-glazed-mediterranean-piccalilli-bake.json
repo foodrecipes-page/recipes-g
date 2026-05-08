@@ -74,8 +74,6 @@
   "difficulty": "medium",
   "tags": [
     "easy-to-make",
-    "gluten-free",
-    "halal",
     "mediterranean",
     "one-pan",
     "vegetarian"
@@ -103,5 +101,10 @@
     "mainIngredient": "piccalilli",
     "descriptor": "gingerly-glazed",
     "dishForm": "bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "removed-diet-halal"
+  ]
 }

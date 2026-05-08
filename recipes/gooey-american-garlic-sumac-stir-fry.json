@@ -44,7 +44,8 @@
     "Deglaze the skillet with soy sauce, scraping any browned bits from the bottom of the pan.",
     "Stir in sumac and cayenne pepper. Cook for another 2-3 minutes or until all ingredients are evenly mixed.",
     "Add sliced bell pepper to the skillet, reduce heat to medium and cook for an additional 5-7 minutes or until peppers are tender.",
-    "Serve hot over rice or noodles."
+    "Serve hot over rice or noodles.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -81,5 +82,9 @@
     "mainIngredient": "garlic",
     "descriptor": "Gooey",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

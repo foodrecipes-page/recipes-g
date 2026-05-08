@@ -3,8 +3,7 @@
   "description": "A bitter, glassy-jelly dish featuring Carnaroli rice and dashi extract, perfect for a date-night Slovakian meal.",
   "cuisine": "Slovakian",
   "diet": [
-    "gluten-free",
-    "vegetarian"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -102,5 +101,9 @@
     "mainIngredient": "rice",
     "descriptor": "glassy-jelly",
     "dishForm": "risotto"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

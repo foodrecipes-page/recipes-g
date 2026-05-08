@@ -2,9 +2,7 @@
   "title": "Garlic Flaky Greek Lamb Grill",
   "description": "A garlicky, flaky lamb grilled to perfection, topped with a silky coconut cream sauce for a Greek-inspired adventure.",
   "cuisine": "Greek",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -105,5 +103,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Garlic Flaky",
     "dishForm": "Grill"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-kosher"
+  ]
 }

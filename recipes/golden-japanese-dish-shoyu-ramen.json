@@ -2,9 +2,7 @@
   "title": "Shoyu Ramen",
   "description": "A classic Japanese Shoyu Ramen from Shikoku, known for its rich and savory flavor, velvety texture, and aromatic golden hue. This low-glycemic-friendly dish is perfect for a midnight craving.",
   "cuisine": "Japanese",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -101,5 +99,9 @@
     "mainIngredient": "dish",
     "descriptor": "golden",
     "dishForm": "Shoyu Ramen"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

@@ -40,7 +40,8 @@
     "Rub chicken with oil and spices. Season well.",
     "Place on a hot-stone plate in the oven for 45 minutes.",
     "Baste with lemon juice every 15 minutes.",
-    "Remove from heat, let rest for 10 minutes before serving."
+    "Remove from heat, let rest for 10 minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 45,
@@ -79,5 +80,9 @@
     "mainIngredient": "chicken legs",
     "descriptor": "Wholesome and Indulgent",
     "dishForm": "Roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

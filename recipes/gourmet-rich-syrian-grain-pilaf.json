@@ -58,7 +58,8 @@
     "Add the chicken broth, salt, and black pepper, bringing the mixture to a boil.",
     "Reduce the heat to low, cover, and simmer for 20 minutes or until the liquid is absorbed.",
     "Remove from heat and let rest for 5 minutes before serving.",
-    "Fluff the pilaf with a fork and serve hot."
+    "Fluff the pilaf with a fork and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -96,5 +97,9 @@
     "mainIngredient": "grains",
     "descriptor": "Gourmet Rich",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

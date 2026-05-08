@@ -74,7 +74,6 @@
   "difficulty": "medium",
   "tags": [
     "easy-to-make",
-    "gluten-free",
     "low-fat",
     "one-pan",
     "vegetarian"
@@ -102,5 +101,9 @@
     "mainIngredient": "deodeok root",
     "descriptor": "Gritty",
     "dishForm": "Kofte"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

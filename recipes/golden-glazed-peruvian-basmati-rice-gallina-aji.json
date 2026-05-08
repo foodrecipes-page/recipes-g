@@ -67,7 +67,8 @@
     "Bring mixture to a simmer and cook for 5-7 minutes, or until sauce has thickened slightly.",
     "Add cooked basmati rice to the skillet and stir to combine with sauce.",
     "Transfer rice mixture to a serving dish and garnish with chopped cilantro.",
-    "Serve immediately, garnished with additional cilantro if desired."
+    "Serve immediately, garnished with additional cilantro if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -103,5 +104,9 @@
     "mainIngredient": "basmati rice",
     "descriptor": "Golden Glazed",
     "dishForm": "Gallina Aji"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -67,7 +67,8 @@
     "Return the browned lamb to the cauldron, then pour in chicken broth.",
     "Bring the mixture to a gentle simmer, cover, and cook for 90 minutes, stirring occasionally.",
     "Remove the cover, reduce the liquid until the stew develops a glazed, glassy‑jelly consistency.",
-    "Season with salt to taste, stir in fresh parsley, and serve hot."
+    "Season with salt to taste, stir in fresh parsley, and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 90,
@@ -105,5 +106,9 @@
     "mainIngredient": "lamb",
     "descriptor": "glazed",
     "dishForm": "stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

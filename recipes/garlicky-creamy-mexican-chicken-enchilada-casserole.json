@@ -3,8 +3,7 @@
   "description": "A comforting, creamy, and spicy Mexican casserole dish made with tender chicken, melted cheese, and crunchy parma ham.",
   "cuisine": "Mexican",
   "diet": [
-    "dairy",
-    "gluten-free"
+    "dairy"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -112,11 +111,16 @@
     "mood": "comforting",
     "technique": "reduce",
     "primaryIngredient": "parma ham",
-    "diet": "nut-free",
+    "diet": "dairy",
     "region": null,
     "cuisineAdjective": "Mexican",
     "mainIngredient": "Chicken",
     "descriptor": "Garlicky Creamy",
     "dishForm": "Enchilada Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "aligned-axes-diet"
+  ]
 }

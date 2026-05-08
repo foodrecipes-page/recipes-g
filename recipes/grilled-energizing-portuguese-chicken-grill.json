@@ -3,10 +3,7 @@
   "description": "a sour, cheese-pull, energizing portuguese dish featuring gelatine leaves, grilled to perfection. great for a quick buddhist temple-friendly meal or snack.",
   "cuisine": "portuguese",
   "diet": [
-    "vegan",
-    "vegetarian",
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "snack",
   "ingredients": [
@@ -71,7 +68,8 @@
     "soak the gelatine leaves in cold water for 5 minutes, then cut into thin strips.",
     "arrange the gelatine strips on a plate or tray.",
     "place the cooked chicken on top of the gelatine, followed by a drizzle of melted vegan mozzarella cheese.",
-    "garnish with chopped fresh basil leaves and serve immediately."
+    "garnish with chopped fresh basil leaves and serve immediately.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 12,
@@ -85,8 +83,6 @@
     "low-carb",
     "portuguese",
     "quick-and-easy",
-    "vegan",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -112,5 +108,12 @@
     "mainIngredient": "chicken",
     "descriptor": "grilled energizing",
     "dishForm": "Grill"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian",
+    "removed-diet-dairy-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -56,7 +56,8 @@
     "Add the sour cream mixture to the tava-griddle and stir to combine with the beef drippings.",
     "Return the beef patties to the tava-griddle and spoon some of the sour cream mixture over the top of each patty.",
     "Sprinkle the grated cheddar cheese over the top of each patty and cook until melted and bubbly.",
-    "Serve the golden crunchy Uruguayan beef skillet hot, garnished with chopped fresh herbs if desired."
+    "Serve the golden crunchy Uruguayan beef skillet hot, garnished with chopped fresh herbs if desired.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -94,5 +95,9 @@
     "mainIngredient": "beef",
     "descriptor": "Golden Crunchy",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

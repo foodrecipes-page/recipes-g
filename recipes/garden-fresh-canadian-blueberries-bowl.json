@@ -85,11 +85,15 @@
     "mood": "weeknight",
     "technique": "soffritto-base",
     "primaryIngredient": "blueberries",
-    "diet": "nut-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "canadian",
     "mainIngredient": "blueberries",
     "descriptor": "Garden Fresh",
     "dishForm": "bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

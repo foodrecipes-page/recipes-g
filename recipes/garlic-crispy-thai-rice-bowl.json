@@ -2,9 +2,7 @@
   "title": "Garlic Crispy Thai Rice Bowl",
   "description": "Quick and aromatic Thai rice bowl packed with garlicky, crispy chicken, a tangy limesoy glaze, and a surprising sweet note from Turkish delight.",
   "cuisine": "Thai",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -89,14 +87,14 @@
     "In a saucepan, combine the rinsed rice and 1 cup of water. Bring to a boil, then reduce heat to low, cover, and simmer for 15 minutes until the water is absorbed.",
     "While the rice cooks, whisk together soy sauce, fish sauce, lime juice, minced garlic, grated ginger, chili flakes, coconut milk, and crushed Turkish delight in a bowl until the delight dissolves. Set this sauce aside.",
     "Season the chicken breast pieces with salt and pepper, then coat them in half of the prepared sauce.",
-    "Heat sesame oil in a large skillet over medium-high heat. Add the chicken and cook for 6\u20138 minutes, turning once, until the chicken is golden and crisp on the outside and cooked through.",
+    "Heat sesame oil in a large skillet over medium-high heat. Add the chicken and cook for 6–8 minutes, turning once, until the chicken is golden and crisp on the outside and cooked through.",
     "Pour the remaining sauce into the skillet with the chicken. Bring to a gentle simmer and cook for 3 minutes, letting the sauce thicken and coat the chicken evenly.",
     "Transfer the cooked chicken onto a plate and drizzle some of the reduced sauce over it.",
     "To assemble the bowl, spread the cooked jasmine rice in the bottom of a serving bowl.",
     "Top the rice with the crispy chicken, then drizzle remaining sauce over the top.",
     "Sprinkle sliced scallions, chopped cilantro, sesame seeds, and crushed peanuts over the bowl for added crunch and flavor.",
     "Serve immediately while the chicken remains hot and crisp.",
-    "Enjoy a flavorful, garlicky, crispy Thai rice bowl with a sweet twist that\u2019s both kosher and lazy\u2011Sunday ready."
+    "Enjoy a flavorful, garlicky, crispy Thai rice bowl with a sweet twist that’s both kosher and lazy‑Sunday ready."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -108,7 +106,6 @@
     "rice",
     "garlic",
     "crispy",
-    "kosher",
     "lazy-sunday",
     "glaze",
     "turkish-delight"
@@ -136,5 +133,9 @@
     "mainIngredient": "Rice",
     "descriptor": "Garlic Crispy",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-kosher"
+  ]
 }

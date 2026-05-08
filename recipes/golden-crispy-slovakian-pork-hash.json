@@ -56,7 +56,8 @@
     "Stir in the Dutch stroop and cook for an additional 2 minutes.",
     "Transfer the pork mixture to a baking dish and bake in the preheated oven for 20 minutes.",
     "Remove the dish from the oven and top with chopped fresh parsley.",
-    "Serve the Golden Crispy Slovakian Pork Hash hot and enjoy."
+    "Serve the Golden Crispy Slovakian Pork Hash hot and enjoy.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -94,5 +95,9 @@
     "mainIngredient": "pork",
     "descriptor": "Golden Crispy",
     "dishForm": "Hash"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

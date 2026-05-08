@@ -3,8 +3,6 @@
   "description": "A flavorful and aromatic tagine dish that combines the richness of lamb with the brightness of garlic and the warmth of spices, perfect for a weeknight dinner. This recipe is designed to be easy to make and adaptable to ayurvedic and sattvic diets.",
   "cuisine": "algerian",
   "diet": [
-    "vegetarian",
-    "vegan",
     "gluten-free",
     "dairy-free"
   ],
@@ -130,5 +128,10 @@
     "mainIngredient": "lamb",
     "descriptor": "Garlicky Flaky",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

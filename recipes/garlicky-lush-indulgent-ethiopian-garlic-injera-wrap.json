@@ -3,8 +3,7 @@
   "description": "A garlicky, juicy, and indulgent Ethiopian dish featuring rose water, wrapped in a double-rise-bread.",
   "cuisine": "Ethiopian",
   "diet": [
-    "vegan",
-    "gluten-free"
+    "vegan"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -86,7 +85,6 @@
     "double-rise-bread",
     "ethiopian",
     "garlic",
-    "gluten-free",
     "injera",
     "rose-water",
     "vegan",
@@ -115,5 +113,9 @@
     "mainIngredient": "garlic",
     "descriptor": "garlicky, lush, indulgent",
     "dishForm": "Injera Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

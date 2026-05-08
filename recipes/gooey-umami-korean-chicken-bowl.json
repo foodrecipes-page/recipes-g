@@ -4,7 +4,6 @@
   "cuisine": "Korean",
   "diet": [
     "paleo",
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -76,7 +75,6 @@
     "korean-cuisine",
     "umami",
     "paleo",
-    "gluten-free",
     "dairy-free",
     "gochujang",
     "cocoa-powder",
@@ -107,5 +105,9 @@
     "mainIngredient": "chicken",
     "descriptor": "gooey umami",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

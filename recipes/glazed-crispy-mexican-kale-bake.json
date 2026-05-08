@@ -2,9 +2,7 @@
   "title": "Glazed Crispy Mexican Kale Bake",
   "description": "A bitter, crispy, indulgent Mexican dish featuring gelatin leaf glaze and low‑calorie baked kale.",
   "cuisine": "Mexican",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -77,7 +75,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "healthy",
     "kale",
     "low-calorie",
@@ -107,5 +104,9 @@
     "mainIngredient": "kale",
     "descriptor": "Glazed Crispy",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

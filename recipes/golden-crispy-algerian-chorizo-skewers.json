@@ -2,9 +2,7 @@
   "title": "Golden Crispy Algerian Chorizo Skewers",
   "description": "A briny and crispy Algerian dish featuring chorizo, perfect for a quick snack or appetizer, this halal-friendly recipe is sure to energize your taste buds.",
   "cuisine": "Algerian",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -94,5 +92,9 @@
     "mainIngredient": "chorizo",
     "descriptor": "Golden Crispy",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

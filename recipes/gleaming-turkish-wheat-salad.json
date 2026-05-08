@@ -97,11 +97,15 @@
     "mood": "nostalgic",
     "technique": "fold",
     "primaryIngredient": "lemon juice",
-    "diet": "kosher",
+    "diet": "kosher-friendly",
     "region": null,
     "cuisineAdjective": "Turkish",
     "mainIngredient": "Wheat",
     "descriptor": "Gleaming",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

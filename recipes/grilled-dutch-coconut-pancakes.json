@@ -3,7 +3,6 @@
   "description": "A tangy, bouncy pancake with a hint of sweet date, perfect for a cozy date night.",
   "cuisine": "Dutch",
   "diet": [
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -69,7 +68,6 @@
     "coconut",
     "date-night",
     "dutch",
-    "gluten-free",
     "grilled",
     "vegetarian"
   ],
@@ -96,5 +94,9 @@
     "mainIngredient": "coconut",
     "descriptor": "Grilled",
     "dishForm": "Pancakes"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

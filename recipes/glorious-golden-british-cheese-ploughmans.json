@@ -52,7 +52,8 @@
     "Garnish with fresh parsley and serve immediately.",
     "Consider adding a side of chutney or jam for added flavor.",
     "Serve the ploughmans in the lacquerware bowl and enjoy.",
-    "Make sure to handle the food safely and store any leftovers in the refrigerator."
+    "Make sure to handle the food safely and store any leftovers in the refrigerator.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 0,
@@ -83,11 +84,16 @@
     "mood": "kid-friendly",
     "technique": "ferment-jang",
     "primaryIngredient": "salted butter",
-    "diet": "nut-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "British",
     "mainIngredient": "cheese",
     "descriptor": "Glorious Golden",
     "dishForm": "Ploughmans"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid",
+    "aligned-axes-diet"
+  ]
 }

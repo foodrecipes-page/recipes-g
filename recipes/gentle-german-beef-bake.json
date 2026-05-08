@@ -64,7 +64,8 @@
     "Arrange the sliced potatoes on top, overlapping slightly.",
     "Drizzle with eggs and sprinkle with salt, pepper, and parsley.",
     "Bake for 35 minutes or until the potatoes are golden brown and the filling is hot and bubbly.",
-    "Serve hot, garnished with additional parsley if desired."
+    "Serve hot, garnished with additional parsley if desired.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -103,5 +104,9 @@
     "mainIngredient": "beef",
     "descriptor": "Gentle",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

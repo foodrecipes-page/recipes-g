@@ -3,7 +3,6 @@
   "description": "A raw-friendly, garlicky flaky dish inspired by the traditional Egyptian hail crumble, featuring a cozy texture and flavor profile.",
   "cuisine": "Egyptian",
   "diet": [
-    "vegan",
     "raw"
   ],
   "meal": "snack",
@@ -74,5 +73,9 @@
     "mainIngredient": "Hail",
     "descriptor": "Garlicky Flaky Raw-Friendly",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

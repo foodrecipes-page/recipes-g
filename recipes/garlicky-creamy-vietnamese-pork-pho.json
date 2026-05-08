@@ -3,8 +3,7 @@
   "description": "A keto-friendly, comforting Vietnamese dish featuring caramelized sugar sauce and tender pork, served with a rich and creamy broth.",
   "cuisine": "Vietnamese",
   "diet": [
-    "keto",
-    "gluten-free"
+    "keto"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -75,7 +74,9 @@
     "In a blender or food processor, combine the heavy cream and chicken broth and blend until smooth.",
     "Pour the blended mixture into the pan with the pork and cook for 5 minutes.",
     "Season the broth with salt and black pepper to taste.",
-    "Serve the broth over noodles with the pork and garnish with cilantro."
+    "Serve the broth over noodles with the pork and garnish with cilantro.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -88,8 +89,7 @@
     "pork",
     "garlicky",
     "creamy",
-    "keto",
-    "gluten-free"
+    "keto"
   ],
   "nutrition": {
     "calories": 540,
@@ -114,5 +114,11 @@
     "mainIngredient": "pork",
     "descriptor": "garlicky creamy",
     "dishForm": "Pho"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp",
+    "added-safety-pork_no_temp"
+  ]
 }

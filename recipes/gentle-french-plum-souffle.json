@@ -3,8 +3,7 @@
   "description": "A pillowy and garlicky French dish featuring plum sauce, this souffle is a quick-fix dessert that is sugar-free friendly. It is cooked to perfection on a hot stone plate.",
   "cuisine": "French",
   "diet": [
-    "sugar-free",
-    "gluten-free"
+    "sugar-free"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -93,5 +92,9 @@
     "mainIngredient": "plum",
     "descriptor": "Garlicky Gentle",
     "dishForm": "Souffle"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

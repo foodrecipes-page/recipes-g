@@ -42,7 +42,6 @@
   "difficulty": "medium",
   "tags": [
     "celery",
-    "halal",
     "japanese",
     "pilaf",
     "smoky"
@@ -70,5 +69,9 @@
     "mainIngredient": "Celery",
     "descriptor": "Shattering",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "This high-protein-friendly dish features gooey beef shin stir-fried with fermented sauces for a festive twist in the UK culinary tradition.",
   "cuisine": "British",
   "diet": [
-    "high-protein",
-    "gluten-free"
+    "high-protein"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -98,5 +97,9 @@
     "mainIngredient": "beef shin",
     "descriptor": "Fermented Gooey Festive",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

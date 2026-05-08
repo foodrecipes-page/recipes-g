@@ -60,7 +60,7 @@
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 0,
-  "totalTimeMin": 50,
+  "totalTimeMin": 20,
   "servings": 4,
   "difficulty": "easy",
   "tags": [
@@ -95,5 +95,9 @@
     "mainIngredient": "mixed berries",
     "descriptor": "Gently aerated",
     "dishForm": "Parfait"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

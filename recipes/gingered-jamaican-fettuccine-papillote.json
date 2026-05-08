@@ -4,8 +4,7 @@
   "cuisine": "Jamaican",
   "diet": [
     "pescatarian",
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -117,5 +116,9 @@
     "mainIngredient": "fettuccine",
     "descriptor": "Gingered",
     "dishForm": "Papillote"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

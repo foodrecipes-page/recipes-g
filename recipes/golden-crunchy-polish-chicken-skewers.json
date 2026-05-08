@@ -2,9 +2,7 @@
   "title": "Golden Crunchy Polish Chicken Skewers",
   "description": "Buttery and crunchy Polish dish perfect for a date night, featuring sour cream and a unique mushimono-steam cooking method",
   "cuisine": "Polish",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -55,7 +53,8 @@
     "Roll the chicken skewers in the plain breadcrumbs to coat",
     "Place the skewers on a wooden board and steam using the mushimono method for 10 minutes",
     "Bake the skewers in the preheated oven for 15 minutes, or until golden brown",
-    "Serve hot with a squeeze of lemon juice"
+    "Serve hot with a squeeze of lemon juice",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -93,5 +92,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Golden Crunchy",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-kosher",
+    "added-safety-poultry_no_temp"
+  ]
 }

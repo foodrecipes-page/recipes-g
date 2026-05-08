@@ -3,8 +3,6 @@
   "description": "A classic Greek dish featuring thinly sliced meat, served in a warm pita with crispy vegetables and a side of tangy tzatziki sauce. This meal-prep recipe is perfect for a quick and delicious lunch or dinner.",
   "cuisine": "Greek",
   "diet": [
-    "gluten-free",
-    "dairy-free",
     "high-protein"
   ],
   "meal": "lunch",
@@ -126,5 +124,10 @@
     "mainIngredient": "meat",
     "descriptor": "Gyro-Style",
     "dishForm": "Gyro"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free"
+  ]
 }

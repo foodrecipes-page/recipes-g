@@ -20,7 +20,9 @@
     "Add the soy sauce, fish sauce, and sriracha to the pan and stir to combine.",
     "Return the pickled vegetables to the pan and stir to combine.",
     "Add the wonton skins to the pan and fry until crispy and golden brown, about 2-3 minutes per side.",
-    "Drain the spring rolls on paper towels and serve hot on a stone plate."
+    "Drain the spring rolls on paper towels and serve hot on a stone plate.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -57,5 +59,10 @@
     "mainIngredient": "wonton",
     "descriptor": "garlicky crisp",
     "dishForm": "spring-rolls"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-preserving_no_acid"
+  ]
 }

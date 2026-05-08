@@ -2,9 +2,7 @@
   "title": "Goose Fat Knead Bliss",
   "description": "A unique and indulgent Australian dish combining umami flavors with a crispy texture, ideal for sick days or as a gluten-free treat.",
   "cuisine": "Australian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -53,7 +51,8 @@
     "Divide the mixture into small portions to shape them into balls or patties. These are your 'knead bliss.'",
     "In a frying pan, heat up the vegetable oil over medium-high heat.",
     "Once hot, add the knead bliss and cook for about 2 minutes on each side until golden brown and crispy.",
-    "Remove from heat and serve immediately with soy sauce drizzled over them to enhance the flavors."
+    "Remove from heat and serve immediately with soy sauce drizzled over them to enhance the flavors.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 8,
@@ -61,7 +60,6 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "gluten-free",
     "umami",
     "crispy",
     "sick-day-australian-dish"
@@ -85,5 +83,10 @@
     "primaryIngredient": "goose fat",
     "diet": "gluten-free",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

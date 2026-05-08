@@ -75,10 +75,8 @@
   "difficulty": "medium",
   "tags": [
     "breakfast",
-    "gluten-free",
     "lunch",
     "one-pan",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -104,5 +102,10 @@
     "mainIngredient": "injera",
     "descriptor": "garlicky gooey",
     "dishForm": "Dulet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

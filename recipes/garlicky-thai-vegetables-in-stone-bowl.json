@@ -52,9 +52,7 @@
   "difficulty": "medium",
   "tags": [
     "easy-meal-prep",
-    "thai-flavor",
-    "vegan",
-    "vegetarian"
+    "thai-flavor"
   ],
   "nutrition": {
     "calories": 520,
@@ -79,5 +77,10 @@
     "mainIngredient": "Vegetables",
     "descriptor": "Garlicky",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

@@ -48,7 +48,8 @@
     "Add salt, pepper, and vegetable stock to the pan, stir well to combine, then reduce the heat to low and let it simmer for 5 minutes.",
     "Fold in cream cheese until fully melted and smooth. Stir in pickled vegetables and basil leaves. Simmer gently for another 2-3 minutes.",
     "Garnish with red onion slices if using. Serve hot as a topping over sliced fish fillets, garnished with fresh herbs.",
-    "Serve immediately."
+    "Serve immediately.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 10,
@@ -80,5 +81,9 @@
     "primaryIngredient": "white fish",
     "diet": "plant-based",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

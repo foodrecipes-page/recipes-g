@@ -60,7 +60,8 @@
     "Add the chicken broth, salt, and black pepper, and bring to a boil.",
     "Cover the pot and transfer to the oven, where it will cook at 300 degrees Fahrenheit for 2.5 hours.",
     "Remove the pot from the oven and let it cool slightly before serving.",
-    "Serve the stew hot, garnished with fresh parsley or cilantro if desired."
+    "Serve the stew hot, garnished with fresh parsley or cilantro if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 150,
@@ -98,5 +99,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Gently spiced",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

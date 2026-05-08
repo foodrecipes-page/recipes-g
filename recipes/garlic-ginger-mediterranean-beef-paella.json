@@ -3,7 +3,6 @@
   "description": "A peppery, tender Mediterranean dish featuring beef, perfect for a quick weeknight meal.",
   "cuisine": "Mediterranean",
   "diet": [
-    "pescatarian",
     "beef"
   ],
   "meal": "dinner",
@@ -82,7 +81,8 @@
     "Add the rice and chicken broth to the steamer. Stir to combine.",
     "Bring the mixture to a boil, then reduce the heat to low and cover the steamer with a lid.",
     "Cook for 10-12 minutes, or until the rice is tender and the liquid has been absorbed.",
-    "Stir in the chopped parsley and lemon juice. Serve hot."
+    "Stir in the chopped parsley and lemon juice. Serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 12,
@@ -92,7 +92,6 @@
   "tags": [
     "mediterranean",
     "one-pan",
-    "pescatarian",
     "weeknight"
   ],
   "nutrition": {
@@ -118,5 +117,10 @@
     "mainIngredient": "beef",
     "descriptor": "garlic ginger",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

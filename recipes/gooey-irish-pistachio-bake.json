@@ -4,7 +4,6 @@
   "cuisine": "irish",
   "diet": [
     "high-protein",
-    "nut-free",
     "vegan"
   ],
   "meal": "dessert",
@@ -85,5 +84,9 @@
     "mainIngredient": "pistachio",
     "descriptor": "Gooey",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-nut-free"
+  ]
 }

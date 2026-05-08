@@ -2,9 +2,7 @@
   "title": "Garlicky Velvety Tunisian Eggplant Tagine",
   "description": "A rich and flavorful North African dish featuring roasted eggplant, a blend of spices, and a velvety texture.",
   "cuisine": "North African",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -92,7 +90,6 @@
     "north-african",
     "one-pan",
     "tagine",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -118,5 +115,9 @@
     "mainIngredient": "eggplant",
     "descriptor": "Garlicky Velvety",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

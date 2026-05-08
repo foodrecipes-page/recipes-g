@@ -3,8 +3,7 @@
   "description": "A flavorful and crunchy German wrap made with garlicky rye bread, tadka spices, and wrapped in a ti-leaf wrap, perfect for a satisfying snack or meal.",
   "cuisine": "German",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -84,7 +83,6 @@
     "crispy",
     "german",
     "snack",
-    "vegan",
     "wrap"
   ],
   "nutrition": {
@@ -110,5 +108,9 @@
     "mainIngredient": "rye bread",
     "descriptor": "garlicky crispy",
     "dishForm": "wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

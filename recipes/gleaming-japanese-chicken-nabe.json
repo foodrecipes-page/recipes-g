@@ -2,9 +2,7 @@
   "title": "Gleaming Japanese Chicken Nabe",
   "description": "A savory, glassy‑jelly chicken nabe that blends red curry paste and yuzu kosho, perfect for a romantic dinner.",
   "cuisine": "Japanese",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -52,7 +50,8 @@
     "Add soy sauce and stir to combine.",
     "Gently add the napa cabbage and shiitake mushrooms, simmer until vegetables are tender.",
     "Check temperature; ensure chicken reaches 75°C internal.",
-    "Serve hot, spooning the glossy sauce over each portion."
+    "Serve hot, spooning the glossy sauce over each portion.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -63,7 +62,6 @@
     "chicken",
     "comfort-food",
     "family-friendly",
-    "gluten-free",
     "nabe",
     "one-pan"
   ],
@@ -90,5 +88,10 @@
     "mainIngredient": "Chicken",
     "descriptor": "Gleaming",
     "dishForm": "Nabe"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

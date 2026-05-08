@@ -61,7 +61,8 @@
     "Add the Dutch stroop, chicken broth, thyme, salt, and black pepper, and stir to combine.",
     "Bring the mixture to a boil, then reduce the heat to low and simmer for 25 minutes.",
     "Stir in the glaze and continue to simmer for an additional 5 minutes.",
-    "Serve the stew hot, garnished with fresh herbs if desired."
+    "Serve the stew hot, garnished with fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -99,5 +100,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Glorious Golden",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

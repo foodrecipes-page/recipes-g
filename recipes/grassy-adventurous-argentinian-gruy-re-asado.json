@@ -39,7 +39,6 @@
     "cheese",
     "grilled",
     "gruyre",
-    "vegetarian",
     "wagyu"
   ],
   "nutrition": {
@@ -65,5 +64,9 @@
     "mainIngredient": "gruy re",
     "descriptor": "grassy adventurous",
     "dishForm": "Asado"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

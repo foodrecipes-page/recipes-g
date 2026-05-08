@@ -2,9 +2,7 @@
   "title": "Garlicky Crumbly Filipino Avocado Salad",
   "description": "A fresh, garlicky avocado salad with a tangy vinaigrette and crisp toasted cornflake crumbs, perfect for a light snack or side.",
   "cuisine": "Filipino",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -84,7 +82,6 @@
     "fruit",
     "light",
     "snack",
-    "vegetarian",
     "filipino"
   ],
   "nutrition": {
@@ -110,5 +107,9 @@
     "mainIngredient": "avocado",
     "descriptor": "Garlicky Crumbly",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

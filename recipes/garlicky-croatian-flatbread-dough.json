@@ -52,7 +52,7 @@
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
-  "totalTimeMin": 60,
+  "totalTimeMin": 40,
   "servings": 8,
   "difficulty": "easy",
   "tags": [
@@ -87,5 +87,9 @@
     "mainIngredient": "dough",
     "descriptor": "garlicky pillowy",
     "dishForm": "Flatbread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

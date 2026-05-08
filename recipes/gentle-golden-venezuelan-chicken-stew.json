@@ -3,7 +3,6 @@
   "description": "A comforting and creamy Venezuelan chicken stew featuring dried leaves of summer savory, perfect for a sick day, and made with a sweet and malty glaze that is sugar free friendly.",
   "cuisine": "Venezuelan",
   "diet": [
-    "gluten-free",
     "sugar-free"
   ],
   "meal": "dinner",
@@ -71,7 +70,6 @@
   "tags": [
     "chicken-stew",
     "comfort-food",
-    "gluten-free",
     "latin-american",
     "one-pot",
     "sugar-free"
@@ -99,5 +97,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Gentle Golden",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

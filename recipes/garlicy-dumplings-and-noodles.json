@@ -47,7 +47,8 @@
     "Gradually add meat to the sauce while breaking into smaller pieces. Cook until meat is almost done.",
     "Stir in salt and palm sugar/honey, taste and adjust seasoning if necessary.",
     "Pour mixture over rice noodles or use them as wrappers for dumplings.",
-    "Cook dumplings by steaming or frying (if using wrappers) until golden brown on the outside."
+    "Cook dumplings by steaming or frying (if using wrappers) until golden brown on the outside.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -79,5 +80,9 @@
     "primaryIngredient": "rice noodles",
     "diet": "dash",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

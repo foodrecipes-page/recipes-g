@@ -26,7 +26,8 @@
     "Add high-protein-friendly ingredient and mix well.",
     "Transfer mixture into an oven-safe dish, spreading evenly.",
     "Bake for 20 minutes or until the edges are golden brown.",
-    "Let it cool slightly before serving."
+    "Let it cool slightly before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -63,5 +64,9 @@
     "mainIngredient": "Summer Savoury Leaves",
     "descriptor": "GZesty",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

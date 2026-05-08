@@ -2,9 +2,7 @@
   "title": "Gluten-free-friendly Argentinian Semolina Stir-fry",
   "description": "A herbal and dense crowd-pleaser from Argentina featuring gluten-free semolina that is perfectly cooked through a simmering process.",
   "cuisine": "Argentinean",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -65,5 +63,9 @@
     "mainIngredient": "Semolina",
     "descriptor": "Gluten-free-friendly",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

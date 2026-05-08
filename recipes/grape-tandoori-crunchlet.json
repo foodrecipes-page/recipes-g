@@ -3,7 +3,6 @@
   "description": "A nutty and crunchy Korean-inspired dish featuring grape juice as the star ingredient, perfect for a solo dinner or light meal.",
   "cuisine": "Korean",
   "diet": [
-    "vegan",
     "dairy-free"
   ],
   "meal": "snack",
@@ -74,5 +73,9 @@
     "primaryIngredient": "grape juice",
     "diet": "dairy-free",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

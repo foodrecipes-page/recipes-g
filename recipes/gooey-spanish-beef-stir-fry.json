@@ -59,7 +59,8 @@
     "Pour in tomato paste and stir continuously for about 1 minute. It will thicken quickly so keep an eye on it.",
     "Gradually add Bhuna Sauce, stirring constantly while cooking until slightly reduced and thickened (about 5 minutes).",
     "Stir in Vegan Cream Cheese, continuing to mix well until the sauce is creamy and evenly coated with cheese.",
-    "Serve hot as a main dish or use for meal prepping. Store any leftover in an airtight container in the fridge."
+    "Serve hot as a main dish or use for meal prepping. Store any leftover in an airtight container in the fridge.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -95,5 +96,9 @@
     "mainIngredient": "beef",
     "descriptor": "Gooey",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

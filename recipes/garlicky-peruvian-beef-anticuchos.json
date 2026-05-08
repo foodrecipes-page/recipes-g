@@ -2,9 +2,7 @@
   "title": "Garlicky Peruvian Beef Anticuchos",
   "description": "A simple, weeknight-friendly Peruvian dish featuring beef anticuchos with a garlicky yuzu-cure. Perfect for a dinner or lunch option.",
   "cuisine": "Peruvian",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -102,5 +100,9 @@
     "mainIngredient": "beef",
     "descriptor": "Garlicky",
     "dishForm": "Anticuchos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

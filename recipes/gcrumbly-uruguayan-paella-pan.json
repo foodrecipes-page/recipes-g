@@ -42,7 +42,8 @@
     "Heat broth in a paella-pan over medium heat.",
     "Add guanciale, saffron, and red pepper flakes; stir for 5 minutes.",
     "Chop onion and zucchini. Add to the pan with garlic and basil leaves; cook until softened.",
-    "Garnish with additional herbs and serve warm."
+    "Garnish with additional herbs and serve warm.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 45,
@@ -79,5 +80,9 @@
     "mainIngredient": "guanciale",
     "descriptor": "Crumbly",
     "dishForm": "Paella-pan Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

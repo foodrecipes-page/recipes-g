@@ -71,7 +71,8 @@
     "Add coconut milk and sour cream. Bring the mixture to a simmer and cook for 2-3 minutes, until slightly thickened.",
     "To assemble the dish, place a cooked corn tortilla on a banana leaf. Spoon the tinola filling over the tortilla. Top with chopped cilantro, sliced green onions, and a sprinkle of salt.",
     "Fold the banana leaf over the tortilla to enclose the filling.",
-    "Serve immediately and enjoy!"
+    "Serve immediately and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -82,7 +83,6 @@
     "breakfast-ish",
     "filipino",
     "one-pan",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -108,5 +108,10 @@
     "mainIngredient": "corn tortillas",
     "descriptor": "Gingery Mustardy Crunchy",
     "dishForm": "Tinola-Style Filled Tortillas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

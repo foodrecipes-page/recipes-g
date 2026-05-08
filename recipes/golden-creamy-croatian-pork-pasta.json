@@ -3,8 +3,7 @@
   "description": "A rich and creamy Croatian dish featuring pork, pasta, and a hint of wine, made with strong white bread flour and a mantecare emulsification method, perfect for a weeknight dinner",
   "cuisine": "Croatian",
   "diet": [
-    "low-fodmap",
-    "gluten-free"
+    "low-fodmap"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -59,7 +58,9 @@
     "Bring the wine mixture to a simmer and cook until reduced by half, then add the chicken broth and heavy cream to the skillet",
     "Return the pork to the skillet and stir to coat with the cream sauce",
     "Reduce the heat to low and simmer the sauce for 5 minutes, stirring occasionally",
-    "Stir in the dried parsley, salt, and black pepper, then serve the pork and sauce over the cooked pappardelle pasta"
+    "Stir in the dried parsley, salt, and black pepper, then serve the pork and sauce over the cooked pappardelle pasta",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -97,5 +98,11 @@
     "mainIngredient": "pork",
     "descriptor": "Golden Creamy",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp",
+    "added-safety-pork_no_temp"
+  ]
 }

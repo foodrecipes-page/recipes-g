@@ -55,14 +55,15 @@
     }
   ],
   "instructions": [
-    "Preheat the oven to 400\u00b0F (200\u00b0C).",
+    "Preheat the oven to 400°F (200°C).",
     "Toss the diced yams with 2 tablespoons of olive oil, salt, and black pepper on a baking sheet. Roast for 20-25 minutes, or until tender.",
     "In a large skillet, caramelize the onions over medium heat for 20-25 minutes, stirring occasionally.",
     "Add the minced garlic and diced scotch bonnet peppers to the skillet and cook for an additional 2-3 minutes.",
     "Stir in the brown sugar, pickle relish, and roasted yams. Cook for 2-3 minutes, until the mixture is well combined.",
     "Using a spatula, shape the mixture into a hash shape and cook for an additional 2-3 minutes, until the bottom is crispy and golden brown.",
     "Flip the hash and cook for an additional 2-3 minutes, until the other side is also crispy and golden brown.",
-    "Serve the Garlicky Gooey Jamaican Yam Hash hot, garnished with chopped fresh cilantro."
+    "Serve the Garlicky Gooey Jamaican Yam Hash hot, garnished with chopped fresh cilantro.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -101,5 +102,9 @@
     "mainIngredient": "yams",
     "descriptor": "garlicky gooey",
     "dishForm": "Hash"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

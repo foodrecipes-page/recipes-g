@@ -2,9 +2,7 @@
   "title": "Gently Grilled Syrian Orange Ice Cream Gratin",
   "description": "A citrusy and fluffy Syrian dessert featuring ice cream, grilled to perfection in individual mini cocottes, vegan friendly.",
   "cuisine": "Syrian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -63,8 +61,7 @@
     "dessert",
     "grilled",
     "orange",
-    "syrian",
-    "vegan"
+    "syrian"
   ],
   "nutrition": {
     "calories": 320,
@@ -89,5 +86,9 @@
     "mainIngredient": "oranges",
     "descriptor": "Gently Grilled",
     "dishForm": "Gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

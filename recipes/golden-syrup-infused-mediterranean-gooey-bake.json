@@ -3,8 +3,7 @@
   "description": "A sweet and savory, gooey, wood-fired-bake featuring the unique flavor of golden syrup, inspired by the Mediterranean diet.",
   "cuisine": "mediterranean",
   "diet": [
-    "nut-free",
-    "gluten-free"
+    "nut-free"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -120,5 +119,9 @@
     "mainIngredient": "gooey",
     "descriptor": "golden syrup infused",
     "dishForm": "bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

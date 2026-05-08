@@ -47,7 +47,8 @@
     "Add garlic, cook for about 30 seconds or until fragrant but not browned.",
     "Pour in the low-sodium vegetable broth and soy sauce, stir to combine.",
     "Simmer for 5 minutes to reduce slightly. Season with sea salt to taste.",
-    "Stir in quinoa and parsley, mix well to coat evenly. Serve warm."
+    "Stir in quinoa and parsley, mix well to coat evenly. Serve warm.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -84,5 +85,9 @@
     "mainIngredient": "Garlic",
     "descriptor": "Garlicky",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

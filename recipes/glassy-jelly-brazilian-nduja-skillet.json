@@ -78,7 +78,6 @@
   "tags": [
     "brazilian",
     "comfort-food",
-    "gluten-free",
     "high-protein",
     "one-pan",
     "plant-based",
@@ -107,5 +106,9 @@
     "mainIngredient": "nduja",
     "descriptor": "Glassy-jelly",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

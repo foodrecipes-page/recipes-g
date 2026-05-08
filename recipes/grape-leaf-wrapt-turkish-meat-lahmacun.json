@@ -64,7 +64,8 @@
     "Preheat oven to 375°F (190°C).",
     "In a large skillet, heat 1 tablespoon of olive oil over medium-high heat.",
     "Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
-    "Add the onion, garlic, tomato paste, salt, black pepper, and red pepper flakes to the skillet and cook until the onion is translucent."
+    "Add the onion, garlic, tomato paste, salt, black pepper, and red pepper flakes to the skillet and cook until the onion is translucent.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -102,5 +103,9 @@
     "mainIngredient": "Meat",
     "descriptor": "Grape-Leaf Wrapt",
     "dishForm": "Lahmacun"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

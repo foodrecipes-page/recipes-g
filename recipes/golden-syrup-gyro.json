@@ -2,9 +2,7 @@
   "title": "Golden Syrup Gyro",
   "description": "A cozy Greek dish featuring a crispy golden gyro with the sweetness of golden syrup, perfect for adding a unique twist to your meals.",
   "cuisine": "Greek",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -49,7 +47,8 @@
     "calories: 450",
     "protein: 27g",
     "carbs: 43g",
-    "fat: 18g"
+    "fat: 18g",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "slug": "golden-syrup-gyro",
   "source": "ollama-qwen2.5:3b",
@@ -79,5 +78,10 @@
   "tags": [
     "greek",
     "lunch"
+  ],
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
   ]
 }

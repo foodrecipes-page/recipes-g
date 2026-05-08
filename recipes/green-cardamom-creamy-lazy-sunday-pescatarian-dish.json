@@ -2,9 +2,7 @@
   "title": "Green Cardamom Creamy Lazy Sunday Pescatarian Dish",
   "description": "A velvety and sour mexican-inspired dish featuring green cardamom pods for a unique twist, perfect for a lazy Sunday pescatarian meal.",
   "cuisine": "Mexican",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -45,7 +43,8 @@
     "Crush the green cardamom pods.",
     "Combine chicken broth, heavy cream, crushed green cardamom, cilantro, lemon juice, red pepper flakes, and garam masala in a pot. Bring to a simmer over medium heat.",
     "Stir occasionally until thickened and creamy, about 15-20 minutes.",
-    "Turn off the heat and serve warm."
+    "Turn off the heat and serve warm.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -57,8 +56,7 @@
     "sour",
     "velvety",
     "mexican",
-    "green-cardamom",
-    "pescatarian"
+    "green-cardamom"
   ],
   "nutrition": {
     "calories": 350,
@@ -79,5 +77,10 @@
     "primaryIngredient": "green cardamom pods",
     "diet": "pescatarian",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

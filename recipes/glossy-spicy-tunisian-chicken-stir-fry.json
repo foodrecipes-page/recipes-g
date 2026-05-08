@@ -59,7 +59,8 @@
     "Add the chicken broth, lemon juice, and pomegranate molasses to the skillet and bring to a boil.",
     "Reduce the heat to low and simmer, covered, for 20 minutes or until the rice is tender.",
     "Stir in the salt and black pepper.",
-    "Garnish with chopped fresh parsley and serve hot."
+    "Garnish with chopped fresh parsley and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -97,5 +98,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Glossy Spicy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

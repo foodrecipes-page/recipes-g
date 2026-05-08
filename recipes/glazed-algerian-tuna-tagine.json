@@ -2,9 +2,7 @@
   "title": "Glazed Algerian Tuna Tagine",
   "description": "A nutty, silky, and adventurous Algerian tagine that marries smoky tuna with a spicy madras paste and caramelized cashew lardons for a pescatarian feast.",
   "cuisine": "Algerian",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -88,7 +86,6 @@
     "couscous",
     "glazed",
     "nutty",
-    "pescatarian",
     "seafood",
     "tagine"
   ],
@@ -115,5 +112,9 @@
     "mainIngredient": "tuna",
     "descriptor": "Glazed",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

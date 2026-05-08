@@ -53,7 +53,8 @@
     "Preheat the oven to 400°F (200°C).",
     "Roll out the puff pastry to a thickness of 1/8 inch.",
     "In a pan over medium heat, cook the ground beef until browned, breaking it up into small pieces as it cooks.",
-    "Add the chopped onion and minced garlic to the pan, cooking until the onion is translucent."
+    "Add the chopped onion and minced garlic to the pan, cooking until the onion is translucent.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -90,5 +91,9 @@
     "mainIngredient": "beef",
     "descriptor": "gooey",
     "dishForm": "puff"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

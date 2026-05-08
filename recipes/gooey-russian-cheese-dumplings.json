@@ -58,7 +58,8 @@
     "Place a heaping teaspoon of the cheese mixture on the center of each wonton skin. Fold the skin into a triangle and press the edges together, dipping the seam in beaten egg to seal.",
     "Heat the butter in a large skillet over medium heat; add the sealed dumplings and fry for about 2 minutes on each side until lightly browned.",
     "Add the chicken broth to the skillet, bring to a gentle simmer, then cover and cook for 5‑6 minutes, or until the dumplings float to the surface and the cheese is fully melted and gooey.",
-    "Remove the skillet from heat, ladle the dumplings into bowls, and garnish with chopped fresh parsley if desired. Serve hot and enjoy!"
+    "Remove the skillet from heat, ladle the dumplings into bowls, and garnish with chopped fresh parsley if desired. Serve hot and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 10,
@@ -97,5 +98,9 @@
     "mainIngredient": "Cheese",
     "descriptor": "Gooey",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

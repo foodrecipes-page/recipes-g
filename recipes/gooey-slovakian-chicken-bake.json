@@ -2,10 +2,7 @@
   "title": "Gooey Slovakian Chicken Bake",
   "description": "A spicy, crispy Slovakian dish featuring chicken stock cube, en-croute, plant-based-friendly. Perfect for a lazy Sunday.",
   "cuisine": "slovakian",
-  "diet": [
-    "vegetarian",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -79,7 +76,8 @@
     "Pour the cheese mixture evenly over the chicken breasts. ",
     "Cover the baking dish with aluminum foil and bake for 20 minutes.",
     "Remove the foil and continue baking for an additional 10-12 minutes, or until the cheese is melted and bubbly.",
-    "Garnish with fresh parsley and serve hot."
+    "Garnish with fresh parsley and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -118,5 +116,11 @@
     "mainIngredient": "Chicken",
     "descriptor": "Gooey",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

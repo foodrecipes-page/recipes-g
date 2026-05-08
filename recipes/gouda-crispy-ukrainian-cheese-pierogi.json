@@ -3,8 +3,7 @@
   "description": "Rich and crispy pierogi filled with a creamy Gouda cheese and perfect for a Ukrainian-inspired dinner. This recipe uses a mortar and pestle to pound the dough to achieve the perfect texture.",
   "cuisine": "Ukrainian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -92,5 +91,9 @@
     "mainIngredient": "Cheese",
     "descriptor": "Gouda Crispy",
     "dishForm": "Pierogi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

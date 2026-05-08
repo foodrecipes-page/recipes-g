@@ -3,7 +3,6 @@
   "description": "A vegan-friendly, herbal, and crisp Greek dish featuring oysters in a spanakopita form, utilizing sous-vide cooking for a tender and light texture. This dish is perfect for a special occasion or a unique dinner party.",
   "cuisine": "Greek",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -101,5 +100,9 @@
     "mainIngredient": "oysters",
     "descriptor": "Gentle Crisp",
     "dishForm": "Spanakopita"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

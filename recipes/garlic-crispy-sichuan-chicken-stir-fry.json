@@ -4,7 +4,6 @@
   "cuisine": "Sichuan Chinese",
   "diet": [
     "high-protein",
-    "gluten-free",
     "low-carb"
   ],
   "meal": "lunch",
@@ -73,14 +72,15 @@
   "instructions": [
     "Toss chicken pieces in cornstarch until fully coated; shake off excess.",
     "Heat 1 tbsp of vegetable oil in a wok or large skillet over medium-high heat. Fry the coated chicken until golden and crispy, about 4-5 minutes. Remove and set aside.",
-    "In the same wok, add the remaining oil and reduce to 1 tbsp. Saut\u00e9 minced garlic and ginger for 30 seconds until fragrant.",
+    "In the same wok, add the remaining oil and reduce to 1 tbsp. Sauté minced garlic and ginger for 30 seconds until fragrant.",
     "Add chili bean paste and Szechuan peppercorn powder; stir for another 30 seconds to bloom the spices.",
     "Pour in coconut cream, soy sauce, and 2 tbsp water to thin the sauce. Bring to a gentle simmer.",
     "Let the sauce thicken, about 2-3 minutes, stirring occasionally.",
     "Return the crispy chicken to the wok; toss to coat evenly with the sauce and cook for 2 more minutes to heat through.",
     "Add sliced green onions and drizzle sesame oil, cooking for an additional 30 seconds.",
     "Taste the sauce; adjust salt or soy sauce if needed.",
-    "Serve hot over cauliflower rice or steamed broccoli for a low-carb option. Enjoy!"
+    "Serve hot over cauliflower rice or steamed broccoli for a low-carb option. Enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 15,
@@ -95,7 +95,6 @@
     "high-protein",
     "post-workout",
     "coconut-cream",
-    "gluten-free",
     "low-carb"
   ],
   "nutrition": {
@@ -121,5 +120,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Garlic Crispy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

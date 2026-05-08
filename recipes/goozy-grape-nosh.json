@@ -3,7 +3,6 @@
   "description": "A citrusy, gooey Canadian dish featuring grape nut cereal, whipped coconut cream, and a touch of honey for a delightful snack or dessert.",
   "cuisine": "Canadian",
   "diet": [
-    "vegan",
     "jain-friendly"
   ],
   "meal": "snack",
@@ -65,5 +64,9 @@
     "primaryIngredient": "grape nut cereal",
     "diet": "jain",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

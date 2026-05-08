@@ -58,7 +58,8 @@
     "Place the terrine in a baking dish and bake for 25 minutes.",
     "Let the terrine cool to room temperature before serving.",
     "Slice the terrine into 1 inch thick slices and serve.",
-    "Garnish with additional pickled pink peppercorns and thyme if desired."
+    "Garnish with additional pickled pink peppercorns and thyme if desired.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 25,
@@ -96,5 +97,9 @@
     "mainIngredient": "foie gras",
     "descriptor": "Gourmet Festive",
     "dishForm": "Terrine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

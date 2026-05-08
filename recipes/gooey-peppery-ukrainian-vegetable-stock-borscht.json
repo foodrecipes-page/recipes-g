@@ -75,7 +75,8 @@
     "Season with salt to taste.",
     "Serve hot, garnished with fresh herbs if desired.",
     "Note: This recipe makes about 6 servings, so feel free to adjust the ingredient quantities as needed.",
-    "Note: If using a store-bought broth, you may want to add a teaspoon of tomato paste to give it a richer flavor."
+    "Note: If using a store-bought broth, you may want to add a teaspoon of tomato paste to give it a richer flavor.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -112,5 +113,9 @@
     "mainIngredient": "vegetable stock",
     "descriptor": "Gooey peppery",
     "dishForm": "Borscht"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

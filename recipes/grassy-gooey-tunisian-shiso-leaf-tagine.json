@@ -76,7 +76,8 @@
     "Serve the tagine hot, garnished with additional shiso leaves and beurre monte, if desired.",
     "Let the tagine cool to room temperature before refrigerating or freezing it, if desired.",
     "When reheating the tagine, add a little water if the sauce has thickened too much, or a little beurre monte if it has broken.",
-    "Serve the tagine over couscous or with crusty bread, and enjoy!"
+    "Serve the tagine over couscous or with crusty bread, and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 45,
@@ -115,5 +116,9 @@
     "mainIngredient": "shiso-leaf",
     "descriptor": "grassy gooey",
     "dishForm": "tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

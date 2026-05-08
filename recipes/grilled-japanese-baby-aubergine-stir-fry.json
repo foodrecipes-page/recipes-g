@@ -3,8 +3,7 @@
   "description": "A tangy and tender Japanese dish featuring grilled baby aubergines, perfect for a light meal or snack. This recipe is both delicious and healthy, with its low-carb nature making it suitable for various dietary needs.",
   "cuisine": "Japanese",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "snack",
   "ingredients": [
@@ -76,5 +75,9 @@
     "mainIngredient": "Baby Aubergine",
     "descriptor": "Grilled",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

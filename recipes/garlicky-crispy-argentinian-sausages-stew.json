@@ -2,9 +2,7 @@
   "title": "Garlicky Crispy Argentinian Sausages Stew",
   "description": "A hearty onepot stew featuring halal beef sausages, roasted tomatoes, and a garlicky broth, finished with a crisp sear for a satisfying crunch.",
   "cuisine": "Argentinian",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -54,7 +52,7 @@
     },
     {
       "name": "Chili flakes",
-      "amount": "\u00bd teaspoon",
+      "amount": "½ teaspoon",
       "notes": "optional"
     },
     {
@@ -72,15 +70,15 @@
     }
   ],
   "instructions": [
-    "Turn on the saut\u00e9 function of the pressure cooker and add the olive oil.",
+    "Turn on the sauté function of the pressure cooker and add the olive oil.",
     "Add the sliced sausages and brown them on all sides, then remove and set aside.",
-    "In the same pot, add the diced onion and saut\u00e9 until translucent, about 3 minutes.",
+    "In the same pot, add the diced onion and sauté until translucent, about 3 minutes.",
     "Add the minced garlic and diced red bell pepper, cooking for an additional minute until fragrant.",
     "Stir in the cubed potatoes, canned tomatoes, beef broth, smoked paprika, dried oregano, chili flakes, salt, and pepper.",
     "Add the browned sausage pieces back into the pot and give everything a good stir.",
     "Seal the pressure cooker lid and cook on high pressure for 6 minutes.",
-    "Quick\u2011release the pressure, then open the lid and switch to saut\u00e9 mode, simmering for 5 minutes to thicken the stew slightly.",
-    "While the stew is simmering, heat a small skillet over medium heat and sear the sausages until they are crisp and golden on the outside, about 2\u20133 minutes per side.",
+    "Quick‑release the pressure, then open the lid and switch to sauté mode, simmering for 5 minutes to thicken the stew slightly.",
+    "While the stew is simmering, heat a small skillet over medium heat and sear the sausages until they are crisp and golden on the outside, about 2–3 minutes per side.",
     "Return the crispy sausages to the stew, stir to combine, and let heat through for 2 minutes.",
     "Serve hot, garnished with chopped fresh parsley."
   ],
@@ -122,5 +120,9 @@
     "mainIngredient": "sausages",
     "descriptor": "Garlicky Crispy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

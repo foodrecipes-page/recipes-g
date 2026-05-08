@@ -57,7 +57,8 @@
     "Stir in orange zest and zested portion of oranges. Sauté for about 1 minute, allowing the zest to infuse with flavors.",
     "Pour in glutathione powder or liquid glutathione, soy sauce, coconut sugar, and rice vinegar; stir well until mixture is smooth.",
     "Gently add diced chicken breast pieces and broccoli florets. Stir-fry for an additional 5 minutes.",
-    "Remove from heat and serve the dish over cooked noodles or as a side to grilled meats. Garnish with chopped green onions before serving."
+    "Remove from heat and serve the dish over cooked noodles or as a side to grilled meats. Garnish with chopped green onions before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -65,7 +66,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "citrusy",
     "spicy"
   ],
@@ -92,5 +92,10 @@
     "mainIngredient": "Citrus Peel",
     "descriptor": "Gooey Spicy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

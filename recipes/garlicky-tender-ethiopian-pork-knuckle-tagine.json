@@ -74,7 +74,8 @@
     "Remove the pot from the oven and let it cool slightly. Stir in the fresh cilantro.",
     "Serve the pork knuckle with the juices spooned over the top.",
     "Let the dish rest for 10 minutes before serving.",
-    "Slice the pork knuckle into thick slices and serve hot with the juices spooned over the top."
+    "Slice the pork knuckle into thick slices and serve hot with the juices spooned over the top.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 160,
@@ -111,5 +112,9 @@
     "mainIngredient": "pork knuckle",
     "descriptor": "garlicky tender",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

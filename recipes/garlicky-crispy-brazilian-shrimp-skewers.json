@@ -3,8 +3,7 @@
   "description": "A flavorful and crispy shrimp dish from Brazil, perfect for a hangover cure. This keto-friendly recipe features a tasty marinade and a side of couscous.",
   "cuisine": "Brazilian",
   "diet": [
-    "keto-friendly",
-    "gluten-free"
+    "keto-friendly"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -91,7 +90,6 @@
     "garlic",
     "couscous",
     "keto-friendly",
-    "gluten-free",
     "grill",
     "seafood"
   ],
@@ -112,11 +110,16 @@
     "mood": "hangover-cure",
     "technique": "marinate",
     "primaryIngredient": "couscous",
-    "diet": "keto",
+    "diet": "keto-friendly",
     "region": null,
     "cuisineAdjective": "Brazilian",
     "mainIngredient": "shrimp",
     "descriptor": "garlicky, crispy",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "aligned-axes-diet"
+  ]
 }

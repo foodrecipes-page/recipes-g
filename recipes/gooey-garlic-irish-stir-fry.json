@@ -48,7 +48,8 @@
     "Fold in marinated grilled chicken or steak slices, ensuring they are coated with the garlic mixture.",
     "Pour in red wine vinegar and brown sugar; stir well to combine. Cook for another 3-5 minutes until thickened slightly.",
     "Season with salt and pepper if needed.",
-    "Serve hot as a post-workout snack."
+    "Serve hot as a post-workout snack.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -84,5 +85,9 @@
     "mainIngredient": "Garlic",
     "descriptor": "Gooey",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

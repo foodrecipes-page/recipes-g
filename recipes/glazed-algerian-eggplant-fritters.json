@@ -2,10 +2,7 @@
   "title": "Glazed Algerian Eggplant Fritters",
   "description": "Crispy, aerated fritters of diced eggplant bound with chickpea flour and flaxseed, finished with a sharp white vinegar glaze.",
   "cuisine": "Algerian",
-  "diet": [
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -75,10 +72,8 @@
   "tags": [
     "deep-fry",
     "easy",
-    "gluten-free",
     "quick",
-    "snack",
-    "vegan"
+    "snack"
   ],
   "nutrition": {
     "calories": 190,
@@ -103,5 +98,10 @@
     "mainIngredient": "eggplant",
     "descriptor": "Glazed",
     "dishForm": "Fritters"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

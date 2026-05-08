@@ -2,9 +2,7 @@
   "title": "Golden Crispy Chinese Cherry Tomatoes Jiaozi",
   "description": "A halal-friendly Chinese dish featuring crispy jiaozi filled with cherry tomatoes and served with a savory umami sauce, perfect for a rainy day. The al-dente finish of the cherry tomatoes adds a delightful texture to the dish.",
   "cuisine": "Chinese",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -91,5 +89,9 @@
     "mainIngredient": "cherry tomatoes",
     "descriptor": "Golden Crispy",
     "dishForm": "Jiaozi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

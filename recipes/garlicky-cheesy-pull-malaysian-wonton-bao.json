@@ -62,7 +62,8 @@
     "Top each wonton skin with a tablespoon of low-fat mozzarella cheese and a few slices of scallion.",
     "Bake the wonton bao in the preheated oven for 10-12 minutes, or until the cheese is melted and the wonton skin is crispy.",
     "Remove the wonton bao from the oven and let them cool for a few minutes.",
-    "Serve the garlicky cheesy pull Malaysian wonton bao hot, garnished with additional scallions if desired."
+    "Serve the garlicky cheesy pull Malaysian wonton bao hot, garnished with additional scallions if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 12,
@@ -101,5 +102,9 @@
     "mainIngredient": "Wonton",
     "descriptor": "Garlicky Cheesy Pull",
     "dishForm": "Bao"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

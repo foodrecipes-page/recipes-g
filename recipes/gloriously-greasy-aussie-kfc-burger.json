@@ -83,7 +83,8 @@
     "consider making a side of fries or sweet potato fries for a complete meal.",
     "do not overcrowd the skillet when cooking the burgers, cook in batches if necessary.",
     "be careful when working with hot oil and sharp objects.",
-    "have fun and enjoy your delicious Gloriously Greasy Aussie KFC Burger!"
+    "have fun and enjoy your delicious Gloriously Greasy Aussie KFC Burger!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 12,
@@ -121,5 +122,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Gloriously Greasy",
     "dishForm": "Burger"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

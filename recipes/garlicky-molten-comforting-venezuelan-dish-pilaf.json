@@ -66,7 +66,8 @@
     "Transfer the mixture to a 9x13 inch baking dish and smooth the top.",
     "Dust the top with icing sugar and use a kitchen torch to caramelize the sugar.",
     "Cover the dish with plastic wrap and refrigerate for at least 2 hours or overnight.",
-    "To serve, use a spoon to create a hole in the center of the pilaf and serve with a side of salsa or guacamole."
+    "To serve, use a spoon to create a hole in the center of the pilaf and serve with a side of salsa or guacamole.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -103,5 +104,9 @@
     "mainIngredient": "dish",
     "descriptor": "garlicky molten comforting",
     "dishForm": "pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A fusion dish of traditional Saudi flavors with Mexican quesadilla, featuring a glassy jelly made with pomegranate molasses and a crispy lamination puff pastry.",
   "cuisine": "Saudi Arabic, Mexican",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "breakfast",
@@ -76,7 +75,6 @@
   "tags": [
     "breakfast",
     "brunch",
-    "dairy-free",
     "mexican-fusion",
     "saudi-arabian",
     "vegetarian"
@@ -104,5 +102,9 @@
     "mainIngredient": "Tofu",
     "descriptor": "Glassy-jelly",
     "dishForm": "Quesadilla"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

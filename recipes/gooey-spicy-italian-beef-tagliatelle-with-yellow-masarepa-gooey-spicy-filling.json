@@ -3,7 +3,6 @@
   "description": "A spicy and gooey Italian dish made with yellow masarepa, rest-meat, and tagliatelle, perfect for a quick weeknight dinner.",
   "cuisine": "italian",
   "diet": [
-    "vegan",
     "gluten-free",
     "macrobiotic-friendly"
   ],
@@ -114,5 +113,9 @@
     "mainIngredient": "beef",
     "descriptor": "Gooey Spicy",
     "dishForm": "Tagliatelle with Yellow Masarepa Gooey Spicy Filling"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

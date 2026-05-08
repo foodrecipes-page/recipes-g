@@ -50,7 +50,8 @@
     "Add the chicken stock to the pan and stir to combine with the aromatics. Bring to a simmer and let it cook for about 3 minutes.",
     "Return the chicken to the pan and toss well to coat evenly in the liquid, letting the flavors meld together.",
     "Stir in sugar until dissolved, and squeeze in the lime juice if using. Taste and adjust seasoning as needed.",
-    "Spoon the stir-fry onto a plate, garnish with chopped scallions, and serve immediately."
+    "Spoon the stir-fry onto a plate, garnish with chopped scallions, and serve immediately.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -87,5 +88,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Garlicky",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

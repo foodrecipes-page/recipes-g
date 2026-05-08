@@ -50,7 +50,8 @@
     "Heat a skillet over medium heat. Add asparagus, onion, and garlic, cooking until the vegetables are tender but still crisp.",
     "Stir in parsley, lemon juice, salt, and pepper. Mix well to combine.",
     "Fold in almonds and pine nuts. Cook for an additional minute or two until heated through and all ingredients are evenly distributed.",
-    "Serve warm as a side dish with grilled chicken or fish."
+    "Serve warm as a side dish with grilled chicken or fish.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -85,5 +86,9 @@
     "mainIngredient": "white asparagus",
     "descriptor": "Gooey",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

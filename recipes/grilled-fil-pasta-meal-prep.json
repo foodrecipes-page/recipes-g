@@ -3,7 +3,6 @@
   "description": "A rich and flaky Filipino dish featuring bowtie pasta grilled to perfection with a nut-free-friendly twist for meal prep.",
   "cuisine": "Filipino",
   "diet": [
-    "gluten-free",
     "nut-free"
   ],
   "meal": "dinner",
@@ -48,7 +47,6 @@
     "grilled",
     "filipino",
     "meal-prep",
-    "gluten-free",
     "nut-free"
   ],
   "nutrition": {
@@ -74,5 +72,9 @@
     "mainIngredient": "Bowtie Pasta",
     "descriptor": "Grilled",
     "dishForm": "Meal-Prep"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

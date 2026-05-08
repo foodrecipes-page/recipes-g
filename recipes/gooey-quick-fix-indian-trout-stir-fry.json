@@ -2,9 +2,7 @@
   "title": "Gooey Quick Fix Indian Trout Stir-fry",
   "description": "A quick and easy vegan-friendly dish featuring bitter greens like mustard or arugula for added texture and flavor in a gooey, spicy stir-fry with trout.",
   "cuisine": "Indian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -46,7 +44,6 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "vegan",
     "quick-fix",
     "indian",
     "stir-fry",
@@ -75,5 +72,9 @@
     "mainIngredient": "Trout",
     "descriptor": "Gooey Quick Fix",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

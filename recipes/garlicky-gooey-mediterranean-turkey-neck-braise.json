@@ -75,7 +75,8 @@
     "Braise the turkey necks for 2 hours, or until tender and falling off the bone.",
     "Remove the pot from the oven and stir in the fresh parsley.",
     "Serve the turkey necks and sauce over rice or noodles.",
-    "Note: To make garlic-infused lemon juice, combine 1 cup of lemon juice with 4 cloves of minced garlic in a small bowl. Let sit at room temperature for at least 30 minutes to allow the garlic to infuse into the lemon juice."
+    "Note: To make garlic-infused lemon juice, combine 1 cup of lemon juice with 4 cloves of minced garlic in a small bowl. Let sit at room temperature for at least 30 minutes to allow the garlic to infuse into the lemon juice.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 120,
@@ -113,5 +114,9 @@
     "mainIngredient": "Turkey Neck",
     "descriptor": "Garlicky Gooey",
     "dishForm": "Braise"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

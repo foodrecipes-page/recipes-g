@@ -48,12 +48,13 @@
   ],
   "instructions": [
     "Heat the butter in a large skillet over medium heat.",
-    "Add minced garlic and saut\u00e9 for about 2 minutes until fragrant.",
+    "Add minced garlic and sauté for about 2 minutes until fragrant.",
     "Stir in finely chopped onions and cook until translucent, about 5 minutes.",
     "Fold in diced tomatoes along with chicken or vegetable broth. Simmer for about 10 minutes to allow flavors to meld.",
     "Sprinkle garam masala, cumin seeds, a pinch of cayenne pepper (if using), salt, and pepper over the mixture.",
     "Reduce heat to low and let cook for another 25-30 minutes until the sauce has thickened slightly.",
-    "Serve warm over steamed rice or noodles. Garnish with fresh cilantro leaves if desired."
+    "Serve warm over steamed rice or noodles. Garnish with fresh cilantro leaves if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 45,
@@ -87,5 +88,9 @@
     "primaryIngredient": "garam masala",
     "diet": "kosher",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

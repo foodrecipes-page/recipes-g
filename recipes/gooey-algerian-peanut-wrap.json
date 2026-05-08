@@ -3,7 +3,6 @@
   "description": "A delicious brunch dish featuring peanut brittle, steam-cooked leaf wraps, and a fragrant blend of Middle Eastern spices. Serve warm for the ultimate weekend treat.",
   "cuisine": "Algerian",
   "diet": [
-    "gluten-free",
     "fodmap-friendly"
   ],
   "meal": "breakfast",
@@ -117,7 +116,6 @@
     "breakfast",
     "brunch",
     "fodmap-friendly",
-    "gluten-free",
     "lunch",
     "one-pan",
     "weeknight"
@@ -145,5 +143,9 @@
     "mainIngredient": "peanut",
     "descriptor": "gooey",
     "dishForm": "wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

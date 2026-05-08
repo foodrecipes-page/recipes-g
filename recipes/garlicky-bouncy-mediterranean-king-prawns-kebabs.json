@@ -4,7 +4,6 @@
   "cuisine": "mediterranean",
   "diet": [
     "kosher",
-    "gluten-free",
     "pescatarian"
   ],
   "meal": "dinner",
@@ -118,5 +117,9 @@
     "mainIngredient": "king prawns",
     "descriptor": "garlicky bouncy",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

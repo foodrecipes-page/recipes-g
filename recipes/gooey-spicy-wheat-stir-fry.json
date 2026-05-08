@@ -52,7 +52,6 @@
   "difficulty": "easy",
   "tags": [
     "spicy",
-    "gluten-free",
     "sour",
     "hangover-cure",
     "keto-friendly"
@@ -80,5 +79,9 @@
     "mainIngredient": "Wheat",
     "descriptor": "Gooey",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

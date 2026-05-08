@@ -3,8 +3,7 @@
   "description": "Buttery, cheese-pull, Spanish dish featuring dried white corn, perfect for a low-carb snack or meal prep option. This Galician-inspired recipe is a delicious and satisfying treat.",
   "cuisine": "Spanish",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "snack",
   "ingredients": [
@@ -68,7 +67,6 @@
   "difficulty": "medium",
   "tags": [
     "cheese-pull",
-    "gluten-free",
     "low-carb",
     "meal-prep",
     "snack-ideas",
@@ -97,5 +95,9 @@
     "mainIngredient": "corn",
     "descriptor": "Golden Buttery",
     "dishForm": "Croquetas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

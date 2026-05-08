@@ -3,8 +3,7 @@
   "description": "A low‑fat, smoky adobo that combines tender chicken with rich, melted comte cheese for a light yet nostalgic Filipino classic.",
   "cuisine": "Filipino",
   "diet": [
-    "low-fat",
-    "gluten-free"
+    "low-fat"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -72,7 +71,8 @@
     "Stir in the grated comte cheese, allowing it to melt into the sauce and create a silky coating.",
     "Reduce heat to low, cover, and simmer for an additional 5 minutes until the cheese is fully integrated.",
     "Season with salt and pepper to taste, then remove from heat.",
-    "Serve hot over steamed rice or cauliflower rice for a low-carb option."
+    "Serve hot over steamed rice or cauliflower rice for a low-carb option.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -82,7 +82,6 @@
   "tags": [
     "adobo-style",
     "cheese-based",
-    "gluten-free",
     "low-fat",
     "nostalgic",
     "smoky"
@@ -110,5 +109,10 @@
     "mainIngredient": "Comte",
     "descriptor": "Gleaming Light",
     "dishForm": "Adobo"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

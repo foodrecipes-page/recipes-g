@@ -2,10 +2,7 @@
   "title": "Garlicky Tender Uruguayan Broad Beans Gratin",
   "description": "A nostalgic Uruguayan dish featuring tender broad beans in a garlicky creamy sauce, topped with a crispy bonito shave. This recipe is Jain-friendly and perfect for a comforting dinner or lunch.",
   "cuisine": "Uruguayan",
-  "diet": [
-    "vegetarian",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -77,8 +74,6 @@
   "tags": [
     "comfort-food",
     "lactose-free",
-    "vegan",
-    "vegetarian",
     "weekday"
   ],
   "nutrition": {
@@ -104,5 +99,10 @@
     "mainIngredient": "broad beans",
     "descriptor": "garlicky tender",
     "dishForm": "Gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

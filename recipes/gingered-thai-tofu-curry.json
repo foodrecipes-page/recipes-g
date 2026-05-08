@@ -3,7 +3,6 @@
   "description": "A bright and tangy Thai curry made with tofu, ginger, and madras paste, perfect for a quick weeknight dinner.",
   "cuisine": "thai",
   "diet": [
-    "vegan",
     "jain-friendly"
   ],
   "meal": "dinner",
@@ -81,7 +80,6 @@
     "one-pot",
     "quick",
     "thai-curry",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -107,5 +105,9 @@
     "mainIngredient": "tofu",
     "descriptor": "Gingered",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

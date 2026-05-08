@@ -81,7 +81,7 @@
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
-  "totalTimeMin": 80,
+  "totalTimeMin": 40,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
@@ -114,5 +114,9 @@
     "mainIngredient": "Umiboshi",
     "descriptor": "Glassy-Jelly",
     "dishForm": "Mushimono"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

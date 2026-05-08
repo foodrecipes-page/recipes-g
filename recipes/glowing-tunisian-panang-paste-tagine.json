@@ -3,7 +3,6 @@
   "description": "A silky, ayurvedic-rajasic-friendly dish featuring panang-paste, perfect for a sick day. This Tunisian-inspired recipe combines the aromatic flavors of cumin, coriander, and turmeric with the rich taste of Panang-paste. ",
   "cuisine": "Tunisian",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -82,7 +81,8 @@
     "This dish is best served immediately, as the flavors and textures will hold best when fresh.",
     "This recipe makes 4 servings and can be refrigerated or frozen for later use.",
     "Note: if using a slow cooker, brown the onions and cook the spices in a skillet before transferring everything to the slow cooker and cooking on low for 2-3 hours.",
-    "Note: if using a Pressure cooker, brown the onions and cook the spices in a skillet before transferring everything to the pressure cooker and cooking on high for 10-15 minutes."
+    "Note: if using a Pressure cooker, brown the onions and cook the spices in a skillet before transferring everything to the pressure cooker and cooking on high for 10-15 minutes.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -95,8 +95,7 @@
     "gluten-free",
     "sick-day",
     "silky",
-    "tunisian",
-    "vegan"
+    "tunisian"
   ],
   "nutrition": {
     "calories": 420,
@@ -121,5 +120,10 @@
     "mainIngredient": "Panang-paste",
     "descriptor": "Glowing",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "added-safety-poultry_no_temp"
+  ]
 }

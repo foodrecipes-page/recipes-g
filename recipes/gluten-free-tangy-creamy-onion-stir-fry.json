@@ -87,11 +87,15 @@
     "mood": "comforting",
     "technique": "pickle",
     "primaryIngredient": "onion rings",
-    "diet": "gluten-free",
+    "diet": "gluten_free",
     "region": null,
     "cuisineAdjective": "Croatian",
     "mainIngredient": "Onion",
     "descriptor": "Tangy Creamy Gluten-Free",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

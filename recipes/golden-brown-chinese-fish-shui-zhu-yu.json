@@ -3,7 +3,6 @@
   "description": "A traditional Dongbei dish featuring crispy onion rings and tender fish, perfect for a post-workout meal. This recipe combines the flavors of China with a dash-friendly approach.",
   "cuisine": "Chinese",
   "diet": [
-    "gluten-free",
     "low-sugar"
   ],
   "meal": "dinner",
@@ -63,7 +62,6 @@
   "difficulty": "medium",
   "tags": [
     "chinese-food",
-    "gluten-free",
     "high-protein",
     "low-sugar",
     "one-pan",
@@ -92,5 +90,9 @@
     "mainIngredient": "fish",
     "descriptor": "Golden Brown",
     "dishForm": "Shui Zhu Yu"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Glorious Smoky Malaysian Prawn Pilaf",
   "description": "A flavorful and aromatic Malaysian dish featuring prawns, parma ham, and a blend of spices, perfect for a lazy Sunday lunch. This pescatarian-friendly recipe is cooked to perfection on a salt block.",
   "cuisine": "Malaysian",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -81,7 +79,6 @@
     "lazy-sunday",
     "malaysian-cuisine",
     "one-pan",
-    "pescatarian",
     "smoky",
     "spicy"
   ],
@@ -108,5 +105,9 @@
     "mainIngredient": "prawns",
     "descriptor": "Glorious Smoky",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

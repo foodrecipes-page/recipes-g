@@ -67,7 +67,6 @@
   "servings": 8,
   "difficulty": "hard",
   "tags": [
-    "gluten-free",
     "high-protein",
     "mexican",
     "norteno",
@@ -96,5 +95,9 @@
     "mainIngredient": "Narutomaki",
     "descriptor": "Garlicky",
     "dishForm": "Tacos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

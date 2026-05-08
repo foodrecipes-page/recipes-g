@@ -42,7 +42,7 @@
   ],
   "instructions": [
     "Heat a pan with the oil over medium-high heat.",
-    "Add garlic powder to the pan and saut\u00e9 for about 30 seconds until fragrant.",
+    "Add garlic powder to the pan and sauté for about 30 seconds until fragrant.",
     "Pour in the pistachio paste and stir continuously for about 2 minutes, allowing it to slightly brown.",
     "Season with salt and garam masala. Mix well to combine all ingredients evenly.",
     "If using chicken or tempeh, season them lightly with salt and coat with rice noodles or gluten-free bread crumbs if desired.",
@@ -77,11 +77,15 @@
     "mood": "solo-dinner",
     "technique": "tandoor",
     "primaryIngredient": "pistachio paste",
-    "diet": "gluten-free",
+    "diet": "gluten_free",
     "region": null,
     "cuisineAdjective": "Indian",
     "mainIngredient": "pistachio",
     "descriptor": "Gluten-free",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

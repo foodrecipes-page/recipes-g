@@ -2,9 +2,7 @@
   "title": "Glorious Golden Filipino Vegetable Lumpia",
   "description": "A tangy and festive Filipino dish featuring a vegetarian-friendly filling wrapped in a crispy lumpia wrapper, served with a side of sweet chili sauce.",
   "cuisine": "Filipino",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -63,8 +61,7 @@
     "filipino-food",
     "lumpia",
     "party-food",
-    "snack",
-    "vegetarian"
+    "snack"
   ],
   "nutrition": {
     "calories": 120,
@@ -89,5 +86,9 @@
     "mainIngredient": "vegetables",
     "descriptor": "Glorious Golden",
     "dishForm": "Lumpia"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

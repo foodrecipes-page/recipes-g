@@ -2,10 +2,7 @@
   "title": "Garlicky Australian Duck Pasta",
   "description": "A simple, one-pot dish featuring duck fat, pasta-water-emulsion, and a shojin-friendly twist. Perfect for a weeknight dinner or a special occasion.",
   "cuisine": "australian",
-  "diet": [
-    "vegetarian",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -58,7 +55,8 @@
     "Stir in the toasted pumpkin seeds and cook for 1 minute, until combined.",
     "Season with salt and pepper to taste.",
     "Optional: garnish with chopped parsley before serving.",
-    "Let the pasta rest, covered, for 2-3 minutes before serving."
+    "Let the pasta rest, covered, for 2-3 minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 12,
@@ -94,5 +92,11 @@
     "mainIngredient": "duck",
     "descriptor": "garlicky",
     "dishForm": "pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

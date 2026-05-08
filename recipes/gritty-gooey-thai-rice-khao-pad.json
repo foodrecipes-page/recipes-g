@@ -2,9 +2,7 @@
   "title": "Gritty Gooey Thai Rice Khao Pad",
   "description": "A bitter, pillowy northern Thai rice dish cooked in a clay pot that balances the umami of shio-koji with the richness of coconut milk for a solo-dinner delight.",
   "cuisine": "Thai",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -122,5 +120,9 @@
     "mainIngredient": "Rice",
     "descriptor": "Gritty Gooey",
     "dishForm": "Khao Pad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

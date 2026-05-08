@@ -2,10 +2,7 @@
   "title": "Gossamer Venezuelan Tofu Bowl",
   "description": "A light, salty bowl of pillowy tofu tossed in a tangy apple cider vinegar and ferment-jang sauce, served over fluffy quinoa.",
   "cuisine": "Venezuelan",
-  "diet": [
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -81,7 +78,6 @@
     "rice",
     "salty",
     "tofu",
-    "vegan",
     "venezuelan"
   ],
   "nutrition": {
@@ -107,5 +103,10 @@
     "mainIngredient": "tofu",
     "descriptor": "Gossamer",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

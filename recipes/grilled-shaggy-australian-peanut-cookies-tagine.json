@@ -85,7 +85,6 @@
   "difficulty": "hard",
   "tags": [
     "australian",
-    "dairy-free",
     "dessert",
     "grilled",
     "low-carb",
@@ -114,5 +113,9 @@
     "mainIngredient": "peanut cookies",
     "descriptor": "grilled, shaggy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

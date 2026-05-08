@@ -80,7 +80,8 @@
     "Reduce heat to medium-low and simmer, covered, for 10 minutes, or until pork is tender.",
     "Stir in chopped Thai basil and season with salt and black pepper.",
     "Serve hot over steamed rice or noodles.",
-    "Garnish with additional Thai basil leaves, if desired."
+    "Garnish with additional Thai basil leaves, if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -88,7 +89,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "high-protein",
     "kid-friendly",
     "one-pan",
@@ -119,5 +119,10 @@
     "mainIngredient": "pork",
     "descriptor": "garlicky juicy",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-pork_no_temp"
+  ]
 }

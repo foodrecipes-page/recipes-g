@@ -3,7 +3,6 @@
   "description": "A Dutch-inspired dish featuring a flavorful mix of peppers, garlic, and creamy sauce, making it a perfect energizing meal for any time of day.",
   "cuisine": "Dutch",
   "diet": [
-    "dairy-free",
     "gluten-free"
   ],
   "meal": "lunch",
@@ -67,7 +66,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "dutch",
     "energizing",
     "pepper",
@@ -96,5 +94,9 @@
     "mainIngredient": "pepper",
     "descriptor": "garlicy creamy energizing",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

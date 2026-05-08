@@ -2,9 +2,7 @@
   "title": "Garlicky Gooey Norwegian Soya Milk Stir-fry",
   "description": "This adventurous dish combines the savory notes of garlic with a gooey texture from soya milk in a gluten-free-friendly meal that's perfect for breakfast, lunch, or dinner.",
   "cuisine": "Norwegian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -72,8 +70,7 @@
     "adventurous",
     "norwegian",
     "soya-milk",
-    "stir-fry",
-    "gluten-free"
+    "stir-fry"
   ],
   "nutrition": {
     "calories": 400,
@@ -98,5 +95,9 @@
     "mainIngredient": "Soya Milk",
     "descriptor": "Garlicky Gooey",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

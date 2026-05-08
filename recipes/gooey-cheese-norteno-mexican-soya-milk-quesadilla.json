@@ -3,7 +3,6 @@
   "description": "A savory, cheese-pull, energizing Mexican (Norteño) dish featuring soya milk and a broiler. Suitable for a dairy-free, FODMAP-friendly diet.",
   "cuisine": "Mexican",
   "diet": [
-    "dairy-free",
     "fodmap-friendly"
   ],
   "meal": "lunch",
@@ -94,5 +93,9 @@
     "mainIngredient": "Soya Milk",
     "descriptor": "Gooey Cheese",
     "dishForm": "Quesadilla"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

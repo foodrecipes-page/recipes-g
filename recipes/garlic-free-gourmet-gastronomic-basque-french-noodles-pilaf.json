@@ -3,8 +3,7 @@
   "description": "A vibrant, juicy pilaf dish from the Basque region of France, made with flavorful noodle, spices, and aromatic herbs.",
   "cuisine": "Basque-French",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -94,5 +93,9 @@
     "mainIngredient": "noodles",
     "descriptor": "Garlic-free Gourmet Gastronomic",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

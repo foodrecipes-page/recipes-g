@@ -59,7 +59,9 @@
     "Bring the mixture to a simmer and cook, stirring occasionally, until the liquid has thickened and the flavors have melded together.",
     "Taste and adjust the seasoning as needed.",
     "If using cheese, sprinkle it over the top of the skillet and cook until melted and bubbly.",
-    "Garnish with chopped cilantro and serve hot."
+    "Garnish with chopped cilantro and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -96,5 +98,10 @@
     "mainIngredient": "borlotti beans",
     "descriptor": "Gloriously dense",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

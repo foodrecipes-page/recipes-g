@@ -51,7 +51,9 @@
     "Add the port wine and chicken broth to the skillet, scraping up any browned bits from the bottom.",
     "Return the pork shoulder steaks to the skillet and bring the liquid to a simmer.",
     "Transfer the skillet to the preheated oven and roast for 20 minutes, then flambe the pork with a kitchen torch or under the broiler for 2 minutes.",
-    "Let the pork rest for 10 minutes before slicing and serving."
+    "Let the pork rest for 10 minutes before slicing and serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -88,5 +90,10 @@
     "mainIngredient": "pork shoulder",
     "descriptor": "Golden Roasted",
     "dishForm": "Roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-pork_no_temp"
+  ]
 }

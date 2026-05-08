@@ -31,7 +31,8 @@
     "Note: This recipe makes 4-6 servings, depending on serving size.",
     "Note: If you're not a fan of spicy food, omit the jalapeno pepper or substitute it with a milder pepper like Anaheim or bell pepper.",
     "Note: You can also add diced mango or pineapple to the bowl with the sea bass for a sweet and tangy twist.",
-    "Note: To make the dish more substantial, add some cooked rice, quinoa, or grilled chicken to the bowl with the sea bass."
+    "Note: To make the dish more substantial, add some cooked rice, quinoa, or grilled chicken to the bowl with the sea bass.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 0,
@@ -68,5 +69,9 @@
     "mainIngredient": "Epilogue",
     "descriptor": "Garlicky Juicy",
     "dishForm": "Ceviche"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

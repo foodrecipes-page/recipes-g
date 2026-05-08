@@ -74,7 +74,8 @@
     "Add tomato sauce, sugar, and basil to the skillet. Stir to combine and bring to a simmer. Reduce heat to low and let sauce simmer for 10 minutes.",
     "Spread a layer of meat sauce on the bottom of the baking dish. Arrange a layer of pasta on top of the sauce. Sprinkle with a layer of mozzarella cheese and a layer of parmesan cheese. Repeat the layers until all ingredients are used, finishing with a layer of cheese on top.",
     "Cover baking dish with aluminum foil and bake at 375°F for 30 minutes. Remove foil and continue baking for an additional 10-15 minutes, or until cheese is melted and bubbly.",
-    "Let lasagna rest for 10 minutes before slicing and serving"
+    "Let lasagna rest for 10 minutes before slicing and serving",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 45,
@@ -115,5 +116,9 @@
     "mainIngredient": "pasta",
     "descriptor": "gooey",
     "dishForm": "lasagna"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

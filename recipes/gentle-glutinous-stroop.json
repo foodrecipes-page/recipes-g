@@ -3,7 +3,6 @@
   "description": "A creamy and festive vegan dish inspired by the traditional Dutch version, featuring garlic for a unique twist.",
   "cuisine": "Kenyan",
   "diet": [
-    "vegan",
     "vegetarian"
   ],
   "meal": "dessert",
@@ -79,5 +78,9 @@
     "primaryIngredient": "dutch stroop",
     "diet": "plant-based",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

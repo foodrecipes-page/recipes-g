@@ -66,7 +66,8 @@
     "Shred cooked chicken with two forks and return to skillet with green salsa. Toss to coat.",
     "Season chicken with additional salt and pepper to taste.",
     "Assemble tacos by spooning chicken mixture into shells and topping with shredded cheese, cilantro, and radish slices.",
-    "Serve immediately and garnish with lime wedges."
+    "Serve immediately and garnish with lime wedges.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -103,5 +104,9 @@
     "mainIngredient": "chicken",
     "descriptor": "garlicky fluffy",
     "dishForm": "Tacos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

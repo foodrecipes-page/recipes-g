@@ -3,7 +3,6 @@
   "description": "A Mediterranean-friendly sick-day dish featuring a crumbly mixture of almond butter, garlic, and other healthy fats that's perfect for when you're feeling under the weather.",
   "cuisine": "Mediterranean",
   "diet": [
-    "vegan",
     "paleo",
     "keto"
   ],
@@ -79,5 +78,9 @@
     "mainIngredient": "Almond Butter",
     "descriptor": "Garlicky Crumbly",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

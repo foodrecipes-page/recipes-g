@@ -3,7 +3,6 @@
   "description": "Crisp fried white fish, fragrant tadka-spiced rice, and a tangy slaw, all served in a sturdy bento box. Perfect for a quick and refreshing lunch on a stormy day.",
   "cuisine": "jamaican",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "lunch",
@@ -125,5 +124,9 @@
     "mainIngredient": "Fish",
     "descriptor": "Garlicky, Snappy, Monsoon",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

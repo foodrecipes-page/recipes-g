@@ -3,8 +3,7 @@
   "description": "This egg-free-friendly dish features a garlicky and crunchy twist on traditional Brazilian cuisine, perfect for a cozy date night.",
   "cuisine": "Brazilian",
   "diet": [
-    "egg-free",
-    "vegan"
+    "egg-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -77,5 +76,9 @@
     "mainIngredient": "Garlic",
     "descriptor": "Garlicky Crunchy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

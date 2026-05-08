@@ -2,9 +2,7 @@
   "title": "Grilled Pineapple Irish Pancakes",
   "description": "These festive pancakes feature grilled pineapple and are dairy-free-friendly, perfect for a light breakfast or snack.",
   "cuisine": "Irish",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -85,5 +83,9 @@
     "mainIngredient": "pineapple",
     "descriptor": "Grilled",
     "dishForm": "Pancakes"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

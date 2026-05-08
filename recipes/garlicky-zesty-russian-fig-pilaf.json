@@ -2,9 +2,7 @@
   "title": "Garlicky Zesty Russian Fig Pilaf",
   "description": "A flavorful and light pilaf dish that combines the sweetness of figs with the pungency of garlic, perfect for a solo dinner. This recipe is easy to make and can be completed in under an hour.",
   "cuisine": "Russian",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -72,11 +70,12 @@
     "Lock the lid and cook at high pressure for 4 minutes.",
     "Let the pressure release naturally for 10 minutes, then quick-release any remaining pressure.",
     "Stir in the Greek yogurt and chopped parsley.",
-    "Serve hot, garnished with additional parsley if desired."
+    "Serve hot, garnished with additional parsley if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
-  "totalTimeMin": 50,
+  "totalTimeMin": 25,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
@@ -85,8 +84,7 @@
     "one-pan",
     "pressure-cooker",
     "russian",
-    "solo-dinner",
-    "vegetarian"
+    "solo-dinner"
   ],
   "nutrition": {
     "calories": 430,
@@ -111,5 +109,11 @@
     "mainIngredient": "Fig",
     "descriptor": "Garlicky Zesty",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp",
+    "recomputed-totalTime"
+  ]
 }

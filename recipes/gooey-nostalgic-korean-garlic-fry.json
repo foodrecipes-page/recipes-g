@@ -41,7 +41,8 @@
     "Combine minced garlic with malt vinegar, vegetable oil, Korean seasoning, and hummus in a bowl to make a dipping sauce.",
     "Sauté carrots until soft and slightly caramelized. Remove from heat.",
     "Place pork belly or skin-on chicken thigh on each slice of carrot.",
-    "Serve the dish warm by dipping vegetables into the garlic sauce and enjoy."
+    "Serve the dish warm by dipping vegetables into the garlic sauce and enjoy.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -76,5 +77,9 @@
     "mainIngredient": "Garlic",
     "descriptor": "Gooey Nostalgic",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

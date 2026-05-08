@@ -2,9 +2,7 @@
   "title": "Glorious Golden Indian Dumplings Gulab Jamun",
   "description": "A funky, aerated, one-pot Indian dish featuring vegan-friendly ingredients, this gulab jamun recipe is a unique twist on traditional Indian cuisine, with a smoky cold flavor and a golden brown color.",
   "cuisine": "Indian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -62,7 +60,6 @@
   "servings": 8,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "high-carb",
     "indian-dessert",
     "one-pot",
@@ -92,5 +89,10 @@
     "mainIngredient": "dumplings",
     "descriptor": "Glorious Golden",
     "dishForm": "Gulab Jamun"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

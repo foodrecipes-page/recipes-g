@@ -77,7 +77,8 @@
     "Remove the pot from the oven and stir in the heavy cream and crushed garlic.",
     "Return the pot to the oven and roast for an additional 10 minutes.",
     "Remove the pot from the oven and garnish with fresh parsley.",
-    "Serve the turkey hot, garnished with additional parsley if desired."
+    "Serve the turkey hot, garnished with additional parsley if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 45,
   "cookTimeMin": 35,
@@ -114,5 +115,9 @@
     "mainIngredient": "turkey",
     "descriptor": "Garlicky Roasted",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

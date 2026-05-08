@@ -3,7 +3,6 @@
   "description": "A savory and crisp hangover-cure dish featuring semi-skimmed milk blanched to add a unique creamy texture to this crispy stir-fry.",
   "cuisine": "Korean",
   "diet": [
-    "vegan",
     "egg-free",
     "milk-free"
   ],
@@ -87,5 +86,9 @@
     "mainIngredient": "garlic",
     "descriptor": "Garlicky",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -63,9 +63,10 @@
     "Add the lamb pieces and cook until they are browned on all sides, about 5 minutes.",
     "Stir in the cumin, smoked paprika, salt, black pepper, and thyme. Cook for 1 minute.",
     "Add the chicken broth, bring to a boil, then cover the tagine or Dutch oven with a lid.",
-    "Transfer the tagine or Dutch oven to the oven and cook at 300\u00b0F (150\u00b0C) for 2 1/2 hours, or until the lamb is tender.",
+    "Transfer the tagine or Dutch oven to the oven and cook at 300°F (150°C) for 2 1/2 hours, or until the lamb is tender.",
     "Remove the tagine or Dutch oven from the oven and stir in the chopped parsley.",
-    "Serve the tagine hot, garnished with additional parsley if desired."
+    "Serve the tagine hot, garnished with additional parsley if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 150,
@@ -102,5 +103,9 @@
     "mainIngredient": "garlic",
     "descriptor": "garlicky dense",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

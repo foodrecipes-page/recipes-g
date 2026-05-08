@@ -2,9 +2,7 @@
   "title": "Slovakian Noodle Dish",
   "description": "A kid-friendly Slovakian dish featuring yeasty and silky noodles, this recipe is kosher-friendly and uses shio-cure for added flavor.",
   "cuisine": "Slovakian",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -50,7 +48,8 @@
     "Add the butter, salt, and pepper to the saucepan and stir until the butter is melted.",
     "Reduce heat to low and simmer the mixture for 5 minutes.",
     "Serve the noodle dish hot.",
-    "Garnish with chopped fresh parsley or dill if desired."
+    "Garnish with chopped fresh parsley or dill if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -87,5 +86,10 @@
     "mainIngredient": "noodles",
     "descriptor": "gentle silky",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-kosher",
+    "added-safety-poultry_no_temp"
+  ]
 }

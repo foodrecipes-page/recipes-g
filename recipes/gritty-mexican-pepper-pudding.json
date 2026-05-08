@@ -2,9 +2,7 @@
   "title": "Gritty Mexican Pepper Pudding",
   "description": "A chewy, nutty dessert that blends warm chili spice with smooth horchata‑like texture, perfect for midnight cravings.",
   "cuisine": "mexican",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -66,8 +64,7 @@
     "dessert",
     "horchata-style",
     "quick",
-    "spicy",
-    "vegan"
+    "spicy"
   ],
   "nutrition": {
     "calories": 290,
@@ -92,5 +89,9 @@
     "mainIngredient": "Pepper",
     "descriptor": "Gritty",
     "dishForm": "Pudding"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

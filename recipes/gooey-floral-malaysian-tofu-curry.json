@@ -2,10 +2,7 @@
   "title": "Gooey Floral Malaysian Tofu Curry",
   "description": "A one-pot, vegan-friendly Malaysian dish featuring the sweetness of balsamic vinegar and the warmth of tandoori spices, all coming together in a gooey, floral curry.",
   "cuisine": "Malaysian",
-  "diet": [
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -98,5 +95,10 @@
     "mainIngredient": "tofu",
     "descriptor": "Gooey Floral",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

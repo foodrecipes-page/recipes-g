@@ -2,9 +2,7 @@
   "title": "Ghee-Rooch Monsoon",
   "description": "A spicy and gooey monsoon dish featuring lean minced beef in a flavorful ghee sauce that is vegetarian-friendly.",
   "cuisine": "Saudia Arabian",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -62,7 +60,8 @@
     "Add ground beef and cook until browned, breaking into smaller pieces as it cooks.",
     "Stir in tomato paste, chili powder, turmeric, coriander, cumin seeds, salt, and water or vegetable broth. Bring to a boil.",
     "Reduce heat to low, cover, and let simmer for about 1 hour or until the beef is tender and most of the liquid has evaporated.",
-    "Stir in chopped cilantro before serving."
+    "Stir in chopped cilantro before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 60,
@@ -95,5 +94,10 @@
     "primaryIngredient": "lean minced beef",
     "diet": "vegetarian",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

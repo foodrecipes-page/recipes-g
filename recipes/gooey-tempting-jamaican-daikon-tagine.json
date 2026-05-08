@@ -3,8 +3,7 @@
   "description": "A rich, ayurvedic-friendly Jamaican daikon dish featuring tender daikon, aromatic spices, and a hint of tropical sweetness.",
   "cuisine": "jamaican",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -72,8 +71,7 @@
     "comfort-food",
     "easy-weeknight",
     "high-fiber",
-    "one-pan",
-    "vegan"
+    "one-pan"
   ],
   "nutrition": {
     "calories": 450,
@@ -98,5 +96,9 @@
     "mainIngredient": "Daikon",
     "descriptor": "Gooey, Tempting",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

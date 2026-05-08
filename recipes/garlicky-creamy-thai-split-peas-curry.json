@@ -2,10 +2,7 @@
   "title": "Garlicky Creamy Thai Split Peas Curry",
   "description": "A creamy, garlicky and adventurous Thai dish featuring yellow split peas. Dairy-free-friendly and perfect for a weeknight dinner.",
   "cuisine": "Thai",
-  "diet": [
-    "vegetarian",
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -91,8 +88,6 @@
     "yellow-split-peas",
     "garlicky",
     "creamy",
-    "dairy-free",
-    "vegetarian",
     "weeknight-dinner"
   ],
   "nutrition": {
@@ -118,5 +113,10 @@
     "mainIngredient": "split peas",
     "descriptor": "garlicky creamy",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-dairy-free"
+  ]
 }

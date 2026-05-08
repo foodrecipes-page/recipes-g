@@ -3,7 +3,6 @@
   "description": "A peppery and snappy Brazilian dish featuring golden caster sugar, toast, and anti-inflammatory friendly ingredients, perfect for a light lunch or snack.",
   "cuisine": "Brazilian",
   "diet": [
-    "gluten-free",
     "low-carb"
   ],
   "meal": "lunch",
@@ -63,7 +62,6 @@
   "tags": [
     "brazilian-cuisine",
     "easy-meals",
-    "gluten-free",
     "healthy-snacks",
     "low-carb",
     "quick-dinners"
@@ -91,5 +89,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Golden Gingered",
     "dishForm": "Toast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -61,7 +61,8 @@
     "Use your hands to shape the mixture into 6-8 patties.",
     "Heat a non-stick skillet over medium-high heat and cook the patties for 3-4 minutes on each side, or until nicely browned.",
     "Transfer the skillet to the preheated oven and bake for an additional 10-12 minutes, or until cooked through.",
-    "Remove the skillet from the oven and let the Kjøttkaker rest for 5 minutes before serving."
+    "Remove the skillet from the oven and let the Kjøttkaker rest for 5 minutes before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -98,5 +99,9 @@
     "mainIngredient": "Cheese",
     "descriptor": "Garlicky Indulgent",
     "dishForm": "Kjøttkaker"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

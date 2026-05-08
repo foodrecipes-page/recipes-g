@@ -3,7 +3,6 @@
   "description": "A traditional Saudi Arabian dish featuring lamb, dried cherries, and a mirepoix base, perfect for a midnight craving. This recipe is anti-inflammatory friendly and makes a delicious snack.",
   "cuisine": "Saudi Arabian",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "snack",
@@ -102,5 +101,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Golden Brown",
     "dishForm": "Flatbread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

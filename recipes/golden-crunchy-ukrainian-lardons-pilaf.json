@@ -3,7 +3,6 @@
   "description": "A one-pot Ukrainian dish featuring marzipan and lardons, rendered to a crunchy perfection, this recipe is ayurvedic sattvic friendly and full of culture. It combines the sweetness of marzipan with the savory taste of lardons.",
   "cuisine": "Ukrainian",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -69,8 +68,7 @@
     "gluten-free",
     "one-pot",
     "sattvic-friendly",
-    "ukrainian-cuisine",
-    "vegetarian"
+    "ukrainian-cuisine"
   ],
   "nutrition": {
     "calories": 420,
@@ -95,5 +93,9 @@
     "mainIngredient": "lardons",
     "descriptor": "Golden Crunchy",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

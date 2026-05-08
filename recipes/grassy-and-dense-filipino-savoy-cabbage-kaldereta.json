@@ -4,8 +4,7 @@
   "cuisine": "Filipino",
   "diet": [
     "gluten-free",
-    "sugar-free",
-    "vegetarian"
+    "sugar-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -87,8 +86,7 @@
     "gluten-free",
     "healthy",
     "one-pan",
-    "sugar-free",
-    "vegetarian"
+    "sugar-free"
   ],
   "nutrition": {
     "calories": 250,
@@ -113,5 +111,9 @@
     "mainIngredient": "savoy cabbage",
     "descriptor": "Grassy and dense",
     "dishForm": "Kaldereta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

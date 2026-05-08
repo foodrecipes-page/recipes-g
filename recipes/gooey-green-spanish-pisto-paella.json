@@ -86,7 +86,8 @@
     "Serve immediately and enjoy!",
     "Let the paella rest for 10-15 minutes before serving, if desired, to allow the flavors to meld together.",
     "If you prefer a crisper bottom, broil the paella for 2-3 minutes, or until the top is golden brown.",
-    "If you prefer a creamier paella, stir in 1-2 tablespoons of heavy cream or half-and-half before serving."
+    "If you prefer a creamier paella, stir in 1-2 tablespoons of heavy cream or half-and-half before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -124,5 +125,9 @@
     "mainIngredient": "pisto",
     "descriptor": "Gooey Green",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

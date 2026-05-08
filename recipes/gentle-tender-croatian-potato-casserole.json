@@ -2,9 +2,7 @@
   "title": "Gentle Tender Croatian Potato Casserole",
   "description": "A malty, tender, and kid-friendly Croatian dish featuring russet potato and cure, gluten-free-friendly and perfect for a weeknight dinner. This casserole is made with simple ingredients and is easy to prepare.",
   "cuisine": "Croatian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -64,7 +62,6 @@
   "difficulty": "easy",
   "tags": [
     "croatian",
-    "gluten-free",
     "kid-friendly",
     "one-pan",
     "potato-casserole",
@@ -93,5 +90,9 @@
     "mainIngredient": "potato",
     "descriptor": "gentle tender",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

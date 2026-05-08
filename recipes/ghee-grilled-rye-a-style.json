@@ -2,10 +2,7 @@
   "title": "Ghee Grilled Rye, A-Style",
   "description": "A smoky and crispy Norwegian brunch dish featuring ghee for a raw-friendly twist, served with a side of traditional toppings.",
   "cuisine": "Norwegian",
-  "diet": [
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -62,5 +59,10 @@
     "primaryIngredient": "ghee",
     "diet": "raw",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

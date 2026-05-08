@@ -3,7 +3,6 @@
   "description": "Romantic empanadas from Argentina with a crunchy peanut crust and rich garlicky filling. Serve as a snack or light meal.",
   "cuisine": "Argentinian",
   "diet": [
-    "gluten-free",
     "fodmap-friendly"
   ],
   "meal": "snack",
@@ -117,5 +116,9 @@
     "mainIngredient": "peanuts",
     "descriptor": "garlicky",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

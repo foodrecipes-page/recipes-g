@@ -3,8 +3,7 @@
   "description": "A rich and indulgent French-inspired tart galette filled with caramelized chalots, gooey cheese, and a touch of sweetness.",
   "cuisine": "French (Provence)",
   "diet": [
-    "low-glycemic",
-    "gluten-free"
+    "low-glycemic"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -103,5 +102,9 @@
     "mainIngredient": "Challots",
     "descriptor": "Gooey, Garlicky",
     "dishForm": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

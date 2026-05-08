@@ -56,7 +56,7 @@
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 5,
-  "totalTimeMin": 55,
+  "totalTimeMin": 25,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
@@ -90,5 +90,9 @@
     "mainIngredient": "red snapper",
     "descriptor": "Gently poached",
     "dishForm": "Ceviche"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

@@ -2,10 +2,7 @@
   "title": "Gluten-Free Frankfurter Delight",
   "description": "A sweet and indulgent Egyptian dish featuring gluten-free frankfurters cooked by steam for a fluffy texture.",
   "cuisine": "Egyptian",
-  "diet": [
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -79,5 +76,10 @@
     "primaryIngredient": "frankfurter",
     "diet": "gluten-free",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

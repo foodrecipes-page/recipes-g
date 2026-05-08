@@ -3,7 +3,6 @@
   "description": "A snappy, light Venezuelan dish featuring Mars bar and a dairy-free twist. Perfect for a quick snack or dessert.",
   "cuisine": "Venezuelan",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "dessert",
@@ -79,7 +78,6 @@
     "dessert",
     "easy",
     "snack",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -105,5 +103,10 @@
     "mainIngredient": "mars bar",
     "descriptor": "grassy",
     "dishForm": "agemono"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-dairy-free"
+  ]
 }

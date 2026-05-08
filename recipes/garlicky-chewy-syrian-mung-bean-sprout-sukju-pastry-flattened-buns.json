@@ -73,7 +73,6 @@
   "difficulty": "medium",
   "tags": [
     "festival-food",
-    "gluten-free",
     "one-pan",
     "syrian-food",
     "vegan-option",
@@ -102,5 +101,9 @@
     "mainIngredient": "mung-bean-sprout-sukju",
     "descriptor": "Garlicky Chewy",
     "dishForm": "Pastry-Flattened Buns"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

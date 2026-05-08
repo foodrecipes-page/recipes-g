@@ -66,14 +66,15 @@
     }
   ],
   "instructions": [
-    "Heat 2 tbsp olive oil in a heavy-bottomed pot or tagine over medium heat. Add sliced onions and saut\u00e9 until translucent, about 5 minutes.",
+    "Heat 2 tbsp olive oil in a heavy-bottomed pot or tagine over medium heat. Add sliced onions and sauté until translucent, about 5 minutes.",
     "Add the remaining 1 tbsp olive oil, minced garlic, and Moroccan spice blend. Cook, stirring, until fragrant, about 2 minutes.",
     "Stir in the chicken pieces and brown on all sides, about 5-7 minutes.",
     "Pour in the low-sodium chicken broth, diced tomatoes, and tomato paste. Bring to a gentle simmer, then reduce heat to low, cover, and let cook for 30-35 minutes, stirring occasionally.",
     "Add honey and lemon juice, stir, and season with black pepper (omit salt).",
     "Continue cooking uncovered for another 10-15 minutes, or until the chicken is tender and the sauce has thickened slightly.",
     "Stir in the chopped cilantro and parsley, then remove from heat.",
-    "Serve hot over couscous or rice, garnishing with additional herbs if desired."
+    "Serve hot over couscous or rice, garnishing with additional herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "slug": "garlicky-silky-moroccan-chicken-tagine",
   "source": "ocloud-gpt-oss:20b",
@@ -107,5 +108,9 @@
   "tags": [
     "moroccan",
     "dinner"
+  ],
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
   ]
 }

@@ -68,7 +68,8 @@
     "Add the cooked Jerusalem artichokes to the saucepan and stir to combine.",
     "Transfer the artichoke mixture to a slate-tile vessel, then top with the shredded gruyere cheese.",
     "Sprinkle the chopped parsley, salt, and black pepper over the top of the cheese.",
-    "Bake the gratin in the preheated oven for 25 minutes, or until the top is golden brown and the artichokes are tender."
+    "Bake the gratin in the preheated oven for 25 minutes, or until the top is golden brown and the artichokes are tender.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -106,5 +107,9 @@
     "mainIngredient": "Jerusalem artichokes",
     "descriptor": "Golden crisp",
     "dishForm": "Gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

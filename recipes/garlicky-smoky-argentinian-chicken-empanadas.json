@@ -2,10 +2,7 @@
   "title": "Garlicky Smoky Argentinian Chicken Empanadas",
   "description": "A delightful fusion of smoky, garlicky flavors and crunchy pecans in a classic Argentinian empanada.",
   "cuisine": "argentinian",
-  "diet": [
-    "gluten-free",
-    "nut-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -77,8 +74,7 @@
     "empanadas",
     "garlic",
     "smoky",
-    "pecan-free",
-    "gluten-free"
+    "pecan-free"
   ],
   "nutrition": {
     "calories": 360,
@@ -103,5 +99,10 @@
     "mainIngredient": "Chicken",
     "descriptor": "Garlicky Smoky",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "removed-diet-nut-free"
+  ]
 }

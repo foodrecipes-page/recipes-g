@@ -84,10 +84,8 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "high-protein",
     "southern-thai",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -113,5 +111,10 @@
     "mainIngredient": "Noodles",
     "descriptor": "Garlicky",
     "dishForm": "Khao-Soi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

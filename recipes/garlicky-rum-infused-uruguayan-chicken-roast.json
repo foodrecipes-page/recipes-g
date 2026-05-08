@@ -2,9 +2,7 @@
   "title": "Garlicky RumInfused Uruguayan Chicken Roast",
   "description": "A juicy, garlicky chicken roast infused with a splash of rum and classic Uruguayan herbs, finished under a broiler for a caramelized crust - halalfriendly and perfect for a showoff dinner.",
   "cuisine": "Uruguayan",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -22,9 +20,9 @@
       "amount": "3 tbsp"
     },
     {
-      "name": "Rum (or non\u2011alcoholic rum substitute)",
+      "name": "Rum (or non‑alcoholic rum substitute)",
       "amount": "1/2 cup",
-      "notes": "use halal\u2011certified or reduce alcohol by simmering"
+      "notes": "use halal‑certified or reduce alcohol by simmering"
     },
     {
       "name": "Fresh lemon",
@@ -53,16 +51,17 @@
     }
   ],
   "instructions": [
-    "Preheat the oven to 200\u00b0C (400\u00b0F) and set the broiler on high.",
+    "Preheat the oven to 200°C (400°F) and set the broiler on high.",
     "Rinse the chicken and pat dry with paper towels; place it on a large roasting rack.",
     "In a bowl, whisk together olive oil, minced garlic, lemon juice, lemon zest, oregano, rosemary, salt, pepper, smoked paprika, and rum until well combined.",
     "Brush the mixture all over the chicken, making sure to coat the cavity and under the skin where possible.",
     "Place the chicken on the roasting rack in a shallow pan and roast in the preheated oven for 45 minutes.",
-    "Remove the pan, increase the oven temperature to 230\u00b0C (450\u00b0F) and switch on the broiler.",
-    "Broil the chicken for an additional 4\u20136 minutes, watching closely, until the skin is crisp and golden.",
+    "Remove the pan, increase the oven temperature to 230°C (450°F) and switch on the broiler.",
+    "Broil the chicken for an additional 4–6 minutes, watching closely, until the skin is crisp and golden.",
     "Let the chicken rest for 10 minutes before carving to allow juices to redistribute.",
     "Serve the roasted chicken slices with a garnish of fresh rosemary and lemon wedges.",
-    "Enjoy the garlicky, rum\u2011infused flavors of this Uruguayan show\u2011off roast!"
+    "Enjoy the garlicky, rum‑infused flavors of this Uruguayan show‑off roast!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 55,
@@ -102,5 +101,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Garlicky Rum-Infused",
     "dishForm": "Roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal",
+    "added-safety-poultry_no_temp"
+  ]
 }

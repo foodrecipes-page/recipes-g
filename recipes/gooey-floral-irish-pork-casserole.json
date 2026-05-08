@@ -2,9 +2,7 @@
   "title": "Gooey Floral Irish Pork Casserole",
   "description": "A quick-fix Irish dish featuring minced pork, infused with floral notes and a gooey texture, perfect for a comforting meal. This halal-friendly recipe utilizes sous-vide cooking for a tender and juicy result.",
   "cuisine": "Irish",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -98,5 +96,9 @@
     "mainIngredient": "pork",
     "descriptor": "Gooey Floral",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

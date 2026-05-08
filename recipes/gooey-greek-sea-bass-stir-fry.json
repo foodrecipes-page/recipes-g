@@ -77,11 +77,15 @@
     "mood": "monsoon",
     "technique": "knead",
     "primaryIngredient": "sea bass",
-    "diet": "keto",
+    "diet": "keto-friendly",
     "region": null,
     "cuisineAdjective": "Greek",
     "mainIngredient": "sea bass",
     "descriptor": "Gooey",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "Fermented and molten, these fresh spring rolls are a delicious Vietnamese dish that is perfect for meal prep. Use Asian-chive-buchu and namul-blanch-season for an authentic flavor.",
   "cuisine": "Vietnamese",
   "diet": [
-    "macrobiotic",
-    "gluten-free"
+    "macrobiotic"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -39,7 +38,6 @@
   "difficulty": "medium",
   "tags": [
     "fermented",
-    "gluten-free",
     "macrobiotic",
     "spring-rolls",
     "vietnamese"
@@ -67,5 +65,9 @@
     "mainIngredient": "rice noodle",
     "descriptor": "Garnished Asian",
     "dishForm": "Fresh Spring Rolls"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

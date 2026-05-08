@@ -3,8 +3,7 @@
   "description": "A fresh and flavorful Greek dish featuring lamb skewers grilled to perfection, served with a side of sweet rice flour chapssalgaru, this meal is paleo-friendly and perfect for a weeknight dinner",
   "cuisine": "Greek",
   "diet": [
-    "paleo",
-    "gluten-free"
+    "paleo"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -96,5 +95,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Golden Grilled",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

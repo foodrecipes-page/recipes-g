@@ -55,8 +55,7 @@
     "sweet",
     "festive",
     "goowy",
-    "beef",
-    "gluten-free"
+    "beef"
   ],
   "nutrition": {
     "calories": 250,
@@ -81,5 +80,9 @@
     "mainIngredient": "Beef",
     "descriptor": "Gooey Festive",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

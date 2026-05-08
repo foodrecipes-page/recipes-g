@@ -2,10 +2,7 @@
   "title": "Gently Smoky Turkish Wild Mushrooms Roast",
   "description": "A light and smoky Turkish dish featuring wild mushrooms, perfect for a tamasic-friendly meal",
   "cuisine": "Turkish",
-  "diet": [
-    "vegetarian",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -61,8 +58,6 @@
     "one-pan",
     "smoky",
     "turkish",
-    "vegan",
-    "vegetarian",
     "wild-mushrooms"
   ],
   "nutrition": {
@@ -88,5 +83,10 @@
     "mainIngredient": "wild mushrooms",
     "descriptor": "Gently Smoky",
     "dishForm": "Roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

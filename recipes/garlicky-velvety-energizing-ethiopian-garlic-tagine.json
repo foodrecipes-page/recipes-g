@@ -90,7 +90,6 @@
   "tags": [
     "breakfast",
     "lunch",
-    "dairy-free",
     "garlic-lovers",
     "spicy"
   ],
@@ -117,5 +116,9 @@
     "mainIngredient": "garlic",
     "descriptor": "garlicky velvety energizing",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

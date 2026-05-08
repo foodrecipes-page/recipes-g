@@ -75,7 +75,8 @@
     "Add heavy cream and stir to combine.",
     "Return the broth to the pot and add parsley, dill, salt, and pepper.",
     "Simmer for an additional 10-15 minutes, or until heated through.",
-    "Serve hot and enjoy!"
+    "Serve hot and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "diet": null,
   "slug": "garden-fresh-slovakian-chicken-broth",
@@ -95,5 +96,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Garden-fresh",
     "dishForm": "Broth"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }
