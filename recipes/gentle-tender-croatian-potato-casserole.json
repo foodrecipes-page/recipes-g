@@ -1,0 +1,97 @@
+{
+  "title": "Gentle Tender Croatian Potato Casserole",
+  "description": "A malty, tender, and kid-friendly Croatian dish featuring russet potato and cure, gluten-free-friendly and perfect for a weeknight dinner. This casserole is made with simple ingredients and is easy to prepare.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "russet potatoes",
+      "amount": "3 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "cure",
+      "amount": "1/2 cup",
+      "notes": "such as prosciutto or pancetta"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "malty beer",
+      "amount": "1 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the sliced potatoes and chopped onion.",
+    "In a large skillet, cook the cure over medium heat until crispy.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "In a large bowl, combine the cooked cure and garlic, malty beer, olive oil, salt, and black pepper.",
+    "Grease a 9x13 inch baking dish with olive oil.",
+    "Create a layer of potatoes in the baking dish, followed by a layer of the cure mixture.",
+    "Repeat the layers until all ingredients are used, ending with a layer of potatoes on top.",
+    "Cover the dish with aluminum foil and bake for 45 minutes.",
+    "Remove the foil and bake for an additional 20 minutes, or until the potatoes are tender."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 65,
+  "totalTimeMin": 95,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "croatian",
+    "gluten-free",
+    "kid-friendly",
+    "one-pan",
+    "potato-casserole",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "gentle-tender-croatian-potato-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gentle-tender-croatian-potato-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:33:36Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "tender",
+    "mood": "kid-friendly",
+    "technique": "cure",
+    "primaryIngredient": "russet potato",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "potato",
+    "descriptor": "gentle tender",
+    "dishForm": "Casserole"
+  }
+}
