@@ -1,0 +1,92 @@
+{
+  "title": "Golden Roasted Malaysian Kimchi Flatbread",
+  "description": "A roasted, velvety, kid-friendly Malaysian dish featuring bread flour and ferment-kimchi, perfect for a weeknight dinner. This Whole30-friendly flatbread is a delicious and healthy option for the whole family.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "Whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bread flour",
+      "amount": "2 cups",
+      "notes": "use gluten-free flour if necessary"
+    },
+    {
+      "name": "kimchi",
+      "amount": "1 cup",
+      "notes": "fermented for at least 24 hours"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "for egg wash"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, combine bread flour, salt, black pepper, and garlic powder.",
+    "Add kimchi to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 4 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a flat disk using a rolling pin.",
+    "Brush the tops with coconut oil and egg wash.",
+    "Place the flatbreads on a baking sheet lined with parchment paper.",
+    "Roast in the preheated oven for 15 minutes or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "kid-friendly",
+    "malaysian",
+    "one-pan",
+    "roasted",
+    "weeknight",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "golden-roasted-malaysian-kimchi-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-roasted-malaysian-kimchi-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:27:15Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "velvety",
+    "mood": "kid-friendly",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "bread flour",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "kimchi",
+    "descriptor": "Golden Roasted",
+    "dishForm": "Flatbread"
+  }
+}
