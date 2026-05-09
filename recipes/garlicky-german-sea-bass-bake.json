@@ -1,0 +1,98 @@
+{
+  "title": "Garlicky German Sea Bass Bake",
+  "description": "A rich and flavorful German-inspired dish featuring pan-seared sea bass, topped with a garlicky cheese pull. Perfect for a solo dinner.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sea bass fillets",
+      "amount": "4",
+      "notes": "4 6 oz fillets"
+    },
+    {
+      "name": "garlic-infused olive oil",
+      "amount": "2 tbsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "swiss cheese",
+      "amount": "8 oz",
+      "notes": "sliced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "4",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the sea bass fillets with salt and black pepper.",
+    "Heat the garlic-infused olive oil in an oven-safe skillet over medium-high heat.",
+    "Sear the sea bass fillets for 2-3 minutes on each side, or until golden brown.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes, or until the fish is cooked through.",
+    "Top the sea bass with sliced Swiss cheese and return to the oven for an additional 2-3 minutes, or until the cheese is melted and bubbly.",
+    "Sprinkle chopped parsley over the top of the fish and serve with lemon wedges on the side.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese",
+    "easy-servings",
+    "german",
+    "one-pan",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 60,
+    "carbs": 4,
+    "fat": 20
+  },
+  "slug": "garlicky-german-sea-bass-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-german-sea-bass-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:24:00Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "cheese-pull",
+    "mood": "solo-dinner",
+    "technique": "infuse-oil",
+    "primaryIngredient": "sea bass",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "german",
+    "mainIngredient": "sea bass",
+    "descriptor": "garlicky",
+    "dishForm": "bake"
+  }
+}
