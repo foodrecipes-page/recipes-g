@@ -3527,6 +3527,19 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-uruguayan-cheese-fried-rice",
+    "title": "Garlicky Uruguayan Cheese Fried Rice",
+    "tags": [
+      "cheesy",
+      "deep-fry",
+      "fried-rice",
+      "uruguayan"
+    ],
+    "cuisine": "uruguayan",
+    "totalTimeMin": 45,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-uruguayan-corn-arepa",
     "title": "Garlicky Uruguayan Corn Arepa",
     "tags": [

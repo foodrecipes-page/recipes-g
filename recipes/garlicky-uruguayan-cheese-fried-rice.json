@@ -1,0 +1,92 @@
+{
+  "title": "Garlicky Uruguayan Cheese Fried Rice",
+  "description": "A twist on the classic fried rice dish, featuring Uruguayan flavors and a cheesy pull. Perfect for a festive dinner or special occasion.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Basmati rice",
+      "amount": "2 cups cooked",
+      "notes": "preferably leftover or day-old"
+    },
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": "browned in advance to save time"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "2 tablespoons",
+      "notes": "unconventional, but authentic Uruguayan flavor"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced and saut\u000059ed until translucent"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "minced and saut\u000059ed with the onion"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "adds depth to the dish"
+    },
+    {
+      "name": "Gruy\u00045re cheese",
+      "amount": "1 cup shredded",
+      "notes": "key to the cheesy pull"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten to mix with the rice"
+    }
+  ],
+  "instructions": [
+    "Heat a deep fryer or large skillet to 375\u0017F (190\u0017C) for frying the tod.",
+    "In a separate pan, saut\u000059 the diced onion and minced garlic until softened.",
+    "Add the cooked ground beef to the pan, breaking it up with a spatula.",
+    "Add the cooked rice to the pan, stirring to combine with the onion and beef mixture."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "deep-fry",
+    "fried-rice",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "garlicky-uruguayan-cheese-fried-rice",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-uruguayan-cheese-fried-rice",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:17:56Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "cheese-pull",
+    "mood": "festive",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "granulated sugar",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "cheese",
+    "descriptor": "garlicky",
+    "dishForm": "Fried-Rice"
+  }
+}
