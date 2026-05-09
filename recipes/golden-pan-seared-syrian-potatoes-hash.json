@@ -1,0 +1,102 @@
+{
+  "title": "Golden Pan-Seared Syrian Potatoes Hash",
+  "description": "A hearty, winey Syrian dish featuring tender red potatoes and a hint of bonito.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Red potatoes",
+      "amount": "4",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Bonito flakes",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Chopped parsley",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Red wine vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Crushed red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large kadhai over medium-high heat.",
+    "Add the diced potatoes and cook, stirring occasionally, until they start to brown, about 5 minutes.",
+    "Add the minced garlic and cook, stirring constantly, for 1 minute.",
+    "Add the bonito flakes and cook, stirring constantly, for 1 minute.",
+    "Add the chopped parsley, salt, black pepper, and crushed red pepper flakes. Stir to combine.",
+    "Use a spatula to press the potatoes into the bottom of the kadhai and cook for an additional 2-3 minutes.",
+    "Transfer the kadhai to the oven and bake, uncovered, at 400°F (200°C) for 15-20 minutes, or until the potatoes are golden brown and crispy.",
+    "Remove the kadhai from the oven and stir in the red wine vinegar.",
+    "Serve the Golden Pan-Seared Syrian Potatoes Hash hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-breakfast",
+    "gluten-free",
+    "high-fiber",
+    "one-pan",
+    "syrian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "golden-pan-seared-syrian-potatoes-hash",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-pan-seared-syrian-potatoes-hash",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T10:17:51Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "chewy",
+    "mood": "lazy-sunday",
+    "technique": "bonito-shave",
+    "primaryIngredient": "red potatoes",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Golden Pan-Seared",
+    "dishForm": "Hash"
+  }
+}
