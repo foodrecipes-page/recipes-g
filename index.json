@@ -6531,6 +6531,20 @@
     "shard": "g"
   },
   {
+    "slug": "golden-canadian-potato-chowder",
+    "title": "Golden Canadian Potato Chowder",
+    "tags": [
+      "canadian-cuisine",
+      "comfort-food",
+      "kosher-friendly",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 45,
+    "shard": "g"
+  },
+  {
     "slug": "golden-creamy-croatian-pork-pasta",
     "title": "Golden Creamy Croatian Pork Pasta",
     "tags": [
