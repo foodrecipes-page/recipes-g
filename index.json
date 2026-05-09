@@ -7193,6 +7193,21 @@
     "shard": "g"
   },
   {
+    "slug": "golden-grilled-american-chicken-skewers",
+    "title": "Golden Grilled American Chicken Skewers",
+    "tags": [
+      "american-cuisine",
+      "egg-free",
+      "gluten-free",
+      "grilled-chicken",
+      "quick-fix",
+      "summer-recipes"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 32,
+    "shard": "g"
+  },
+  {
     "slug": "golden-grilled-brazilian-sausages-skewers",
     "title": "Golden Grilled Brazilian Sausages Skewers",
     "tags": [
