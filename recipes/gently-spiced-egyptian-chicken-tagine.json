@@ -1,0 +1,96 @@
+{
+  "title": "Gently Spiced Egyptian Chicken Tagine",
+  "description": "A charred, light, and lazy Sunday Egyptian dish featuring dark chocolate chips and ferment-kimchi, this halal-friendly recipe is perfect for a relaxing weekend meal.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large Dutch oven, heat the olive oil over medium-high heat.",
+    "Add the chicken to the pot and cook until browned on all sides, about 5 minutes.",
+    "Add the cumin, smoked paprika, salt, and pepper to the pot and stir to combine.",
+    "Add the chicken broth to the pot and bring to a boil.",
+    "Cover the pot and transfer to the preheated oven.",
+    "Bake for 25 minutes, then stir in the dark chocolate chips and ferment-kimchi.",
+    "Return the pot to the oven and bake for an additional 10 minutes, or until the chicken is cooked through and the sauce has thickened.",
+    "Remove the pot from the oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chocolatey",
+    "lazy-sunday",
+    "middle-eastern",
+    "one-pot",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "gently-spiced-egyptian-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gently-spiced-egyptian-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:17:49Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "light",
+    "mood": "lazy-sunday",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "dark chocolate chips",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "chicken",
+    "descriptor": "Gently Spiced",
+    "dishForm": "Tagine"
+  }
+}
