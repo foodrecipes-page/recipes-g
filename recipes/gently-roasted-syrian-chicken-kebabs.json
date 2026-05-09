@@ -1,0 +1,97 @@
+{
+  "title": "Gently Roasted Syrian Chicken Kebabs",
+  "description": "A light and flavorful Syrian dish featuring chicken, flaked almonds, and a blend of spices, perfect for a kid-friendly meal. This recipe is ayurvedic-rajasic-friendly and easy to make.",
+  "cuisine": "Syrian",
+  "diet": [
+    "kid-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "flaked almonds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic powder, paprika, salt, black pepper, and cumin.",
+    "Add the chicken pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken pieces onto skewers, leaving a small space between each piece.",
+    "Sprinkle the flaked almonds over the chicken pieces.",
+    "Place the skewers on a broiler pan lined with aluminum foil and broil for 10-12 minutes, or until the chicken is cooked through.",
+    "Flip the skewers halfway through the cooking time to ensure even cooking.",
+    "Remove the skewers from the oven and let them rest for a few minutes before serving.",
+    "Serve the chicken kebabs hot, garnished with additional flaked almonds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "kid-friendly",
+    "one-pan",
+    "syrian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 16
+  },
+  "slug": "gently-roasted-syrian-chicken-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gently-roasted-syrian-chicken-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:33:51Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "light",
+    "mood": "kid-friendly",
+    "technique": "broil",
+    "primaryIngredient": "flaked almonds",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "chicken",
+    "descriptor": "Gently roasted",
+    "dishForm": "Kebabs"
+  }
+}
