@@ -1,0 +1,96 @@
+{
+  "title": "Golden Brown Polish Pork Kebabs",
+  "description": "Charred and juicy Polish pork kebabs featuring apple juice and ferment kimchi, perfect for a solo dinner",
+  "cuisine": "Polish",
+  "diet": [
+    "high protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "apple juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ferment kimchi",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "4-6"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together apple juice, olive oil, garlic powder, salt, and black pepper",
+    "Add the pork pieces to the bowl and marinate for 10 minutes",
+    "Thread the marinated pork onto the bamboo skewers",
+    "Grill the kebabs for 10-12 minutes, turning occasionally",
+    "Brush the kebabs with ferment kimchi during the last 2 minutes of grilling",
+    "Serve the kebabs hot, garnished with chopped fresh parsley",
+    "Serve on a bamboo tray for a rustic presentation"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "polish-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "golden-brown-polish-pork-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-brown-polish-pork-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:43:54Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "juicy",
+    "mood": "solo-dinner",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "apple juice",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "pork",
+    "descriptor": "golden brown",
+    "dishForm": "Kebabs"
+  }
+}
