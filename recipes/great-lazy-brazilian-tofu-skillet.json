@@ -1,0 +1,102 @@
+{
+  "title": "Great Lazy Brazilian Tofu Skillet",
+  "description": "A mustardy and shattering lazy Sunday Brazilian dish featuring hoisin sauce, this plant-based friendly recipe is perfect for a relaxing day at home. It combines the flavors of Brazil with the ease of a one-pan skillet meal.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "plant-based",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "hoisin sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "brown mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until it starts to brown, about 5 minutes.",
+    "Add the chopped bell pepper and cook for an additional 2 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the cubed tofu and cook until it is golden brown on all sides, about 5 minutes.",
+    "In a small bowl, whisk together the hoisin sauce and brown mustard.",
+    "Pour the sauce into the skillet and stir to combine.",
+    "Scrape the bottom of the skillet to deglaze, releasing all the browned bits.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian-inspired",
+    "easy-dinner",
+    "lazy-sunday",
+    "one-pan",
+    "plant-based",
+    "tofu-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "great-lazy-brazilian-tofu-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/great-lazy-brazilian-tofu-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:57:15Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "shattering",
+    "mood": "lazy-sunday",
+    "technique": "deglaze",
+    "primaryIngredient": "hoisin sauce",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "tofu",
+    "descriptor": "great lazy",
+    "dishForm": "Skillet"
+  }
+}
