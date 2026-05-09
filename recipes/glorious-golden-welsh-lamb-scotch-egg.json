@@ -1,0 +1,91 @@
+{
+  "title": "Glorious Golden Welsh Lamb Scotch Egg",
+  "description": "A romantic British dish featuring lamb and citrus, low in glycemic index, served in a scotch egg form, cooked to a golden brown in an iron teppan.",
+  "cuisine": "Welsh",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb mince",
+      "amount": "1 pound",
+      "notes": "preferably Welsh lamb"
+    },
+    {
+      "name": "demerara sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the iron teppan to 375 degrees Fahrenheit.",
+    "In a large bowl, combine lamb mince, demerara sugar, lemon zest, salt, and black pepper, mixing well with your hands until just combined.",
+    "Divide the lamb mixture into 4 equal parts and shape each into a ball.",
+    "Flatten each ball into a patty, then wrap each patty around a hard-boiled egg, sealing the edges well.",
+    "Dip each scotch egg into the beaten eggs and then roll in breadcrumbs to coat.",
+    "Heat the olive oil in the preheated iron teppan and deep-fry the scotch eggs until golden brown, about 4-5 minutes on each side.",
+    "Remove the scotch eggs from the oil with a slotted spoon and drain on paper towels.",
+    "Serve the Glorious Golden Welsh Lamb Scotch Eggs hot, garnished with lemon wedges if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "deep-fried",
+    "lamb-dishes",
+    "low-glycemic",
+    "scotch-eggs",
+    "welsh-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "glorious-golden-welsh-lamb-scotch-egg",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/glorious-golden-welsh-lamb-scotch-egg",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:13:24Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "snappy",
+    "mood": "romantic",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "demerara sugar",
+    "diet": "low-glycemic",
+    "region": "welsh",
+    "cuisineAdjective": "Welsh",
+    "mainIngredient": "lamb",
+    "descriptor": "Glorious Golden",
+    "dishForm": "Scotch Egg"
+  }
+}
