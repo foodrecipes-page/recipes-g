@@ -1,0 +1,102 @@
+{
+  "title": "Glorious Glassy Uruguayan Beef Brochette",
+  "description": "A pungent and energizing Uruguayan dish featuring sherry and broiled beef, perfect for a special occasion, this recipe is onion and garlic free",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "sherry",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "gelatin",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together sherry, olive oil, lemon juice, dried oregano, salt, and black pepper.",
+    "Add the beef strips to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated beef strips onto skewers, leaving a small space between each piece.",
+    "Broil the beef skewers for 10-12 minutes, turning occasionally, until they reach an internal temperature of 135 degrees Fahrenheit.",
+    "While the beef is cooking, combine the beef broth and gelatin in a small saucepan and heat over low heat, stirring until the gelatin is dissolved.",
+    "Remove the beef from the oven and let it rest for 5 minutes.",
+    "Serve the beef brochette with the warm gelatin sauce spooned over the top.",
+    "Garnish with bay leaves and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "special-occasion",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "glorious-glassy-uruguayan-beef-brochette",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/glorious-glassy-uruguayan-beef-brochette",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:21:30Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "glassy-jelly",
+    "mood": "energizing",
+    "technique": "broil",
+    "primaryIngredient": "sherry",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "Glorious Glassy",
+    "dishForm": "Brochette"
+  }
+}
