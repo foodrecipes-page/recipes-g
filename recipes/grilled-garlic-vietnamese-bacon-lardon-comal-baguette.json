@@ -1,0 +1,97 @@
+{
+  "title": "Grilled Garlic Vietnamese Bacon Lardon Comal Baguette",
+  "description": "A Banh-Mi inspired sandwich featuring crisscrossed, smoky bacon lardon and a nutty, fermented comal-baked baguette.",
+  "cuisine": "Vietnamese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Comal-baked baguette",
+      "amount": "1",
+      "notes": "Long-fermentation-dough"
+    },
+    {
+      "name": "Smoked bacon lardons",
+      "amount": "120g",
+      "notes": "Thick-cut, smoked to 130°F"
+    },
+    {
+      "name": "Caramelized onions",
+      "amount": "120g",
+      "notes": "Slow-cooked in coconut oil"
+    },
+    {
+      "name": "Grilled garlic aioli",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Vietnamese cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "pickled carrots",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chili sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine garlic aioli, chili sauce, and a pinch of black pepper in a small bowl.",
+    "Brush the baguette with coconut oil and toast on a comal.",
+    "In a separate pan, cook bacon lardons over medium until browned and crispy.",
+    "Meanwhile, caramelize onions in coconut oil until sweet and dark brown.",
+    "Assemble the sandwich by spreading garlic aioli on the toasted bread, then topping with bacon lardons, onions, cilantro, pickled carrots, and a pinch of salt.",
+    "Drizzle with additional chili sauce if desired, and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "bayless",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 40
+  },
+  "slug": "grilled-garlic-vietnamese-bacon-lardon-comal-baguette",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/grilled-garlic-vietnamese-bacon-lardon-comal-baguette",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:59:21Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "shaggy",
+    "mood": "show-off",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "bacon lardon",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "bacon lardon",
+    "descriptor": "Grilled Garlic",
+    "dishForm": "Comal Baguette"
+  }
+}
