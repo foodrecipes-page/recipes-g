@@ -1,0 +1,137 @@
+{
+  "title": "Gooey Shattering Italian Ossobuco Braised Ossobuco",
+  "description": "A traditional Italian dish from Calabria, featuring ossobuco that is both crispy on the outside and gooey on the inside, braised in a rich and flavorful sauce. This dish is perfect for a lazy Sunday afternoon.",
+  "cuisine": "Italian",
+  "diet": [
+    "lacto-vegetarian-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "veal shanks",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "bottled white wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "onions",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "shio-koji",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "bicarbonate of soda",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season the veal shanks with salt and black pepper. ",
+    "Heat the olive oil in a large Dutch oven over medium-high heat. ",
+    "Sear the veal shanks until browned on all sides, about 2-3 minutes per side. ",
+    "Remove the veal shanks from the pot and set aside. ",
+    "Add the carrots, celery, and onions to the pot and cook until the vegetables are tender, about 5 minutes. ",
+    "Add the garlic, shio-koji, and bicarbonate of soda to the pot and cook for 1 minute. ",
+    "Add the white wine and beef broth to the pot and bring to a boil. ",
+    "Return the veal shanks to the pot and cover with a lid. ",
+    "Transfer the pot to the oven and braise the ossobuco for 2 1/2 hours, or until the meat is tender and falls off the bone. ",
+    "Remove the pot from the oven and let it cool slightly. ",
+    "Strain the sauce through a fine-mesh sieve into a clean saucepan, discarding the solids. ",
+    "Skim off any excess fat from the surface of the sauce. ",
+    "Serve the ossobuco hot, topped with the strained sauce and garnished with fresh parsley and grated Parmesan cheese.",
+    "Simmer the sauce over low heat for 10 minutes to reduce and thicken before serving.",
+    "Serve the ossobuco with additional grated Parmesan cheese and a side of sautéed greens if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 160,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "braised",
+    "high-protein",
+    "italian",
+    "lacto-vegetarian-friendly",
+    "one-pan",
+    "ossobuco",
+    "shattering",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 70,
+    "carbs": 60,
+    "fat": 80
+  },
+  "slug": "gooey-shattering-italian-ossobuco-braised-ossobuco",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-shattering-italian-ossobuco-braised-ossobuco",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:46:51Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "shattering",
+    "mood": "lazy-sunday",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "bicarbonate of soda",
+    "diet": "lacto-vegetarian",
+    "region": "calabrian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "ossobuco",
+    "descriptor": "Gooey Shattering",
+    "dishForm": "Braised Ossobuco"
+  }
+}

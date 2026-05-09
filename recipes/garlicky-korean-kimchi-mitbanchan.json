@@ -1,0 +1,105 @@
+{
+  "title": "Garlicky Korean Kimchi Mitbanchan",
+  "description": "A rich and creamy mitbanchan dish from Busan, Korea, made with garlicky kimchi and a strong white flour temper.",
+  "cuisine": "Korean",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Kimchi (store-bought or homemade)",
+      "amount": "2 cups",
+      "notes": "Chopped or finely chopped kimchi is best for this recipe."
+    },
+    {
+      "name": "Strong White Flour",
+      "amount": "2 cups",
+      "notes": "Use a high-protein flour to ensure a smooth temper."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tablespoon",
+      "notes": "Unrefined sea salt or kosher salt works well."
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": "Use a mild sugar to balance the flavors."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince the garlic to release its flavors."
+    },
+    {
+      "name": "Gochujang (Korean chili paste)",
+      "amount": "2 tablespoons",
+      "notes": "Adjust to your desired level of spiciness."
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "Use a high-quality sesame oil for the best flavor."
+    },
+    {
+      "name": "Green onions",
+      "amount": "2 tablespoons",
+      "notes": "Finely chopped green onions add a nice texture."
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "Adjust the amount of water to achieve the right temper."
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine kimchi, flour, salt, sugar, garlic, and gochujang. Blend until smooth.",
+    "Add sesame oil and blend until well combined.",
+    "Transfer the mixture to a saucepan and add water. Whisk until smooth.",
+    "Heat the mixture over medium heat, whisking constantly, until it reaches 190°F (88°C).",
+    "Remove from heat and stir in green onions. ",
+    "Let the temper cool to 160°F (71°C) before serving.",
+    "Serve warm or at room temperature, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "busan",
+    "garlicky",
+    "high-protein",
+    "kimchi",
+    "korean",
+    "mitbanchan",
+    "one-pan",
+    "velvety",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "garlicky-korean-kimchi-mitbanchan",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-korean-kimchi-mitbanchan",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:47:40Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "velvety",
+    "mood": "romantic",
+    "technique": "temper",
+    "primaryIngredient": "strong white flour",
+    "diet": "high-protein",
+    "region": "busan",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Kimchi",
+    "descriptor": "Garlicky",
+    "dishForm": "Mitbanchan"
+  }
+}

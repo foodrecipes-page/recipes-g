@@ -2732,6 +2732,24 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-korean-kimchi-mitbanchan",
+    "title": "Garlicky Korean Kimchi Mitbanchan",
+    "tags": [
+      "busan",
+      "garlicky",
+      "high-protein",
+      "kimchi",
+      "korean",
+      "mitbanchan",
+      "one-pan",
+      "velvety",
+      "weeknight"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-light-algerian-hazelnuts-tagine",
     "title": "Garlicky Light Algerian Hazelnuts Tagine",
     "tags": [
@@ -10416,6 +10434,23 @@
     ],
     "cuisine": "Russian",
     "totalTimeMin": 20,
+    "shard": "g"
+  },
+  {
+    "slug": "gooey-shattering-italian-ossobuco-braised-ossobuco",
+    "title": "Gooey Shattering Italian Ossobuco Braised Ossobuco",
+    "tags": [
+      "braised",
+      "high-protein",
+      "italian",
+      "lacto-vegetarian-friendly",
+      "one-pan",
+      "ossobuco",
+      "shattering",
+      "weeknight"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 180,
     "shard": "g"
   },
   {
