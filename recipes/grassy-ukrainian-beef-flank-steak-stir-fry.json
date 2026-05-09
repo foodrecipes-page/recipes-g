@@ -1,0 +1,122 @@
+{
+  "title": "Ukrainian Beef Flank Steak Stir-Fry",
+  "description": "A kid-friendly dish featuring sous-vide beef flank steak, fresh dill, and a hint of lemon, all in a snappy and flavorful sauce. This recipe is low in carbs and perfect for a weeknight dinner.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef flank steak",
+      "amount": "500g",
+      "notes": "1.5-2 inches thick"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "60ml",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "30ml",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "fresh dill",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "120ml",
+      "notes": ""
+    },
+    {
+      "name": "dried parsley",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "60g",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "10g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season the beef flank steak with salt and black pepper.",
+    "Place the steak in a vacuum-sealable bag and seal it at 130°F (54°C) for 2 hours.",
+    "Sear the steak in a hot skillet with olive oil for 2-3 minutes per side.",
+    "Let the steak rest for 5 minutes before slicing it thinly.",
+    "Heat the chicken broth in a large skillet over medium-high heat.",
+    "Add the sliced onion and cook until softened, about 5 minutes.",
+    "Mince the garlic and add it to the skillet, cooking for another minute.",
+    "Add the lemon juice and stir to combine.",
+    "Stir in the fresh dill, salt, and black pepper.",
+    "Return the sliced beef to the skillet and toss it with the sauce.",
+    "Serve the beef hot, topped with chopped fresh parsley and a dollop of sour cream.",
+    "Serve with a side of steamed vegetables or a simple green salad, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "ukrainian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 60,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "grassy-ukrainian-beef-flank-steak-stir-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/grassy-ukrainian-beef-flank-steak-stir-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:10:11Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "snappy",
+    "mood": "kid-friendly",
+    "technique": "sous-vide",
+    "primaryIngredient": "beef flank steak",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "ukrainian",
+    "mainIngredient": "beef flank steak",
+    "descriptor": "grassy",
+    "dishForm": "stir-fry"
+  }
+}
