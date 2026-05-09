@@ -5061,6 +5061,24 @@
     "shard": "g"
   },
   {
+    "slug": "ginger-flaky-german-bread-tagine",
+    "title": "Ginger Flaky German Bread Tagine",
+    "tags": [
+      "breakfast",
+      "flaky-crust",
+      "german-bread",
+      "gluten-free",
+      "macrobiotic",
+      "peanut-butter",
+      "snack",
+      "vegetarian",
+      "yuzu-cure"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 50,
+    "shard": "g"
+  },
+  {
     "slug": "ginger-garlic-paneer-stir-fry",
     "title": "Ginger Garlic Paneer Stir-Fry",
     "tags": [
@@ -7583,6 +7601,20 @@
     ],
     "cuisine": "Argentinian",
     "totalTimeMin": 50,
+    "shard": "g"
+  },
+  {
+    "slug": "golden-glazed-australian-rice-pilaf",
+    "title": "Golden Glazed Australian Rice Pilaf",
+    "tags": [
+      "dinner",
+      "gluten-free",
+      "high-protein",
+      "mediterranean",
+      "one-pan"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {

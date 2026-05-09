@@ -1,0 +1,99 @@
+{
+  "title": "Golden Glazed Australian Rice Pilaf",
+  "description": "A vibrant and juicy dish featuring a harmonious blend of rice, jocheong, and infuse oil, perfect for a Mediterranean-inspired meal.",
+  "cuisine": "Australian",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Long-grain Australian rice",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Korean jocheong",
+      "amount": "30ml",
+      "notes": "Sweet soybean paste"
+    },
+    {
+      "name": "Rice syrup",
+      "amount": "20ml",
+      "notes": "Similar to honey or golden syrup"
+    },
+    {
+      "name": "Infuse oil",
+      "amount": "20ml",
+      "notes": "Olive or grapeseed oil infused with garlic and herbs"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "20g",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Grated lemon zest",
+      "amount": "10g",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat 10ml of infuse oil in a large saucepan over medium heat.",
+    "Add the chopped onion and sauté for 3-4 minutes until softened.",
+    "Add the Korean jocheong and rice syrup, stirring constantly for 1-2 minutes.",
+    "Add the long-grain Australian rice and stir for 2-3 minutes until the grains are coated in the sweet paste.",
+    "Add 500ml of water to the saucepan and bring to a boil, then reduce the heat to low and cover with a tight-fitting lid.",
+    "Simmer for 18-20 minutes, or until the water has been absorbed and the rice is tender.",
+    "Remove the saucepan from the heat and let it rest for 5 minutes, still covered.",
+    "Fluff the rice with a fork and stir in the chopped parsley and grated lemon zest.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "gluten-free",
+    "high-protein",
+    "mediterranean",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 90,
+    "fat": 20
+  },
+  "slug": "golden-glazed-australian-rice-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-glazed-australian-rice-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:15:17Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "juicy",
+    "mood": "show-off",
+    "technique": "infuse-oil",
+    "primaryIngredient": "rice-syrup-jocheong",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "rice",
+    "descriptor": "Golden Glazed",
+    "dishForm": "Pilaf"
+  }
+}

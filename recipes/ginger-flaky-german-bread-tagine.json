@@ -1,0 +1,132 @@
+{
+  "title": "Ginger Flaky German Bread Tagine",
+  "description": "A yeasty, flaky German bread infused with the brightness of yuzu and the richness of peanut butter, perfect for a energizing breakfast or snack.",
+  "cuisine": "German",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Active dry yeast",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Warm water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Whole wheat flour",
+      "amount": "2 cups",
+      "notes": "Macrobiotic-friendly flour option."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Yuzu juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed or bottled."
+    },
+    {
+      "name": "Peanut butter",
+      "amount": "2 tablespoons",
+      "notes": "Smooth or crunchy, whichever you prefer."
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "",
+      "unmelted": true
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 teaspoon",
+      "notes": "Grated fresh ginger."
+    },
+    {
+      "name": "Turbinado sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Flaky sea salt",
+      "amount": "1 pinch",
+      "notes": ""
+    },
+    {
+      "name": "Yuzu-cure",
+      "amount": "1 teaspoon",
+      "notes": "Homemade or store-bought."
+    }
+  ],
+  "instructions": [
+    "In a small bowl, combine warm water and yeast. Let it sit for 5 minutes, until foamy.",
+    "In a large mixing bowl, whisk together whole wheat flour, salt, and turbinado sugar.",
+    "Add peanut butter, yuzu juice, and ginger to the flour mixture. Mix until well combined.",
+    "Add egg to the mixture and mix until a shaggy dough forms.",
+    "Add dry yeast mixture to the dough and mix until a sticky ball forms.",
+    "Knead the dough for 10 minutes, until smooth and elastic.",
+    "Place the dough in a lightly oiled bowl, cover it with plastic wrap, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 375°F (190°C).",
+    "Punch down the dough and divide it into 8 equal pieces.",
+    "Roll each piece into a ball and then flatten it slightly into a disk shape.",
+    "Place the disks into a ceramic tagine or a large Dutch oven, leaving about 1 inch of space between each bread.",
+    "Dust the top of the bread with flaky sea salt and yuzu-cure.",
+    "Cover the tagine with a lid and bake for 30 minutes.",
+    "Remove the lid and continue baking for an additional 10-15 minutes, until the bread is golden brown.",
+    "Let the bread cool for 5 minutes before serving.",
+    "While the bread is baking, heat butter in a small saucepan over medium heat until melted.",
+    "Brush the melted butter over the warm bread before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "flaky-crust",
+    "german-bread",
+    "gluten-free",
+    "macrobiotic",
+    "peanut-butter",
+    "snack",
+    "vegetarian",
+    "yuzu-cure"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "ginger-flaky-german-bread-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/ginger-flaky-german-bread-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:16:27Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "flaky",
+    "mood": "energizing",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "peanut butter",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Bread",
+    "descriptor": "Ginger Flaky",
+    "dishForm": "Tagine"
+  }
+}
