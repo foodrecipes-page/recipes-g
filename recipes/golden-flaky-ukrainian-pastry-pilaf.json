@@ -1,0 +1,111 @@
+{
+  "title": "Golden Flaky Ukrainian Pastry Pilaf",
+  "description": "A smoky and flaky Ukrainian dish featuring ghee, this crowd-pleaser is perfect for any occasion, and its ingredients are friendly to Buddhist temple dietary preferences. It is a delicious and savory pilaf that combines the richness of ghee with the heartiness of grains and vegetables.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "buddhist"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ghee",
+      "amount": "1/2 cup",
+      "notes": "clarified butter"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "mushroom",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups",
+      "notes": "uncooked"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": "for cooking rice"
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups",
+      "notes": "for pastry dough"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the ghee over medium heat and saute the onion and carrot until they are tender.",
+    "Add the mushroom to the skillet and cook until it is tender and lightly browned.",
+    "In a large bowl, combine the cooked rice, sauteed vegetables, and a pinch of salt and pepper, and mix well.",
+    "In a separate bowl, whisk together the flour and egg to make the pastry dough.",
+    "Roll out the pastry dough to a large rectangle and spread the rice and vegetable mixture over the center of the dough.",
+    "Fold the dough over the filling to form a large square or rectangle, and press the edges together to seal the pastry.",
+    "Place the pastry on a large baking sheet and brush the top with a little bit of ghee.",
+    "Bake the pastry in the preheated oven for 25-30 minutes, or until it is golden brown.",
+    "Remove the pastry from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-friendly",
+    "comfort-food",
+    "one-pan",
+    "savory",
+    "ukrainian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "golden-flaky-ukrainian-pastry-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-flaky-ukrainian-pastry-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:13:31Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "flaky",
+    "mood": "crowd-pleaser",
+    "technique": "reduce",
+    "primaryIngredient": "ghee",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "pastry",
+    "descriptor": "Golden Flaky",
+    "dishForm": "Pilaf"
+  }
+}
