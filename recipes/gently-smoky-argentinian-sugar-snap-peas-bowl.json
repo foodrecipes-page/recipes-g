@@ -1,0 +1,111 @@
+{
+  "title": "Gently Smoky Argentinian Sugar Snap Peas Bowl",
+  "description": "A smoky and aerated ovo-vegetarian Argentinian dish featuring sugar snap peas, served in a dolsot stone bowl with ssam wrap, perfect for meal prep.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sugar snap peas",
+      "amount": "1 pound",
+      "notes": "fresh"
+    },
+    {
+      "name": "ssam wrap",
+      "amount": "4 pieces",
+      "notes": "large"
+    },
+    {
+      "name": "chimichurri sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons",
+      "notes": "gently smoky"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Line a baking sheet with parchment paper and arrange the sugar snap peas in a single layer.",
+    "Drizzle the olive oil over the sugar snap peas and sprinkle with salt, black pepper, and smoked paprika.",
+    "Roast the sugar snap peas in the preheated oven for 12 minutes, or until tender.",
+    "Meanwhile, prepare the ssam wrap by cutting it into large pieces and setting aside.",
+    "In a small bowl, whisk together the chimichurri sauce, garlic, and lemon juice.",
+    "To assemble the bowls, divide the roasted sugar snap peas among four dolsot stone bowls.",
+    "Drizzle the chimichurri sauce mixture over the sugar snap peas and top with crumbled feta cheese.",
+    "Serve the bowls with ssam wrap pieces on the side, for wrapping and eating.",
+    "Allow each person to assemble their own bowl to their liking."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian-cuisine",
+    "easy-recipe",
+    "healthy-eating",
+    "lunch-bowl",
+    "meal-prep",
+    "ovo-vegetarian",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "gently-smoky-argentinian-sugar-snap-peas-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gently-smoky-argentinian-sugar-snap-peas-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:49:30Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "aerated",
+    "mood": "meal-prep",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "sugar snap peas",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "sugar snap peas",
+    "descriptor": "Gently Smoky",
+    "dishForm": "Bowl"
+  }
+}
