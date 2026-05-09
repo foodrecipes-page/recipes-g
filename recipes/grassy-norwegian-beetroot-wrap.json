@@ -1,0 +1,95 @@
+{
+  "title": "Grassy Norwegian Beetroot Wrap",
+  "description": "A macrobiotic friendly Norwegian dish featuring cooked beetroot and dashi extract, wrapped in a corn husk wrap. This dish is indulgent and features a cheese pull.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beetroot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "corn husk wraps",
+      "amount": "4 large"
+    },
+    {
+      "name": "goat cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "Wrap the beetroot in foil and roast for 45 minutes.",
+    "Mix the dashi extract with 2 tablespoons of water.",
+    "Brush the corn husk wraps with olive oil and season with salt and pepper.",
+    "Spread a quarter of the goat cheese on each wrap.",
+    "Top the cheese with roasted beetroot, parsley, and a drizzle of dashi extract mixture.",
+    "Fold the bottom half of the wrap up over the filling, then fold in the sides and roll up the wrap to form a tight cylinder.",
+    "Serve immediately and enjoy the cheese pull.",
+    "Garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "grassy",
+    "indulgent",
+    "macrobiotic",
+    "norwegian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "grassy-norwegian-beetroot-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/grassy-norwegian-beetroot-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:56:35Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "cheese-pull",
+    "mood": "indulgent",
+    "technique": "dashi-extract",
+    "primaryIngredient": "cooked beetroot",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "beetroot",
+    "descriptor": "grassy indulgent",
+    "dishForm": "Wrap"
+  }
+}
