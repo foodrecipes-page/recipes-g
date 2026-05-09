@@ -1737,6 +1737,18 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-filipino-pumpkin-pinoy-fried-rice",
+    "title": "Garlicky Filipino pumpkin pinoy fried-rice",
+    "tags": [
+      "easy-weeknight",
+      "filipino",
+      "high-carb"
+    ],
+    "cuisine": "filipino",
+    "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-filipino-reblochon-lechon",
     "title": "Garlicky Filipino Reblochon Lechon",
     "tags": [

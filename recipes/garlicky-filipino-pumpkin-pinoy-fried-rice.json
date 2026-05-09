@@ -1,0 +1,83 @@
+{
+  "title": "Garlicky Filipino pumpkin pinoy fried-rice",
+  "description": "Quick-fix filipino dish featuring pumpkin and a garlicky flavor. Ayurvedic-rajasic-friendly for a balanced meal.",
+  "cuisine": "filipino",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pumpkin",
+      "amount": "2 cups cubed",
+      "notes": "any variety of pumpkin will do, e.g. butternut squash or hubbard squash"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves minced",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 small diced",
+      "notes": ""
+    },
+    {
+      "name": "chili pepper",
+      "amount": "1 small diced",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "",
+      "quantityType": "tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the cubed pumpkin and sauté for 5 minutes or until lightly browned.",
+    "Add the garlic, onion, and chili pepper to the skillet and sauté for another 2 minutes.",
+    "Add the cooked rice to the skillet and stir-fry for 2-3 minutes or until combined with the vegetables and pumpkin.",
+    "Season with fish sauce to taste.",
+    "Serve the garlicky pumpkin pinoy fried-rice immediately and enjoy!",
+    "Cook time can be reduced by using leftover rice from a previous meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-weeknight",
+    "filipino",
+    "high-carb"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 5,
+    "carbs": 50,
+    "fat": 18
+  },
+  "slug": "garlicky-filipino-pumpkin-pinoy-fried-rice",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-filipino-pumpkin-pinoy-fried-rice",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T07:59:41Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "juicy",
+    "mood": "quick-fix",
+    "technique": "sous-vide",
+    "primaryIngredient": "pumpkin",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "pumpkin",
+    "descriptor": "Garlicky",
+    "dishForm": "Pinoy Fried-Rice"
+  }
+}
