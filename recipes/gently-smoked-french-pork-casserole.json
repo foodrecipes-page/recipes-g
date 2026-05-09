@@ -1,0 +1,98 @@
+{
+  "title": "Gently Smoked French Pork Casserole",
+  "description": "A roasted, creamy French dish featuring ground pork, smoked to perfection in a Dutch oven, suitable for a low-fat diet.",
+  "cuisine": "French",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "lean"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1/2 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large Dutch oven, cook the ground pork over medium heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion and minced garlic to the pot and cook until the onion is translucent.",
+    "Stir in the smoked paprika and dried thyme and cook for 1 minute.",
+    "Add the heavy cream and grated cheese to the pot and stir until the cheese is melted and the mixture is smooth.",
+    "Season the mixture with salt and black pepper to taste.",
+    "Transfer the pot to the preheated oven and bake for 20 minutes.",
+    "Remove the pot from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dutch-oven",
+    "french-cuisine",
+    "low-fat",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "gently-smoked-french-pork-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gently-smoked-french-pork-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:46:22Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "creamy",
+    "mood": "monsoon",
+    "technique": "smoke-cold",
+    "primaryIngredient": "ground pork",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "pork",
+    "descriptor": "Gently Smoked",
+    "dishForm": "Casserole"
+  }
+}
