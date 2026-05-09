@@ -1,0 +1,124 @@
+{
+  "title": "Garlicky Shattering Algerian Salt Cod Dolsot",
+  "description": "A hearty, flavorful Algerian-inspired dish featuring shattering salt cod in a spicy garlic broth, served in a stone bowl. Flexitarian-friendly and perfect for a weekend brunch.",
+  "cuisine": "algerian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "salt cod",
+      "amount": "2 fillets",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "dried cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "dried coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "crushed red pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the oven to 400°F (200°C).",
+    "Season the salt cod fillets with salt and black pepper.",
+    "Drizzle the olive oil in the bottom of a 3-quart Dutch oven or heavy saucepan over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the cumin, coriander, and crushed red pepper and stir for 1 minute.",
+    "Add the salt cod fillets to the pot and pour in enough water to cover them.",
+    "Bring the water to a boil, then cover the pot and transfer it to the preheated oven.",
+    "Bake for 10-12 minutes, or until the fish flakes easily with a fork.",
+    "While the fish is cooking, heat the lemon juice in a small saucepan over low heat.",
+    "Remove the fish from the oven and carefully place it on top of the cooked onion mixture.",
+    "Strain the cooking liquid and discard the solids.",
+    "Pour the cooking liquid over the fish and serve hot, garnished with chopped parsley and cilantro.",
+    "To serve, place a portion of the fish and onion mixture in the center of a hot stone bowl and pour the remaining cooking liquid around it.",
+    "Serve immediately, with crusty bread or over rice if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "algerian",
+    "breakfast",
+    "brunch",
+    "flexitarian",
+    "one-pan",
+    "salt-cod",
+    "weekend"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "garlicky-shattering-algerian-salt-cod-dolsot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-shattering-algerian-salt-cod-dolsot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:05:58Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "shattering",
+    "mood": "brunch-mood",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "salt cod",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Salt cod",
+    "descriptor": "Garlicky shattering",
+    "dishForm": "Dolsot"
+  }
+}
