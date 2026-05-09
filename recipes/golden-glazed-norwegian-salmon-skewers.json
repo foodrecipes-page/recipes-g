@@ -1,0 +1,103 @@
+{
+  "title": "Golden Glazed Norwegian Salmon Skewers",
+  "description": "A spicy and creamy Norwegian dish featuring lemon zest and mushimono-steam, perfect for adventurous eaters, served on a lazy-susan-spinner for a fun and interactive meal. This high-protein-friendly dish is sure to please.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salmon fillets",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sriracha sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Thread the salmon pieces onto skewers, leaving a small space between each piece.",
+    "In a small bowl, mix together the lemon zest, yogurt, honey, sriracha sauce, garlic powder, salt, and black pepper.",
+    "Brush the mixture onto the salmon pieces, making sure they are fully coated.",
+    "Place the skewers on a baking sheet lined with parchment paper and drizzle with olive oil.",
+    "Mushimono-steam the skewers in the oven for 8 minutes, or until the salmon is cooked through.",
+    "Remove the skewers from the oven and sprinkle with chopped parsley.",
+    "Serve the skewers on a lazy-susan-spinner and enjoy.",
+    "Garnish with additional lemon zest and parsley, if desired.",
+    "Serve immediately and be prepared for a fun and interactive meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "lazy-susan-spinner",
+    "norwegian-cuisine",
+    "seafood",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "golden-glazed-norwegian-salmon-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-glazed-norwegian-salmon-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:10:47Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "creamy",
+    "mood": "adventurous",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "lemon zest",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "salmon",
+    "descriptor": "Golden Glazed",
+    "dishForm": "Skewers"
+  }
+}
