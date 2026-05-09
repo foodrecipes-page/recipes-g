@@ -8247,6 +8247,21 @@
     "shard": "g"
   },
   {
+    "slug": "gooey-cheesy-croatian-lamb-tagine",
+    "title": "Gooey Cheesy Croatian Lamb Tagine",
+    "tags": [
+      "cheesy",
+      "comfort-food",
+      "croatian-cuisine",
+      "lamb-based",
+      "one-pot",
+      "slow-cooked"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 180,
+    "shard": "g"
+  },
+  {
     "slug": "gooey-cheesy-middle-eastern-lamb-tagine",
     "title": "Gooey, Cheesy Middle-Eastern Lamb Tagine",
     "tags": [
