@@ -2501,6 +2501,20 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-juicy-jamaican-haddock-curry",
+    "title": "Garlicky Juicy Jamaican Haddock Curry",
+    "tags": [
+      "curry-dish",
+      "garlicky",
+      "jamaican-cuisine",
+      "smoked-tofu",
+      "vegan-friendly"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 40,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-juicy-onion-stir-fry",
     "title": "Garlicky Juicy Onion Stir-fry",
     "tags": [

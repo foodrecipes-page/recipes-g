@@ -1,0 +1,92 @@
+{
+  "title": "Garlicky Juicy Jamaican Haddock Curry",
+  "description": "A flavorful and aromatic curry dish featuring smoked haddock, with a garlicky and juicy twist, inspired by Jamaican cuisine, and made vegan-friendly by using plant-based alternatives.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoked tofu",
+      "amount": "1 block",
+      "notes": "marinated in a mixture of soy sauce and spices"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 sprig"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "use gloves when handling"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pan over medium heat.",
+    "Add the onion and garlic and saute until the onion is translucent.",
+    "Add the curry powder and thyme and cook for 1 minute.",
+    "Add the smoked tofu and cook for 2 minutes.",
+    "Add the coconut milk and scotch bonnet peppers and bring to a simmer.",
+    "Reduce the heat to low and let cook for 10 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or with roti.",
+    "Garnish with fresh cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "curry-dish",
+    "garlicky",
+    "jamaican-cuisine",
+    "smoked-tofu",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "garlicky-juicy-jamaican-haddock-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-juicy-jamaican-haddock-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:24:13Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "juicy",
+    "mood": "monsoon",
+    "technique": "brine-dry",
+    "primaryIngredient": "smoked haddock",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "haddock",
+    "descriptor": "Garlicky Juicy",
+    "dishForm": "Curry"
+  }
+}
