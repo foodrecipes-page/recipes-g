@@ -1,0 +1,119 @@
+{
+  "title": "Garlic-Infused Grilled Vietnamese Tiger Prawns Bánh Mì",
+  "description": "Fresh, molten, brunch-mood Vietnamese dish featuring tiger prawns, wood-fired-bake, ayurvedic-tamasic-friendly, form=banh-mi, vessel=tajine-clay.",
+  "cuisine": "Vietnamese",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Tiger prawns (12)",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "Vietnamese chili flakes",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic cloves (4)",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro (for garnish)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vietnamese baguette",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Pickled carrots and daikon",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sriracha sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Tajine clay",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your wood-fired grill to 400°F (200°C).",
+    "Rinse the tiger prawns and pat dry with paper towels.",
+    "Season the prawns with Vietnamese chili flakes, salt, and black pepper.",
+    "Grill the prawns for 2-3 minutes per side, or until they turn pink and are cooked through.",
+    "Meanwhile, warm the baguette by wrapping it in foil and heating it on the grill for 2-3 minutes.",
+    "Spread mayonnaise on the bottom half of the baguette.",
+    "Add pickled carrots and daikon on top of the mayonnaise.",
+    "Place the grilled prawns on top of the vegetables.",
+    "Squeeze a sliver of lime juice over the prawns.",
+    "Sprinkle chopped cilantro on top of the prawns.",
+    "Place the top half of the baguette on the sandwich.",
+    "Cut the sandwich in half and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "banh-mi",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 44,
+    "carbs": 40,
+    "fat": 28
+  },
+  "slug": "garlic-infused-grilled-vietnamese-tiger-prawns-banh-mi",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/garlic-infused-grilled-vietnamese-tiger-prawns-banh-mi",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T23:47:59Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "molten",
+    "mood": "brunch-mood",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "tiger prawns",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "tiger prawns",
+    "descriptor": "Garlic-Infused Grilled",
+    "dishForm": "Bánh Mì"
+  }
+}
