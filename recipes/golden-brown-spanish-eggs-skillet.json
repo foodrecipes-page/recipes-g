@@ -1,0 +1,100 @@
+{
+  "title": "Golden Brown Spanish Eggs Skillet",
+  "description": "A flexitarian friendly Spanish dish featuring jammy eggs, cheese pull, and green salsa, perfect for a brunch mood.",
+  "cuisine": "Spanish",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "green salsa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "Monterey Jack or Cheddar"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large oven safe skillet over medium high heat.",
+    "Add the diced onion and bell pepper and cook until they start to soften.",
+    "Add the smoked paprika, salt, and black pepper, and stir to combine.",
+    "Pour in the green salsa and stir to combine, then bring the mixture to a simmer.",
+    "Make 6 wells in the salsa mixture and crack an egg into each well.",
+    "Transfer the skillet to the oven and bake at 375 degrees until the eggs are cooked to desired doneness.",
+    "Remove the skillet from the oven and sprinkle the shredded cheese over the top.",
+    "Return the skillet to the oven and bake until the cheese is melted and golden brown.",
+    "Remove the skillet from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "cheesy",
+    "eggs",
+    "flexitarian",
+    "one-pan",
+    "spanish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "golden-brown-spanish-eggs-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-brown-spanish-eggs-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:38:23Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "cheese-pull",
+    "mood": "brunch-mood",
+    "technique": "saute",
+    "primaryIngredient": "green salsa",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "eggs",
+    "descriptor": "Golden Brown",
+    "dishForm": "Skillet"
+  }
+}
