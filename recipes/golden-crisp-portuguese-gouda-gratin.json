@@ -1,0 +1,104 @@
+{
+  "title": "Golden Crisp Portuguese Gouda Gratin",
+  "description": "A one-pot Portuguese dish featuring crispy Gouda cheese and bitter namul, cooked to perfection in a robata grill, this gratin is a Mediterranean-friendly delight that combines the best of Portuguese and Asian flavors in a single vessel.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gouda cheese",
+      "amount": "1 cup shredded",
+      "notes": "smoked Gouda recommended"
+    },
+    {
+      "name": "namul",
+      "amount": "1 cup",
+      "notes": " Asian-style greens"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bread crumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400 degrees Fahrenheit.",
+    "In a large bowl, blanch the namul in boiling water for 30 seconds, then immediately submerge it in an ice bath to stop the cooking process.",
+    "In the same bowl, mix together the blanched namul, olive oil, garlic, lemon juice, salt, black pepper, and paprika.",
+    "In a separate bowl, mix together the shredded Gouda cheese and bread crumbs.",
+    "Add the cheese and bread crumb mixture to the namul mixture and stir until well combined.",
+    "Transfer the mixture to a robata grill vessel and top with additional bread crumbs and parsley.",
+    "Cook the gratin in the preheated robata grill for 20 minutes, or until the top is golden brown and the cheese is melted and bubbly.",
+    "Remove the gratin from the grill and let it cool for 5 minutes before serving.",
+    "Serve the gratin hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gouda-cheese",
+    "mediterranean-friendly",
+    "namul",
+    "one-pot",
+    "portuguese",
+    "robata-grill",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "golden-crisp-portuguese-gouda-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-crisp-portuguese-gouda-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:33:47Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crisp",
+    "mood": "one-pot",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "gouda cheese",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Gouda",
+    "descriptor": "Golden Crisp",
+    "dishForm": "Gratin"
+  }
+}
