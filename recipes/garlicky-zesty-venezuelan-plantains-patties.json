@@ -1,0 +1,103 @@
+{
+  "title": "Garlicky Zesty Venezuelan Plantains Patties",
+  "description": "Crispy plantain patties infused with the flavors of Venezuela, featuring dark chocolate chips and coconut-cream-crack.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ripe plantains",
+      "amount": "4",
+      "notes": "green"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "shredded coconut",
+      "amount": "1 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "1/4 cup",
+      "notes": "at least 70% cocoa"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 F (190 C).",
+    "Peel the plantains and slice them into 1-inch rounds.",
+    "In a large bowl, mash the plantain slices with a fork until they're mostly smooth.",
+    "Add the minced garlic, shredded coconut, coconut cream, flour, and dark chocolate chips to the bowl.",
+    "Stir until well combined, then cover the bowl with plastic wrap and refrigerate for at least 30 minutes.",
+    "In a separate bowl, beat the eggs until they're lightly beaten.",
+    "Add the eggs to the plantain mixture and stir until just combined.",
+    "Heat the vegetable oil in a large nonstick skillet over medium-high heat.",
+    "Using a 1/4 cup measuring cup, scoop the plantain mixture into the skillet and flatten slightly.",
+    "Cook the patties for 3-4 minutes on each side, or until they're golden brown and crispy.",
+    "Transfer the patties to a baking sheet and bake for an additional 10-12 minutes, or until cooked through.",
+    "Serve the patties hot with your favorite toppings."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "latin-american",
+    "one-pan",
+    "snack",
+    "vegan-option",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 14
+  },
+  "slug": "garlicky-zesty-venezuelan-plantains-patties",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-zesty-venezuelan-plantains-patties",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T21:37:10Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crispy",
+    "mood": "monsoon",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "dark chocolate chips",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "plantains",
+    "descriptor": "Garlicky Zesty",
+    "dishForm": "Patties"
+  }
+}
