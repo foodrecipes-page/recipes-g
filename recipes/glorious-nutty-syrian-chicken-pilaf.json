@@ -1,0 +1,104 @@
+{
+  "title": "Glorious Nutty Syrian Chicken Pilaf",
+  "description": "A nutty and creamy Syrian dish featuring chicken stock cube, this recipe is a gluten-free friendly option for a delicious meal, cooked to perfection on a slate-tile vessel.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "chicken stock cube",
+      "amount": "2 cubes"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "almonds",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pistachios",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the slate-tile vessel over medium heat.",
+    "Add the olive oil, chopped onion, and minced garlic, and cook until the onion is translucent.",
+    "Add the sliced almonds and cook for 2 minutes, stirring frequently.",
+    "Add the chicken breast and cook until browned on all sides.",
+    "Add the chicken stock cube, salt, and black pepper, and stir to combine.",
+    "Add the basmati rice and stir to combine with the chicken and spices.",
+    "Add 4 cups of water to the vessel and bring to a boil.",
+    "Reduce the heat to low, cover the vessel, and simmer for 20 minutes.",
+    "Stir in the chopped pistachios and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "creamy",
+    "gluten-free",
+    "nutty",
+    "one-pot",
+    "syrian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "glorious-nutty-syrian-chicken-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/glorious-nutty-syrian-chicken-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:46:13Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "creamy",
+    "mood": "energizing",
+    "technique": "brine-dry",
+    "primaryIngredient": "chicken stock cube",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "chicken",
+    "descriptor": "Glorious Nutty",
+    "dishForm": "Pilaf"
+  }
+}
