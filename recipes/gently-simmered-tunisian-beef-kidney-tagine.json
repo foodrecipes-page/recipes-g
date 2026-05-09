@@ -1,0 +1,108 @@
+{
+  "title": "Tunisian Beef Kidney Tagine",
+  "description": "A rich and romantic Tunisian dish featuring beef kidney in a molten sauce, free from onions and garlic, making it suitable for those with sensitivities.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "halal",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef kidney",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "prunes",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the bottom of a clay or ceramic tagine or a large Dutch oven over medium heat.",
+    "Add the beef kidney pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the lemon juice, paprika, cumin, coriander, cayenne pepper, salt, and black pepper, and stir to combine.",
+    "Add the chicken broth, dried apricots, and prunes, and bring the mixture to a boil.",
+    "Reduce the heat to low, cover the tagine or Dutch oven, and simmer, covered, for 2 1/2 hours, or until the kidney is tender.",
+    "Serve the tagine hot, garnished with fresh parsley or cilantro, if desired.",
+    "Traditionally, the tagine is served with crusty bread or over couscous.",
+    "You can also serve it with a side of steamed vegetables or a simple green salad."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-kidney",
+    "north-african",
+    "romantic-dinner",
+    "slow-cooked",
+    "tagine",
+    "tunisian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "gently-simmered-tunisian-beef-kidney-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gently-simmered-tunisian-beef-kidney-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:08:18Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "molten",
+    "mood": "romantic",
+    "technique": "brine-wet",
+    "primaryIngredient": "beef kidney",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "beef kidney",
+    "descriptor": "Gently simmered",
+    "dishForm": "Tagine"
+  }
+}

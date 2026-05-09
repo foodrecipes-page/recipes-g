@@ -4464,6 +4464,21 @@
     "shard": "g"
   },
   {
+    "slug": "gently-simmered-tunisian-beef-kidney-tagine",
+    "title": "Tunisian Beef Kidney Tagine",
+    "tags": [
+      "beef-kidney",
+      "north-african",
+      "romantic-dinner",
+      "slow-cooked",
+      "tagine",
+      "tunisian-cuisine"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 170,
+    "shard": "g"
+  },
+  {
     "slug": "gently-simmered-turkish-turkey-mince-kuru-fasulye",
     "title": "Gently Simmered Turkish Turkey Mince Kuru Fasulye",
     "tags": [
@@ -7338,6 +7353,20 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
+    "slug": "golden-moroccan-chicken-tagine",
+    "title": "Golden Moroccan Chicken Tagine",
+    "tags": [
+      "ayurvedic-friendly",
+      "comfort-food",
+      "gluten-free",
+      "moroccan-cuisine",
+      "one-pot"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 60,
     "shard": "g"
   },
   {

@@ -1,0 +1,113 @@
+{
+  "title": "Golden Moroccan Chicken Tagine",
+  "description": "A funky, crispy, and comforting Moroccan dish featuring cultured creme fraiche, steam, and ayurvedic tamasic friendly ingredients, cooked to perfection in a donabe vessel.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free",
+    "ayurvedic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "creme fraiche",
+      "amount": "1/2 cup",
+      "notes": "cultured"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tablespoons",
+      "notes": "smoked"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "kosher"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat the donabe vessel over medium heat, adding the olive oil to the bottom of the pot.",
+    "Add the sliced onion to the pot, cooking until it is lightly browned and caramelized.",
+    "Add the minced garlic and grated ginger to the pot, cooking for an additional 1-2 minutes until fragrant.",
+    "Add the chicken thighs to the pot, browning on all sides until cooked through.",
+    "Add the smoked paprika, ground cumin, cayenne pepper, salt, and black pepper to the pot, stirring to combine.",
+    "Add the cultured creme fraiche to the pot, stirring to combine and bringing the mixture to a simmer.",
+    "Reduce the heat to low and cover the pot, allowing the tagine to steam and cook for an additional 20-25 minutes.",
+    "Serve the golden moroccan chicken tagine hot, garnished with fresh herbs and crusty bread on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "comfort-food",
+    "gluten-free",
+    "moroccan-cuisine",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "golden-moroccan-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-moroccan-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:08:29Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crispy",
+    "mood": "comforting",
+    "technique": "steam",
+    "primaryIngredient": "cultured-creme-fraiche",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "chicken",
+    "descriptor": "Golden Crispy",
+    "dishForm": "Tagine"
+  }
+}
