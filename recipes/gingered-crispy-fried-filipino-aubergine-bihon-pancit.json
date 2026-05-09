@@ -1,0 +1,127 @@
+{
+  "title": "Gingered Crispy Fried Filipino Aubergine Bihon Pancit",
+  "description": "Show-off Filipino dish featuring charred, bouncy-qq aubergine, double-fry-kfc style, jain-friendly, served in a dolsot stone bowl.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "aubergine",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "3 inches",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "rice flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "bihon noodles",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "to garnish",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or deep frying pan over medium-high heat.",
+    "Add sliced ginger and cook until fragrant, about 1 minute.",
+    "Add minced garlic and cook for another minute.",
+    "Add sliced aubergine and cook until browned, about 3-4 minutes per side.",
+    "Remove aubergine from oil and set aside.",
+    "In a bowl, mix together rice flour, bihon noodles, fish sauce, soy sauce, sugar, water, salt, and black pepper.",
+    "Add the mixture to the oil and cook, stirring constantly, until the mixture is crispy and golden, about 2-3 minutes.",
+    "Return the aubergine to the oil and stir to combine with the crispy mixture.",
+    "Cook for an additional 2 minutes, until the aubergine is well coated.",
+    "Transfer the aubergine to a dolsot stone bowl and garnish with toasted sesame seeds.",
+    "Serve immediately, with a side of steamed rice if desired.",
+    "Cook the remaining crispy mixture in a small saucepan over low heat, stirring constantly, until it reaches a golden brown color, about 2-3 minutes.",
+    "Serve the crispy mixture on top of the aubergine, and drizzle with additional fish sauce and soy sauce if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "high-protein",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "gingered-crispy-fried-filipino-aubergine-bihon-pancit",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/gingered-crispy-fried-filipino-aubergine-bihon-pancit",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:12:38Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "bouncy-qq",
+    "mood": "show-off",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "aubergine",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "aubergine",
+    "descriptor": "Gingered Crispy Fried",
+    "dishForm": "Bihon Pancit"
+  }
+}

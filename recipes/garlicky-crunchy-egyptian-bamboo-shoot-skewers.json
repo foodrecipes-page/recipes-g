@@ -1,0 +1,111 @@
+{
+  "title": "Garlicky Crunchy Egyptian Bamboo Shoot Skewers",
+  "description": "A flavorful and crunchy kid-friendly dish from Egypt, perfect for a quick lunch or snack. The combination of bamboo shoots, vegetables, and herbs creates a delicious and healthy meal.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "vegan-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bamboo shoots",
+      "amount": "400g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Thread the bamboo shoots, onion, carrot, and garlic onto skewers.",
+    "In a large bowl, mix together the chopped parsley, cumin, coriander, paprika, salt, and black pepper.",
+    "Add the olive oil and lemon juice to the bowl and mix well.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Brush the skewers with the olive oil mixture and grill for 10-12 minutes, turning occasionally.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "grill",
+    "kid-friendly",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "garlicky-crunchy-egyptian-bamboo-shoot-skewers",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-crunchy-egyptian-bamboo-shoot-skewers",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:12:49Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crunchy",
+    "mood": "kid-friendly",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "bamboo shoot",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "bamboo shoot",
+    "descriptor": "garlicky crunchy",
+    "dishForm": "Skewers"
+  }
+}

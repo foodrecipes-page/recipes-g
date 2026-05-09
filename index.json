@@ -1503,6 +1503,20 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-crunchy-egyptian-bamboo-shoot-skewers",
+    "title": "Garlicky Crunchy Egyptian Bamboo Shoot Skewers",
+    "tags": [
+      "easy-to-make",
+      "grill",
+      "kid-friendly",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 32,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-crunchy-greek-lamb-skewers",
     "title": "Garlicky Crunchy Greek Lamb Skewers",
     "tags": [
@@ -5100,6 +5114,20 @@
     ],
     "cuisine": "Tunisian",
     "totalTimeMin": 65,
+    "shard": "g"
+  },
+  {
+    "slug": "gingered-crispy-fried-filipino-aubergine-bihon-pancit",
+    "title": "Gingered Crispy Fried Filipino Aubergine Bihon Pancit",
+    "tags": [
+      "filipino",
+      "high-protein",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 30,
     "shard": "g"
   },
   {
