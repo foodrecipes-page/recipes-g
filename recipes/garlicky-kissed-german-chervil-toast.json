@@ -1,0 +1,104 @@
+{
+  "title": "Garlicky Kissed German Chervil Toast",
+  "description": "A simple, pillowy German dish featuring chervil, perfect for a lazy Sunday morning. This recipe is macrobiotic-friendly, making it a great option for those following a balanced diet.",
+  "cuisine": "german",
+  "diet": [
+    "macrobiotic",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Chervil",
+      "amount": "1 bunch",
+      "notes": "Fresh and fragrant."
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Mince for best flavor."
+    },
+    {
+      "name": "Lemon",
+      "amount": "1",
+      "notes": "Juice for garnish."
+    },
+    {
+      "name": "Toast",
+      "amount": "4 slices",
+      "notes": "Day-old bread works best."
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For toasting bread."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning."
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "For seasoning."
+    },
+    {
+      "name": "Water",
+      "amount": "2 tbsp",
+      "notes": "For rehydrating chervil."
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Toast bread for 2-3 minutes, or until lightly browned.",
+    "In a small bowl, combine minced garlic and 1 tbsp olive oil. ",
+    "Brush garlic mixture onto toasted bread. ",
+    "Rehydrate chervil by soaking it in 2 tbsp water for 5 minutes.",
+    "Pat dry chervil with a paper towel and chop finely. ",
+    "Sprinkle chopped chervil over garlic-infused bread. ",
+    "Season with salt and black pepper to taste.",
+    "Drizzle with lemon juice and serve immediately.",
+    "Serve in a lacquerware bowl for a touch of elegance.",
+    " Garnish with additional chervil if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "easy",
+    "german",
+    "gluten-free",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "garlicky-kissed-german-chervil-toast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-kissed-german-chervil-toast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:57:58Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "pillowy",
+    "mood": "lazy-sunday",
+    "technique": "toast",
+    "primaryIngredient": "chervil",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "chervil",
+    "descriptor": "garlicky kissed",
+    "dishForm": "Toast"
+  }
+}

@@ -2717,6 +2717,22 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-kissed-german-chervil-toast",
+    "title": "Garlicky Kissed German Chervil Toast",
+    "tags": [
+      "breakfast",
+      "easy",
+      "german",
+      "gluten-free",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 20,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-korean-chicken-stir-fry",
     "title": "Garlicky Korean Chicken Stir-fry",
     "tags": [
@@ -9211,6 +9227,19 @@
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 17,
+    "shard": "g"
+  },
+  {
+    "slug": "golubyi-dense-midnight-craving-roasted-pepper-russian-roast-gratin",
+    "title": "Golubyi Dense Midnight-Craving Roasted Pepper Russian Roast Gratin",
+    "tags": [
+      "comfort-food",
+      "low-fat",
+      "midnight-snack",
+      "russian-cuisine"
+    ],
+    "cuisine": "russian",
+    "totalTimeMin": 75,
     "shard": "g"
   },
   {
