@@ -1,0 +1,93 @@
+{
+  "title": "Gentle Simmered Ethiopian Lentil Stew",
+  "description": "A fresh and tender Ethiopian dish featuring garlic powder and nuka-pickle, prepared in a hot pot vessel, suitable for a Buddhist temple gathering.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils and drain well.",
+    "Heat the hot pot vessel over medium heat.",
+    "Add the chopped onion and cook until softened.",
+    "Add the garlic powder, nuka-pickle, berbere spice, and salt, and cook for 1 minute.",
+    "Add the lentils, vegetable broth, and tomato paste, and stir well.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 30 minutes.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired.",
+    "Store any leftovers in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "buddhist-temple-friendly",
+    "high-protein",
+    "one-pot",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "gentle-simmered-ethiopian-lentil-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gentle-simmered-ethiopian-lentil-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:34:55Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "tender",
+    "mood": "meal-prep",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "garlic powder",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lentils",
+    "descriptor": "Gentle Simmered",
+    "dishForm": "Stew"
+  }
+}
