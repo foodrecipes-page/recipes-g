@@ -1,0 +1,109 @@
+{
+  "title": "Garlicky Indulgent Tunisian Marzipan Tagine",
+  "description": "A rich and aromatic tagine made with marzipan, garlic, and spices, perfect for a special occasion.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Almond paste (marzipan)",
+      "amount": "250g"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "8",
+      "notes": "peeled and minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "60ml"
+    },
+    {
+      "name": "Ground ginger",
+      "amount": "1.5 tsp"
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "100g"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "120ml"
+    },
+    {
+      "name": "Confectioners' sugar",
+      "amount": "50g"
+    },
+    {
+      "name": "Pistachios, chopped",
+      "amount": "25g"
+    },
+    {
+      "name": "Rose water",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large saucepan, heat the olive oil over low heat.",
+    "Add the minced garlic and cook for 8-10 minutes, stirring occasionally, until it is lightly caramelized.",
+    "Add the ground ginger, cinnamon, cumin, and salt to the saucepan and cook for 1-2 minutes, stirring constantly.",
+    "Add the almond paste (marzipan) to the saucepan and cook for 2-3 minutes, stirring constantly, until it is lightly toasted.",
+    "Add the granulated sugar to the saucepan and cook for 1-2 minutes, stirring constantly, until it is well combined with the almond paste.",
+    "In a separate bowl, whisk together the heavy cream and confectioners' sugar until stiff peaks form.",
+    "Add the rose water to the cream mixture and whisk until well combined.",
+    "Pour the cream mixture over the saucepan mixture and stir until well combined.",
+    "Bring the mixture to a simmer over low heat and cook for 5-7 minutes, stirring occasionally, until it has thickened slightly.",
+    "Remove the saucepan from the heat and let it cool slightly.",
+    "Transfer the mixture to a serving dish or individual ramekins and chill in the refrigerator for at least 2 hours.",
+    "Just before serving, sprinkle the chopped pistachios over the top of the tagine."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "dessert",
+    "garlic",
+    "marzipan",
+    "rich",
+    "special-occasion",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 8,
+    "carbs": 64,
+    "fat": 26
+  },
+  "slug": "garlicky-indulgent-tunisian-marzipan-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-indulgent-tunisian-marzipan-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T08:59:38Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "dense",
+    "mood": "indulgent",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "marzipan",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Marzipan",
+    "descriptor": "Garlicky Indulgent",
+    "dishForm": "Tagine"
+  }
+}
