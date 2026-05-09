@@ -1,0 +1,352 @@
+{
+  "title": "Glassy-Jelly Fermented Norwegian Cheonggukjang Stir-Fry",
+  "description": "A romantic Norwegian dish featuring fermented cheonggukjang in a glassy-jelly state, stir-fried in a low-glycemic-friendly manner, served in individual mini-cocottes.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-carb",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cheonggukjang Korean fermented soybean paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Glassy-Jelly (made from agar agar and apple juice)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Shredded zucchini",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sliced red bell pepper",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sliced red onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ghee or dairy-free substitute",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro leaves for garnish",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Apple juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salted water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Balsamic vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Chopped lemongrass",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Fresh chilies",
+      "amount": "2-3",
+      "notes": ""
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Herbs de Provence",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Grated carrot",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Grated zucchini",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh basil leaves",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Balsamic glaze",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Sour cream or dairy-free substitute",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro leaves for garnish",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro-stuffed grape leaves",
+      "amount": "2-3",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro-lime rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Saffron threads",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Saffron-infused water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Ginger-garlic paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chili-garlic paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro-chili sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 1/2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "3/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ghee or dairy-free substitute",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Herbs de Provence",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Saffron threads",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro leaves for garnish",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sour cream or dairy-free substitute",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro-lime rice",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onions and cook until translucent, about 3-4 minutes.",
+    "Add the grated zucchini and cook for another 2-3 minutes, until tender.",
+    "Add the sliced red bell pepper and cook for 2-3 minutes, until tender.",
+    "Add the Korean chili flakes, salt, and black pepper, and cook for 1 minute.",
+    "Stir in the cheonggukjang Korean fermented soybean paste and cook for 1-2 minutes, until fragrant.",
+    "Add the glassy-jelly mixture and stir to combine.",
+    "Cook for an additional 2-3 minutes, until the glassy-jelly has set.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the stir-fry to individual mini-cocottes and garnish with chopped cilantro and a dollop of sour cream or dairy-free substitute.",
+    "Serve warm or at room temperature, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "low-glycemic",
+    "norwegian",
+    "one-pan",
+    "romantic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "glassy-jelly-fermented-norwegian-cheonggukjang-stir-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/glassy-jelly-fermented-norwegian-cheonggukjang-stir-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:52:06Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "glassy-jelly",
+    "mood": "romantic",
+    "technique": "stir-fry",
+    "primaryIngredient": "cheonggukjang",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "norwegian",
+    "mainIngredient": "cheonggukjang",
+    "descriptor": "glassy-jelly fermented",
+    "dishForm": "stir-fry"
+  }
+}
