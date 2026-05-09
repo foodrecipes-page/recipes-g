@@ -1,0 +1,104 @@
+{
+  "title": "Gently Smoked Portuguese Yogurt Curry",
+  "description": "A creamy and smoky curry made with yogurt and traditional Portuguese spices, served on a beautiful talavera plate. This dish is perfect for a weeknight dinner and is ayurvedic-rajasic-friendly.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yogurt",
+      "amount": "1 cup",
+      "notes": "plain, full-fat"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ghee",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and grated ginger and cook for 1 minute, stirring constantly.",
+    "Stir in the smoked paprika, cumin, coriander, salt, and black pepper and cook for 1 minute.",
+    "Add the yogurt to the saucepan and stir to combine with the spice mixture.",
+    "Reduce the heat to low and simmer the curry for 10 minutes, stirring occasionally.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the curry hot, garnished with chopped fresh cilantro if desired.",
+    "Serve on a talavera plate for a beautiful and traditional presentation."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "portuguese-cuisine",
+    "smoked",
+    "vegetarian",
+    "weeknight",
+    "yogurt-based"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "gently-smoked-portuguese-yogurt-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gently-smoked-portuguese-yogurt-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:43:56Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "glassy-jelly",
+    "mood": "weeknight",
+    "technique": "smoke",
+    "primaryIngredient": "yogurt",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "yogurt",
+    "descriptor": "Gently Smoked",
+    "dishForm": "Curry"
+  }
+}
