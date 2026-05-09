@@ -4405,6 +4405,22 @@
     "shard": "g"
   },
   {
+    "slug": "gentle-mexican-beef-stew",
+    "title": "Gentle Mexican Beef Stew",
+    "tags": [
+      "beef",
+      "comfort-food",
+      "lacto-vegetarian",
+      "mexican",
+      "one-pot",
+      "slow-cooker",
+      "stew"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 180,
+    "shard": "g"
+  },
+  {
     "slug": "gentle-silky-argentinian-seitan-stew",
     "title": "Gentle Silky Argentinian Seitan Stew",
     "tags": [

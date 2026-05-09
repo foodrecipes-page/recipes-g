@@ -1,0 +1,111 @@
+{
+  "title": "Gentle Mexican Beef Stew",
+  "description": "A rich and velvety Mexican stew featuring minced beef, perfect for a hangover cure, made in a terracotta dish with lacto-vegetarian friendly ingredients. This slow-cooked stew is a hearty and comforting Sonoran dish.",
+  "cuisine": "Mexican",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "minced beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "monterey jack cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "kosher"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large skillet, cook the minced beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the diced onion to the skillet and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Transfer the beef and onion mixture to a terracotta dish.",
+    "Add the diced tomatoes, beef broth, cumin, paprika, salt, and black pepper to the terracotta dish and stir to combine.",
+    "Cover the dish with a lid or foil and transfer it to the preheated oven.",
+    "Bake the stew for 2 1/2 hours, or until the flavors have melded together and the meat is tender.",
+    "Remove the dish from the oven and stir in the shredded monterey jack cheese until it is melted and the stew is creamy.",
+    "Serve the stew hot, garnished with fresh cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "comfort-food",
+    "lacto-vegetarian",
+    "mexican",
+    "one-pot",
+    "slow-cooker",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "gentle-mexican-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gentle-mexican-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:38:36Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "velvety",
+    "mood": "hangover-cure",
+    "technique": "slow-cook",
+    "primaryIngredient": "minced beef",
+    "diet": "lacto-vegetarian",
+    "region": "sonoran",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "beef",
+    "descriptor": "gentle slow cooked",
+    "dishForm": "Stew"
+  }
+}
