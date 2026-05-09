@@ -1,0 +1,99 @@
+{
+  "title": "Garlicky Crisp Vietnamese Garlic Pho",
+  "description": "This one-pot dish combines the flavors of Vietnam with a garlicky kick and a crunchy texture.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "onion salt",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups",
+      "notes": "make sure it's tamasic-friendly"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "use 3 cloves for the oil, 3 for the broth"
+    },
+    {
+      "name": "black peppercorns",
+      "amount": "8",
+      "notes": "crush them before cooking"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": " bruise them with a spoon before cooking"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "slice it thinly before cooking"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "use for frying the garlic and onions"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 pound",
+      "notes": "preferably fresh"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of coconut oil in a large pot over medium heat.",
+    "Add 3 cloves of garlic and fry until crispy, about 2 minutes.",
+    "Remove the garlic from the pot and set aside.",
+    "Add the remaining garlic, onion salt, and black peppercorns to the pot and stir for 1 minute.",
+    "Add the lemongrass, ginger, and beef broth to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Add the rice noodles to the pot and cook until they're tender, about 5 minutes.",
+    "Divide the noodles among bowls and top with the crispy garlic, fried in the remaining coconut oil.",
+    "Serve hot and enjoy!",
+    "Season with additional onion salt and black pepper to taste.",
+    "Garnish with chopped scallions and fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "rice-noodle",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "garlicky-crisp-vietnamese-garlic-pho",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-crisp-vietnamese-garlic-pho",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:49:05Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crisp",
+    "mood": "one-pot",
+    "technique": "sous-vide",
+    "primaryIngredient": "onion salt",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "garlic",
+    "descriptor": "garlicky crisp",
+    "dishForm": "Pho"
+  }
+}

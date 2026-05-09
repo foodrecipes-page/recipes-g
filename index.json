@@ -1109,6 +1109,19 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-crisp-vietnamese-garlic-pho",
+    "title": "Garlicky Crisp Vietnamese Garlic Pho",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "rice-noodle",
+      "vietnamese-cuisine"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-crispy-american-chicken-stir-fry",
     "title": "Garlicky Crispy American Chicken Stir-fry",
     "tags": [
@@ -2950,6 +2963,22 @@
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 50,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-molten-canadian-garlic-gratin",
+    "title": "garlicky molten canadian garlic gratin",
+    "tags": [
+      "canadian",
+      "comfort-food",
+      "fall",
+      "gluten-free",
+      "macrobiotic-friendly",
+      "vegan-option",
+      "winter"
+    ],
+    "cuisine": "canadian",
+    "totalTimeMin": 60,
     "shard": "g"
   },
   {
@@ -9511,6 +9540,21 @@
     "shard": "g"
   },
   {
+    "slug": "gooey-citrusy-roast-filipino-liver-roast",
+    "title": "Gooey Citrusy Roast Filipino Liver Roast",
+    "tags": [
+      "easy-dinner",
+      "filipino",
+      "liver",
+      "one-pan",
+      "roast",
+      "weeknight"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 40,
+    "shard": "g"
+  },
+  {
     "slug": "gooey-citrusy-russian-falafel-skillet",
     "title": "Gooey Citrusy Russian Falafel Skillet",
     "tags": [
@@ -11765,6 +11809,22 @@
     ],
     "cuisine": "ukrainian",
     "totalTimeMin": 45,
+    "shard": "g"
+  },
+  {
+    "slug": "grassy-velvety-hangover-cure-polish-polish-dish-pierogi",
+    "title": "Grassy Velvety Hangover-Cure Polish Pierogi",
+    "tags": [
+      "filling",
+      "hangover-cure",
+      "high-protein",
+      "jain",
+      "pierogi",
+      "polish",
+      "weeknight"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {

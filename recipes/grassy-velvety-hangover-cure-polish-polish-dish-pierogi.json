@@ -1,0 +1,102 @@
+{
+  "title": "Grassy Velvety Hangover-Cure Polish Pierogi",
+  "description": "A jain-friendly Polish dish featuring unflavoured gelatin, brine-dried vegetables, and a grassy, velvety filling. Perfect for a hangover cure.",
+  "cuisine": "Polish",
+  "diet": [
+    "jain",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Unflavoured Gelatin",
+      "amount": "4 sheets"
+    },
+    {
+      "name": "Brine-Dried Cabbage",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Brine-Dried Carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Grass-Fed Dandelion Greens",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Vegan Butter",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "Vegan Milk",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Soak the unflavoured gelatin sheets in water for 5 minutes.",
+    "Mash the brine-dried cabbage and carrots together using a fork.",
+    "Chop the fresh parsley and dandelion greens into small pieces.",
+    "Mince the garlic cloves.",
+    "Sauté the garlic, parsley, and dandelion greens in vegan butter until fragrant.",
+    "Add the milled cabbage and carrots to the pan and stir to combine.",
+    "Add the soaked gelatin to the pan and stir until fully dissolved.",
+    "Add the vegan milk to the pan and stir until the mixture thickens.",
+    "Taste and adjust seasoning as needed.",
+    "Spoon the mixture onto a clean surface and knead until smooth.",
+    "Roll out the dough to a thickness of 1/4 inch.",
+    "Cut into circles using a cookie cutter or the rim of a glass.",
+    "Place a spoonful of the filling in the center of each dough circle.",
+    "Fold the dough over the filling and press the edges together to seal.",
+    "Repeat with the remaining dough and filling.",
+    "Bring a large pot of salted water to a boil and cook the pierogi for 5 minutes.",
+    "Serve hot with your favourite topping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "filling",
+    "hangover-cure",
+    "high-protein",
+    "jain",
+    "pierogi",
+    "polish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 25,
+    "carbs": 75,
+    "fat": 20
+  },
+  "slug": "grassy-velvety-hangover-cure-polish-polish-dish-pierogi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/grassy-velvety-hangover-cure-polish-polish-dish-pierogi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:48:31Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "velvety",
+    "mood": "hangover-cure",
+    "technique": "brine-dry",
+    "primaryIngredient": "unflavoured gelatin",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "polish dish",
+    "descriptor": "grassy velvety hangover-cure",
+    "dishForm": "Pierogi"
+  }
+}

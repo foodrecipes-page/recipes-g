@@ -1,0 +1,90 @@
+{
+  "title": "garlicky molten canadian garlic gratin",
+  "description": "A rich and decadent Canadian dish featuring Thai chili jam, perfect for a comforting dinner.",
+  "cuisine": "canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "garlic",
+      "amount": "2 heads",
+      "notes": ""
+    },
+    {
+      "name": "white potatoes",
+      "amount": "4 medium",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "6 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Thai chili jam",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "creme fraiche",
+      "amount": "1 cup",
+      "notes": "macrobiotic-friendly alternative: soy or almond milk creme fraiche"
+    },
+    {
+      "name": "cheese",
+      "amount": "8 ounces",
+      "notes": "macrobiotic-friendly alternative: nutritional yeast"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel and thinly slice 2 heads of garlic.",
+    "Slice 4 medium white potatoes into 1/4-inch thick rounds.",
+    "In a large saucepan, melt 3 tablespoons of unsalted butter over medium heat.",
+    "Add the sliced garlic to the saucepan and cook, stirring occasionally, until fragrant and lightly golden, about 8 minutes.",
+    "In a separate saucepan, combine 1/4 cup of Thai chili jam and 1 cup of creme fraiche. Stir until warm and well combined.",
+    "In a greased 9x13-inch baking dish, create a layer of overlapping potato slices. Top with a layer of garlic, then a layer of the Thai chili jam mixture. Repeat this process until all ingredients are used, ending with a layer of potatoes on top.",
+    "Dot the top of the potatoes with the remaining 3 tablespoons of unsalted butter.",
+    "Cover the dish with aluminum foil and bake for 30 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "canadian",
+    "comfort-food",
+    "fall",
+    "gluten-free",
+    "macrobiotic-friendly",
+    "vegan-option",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 740,
+    "protein": 14,
+    "carbs": 60,
+    "fat": 48
+  },
+  "slug": "garlicky-molten-canadian-garlic-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-molten-canadian-garlic-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:48:14Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "molten",
+    "mood": "indulgent",
+    "technique": "glaze",
+    "primaryIngredient": "thai chilli jam",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "garlic",
+    "descriptor": "garlicky molten",
+    "dishForm": "gratin"
+  }
+}

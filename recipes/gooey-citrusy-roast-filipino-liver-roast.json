@@ -1,0 +1,110 @@
+{
+  "title": "Gooey Citrusy Roast Filipino Liver Roast",
+  "description": "A traditional Filipino dish featuring a citrus-infused liver roast, with a sweet and sticky glaze made with currants. This recipe serves 4-6 people and is perfect for a cozy dinner.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Liver",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Currants",
+      "amount": "1/4 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Orange Juice",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Lime Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the beef liver with salt and black pepper.",
+    "Heat the olive oil in a large skillet over medium-high heat and sear the liver until browned on both sides.",
+    "Transfer the liver to a baking dish and set aside.",
+    "In a small saucepan, combine the currants, brown sugar, orange juice, lime juice, ginger, and garlic.",
+    "Bring the mixture to a boil over medium heat, then reduce the heat to low and simmer for 5 minutes.",
+    "Brush the mixture evenly over the liver.",
+    "Roast the liver in the preheated oven for 20-25 minutes, or until cooked through.",
+    "Remove the liver from the oven and let it rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "filipino",
+    "liver",
+    "one-pan",
+    "roast",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "gooey-citrusy-roast-filipino-liver-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-citrusy-roast-filipino-liver-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:48:26Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "gooey",
+    "mood": "cozy",
+    "technique": "roast",
+    "primaryIngredient": "currants",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "filipino",
+    "mainIngredient": "liver",
+    "descriptor": "gooey citrusy roast",
+    "dishForm": "roast"
+  }
+}
