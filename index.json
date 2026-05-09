@@ -7007,6 +7007,20 @@
     "shard": "g"
   },
   {
+    "slug": "golden-crunchy-irish-beef-shin-stew",
+    "title": "Golden Crunchy Irish Beef Shin Stew",
+    "tags": [
+      "comfort-food",
+      "crunchy-texture",
+      "hearty-stew",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 180,
+    "shard": "g"
+  },
+  {
     "slug": "golden-crunchy-polish-chicken-skewers",
     "title": "Golden Crunchy Polish Chicken Skewers",
     "tags": [
@@ -7234,6 +7248,20 @@
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 30,
+    "shard": "g"
+  },
+  {
+    "slug": "golden-greek-lentil-stew",
+    "title": "Golden Greek Lentil Stew",
+    "tags": [
+      "comfort-food",
+      "greek-cuisine",
+      "one-pot",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 50,
     "shard": "g"
   },
   {

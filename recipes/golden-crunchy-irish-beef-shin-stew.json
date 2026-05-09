@@ -1,0 +1,107 @@
+{
+  "title": "Golden Crunchy Irish Beef Shin Stew",
+  "description": "A hearty and flavorful Irish stew made with beef shin, nuka-pickle, and crunchy elements, perfect for a weeknight dinner, this dish is also vegan-friendly when using vegan Worcestershire sauce and vegan-friendly nuka-pickle.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef shin",
+      "amount": "1.5 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": "2 tablespoons",
+      "notes": "vegan-friendly"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "oats",
+      "amount": "1/4 cup",
+      "notes": "rolled"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large Dutch oven, heat 2 tablespoons of oil over medium-high heat.",
+    "Add the beef shin pieces and cook until browned on all sides, about 5 minutes.",
+    "Remove the browned beef shin from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until it starts to caramelize, about 5 minutes.",
+    "Add the chopped carrots and potatoes to the pot and cook for an additional 5 minutes.",
+    "Add the nuka-pickle, Worcestershire sauce, tomato paste, and vegetable broth to the pot, stirring to combine.",
+    "Return the browned beef shin to the pot and bring the mixture to a boil.",
+    "Cover the pot and transfer it to the preheated oven, cooking for 2.5 hours.",
+    "While the stew is cooking, mix the oats and nutritional yeast in a small bowl.",
+    "After 2 hours of cooking, stir in the oat and nutritional yeast mixture to add a crunchy element to the stew."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "crunchy-texture",
+    "hearty-stew",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 45,
+    "fat": 24
+  },
+  "slug": "golden-crunchy-irish-beef-shin-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-crunchy-irish-beef-shin-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:14:17Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crunchy",
+    "mood": "weeknight",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "beef shin",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "beef shin",
+    "descriptor": "Golden crunchy",
+    "dishForm": "Stew"
+  }
+}
