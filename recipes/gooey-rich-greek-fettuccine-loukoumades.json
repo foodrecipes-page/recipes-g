@@ -1,0 +1,111 @@
+{
+  "title": "Gooey Rich Greek Fettuccine Loukoumades",
+  "description": "A rich and fluffy Greek dish featuring fettuccine, perfect for a lazy Sunday, with a flexitarian-friendly twist in the form of loukoumades.",
+  "cuisine": "Greek",
+  "diet": [
+    "flexitarian",
+    "mediterranean"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fettuccine",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1 can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "sun dried tomatoes",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the fettuccine according to package instructions until al dente.",
+    "Drain the fettuccine and set aside.",
+    "In a large skillet, heat the olive oil over medium heat and saute the garlic until fragrant.",
+    "Add the sun dried tomatoes, artichoke hearts, and kalamata olives to the skillet and cook for 5 minutes.",
+    "Stir in the lemon juice, salt, and black pepper.",
+    "In a large bowl, combine the cooked fettuccine, skillet mixture, and crumbled feta cheese.",
+    "Mix well to combine and adjust seasoning as needed.",
+    "Cover the bowl with plastic wrap and let it sit for 10 minutes to allow the flavors to meld.",
+    "Serve the fettuccine mixture in small balls, similar to loukoumades, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brine-wet",
+    "fettuccine-recipe",
+    "flexitarian-friendly",
+    "greek-food",
+    "lazy-sunday",
+    "pasta-dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "gooey-rich-greek-fettuccine-loukoumades",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-rich-greek-fettuccine-loukoumades",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:25:35Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "fluffy",
+    "mood": "lazy-sunday",
+    "technique": "brine-wet",
+    "primaryIngredient": "fettuccine",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "fettuccine",
+    "descriptor": "Gooey Rich",
+    "dishForm": "Loukoumades"
+  }
+}
