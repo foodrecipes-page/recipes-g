@@ -1,0 +1,111 @@
+{
+  "title": "Golden Grilled Malaysian Khus Khus Skewers",
+  "description": "Charred and cheesy Malaysian khus khus skewers with a side of spicy ferment kimchi, perfect for a festive dinner party, dairy-free-friendly",
+  "cuisine": "Malaysian",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "khus khus",
+      "amount": "1 cup",
+      "notes": "also known as poppy seeds"
+    },
+    {
+      "name": "vegan mozzarella",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "ferment kimchi",
+      "amount": "1/2 cup",
+      "notes": "spicy"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup",
+      "notes": "full fat"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "galangal",
+      "amount": "1 piece",
+      "notes": "sliced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10 pieces",
+      "notes": "soaked in water"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "Soak the bamboo skewers in water for at least 30 minutes before grilling.",
+    "Thread the khus khus, vegan mozzarella, and ferment kimchi onto the skewers, leaving a little space between each piece.",
+    "Brush the skewers with coconut milk and sprinkle with lemongrass, galangal, salt, and black pepper.",
+    "Brush the grill with vegetable oil to prevent sticking.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until they are charred and the cheese is melted and pulled.",
+    "Serve the skewers hot with a side of spicy ferment kimchi and a sprinkle of khus khus.",
+    "Repeat with the remaining ingredients to make 10 skewers.",
+    "Garnish with fresh cilantro and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "dairy-free",
+    "festive",
+    "gluten-free",
+    "grilled",
+    "malaysian-food",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "golden-grilled-malaysian-khus-khus-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-grilled-malaysian-khus-khus-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:48:19Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "cheese-pull",
+    "mood": "festive",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "khus khus",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "khus khus",
+    "descriptor": "Golden grilled",
+    "dishForm": "Skewers"
+  }
+}
