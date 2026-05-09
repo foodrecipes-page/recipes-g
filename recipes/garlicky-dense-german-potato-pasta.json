@@ -1,0 +1,101 @@
+{
+  "title": "Garlicky, Dense German Potato Pasta",
+  "description": "A comforting German dish featuring a rich pasta-water emulsion, made with a hint of vanilla sugar and a dense blend of potatoes and garlic.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "12 oz",
+      "notes": "preferably a dense German egg pasta"
+    },
+    {
+      "name": "russet potatoes",
+      "amount": "2 large",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tbsp",
+      "notes": "softened"
+    },
+    {
+      "name": "vanilla sugar",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": "for pasta emulsion"
+    },
+    {
+      "name": "whole milk",
+      "amount": "2 cups",
+      "notes": "for pasta emulsion"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to package instructions until al dente.",
+    "While the pasta cooks, melt the butter in a large saucepan over medium heat.",
+    "Add the diced potatoes and cook, stirring occasionally, until they're tender and lightly browned.",
+    "Add the minced garlic and cook for 1-2 minutes, until fragrant.",
+    "If using vanilla sugar, add it to the saucepan and stir to combine.",
+    "Remove the cooked pasta from the water with a slotted spoon and add it to the saucepan with the potato mixture.",
+    "Toss the pasta in the saucepan with the potato mixture until it's well coated.",
+    "In a small bowl, whisk together the flour and milk until smooth.",
+    "Add the flour mixture to the saucepan and continue to cook, stirring constantly, until the mixture thickens.",
+    "Season the pasta with salt and pepper to taste.",
+    "Transfer the pasta to a serving dish and garnish with chopped parsley.",
+    "Serve immediately, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "german",
+    "one-pan",
+    "potato-lovers",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 12,
+    "carbs": 80,
+    "fat": 22
+  },
+  "slug": "garlicky-dense-german-potato-pasta",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-dense-german-potato-pasta",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T22:24:20Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "dense",
+    "mood": "comforting",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "vanilla sugar",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Potato",
+    "descriptor": "Garlicky, Dense",
+    "dishForm": "Pasta"
+  }
+}
