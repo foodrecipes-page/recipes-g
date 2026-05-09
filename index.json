@@ -9733,6 +9733,21 @@
     "shard": "g"
   },
   {
+    "slug": "gourmet-savory-polish-pork-dumplings",
+    "title": "Gourmet Savory Polish Pork Dumplings",
+    "tags": [
+      "low-fat",
+      "polish-cuisine",
+      "romantic-dinner",
+      "savory-dish",
+      "szechuan-peppercorns",
+      "weeknight-meal"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 30,
+    "shard": "g"
+  },
+  {
     "slug": "gourmet-vietnamese-tofu-canh-chua",
     "title": "Gourmet Vietnamese Tofu Canh Chua",
     "tags": [
