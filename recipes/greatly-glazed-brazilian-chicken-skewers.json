@@ -1,0 +1,98 @@
+{
+  "title": "Greatly Glazed Brazilian Chicken Skewers",
+  "description": "Tangy and juicy Brazilian dish featuring white sauerkraut and ferment-jang, perfect for a paleo-friendly dinner",
+  "cuisine": "brazilian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "white sauerkraut",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together coconut sugar, lime juice, ferment-jang, garlic, salt, and black pepper",
+    "Add the chicken to the bowl and toss to coat with the marinade",
+    "Thread the chicken onto skewers, leaving a small space between each piece",
+    "Grill the skewers for 10-12 minutes, turning occasionally",
+    "While the chicken is cooking, heat the olive oil in a small saucepan over medium heat",
+    "Add the white sauerkraut to the saucepan and cook, stirring occasionally, until lightly browned",
+    "Brush the chicken with the sauerkraut mixture during the last 2 minutes of cooking",
+    "Serve the chicken hot, garnished with additional sauerkraut if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "paleo-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "greatly-glazed-brazilian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/greatly-glazed-brazilian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:29:45Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "juicy",
+    "mood": "show-off",
+    "technique": "ferment-jang",
+    "primaryIngredient": "white sauerkraut",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "Greatly Glazed",
+    "dishForm": "Skewers"
+  }
+}
