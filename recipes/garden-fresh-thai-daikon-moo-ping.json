@@ -1,0 +1,107 @@
+{
+  "title": "Garden Fresh Thai Daikon Moo Ping",
+  "description": "Savory, crumbly, and flavorful Thai dish featuring daikon, inspired by Bangkok street food. Serve with steamed jasmine rice and fresh herbs for a delicious pescatarian meal.",
+  "cuisine": "thai",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Daikon radish",
+      "amount": "1 medium sized",
+      "notes": ""
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Minced lemongrass",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Thai red chili peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Palm sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Gluten-free Thai curry paste",
+      "amount": "1 tablespoon",
+      "notes": "Note: adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Peel and grate the daikon radish, and set aside.",
+    "In a bowl, combine cilantro, ginger, lemongrass, chili peppers, fish sauce, palm sugar, and curry paste. Mix well.",
+    "In a separate bowl, whisk the eggs and coconut milk together.",
+    "Add the egg mixture to the cilantro mixture and mix until well combined.",
+    "Add the grated daikon radish to the mixture and mix until just combined.",
+    "Using your hands, shape the mixture into 4-6 patties, depending on the desired size.",
+    "Place the patties on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes, or until the edges are lightly browned and the center is cooked through.",
+    "Serve hot and garnish with fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bangkokstreets",
+    "one-pan",
+    "pescatarian",
+    "thaifood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "garden-fresh-thai-daikon-moo-ping",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garden-fresh-thai-daikon-moo-ping",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:09:39Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crumbly",
+    "mood": "sick-day",
+    "technique": "bake",
+    "primaryIngredient": "daikon",
+    "diet": "pescatarian",
+    "region": "bangkok-street",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Daikon",
+    "descriptor": "Garden Fresh",
+    "dishForm": "Moo Ping"
+  }
+}

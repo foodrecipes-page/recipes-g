@@ -144,6 +144,20 @@
     "shard": "g"
   },
   {
+    "slug": "garden-fresh-thai-daikon-moo-ping",
+    "title": "Garden Fresh Thai Daikon Moo Ping",
+    "tags": [
+      "bangkokstreets",
+      "one-pan",
+      "pescatarian",
+      "thaifood",
+      "weeknight"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
+    "shard": "g"
+  },
+  {
     "slug": "garden-fresh-ukrainian-vegetable-salad",
     "title": "Garden Fresh Ukrainian Vegetable Salad",
     "tags": [
@@ -6241,6 +6255,21 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 30,
+    "shard": "g"
+  },
+  {
+    "slug": "glorious-yeasty-middle-eastern-eggs-shakshuka",
+    "title": "Glorious Yeasty Middle Eastern Eggs Shakshuka",
+    "tags": [
+      "breakfast",
+      "halal",
+      "middle-eastern",
+      "one-pan",
+      "shakshuka",
+      "yeasty"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 45,
     "shard": "g"
   },
   {
