@@ -1,0 +1,109 @@
+{
+  "title": "Garden-fresh Canadian Potatoes Pilaf",
+  "description": "A light and airy pilaf featuring charlotte potatoes, fresh herbs, and a touch of monsoon-inspired spices. Perfect for a weeknight dinner or a summer evening.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Charlotte potatoes",
+      "amount": "2 cups",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Bamboo rice",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "Monsoon spice blend",
+      "amount": "1 teaspoon",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Pasta water",
+      "amount": "1 cup",
+      "notes": "from cooked pasta or noodles"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable broth in a large saucepan over medium-high heat.",
+    "Add the onion and garlic and cook until softened, about 3-4 minutes.",
+    "Add the bamboo rice and stir to coat with the broth mixture.",
+    "Add the diced potatoes, monsoon spice blend, and lemon juice. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and cover.",
+    "Simmer for 15-20 minutes or until the potatoes and rice are tender.",
+    "Stir in the chopped parsley and dill. Season with salt to taste.",
+    "Transfer the pilaf to a serving dish and drizzle with pasta water to create a light and airy texture."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "garden-fresh",
+    "one-pan",
+    "pasta-water-emulsion",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 70,
+    "fat": 10
+  },
+  "slug": "garden-fresh-canadian-potatoes-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/garden-fresh-canadian-potatoes-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T08:03:16Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "aerated",
+    "mood": "monsoon",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "charlotte potatoes",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Garden-fresh",
+    "dishForm": "Pilaf"
+  }
+}
