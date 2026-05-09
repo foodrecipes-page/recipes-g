@@ -1,0 +1,116 @@
+{
+  "title": "Golden Gently Dutch Tomato Fritters",
+  "description": "These malty, silky fritters are a date-night Dutch dish featuring tomato and a crispy agemono-deep-fry, Whole30-friendly.",
+  "cuisine": "Dutch",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 large onion",
+      "amount": "2 cups",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "2 large cloves garlic",
+      "amount": "1 tablespoon",
+      "notes": "minced"
+    },
+    {
+      "name": "1 cup all-purpose gluten-free flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "1 cup almond flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup coconut flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "1 large egg",
+      "amount": "1 egg",
+      "notes": ""
+    },
+    {
+      "name": "2 large tomatoes",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "1/4 cup coconut oil",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "1 tablespoon coconut vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a deep frying pan to 350°F (175°C) with about 1/4 inch coconut oil at the bottom.",
+    "Combine the gluten-free flour, almond flour, coconut flour, salt, and pepper in a large bowl.",
+    "Add the egg, melted coconut oil, coconut vinegar, and diced tomato to the dry ingredients.",
+    "Mix until a smooth batter is formed.",
+    "Finely chop the onion and garlic and add them to the batter. Mix until well combined.",
+    "Using a 1/4 cup measuring cup, scoop the batter into the hot oil.",
+    "Fry the fritters until golden brown, about 2-3 minutes per side.",
+    "Drain the fritters on a paper towel-lined plate.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "crispy",
+    "date-night",
+    "deep-fry",
+    "dutch",
+    "golden",
+    "malty",
+    "silky",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 432,
+    "protein": 6,
+    "carbs": 25,
+    "fat": 34
+  },
+  "slug": "golden-gently-dutch-tomato-fritters",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-gently-dutch-tomato-fritters",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T20:50:12Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "silky",
+    "mood": "date-night",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "tomato",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Tomato",
+    "descriptor": "Golden Gently",
+    "dishForm": "Fritters"
+  }
+}

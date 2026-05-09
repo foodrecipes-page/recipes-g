@@ -1,0 +1,105 @@
+{
+  "title": "Green Herbal Dutch Lamb Tagine",
+  "description": "A low-calorie and energizing Dutch dish featuring dried oregano and lamb, cooked in a traditional clay tagine vessel, with a creamy and herbal flavor profile.",
+  "cuisine": "Dutch",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "green onions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Roll out the puff pastry and cut it into a circle to fit the clay tagine vessel.",
+    "In a large bowl, mix together the lamb, dried oregano, green onions, garlic, salt, and black pepper.",
+    "Heat the olive oil in the clay tagine vessel over medium heat and brown the lamb mixture on all sides.",
+    "Add the chicken broth and yogurt to the tagine vessel and stir to combine.",
+    "Cover the vessel with the puff pastry circle and press the edges to seal.",
+    "Place the tagine vessel in the preheated oven and bake for 2 hours.",
+    "Remove the vessel from the oven and let it cool for 10 minutes before serving.",
+    "Serve the lamb and sauce hot, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "clay-cooking",
+    "comfort-food",
+    "dutch-cuisine",
+    "herbal-dishes",
+    "lamb-recipes",
+    "low-calorie"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "green-herbal-dutch-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/green-herbal-dutch-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:50:47Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "creamy",
+    "mood": "energizing",
+    "technique": "lamination-puff",
+    "primaryIngredient": "dried oregano",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "lamb",
+    "descriptor": "Green herbal",
+    "dishForm": "Tagine"
+  }
+}

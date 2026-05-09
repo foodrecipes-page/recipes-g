@@ -8099,6 +8099,23 @@
     "shard": "g"
   },
   {
+    "slug": "golden-gently-dutch-tomato-fritters",
+    "title": "Golden Gently Dutch Tomato Fritters",
+    "tags": [
+      "crispy",
+      "date-night",
+      "deep-fry",
+      "dutch",
+      "golden",
+      "malty",
+      "silky",
+      "whole30"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 27,
+    "shard": "g"
+  },
+  {
     "slug": "golden-german-rice-dumplings",
     "title": "Golden German Rice Dumplings",
     "tags": [
@@ -11785,6 +11802,21 @@
     ],
     "cuisine": "Australian",
     "totalTimeMin": 30,
+    "shard": "g"
+  },
+  {
+    "slug": "green-herbal-dutch-lamb-tagine",
+    "title": "Green Herbal Dutch Lamb Tagine",
+    "tags": [
+      "clay-cooking",
+      "comfort-food",
+      "dutch-cuisine",
+      "herbal-dishes",
+      "lamb-recipes",
+      "low-calorie"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 150,
     "shard": "g"
   },
   {
