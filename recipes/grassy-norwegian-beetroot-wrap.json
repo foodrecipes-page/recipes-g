@@ -3,8 +3,7 @@
   "description": "A macrobiotic friendly Norwegian dish featuring cooked beetroot and dashi extract, wrapped in a corn husk wrap. This dish is indulgent and features a cheese pull.",
   "cuisine": "Norwegian",
   "diet": [
-    "macrobiotic",
-    "vegetarian"
+    "macrobiotic"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -65,8 +64,7 @@
     "grassy",
     "indulgent",
     "macrobiotic",
-    "norwegian",
-    "vegetarian"
+    "norwegian"
   ],
   "nutrition": {
     "calories": 420,

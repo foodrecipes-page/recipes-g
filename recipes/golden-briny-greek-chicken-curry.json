@@ -3,8 +3,7 @@
   "description": "A comforting and savory Greek dish featuring Thai green curry paste and nuka-pickle, served on a wooden board, perfect for a sick day. This Buddhist-temple-friendly recipe combines the brininess of feta cheese with the creaminess of a cheese-pull.",
   "cuisine": "Greek",
   "diet": [
-    "gluten-free",
-    "vegetarian"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -58,7 +57,10 @@
     "Add the chopped nuka-pickle to the coconut milk and stir to combine.",
     "Once the chicken is done, add it to the saucepan with the coconut milk and nuka-pickle mixture.",
     "Stir in the crumbly feta cheese until it is fully incorporated and the mixture is creamy.",
-    "Serve the curry on a wooden board, garnished with chopped fresh parsley."
+    "Serve the curry on a wooden board, garnished with chopped fresh parsley.",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving.",
+    "Refrigerate and consume within 1 week — this preparation is not shelf-stable without an approved acid level and canning process.",
+    "Refrigerator pickle only: store in the fridge and consume within 1 week. For shelf-stable canning, add at least 2 tablespoons of vinegar (5% acidity) per cup of brine and follow a tested water-bath process."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,

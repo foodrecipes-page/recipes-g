@@ -4,7 +4,6 @@
   "cuisine": "Chinese",
   "diet": [
     "vegetarian",
-    "gluten-free",
     null
   ],
   "meal": "dinner",
@@ -65,7 +64,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "one-pan",
     "quick-dinner",
     "stir-fry",

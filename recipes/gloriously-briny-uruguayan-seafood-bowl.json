@@ -3,7 +3,6 @@
   "description": "A festive Uruguayan dish featuring scallions and seafood in a briny and creamy broth, served in a lacquerware bowl.",
   "cuisine": "Uruguayan",
   "diet": [
-    "pescatarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -73,7 +72,6 @@
     "creamy",
     "festive",
     "lacquerware",
-    "pescatarian",
     "seafood",
     "uruguayan"
   ],

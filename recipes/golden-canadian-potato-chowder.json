@@ -2,9 +2,7 @@
   "title": "Golden Canadian Potato Chowder",
   "description": "A hearty and comforting Canadian dish featuring fresh thyme and fluffy potatoes, perfect for a weeknight dinner.",
   "cuisine": "Canadian",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -62,7 +60,8 @@
     "Use an immersion blender to puree the soup until smooth.",
     "Stir in the milk and cook for an additional 2 minutes.",
     "Season the soup with salt and pepper to taste.",
-    "Serve the chowder hot, garnished with additional thyme if desired."
+    "Serve the chowder hot, garnished with additional thyme if desired.",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,

@@ -3,8 +3,7 @@
   "description": "A refreshing and revitalizing Kenyan dish featuring flaky fish, crunchy vegetables, and a hint of dark brown sugar. Ideal for post-workout meals.",
   "cuisine": "kenyan",
   "diet": [
-    "pescatarian",
-    "vegetarian"
+    "pescatarian"
   ],
   "meal": "lunch",
   "ingredients": [

@@ -3,7 +3,6 @@
   "description": "A garlicky and pillowy Chinese dish featuring jumbo shrimp, perfect for meal prep. This ayurvedic-rajasic-friendly recipe is easy to make and delicious to eat.",
   "cuisine": "Chinese",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -67,7 +66,6 @@
   "difficulty": "easy",
   "tags": [
     "dairy-free",
-    "gluten-free",
     "high-protein",
     "one-pan",
     "seafood",

@@ -3,7 +3,6 @@
   "description": "A light and refreshing Malaysian dish featuring yeasty flavors, wholegrain mustard, and toasted bread, perfect for a post-workout snack. This recipe is onion and garlic free, making it suitable for those with sensitivities.",
   "cuisine": "Malaysian",
   "diet": [
-    "gluten-free",
     "low-carb"
   ],
   "meal": "snack",
@@ -60,7 +59,6 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "gluten-free",
     "low-carb",
     "malaysian",
     "post-workout",

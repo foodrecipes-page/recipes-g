@@ -3,8 +3,7 @@
   "description": "A roasted, velvety, kid-friendly Malaysian dish featuring bread flour and ferment-kimchi, perfect for a weeknight dinner. This Whole30-friendly flatbread is a delicious and healthy option for the whole family.",
   "cuisine": "Malaysian",
   "diet": [
-    "Whole30",
-    "gluten-free"
+    "Whole30"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -57,7 +56,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "kid-friendly",
     "malaysian",
     "one-pan",

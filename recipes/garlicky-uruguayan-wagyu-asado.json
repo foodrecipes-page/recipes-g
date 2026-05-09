@@ -3,7 +3,6 @@
   "description": "A flavorful and easy-to-make Uruguayan-inspired dish featuring Wagyu beef, garlic, and chimichurri.",
   "cuisine": "Uruguayan",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -99,7 +98,7 @@
     "mood": "weeknight",
     "technique": "dehydrate",
     "primaryIngredient": "wagyu",
-    "diet": "nut-free",
+    "diet": "gluten-free",
     "region": null,
     "cuisineAdjective": "Uruguayan",
     "mainIngredient": "Wagyu",

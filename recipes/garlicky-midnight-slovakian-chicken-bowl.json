@@ -36,19 +36,19 @@
       "amount": "1 cup"
     },
     {
-      "name": "Colby\u2011Jack cheese, shredded",
+      "name": "Colby‑Jack cheese, shredded",
       "amount": "200g"
     }
   ],
   "instructions": [
-    "Preheat your sous\u2011vide water bath to 165\u00b0F (74\u00b0C).",
-    "Season the chicken breasts with salt, pepper, minced garlic, olive oil, lemon juice, and chopped thyme. Vacuum\u2011seal the chicken in a bag.",
-    "Place the bag in the preheated water bath and cook sous\u2011vide for 90 minutes.",
-    "While the chicken cooks, heat 1 tbsp of oil in a skillet over medium heat. Saut\u00e9 mushrooms for 3 minutes, then add kale and cook until wilted, about 2 minutes.",
+    "Preheat your sous‑vide water bath to 165°F (74°C).",
+    "Season the chicken breasts with salt, pepper, minced garlic, olive oil, lemon juice, and chopped thyme. Vacuum‑seal the chicken in a bag.",
+    "Place the bag in the preheated water bath and cook sous‑vide for 90 minutes.",
+    "While the chicken cooks, heat 1 tbsp of oil in a skillet over medium heat. Sauté mushrooms for 3 minutes, then add kale and cook until wilted, about 2 minutes.",
     "Remove the cooked chicken from the bag, pat dry, and sear in the same skillet for 1 minute per side to develop a golden crust.",
     "Slice the chicken and place it in a serving bowl.",
-    "Top the chicken with the saut\u00e9ed mushrooms and kale.",
-    "Sprinkle shredded Colby\u2011Jack cheese over the top. Let it melt slightly before serving."
+    "Top the chicken with the sautéed mushrooms and kale.",
+    "Sprinkle shredded Colby‑Jack cheese over the top. Let it melt slightly before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 100,
@@ -82,7 +82,7 @@
     "mood": "midnight-craving",
     "technique": "sous-vide",
     "primaryIngredient": "colby jack cheese",
-    "diet": "paleo",
+    "diet": null,
     "region": null,
     "cuisineAdjective": "Slovakian",
     "mainIngredient": "Chicken",

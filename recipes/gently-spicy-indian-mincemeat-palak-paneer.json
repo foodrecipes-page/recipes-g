@@ -3,7 +3,6 @@
   "description": "A spicy and tender Indian dish featuring mincemeat in a palak paneer form, cooked to perfection in a bamboo steamer. This ayurvedic-rajasic-friendly recipe is perfect for a romantic dinner.",
   "cuisine": "Indian",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -83,8 +82,7 @@
     "indian-cuisine",
     "romantic-dinner",
     "spinach-lovers",
-    "steamed-dish",
-    "vegetarian"
+    "steamed-dish"
   ],
   "nutrition": {
     "calories": 320,

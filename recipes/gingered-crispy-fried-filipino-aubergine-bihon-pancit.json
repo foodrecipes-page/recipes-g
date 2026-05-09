@@ -2,9 +2,7 @@
   "title": "Gingered Crispy Fried Filipino Aubergine Bihon Pancit",
   "description": "Show-off Filipino dish featuring charred, bouncy-qq aubergine, double-fry-kfc style, jain-friendly, served in a dolsot stone bowl.",
   "cuisine": "Filipino",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -97,7 +95,6 @@
     "filipino",
     "high-protein",
     "one-pan",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
