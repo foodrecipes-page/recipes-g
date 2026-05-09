@@ -1,0 +1,93 @@
+{
+  "title": "Gently Grilled Portuguese Steak Grill",
+  "description": "A macrobiotic friendly solo dinner dish featuring fillet of steak, with a citrusy and velvety flavor profile, grilled to perfection on a binchotan grill.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fillet of steak",
+      "amount": "6 oz",
+      "notes": "preferably grass fed"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Dum",
+      "amount": "1 cup",
+      "notes": "homemade or store bought"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to medium high heat.",
+    "In a small bowl, whisk together lemon juice, olive oil, garlic, salt, and black pepper.",
+    "Place the fillet of steak in a shallow dish and brush the lemon juice mixture evenly over both sides of the steak.",
+    "Let the steak marinate for 10 minutes, then place it on the preheated grill.",
+    "Grill the steak for 5 minutes per side, or until it reaches an internal temperature of 130 degrees Fahrenheit.",
+    "While the steak is cooking, heat the dum in a small saucepan over low heat.",
+    "Once the steak is cooked, let it rest for 5 minutes before slicing it thinly against the grain.",
+    "Serve the sliced steak with the heated dum and garnish with chopped fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "binchotan-grill",
+    "grilled-steak",
+    "macrobiotic-friendly",
+    "portuguese-cuisine",
+    "solo-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 26
+  },
+  "slug": "gently-grilled-portuguese-steak-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gently-grilled-portuguese-steak-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:51:34Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "velvety",
+    "mood": "solo-dinner",
+    "technique": "dum",
+    "primaryIngredient": "fillet of steak",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "steak",
+    "descriptor": "Gently Grilled",
+    "dishForm": "Grill"
+  }
+}
