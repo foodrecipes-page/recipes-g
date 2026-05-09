@@ -1,0 +1,93 @@
+{
+  "title": "Golden Roasted Middle Eastern Lentils Mujadara",
+  "description": "A comforting and flavorful Middle Eastern dish featuring roasted lentils and caramelized onions, perfect for a sick day. This egg-free friendly recipe is made in a bamboo steamer and infused with the sweetness of oranges.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green or brown lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "onions",
+      "amount": "2 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "orange juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils and soak them in water for 30 minutes, then drain and set aside.",
+    "In a large pan, heat the olive oil over medium heat and caramelize the onions for 20 minutes, stirring occasionally.",
+    "Add the lentils, salt, and black pepper to the pan and stir to combine.",
+    "Transfer the lentil mixture to a bamboo steamer lined with parchment paper.",
+    "Steam the lentils over boiling water for 20 minutes, or until they are tender and fluffy.",
+    "While the lentils are cooking, mix the orange juice and zest in a small bowl.",
+    "Once the lentils are done, fluff them with a fork and stir in the orange juice mixture.",
+    "Serve the Golden Roasted Middle Eastern Lentils Mujadara hot, garnished with caramelized onions and a sprinkle of salt."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "healthy-dinner",
+    "lentil-recipes",
+    "middle-eastern",
+    "one-pot",
+    "vegetarian-meals"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "golden-roasted-middle-eastern-lentils-mujadara",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-roasted-middle-eastern-lentils-mujadara",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:49:53Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "fluffy",
+    "mood": "sick-day",
+    "technique": "caramelize",
+    "primaryIngredient": "oranges",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "lentils",
+    "descriptor": "Golden Roasted",
+    "dishForm": "Mujadara"
+  }
+}
