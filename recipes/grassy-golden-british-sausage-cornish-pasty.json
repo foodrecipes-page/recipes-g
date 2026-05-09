@@ -1,0 +1,102 @@
+{
+  "title": "Grassy Golden British Sausage Cornish Pasty",
+  "description": "A British dish featuring sausage and cheese in a flaky pastry, perfect for a lazy Sunday, this lacto-vegetarian-friendly cornish pasty is filled with grassy and golden ingredients, offering a delightful cheese-pull experience.",
+  "cuisine": "British",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "for pastry dough"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "for pastry dough"
+    },
+    {
+      "name": "vegetarian sausage",
+      "amount": "4",
+      "notes": "British style"
+    },
+    {
+      "name": "grassy parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "golden cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "eggs",
+      "amount": "1",
+      "notes": "beaten, for egg wash"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": "for pastry dough"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine flour, salt, and cold butter to make the pastry dough.",
+    "Gradually add water to the bowl and mix until a dough forms.",
+    "Roll out the dough on a floured surface to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a plate or a pastry cutter.",
+    "Place a sausage in the center of each dough circle.",
+    "Sprinkle shredded cheese and chopped parsley over the sausage.",
+    "Fold the dough over the filling to form a half-circle shape and press the edges together to seal the pasty.",
+    "Brush the tops of the pasties with beaten egg for a golden glaze.",
+    "Place the pasties on a baking sheet lined with parchment paper and bake for 25-30 minutes or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-food",
+    "comfort-food",
+    "homemade-pastry",
+    "lacto-vegetarian",
+    "lazy-sunday"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "grassy-golden-british-sausage-cornish-pasty",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/grassy-golden-british-sausage-cornish-pasty",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:09:07Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "cheese-pull",
+    "mood": "lazy-sunday",
+    "technique": "steam",
+    "primaryIngredient": "sausage",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "sausage",
+    "descriptor": "grassy golden",
+    "dishForm": "Cornish Pasty"
+  }
+}

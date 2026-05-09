@@ -10048,6 +10048,20 @@
     "shard": "g"
   },
   {
+    "slug": "grassy-golden-british-sausage-cornish-pasty",
+    "title": "Grassy Golden British Sausage Cornish Pasty",
+    "tags": [
+      "british-food",
+      "comfort-food",
+      "homemade-pastry",
+      "lacto-vegetarian",
+      "lazy-sunday"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 45,
+    "shard": "g"
+  },
+  {
     "slug": "grassy-golden-dutch-grains-pilaf",
     "title": "Grassy Golden Dutch Grains Pilaf",
     "tags": [
