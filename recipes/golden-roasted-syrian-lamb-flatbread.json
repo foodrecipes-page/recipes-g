@@ -1,0 +1,98 @@
+{
+  "title": "Golden Roasted Syrian Lamb Flatbread",
+  "description": "A quick-fix Syrian dish featuring roasted lamb and flatbread, perfect for a weeknight dinner. This recipe is egg-free and friendly for various diets.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "flatbread",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sumac",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pistachios",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "dates",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "Season the lamb shoulder with salt, black pepper, and sumac.",
+    "Heat the olive oil in a large oven-safe skillet over medium-high heat.",
+    "Seal the lamb shoulder until browned on all sides, about 5 minutes.",
+    "Transfer the skillet to the preheated oven and roast the lamb for 20 minutes.",
+    "Meanwhile, toast the flatbread pieces by baking them in the oven for 5 minutes.",
+    "Spread pomegranate molasses over the toasted flatbread pieces.",
+    "Slice the roasted lamb shoulder into thin strips.",
+    "Assemble the flatbread by topping each piece with sliced lamb, chopped pistachios, and pitted dates."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flatbread-dishes",
+    "lamb-recipes",
+    "middle-eastern-food",
+    "roasted-meats",
+    "syrian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "golden-roasted-syrian-lamb-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-roasted-syrian-lamb-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:39:32Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "shattering",
+    "mood": "quick-fix",
+    "technique": "candy",
+    "primaryIngredient": "bun",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb",
+    "descriptor": "Golden Roasted",
+    "dishForm": "Flatbread"
+  }
+}
