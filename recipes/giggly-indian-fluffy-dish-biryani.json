@@ -1,0 +1,72 @@
+{
+  "title": "giggly indian fluffy dish Biryani",
+  "description": "Biryani, a salty and fluffy Indian dish made with aromatic spices, fluffy basmati rice, and a hint of heat from the Birds Eye chillies. This recipe is a nostalgic take on a classic Indian dish, making it perfect for weeknights or special occasions.",
+  "cuisine": "indian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "basmati rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped",
+      "},{": false
+    }
+  ],
+  "instructions": [
+    "Heat ghee in a large cooking pot over medium heat.",
+    "Add the chopped onion and cook until it's translucent and fragrant.",
+    "Add the basmati rice and cook for about 2 minutes, stirring occasionally.",
+    "Add 4 cups of water and bring the mixture to a boil."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "one-pan",
+    "spicy",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 10,
+    "carbs": 90,
+    "fat": 28
+  },
+  "slug": "giggly-indian-fluffy-dish-biryani",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/giggly-indian-fluffy-dish-biryani",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:07:28Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "fluffy",
+    "mood": "nostalgic",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "birds-eye chillies",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "fluffy dish",
+    "descriptor": "giggly",
+    "dishForm": "Biryani"
+  }
+}
