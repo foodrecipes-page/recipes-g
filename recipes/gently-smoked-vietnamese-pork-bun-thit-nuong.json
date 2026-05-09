@@ -1,0 +1,97 @@
+{
+  "title": "Gently Smoked Vietnamese Pork Bun Thit Nuong",
+  "description": "A traditional Vietnamese dish featuring grilled pork, white cabbage, and a soft bun, all steamed to perfection in a bamboo steamer. This recipe is kid-friendly and halal-friendly.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "white cabbage",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine yeast, flour, salt, and sugar, then gradually add in water to form a dough.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Let the dough rise in a warm place for 1 hour, or until it has doubled in size.",
+    "Preheat a wood-fired oven to 400 degrees Fahrenheit.",
+    "In a separate bowl, whisk together fish sauce, lime juice, and vegetable oil to make the marinade.",
+    "Add the sliced pork to the marinade and let it sit for at least 30 minutes.",
+    "Grill the pork for 5 minutes per side, or until it is cooked through.",
+    "Assemble the buns by placing a few slices of pork, some shredded cabbage, and a sprinkle of salt onto each bun.",
+    "Place the buns in a bamboo steamer and steam for 10 minutes, or until the buns are soft and the filling is heated through."
+  ],
+  "prepTimeMin": 60,
+  "cookTimeMin": 30,
+  "totalTimeMin": 120,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-pork",
+    "halal-friendly",
+    "kid-friendly",
+    "steamed-buns",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "gently-smoked-vietnamese-pork-bun-thit-nuong",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gently-smoked-vietnamese-pork-bun-thit-nuong",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:05:09Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "light",
+    "mood": "kid-friendly",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "white cabbage",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork",
+    "descriptor": "Gently Smoked",
+    "dishForm": "Bun Thit Nuong"
+  }
+}
