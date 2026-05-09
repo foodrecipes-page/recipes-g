@@ -1,0 +1,101 @@
+{
+  "title": "Gourmet Creamy Australian Russet Potato Gratin",
+  "description": "A rich and creamy Australian dish featuring russet potatoes, perfect for a date night, with a balance of bitter and sweet flavors, and prepared in a satvik-friendly manner by dehydrating some ingredients.",
+  "cuisine": "Australian",
+  "diet": [
+    "satvik",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Russet potatoes",
+      "amount": "4 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "Grana padano cheese",
+      "amount": "1 cup",
+      "notes": "shaved"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Dehydrated onion",
+      "amount": "1/4 cup",
+      "notes": "rehydrated in 2 tablespoons water"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large saucepan, combine the sliced potatoes and enough cold water to cover them, then bring to a boil over high heat.",
+    "Reduce the heat to medium-low and simmer for 5 minutes, or until the potatoes are slightly tender.",
+    "Drain the potatoes and set them aside to cool.",
+    "In a large skillet, melt the butter over medium heat, then add the minced garlic and cook for 1 minute, or until fragrant.",
+    "Add the rehydrated dehydrated onion to the skillet and cook for an additional 2 minutes, stirring occasionally.",
+    "In a large bowl, combine the cooled potatoes, garlic and onion mixture, dried thyme, salt, and black pepper, and toss to combine.",
+    "In a greased 9x13 inch baking dish, create a layer of potatoes, then top with a layer of shaved Grana padano cheese and a drizzle of heavy cream, repeating this process until all ingredients are used, ending with a layer of cheese on top.",
+    "Cover the dish with aluminum foil and bake for 30 minutes, then remove the foil and continue baking for an additional 20 minutes, or until the top is golden brown and the potatoes are tender."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 50,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "date-night",
+    "gourmet",
+    "potato-dish",
+    "satvik-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 28
+  },
+  "slug": "gourmet-creamy-australian-russet-potato-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gourmet-creamy-australian-russet-potato-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:06:30Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "creamy",
+    "mood": "date-night",
+    "technique": "dehydrate",
+    "primaryIngredient": "russet potato",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "russet potato",
+    "descriptor": "Gourmet creamy",
+    "dishForm": "Gratin"
+  }
+}
