@@ -1,0 +1,103 @@
+{
+  "title": "Garlicky Zesty Moroccan Lamb Tagine",
+  "description": "A show-stopping Moroccan dish featuring lamb, aromatics, and spices, served over crispy iceberg lettuce, steamed to perfection.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "6",
+      "notes": null
+    },
+    {
+      "name": "ginger",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "sweet paprika",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "iceberg lettuce",
+      "amount": "1 head",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of olive oil in a large Dutch oven over medium heat.",
+    "Add the lamb shoulder and cook until browned on all sides, about 5 minutes.",
+    "Add the onion, garlic, ginger, cumin, cinnamon, sweet paprika, and salt. Cook, stirring occasionally, until the vegetables are softened, about 5 minutes.",
+    "Add 2 cups of water to the pot and bring to a boil.",
+    "Cover the pot and transfer it to the oven. Bake at 300°F for 90 minutes, or until the lamb is tender.",
+    "While the lamb is cooking, prepare the iceberg lettuce by washing and drying it. Cut it into thin strips and place on a serving platter.",
+    "To serve, place a portion of the lamb and sauce over the lettuce and garnish with fresh parsley."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "garlicky",
+    "lamb",
+    "moroccan",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "garlicky-zesty-moroccan-lamb-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-zesty-moroccan-lamb-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:57:49Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "gooey",
+    "mood": "show-off",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "iceberg lettuce",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Lamb",
+    "descriptor": "Garlicky Zesty",
+    "dishForm": "Tagine"
+  }
+}

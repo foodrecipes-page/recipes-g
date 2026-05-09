@@ -3984,6 +3984,19 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-zesty-moroccan-lamb-tagine",
+    "title": "Garlicky Zesty Moroccan Lamb Tagine",
+    "tags": [
+      "garlicky",
+      "lamb",
+      "moroccan",
+      "tagine"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 120,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-zesty-russian-fig-pilaf",
     "title": "Garlicky Zesty Russian Fig Pilaf",
     "tags": [
@@ -8377,6 +8390,21 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
+    "slug": "golden-fluffy-greek-chicken-skewers",
+    "title": "Golden Fluffy Greek Chicken Skewers",
+    "tags": [
+      "flexitarian",
+      "greek-food",
+      "grilled",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 32,
     "shard": "g"
   },
   {

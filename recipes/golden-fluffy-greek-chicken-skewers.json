@@ -1,0 +1,92 @@
+{
+  "title": "Golden Fluffy Greek Chicken Skewers",
+  "description": "Salty, fluffy, post-workout Greek dish featuring coconut flakes, perfect for a flexitarian diet",
+  "cuisine": "Greek",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "coconut flakes",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbled"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic powder, salt, and black pepper.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Let the chicken marinate for 30 minutes.",
+    "Thread the marinated chicken onto skewers.",
+    "Sprinkle coconut flakes over the chicken.",
+    "Grill the skewers for 10-12 minutes, or until the chicken is cooked through.",
+    "Serve the skewers hot, topped with crumbled feta cheese."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flexitarian",
+    "greek-food",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "golden-fluffy-greek-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-fluffy-greek-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:56:43Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "fluffy",
+    "mood": "post-workout",
+    "technique": "brine-dry",
+    "primaryIngredient": "coconut flakes",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "chicken",
+    "descriptor": "Golden fluffy",
+    "dishForm": "Skewers"
+  }
+}
