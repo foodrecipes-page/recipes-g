@@ -1,0 +1,93 @@
+{
+  "title": "Golden Grilled Turkish Prawns Iskender",
+  "description": "Rich and crumbly Turkish dish featuring prawns, served in an Iskender style, cooked to perfection on a robata grill. This satvik-friendly dish is a must try for seafood lovers.",
+  "cuisine": "Turkish",
+  "diet": [
+    "satvik",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "prawns",
+      "amount": "12 large",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium high heat.",
+    "In a bowl, mix together melted butter, garlic, and lemon juice.",
+    "Add the prawns to the bowl and toss to coat with the butter mixture.",
+    "Grill the prawns for 2-3 minutes per side, or until pink and cooked through.",
+    "Warm the pita bread by wrapping it in foil and heating it on the grill for a minute.",
+    "Assemble the Iskender by placing a few prawns on each slice of pita bread.",
+    "Spoon some tomato sauce and yogurt over the prawns.",
+    "Sprinkle parsley over the top and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "iskender",
+    "pita-bread",
+    "robata-grill",
+    "seafood",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "golden-grilled-turkish-prawns-iskender",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-grilled-turkish-prawns-iskender",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:40:58Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crumbly",
+    "mood": "cozy",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "prawns",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "prawns",
+    "descriptor": "Golden Grilled",
+    "dishForm": "Iskender"
+  }
+}
