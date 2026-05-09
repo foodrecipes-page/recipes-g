@@ -1,0 +1,104 @@
+{
+  "title": "Gently Herbal Peruvian Chicken Aji De Gallina",
+  "description": "A creamy and herbal Peruvian dish featuring chicken in aji de gallina sauce, made with a unique blend of ingredients including powdered sugar, served over rice.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "powdered sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "aji amarillo pepper",
+      "amount": "1",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the chicken until it is cooked through, then set aside.",
+    "In a wok, saute the chopped onion and minced garlic until the onion is translucent.",
+    "Add the chopped aji amarillo pepper to the wok and cook for an additional 2 minutes.",
+    "Add the heavy cream, powdered sugar, salt, and black pepper to the wok and stir to combine.",
+    "Bring the cream mixture to a simmer and cook until it has thickened slightly.",
+    "Stir in the grated parmesan cheese until it is melted and well combined.",
+    "Add the cooked chicken to the wok and stir to coat with the cream sauce.",
+    "Sprinkle the chopped walnuts over the top of the chicken and sauce.",
+    "Serve the chicken and sauce over rice and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "creamy-sauces",
+    "herbal-dishes",
+    "one-pot-meals",
+    "peruvian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "gently-herbal-peruvian-chicken-aji-de-gallina",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gently-herbal-peruvian-chicken-aji-de-gallina",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:57:36Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "boil",
+    "primaryIngredient": "powdered sugar",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken",
+    "descriptor": "Gently Herbal",
+    "dishForm": "Aji De Gallina"
+  }
+}
