@@ -1,0 +1,94 @@
+{
+  "title": "Gently Crisp Australian Doraji Skewers",
+  "description": "A kid-friendly Australian dish featuring bellflower root doraji, tempered with chocolate for a unique flavor combination, served in agave leaves for a fun twist.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "doraji",
+      "amount": "1 cup",
+      "notes": "bellflower root"
+    },
+    {
+      "name": "dark chocolate",
+      "amount": "1/2 cup",
+      "notes": "tempering chocolate"
+    },
+    {
+      "name": "agave leaves",
+      "amount": "12",
+      "notes": "vessel for serving"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Peel and slice the doraji into 1-inch pieces.",
+    "Thread the doraji pieces onto skewers, leaving a small space between each piece.",
+    "Drizzle the olive oil over the doraji and sprinkle with salt, pepper, and garlic powder.",
+    "Temper the dark chocolate by melting it in a double boiler and then cooling it to room temperature.",
+    "Drizzle the tempered chocolate over the doraji skewers.",
+    "Squeeze the lemon juice over the doraji skewers.",
+    "Place the skewers in the agave leaves and serve immediately.",
+    "Bake the skewers in the preheated oven for 10 minutes, or until gently crisp."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "crunchy",
+    "fun",
+    "kid-friendly",
+    "unique",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "gently-crisp-australian-doraji-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gently-crisp-australian-doraji-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:49:55Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crisp",
+    "mood": "kid-friendly",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "bellflower-root-doraji",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "doraji",
+    "descriptor": "Gently Crisp",
+    "dishForm": "Skewers"
+  }
+}
