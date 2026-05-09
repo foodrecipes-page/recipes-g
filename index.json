@@ -7434,6 +7434,21 @@
     "shard": "g"
   },
   {
+    "slug": "golden-crisp-algerian-bread-flatbread",
+    "title": "Golden Crisp Algerian Bread Flatbread",
+    "tags": [
+      "algerian-cuisine",
+      "crunchy",
+      "flatbread",
+      "mustard-based",
+      "snack",
+      "vegetarian"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "golden-crisp-dutch-potatoes-frites",
     "title": "Golden Crisp Dutch Potatoes Frites",
     "tags": [

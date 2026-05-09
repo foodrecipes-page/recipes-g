@@ -1,0 +1,90 @@
+{
+  "title": "Golden Crisp Algerian Bread Flatbread",
+  "description": "A mustardy, crisp, and comforting Algerian dish featuring bread flour and candy, perfect for a snack or light meal, and is egg-free-friendly.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian",
+    "egg-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bread flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Mustard seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "Candy pieces",
+      "amount": "1/2 cup",
+      "notes": "such as chopped peanut brittle or toffee"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the bread flour, granulated sugar, mustard seeds, and salt.",
+    "Gradually add the vegetable oil and water to the dry ingredients, stirring with a fork until a dough forms.",
+    "Knead the dough on a floured surface for about 5 minutes, until it becomes smooth and elastic.",
+    "Divide the dough into 6 equal pieces and roll each piece into a ball.",
+    "Roll out each ball of dough into a thin circle, about 1/8 inch thick.",
+    "Place the dough circles on a baking sheet lined with parchment paper, leaving about 1 inch of space between each flatbread.",
+    "Sprinkle the candy pieces evenly over the flatbreads.",
+    "Bake the flatbreads in the preheated oven for 15-20 minutes, or until they are golden brown and crispy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "crunchy",
+    "flatbread",
+    "mustard-based",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "golden-crisp-algerian-bread-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-crisp-algerian-bread-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:30:17Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crisp",
+    "mood": "comforting",
+    "technique": "candy",
+    "primaryIngredient": "bread flour",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "bread",
+    "descriptor": "Golden Crisp",
+    "dishForm": "Flatbread"
+  }
+}
