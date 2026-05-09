@@ -1,0 +1,96 @@
+{
+  "title": "Glorious Crunchy French Vegetable Pot Au Feu",
+  "description": "A pungent and crunchy lacto-vegetarian French dish from Lyon, featuring natural yoghurt and katsuramuki-cut vegetables in a pot-au-feu form, perfect for a cold winter evening.",
+  "cuisine": "French",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "4 large",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "turnips",
+      "amount": "2 large",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "leeks",
+      "amount": "2 large",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "natural yoghurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "dried"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat the olive oil over medium heat.",
+    "Add the minced garlic and cook for 1 minute until fragrant.",
+    "Add the katsuramuki-cut carrots, turnips, and leeks, and cook for 5 minutes until they start to soften.",
+    "Add the dried thyme and bay leaves, and cook for 1 minute until fragrant.",
+    "Pour in 4 cups of water and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes until the vegetables are tender.",
+    "Stir in the natural yoghurt and cook for 2 minutes until heated through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "french-cuisine",
+    "one-pot",
+    "vegetarian",
+    "winter-dish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "glorious-crunchy-french-vegetable-pot-au-feu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/glorious-crunchy-french-vegetable-pot-au-feu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:02:58Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crunchy",
+    "mood": "energizing",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "natural yoghurt",
+    "diet": "lacto-vegetarian",
+    "region": "lyon",
+    "cuisineAdjective": "French",
+    "mainIngredient": "vegetables",
+    "descriptor": "Glorious Crunchy",
+    "dishForm": "Pot Au Feu"
+  }
+}
