@@ -1,0 +1,117 @@
+{
+  "title": "Gentle Sunday Braise Jamaican Fish Curry",
+  "description": "A citrusy, glassy-jelly Jamaican dish featuring peanut brittle, tadka, perfect for a lazy Sunday dinner.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish (Cod or Snapper)",
+      "amount": "1 lb",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Peanut Brittle",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tbsp",
+      "notes": "crushed"
+    },
+    {
+      "name": "Jamaican Curry Powder",
+      "amount": "1 tsp",
+      "notes": "curry powder with a hint of spice"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "2 tbsp",
+      "notes": "granulated"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 pieces",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 pieces",
+      "notes": "minced"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp",
+      "notes": "for tadka"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a clay tandoor pot over medium heat for tadka.",
+    "Add minced garlic and grated ginger and sauté for 1 minute.",
+    "Add chopped peanut brittle and sauté for another minute.",
+    "Add tomato paste and curry powder, stir well and cook for 1 minute.",
+    "Add fish and coconut milk, stir to combine.",
+    "Add lime juice and brown sugar, stir to combine.",
+    "Reduce heat to low and simmer covered for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped cilantro and serve over rice or with roti.",
+    "Serve immediately and enjoy!",
+    "Store leftovers in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "jamaican-curry",
+    "lazy-sunday",
+    "one-pot",
+    "pescatarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "gentle-sunday-braise-jamaican-fish-curry",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/gentle-sunday-braise-jamaican-fish-curry",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T17:29:28Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "glassy-jelly",
+    "mood": "lazy-sunday",
+    "technique": "tadka",
+    "primaryIngredient": "peanut brittle",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Fish",
+    "descriptor": "Gentle Sunday Braise",
+    "dishForm": "Curry"
+  }
+}
