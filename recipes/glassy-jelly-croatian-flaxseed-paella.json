@@ -1,0 +1,112 @@
+{
+  "title": "Glassy Jelly Croatian Flaxseed Paella",
+  "description": "A show-off dish from Croatia featuring flaxseed, namul-blanch-season, and a glassy jelly topping. This paleo-friendly paella is perfect for a special occasion.",
+  "cuisine": "croatian",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "flaxseed",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "namul-blanch-season",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "glassy jelly",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the ghee in a large paella pan over medium heat.",
+    "Add the chopped red onion and cook until translucent, about 3 minutes.",
+    "Add the sliced red bell pepper and cook until tender, about 4 minutes.",
+    "Add the chicken breast and cook until browned, about 5 minutes.",
+    "Add the namul-blanch-season and stir to combine.",
+    "Add the flaxseed and stir-fry for 2 minutes.",
+    "Add the chicken broth and bring to a simmer.",
+    "Reduce heat to low and cook for 15 minutes, until the liquid has been absorbed and the flaxseed is tender.",
+    "Meanwhile, prepare the glassy jelly topping by dissolving 1 cup of honey in 1 cup of water over low heat.",
+    "Simmer the jelly mixture for 10 minutes, or until it reaches 230°F on a candy thermometer.",
+    "Remove from heat and let cool slightly.",
+    "Pour the jelly mixture over the cooked paella and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "croatian",
+    "dinner",
+    "gluten-free",
+    "high-protein",
+    "paleo",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 24
+  },
+  "slug": "glassy-jelly-croatian-flaxseed-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/glassy-jelly-croatian-flaxseed-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:44:38Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "glassy-jelly",
+    "mood": "show-off",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "flaxseed",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "croatian",
+    "mainIngredient": "flaxseed",
+    "descriptor": "glassy jelly",
+    "dishForm": "paella"
+  }
+}

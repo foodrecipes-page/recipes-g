@@ -1,0 +1,108 @@
+{
+  "title": "garlicky pillowy mediterranean minari bowl",
+  "description": "quick and delicious bowl featuring sautéed minari, a tasty garlic glaze, and fluffy quinoa. perfect as a weeknight dinner or lunch",
+  "cuisine": "mediterranean",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "minari",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large skillet over medium-high heat.",
+    "add the minced garlic and cook for 1 minute, until fragrant.",
+    "add the minari to the skillet and cook for 2-3 minutes, until tender.",
+    "in a small bowl, whisk together the lemon juice and 1 tbsp of olive oil to make the garlic glaze.",
+    "add the quinoa to the skillet and stir to combine with the garlic and minari.",
+    "season with salt and black pepper to taste.",
+    "top the quinoa mixture with crumbled feta cheese, pitted kalamata olives, and chopped fresh parsley.",
+    "drizzle the garlic glaze over the top of the bowl.",
+    "serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "mediterranean",
+    "one-pan",
+    "quinoa-bowl",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "garlicky-pillowy-mediterranean-minari-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-pillowy-mediterranean-minari-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:45:06Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "pillowy",
+    "mood": "quick-fix",
+    "technique": "glaze",
+    "primaryIngredient": "minari",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Minari",
+    "descriptor": "garlicky pillowy",
+    "dishForm": "Bowl"
+  }
+}

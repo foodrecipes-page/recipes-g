@@ -3021,6 +3021,20 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-pillowy-mediterranean-minari-bowl",
+    "title": "garlicky pillowy mediterranean minari bowl",
+    "tags": [
+      "easy-dinner",
+      "mediterranean",
+      "one-pan",
+      "quinoa-bowl",
+      "weeknight"
+    ],
+    "cuisine": "mediterranean",
+    "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-portuguese-garlic-grill",
     "title": "Portuguese Garlicky Grill",
     "tags": [
@@ -5985,6 +5999,21 @@
     ],
     "cuisine": "ukrainian",
     "totalTimeMin": 75,
+    "shard": "g"
+  },
+  {
+    "slug": "glassy-jelly-croatian-flaxseed-paella",
+    "title": "Glassy Jelly Croatian Flaxseed Paella",
+    "tags": [
+      "croatian",
+      "dinner",
+      "gluten-free",
+      "high-protein",
+      "paleo",
+      "weeknight"
+    ],
+    "cuisine": "croatian",
+    "totalTimeMin": 55,
     "shard": "g"
   },
   {
