@@ -1,0 +1,99 @@
+{
+  "title": "Great Crumbly British Almond Crumble",
+  "description": "A tangy and crumbly post-workout dessert featuring ground almonds, perfect for a low-carb diet. This traditional British dish is a delicious and healthy treat.",
+  "cuisine": "British",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ground almonds",
+      "amount": "2 cups",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "fry-grind-rice-khao-khua",
+      "amount": "1 cup",
+      "notes": "toasted and ground"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "pure"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "sea salt"
+    },
+    {
+      "name": "sugar substitute",
+      "amount": "1/4 cup",
+      "notes": "low-carb friendly"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large bowl, mix together the ground almonds, fry-grind-rice-khao-khua, and sugar substitute.",
+    "Add the melted butter, beaten eggs, lemon juice, vanilla extract, and sea salt to the bowl and mix until well combined.",
+    "Transfer the mixture to a 9x9 inch baking dish.",
+    "Bake for 25 minutes or until the top is golden brown.",
+    "Remove from the oven and let cool for 10 minutes.",
+    "Serve warm and enjoy.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "almond-based",
+    "british-dish",
+    "gluten-free",
+    "healthy-dessert",
+    "low-carb",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "great-crumbly-british-almond-crumble",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/great-crumbly-british-almond-crumble",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:09:21Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crumbly",
+    "mood": "post-workout",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "ground almonds",
+    "diet": "low-carb",
+    "region": "cornish",
+    "cuisineAdjective": "British",
+    "mainIngredient": "almonds",
+    "descriptor": "Great crumbly",
+    "dishForm": "Crumble"
+  }
+}
