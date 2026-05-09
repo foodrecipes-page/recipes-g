@@ -1,0 +1,92 @@
+{
+  "title": "Glossy Glazed Spanish Fish Ceviche",
+  "description": "A tangy and indulgent Spanish dish featuring sashimi-cut fish, sugar syrup, and a touch of Andalusian flair, all prepared in a Dutch oven.",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sea Bass",
+      "amount": "1 pound",
+      "notes": "sashimi-cut"
+    },
+    {
+      "name": "Sugar Syrup",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Fresh Lemon Juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Minced Garlic",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Prepare the sugar syrup by heating it in the Dutch oven over low heat until warm and runny.",
+    "Add the sashimi-cut sea bass to the Dutch oven and pour the warm sugar syrup over the top.",
+    "Drizzle the fresh lemon juice and olive oil over the sea bass, making sure each piece is well coated.",
+    "Sprinkle the minced garlic, chopped cilantro, salt, and black pepper over the top of the sea bass.",
+    "Cover the Dutch oven with a lid and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, give the mixture a good stir and adjust the seasoning as needed.",
+    "Serve the ceviche chilled, garnished with additional cilantro if desired.",
+    "Discard any leftover ceviche after 24 hours."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "healthy",
+    "low-calorie",
+    "seafood",
+    "spanish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "glossy-glazed-spanish-fish-ceviche",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/glossy-glazed-spanish-fish-ceviche",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:20:35Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "aerated",
+    "mood": "indulgent",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "sugar syrup",
+    "diet": "low-calorie",
+    "region": "andalusian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "fish",
+    "descriptor": "Glossy Glazed",
+    "dishForm": "Ceviche"
+  }
+}
