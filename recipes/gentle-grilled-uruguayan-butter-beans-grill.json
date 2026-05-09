@@ -1,0 +1,93 @@
+{
+  "title": "Gentle Grilled Uruguayan Butter Beans Grill",
+  "description": "A nutty and pillowy post-workout Uruguayan dish featuring butter beans and pickle, made in a raclette-grill for a low-calorie friendly meal.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "butter beans",
+      "amount": "1 cup",
+      "notes": "canned, drained and rinsed"
+    },
+    {
+      "name": "pickle slices",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette-grill to medium heat.",
+    "In a bowl, mix together the butter beans, pickle slices, olive oil, garlic powder, salt, black pepper, and paprika.",
+    "Place the mixture on the raclette-grill and cook for 10 minutes, stirring occasionally.",
+    "Stir the mixture again and continue cooking for another 5 minutes, or until the butter beans are heated through and slightly browned.",
+    "Remove the grill from the heat and sprinkle with chopped fresh parsley, if using.",
+    "Serve the grilled butter beans hot, directly from the raclette-grill.",
+    "Let it cool for a few minutes before serving, if desired.",
+    "Garnish with additional pickle slices, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "low-calorie",
+    "post-workout",
+    "snack",
+    "uruguayan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "gentle-grilled-uruguayan-butter-beans-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gentle-grilled-uruguayan-butter-beans-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:01:42Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "pillowy",
+    "mood": "post-workout",
+    "technique": "pickle",
+    "primaryIngredient": "butter beans",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "butter beans",
+    "descriptor": "gentle grilled",
+    "dishForm": "Grill"
+  }
+}
