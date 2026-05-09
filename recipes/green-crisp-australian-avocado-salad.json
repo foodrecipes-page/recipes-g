@@ -1,0 +1,97 @@
+{
+  "title": "Green Crisp Australian Avocado Salad",
+  "description": "A refreshing and healthy Australian-inspired salad featuring avocado, with a mustardy and crisp twist, perfect for a low-calorie friendly meal during the monsoon season.",
+  "cuisine": "Australian",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ripe avocados",
+      "amount": "3",
+      "notes": "diced"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "4 cups"
+    },
+    {
+      "name": "red onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "whole grain mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "crispy fried shallots",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the mixed greens, diced avocado, and thinly sliced red onion.",
+    "In a small bowl, whisk together the whole grain mustard, lemon juice, olive oil, salt, and pepper to make the dressing.",
+    "Drizzle the dressing over the salad and toss to combine.",
+    "Sprinkle the crispy fried shallots over the top of the salad.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, give the salad a good toss to redistribute the ingredients.",
+    "Serve the salad chilled, garnished with additional crispy fried shallots if desired.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 24 hours."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian-inspired",
+    "crunchy-texture",
+    "healthy-salad",
+    "low-calorie",
+    "monsoon-season",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "green-crisp-australian-avocado-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/green-crisp-australian-avocado-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:21:11Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crisp",
+    "mood": "monsoon",
+    "technique": "emulsify",
+    "primaryIngredient": "avocado",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "avocado",
+    "descriptor": "green crisp",
+    "dishForm": "Salad"
+  }
+}
