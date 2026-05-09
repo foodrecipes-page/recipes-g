@@ -1,0 +1,107 @@
+{
+  "title": "Golden Ginger Middle-Eastern Chicken Tagine",
+  "description": "A flavorful and comforting chicken tagine with a hint of citrus and spices, perfect for a sick day.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 1/2-inch pieces"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "2 inches",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "bruised with the back of a knife"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "seeds removed and thinly sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "juice of 1 orange",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "juice of 1 lemon",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in the bottom of a large Dutch oven over medium heat.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Add the ginger, lemongrass, onion, and red bell pepper to the pot. Cook, stirring occasionally, until the vegetables are tender, about 10 minutes.",
+    "Add the salt, orange juice, and lemon juice to the pot. Stir to combine.",
+    "Bring the mixture to a simmer, then cover the pot and transfer it to the oven.",
+    "Braise the tagine for 25 minutes, or until the chicken is cooked through and the sauce has thickened.",
+    "Stir in the chopped cilantro and serve the tagine hot, garnished with additional cilantro if desired.",
+    "Serve the tagine over couscous or rice, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "comfort-food",
+    "easy-to-make",
+    "flavorful",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "golden-ginger-middle-eastern-chicken-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-ginger-middle-eastern-chicken-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T04:31:20Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "tender",
+    "mood": "sick-day",
+    "technique": "braise",
+    "primaryIngredient": "kosher salt",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "Chicken",
+    "descriptor": "Golden Ginger",
+    "dishForm": "Tagine"
+  }
+}
