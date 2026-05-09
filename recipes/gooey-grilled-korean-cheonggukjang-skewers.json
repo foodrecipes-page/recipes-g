@@ -1,0 +1,98 @@
+{
+  "title": "Gooey Grilled Korean Cheonggukjang Skewers",
+  "description": "A nostalgic and savory dish featuring fermented cheonggukjang, grilled to perfection, this recipe is an ayurvedic-sattvic friendly twist on a traditional Korean favorite, often enjoyed in Saudi Arabian cuisine",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cheonggukjang",
+      "amount": "1 cup",
+      "notes": "fermented soybean paste"
+    },
+    {
+      "name": "tofu",
+      "amount": "1/2 cup",
+      "notes": "extra firm"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10"
+    }
+  ],
+  "instructions": [
+    "Soak the bamboo skewers in water for 30 minutes before grilling.",
+    "Preheat the grill to medium high heat, about 400 degrees Fahrenheit.",
+    "In a blender, combine cheonggukjang, tofu, garlic, ginger, soy sauce, sesame oil, and brown sugar, and blend until smooth.",
+    "Thread the blended cheonggukjang mixture onto the bamboo skewers, leaving a small space between each piece.",
+    "Brush the grill with oil to prevent sticking, then grill the skewers for 5 minutes per side, or until slightly charred.",
+    "Serve the skewers hot, garnished with green onions and your choice of sides.",
+    "To enhance the dish, serve with a side of steamed vegetables or a small salad.",
+    "For an added crunch, top the skewers with toasted sesame seeds before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "fermented-food",
+    "grilled",
+    "korean-inspired",
+    "sattvic-diet",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "gooey-grilled-korean-cheonggukjang-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-grilled-korean-cheonggukjang-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:04:01Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "gooey",
+    "mood": "nostalgic",
+    "technique": "grill",
+    "primaryIngredient": "cheonggukjang",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "cheonggukjang",
+    "descriptor": "Gooey Grilled",
+    "dishForm": "Skewers"
+  }
+}
