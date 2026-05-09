@@ -1,0 +1,109 @@
+{
+  "title": "Garlicky Tender Mediterranean Cherry Skillet",
+  "description": "A delicious one-pot dish featuring cherry tomatoes and garlic in a Mediterranean-inspired sauce.",
+  "cuisine": "Mediterranean",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 pint",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Spinach",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "Balsamic vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add garlic and sauté for 1 minute, until fragrant.",
+    "Add mushrooms and cook until they release their liquid and start to brown.",
+    "Add cherry tomatoes, paprika, salt, and pepper. Cook for 3-4 minutes, until the tomatoes start to release their juices.",
+    "Add spinach and cook until wilted.",
+    "Stir in feta cheese and cook until melted.",
+    "Remove from heat and stir in chopped parsley and balsamic vinegar.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "garlic",
+    "mediterranean",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "garlicky-tender-mediterranean-cherry-skillet",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-tender-mediterranean-cherry-skillet",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:05:31Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "tender",
+    "mood": "one-pot",
+    "technique": "confit-tomato",
+    "primaryIngredient": "cherry",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "cherry",
+    "descriptor": "garlicky tender",
+    "dishForm": "Skillet"
+  }
+}
