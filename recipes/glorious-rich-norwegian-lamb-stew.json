@@ -1,0 +1,97 @@
+{
+  "title": "Glorious Rich Norwegian Lamb Stew",
+  "description": "A rich and comforting Norwegian lamb stew featuring hind shank, perfect for a cold day. This dish is kosher-friendly and made with tender lamb and vegetables.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb hind shank",
+      "amount": "2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb pieces on all sides, then set them aside.",
+    "Add the chopped onion to the pot and cook until it is softened and lightly browned.",
+    "Add the chopped carrots and potatoes to the pot and cook for 5 minutes.",
+    "Add the beef broth, tomato paste, flour, salt, and pepper to the pot, stirring to combine.",
+    "Return the browned lamb to the pot and bring the stew to a boil.",
+    "Reduce the heat to low, cover the pot, and simmer the stew for 2 1/2 hours, or until the lamb is tender.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty-stew",
+    "kosher-friendly",
+    "lamb-recipes",
+    "norwegian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 34
+  },
+  "slug": "glorious-rich-norwegian-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/glorious-rich-norwegian-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:05:30Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "shattering",
+    "mood": "sick-day",
+    "technique": "broil",
+    "primaryIngredient": "hind shank",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "lamb",
+    "descriptor": "Glorious Rich",
+    "dishForm": "Stew"
+  }
+}
