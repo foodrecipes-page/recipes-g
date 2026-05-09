@@ -1,0 +1,90 @@
+{
+  "title": "Glassy Portuguese Elderflower Broth",
+  "description": "A refreshing and peppery Portuguese dish featuring elderflower, this broth is a hangover cure and can be served raw or broiled. It has a unique glassy-jelly texture.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Elderflower syrup",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Agar agar powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Fresh elderflowers",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix the agar agar powder with a little water to dissolve.",
+    "In a large pot, combine the elderflower syrup, water, lemon juice, black pepper, and salt.",
+    "Bring the mixture to a boil, then reduce the heat and simmer for 10 minutes.",
+    "Add the dissolved agar agar mixture to the pot and stir well.",
+    "Remove the pot from the heat and let it cool slightly.",
+    "Strain the broth into a clean container and discard the solids.",
+    "Let the broth cool to room temperature, then refrigerate it until it sets.",
+    "Just before serving, garnish with fresh elderflowers and serve chilled or broiled.",
+    "If broiling, brush the top with a little water and broil for 1-2 minutes, or until slightly caramelized."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "hangover-cure",
+    "portuguese-cuisine",
+    "refreshing-drink",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 0
+  },
+  "slug": "glassy-portuguese-elderflower-broth",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/glassy-portuguese-elderflower-broth",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:17:13Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "glassy-jelly",
+    "mood": "hangover-cure",
+    "technique": "broil",
+    "primaryIngredient": "elderflower",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "elderflower",
+    "descriptor": "Glassy",
+    "dishForm": "Broth"
+  }
+}
