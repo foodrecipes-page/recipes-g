@@ -1,0 +1,96 @@
+{
+  "title": "Golden Crispy Ukrainian Tofu Dumplings",
+  "description": "A crispy and savory ovo-vegetarian Ukrainian dish featuring marinated tofu and a side of sweet ice cream, perfect for meal prep. This dish is a unique blend of flavors and textures.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ice cream",
+      "amount": "1 pint"
+    },
+    {
+      "name": "marinade sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, cornstarch, and a pinch of salt.",
+    "Add the beaten egg to the bowl and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into small pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape and place a cube of tofu in the center of each disk.",
+    "Fold the dough over the tofu to form a half-moon shape and press the edges together to seal.",
+    "Heat the vegetable oil in a large skillet over medium-high heat and fry the dumplings until they are golden brown.",
+    "Serve the dumplings hot with a side of sweet ice cream and marinade sauce for dipping."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fatty",
+    "meal-prep",
+    "ovo-vegetarian",
+    "snappy",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "golden-crispy-ukrainian-tofu-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-crispy-ukrainian-tofu-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:53:46Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "snappy",
+    "mood": "meal-prep",
+    "technique": "marinate",
+    "primaryIngredient": "ice cream",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "tofu",
+    "descriptor": "Golden Crispy",
+    "dishForm": "Dumplings"
+  }
+}
