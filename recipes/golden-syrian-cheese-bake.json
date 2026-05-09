@@ -1,0 +1,92 @@
+{
+  "title": "Golden Syrian Cheese Bake",
+  "description": "A rich and indulgent Syrian dish featuring a golden crust and a cheesy, self-raising flour center, baked to perfection in a claypot.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "self-raising flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Syrian cheese",
+      "amount": "1 cup",
+      "notes": "crumbly, akkawi or similar"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large mixing bowl, whisk together the self-raising flour, salt, black pepper, and paprika.",
+    "Add the melted butter, eggs, and Syrian cheese to the bowl, mixing until a smooth batter forms.",
+    "Grease a claypot with the olive oil and pour in the batter.",
+    "Bake the mixture in the preheated oven for 35 minutes, or until the top is golden brown.",
+    "Remove the claypot from the oven and let it cool for a few minutes.",
+    "Serve the Golden Syrian Cheese Bake hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "claypot",
+    "comfort-food",
+    "middle-eastern",
+    "syrian-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 18
+  },
+  "slug": "golden-syrian-cheese-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-syrian-cheese-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:16:39Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "cheese-pull",
+    "mood": "indulgent",
+    "technique": "bake",
+    "primaryIngredient": "self-raising flour",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "cheese",
+    "descriptor": "Golden Indulgent",
+    "dishForm": "Bake"
+  }
+}

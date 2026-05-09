@@ -8377,6 +8377,21 @@
     "shard": "g"
   },
   {
+    "slug": "golden-syrian-cheese-bake",
+    "title": "Golden Syrian Cheese Bake",
+    "tags": [
+      "cheesy",
+      "claypot",
+      "comfort-food",
+      "middle-eastern",
+      "syrian-cuisine",
+      "vegetarian"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 55,
+    "shard": "g"
+  },
+  {
     "slug": "golden-syrup-biscuits",
     "title": "Golden Syrup Biscuits",
     "tags": [
