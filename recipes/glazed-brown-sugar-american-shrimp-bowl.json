@@ -1,0 +1,93 @@
+{
+  "title": "Glazed Brown Sugar American Shrimp Bowl",
+  "description": "A mustardy, juicy, and energizing American dish featuring brown sugar, tandoor, and pescatarian-friendly ingredients, served in a Korean brass bowl.",
+  "cuisine": "American",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "whole grain mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tandoor seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together brown sugar, whole grain mustard, tandoor seasoning, salt, and black pepper.",
+    "Add the large shrimp to the bowl and toss to coat with the brown sugar mixture.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the shrimp to the skillet and cook for 2-3 minutes per side, until pink and cooked through.",
+    "Transfer the shrimp to a baking sheet and bake in the preheated oven for 5 minutes.",
+    "While the shrimp are baking, prepare the Korean brass bowls by placing a bed of chopped fresh parsley in the bottom of each bowl.",
+    "Once the shrimp are done, remove them from the oven and place them on top of the parsley in the bowls.",
+    "Drizzle any remaining brown sugar glaze from the skillet over the shrimp and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-cuisine",
+    "high-protein",
+    "one-pan",
+    "pescatarian-friendly",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 36,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "glazed-brown-sugar-american-shrimp-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/glazed-brown-sugar-american-shrimp-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:17:58Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "juicy",
+    "mood": "energizing",
+    "technique": "tandoor",
+    "primaryIngredient": "brown sugar",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "shrimp",
+    "descriptor": "Glazed Brown Sugar",
+    "dishForm": "Bowl"
+  }
+}
