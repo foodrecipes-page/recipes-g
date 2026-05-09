@@ -1,0 +1,96 @@
+{
+  "title": "Glorious Springy Turkish Lamb Kebab Doner",
+  "description": "A traditional Turkish dish featuring lamb, cherry tomatoes, and a salt-bake, halal-friendly and full of umami flavor, this kebab-doner is a nostalgic treat for the senses.",
+  "cuisine": "Turkish",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together salt, black pepper, and paprika.",
+    "Add the sliced lamb to the bowl and toss to coat evenly with the spice mixture.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the lamb to the skillet and cook for 5 minutes per side, or until browned.",
+    "Transfer the lamb to a baking sheet and bake in the oven for 10 minutes, or until cooked through.",
+    "While the lamb is cooking, prepare the cherry tomatoes by tossing them with a pinch of salt and a drizzle of olive oil.",
+    "Once the lamb is done, let it rest for 5 minutes before slicing it thinly against the grain.",
+    "Serve the lamb in a kebab-doner format, topped with cherry tomatoes, red onion, and garlic.",
+    "Drizzle with additional olive oil and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "halal-friendly",
+    "kebab-doner",
+    "lamb-recipes",
+    "spring-recipes",
+    "turkish-food",
+    "umami-flavors"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "glorious-springy-turkish-lamb-kebab-doner",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/glorious-springy-turkish-lamb-kebab-doner",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:08:18Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "springy",
+    "mood": "nostalgic",
+    "technique": "salt-bake",
+    "primaryIngredient": "cherry tomatoes",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "Glorious Springy",
+    "dishForm": "Kebab Doner"
+  }
+}
