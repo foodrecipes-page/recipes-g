@@ -1,0 +1,101 @@
+{
+  "title": "Grassy Green Italian Vegetable Pasta",
+  "description": "A flavorful and healthy Italian dish featuring steamed vegetables and pasta, with a touch of red chilli powder for added spice. This macrobiotic-friendly recipe is perfect for a weeknight dinner.",
+  "cuisine": "Italian",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "whole wheat spaghetti"
+    },
+    {
+      "name": "broccoli",
+      "amount": "3 cups",
+      "notes": "fresh florets"
+    },
+    {
+      "name": "zucchini",
+      "amount": "2 cups",
+      "notes": "sliced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "red chilli powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Fill a large pot with water and bring to a boil.",
+    "Add the pasta and cook according to package instructions.",
+    "In a bamboo steamer, steam the broccoli, zucchini, and red bell pepper for 5 minutes.",
+    "In a small bowl, mix together the olive oil, garlic, red chilli powder, salt, and black pepper.",
+    "Add the cooked pasta to the bowl and toss with the oil and spice mixture.",
+    "To serve, place the pasta on a plate and top with the steamed vegetables.",
+    "Garnish with fresh parsley or basil, if desired.",
+    "Serve immediately and enjoy.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "healthy-eating",
+    "italian-food",
+    "macrobiotic",
+    "one-pot",
+    "quick-dinner",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "grassy-green-italian-vegetable-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/grassy-green-italian-vegetable-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:04:40Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "molten",
+    "mood": "show-off",
+    "technique": "steam",
+    "primaryIngredient": "red chilli powder",
+    "diet": "macrobiotic",
+    "region": "tuscan",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "vegetables",
+    "descriptor": "grassy green",
+    "dishForm": "Pasta"
+  }
+}
