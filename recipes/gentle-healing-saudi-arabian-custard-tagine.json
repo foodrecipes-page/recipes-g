@@ -1,0 +1,103 @@
+{
+  "title": "Gentle Healing Saudi Arabian Custard Tagine",
+  "description": "A light and soothing Saudi Arabian dish featuring custard, beurre-monte, and anti-inflammatory friendly ingredients, served in a traditional claypot.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "milk",
+      "amount": "2 cups",
+      "notes": "whole milk preferred"
+    },
+    {
+      "name": "custard powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "cardamom",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "rose water",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "pistachios",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "claypot",
+      "amount": "1",
+      "notes": "traditional Saudi Arabian claypot"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a medium saucepan, combine the milk, custard powder, and honey, and whisk until smooth.",
+    "Cook over medium heat, stirring constantly, until the mixture comes to a boil.",
+    "Remove the saucepan from the heat and stir in the beurre-monte, turmeric, ginger, cardamom, and rose water.",
+    "Pour the mixture into the claypot and sprinkle the chopped pistachios on top.",
+    "Cover the claypot with a lid and bake for 25 minutes.",
+    "Remove the claypot from the oven and let it cool for 10 minutes.",
+    "Serve the Gentle Healing Saudi Arabian Custard Tagine warm, garnished with additional pistachios if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "claypot-cooking",
+    "comfort-food",
+    "healing-foods",
+    "middle-eastern",
+    "vegetarian-breakfast"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "gentle-healing-saudi-arabian-custard-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gentle-healing-saudi-arabian-custard-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:04:06Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "light",
+    "mood": "hangover-cure",
+    "technique": "beurre-monte",
+    "primaryIngredient": "custard",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "custard",
+    "descriptor": "Gentle Healing",
+    "dishForm": "Tagine"
+  }
+}
