@@ -1777,6 +1777,21 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-filipino-chicken-stew",
+    "title": "Garlicky Filipino Chicken Stew",
+    "tags": [
+      "chicken-stew",
+      "filipino-cuisine",
+      "halal-friendly",
+      "mason-jar-recipe",
+      "one-pot-meal",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-filipino-gyoza-fried-rice",
     "title": "garlicky filipino gyoza fried-rice",
     "tags": [
@@ -10434,6 +10449,21 @@
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 55,
+    "shard": "g"
+  },
+  {
+    "slug": "gourmet-fried-norwegian-black-beans-fried-rice",
+    "title": "Gourmet Fried Norwegian Black Beans Fried Rice",
+    "tags": [
+      "fermented-foods",
+      "gluten-free",
+      "mediterranean-inspired",
+      "norwegian-cuisine",
+      "vegetarian-option",
+      "wok-cooking"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {

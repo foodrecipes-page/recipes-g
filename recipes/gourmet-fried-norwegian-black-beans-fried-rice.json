@@ -1,0 +1,96 @@
+{
+  "title": "Gourmet Fried Norwegian Black Beans Fried Rice",
+  "description": "A Mediterranean-inspired Norwegian dish featuring fermented black beans and a blend of fry-grind-rice-khao-khua, made in a wok with fatty and pillowy textures. This adventurous recipe combines unique flavors for a satisfying meal.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fermented black beans",
+      "amount": "1 cup",
+      "notes": "dried and fermented"
+    },
+    {
+      "name": "norwegian rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large wok over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly.",
+    "Add the fermented black beans, smoked paprika, salt, and pepper, and stir-fry for 2 minutes.",
+    "Add the norwegian rice to the wok, breaking up any clumps with a spatula.",
+    "Stir-fry the rice mixture for about 5 minutes, or until the rice is heated through and starting to brown.",
+    "Use a spatula to shape the rice mixture into a flat layer, then use the back of the spatula to create a series of small wells in the surface.",
+    "Cook for an additional 2 minutes, or until the bottom layer is crispy and golden brown.",
+    "Serve the gourmet fried norwegian black beans fried rice hot, garnished with chopped scallions or parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented-foods",
+    "gluten-free",
+    "mediterranean-inspired",
+    "norwegian-cuisine",
+    "vegetarian-option",
+    "wok-cooking"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "gourmet-fried-norwegian-black-beans-fried-rice",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gourmet-fried-norwegian-black-beans-fried-rice",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:31:59Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "pillowy",
+    "mood": "adventurous",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "fermented black beans",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "black beans",
+    "descriptor": "Gourmet Fried",
+    "dishForm": "Fried-Rice"
+  }
+}
