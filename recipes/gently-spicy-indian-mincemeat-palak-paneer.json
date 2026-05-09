@@ -1,0 +1,113 @@
+{
+  "title": "Gently Spicy Indian Mincemeat Palak Paneer",
+  "description": "A spicy and tender Indian dish featuring mincemeat in a palak paneer form, cooked to perfection in a bamboo steamer. This ayurvedic-rajasic-friendly recipe is perfect for a romantic dinner.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mincemeat",
+      "amount": "1 cup",
+      "notes": "beef or lamb"
+    },
+    {
+      "name": "paneer",
+      "amount": "1 block",
+      "notes": "Indian cheese"
+    },
+    {
+      "name": "spinach puree",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon",
+      "notes": "Indian spice blend"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1/2 teaspoon",
+      "notes": "whole seeds"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "or more to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "ghee or oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Rinse the spinach and blanch it in boiling water for 30 seconds to set the color.",
+    "Shock the spinach in an ice bath to stop the cooking process.",
+    "Squeeze out as much water as possible from the spinach and puree it in a blender or food processor.",
+    "Cut the paneer into small cubes and set aside.",
+    "Heat 1 tablespoon of ghee or oil in a pan over medium heat and saute the cumin seeds until fragrant.",
+    "Add the mincemeat to the pan and cook until it is browned, breaking it up into small pieces as it cooks.",
+    "Add the garam masala, coriander powder, cayenne pepper, and salt to the pan and stir to combine.",
+    "Stir in the spinach puree and cook for 2-3 minutes, until the mixture is heated through.",
+    "Add the paneer cubes to the pan and stir gently to combine.",
+    "Transfer the mixture to a bamboo steamer lined with parchment paper or a clean cotton cloth.",
+    "Brush the top of the mixture with the remaining 1 tablespoon of ghee or oil.",
+    "Steam the mixture over boiling water for 10-12 minutes, until the paneer is tender and the mixture is heated through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "indian-cuisine",
+    "romantic-dinner",
+    "spinach-lovers",
+    "steamed-dish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "gently-spicy-indian-mincemeat-palak-paneer",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gently-spicy-indian-mincemeat-palak-paneer",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:35:57Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "tender",
+    "mood": "romantic",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "mincemeat",
+    "diet": "ayurvedic-rajasic",
+    "region": "bengali",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "mincemeat",
+    "descriptor": "Gently Spicy",
+    "dishForm": "Palak Paneer"
+  }
+}
