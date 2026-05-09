@@ -1,0 +1,107 @@
+{
+  "title": "Glorious Tunisian Pork Belly Tagine",
+  "description": "A winey and fluffy solo dinner dish featuring pork belly slices, this Tunisian tagine is a unique blend of flavors, and since it uses pork and wine, it is not satvik friendly, but can be adapted to be so by substituting these ingredients with satvik alternatives.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "1 pound",
+      "notes": "sliced into 1/4 inch thick pieces"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous vide machine to 160 degrees Fahrenheit.",
+    "Season the pork belly slices with salt, black pepper, cumin, coriander, and cinnamon.",
+    "Heat the olive oil in a large skillet over medium heat and sear the pork belly slices until browned on both sides.",
+    "Remove the pork belly from the skillet and set aside.",
+    "Add the chopped onion to the skillet and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger to the skillet and cook for an additional minute.",
+    "Add the red wine to the skillet and bring to a boil, scraping up any browned bits from the bottom of the pan.",
+    "Place the pork belly slices in a single layer in the sous vide bag and pour the wine sauce over the top.",
+    "Seal the sous vide bag and cook for 24 hours.",
+    "Remove the pork belly from the sous vide bag and slice into thin strips.",
+    "Serve the pork belly hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 1440,
+  "totalTimeMin": 1470,
+  "servings": 1,
+  "difficulty": "hard",
+  "tags": [
+    "complex-recipe",
+    "long-cooking-time",
+    "pork-belly",
+    "sous-vide",
+    "tunisian-cuisine",
+    "wine-braised"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 100
+  },
+  "slug": "glorious-tunisian-pork-belly-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/glorious-tunisian-pork-belly-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:41:13Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "fluffy",
+    "mood": "solo-dinner",
+    "technique": "sous-vide",
+    "primaryIngredient": "pork belly slices",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "pork belly",
+    "descriptor": "Glorious",
+    "dishForm": "Tagine"
+  }
+}
