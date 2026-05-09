@@ -4314,6 +4314,21 @@
     "shard": "g"
   },
   {
+    "slug": "gently-fermented-australian-tripe-hotpot",
+    "title": "Gently Fermented Australian Tripe Hotpot",
+    "tags": [
+      "australian-cuisine",
+      "fermented-food",
+      "gluten-free",
+      "hotpot",
+      "low-sodium",
+      "meal-prep"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 120,
+    "shard": "g"
+  },
+  {
     "slug": "gently-flavored-tunisian-fish-tagine",
     "title": "Tunisian Fish Tagine",
     "tags": [

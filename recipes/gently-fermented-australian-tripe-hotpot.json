@@ -1,0 +1,95 @@
+{
+  "title": "Gently Fermented Australian Tripe Hotpot",
+  "description": "A low-sodium, citrusy Australian dish featuring tripe, fermented for a crunchy texture, perfect for meal prep. This hotpot is a hearty and healthy option for a weeknight dinner.",
+  "cuisine": "Australian",
+  "diet": [
+    "low-sodium",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tripe",
+      "amount": "1 pound",
+      "notes": "cleaned and cut into bite-sized pieces"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "fermentation starter",
+      "amount": "1 packet"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Combine tripe, lemon juice, olive oil, garlic, and ginger in a large bowl and mix well.",
+    "Cover the bowl with a lid or plastic wrap and refrigerate for at least 2 hours or overnight to marinate.",
+    "Remove the tripe mixture from the refrigerator and add the fermentation starter, stirring gently to combine.",
+    "Transfer the tripe mixture to a hotpot vessel and add the water, stirring gently to combine.",
+    "Cover the hotpot vessel with a lid and bring the mixture to a boil over high heat.",
+    "Reduce the heat to low and simmer, covered, for 1 hour, or until the tripe is tender and the liquid has reduced slightly.",
+    "Stir in the salt-free seasoning blend and continue to simmer, covered, for an additional 30 minutes.",
+    "Remove the hotpot from the heat and let it cool to room temperature.",
+    "Refrigerate the hotpot, covered, for at least 2 hours or overnight to allow the flavors to meld and the tripe to ferment slightly."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "fermented-food",
+    "gluten-free",
+    "hotpot",
+    "low-sodium",
+    "meal-prep"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "gently-fermented-australian-tripe-hotpot",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gently-fermented-australian-tripe-hotpot",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:57:54Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crunchy",
+    "mood": "meal-prep",
+    "technique": "ferment",
+    "primaryIngredient": "tripe",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "tripe",
+    "descriptor": "Gently Fermented",
+    "dishForm": "Hotpot"
+  }
+}
