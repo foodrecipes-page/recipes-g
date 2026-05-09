@@ -1,0 +1,105 @@
+{
+  "title": "Glorious Grilled Vietnamese Pork Bun Thit Nuong",
+  "description": "A winey and bouncy Vietnamese dish featuring all-purpose seasoning, ferment, and sugar-free-friendly ingredients, served in a talavera plate as a bun thit nuong form.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "all-purpose seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pickled carrots",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "pickled daikon",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "vermicelli noodles",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together fish sauce, lime juice, garlic, black pepper, and all-purpose seasoning.",
+    "Add the sliced pork to the bowl and marinate for at least 30 minutes.",
+    "Grill the pork for 5-7 minutes per side, or until it reaches an internal temperature of 145 degrees Fahrenheit.",
+    "Let the pork rest for 5 minutes before slicing it thinly.",
+    "Assemble the bun thit nuong by placing a few slices of pork onto a talavera plate, followed by a spoonful of pickled carrots and daikon, a few vermicelli noodles, and a sprinkle of chopped cilantro.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional cilantro and pickled vegetables if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "grilled-pork",
+    "one-pan",
+    "sugar-free",
+    "vietnamese-cuisine",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "glorious-grilled-vietnamese-pork-bun-thit-nuong",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/glorious-grilled-vietnamese-pork-bun-thit-nuong",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:47:05Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "bouncy-qq",
+    "mood": "adventurous",
+    "technique": "ferment",
+    "primaryIngredient": "all-purpose seasoning",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork",
+    "descriptor": "Glorious Grilled",
+    "dishForm": "Bun Thit Nuong"
+  }
+}
