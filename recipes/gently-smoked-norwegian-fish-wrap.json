@@ -1,0 +1,93 @@
+{
+  "title": "Gently Smoked Norwegian Fish Wrap",
+  "description": "A cultured and silky post-workout Norwegian dish featuring mixed peel and yuzu-cure, wrapped in a ti-leaf wrap, halal-friendly.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "halal",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Norwegian fish fillet",
+      "amount": "4 oz",
+      "notes": "any white fish"
+    },
+    {
+      "name": "mixed peel",
+      "amount": "2 tbsp",
+      "notes": "orange and lemon"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "4 large leaves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the smoker to 100 degrees Fahrenheit.",
+    "Season the fish fillet with salt, black pepper, and smoked paprika.",
+    "Place the fish fillet in the smoker for 30 minutes.",
+    "Meanwhile, mix the yuzu juice and olive oil in a small bowl.",
+    "Brush the mixture on the ti leaves.",
+    "Once the fish is done, let it cool for a few minutes.",
+    "Place a piece of fish on each ti leaf, then sprinkle with mixed peel.",
+    "Fold the ti leaves to form a wrap.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "norwegian-cuisine",
+    "post-workout",
+    "seafood",
+    "smoked"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "gently-smoked-norwegian-fish-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gently-smoked-norwegian-fish-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:12:24Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "silky",
+    "mood": "post-workout",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "mixed peel",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "fish",
+    "descriptor": "Gently Smoked",
+    "dishForm": "Wrap"
+  }
+}
