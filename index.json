@@ -7521,6 +7521,22 @@
     "shard": "g"
   },
   {
+    "slug": "golden-irish-potato-galette",
+    "title": "Golden Irish Potato Galette",
+    "tags": [
+      "comfort-food",
+      "dinner",
+      "gluten-free",
+      "irish-cuisine",
+      "low-carb",
+      "snack",
+      "weeknight"
+    ],
+    "cuisine": "irish",
+    "totalTimeMin": 55,
+    "shard": "g"
+  },
+  {
     "slug": "golden-japanese-dish-shoyu-ramen",
     "title": "Shoyu Ramen",
     "tags": [
