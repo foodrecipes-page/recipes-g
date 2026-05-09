@@ -1,0 +1,95 @@
+{
+  "title": "Gooey Caramelized American Pecan Tagine",
+  "description": "A nutty and flaky American dish featuring caramelized pecans, perfect for a brunch mood, made in a tagine pot and dairy-free friendly.",
+  "cuisine": "American",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "caster sugar",
+      "amount": "1 cup",
+      "notes": "granulated sugar can be substituted"
+    },
+    {
+      "name": "American pecans",
+      "amount": "1 1/2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "non-dairy milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egg replacement",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, sugar, and salt.",
+    "Add the coconut oil, vanilla extract, and non-dairy milk to the bowl and stir until a dough forms.",
+    "Fold in the chopped pecans.",
+    "Transfer the dough to a tagine pot and spread it out evenly.",
+    "Bake the tagine for 35 minutes or until the crust is golden brown.",
+    "While the tagine is baking, prepare the caramel sauce by melting the caster sugar in a saucepan over medium heat.",
+    "Once the sugar has melted, add the egg replacement and stir until the sauce is smooth.",
+    "Remove the tagine from the oven and pour the caramel sauce over the top.",
+    "Return the tagine to the oven and bake for an additional 10 minutes or until the caramel is bubbly and golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "american-cuisine",
+    "brunch-recipe",
+    "caramelized",
+    "dairy-free",
+    "nutty-flavors",
+    "tagine-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "gooey-caramelized-american-pecan-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-caramelized-american-pecan-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:44:46Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "flaky",
+    "mood": "brunch-mood",
+    "technique": "caramelize",
+    "primaryIngredient": "caster sugar",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Pecans",
+    "descriptor": "Gooey Caramelized",
+    "dishForm": "Tagine"
+  }
+}
