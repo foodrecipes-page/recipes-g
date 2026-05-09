@@ -1,0 +1,103 @@
+{
+  "title": "Gently Charred Syrian Peppers Tagine",
+  "description": "A cozy Syrian dish featuring charred peppers and infused oil, perfect for a pescatarian-friendly meal. This tagine is a hearty and flavorful stew made with a variety of peppers and spices.",
+  "cuisine": "Syrian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bell peppers",
+      "amount": "4 large",
+      "notes": "any color"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "canned tomatoes",
+      "amount": "1 can",
+      "notes": "14 oz"
+    },
+    {
+      "name": "white fish",
+      "amount": "1 lb",
+      "notes": "cut into 1 inch pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "Char the peppers by placing them on a baking sheet and roasting for 30 minutes.",
+    "Remove the peppers from the oven and let them cool.",
+    "Peel the peppers and chop them into large pieces.",
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the onion and garlic to the pot and cook until the onion is translucent.",
+    "Add the cumin, paprika, salt, and black pepper to the pot and cook for 1 minute.",
+    "Add the chopped peppers, canned tomatoes, and white fish to the pot and stir to combine.",
+    "Bring the mixture to a simmer and cook for 20 minutes or until the fish is cooked through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "healthy-meal",
+    "one-pot",
+    "pescatarian-friendly",
+    "syrian-cuisine",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "gently-charred-syrian-peppers-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gently-charred-syrian-peppers-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:54:07Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "aerated",
+    "mood": "cozy",
+    "technique": "infuse-oil",
+    "primaryIngredient": "peppers",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "peppers",
+    "descriptor": "Gently Charred",
+    "dishForm": "Tagine"
+  }
+}
