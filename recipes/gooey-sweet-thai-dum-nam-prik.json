@@ -1,0 +1,104 @@
+{
+  "title": "Gooey Sweet Thai Dum Nam Prik",
+  "description": "A festive Northern Thai dish featuring a sweet and spicy sauce with dum, sugar, and plant-based friendly ingredients, this nam prik is perfect for special occasions. It has a unique mustardy flavor and a gooey texture.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "dried chilies",
+      "amount": "4",
+      "notes": "seeds removed"
+    },
+    {
+      "name": "shallots",
+      "amount": "2",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dum",
+      "amount": "1 cup",
+      "notes": "or other plant-based protein source"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Roast the dried chilies in a 350 degree oven for 5 minutes to enhance their flavor.",
+    "Grind the roasted chilies into a fine powder using a spice grinder.",
+    "Heat the oil in a large pan over medium heat and saute the shallots and garlic until softened.",
+    "Add the lemongrass, sugar, dum, mustard, and chili powder to the pan and stir well.",
+    "Pour in the water and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the mixture cook for 10 minutes, stirring occasionally.",
+    "Season the nam prik with salt to taste.",
+    "Remove the lemongrass stalks and let the nam prik cool to room temperature.",
+    "Serve the gooey sweet Thai dum nam prik at room temperature or chilled."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "festive-dish",
+    "homemade",
+    "plant-based",
+    "spicy-food",
+    "thai-cuisine"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "gooey-sweet-thai-dum-nam-prik",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-sweet-thai-dum-nam-prik",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:29:09Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "gooey",
+    "mood": "festive",
+    "technique": "dum",
+    "primaryIngredient": "sugar",
+    "diet": "plant-based",
+    "region": "northern-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "dum",
+    "descriptor": "Gooey Sweet",
+    "dishForm": "Nam Prik"
+  }
+}
