@@ -1,0 +1,79 @@
+{
+  "title": "Garlicky Molten Russian Garlic Borscht",
+  "description": "A hearty Russian-inspired borscht dish enhanced by the pungency of garlic and a burst of citrus, great for post-workout restoration. Featuring unwaxed lime and a low-sodium broth.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "low-sodium"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": ""
+    },
+    {
+      "name": "unwaxed lime",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "In a ttukbaegi-earthenware pot, combine beets, garlic, and 1 tablespoon of oil.",
+    "Roast in the preheated oven for 20 minutes.",
+    "Remove from oven and carefully transfer to stovetop over medium heat.",
+    "Add chicken broth and bring to a simmer.",
+    "Reduce heat to low and let cook for 15 minutes.",
+    "Squeeze in lime juice and season to taste.",
+    "Serve hot and garnish with chopped fresh dill, if desired.",
+    "Let cool before refrigerating leftovers."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 35,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty",
+    "low-sodium",
+    "post-workout",
+    "russian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "garlicky-molten-russian-garlic-borscht",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-molten-russian-garlic-borscht",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:19:12Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "molten",
+    "mood": "post-workout",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "unwaxed lime",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Garlic",
+    "descriptor": "Garlicky Molten",
+    "dishForm": "Borscht"
+  }
+}

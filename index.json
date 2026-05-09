@@ -2834,6 +2834,20 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-molten-russian-garlic-borscht",
+    "title": "Garlicky Molten Russian Garlic Borscht",
+    "tags": [
+      "comfort-food",
+      "hearty",
+      "low-sodium",
+      "post-workout",
+      "russian-cuisine"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 60,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-moroccan-rice-tagine",
     "title": "Garlicky Moroccan Rice Tagine",
     "tags": [
@@ -3567,6 +3581,19 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-uruguayan-wagyu-asado",
+    "title": "Garlicky Uruguayan Wagyu Asado",
+    "tags": [
+      "high-protein",
+      "latin-inspired",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {
@@ -9772,6 +9799,22 @@
     ],
     "cuisine": "Greek",
     "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
+    "slug": "gooey-sweet-portuguese-cheese-lasagna",
+    "title": "Gooey Sweet Portuguese Cheese Lasagna",
+    "tags": [
+      "coconut-flakes",
+      "comfort-food",
+      "jain-friendly",
+      "nuka-pickle",
+      "portuguese-cuisine",
+      "sweet-lasagna",
+      "vegetarian"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 60,
     "shard": "g"
   },
   {

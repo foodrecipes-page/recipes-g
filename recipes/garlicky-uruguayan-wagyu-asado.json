@@ -1,0 +1,109 @@
+{
+  "title": "Garlicky Uruguayan Wagyu Asado",
+  "description": "A flavorful and easy-to-make Uruguayan-inspired dish featuring Wagyu beef, garlic, and chimichurri.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wagyu beef (1.5 lbs)",
+      "amount": "1.5",
+      "notes": ""
+    },
+    {
+      "name": "Garlic (6 cloves)",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "Fresh oregano (1/4 cup)",
+      "amount": "1/4",
+      "notes": ""
+    },
+    {
+      "name": "Red wine vinegar (1/4 cup)",
+      "amount": "1/4",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil (1/4 cup)",
+      "amount": "1/4",
+      "notes": ""
+    },
+    {
+      "name": "Salt (1 tsp)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper (1 tsp)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Chimichurri (homemade or store-bought)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley (1/4 cup)",
+      "amount": "1/4",
+      "notes": ""
+    },
+    {
+      "name": "Dehydrated garlic powder (optional)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400° F (200° C).",
+    "Cut the Wagyu beef into 1-inch cubes.",
+    "In a large bowl, mix together garlic, oregano, red wine vinegar, olive oil, salt, and black pepper.",
+    "Add the beef cubes to the bowl and toss to coat with the marinade.",
+    "Line a baking sheet with parchment paper and arrange the beef cubes in a single layer.",
+    "Bake for 20 minutes or until the beef is browned on the outside and cooked to your desired level of doneness.",
+    "While the beef is cooking, prepare the chimichurri by mixing together parsley, garlic powder (if using), and a squeeze of lemon juice.",
+    "Once the beef is done, remove it from the oven and let it rest for 5 minutes before slicing.",
+    "Serve the beef with a spoonful of chimichurri on top.",
+    "Garnish with additional parsley and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "latin-inspired",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 60,
+    "carbs": 6,
+    "fat": 52
+  },
+  "slug": "garlicky-uruguayan-wagyu-asado",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-uruguayan-wagyu-asado",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:18:09Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "snappy",
+    "mood": "weeknight",
+    "technique": "dehydrate",
+    "primaryIngredient": "wagyu",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Wagyu",
+    "descriptor": "Garlicky",
+    "dishForm": "Asado"
+  }
+}
