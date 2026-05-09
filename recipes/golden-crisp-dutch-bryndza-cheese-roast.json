@@ -1,0 +1,93 @@
+{
+  "title": "Golden Crisp Dutch Bryndza Cheese Roast",
+  "description": "A peppery and crisp festive Dutch dish featuring bryndza cheese and roast, friendly to ayurvedic tamasic diets.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bryndza cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "beef roast",
+      "amount": "2 pounds",
+      "notes": "grass-fed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "cold-pressed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "Season the beef roast with black pepper and place it in a roasting pan.",
+    "Roast the beef in the oven for 20 minutes per pound, or until it reaches an internal temperature of 145 degrees Fahrenheit.",
+    "While the beef is roasting, toss the onion, carrot, and potato with olive oil, and spread them out in a single layer on a baking sheet.",
+    "Roast the vegetables in the oven for 30 minutes, or until they are tender and lightly browned.",
+    "Once the beef is done, let it rest for 10 minutes before slicing it thinly.",
+    "To serve, place sliced beef on a plate and top it with crumbled bryndza cheese and roasted vegetables.",
+    "Garnish with fresh herbs, such as parsley or thyme, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dutch-cuisine",
+    "festive-dish",
+    "gluten-free",
+    "roast-beef",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "golden-crisp-dutch-bryndza-cheese-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-crisp-dutch-bryndza-cheese-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:14:04Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crisp",
+    "mood": "festive",
+    "technique": "roast",
+    "primaryIngredient": "bryndza cheese",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "bryndza cheese",
+    "descriptor": "Golden Crisp",
+    "dishForm": "Roast"
+  }
+}
