@@ -570,6 +570,19 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-aerated-egyptian-beans-stir-fry",
+    "title": "Garlicky Aerated Egyptian Beans Stir-Fry",
+    "tags": [
+      "gluten-free",
+      "one-pan",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-aerated-german-dish-paella",
     "title": "Garlicky Aerated German Paella in Scallop Shells",
     "tags": [
@@ -10696,6 +10709,20 @@
     ],
     "cuisine": "Jamaican",
     "totalTimeMin": 70,
+    "shard": "g"
+  },
+  {
+    "slug": "grassy-zesty-kenyan-fish-fry",
+    "title": "Grassy Zesty Kenyan Fish Fry",
+    "tags": [
+      "easy-to-make",
+      "fish-fry",
+      "kenyan-fish-fry",
+      "post-workout",
+      "seafood"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {

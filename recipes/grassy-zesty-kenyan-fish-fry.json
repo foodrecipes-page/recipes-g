@@ -1,0 +1,127 @@
+{
+  "title": "Grassy Zesty Kenyan Fish Fry",
+  "description": "A refreshing and revitalizing Kenyan dish featuring flaky fish, crunchy vegetables, and a hint of dark brown sugar. Ideal for post-workout meals.",
+  "cuisine": "kenyan",
+  "diet": [
+    "pescatarian",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Coho Salmon Fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Dark Brown Sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Coriander",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 small",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Bok Choy",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Potato Starch",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Rinse the fish fillets under cold water and pat them dry with paper towels.",
+    "In a small bowl, mix together dark brown sugar, lime juice, garlic, and a pinch of salt and pepper.",
+    "Brush the mixture evenly onto both sides of the fish fillets.",
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add the red onion and bok choy to the skillet and cook until the onion is translucent and the bok choy is slightly wilted.",
+    "Add the fish fillets to the skillet and sear for 2-3 minutes on each side.",
+    "Transfer the skillet to the preheated oven and cook for 8-10 minutes or until the fish is cooked through.",
+    "While the fish is cooking, mix together potato starch and a little water to create a slurry.",
+    "Remove the skillet from the oven and reduce heat to medium.",
+    "Add the coriander and cilantro to the skillet and stir to combine.",
+    "Pour the slurry into the skillet and stir to coat the fish and vegetables evenly.",
+    "Return the skillet to the oven and cook for an additional 2-3 minutes or until the sauce has thickened.",
+    "Serve the fish fry hot, garnished with additional coriander and cilantro if desired.",
+    "Garnish with additional coriander and cilantro if desired. Garnish is optional but the taste is greatly improved with some more fresh coriander and cilantro chucks",
+    "Add some more bok choy to the fish fry if you feel its needed or just not enough in the dish to take the fish to the final result",
+    "If you like to have crispy potatoes along with your fish, add small potato cubes to the skillet for 3-4 minutes before cooking the fish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "fish-fry",
+    "kenyan-fish-fry",
+    "post-workout",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "grassy-zesty-kenyan-fish-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/grassy-zesty-kenyan-fish-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:13:53Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "fluffy",
+    "mood": "post-workout",
+    "technique": "fry",
+    "primaryIngredient": "dark brown sugar",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "kenyan",
+    "mainIngredient": "fish",
+    "descriptor": "grassy zesty",
+    "dishForm": "fry"
+  }
+}

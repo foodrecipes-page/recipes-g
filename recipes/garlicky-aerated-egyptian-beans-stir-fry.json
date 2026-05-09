@@ -1,0 +1,109 @@
+{
+  "title": "Garlicky Aerated Egyptian Beans Stir-Fry",
+  "description": "A vegan-friendly brunch dish featuring Chinese long beans and a crispy char from broiling.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Chinese long beans",
+      "amount": "1 lb",
+      "notes": "Trimmed and cut into 1-inch pieces"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegan oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing and saut\u00186ng"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "Chopped",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together cumin, paprika, salt, and black pepper. Add the trimmed and cut long beans and mix to coat.",
+    "Brush a baking sheet with vegan oil and arrange the long beans in a single layer.",
+    "Broil for 2-3 minutes or until the beans are slightly charred and crispy.",
+    "Heat a large skillet over medium heat. Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the diced red onion and cook for 2-3 minutes, until softened.",
+    "Add the tomato paste and cook for 1 minute, stirring constantly.",
+    "Add the cooked long beans and stir to combine with the garlic-onion mixture.",
+    "Cook for 1-2 minutes, until heated through.",
+    "Transfer the beans to a serving dish and garnish with chopped fresh parsley.",
+    "Serve hot immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "garlicky-aerated-egyptian-beans-stir-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-aerated-egyptian-beans-stir-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:14:42Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "aerated",
+    "mood": "brunch-mood",
+    "technique": "broil",
+    "primaryIngredient": "chinese long beans",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "egyptian",
+    "mainIngredient": "beans",
+    "descriptor": "garlicky aerated",
+    "dishForm": "stir-fry"
+  }
+}
