@@ -1,0 +1,95 @@
+{
+  "title": "Glossy Tangy Ethiopian Cranberries Misir Wot",
+  "description": "A tangy and glassy Ethiopian dish featuring cranberries, cooked in a clay pot and suitable for a sick day, with ayurvedic tamasic friendly ingredients. This misir wot is a unique twist on traditional Ethiopian cuisine.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cranberries",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the clay pot over medium heat and add the oil.",
+    "Add the chopped onions and saute until they are translucent.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the berbere spice and cook for 1 minute, stirring constantly.",
+    "Add the cranberries, water, and salt, and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes, or until the cranberries have popped and the sauce has thickened.",
+    "Stir occasionally to prevent burning.",
+    "Serve the misir wot hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "ethiopian-cuisine",
+    "gluten-free",
+    "one-pot",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "glossy-tangy-ethiopian-cranberries-misir-wot",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/glossy-tangy-ethiopian-cranberries-misir-wot",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:27:44Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "glassy-jelly",
+    "mood": "sick-day",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "cranberry",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "cranberries",
+    "descriptor": "Glossy Tangy",
+    "dishForm": "Misir Wot"
+  }
+}
