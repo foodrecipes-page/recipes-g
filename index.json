@@ -9382,6 +9382,20 @@
     "shard": "g"
   },
   {
+    "slug": "gourmet-american-almond-burger",
+    "title": "Gourmet American Almond Burger",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "macrobiotic-friendly",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "gourmet-argentinian-beef-sushi",
     "title": "Gourmet Argentinian Beef Sushi",
     "tags": [

@@ -1,0 +1,92 @@
+{
+  "title": "Gourmet American Almond Burger",
+  "description": "A macrobiotic-friendly American dish featuring almond paste and shio-cure, perfect for a winey and bouncy meal prep experience",
+  "cuisine": "American",
+  "diet": [
+    "macrobiotic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "almond paste",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "grass-fed beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "shio-cure seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "brioche buns",
+      "amount": "4"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sliced red onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegan mayo",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit",
+    "In a large bowl, mix together almond paste, shio-cure seasoning, and red wine",
+    "Add the grass-fed beef to the bowl and mix until just combined",
+    "Form the beef mixture into 4 patties",
+    "Place the patties on a baking sheet lined with parchment paper and bake for 15 minutes",
+    "While the burgers are cooking, toast the brioche buns",
+    "Assemble the burgers with mixed greens, sliced red onion, and vegan mayo",
+    "Serve immediately and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "macrobiotic-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "gourmet-american-almond-burger",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gourmet-american-almond-burger",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:35:46Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "bouncy-qq",
+    "mood": "meal-prep",
+    "technique": "shio-cure",
+    "primaryIngredient": "almond paste",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "almonds",
+    "descriptor": "Gourmet",
+    "dishForm": "Burger"
+  }
+}
