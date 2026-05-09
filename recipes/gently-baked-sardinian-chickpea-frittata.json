@@ -1,0 +1,105 @@
+{
+  "title": "Gently Baked Sardinian Chickpea Frittata",
+  "description": "A delicious Italian dish featuring chickpeas, perfect for a brunch mood, made without onion and garlic, and baked in a gentle way to bring out the umami flavor, served on a traditional talavera plate.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "eggs",
+      "amount": "6 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1 cup",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "papillote paper",
+      "amount": "1 sheet",
+      "notes": "for baking"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the eggs, salt, and black pepper until well combined.",
+    "Add the grated parmesan cheese to the bowl and stir until the cheese is fully incorporated into the eggs.",
+    "Add the chickpeas, cherry tomatoes, and chopped parsley to the bowl and stir gently until they are evenly distributed throughout the egg mixture.",
+    "Brush the talavera plate with olive oil to prevent the frittata from sticking.",
+    "Pour the egg mixture into the prepared talavera plate and smooth the top.",
+    "Cut a piece of papillote paper to fit over the plate and place it on top of the frittata.",
+    "Bake the frittata in the preheated oven for 25 minutes, or until the edges are set and the center is still slightly jiggly.",
+    "Remove the frittata from the oven and let it cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "brunch-recipe",
+    "chickpea-recipe",
+    "frittata-recipe",
+    "gluten-free-recipe",
+    "italian-dish",
+    "vegetarian-breakfast"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "gently-baked-sardinian-chickpea-frittata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gently-baked-sardinian-chickpea-frittata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:15:47Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "velvety",
+    "mood": "brunch-mood",
+    "technique": "papillote",
+    "primaryIngredient": "can of chickpeas",
+    "diet": "no-onion-no-garlic",
+    "region": "sardinian",
+    "cuisineAdjective": "Sardinian",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Gently Baked",
+    "dishForm": "Frittata"
+  }
+}
