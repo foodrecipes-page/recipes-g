@@ -1,0 +1,106 @@
+{
+  "title": "Gently Spiced Middle Eastern Lamb Shawarma",
+  "description": "A tangy and tender Middle Eastern dish featuring lamb, served in a low-carb friendly shawarma format with flat rice noodles, perfect for a solo dinner.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "flat rice noodles",
+      "amount": "1/2 cup",
+      "notes": "cooked and cooled"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together olive oil, cumin, coriander, paprika, garlic, salt, and pepper to make the marinade.",
+    "Add the sliced lamb to the marinade and mix well to coat, then cover and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill or grill pan to medium-high heat and cook the lamb for 5-6 minutes per side, or until it reaches an internal temperature of 145 degrees.",
+    "Immediately submerge the cooked lamb in an ice bath to stop the cooking process and slice it into thin strips.",
+    "In a small bowl, mix together yogurt and lemon juice to make the sauce.",
+    "To assemble the shawarma, place a portion of the cooked flat rice noodles on a plate, then add sliced lamb and drizzle with the yogurt sauce.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional lemon wedges and parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 55,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "lamb",
+    "low-carb",
+    "middle-eastern",
+    "one-pan",
+    "shawarma"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "gently-spiced-middle-eastern-lamb-shawarma",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gently-spiced-middle-eastern-lamb-shawarma",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:55:59Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "tender",
+    "mood": "solo-dinner",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "flat rice noodles",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "lamb",
+    "descriptor": "Gently Spiced",
+    "dishForm": "Shawarma"
+  }
+}
