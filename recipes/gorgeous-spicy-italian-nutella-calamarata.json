@@ -1,0 +1,94 @@
+{
+  "title": "Gorgeous Spicy Italian Nutella Calamarata",
+  "description": "A spicy and romantic Italian dish featuring Nutella, score-fat, and macrobiotic-friendly ingredients in a calamarata form, cooked to perfection in a wok.",
+  "cuisine": "Italian",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "calamarata pasta",
+      "amount": "12 oz",
+      "notes": "macrobiotic-friendly"
+    },
+    {
+      "name": "Nutella",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "score-fat",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a wok over medium heat.",
+    "Add the garlic and cook for 1 minute until fragrant.",
+    "Add the red pepper flakes and cook for another minute.",
+    "Add the calamarata pasta and cook for 2 minutes until slightly toasted.",
+    "Add the score-fat and stir until melted.",
+    "Add the Nutella and stir until well combined.",
+    "Season with sea salt to taste.",
+    "Transfer the pasta to a serving dish and top with chopped fresh basil.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "macrobiotic",
+    "nutella",
+    "one-pan",
+    "romantic",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "gorgeous-spicy-italian-nutella-calamarata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gorgeous-spicy-italian-nutella-calamarata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:27:54Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crisp",
+    "mood": "romantic",
+    "technique": "score-fat",
+    "primaryIngredient": "nutella",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Nutella",
+    "descriptor": "Gorgeous Spicy",
+    "dishForm": "Calamarata"
+  }
+}

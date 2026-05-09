@@ -5069,6 +5069,23 @@
     "shard": "g"
   },
   {
+    "slug": "gigantic-korean-quinoa-pilaf",
+    "title": "Gigantic Korean Quinoa Pilaf",
+    "tags": [
+      "breakfast",
+      "gluten-free",
+      "high-protein",
+      "korean-inspired",
+      "pilaf",
+      "quinoa",
+      "sesame",
+      "weeknight"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "giggly-indian-fluffy-dish-biryani",
     "title": "giggly indian fluffy dish Biryani",
     "tags": [
@@ -10140,6 +10157,21 @@
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 40,
+    "shard": "g"
+  },
+  {
+    "slug": "gorgeous-spicy-italian-nutella-calamarata",
+    "title": "Gorgeous Spicy Italian Nutella Calamarata",
+    "tags": [
+      "italian",
+      "macrobiotic",
+      "nutella",
+      "one-pan",
+      "romantic",
+      "spicy"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
