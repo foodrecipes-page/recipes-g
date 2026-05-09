@@ -4553,6 +4553,21 @@
     "shard": "g"
   },
   {
+    "slug": "gentle-spiced-moroccan-fish-tagine",
+    "title": "Gentle Spiced Moroccan Fish Tagine",
+    "tags": [
+      "comfort-food",
+      "fish",
+      "healthy",
+      "moroccan",
+      "one-pot",
+      "stew"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 45,
+    "shard": "g"
+  },
+  {
     "slug": "gentle-spicy-portuguese-chicken-tagine",
     "title": "Gentle Spicy Portuguese Chicken Tagine",
     "tags": [
@@ -5822,6 +5837,20 @@
       "vegetarian"
     ],
     "cuisine": "mediterranean",
+    "totalTimeMin": 27,
+    "shard": "g"
+  },
+  {
+    "slug": "gingerly-grilled-malaysian-lemongrass-satay",
+    "title": "Gingerly Grilled Malaysian Lemongrass Satay",
+    "tags": [
+      "asian",
+      "grilled",
+      "low-carb",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Malaysian",
     "totalTimeMin": 27,
     "shard": "g"
   },
