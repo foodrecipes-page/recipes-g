@@ -8946,6 +8946,20 @@
     "shard": "g"
   },
   {
+    "slug": "golden-roasted-peruvian-chicken-stew",
+    "title": "Golden Roasted Peruvian Chicken Stew",
+    "tags": [
+      "dairy-free",
+      "gluten-free",
+      "one-pot-dish",
+      "peruvian-cuisine",
+      "weeknight-meal"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 70,
+    "shard": "g"
+  },
+  {
     "slug": "golden-roasted-portuguese-pork-roast",
     "title": "Golden Roasted Portuguese Pork Roast",
     "tags": [
