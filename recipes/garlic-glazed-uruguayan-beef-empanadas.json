@@ -1,0 +1,96 @@
+{
+  "title": "Garlic Glazed Uruguayan Beef Empanadas",
+  "description": "Tender and indulgent Uruguayan empanadas filled with spicy beef and topped with a rich garlic glaze, perfect for a satisfying snack or meal.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "grass fed"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "1 package"
+    },
+    {
+      "name": "rendered fat",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, heat the rendered fat over medium high heat.",
+    "Add the beef to the skillet and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the onion, garlic, paprika, cayenne pepper, salt, and black pepper to the skillet and cook until the onion is translucent.",
+    "Roll out the empanada dough and cut out circles of dough.",
+    "Place a spoonful of the beef mixture onto the center of each dough circle.",
+    "Fold the dough in half over the filling and press the edges together to seal the empanada.",
+    "Place the empanadas on a baking sheet lined with parchment paper and brush the tops with the garlic glaze.",
+    "Bake the empanadas in the preheated oven for 20 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "empanadas",
+    "high-protein",
+    "latin-american",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "garlic-glazed-uruguayan-beef-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/garlic-glazed-uruguayan-beef-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:45:18Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "tender",
+    "mood": "indulgent",
+    "technique": "render-fat",
+    "primaryIngredient": "garlic clove",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "garlic glazed",
+    "dishForm": "Empanadas"
+  }
+}
