@@ -1,0 +1,95 @@
+{
+  "title": "Golden Velvety Peruvian Cornmeal Picarones",
+  "description": "A kid-friendly Peruvian dish made with fine yellow cornmeal and rest-meat, this paleo-friendly picarone is sour and velvety in texture. It is a delicious and healthy snack for all ages.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "fine yellow cornmeal",
+      "amount": "2 cups",
+      "notes": "freshly milled"
+    },
+    {
+      "name": "rest-meat",
+      "amount": "1 pound",
+      "notes": "cooked and shredded"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "baking soda",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "anise seeds",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the cornmeal, rest-meat, sour cream, eggs, salt, baking soda, and anise seeds, mixing until a smooth dough forms.",
+    "Knead the dough for 5 minutes until it is pliable and velvety.",
+    "Divide the dough into 8 equal pieces and shape each piece into a ball.",
+    "Flatten each ball into a disk shape and place on a baking sheet lined with parchment paper.",
+    "Brush the tops of the picarones with coconut oil and drizzle with honey.",
+    "Bake the picarones for 20 minutes, or until they are golden brown.",
+    "Remove the picarones from the oven and let them cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "homemade",
+    "kid-friendly",
+    "paleo-friendly",
+    "peruvian-cuisine",
+    "snack-time"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "golden-velvety-peruvian-cornmeal-picarones",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-velvety-peruvian-cornmeal-picarones",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:16:25Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "velvety",
+    "mood": "kid-friendly",
+    "technique": "rest-meat",
+    "primaryIngredient": "fine yellow cornmeal",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "cornmeal",
+    "descriptor": "Golden Velvety",
+    "dishForm": "Picarones"
+  }
+}
