@@ -10973,6 +10973,20 @@
     "shard": "g"
   },
   {
+    "slug": "gourmet-american-penne-pasta",
+    "title": "Gourmet American Penne Pasta",
+    "tags": [
+      "american-cuisine",
+      "one-pot",
+      "pasta-lover",
+      "vegetarian-delight",
+      "weeknight-meal"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 45,
+    "shard": "g"
+  },
+  {
     "slug": "gourmet-argentinian-beef-sushi",
     "title": "Gourmet Argentinian Beef Sushi",
     "tags": [

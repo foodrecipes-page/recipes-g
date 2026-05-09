@@ -1,0 +1,106 @@
+{
+  "title": "Gourmet American Penne Pasta",
+  "description": "A peppery and chewy American dish featuring penne pasta, this crowd-pleaser is made with a flambe technique and is ayurvedic-sattvic-friendly, cooked to perfection in a kadhai",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "ayurvedic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "penne pasta",
+      "amount": "8 oz",
+      "notes": "whole wheat"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "8 oz",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a kadhai over medium heat",
+    "Add the chopped onion and saute until translucent",
+    "Add the minced garlic and saute for another minute",
+    "Add the sliced mushrooms and bell pepper, and saute until the vegetables are tender",
+    "Add the tomato sauce, salt, and black pepper, and stir well",
+    "Add the penne pasta to the kadhai, and toss everything together",
+    "Flambe the mixture with a small amount of oil to give it a smoky flavor",
+    "Reduce heat to low and simmer for 5 minutes",
+    "Stir in the shredded grana padano cheese until melted and well combined",
+    "Serve hot and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-cuisine",
+    "one-pot",
+    "pasta-lover",
+    "vegetarian-delight",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "gourmet-american-penne-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gourmet-american-penne-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:14:25Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "chewy",
+    "mood": "crowd-pleaser",
+    "technique": "flambe",
+    "primaryIngredient": "penne pasta",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "penne pasta",
+    "descriptor": "Gourmet peppery",
+    "dishForm": "Pasta"
+  }
+}
