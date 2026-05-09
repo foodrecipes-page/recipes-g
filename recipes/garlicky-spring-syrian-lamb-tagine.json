@@ -1,0 +1,114 @@
+{
+  "title": "garlicky spring syrian lamb tagine",
+  "description": "a flavorful and aromatic lamb tagine infused with the warmth of madras paste and the sweetness of a glaze, perfect for a festive spring dinner",
+  "cuisine": "syrian",
+  "diet": [
+    "meat",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1",
+      "notes": "boneless, 1.5-2 pounds"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "madras paste",
+      "amount": "2 tablespoons",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup",
+      "notes": "for the glaze"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large Dutch oven over medium-high heat.",
+    "add the chopped onion and cook until translucent, about 5 minutes.",
+    "add the minced garlic and cook for another minute, until fragrant.",
+    "add the lamb shoulder and cook until browned on all sides, about 5-7 minutes.",
+    "add the madras paste and cook for 1-2 minutes, until fragrant.",
+    "add the chicken broth and bring the mixture to a boil.",
+    "reduce the heat to low and simmer, covered, until the lamb is tender, about 1 1/2 hours.",
+    "while the lamb is cooking, prepare the glaze by whisking together the honey and lemon juice in a small bowl.",
+    "after the lamb has cooked for 1 hour, brush the glaze over the top of the lamb and continue to cook for another 30 minutes.",
+    "remove the lamb from the heat and let it rest for 10-15 minutes before slicing and serving.",
+    "garnish with chopped parsley and mint, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "festive",
+    "glaze",
+    "lamb",
+    "madras-paste",
+    "one-pan",
+    "spring",
+    "syrian",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 33,
+    "fat": 36
+  },
+  "slug": "garlicky-spring-syrian-lamb-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-spring-syrian-lamb-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T10:36:22Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "springy",
+    "mood": "festive",
+    "technique": "glaze",
+    "primaryIngredient": "madras paste",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb",
+    "descriptor": "Garlicky Spring",
+    "dishForm": "Tagine"
+  }
+}
