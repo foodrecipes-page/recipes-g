@@ -1,0 +1,93 @@
+{
+  "title": "Greatly Flaky Brazilian Masarepa Flatbread",
+  "description": "This lacto-vegetarian friendly flatbread is a peppery and flaky Brazilian dish made with white masarepa and double rise bread, perfect for adventurous eaters.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "white masarepa",
+      "amount": "2 cups",
+      "notes": "precooked cornmeal"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the white masarepa, all purpose flour, yeast, salt, and sugar.",
+    "Gradually add the warm water to the bowl and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 375 degrees.",
+    "Punch down the dough and divide it into 4 equal pieces.",
+    "Roll out each piece into a thin circle.",
+    "Brush the tops with vegetable oil and sprinkle with black pepper.",
+    "Bake the flatbreads for 20 minutes or until they are golden brown and crispy.",
+    "Let the flatbreads cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-food",
+    "delicious",
+    "flatbread",
+    "homemade",
+    "lacto-vegetarian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "greatly-flaky-brazilian-masarepa-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/greatly-flaky-brazilian-masarepa-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:12:25Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "flaky",
+    "mood": "adventurous",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "white masarepa",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "masarepa",
+    "descriptor": "Greatly flaky",
+    "dishForm": "Flatbread"
+  }
+}
