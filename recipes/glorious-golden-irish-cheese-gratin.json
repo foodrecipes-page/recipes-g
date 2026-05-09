@@ -1,0 +1,98 @@
+{
+  "title": "Glorious Golden Irish Cheese Gratin",
+  "description": "A mustardy, glassy-jelly Irish dish featuring cheese slices, perfect for a date night, with a low-glycemic-friendly twist.",
+  "cuisine": "Irish",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish cheddar cheese",
+      "amount": "12 slices",
+      "notes": "low-glycemic"
+    },
+    {
+      "name": "Whole milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sodium alginate",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a medium saucepan, combine the milk, butter, and Dijon mustard, and heat over medium heat, stirring occasionally, until the butter has melted and the mixture is hot but not boiling.",
+    "In a small bowl, mix the sodium alginate with a little water to make a smooth paste, then add it to the milk mixture, and stir to combine.",
+    "Arrange 6 slices of the Irish cheddar cheese in the bottom of a 9x13 inch baking dish.",
+    "Pour the milk mixture over the cheese slices, and sprinkle with salt and pepper to taste.",
+    "Repeat the layers, starting with the remaining cheese slices, then the milk mixture, and finally a sprinkle of parsley.",
+    "Cover the dish with aluminum foil, and bake for 25 minutes.",
+    "Remove the foil, and continue baking for an additional 10 minutes, or until the top is golden brown and the gratin is heated through.",
+    "Remove the dish from the oven, and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "date-night",
+    "irish-cuisine",
+    "low-glycemic",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 10,
+    "fat": 22
+  },
+  "slug": "glorious-golden-irish-cheese-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/glorious-golden-irish-cheese-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:03:28Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "glassy-jelly",
+    "mood": "date-night",
+    "technique": "spherify",
+    "primaryIngredient": "cheese slices",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "cheese",
+    "descriptor": "Glorious Golden",
+    "dishForm": "Gratin"
+  }
+}
