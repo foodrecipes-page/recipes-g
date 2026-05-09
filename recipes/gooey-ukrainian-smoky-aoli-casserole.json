@@ -1,0 +1,98 @@
+{
+  "title": "Gooey Ukrainian Smoky Aioli Casserole",
+  "description": "A hearty, comforting Ukrainian dish featuring smoky aioli, a mother sauce base, and gluten-free friendly ingredients. Perfect for a cozy night in.",
+  "cuisine": "Ukrainian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked Paprika Aioli",
+      "amount": "1 cup",
+      "notes": "see below for aioli recipe"
+    },
+    {
+      "name": "Gluten-free Bread Crumbs",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Grilled Chicken Sausage",
+      "amount": "1 pound",
+      "notes": "such as Ukrainian-style kovbasa"
+    },
+    {
+      "name": "Chopped Fresh Dill",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Gluten-free Flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large mixing bowl, combine the gluten-free bread crumbs, smoked paprika aioli, and chopped fresh dill. Mix well until a crumbly mixture forms.",
+    "In a separate bowl, mix together the grilled chicken sausage, salt, pepper, and garlic powder.",
+    "In a greased 9x13-inch baking dish, arrange half of the bread crumb mixture in the bottom of the dish. Top with the chicken sausage mixture, followed by the remaining bread crumb mixture. Drizzle with melted butter.",
+    "Bake for 25 minutes, or until the top is golden brown and the casserole is hot and bubbly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "one-pan",
+    "smoky-aioli",
+    "ukrainian",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 48
+  },
+  "slug": "gooey-ukrainian-smoky-aoli-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-ukrainian-smoky-aoli-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:20:58Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "gooey",
+    "mood": "cozy",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "smoky a oli",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "smoky aoli",
+    "descriptor": "gooey",
+    "dishForm": "casserole"
+  }
+}

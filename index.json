@@ -2574,6 +2574,19 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-kenyan-dates-tagine",
+    "title": "Garlicky Kenyan Dates Tagine",
+    "tags": [
+      "date-night",
+      "gluten-free",
+      "kenyan",
+      "vegan"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-kenyan-mushrooms-biko",
     "title": "Garlicky Kenyan Mushrooms Biko",
     "tags": [
@@ -9940,6 +9953,21 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 60,
+    "shard": "g"
+  },
+  {
+    "slug": "gooey-ukrainian-smoky-aoli-casserole",
+    "title": "Gooey Ukrainian Smoky Aioli Casserole",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "one-pan",
+      "smoky-aioli",
+      "ukrainian",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {

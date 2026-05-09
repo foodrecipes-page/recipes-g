@@ -1,0 +1,106 @@
+{
+  "title": "Garlicky Kenyan Dates Tagine",
+  "description": "A creamy, garlicky twist on traditional Kenyan cuisine, featuring sweet medjool dates in a rich, aromatic sauce. This dish is perfect for a special date night.",
+  "cuisine": "Kenyan",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "medjool dates",
+      "amount": "12",
+      "notes": "pitted"
+    },
+    {
+      "name": "ghee",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "kitchen bouquet",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat ghee in a large saucepan over medium heat.",
+    "Add onion and cook until translucent.",
+    "Add garlic and ginger and cook for 1 minute.",
+    "Add cumin, coriander, and cayenne pepper and stir for 1 minute.",
+    "Add pitted medjool dates and cook until softened.",
+    "Pour in coconut milk and bring to a simmer.",
+    "Reduce heat to low and let simmer for 5 minutes.",
+    "Season with kitchen bouquet to taste.",
+    "Serve over rice or with naan.",
+    "Garnish with fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "gluten-free",
+    "kenyan",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 8,
+    "carbs": 90,
+    "fat": 24
+  },
+  "slug": "garlicky-kenyan-dates-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-kenyan-dates-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:20:43Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "creamy",
+    "mood": "date-night",
+    "technique": "bhuna",
+    "primaryIngredient": "medjool dates",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "dates",
+    "descriptor": "Garlicky",
+    "dishForm": "Tagine"
+  }
+}
