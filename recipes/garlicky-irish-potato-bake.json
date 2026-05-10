@@ -1,0 +1,94 @@
+{
+  "title": "Garlicky Irish Potato Bake",
+  "description": "A hearty, garlicky Irish dish featuring ginger cordial, perfect for a hangover cure, baked in a terracotta dish. This sugar-free-friendly recipe is a great option for a comforting meal.",
+  "cuisine": "Irish",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger cordial",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the sliced potatoes and minced garlic.",
+    "In a small bowl, whisk together the ginger cordial and olive oil.",
+    "Pour the ginger cordial mixture over the potatoes and garlic, tossing to coat.",
+    "Season with salt and black pepper to taste.",
+    "In a terracotta dish, create a layer of potatoes.",
+    "Sprinkle a third of the grated cheddar cheese over the potatoes.",
+    "Repeat the layers two more times, ending with a layer of cheese on top.",
+    "Sprinkle the chopped parsley over the top layer of cheese.",
+    "Bake for 45 minutes, or until the potatoes are tender and the top is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "garlic-lovers",
+    "irish-food",
+    "one-pan",
+    "potato-recipe"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "garlicky-irish-potato-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-irish-potato-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:56:59Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crunchy",
+    "mood": "hangover-cure",
+    "technique": "bake",
+    "primaryIngredient": "ginger cordial",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "potatoes",
+    "descriptor": "Garlicky Crunchy",
+    "dishForm": "Bake"
+  }
+}
