@@ -1,0 +1,119 @@
+{
+  "title": "Golden Crunchy Uruguayan Tomato Empanadas",
+  "description": "A classic Uruguayan savory snack featuring a crunchy, buttery pastry crust filled with a rich tomato puree.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "chilled and cut into small pieces"
+    },
+    {
+      "name": "warm water",
+      "amount": "3/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "tomato puree",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium, finely chopped",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "eggs",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "beaten egg",
+      "amount": "1 egg",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine flour, salt, and yeast in a large mixing bowl.",
+    "Gradually add the warm water, stirring with a fork until the dough comes together.",
+    "Turn the dough out onto a lightly floured surface and knead for 10 minutes.",
+    "Form the dough into a ball and place in a greased bowl, turning to coat.",
+    "Cover and let rise in a warm place for 1 hour, or until doubled in size.",
+    "On a lightly floured surface, roll out the dough to a thickness of 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of tomato puree in the center of each circle.",
+    "Sprinkle with onion, garlic, and grated cheese (if using).",
+    "Brush the edges of the dough with beaten egg and fold the dough in half to form a triangle.",
+    "Press the edges together with a fork to seal the empanada.",
+    "Heat oil in a large skillet over medium-high heat. Fry the empanadas until golden brown, 2-3 minutes per side."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "empanada",
+    "gluten-free",
+    "one-pan",
+    "savory",
+    "snack",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 24,
+    "fat": 12
+  },
+  "slug": "golden-crunchy-uruguayan-tomato-empanadas",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-crunchy-uruguayan-tomato-empanadas",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T02:44:21Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crunchy",
+    "mood": "show-off",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "tomato puree",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Tomato",
+    "descriptor": "Golden Crunchy",
+    "dishForm": "Empanadas"
+  }
+}
