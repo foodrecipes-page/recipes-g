@@ -1,0 +1,116 @@
+{
+  "title": "Ginger-Kissed Fermented Saudi-Arabian Fish Tagine",
+  "description": "A pescatarian-friendly, one-pot dish that combines the flavors of fermented buttermilk, ginger, and traditional Saudi-Arabian spices.",
+  "cuisine": "saudi-arabian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 pound fish (such as tilapia or cod)",
+      "amount": "",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "1 tablespoon grated fresh ginger",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup buttermilk",
+      "amount": "",
+      "notes": "Fermented for at least 24 hours"
+    },
+    {
+      "name": "2 tablespoons saffron threads",
+      "amount": "",
+      "notes": "Soaked in 2 tablespoons hot water"
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon smoked paprika",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt and black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons vegetable oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 onion, chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 dried dates, pitted and chopped",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large kadhai over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and ginger and cook for an additional 1 minute.",
+    "Add fish and cook until browned on all sides, about 5 minutes.",
+    "Add cumin, smoked paprika, salt, and black pepper, and stir to combine.",
+    "Add fermented buttermilk and stir to combine.",
+    "Add saffron and its soaking liquid, and stir to combine.",
+    "Bring mixture to a simmer and cook for 10-12 minutes, or until fish is cooked through.",
+    "Stir in chopped dates and cook for an additional 2 minutes.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented",
+    "high-protein",
+    "kitchen-kadhai",
+    "one-pot",
+    "pescatarian",
+    "saudi-arabian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "ginger-kissed-fermented-saudi-arabian-fish-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/ginger-kissed-fermented-saudi-arabian-fish-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T01:52:04Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "bouncy-qq",
+    "mood": "one-pot",
+    "technique": "ferment",
+    "primaryIngredient": "buttermilk",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "saudi-arabian",
+    "mainIngredient": "fish",
+    "descriptor": "Ginger-Kissed Fermented",
+    "dishForm": "Tagine"
+  }
+}
