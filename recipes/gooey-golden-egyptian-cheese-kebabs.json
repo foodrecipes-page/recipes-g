@@ -1,0 +1,94 @@
+{
+  "title": "Gooey Golden Egyptian Cheese Kebabs",
+  "description": "A sweet and cheesy Egyptian dish featuring Thai bird chili, perfect for kids and adults alike, this recipe is ayurvedic sattvic friendly and cooked on a cedar plank.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "halloumi cheese",
+      "amount": "1 block",
+      "notes": "sliced into 1 inch cubes"
+    },
+    {
+      "name": "Thai bird chili",
+      "amount": "2",
+      "notes": " seeded and finely chopped"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cedar plank",
+      "amount": "1",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "pineapple chunks",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together honey, kombu cold extract, and chopped Thai bird chili.",
+    "Add the sliced halloumi cheese to the bowl and toss to coat with the honey mixture.",
+    "Thread the cheese cubes onto skewers, leaving a small space between each cube.",
+    "Brush the cedar plank with coconut oil and place the skewers on the plank.",
+    "Grill the skewers for 5 minutes per side, or until the cheese is golden brown and melted.",
+    "Serve the kebabs hot with pineapple chunks on the side.",
+    "Garnish with fresh herbs and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ayurvedic",
+    "gluten-free",
+    "grilled",
+    "kid-friendly",
+    "sattvic",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "gooey-golden-egyptian-cheese-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-golden-egyptian-cheese-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:46:10Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "cheese-pull",
+    "mood": "kid-friendly",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "thai-bird-chili",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "cheese",
+    "descriptor": "Gooey Golden",
+    "dishForm": "Kebabs"
+  }
+}
