@@ -1,0 +1,103 @@
+{
+  "title": "Golden Crispy Turkish Lentil Bake",
+  "description": "A flexitarian-friendly Turkish dish featuring crispy naan bread and a flavorful lentil bake, perfect for a energizing meal. This recipe combines the comfort of a warm bake with the crunch of fermented crispy naan bread.",
+  "cuisine": "Turkish",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "naan bread",
+      "amount": "4 pieces",
+      "notes": "fermented for 24 hours"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the lentils, onion, carrot, tomato paste, olive oil, salt, black pepper, and paprika, and mix well.",
+    "Add the water to the bowl and stir until the lentils are fully submerged.",
+    "Transfer the lentil mixture to a 9x13 inch baking dish and bake for 30 minutes.",
+    "While the lentils are baking, cut the naan bread into small pieces and toss with a little olive oil.",
+    "After the lentils have baked for 30 minutes, remove them from the oven and top with the crispy naan bread pieces.",
+    "Return the dish to the oven and bake for an additional 15 minutes, or until the naan bread is golden brown and crispy.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy-top",
+    "high-fiber",
+    "lentil-based",
+    "one-pan",
+    "turkish-inspired",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "golden-crispy-turkish-lentil-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-crispy-turkish-lentil-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:08:55Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crispy",
+    "mood": "energizing",
+    "technique": "bake",
+    "primaryIngredient": "naan bread",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lentils",
+    "descriptor": "Golden Crispy",
+    "dishForm": "Mercimek Corbasi"
+  }
+}
