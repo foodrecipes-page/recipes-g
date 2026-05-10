@@ -1,0 +1,93 @@
+{
+  "title": "Golden Brown German Prune Skewers",
+  "description": "A rich and adventurous German dish featuring prunes, this recipe is low-fat-friendly and perfect for a snack or dessert. The air-fry method gives the prunes a crispy exterior while keeping the inside soft and aerated.",
+  "cuisine": "German",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "prunes",
+      "amount": "12",
+      "notes": "pitted"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "egg whites",
+      "amount": "2"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tablespoon",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 375 degrees Fahrenheit.",
+    "In a bowl, mix together the almond flour, egg whites, honey, lemon zest, cinnamon, and salt.",
+    "Add the prunes to the bowl and toss until they are evenly coated with the mixture.",
+    "Thread the prunes onto skewers, leaving a small space between each prune.",
+    "Brush the melted butter onto the prunes.",
+    "Cook the prune skewers in the air fryer for 5 minutes, shaking halfway through.",
+    "Increase the air fryer temperature to 400 degrees Fahrenheit and cook for an additional 2 minutes, or until golden brown.",
+    "Remove the skewers from the air fryer and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 7,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fryer",
+    "german-food",
+    "low-fat",
+    "prune-recipes",
+    "snack-ideas",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "golden-brown-german-prune-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-brown-german-prune-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:38:40Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "aerated",
+    "mood": "adventurous",
+    "technique": "air-fry",
+    "primaryIngredient": "prunes",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "prunes",
+    "descriptor": "Golden Brown",
+    "dishForm": "Skewers"
+  }
+}
