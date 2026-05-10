@@ -1,0 +1,92 @@
+{
+  "title": "Glossy Crisp Venezuelan Cherry Skillet",
+  "description": "A bitter and crisp Venezuelan dish featuring cherries with an al-dente finish, made in an iron teppan skillet.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "cherries",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the iron teppan skillet over medium heat.",
+    "In a bowl, whisk together almond flour, coconut sugar, and salt.",
+    "Add unsalted butter to the skillet and let it melt.",
+    "Add the whisked dry ingredients to the skillet and cook for 2 minutes.",
+    "In a separate bowl, whisk together large eggs and vanilla extract.",
+    "Add the egg mixture to the skillet and stir until combined.",
+    "Add pitted cherries and water to the skillet and cook for 5 minutes.",
+    "Reduce heat to low and simmer for 5 minutes or until the cherries are tender.",
+    "Remove the skillet from heat and let it cool for a few minutes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fruit-based",
+    "gluten-free",
+    "low-calorie",
+    "one-pan",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "glossy-crisp-venezuelan-cherry-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/glossy-crisp-venezuelan-cherry-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:50:44Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crisp",
+    "mood": "show-off",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "cherries",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "cherries",
+    "descriptor": "Glossy crisp",
+    "dishForm": "Skillet"
+  }
+}
