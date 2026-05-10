@@ -1,0 +1,100 @@
+{
+  "title": "Golden Brown Irish Minced Beef Hash",
+  "description": "A savory Irish dish featuring minced beef, perfect for a brunch mood, with a dairy-free friendly twist and a rich umami flavor.",
+  "cuisine": "Irish",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "minced beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1/4 cup",
+      "notes": "deglaze"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Boil the diced potatoes in salted water until they are slightly tender, then drain and set aside.",
+    "In a large skillet, heat the vegetable oil over medium-high heat and cook the minced beef until it is browned, breaking it up into small pieces as it cooks.",
+    "Add the diced onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Add the boiled potatoes, salt, black pepper, and paprika to the skillet and stir to combine.",
+    "Use the beef broth to deglaze the skillet, scraping up any browned bits from the bottom.",
+    "Transfer the mixture to a baking dish and bake in the preheated oven for 20 minutes, or until the top is golden brown.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "brunch-ideas",
+    "dairy-free",
+    "gluten-free",
+    "hash-recipes",
+    "irish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "golden-brown-irish-minced-beef-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-brown-irish-minced-beef-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:53:26Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "aerated",
+    "mood": "brunch-mood",
+    "technique": "deglaze",
+    "primaryIngredient": "minced beef",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "minced beef",
+    "descriptor": "Golden Brown",
+    "dishForm": "Hash"
+  }
+}
