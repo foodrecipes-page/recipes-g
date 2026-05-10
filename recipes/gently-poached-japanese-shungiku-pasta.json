@@ -1,0 +1,99 @@
+{
+  "title": "Gently Poached Japanese Shungiku Pasta",
+  "description": "A delicate and flavorful pescatarian-friendly dish featuring shungiku, perfect for a weeknight dinner, with a silky texture and herbal notes.",
+  "cuisine": "Japanese",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shungiku",
+      "amount": "1 bunch",
+      "notes": "also known as chrysanthemum greens"
+    },
+    {
+      "name": "spaghetti",
+      "amount": "12 oz"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch piece"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "poached shrimp",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the spaghetti according to package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat and saute the garlic and ginger until fragrant.",
+    "Add the shungiku to the skillet and cook until wilted, about 2 minutes.",
+    "In a small bowl, whisk together the soy sauce and sesame oil, and pour the mixture over the shungiku.",
+    "Season with salt and black pepper to taste.",
+    "Poach the shrimp in simmering water until pink and cooked through, about 2 minutes.",
+    "Drain the spaghetti and add it to the skillet with the shungiku mixture, tossing to combine.",
+    "To serve, place the spaghetti on a plate and top with poached shrimp.",
+    "Garnish with additional shungiku if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "herbal-notes",
+    "japanese-cuisine",
+    "one-pot",
+    "pescatarian-friendly",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 32,
+    "carbs": 45,
+    "fat": 18
+  },
+  "slug": "gently-poached-japanese-shungiku-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gently-poached-japanese-shungiku-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:48:44Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "silky",
+    "mood": "weeknight",
+    "technique": "poach",
+    "primaryIngredient": "shungiku",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "shungiku",
+    "descriptor": "Gently Poached",
+    "dishForm": "Pasta"
+  }
+}
