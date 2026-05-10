@@ -1,0 +1,97 @@
+{
+  "title": "garlicky silky energizing brazilian clotted cream bake",
+  "description": "a rich, creamy, and savory dessert featuring clotted cream, wood-fired-baked in ramekins and infused with the flavors of garlic and cumin.",
+  "cuisine": "brazilian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "clotted cream",
+      "amount": "1 1/2 cups",
+      "notes": "chilled"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "large eggs",
+      "amount": "4",
+      "notes": "room temperature"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 425f (220c).",
+    "mix the clotted cream, garlic, cumin, cayenne pepper, and sea salt in a medium bowl.",
+    "add the eggs, sugar, and flour to the bowl and stir until well combined.",
+    "pour the mixture into 4 ramekins and place on a baking sheet.",
+    "bake for 12-15 minutes or until the edges are set and the centers are still slightly jiggly.",
+    "remove from the oven and let cool for 5 minutes.",
+    "run a knife around the edges of each ramekin to loosen the clotted cream from the sides.",
+    "invert onto plates and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "creamy",
+    "dessert",
+    "one-pan",
+    "rich",
+    "savory",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "garlicky-silky-energizing-brazilian-clotted-cream-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-silky-energizing-brazilian-clotted-cream-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T01:20:06Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "silky",
+    "mood": "energizing",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "clotted cream",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "clotted cream",
+    "descriptor": "Garlicky, Silky, Energizing",
+    "dishForm": "Bake"
+  }
+}

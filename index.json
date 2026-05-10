@@ -3356,6 +3356,22 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-silky-energizing-brazilian-clotted-cream-bake",
+    "title": "garlicky silky energizing brazilian clotted cream bake",
+    "tags": [
+      "brazilian",
+      "creamy",
+      "dessert",
+      "one-pan",
+      "rich",
+      "savory",
+      "weeknight"
+    ],
+    "cuisine": "brazilian",
+    "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-silky-moroccan-chicken-tagine",
     "title": "Garlicky Silky Moroccan Chicken Tagine",
     "tags": [],
@@ -4861,6 +4877,21 @@
     ],
     "cuisine": "Italian",
     "totalTimeMin": 40,
+    "shard": "g"
+  },
+  {
+    "slug": "gently-broiled-british-shrimp-skewers",
+    "title": "Gently Broiled British Shrimp Skewers",
+    "tags": [
+      "british-cuisine",
+      "easy-dinner",
+      "gluten-free",
+      "pescatarian",
+      "seafood",
+      "shrimp-recipes"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 23,
     "shard": "g"
   },
   {
