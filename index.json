@@ -4361,6 +4361,20 @@
     "shard": "g"
   },
   {
+    "slug": "gentle-croatian-oxtail-stew",
+    "title": "Gentle Croatian Oxtail Stew",
+    "tags": [
+      "comfort-food",
+      "hearty-stew",
+      "one-pot",
+      "shojin-friendly",
+      "winter-dish"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 180,
+    "shard": "g"
+  },
+  {
     "slug": "gentle-dense-slovakian-pork-stew",
     "title": "Gentle Dense Slovakian Pork Stew",
     "tags": [

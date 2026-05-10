@@ -1,0 +1,104 @@
+{
+  "title": "Gentle Croatian Oxtail Stew",
+  "description": "This hearty stew features tender oxtail and earthy vegetables in a rich broth, perfect for a cold winter's night. The dish is shojin-friendly and can be served with a side of crusty bread or over mashed potatoes.",
+  "cuisine": "Croatian",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oxtail",
+      "amount": "2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the oxtail and cook until browned on all sides, about 5 minutes.",
+    "Remove the oxtail from the pot and set it aside.",
+    "Add the onion to the pot and cook until it is softened, about 5 minutes.",
+    "Add the carrots and potatoes to the pot and cook for an additional 5 minutes.",
+    "Add the mushrooms to the pot and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the vegetable broth, tomato paste, thyme, salt, and pepper to the pot and stir to combine.",
+    "Return the oxtail to the pot and bring the stew to a boil.",
+    "Reduce the heat to low and simmer, covered, until the oxtail is tender, about 2 1/2 hours.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty-stew",
+    "one-pot",
+    "shojin-friendly",
+    "winter-dish"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "gentle-croatian-oxtail-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gentle-croatian-oxtail-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:25:53Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "bouncy-qq",
+    "mood": "energizing",
+    "technique": "blanch",
+    "primaryIngredient": "oxtail",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "oxtail",
+    "descriptor": "Gentle Bouncy",
+    "dishForm": "Stew"
+  }
+}
