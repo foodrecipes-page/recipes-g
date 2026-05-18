@@ -1,0 +1,113 @@
+{
+  "title": "Garlicky Indulgent Saudi-Arabian Lamb Agemono",
+  "description": "A crispy and aromatic deep-fried lamb dish from Saudi Arabia, infused with the warmth of hojicha and the depth of garlic.",
+  "cuisine": "Saudi-Arabian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 kg",
+      "notes": "Boneless"
+    },
+    {
+      "name": "Hojicha powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "6 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Beaten eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Panko breadcrumbs",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together lamb, hojicha powder, garlic, onion, ginger, lemon juice, olive oil, salt, and black pepper.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat the oil in a deep frying pan or a deep fryer to 180°C.",
+    "In a separate bowl, mix together flour, eggs, and a pinch of salt.",
+    "Add the lamb mixture to the flour mixture and mix well.",
+    "Using your hands, shape the mixture into small patties.",
+    "Dip each patty in the beaten eggs and then coat in Panko breadcrumbs.",
+    "Carefully place the coated patties in the hot oil and deep-fry for 4-5 minutes on each side, or until golden brown and crispy.",
+    "Remove the agemono from the oil with a slotted spoon and place on a paper towel-lined plate to drain excess oil.",
+    "Serve hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 42,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fried",
+    "high-protein",
+    "hojicha",
+    "lamb",
+    "one-pan",
+    "saudi-arabian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "garlicky-indulgent-saudi-arabian-lamb-agemono",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-indulgent-saudi-arabian-lamb-agemono",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:27:14Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "bouncy-qq",
+    "mood": "indulgent",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "hojicha",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "saudi-arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "garlicky indulgent",
+    "dishForm": "agemono"
+  }
+}
