@@ -1,0 +1,121 @@
+{
+  "title": "grassy green german curds gratin",
+  "description": "a light and airy german dish featuring cheese curds, perfect for a buddhist-inspired meal prep",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "gruyère cheese curds",
+      "amount": "225g"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 bunches",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 bunch",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "green onions",
+      "amount": "1 bunch",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "beaten, for egg wash"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "50g",
+      "notes": "melted, for egg wash"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "25g"
+    },
+    {
+      "name": "chopped fresh chives",
+      "amount": "10g",
+      "notes": "for garnish"
+    },
+    {
+      "name": "grain mustard",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 375f (190c).",
+    "in a medium saucepan, bring a quart of water to a boil.",
+    "add the gruyère cheese curds to the boiling water and cook for 3-5 minutes, or until they float to the surface.",
+    "using a slotted spoon, transfer the curds to a colander and rinse with cold water to stop the cooking process.",
+    "in a large mixing bowl, combine the chopped parsley, dill, and green onions.",
+    "add the cooked cheese curds to the bowl and stir until they are evenly coated with the herb mixture.",
+    "in a separate bowl, mix together the beaten eggs and melted butter.",
+    "add the flour to the egg mixture and stir until smooth.",
+    "in a greased 9x13 inch baking dish, arrange a layer of the curd and herb mixture.",
+    "brush the top of the layer with the egg wash and sprinkle with salt and black pepper.",
+    "repeat the layering process until all of the ingredients have been used, finishing with a layer of egg wash on top.",
+    "sprinkle the top of the gratin with chopped fresh chives and a pinch of salt.",
+    "cover the dish with aluminum foil and bake for 25 minutes.",
+    "remove the foil and continue baking for an additional 10-15 minutes, or until the top is golden brown and the eggs are set."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "gratin",
+    "high-protein",
+    "lacto-vegetarian",
+    "meal-prep",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "grassy-green-german-curds-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/grassy-green-german-curds-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T12:58:04Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "aerated",
+    "mood": "meal-prep",
+    "technique": "boil",
+    "primaryIngredient": "cheese curds",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "curds",
+    "descriptor": "grassy green",
+    "dishForm": "Gratin"
+  }
+}
