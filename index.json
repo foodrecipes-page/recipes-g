@@ -2582,6 +2582,21 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-irish-samphire-gratin",
+    "title": "Garlicky Irish Samphire Gratin",
+    "tags": [
+      "comfort-food",
+      "gratin",
+      "irish-cuisine",
+      "main-course",
+      "samphire",
+      "vegetarian"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 40,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-italian-mincemeat-soup",
     "title": "Garlicky Italian Mincemeat Soup",
     "tags": [

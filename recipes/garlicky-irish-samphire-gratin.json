@@ -1,0 +1,113 @@
+{
+  "title": "Garlicky Irish Samphire Gratin",
+  "description": "A festive and flavorful Irish dish featuring samphire, perfect for special occasions. The creamy sauce is emulsified with mantecare, making it a delight to the senses.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 bunch of samphire",
+      "amount": "12 oz",
+      "notes": " Fresh or frozen, preferably from Ireland"
+    },
+    {
+      "name": "2 tablespoons of unsalted butter",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "1 medium onion",
+      "amount": "1 med",
+      "notes": null
+    },
+    {
+      "name": "3 cloves of garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "1 cup of heavy cream",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "1/2 cup of grated Parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "2 tablespoons of all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "1 teaspoon of dried thyme",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Rinse the samphire and pat it dry with a paper towel.",
+    "In a large saucepan, melt the butter over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for another minute.",
+    "Add the flour and cook for 1 minute, stirring constantly.",
+    "Slowly pour in the heavy cream, whisking continuously to prevent lumps.",
+    "Bring the mixture to a simmer and cook for 2-3 minutes, until it thickens.",
+    "Stir in the Parmesan cheese and thyme.",
+    "Season with salt and black pepper to taste.",
+    "In a greased 9x13 inch baking dish, create a layer of samphire.",
+    "Pour the creamy sauce over the samphire and top with more samphire.",
+    "Bake for 20-25 minutes, until the top is golden brown and the sauce is bubbly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gratin",
+    "irish-cuisine",
+    "main-course",
+    "samphire",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 22,
+    "carbs": 40,
+    "fat": 35
+  },
+  "slug": "garlicky-irish-samphire-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-irish-samphire-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:49:42Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "chewy",
+    "mood": "festive",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "samphire",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "samphire",
+    "descriptor": "garlicky",
+    "dishForm": "Gratin"
+  }
+}
