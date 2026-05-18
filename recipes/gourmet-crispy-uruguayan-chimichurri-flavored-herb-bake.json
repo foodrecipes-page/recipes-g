@@ -1,0 +1,108 @@
+{
+  "title": "Gourmet Crispy Uruguayan Chimichurri-Flavored Herb Bake",
+  "description": "A crispy, flavorful Uruguayan dish baked to perfection with fast-acting yeast and a hint of chimichurri. Perfect for low-calorie meal prep!",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups"
+    },
+    {
+      "name": "fast-acting yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chimichurri sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "fresh oregano",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C) with a baking stone or baking sheet inside.",
+    "In a large mixing bowl, combine the flour, yeast, and salt.",
+    "Add the olive oil, chimichurri sauce, parsley, oregano, garlic powder, and black pepper to the bowl.",
+    "Gradually add the water to the bowl and mix until a shaggy dough forms.",
+    "Knead the dough on a floured surface for 5 minutes, until it becomes smooth and elastic.",
+    "Place the dough on the preheated baking stone or baking sheet and shape into a 12-inch round loaf.",
+    "Dust the loaf with chopped cilantro and cover with a clean towel.",
+    "Bake the loaf for 20-22 minutes, or until it is golden brown and crispy on the outside.",
+    "Remove the loaf from the oven and let it cool on a wire rack for 5 minutes.",
+    "Transfer the loaf to a serving plate and brush with additional chimichurri sauce, if desired.",
+    "Slice the loaf and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 22,
+  "totalTimeMin": 37,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "gourmet",
+    "herb-bake",
+    "low-calorie",
+    "meal-prep",
+    "one-pan",
+    "vegetarian",
+    "weeknight",
+    "wood-fired-bake"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 3
+  },
+  "slug": "gourmet-crispy-uruguayan-chimichurri-flavored-herb-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/gourmet-crispy-uruguayan-chimichurri-flavored-herb-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:48:57Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crispy",
+    "mood": "meal-prep",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "fast action yeast",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "chimichurri-flavored herb",
+    "descriptor": "Gourmet Crispy",
+    "dishForm": "Bake"
+  }
+}
