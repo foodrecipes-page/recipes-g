@@ -1,0 +1,97 @@
+{
+  "title": "Gooey, Pillowy American Pork Dumplings",
+  "description": "Fork-tender pork and fluffy dumpling wrappers filled with a rich, green olive-infused pork and vegetable mixture, served in a savory wok.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Pork",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Dumpling Wrappers",
+      "amount": "12-15 wrappers"
+    },
+    {
+      "name": "Green Olives",
+      "amount": "1/2 cup pitted and chopped"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup finely chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1/2 cup finely chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 tablespoons grated"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup finely chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the dumpling wrappers according to package instructions.",
+    "In a large wok or skillet, heat 2 tablespoons of oil over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3 minutes.",
+    "Add the chopped carrots and cook until tender, about 5 minutes.",
+    "Add the grated ginger, soy sauce, salt, and black pepper to the wok and stir to combine.",
+    "Add the cooked dumpling wrappers to the wok and stir to combine with the pork mixture.",
+    "Add the chopped green olives and scallions to the wok and stir to combine.",
+    "Cook for an additional 2-3 minutes, until the dumplings are heated through.",
+    "Serve the dumplings hot, garnished with additional scallions and green olives if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "dumplings",
+    "high-protein",
+    "pork",
+    "weeknight",
+    "wok"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 42,
+    "carbs": 34,
+    "fat": 36
+  },
+  "slug": "gooey-pillowy-american-pork-dumplings",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-pillowy-american-pork-dumplings",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T12:31:26Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "pillowy",
+    "mood": "indulgent",
+    "technique": "dum",
+    "primaryIngredient": "green olives",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Pork",
+    "descriptor": "Gooey, pillowy",
+    "dishForm": "Dumplings"
+  }
+}
