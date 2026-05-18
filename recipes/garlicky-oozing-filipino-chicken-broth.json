@@ -1,0 +1,100 @@
+{
+  "title": "Garlicky Oozing Filipino Chicken Broth",
+  "description": "A rich, garlicky broth made with Filipino-style bouillon cubes, perfect for a romantic dinner.",
+  "cuisine": "Filipino",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "3 pounds",
+      "notes": "Boned and cut into large pieces"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": "For the broth"
+    },
+    {
+      "name": "Filipino bouillon cubes",
+      "amount": "4 cubes",
+      "notes": "Available at Asian markets"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "Mince for best flavor"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "patis (fish sauce)",
+      "amount": "2 tablespoons",
+      "notes": "Optional, for added umami flavor"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "chopped green onions",
+      "amount": "",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "In a large stockpot, combine chicken, water, bouillon cubes, garlic, and black pepper.",
+    "Bring to a boil over high heat, then reduce the heat to medium-low and simmer for 20 minutes.",
+    "Skim off any impurities that rise to the surface, then stir in patis (if using) and lemon juice.",
+    "Continue to simmer for another 10-15 minutes, or until the broth has reduced slightly and the flavors have melded together.",
+    "Strain the broth through a fine-mesh sieve into a clean pot, discarding the solids.",
+    "Return the broth to a simmer and cook for an additional 5-10 minutes, or until heated through.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with chopped green onions and a sprinkle of black pepper.",
+    "Optional: Serve with steamed rice or noodles for a filling meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 55,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "filipino",
+    "gluten-free",
+    "one-pan",
+    "romantic",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "slug": "garlicky-oozing-filipino-chicken-broth",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-oozing-filipino-chicken-broth",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T10:19:37Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "aerated",
+    "mood": "romantic",
+    "technique": "bain-marie",
+    "primaryIngredient": "bouillon cubes",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Chicken",
+    "descriptor": "Garlicky Oozing",
+    "dishForm": "Broth"
+  }
+}
