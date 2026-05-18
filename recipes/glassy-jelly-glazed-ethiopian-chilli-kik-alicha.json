@@ -1,0 +1,108 @@
+{
+  "title": "Glassy-Jelly Glazed Ethiopian Chilli Kik Alicha",
+  "description": "Buttery and sweet Ethiopian-inspired chilli dish featuring a glassy-jelly glaze, perfect for a romantic dinner.",
+  "cuisine": "ethiopian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken thighs",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "taro root",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "red chilli powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ghee or vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dates",
+      "amount": "4-6",
+      "notes": "pitted"
+    },
+    {
+      "name": "white balsamic vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your ttukbaegi earthenware cookware or a small Dutch oven over medium heat.",
+    "Add the ghee or oil and swirl it around to coat the bottom.",
+    "Add the chopped onion and cook for 5 minutes until it starts to soften.",
+    "Add the chicken and cook until browned on all sides, about 5-7 minutes.",
+    "Add the chopped taro root, red chilli powder, salt, and black pepper. Cook for 2-3 minutes.",
+    "Add the pitted dates, white balsamic vinegar, and honey. Cook for an additional 2-3 minutes.",
+    "Reduce heat to low and simmer, covered, for 20-25 minutes or until the chicken is cooked through.",
+    "Stir in 1-2 tablespoons of honey to balance the flavors.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the kik alicha to a ceramic tagine or a small serving dish.",
+    "Drizzle the glassy-jelly glaze (made by cooking the remaining honey and white balsamic vinegar over low heat until thickened) over the top.",
+    "Serve immediately, garnished with chopped fresh cilantro or parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "high-protein",
+    "low-glycemic",
+    "one-pan",
+    "romantic-dinner",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "glassy-jelly-glazed-ethiopian-chilli-kik-alicha",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/glassy-jelly-glazed-ethiopian-chilli-kik-alicha",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T17:49:01Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "glassy-jelly",
+    "mood": "date-night",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "red chilli powder",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "chilli",
+    "descriptor": "Glassy-Jelly Glazed",
+    "dishForm": "Kik Alicha"
+  }
+}
