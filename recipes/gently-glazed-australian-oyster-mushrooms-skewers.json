@@ -1,0 +1,104 @@
+{
+  "title": "Gently Glazed Australian oyster mushroom Skewers",
+  "description": "A romantic and tangy Australian dish featuring oyster mushrooms, perfect for a romantic dinner with high protein content.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian oyster mushrooms",
+      "amount": "1 pound"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Cut the oyster mushrooms into 1-inch pieces and place them in a bowl.",
+    "In a small bowl, whisk together soy sauce, honey, rice vinegar, grated ginger, and olive oil to make the glaze.",
+    "Add the minced garlic, chopped green onions, sesame seeds, salt, and black pepper to the bowl with the mushrooms and toss to combine.",
+    "Thread the mushroom mixture onto skewers, leaving a small space between each piece.",
+    "Preheat the air fryer to 375°F (190°C).",
+    "Cook the skewers in the air fryer for 10-12 minutes, or until the mushrooms are tender and lightly caramelized.",
+    "Brush the glaze over the mushrooms during the last 2 minutes of cooking.",
+    "Serve immediately, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fryer",
+    "high-protein",
+    "one-pan",
+    "romantic",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "gently-glazed-australian-oyster-mushrooms-skewers",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/gently-glazed-australian-oyster-mushrooms-skewers",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:55:47Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "snappy",
+    "mood": "romantic",
+    "technique": "air-fry",
+    "primaryIngredient": "oyster mushrooms",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "oyster mushrooms",
+    "descriptor": "Gently Glazed",
+    "dishForm": "Skewers"
+  }
+}
