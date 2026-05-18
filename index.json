@@ -6748,6 +6748,20 @@
     "shard": "g"
   },
   {
+    "slug": "glazed-silky-rich-american-poultry-bake",
+    "title": "Glazed Silky Rich American Poultry Bake",
+    "tags": [
+      "easy-to-make",
+      "gluten-free",
+      "high-protein",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 45,
+    "shard": "g"
+  },
+  {
     "slug": "glazed-silky-venezuelan-aubergine-frittata",
     "title": "Glazed Silky Venezuelan Aubergine Frittata",
     "tags": [
@@ -8923,6 +8937,21 @@
     ],
     "cuisine": "portuguese",
     "totalTimeMin": 75,
+    "shard": "g"
+  },
+  {
+    "slug": "golden-glistening-norwegian-sesame-porridge",
+    "title": "Golden Glistening Norwegian Sesame Porridge",
+    "tags": [
+      "buddhist-temple-friendly",
+      "festive",
+      "norwegian",
+      "one-pan",
+      "weeknight",
+      "winter"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {

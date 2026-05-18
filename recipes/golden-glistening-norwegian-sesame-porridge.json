@@ -1,0 +1,89 @@
+{
+  "title": "Golden Glistening Norwegian Sesame Porridge",
+  "description": "Buttery, fluffy, festive Norwegian dish featuring sesame seeds and confit tomato. A Buddhist temple-friendly breakfast option.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "white rice",
+      "amount": "1 cup",
+      "notes": "short-grain Japanese rice"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "confit tomato",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "dashi powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Rinse the short-grain Japanese rice thoroughly and drain well.",
+    "In a medium saucepan, combine the water and dashi powder. Bring to a boil over high heat, then reduce the heat to low and simmer for 5 minutes.",
+    "In a separate saucepan, melt the unsalted butter over medium heat.",
+    "Add the sesame seeds to the melted butter and cook, stirring frequently, until lightly toasted and fragrant.",
+    "In a 5-quart donabe pot, combine the cooked rice, confit tomato, and toasted sesame seeds.",
+    "Pour the simmering dashi broth over the rice mixture and cook, stirring occasionally, until the liquid has been absorbed and the rice is tender.",
+    "Season the porridge with a pinch of salt to taste.",
+    "Serve the Golden Glistening Norwegian Sesame Porridge hot, garnished with additional toasted sesame seeds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-temple-friendly",
+    "festive",
+    "norwegian",
+    "one-pan",
+    "weeknight",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "golden-glistening-norwegian-sesame-porridge",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-glistening-norwegian-sesame-porridge",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:11:21Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "fluffy",
+    "mood": "festive",
+    "technique": "confit-tomato",
+    "primaryIngredient": "sesame seed",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Sesame",
+    "descriptor": "Golden Glistening",
+    "dishForm": "Porridge"
+  }
+}
