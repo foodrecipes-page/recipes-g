@@ -1,0 +1,105 @@
+{
+  "title": "grassy chewy thai basil tagine",
+  "description": "a monsoon-inspired thai dish featuring asian-chive-buchu and aromatic spices.",
+  "cuisine": "thai",
+  "diet": [
+    "vegan",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "asian-chive-buchu",
+      "amount": "2 tablespoons",
+      "notes": "chopped leaves"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce-free alternative",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fresh Thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "heat oil in a large pan over medium heat. add onion and cook until translucent.",
+    "add garlic and ginger and cook for 1 minute, stirring constantly.",
+    "add curry paste and cook for 1 minute, stirring constantly.",
+    "add coconut milk, sugar, and fish sauce-free alternative. stir well to combine.",
+    "bring the mixture to a simmer and cook for 10 minutes, stirring occasionally.",
+    "add asian-chive-buchu and Thai basil. stir well to combine.",
+    "reduce heat to low and cook for an additional 2 minutes.",
+    "taste and adjust seasoning as needed.",
+    "serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-to-make",
+    "gluten-free",
+    "one-pan",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "grassy-chewy-thai-basil-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/grassy-chewy-thai-basil-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T10:15:54Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "chewy",
+    "mood": "monsoon",
+    "technique": "reduce",
+    "primaryIngredient": "asian-chive-buchu",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Basil",
+    "descriptor": "Grassy Chewy",
+    "dishForm": "Tagine"
+  }
+}
