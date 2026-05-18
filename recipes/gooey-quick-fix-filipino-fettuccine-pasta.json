@@ -1,0 +1,100 @@
+{
+  "title": "Gooey Quick Fix Filipino Fettuccine Pasta",
+  "description": "A tangy and fluffy Filipino-inspired fettuccine pasta dish made with a namul-blanch-season sauce, perfect for a quick dinner fix.",
+  "cuisine": "Filipino",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fettuccine pasta",
+      "amount": "8 oz",
+      "notes": "preferably gluten-free"
+    },
+    {
+      "name": "Canned sardines in water",
+      "amount": "8 oz",
+      "notes": "drained and flaked"
+    },
+    {
+      "name": "Palm vinegar",
+      "amount": "2 tbsp",
+      "notes": "or substitute apple cider vinegar"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Kalamansi or lime wedges",
+      "amount": "2"
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Cook fettuccine pasta according to package instructions until al dente, then set aside.",
+    "In a blender, combine palm vinegar, soy sauce, olive oil, garlic, ginger, and black pepper. Blend until smooth.",
+    "Add the blended mixture to a large mason jar and stir in the sardines.",
+    "Add the cooked fettuccine pasta to the mason jar and toss until well combined.",
+    "Season with salt to taste, then garnish with chopped scallions and kalamansi or lime wedges.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "high-protein",
+    "one-pan",
+    "quick-fix",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 56,
+    "fat": 22
+  },
+  "slug": "gooey-quick-fix-filipino-fettuccine-pasta",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-quick-fix-filipino-fettuccine-pasta",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T14:55:48Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "fluffy",
+    "mood": "quick-fix",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "fettuccine",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "fettuccine",
+    "descriptor": "Gooey Quick Fix",
+    "dishForm": "Pasta"
+  }
+}
