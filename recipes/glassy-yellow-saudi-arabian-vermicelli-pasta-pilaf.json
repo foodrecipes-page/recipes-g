@@ -1,0 +1,111 @@
+{
+  "title": "glassy-yellow saudi-arabian vermicelli pasta pilaf",
+  "description": "a lacto-vegetarian-friendly savory dish perfect for post-workout recovery",
+  "cuisine": "saudi-arabian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vermicelli pasta",
+      "amount": "200g"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "glaze (see below)",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "heat oil in a large saucepan over medium heat",
+    "add onion and cook until translucent, about 5 minutes",
+    "add ginger and garlic and cook for another minute",
+    "add cumin powder, coriander powder, salt, and black pepper. stir for 30 seconds",
+    "add tomato paste and cook for 1 minute, stirring constantly",
+    "add vermicelli pasta and cook for 2-3 minutes, stirring constantly",
+    "reduce heat to low and simmer for 5 minutes, or until the pasta is al dente",
+    "prepare the glaze by mixing together 2 tablespoons of water and 2 tablespoons of vegetable oil in a small bowl",
+    "add the glaze to the saucepan and stir-fry for 1 minute, or until the pasta is well coated",
+    "transfer the pilaf to a serving dish and garnish with chopped parsley",
+    "serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lacto-vegetarian",
+    "one-pan",
+    "post-workout",
+    "saudi-arabian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 14,
+    "carbs": 64,
+    "fat": 24
+  },
+  "slug": "glassy-yellow-saudi-arabian-vermicelli-pasta-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/glassy-yellow-saudi-arabian-vermicelli-pasta-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:28:49Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "glassy-jelly",
+    "mood": "post-workout",
+    "technique": "glaze",
+    "primaryIngredient": "vermicelli pasta",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "vermicelli pasta",
+    "descriptor": "Glassy-Yellow",
+    "dishForm": "Pilaf"
+  }
+}
