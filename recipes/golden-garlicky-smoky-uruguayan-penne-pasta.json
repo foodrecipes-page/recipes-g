@@ -1,0 +1,107 @@
+{
+  "title": "Golden-garlicky smoky Uruguayan penne pasta",
+  "description": "A pescatarian-friendly Uruguayan dish featuring penne pasta, with a smoky, garlicky flavor and mustardy kick.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "penne pasta",
+      "amount": "8 oz (225g)"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp (30ml)"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp (5g)"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp (5g)"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 tbsp (15g)"
+    },
+    {
+      "name": "anchovy paste",
+      "amount": "1 tbsp (15g)"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tbsp (10g)"
+    },
+    {
+      "name": "crushed red pepper flakes",
+      "amount": "1/4 tsp (1g)"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "shrimp",
+      "amount": "12 large (120g)"
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "amount": "2 cups (200g)"
+    }
+  ],
+  "instructions": [
+    "Cook the penne pasta according to package instructions until al dente. Reserve 1 cup pasta water before draining.",
+    "In a large skillet, heat the olive oil over medium heat. Add the smoked paprika and garlic powder, and cook for 1-2 minutes, stirring constantly.",
+    "Add the Dijon mustard and anchovy paste to the skillet, and cook for an additional 1-2 minutes, stirring constantly.",
+    "Add the chopped parsley and crushed red pepper flakes to the skillet, and cook for 1 minute, stirring constantly.",
+    "Add the reserved pasta water to the skillet, and stir to combine.",
+    "Add the cooked penne pasta to the skillet, and toss with the sauce until well combined.",
+    "Season with salt and black pepper to taste.",
+    "Add the shrimp to the skillet, and cook until pink and fully cooked.",
+    "Transfer the pasta to a serving platter or individual plates. Top with grated Parmesan cheese, and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "seafood",
+    "smoky",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 38,
+    "carbs": 70,
+    "fat": 20
+  },
+  "slug": "golden-garlicky-smoky-uruguayan-penne-pasta",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-garlicky-smoky-uruguayan-penne-pasta",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:51:31Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crumbly",
+    "mood": "festive",
+    "technique": "smoke-hot",
+    "primaryIngredient": "penne pasta",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "penne",
+    "descriptor": "Golden-garlicky smoky",
+    "dishForm": "Pasta"
+  }
+}
