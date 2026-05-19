@@ -1,0 +1,107 @@
+{
+  "title": "Garlicky Molten Vietnamese Pork Bao",
+  "description": "Crowd-pleasing Vietnamese dish featuring garlicky, molten pork with crunchy bread crumbs wrapped in a lotus leaf.",
+  "cuisine": "vietnamese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground pork",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Bread crumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lotus leaves",
+      "amount": "4-6 leaves"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine ground pork, bread crumbs, garlic, soy sauce, fish sauce, brown sugar, ginger, and black pepper.",
+    "Mix well with your hands until just combined, being careful not to overmix.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Preheat a steamer or a pot with a steamer basket over high heat.",
+    "Add 2 tablespoons of water to the steamer or pot and cover with a lid.",
+    "Place the lotus leaves in the steamer and top each leaf with a portion of the pork mixture.",
+    "Steam the pork for 10-12 minutes or until cooked through.",
+    "Meanwhile, heat 1 tablespoon of vegetable oil in a small saucepan over medium heat.",
+    "Add the scallions and cook, stirring constantly, until softened and slightly caramelized.",
+    "To serve, place each bao on a plate and top with a spoonful of the scallion mixture.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 42,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "garlic-lovers",
+    "high-protein",
+    "one-pan",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "garlicky-molten-vietnamese-pork-bao",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-molten-vietnamese-pork-bao",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T09:51:40Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "molten",
+    "mood": "crowd-pleaser",
+    "technique": "rest",
+    "primaryIngredient": "breadcrumbs",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork",
+    "descriptor": "Garlicky, Molten",
+    "dishForm": "Bao"
+  }
+}
