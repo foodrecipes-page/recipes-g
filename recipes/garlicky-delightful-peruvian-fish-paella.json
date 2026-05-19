@@ -1,0 +1,107 @@
+{
+  "title": "Garlicky Delightful Peruvian Fish Paella",
+  "description": "A flavorful Peruvian-inspired fish paella with a garlicky twist, crunchy dried mint, and a sticky lacquer glaze.",
+  "cuisine": "peruvian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sea bass fillets",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried mint",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1 cup",
+      "notes": "see recipe below"
+    },
+    {
+      "name": "paella rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "warmed"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "queso fresco crumbles",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil over medium heat in a large paella pan.",
+    "Add the minced garlic and cook until fragrant, about 1 minute.",
+    "Add the chopped dried mint and cook for 1 minute more.",
+    "Add the sea bass pieces to the pan and cook until browned on all sides, about 3-4 minutes.",
+    "Add the paella rice to the pan and stir to coat the rice in the oil and mix with the fish and garlic.",
+    "Add the warmed chicken broth to the pan, 1 cup at a time, stirring constantly and allowing each cup to be absorbed before adding the next.",
+    "Once the rice is cooked and the liquid has been absorbed, add the red pepper flakes and stir to combine.",
+    "Transfer the paella pan to the oven and bake for 5 minutes to crisp the rice.",
+    "Remove the paella from the oven and top with the lacquer glaze and queso fresco crumbles.",
+    "Return the paella to the oven and bake for an additional 2-3 minutes, or until the cheese is melted and bubbly.",
+    "Remove the paella from the oven and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "fish",
+    "garlicky",
+    "high-protein",
+    "one-pan",
+    "paella",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 60,
+    "carbs": 50,
+    "fat": 30
+  },
+  "slug": "garlicky-delightful-peruvian-fish-paella",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-delightful-peruvian-fish-paella",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T13:29:54Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "cheese-pull",
+    "mood": "monsoon",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "dried mint",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Fish",
+    "descriptor": "Garlicky Delightful",
+    "dishForm": "Paella"
+  }
+}
