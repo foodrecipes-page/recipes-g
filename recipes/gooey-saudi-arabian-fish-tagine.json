@@ -1,0 +1,116 @@
+{
+  "title": "Gooey Saudi-Arabian Fish Tagine",
+  "description": "A rich, pescatarian-friendly fish tagine from Saudi Arabia, featuring sweet red peppers and a hint of shio-koji cure.",
+  "cuisine": "Saudi-Arabian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 large red bell pepper",
+      "amount": "sliced",
+      "notes": "2 inches long, 1 inch wide"
+    },
+    {
+      "name": "1 large onion",
+      "amount": "chopped",
+      "notes": "1 1/2 cups"
+    },
+    {
+      "name": "1 large piece of salmon fillet",
+      "amount": "6 oz",
+      "notes": "skin removed, cut into 1-inch pieces"
+    },
+    {
+      "name": "1/4 cup panko breadcrumbs",
+      "amount": "unseasoned",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "2 tbsp shio-koji cure",
+      "amount": "",
+      "notes": "see note"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "",
+      "notes": "divided"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "minced",
+      "notes": "1 tsp"
+    },
+    {
+      "name": "2 tsp ground cumin",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp ground coriander",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 tsp cayenne pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup chopped fresh parsley",
+      "amount": "",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Season the salmon fillet with salt and pepper.",
+    "Heat 1 tablespoon of olive oil in a large Dutch oven over medium-high heat.",
+    "Add the salmon fillet and cook for 2-3 minutes on each side, until browned.",
+    "Transfer the salmon to a plate and set aside.",
+    "Add the remaining 1 tablespoon of olive oil to the pot.",
+    "Add the sliced red bell peppers and cook for 3-4 minutes, until tender.",
+    "Add the chopped onion and cook for 3-4 minutes, until translucent.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the cumin, coriander, and cayenne pepper, and cook for 1 minute.",
+    "Return the salmon fillet to the pot and stir in the panko breadcrumbs.",
+    "Transfer the pot to the preheated oven and cook for 8-10 minutes, until the fish is cooked through and the sauce is bubbly.",
+    "Stir in the chopped parsley and season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pan",
+    "pescatarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "gooey-saudi-arabian-fish-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-saudi-arabian-fish-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T05:56:05Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "gooey",
+    "mood": "weeknight",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "sweet red peppers",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "fish",
+    "descriptor": "Gooey",
+    "dishForm": "Tagine"
+  }
+}
