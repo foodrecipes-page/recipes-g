@@ -1,0 +1,97 @@
+{
+  "title": "garlicky tender turkish potatoes pilaf",
+  "description": "a romantic turkish dish featuring potato starch, steam, and plant-based-friendly ingredients",
+  "cuisine": "turkish",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potato starch",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves, minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large saucepan over medium heat.",
+    "add the chopped onion and cook until translucent, about 5 minutes.",
+    "add the minced garlic and cook for 1 minute.",
+    "add the chopped parsley and dill and cook for 1 minute.",
+    "add the potato starch and cook for 2 minutes, stirring constantly.",
+    "add 2 cups of water and bring to a boil.",
+    "reduce the heat to low, cover, and steam for 10 minutes.",
+    "fluff the pilaf with a fork and season with salt and black pepper.",
+    "serve hot, garnished with additional parsley and dill if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pan",
+    "turkish",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "garlicky-tender-turkish-potatoes-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-tender-turkish-potatoes-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T04:11:33Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "tender",
+    "mood": "romantic",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "potato starch",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "potatoes",
+    "descriptor": "garlicky tender",
+    "dishForm": "Pilaf"
+  }
+}
