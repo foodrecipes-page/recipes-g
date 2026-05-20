@@ -1,0 +1,133 @@
+{
+  "title": "Garlicky Tender Ukrainian Sweetcorn Stew",
+  "description": "A hearty, diabetic-friendly stew originating from Ukraine, featuring tender sweetcorn and a rich garlicky flavor, served in a claypot.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweetcorn",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "potato",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "parsley",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "dill",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "for garnish",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a claypot over medium heat.",
+    "Add diced onion and cook until softened, about 5 minutes.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add diced carrot and potato, cook for 5 minutes, or until they start to soften.",
+    "Add chicken broth, bay leaves, black pepper, and salt. Bring to a boil, then reduce heat to low and simmer for 20 minutes.",
+    "Add sweetcorn to the claypot, cover, and simmer for another 10-15 minutes, or until the sweetcorn is tender.",
+    "Stir in lemon juice and parsley. Season with salt and black pepper to taste.",
+    "Garnish with chopped fresh dill and serve hot with a dollop of sour cream.",
+    "Serve the stew in a claypot or individual bowls."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "garlicky",
+    "one-pan",
+    "stew",
+    "sweetcorn",
+    "ukrainian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "garlicky-tender-ukrainian-sweetcorn-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-tender-ukrainian-sweetcorn-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:34:45Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "tender",
+    "mood": "adventurous",
+    "technique": "simmer",
+    "primaryIngredient": "sweetcorn",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Sweetcorn",
+    "descriptor": "Garlicky tender",
+    "dishForm": "Stew"
+  }
+}
