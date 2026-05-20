@@ -1938,6 +1938,21 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-dense-irish-noodles-bowl",
+    "title": "Garlicky Dense Irish Noodles Bowl",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-dense-malaysian-shiitake-mushrooms-stir-fry",
     "title": "Garlicky Dense Malaysian Shiitake Mushrooms Stir-fry",
     "tags": [
@@ -3627,6 +3642,19 @@
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-quick-dutch-soybean-sprout-kongnamul-fold",
+    "title": "Garlicky Quick Dutch Soybean-Sprout-Kongnamul Fold",
+    "tags": [
+      "high-protein",
+      "mediterranean-friendly",
+      "one-pan",
+      "quick-fix"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 10,
     "shard": "g"
   },
   {

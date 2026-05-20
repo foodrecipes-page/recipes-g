@@ -1,0 +1,99 @@
+{
+  "title": "Garlicky Dense Irish Noodles Bowl",
+  "description": "A vegan Irish-inspired dish featuring vermicelli rice noodles, garlic, and a variety of spices, perfect for a quick and energizing meal. This recipe is suitable for a Buddhist temple food service.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vermicelli Rice Noodles",
+      "amount": "1 cup",
+      "notes": "preferably organic and vegan-certified"
+    },
+    {
+      "name": "Garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tablespoons",
+      "notes": "vegan and gluten-free"
+    },
+    {
+      "name": "Tahini",
+      "amount": "1 tablespoon",
+      "notes": "creamy and rich"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Chickpea broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1/2 teaspoon",
+      "notes": "preferably Himalayan pink salt"
+    }
+  ],
+  "instructions": [
+    "Combine the chickpea broth, miso paste, tahini, lemon juice, and sea salt in a blender or food processor and blend until smooth.",
+    "Add the minced garlic and blend until well combined.",
+    "Cook the vermicelli rice noodles according to package instructions and set aside.",
+    "In a Bain-Marie, heat the blended broth mixture over low heat and simmer for 5-7 minutes.",
+    "Add the cooked noodles to the broth mixture and stir to combine.",
+    "Garnish with chopped fresh parsley and serve hot.",
+    "Garnish with additional parsley and lemon wedges if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 80,
+    "fat": 14
+  },
+  "slug": "garlicky-dense-irish-noodles-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-dense-irish-noodles-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:41:29Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "dense",
+    "mood": "energizing",
+    "technique": "bain-marie",
+    "primaryIngredient": "vermicelli rice noodles",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "noodles",
+    "descriptor": "garlicky dense",
+    "dishForm": "Bowl"
+  }
+}

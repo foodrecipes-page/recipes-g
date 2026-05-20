@@ -1,0 +1,84 @@
+{
+  "title": "Garlicky Quick Dutch Soybean-Sprout-Kongnamul Fold",
+  "description": "A fast and flavorful Dutch-inspired dish featuring soybean sprouts, kongnamul, and a garlicky twist. Perfect for a quick Mediterranean-friendly meal.",
+  "cuisine": "Dutch",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Soybean sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Kongnamul",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Grated Parmesan cheese",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a large skillet over medium-high heat.",
+    "Add the garlic and saut\u0014 until fragrant, about 1 minute.",
+    "Add the soybean sprouts and kongnamul, and cook until tender, about 3-4 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the mixture to a serving dish and top with Parmesan cheese.",
+    "Garnish with chopped parsley and fold the mixture onto a plate."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "mediterranean-friendly",
+    "one-pan",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 7
+  },
+  "slug": "garlicky-quick-dutch-soybean-sprout-kongnamul-fold",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-quick-dutch-soybean-sprout-kongnamul-fold",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:41:37Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "springy",
+    "mood": "quick-fix",
+    "technique": "fold",
+    "primaryIngredient": "soybean-sprout-kongnamul",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "soybean-sprout-kongnamul",
+    "descriptor": "garlicky quick",
+    "dishForm": "Fold"
+  }
+}
