@@ -1,0 +1,96 @@
+{
+  "title": "grassy portuguese bake",
+  "description": "a comforting, vegan-friendly dish perfect for post-workout meals, featuring the earthy flavors of mustard seeds and lardons-render.",
+  "cuisine": "portuguese",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "barley",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "lardons-render",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "chopped garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chopped kale",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat oven to 375\u000040f",
+    "combine barley, mustard seeds, and dried thyme in a bowl",
+    "in a pan, heat olive oil over medium heat, then add chopped onion and garlic, cooking until softened",
+    "add lardons-render to the pan, stirring to combine",
+    "transfer the barley mixture to a baking dish, top with the pan mixture, and cover with chopped kale",
+    "bake for 20 minutes, or until the kale is tender and the flavors have melded together"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pan",
+    "post-workout",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 70,
+    "fat": 10
+  },
+  "slug": "grassy-vegan-friendly-portuguese-dish-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/grassy-vegan-friendly-portuguese-dish-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:05:13Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "molten",
+    "mood": "post-workout",
+    "technique": "lardons-render",
+    "primaryIngredient": "mustard seeds",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "portuguese",
+    "mainIngredient": "dish",
+    "descriptor": "grassy vegan-friendly",
+    "dishForm": "bake"
+  }
+}

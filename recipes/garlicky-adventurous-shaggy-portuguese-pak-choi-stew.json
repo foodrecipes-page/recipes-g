@@ -1,0 +1,101 @@
+{
+  "title": "garlicky, shaggy, adventurous portuguese pak choi stew",
+  "description": "this hearty stew combines the bold flavors of portugal with the delicate taste of pak choi. a true adventure for the senses.",
+  "cuisine": "portuguese",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pak choi",
+      "amount": "2 bunches",
+      "notes": "chopped into 1-inch pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "portuguese sausage",
+      "amount": "1 pound",
+      "notes": "casings removed, sliced"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for saut\u00011ng"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "heat olive oil in a large comal over medium-high heat.",
+    "add the chopped onion and saut\u00011 until translucent, about 5 minutes.",
+    "add the sliced sausage and cook until browned, about 5 minutes.",
+    "add the minced garlic and cook for 1 minute, until fragrant.",
+    "add the chopped bell pepper and cook until tender, about 5 minutes.",
+    "add the chopped pak choi and cook until wilted, about 3 minutes.",
+    "add the beef and chicken broth, and bring to a boil.",
+    "reduce the heat to low, cover, and simmer for 20 minutes.",
+    "season with salt and pepper to taste.",
+    "serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "one-pan",
+    "portuguese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 32,
+    "carbs": 24,
+    "fat": 22
+  },
+  "slug": "garlicky-adventurous-shaggy-portuguese-pak-choi-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-adventurous-shaggy-portuguese-pak-choi-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:05:15Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "shaggy",
+    "mood": "adventurous",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "pak choi",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "portuguese",
+    "mainIngredient": "pak choi",
+    "descriptor": "garlicky, adventurous, shaggy",
+    "dishForm": "stew"
+  }
+}

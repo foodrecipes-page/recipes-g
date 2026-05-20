@@ -597,6 +597,19 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-adventurous-shaggy-portuguese-pak-choi-stew",
+    "title": "garlicky, shaggy, adventurous portuguese pak choi stew",
+    "tags": [
+      "adventurous",
+      "one-pan",
+      "portuguese",
+      "weeknight"
+    ],
+    "cuisine": "portuguese",
+    "totalTimeMin": 45,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-aerated-canadian-halibut-poke",
     "title": "Garlicky Aerated Canadian Halibut Poke",
     "tags": [
@@ -4117,6 +4130,20 @@
       "spicy"
     ],
     "cuisine": "Ethiopian",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-velvety-french-sea-bass-pilaf",
+    "title": "Garlicky Velvety French Sea Bass Pilaf",
+    "tags": [
+      "french",
+      "one-pan",
+      "sea-bass",
+      "velvety-sauce",
+      "weeknight"
+    ],
+    "cuisine": "French",
     "totalTimeMin": 35,
     "shard": "g"
   },
@@ -12777,6 +12804,20 @@
     ],
     "cuisine": "ukrainian",
     "totalTimeMin": 45,
+    "shard": "g"
+  },
+  {
+    "slug": "grassy-vegan-friendly-portuguese-dish-bake",
+    "title": "grassy portuguese bake",
+    "tags": [
+      "gluten-free",
+      "one-pan",
+      "post-workout",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "portuguese",
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
