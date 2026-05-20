@@ -12092,6 +12092,20 @@
     "shard": "g"
   },
   {
+    "slug": "gooey-malaysian-soya-milk-char-kway-teow",
+    "title": "Gooey Malaysian Soya Milk Char Kway Teow",
+    "tags": [
+      "char-kway-teow",
+      "lacto-vegetarian",
+      "malaysian",
+      "soya-milk",
+      "weeknight"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "gooey-middle-eastern-asparagus-pilaf",
     "title": "Gooey Earthy Asparagus Pilaf",
     "tags": [

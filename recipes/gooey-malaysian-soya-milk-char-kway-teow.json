@@ -1,0 +1,115 @@
+{
+  "title": "Gooey Malaysian Soya Milk Char Kway Teow",
+  "description": "A savory, gooey, and nostalgic Malaysian dish featuring soya milk, shio-cure, and lacto-vegetarian-friendly ingredients.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "lacto-vegetarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Char Kway Teow Noodles",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Soya Milk",
+      "amount": "250ml",
+      "notes": "use a mixture of soya milk and water for a creamy sauce"
+    },
+    {
+      "name": "Shio-Cured Tofu",
+      "amount": "120g",
+      "notes": "cured in a mixture of sugar, salt, and rice vinegar"
+    },
+    {
+      "name": "Ground Turmeric",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ground Cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ground White Pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Shallots",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Scallions",
+      "amount": "2",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1 tsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the chopped shallots and cook until fragrant, about 2 minutes.",
+    "Add the chopped garlic and cook for another minute, until fragrant.",
+    "Add the ground turmeric, cinnamon, and white pepper, and cook for 1 minute, stirring constantly.",
+    "Add the shredded tofu and cook until heated through.",
+    "Add the noodles and cook until heated through.",
+    "Pour in the soya milk mixture and stir everything together.",
+    "Bring the mixture to a simmer and cook until the sauce has thickened slightly, about 2-3 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the char kway teow to a serving platter and garnish with chopped scallions and cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "char-kway-teow",
+    "lacto-vegetarian",
+    "malaysian",
+    "soya-milk",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "gooey-malaysian-soya-milk-char-kway-teow",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-malaysian-soya-milk-char-kway-teow",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:04:46Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "gooey",
+    "mood": "nostalgic",
+    "technique": "shio-cure",
+    "primaryIngredient": "soya milk",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "soya milk",
+    "descriptor": "gooey",
+    "dishForm": "Char Kway Teow"
+  }
+}
