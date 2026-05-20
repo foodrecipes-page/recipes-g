@@ -1,0 +1,99 @@
+{
+  "title": "garlicky velvety croatian mascarpone bake",
+  "description": "A light and creamy dessert featuring the flavors of Croatia.",
+  "cuisine": "croatian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "mascarpone cheese",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "150g",
+      "notes": "make sure to use real sugar for the best flavor"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "plain flour",
+      "amount": "50g",
+      "notes": "use all-purpose flour for a tender crumb"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "50g",
+      "notes": "softened, not melted"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "a pinch, but necessary for flavor"
+    },
+    {
+      "name": "garlic clove",
+      "amount": "1",
+      "notes": "minced, for an intense flavor"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp",
+      "notes": "from 1 medium lemon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C. ",
+    "In a large mixing bowl, combine the mascarpone cheese and granulated sugar. ",
+    "Beat the eggs in a separate bowl, then add them to the mascarpone mixture. ",
+    "Sift the flour over the mixture and gently fold until just combined. ",
+    "Add the softened butter and mix until a smooth batter forms. ",
+    "Stir in the minced garlic and a pinch of salt. ",
+    "Pour the batter into a greased 8-inch round baking pan. ",
+    "Bake for 35 minutes or until the edges are lightly golden brown. ",
+    "Remove from the oven and sprinkle with lemon zest. ",
+    "Allow the bake to cool in the pan for 5 minutes before transferring it to a wire rack."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 35,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "croatian",
+    "dessert",
+    "easy-to-make",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 32
+  },
+  "slug": "garlicky-velvety-croatian-mascarpone-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-velvety-croatian-mascarpone-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:02:12Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "velvety",
+    "mood": "light",
+    "technique": "temper",
+    "primaryIngredient": "mascarpone",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "mascarpone",
+    "descriptor": "garlicky velvety",
+    "dishForm": "Bake"
+  }
+}
