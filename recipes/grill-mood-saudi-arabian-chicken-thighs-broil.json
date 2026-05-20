@@ -1,0 +1,138 @@
+{
+  "title": "Grill-Mood Saudi-Arabian Chicken Thighs Broil",
+  "description": "A cultured, glassy-jelly, brunch-mood dish featuring chicken thighs, broil, and a taste of Saudi Arabia. This keto-friendly dish is perfect for a weekend brunch or a special occasion.",
+  "cuisine": "Saudi-Arabian",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken thighs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped almonds",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Middle Eastern spice blend",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh mint",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Pita bread",
+      "amount": "",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to high heat.",
+    "Rinse the chicken thighs and pat them dry with paper towels.",
+    "Mix together the olive oil, lemon juice, ghee, garlic powder, salt, black pepper, cumin, coriander, cayenne pepper, and Middle Eastern spice blend in a bowl.",
+    "Add the chicken thighs to the bowl and toss to coat with the marinade.",
+    "Thread the chicken thighs onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a broiler pan and broil for 10-12 minutes, or until cooked through.",
+    "Serve the chicken hot, garnished with parsley, almonds, and a sprinkle of sumac.",
+    "Garnish with lemon wedges and serve with pita bread, if desired.",
+    "Let the chicken rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "broiler",
+    "brunch",
+    "chicken",
+    "keto",
+    "saudi-arabian",
+    "special-occasion",
+    "weekend"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 36,
+    "carbs": 5,
+    "fat": 18
+  },
+  "slug": "grill-mood-saudi-arabian-chicken-thighs-broil",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/grill-mood-saudi-arabian-chicken-thighs-broil",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:29:33Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "glassy-jelly",
+    "mood": "brunch-mood",
+    "technique": "broil",
+    "primaryIngredient": "chicken thighs",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "saudi-arabian",
+    "mainIngredient": "chicken thighs",
+    "descriptor": "grill-mood",
+    "dishForm": "broil"
+  }
+}
