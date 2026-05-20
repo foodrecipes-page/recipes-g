@@ -1,0 +1,113 @@
+{
+  "title": "Garlicky, Dense Basque Rice Paella",
+  "description": "A hearty, flavorful Spanish dish from the Basque region, featuring savory garlic and a rich bain-marie of seasoned rice vinegar. This paella is perfect for adventurous eaters and flexitarian-friendly meals.",
+  "cuisine": "spanish",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "arborio rice",
+      "amount": "1 cup",
+      "notes": "short-grain rice"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 can (14 oz)",
+      "notes": "crushed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra-virgin"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": "seasoned"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "kosher"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a paella pan or large skillet over medium-high heat.",
+    "Add the minced garlic and cook for 1-2 minutes, until fragrant.",
+    "Add the arborio rice and cook for 1-2 minutes, until lightly toasted.",
+    "Add the smoked paprika, crushed tomato, chicken broth, lemon juice, rice vinegar, salt, and black pepper. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20-25 minutes, or until the liquid has been absorbed and the rice is cooked.",
+    "If using, sprinkle the chopped fresh parsley on top of the paella and serve hot.",
+    "Cook the paella for an additional 10-15 minutes, until the top layer is crispy and golden brown.",
+    "Remove the paella from the heat and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "adventurous",
+    "basque",
+    "one-pan",
+    "spanish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 12,
+    "carbs": 80,
+    "fat": 18
+  },
+  "slug": "garlicky-dense-basque-rice-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-dense-basque-rice-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:51:26Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "dense",
+    "mood": "adventurous",
+    "technique": "bain-marie",
+    "primaryIngredient": "seasoned rice vinegar",
+    "diet": "flexitarian",
+    "region": "basque",
+    "cuisineAdjective": "Basque",
+    "mainIngredient": "Rice",
+    "descriptor": "Garlicky, dense",
+    "dishForm": "Paella"
+  }
+}
