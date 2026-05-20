@@ -1,0 +1,108 @@
+{
+  "title": "Gooey Tunisian Cherry Tagine",
+  "description": "A rich and flavorful lacto-vegetarian-friendly tagine recipe featuring cherries, inspired by the bold flavors of Tunisian cuisine.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cherry jam",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Dried cherries",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "Almonds",
+      "amount": "1/2 cup sliced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "Tunisian spices (ras el hanout)",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of olive oil in a large saucepan over medium heat.",
+    "Add the sliced onion and cook for 5 minutes until softened.",
+    "Add the minced garlic and grated ginger and cook for 2 minutes more.",
+    "Add the sliced almonds and cook for 2-3 minutes until lightly toasted.",
+    "Add the dried cherries and cook for 2-3 minutes until rehydrated.",
+    "Add the cherry jam, Tunisian spices, and salt. Stir to combine.",
+    "Reduce heat to low and simmer for 10-15 minutes, stirring occasionally.",
+    "Stir in the chopped cilantro and lemon juice.",
+    "Transfer the mixture to a serving dish and garnish with additional cilantro if desired.",
+    "Serve over couscous or with pita bread and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "cherry-based",
+    "dinner",
+    "lacto-vegetarian",
+    "one-pan",
+    "rich-and-flavorful",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 22
+  },
+  "slug": "gooey-tunisian-cherry-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-tunisian-cherry-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T13:42:40Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "molten",
+    "mood": "show-off",
+    "technique": "stir-fry",
+    "primaryIngredient": "cherry",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Cherry",
+    "descriptor": "Gooey",
+    "dishForm": "Tagine"
+  }
+}
