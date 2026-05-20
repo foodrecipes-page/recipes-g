@@ -1,0 +1,106 @@
+{
+  "title": "Glassy-Jelly Uruguayan Oats Bake",
+  "description": "Sweet and festive, this glassy-jelly Uruguayan oats bake features katsuramuki-cut oats and is ayurvedic-tamasic-friendly. Perfect for a special occasions or holiday gatherings.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "molasses",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "katsuramuki-cut carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ayurvedic-friendly spices",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "jelly",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Combine oats, sugar, molasses, water, lemon juice, and salt in a mixing bowl.",
+    "Mix well until sugar is dissolved.",
+    "Add katsuramuki-cut carrots and ayurvedic-friendly spices to the mixture.",
+    "Mix well to combine.",
+    "Grease a 9x13-inch baking dish with coconut oil.",
+    "Pour the mixture into the prepared baking dish.",
+    "Bake in a preheated oven at 375°F for 25 minutes.",
+    "Remove from oven and let cool for 5 minutes.",
+    "Drizzle jelly over the top of the oats bake.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-fiber",
+    "holiday",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "glassy-jelly-uruguayan-oats-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/glassy-jelly-uruguayan-oats-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:41:23Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "glassy-jelly",
+    "mood": "festive",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "oats",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "oats",
+    "descriptor": "glassy-jelly",
+    "dishForm": "Bake"
+  }
+}
