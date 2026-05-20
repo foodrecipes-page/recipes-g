@@ -1,0 +1,97 @@
+{
+  "title": "Garlicky Canadian Stilton Cheese Bake",
+  "description": "A simple, flavorful dish featuring Canadian Stilton cheese baked in a glassy-jelly glaze, suitable for a solo dinner. ",
+  "cuisine": "canadian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Canadian Stilton cheese",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "1 head of Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup honey",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup brown sugar",
+      "amount": "1/2 cup",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "1/4 cup all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup butter",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    }
+  ],
+  "instructions": [
+    "Preheat the iron teppan to 400°F (200°C).",
+    "Mix the Canadian Stilton cheese with 2 tablespoons of softened butter, until well combined.",
+    "Grate the 3 cloves of garlic and add to the cheese mixture.",
+    "In a separate bowl, mix the honey, brown sugar, flour, salt, and black pepper.",
+    "Pour the honey mixture over the cheese mixture and mix until smooth.",
+    "Transfer the cheese mixture to a greased iron teppan and smooth out the top.",
+    "Bake for 12 minutes or until the glaze is golden brown.",
+    "Let it rest for 2 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "bake",
+    "canadian",
+    "cheese",
+    "garlic",
+    "glaze",
+    "iron-teppan",
+    "stilton"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 24,
+    "carbs": 32,
+    "fat": 36
+  },
+  "slug": "garlicky-canadian-stilton-cheese-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-canadian-stilton-cheese-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:56:24Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "glassy-jelly",
+    "mood": "solo-dinner",
+    "technique": "bake",
+    "primaryIngredient": "stilton cheese",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "stilton cheese",
+    "descriptor": "garlicky",
+    "dishForm": "bake"
+  }
+}
