@@ -3586,6 +3586,22 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-quenched-chinese-spinach-tagine",
+    "title": "Garlicky Quenched Chinese Spinach Tagine",
+    "tags": [
+      "easy-to-make",
+      "fodmap-friendly",
+      "gourmet",
+      "high-protein",
+      "indulgent",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 45,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-quick-canadian-lamb-stew",
     "title": "garlicky quick canadian lamb stew",
     "tags": [
@@ -10586,6 +10602,20 @@
     ],
     "cuisine": "Algerian",
     "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
+    "slug": "gooey-algerian-rest-meat-tagine",
+    "title": "Gooey Algerian Rest-meat Tagine",
+    "tags": [
+      "algerian",
+      "high-protein",
+      "one-pan",
+      "post-workout",
+      "weeknight"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 60,
     "shard": "g"
   },
   {
