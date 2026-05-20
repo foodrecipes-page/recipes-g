@@ -1,0 +1,122 @@
+{
+  "title": "Garlicky Kissed Brazilian Salmon Bowl",
+  "description": "A nourishing and flavorful Brazilian dish featuring tender salmon, garlic, and herbs, served in a cozy lacquerware bowl. This gluten-free-friendly recipe is perfect for a hearty dinner or special occasion.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salmon Fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Brazilian Cheese (optional)",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the salmon fillets with salt, black pepper, and paprika.",
+    "In a small bowl, mix together lime juice, olive oil, garlic, and rice vinegar.",
+    "Place the salmon fillets in a baking dish and pour the lime juice mixture over them.",
+    "Cover the dish with aluminum foil and bake for 12 minutes.",
+    "Remove the foil and continue baking for an additional 8-10 minutes, or until the salmon is cooked through.",
+    "Meanwhile, heat a small skillet over medium heat and sauté the grated ginger for 1-2 minutes, or until fragrant.",
+    "Add the chopped cilantro and parsley to the skillet and cook for an additional 1-2 minutes, or until wilted.",
+    "To serve, place a salmon fillet on each plate and top with the sautéed herbs and ginger.",
+    "Garnish with additional cilantro and parsley, if desired.",
+    "If using, sprinkle with Brazilian cheese and serve immediately.",
+    "Serve hot in a cozy lacquerware bowl.",
+    "Garnish with lime wedges, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "gluten-free",
+    "high-protein",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 36,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "garlicky-kissed-brazilian-salmon-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-kissed-brazilian-salmon-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:03:46Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "tender",
+    "mood": "cozy",
+    "technique": "en-croute",
+    "primaryIngredient": "salmon",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "salmon",
+    "descriptor": "Garlicky Kissed",
+    "dishForm": "Bowl"
+  }
+}
