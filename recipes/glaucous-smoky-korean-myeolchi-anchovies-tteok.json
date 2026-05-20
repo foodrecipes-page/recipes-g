@@ -1,0 +1,57 @@
+{
+  "title": "Glaucous Smoky Korean Myeolchi-Anchovies Tteok",
+  "description": "A delicious and invigorating Korean dish featuring smoky myeolchi-anchovies, perfect for a Buddhist temple-friendly breakfast or snack. This fluffy and mustardy tteok is a delightful treat for the senses.",
+  "cuisine": "Korean",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Dried myeolchi-anchovies",
+      "amount": "1 cup",
+      "notes": "soaked and drained"
+    }
+  ],
+  "instructions": [
+    "Combine soaked myeolchi-anchovies, glutinous rice flour, dried ginseng, and sesame oil in a mixing bowl.",
+    "Gradually add water to form a dough, kneading for 10 minutes until smooth.",
+    "Divide the dough into small portions and shape into tteok forms.",
+    "Heat a smoking gun or a grill to high heat and add Korean chili flakes and mustard seeds for a smoky flavor."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "gluten-free",
+    "high-protein",
+    "korean",
+    "smoky",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "glaucous-smoky-korean-myeolchi-anchovies-tteok",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/glaucous-smoky-korean-myeolchi-anchovies-tteok",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:08:27Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "fluffy",
+    "mood": "energizing",
+    "technique": "smoke",
+    "primaryIngredient": "myeolchi-anchovies",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "myeolchi-anchovies",
+    "descriptor": "Glaucous Smoky",
+    "dishForm": "Tteok"
+  }
+}
