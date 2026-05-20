@@ -1,0 +1,115 @@
+{
+  "title": "Garlicky Silky Korean Shrimp Tteokbokki",
+  "description": "A comforting Korean dish featuring shrimp, a sweet and spicy sauce, and chewy rice cakes. Serve as a comforting meal on a sick day.",
+  "cuisine": "Korean",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "",
+      "quantityType": "count",
+      "unit": "piece"
+    },
+    {
+      "name": "Rice cakes (tteok)",
+      "amount": "1 package",
+      "notes": "",
+      "quantityType": "count",
+      "unit": "package"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili paste (gochugaru)",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine gochujang, soy sauce, chili flakes, brown sugar, and garlic in a blender or food processor and blend until smooth.",
+    "Heat sesame oil in a large saucepan over medium heat.",
+    "Add blended sauce to the saucepan and cook for 2 minutes, stirring constantly.",
+    "Add shrimp to the saucepan and cook until pink and cooked through, about 2-3 minutes.",
+    "Add rice cakes to the saucepan and cook for an additional 2-3 minutes, stirring constantly.",
+    "Season with salt to taste.",
+    "Garnish with green onions and sesame seeds, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "korean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 15
+  },
+  "slug": "garlicky-silky-korean-shrimp-tteokbokki",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-silky-korean-shrimp-tteokbokki",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:01:00Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "silky",
+    "mood": "sick-day",
+    "technique": "fry",
+    "primaryIngredient": "shrimp",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "shrimp",
+    "descriptor": "Garlicky Silky",
+    "dishForm": "Tteokbokki"
+  }
+}
