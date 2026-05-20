@@ -1,0 +1,144 @@
+{
+  "title": "Garlicky Creamy Vietnamese Napa Cabbage Cha Gio",
+  "description": "A creamy, savory, and nostalgic Vietnamese dish featuring napa cabbage, served with crispy toast and a side of fresh herbs.",
+  "cuisine": "vietnamese",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Napa cabbage",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Mushroom",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Pork sausage",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Toasted breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crispy toast",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Sliced chilies",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Shred the napa cabbage and soak it in cold water for 30 minutes to remove excess moisture.",
+    "Drain the cabbage and squeeze it dry with paper towels.",
+    "Heat 1 tablespoon of vegetable oil in a pan over medium heat and saut\u00105 the onion until softened, about 3-4 minutes.",
+    "Add the mushroom and cook until tender, about 4-5 minutes.",
+    "Add the pork sausage and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the fish sauce, soy sauce, sugar, salt, and pepper, and stir to combine.",
+    "Add the shredded cabbage and stir-fry until wilted, about 2-3 minutes.",
+    "Beat the egg in a small bowl and add it to the cabbage mixture, stirring to combine.",
+    "Transfer the mixture to a plate and let it cool to room temperature.",
+    "Once cooled, shape the mixture into small cylinders and coat with toasted breadcrumbs.",
+    "Heat the remaining 1 tablespoon of vegetable oil in a pan over medium-high heat and fry the cha gio until crispy and golden brown, about 3-4 minutes per side.",
+    "Serve the cha gio with crispy toast, sliced chilies, and fresh cilantro on the side.",
+    "Garnish with additional cilantro if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cha-gio",
+    "comfort-food",
+    "garlic-lover",
+    "noodle-dish",
+    "one-pan",
+    "south-east-asian",
+    "vietnamese",
+    "vietnamese-fusion",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 34,
+    "fat": 24
+  },
+  "slug": "garlicky-creamy-vietnamese-napa-cabbage-cha-gio",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-creamy-vietnamese-napa-cabbage-cha-gio",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:05:33Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "creamy",
+    "mood": "nostalgic",
+    "technique": "toast",
+    "primaryIngredient": "napa cabbage",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "napa cabbage",
+    "descriptor": "garlicky creamy",
+    "dishForm": "Cha Gio"
+  }
+}
