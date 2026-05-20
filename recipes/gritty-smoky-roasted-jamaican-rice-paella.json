@@ -1,0 +1,119 @@
+{
+  "title": "Gritty Smoky Roasted Jamaican Rice Paella",
+  "description": "A smoky, light Jamaican-inspired rice dish perfect for a sick day, featuring the perfect al-dente finish and low-fat content. ",
+  "cuisine": "jamaican",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "uncooked long-grain rice",
+      "amount": "2 cups",
+      "notes": "preferably jasmine rice or similar variety."
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz (410 ml) can."
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "olive or another mild oil."
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground, if possible."
+    },
+    {
+      "name": "onion powder",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground, if possible."
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground, if possible."
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground, if possible."
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground, if possible."
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground, if possible."
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/8 teaspoon",
+      "notes": "optional, to taste."
+    },
+    {
+      "name": "grated fresh ginger",
+      "amount": "1 tablespoon",
+      "notes": "use a microplane or fine grater."
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large paella pan over medium-high heat.",
+    "Add the chicken breast and cook until browned, about 4 minutes per side.",
+    "Remove the chicken and let it rest, then chop it into bite-sized pieces.",
+    "Add the onion powder, garlic powder, smoked paprika, salt, black pepper, and cayenne pepper to the pan and cook for 1 minute, stirring constantly.",
+    "Add the diced tomatoes, grated ginger, and chili powder to the pan and cook for 2 minutes, stirring occasionally.",
+    "Add the rice to the pan and stir to coat the rice with the spice mixture.",
+    "Add 3 cups of water to the pan and bring to a boil.",
+    "Reduce the heat to low, cover the pan with a lid, and simmer for 20 minutes, or until the rice is tender and the liquid has been absorbed.",
+    "Fluff the paella with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "healthy",
+    "high-protein",
+    "jamaican",
+    "low-fat",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 70,
+    "carbs": 60,
+    "fat": 8
+  },
+  "slug": "gritty-smoky-roasted-jamaican-rice-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/gritty-smoky-roasted-jamaican-rice-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:38:14Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "light",
+    "mood": "sick-day",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "chili powder",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "rice",
+    "descriptor": "Gritty Smoky Roasted",
+    "dishForm": "Paella"
+  }
+}
