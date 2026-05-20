@@ -1,0 +1,79 @@
+{
+  "title": "Gnutty Silky Energizing Lotus-Leaf Wrap",
+  "description": "A mediterranean-friendly dish featuring bananas and clay-pot-cooked ingredients that are nutty, silky, and energizing, served in a lotus-leaf wrap.",
+  "cuisine": "tunisian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bananas",
+      "amount": 4
+    },
+    {
+      "name": "nuts (almonds or peanuts)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mediterranean herbs (oregano, thyme, parsley)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "banana leaf wraps",
+      "amount": "4"
+    },
+    {
+      "name": "parchment paper",
+      "amount": 6
+    },
+    {
+      "name": "baking dish (clay pot or cast iron pan)",
+      "notes": "preheated to 180°C / 350°F"
+    },
+    {
+      "name": "banana sauce",
+      "amount": "2/3 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the clay pot.",
+    "Mix nuts, herbs in a bowl with banana sauce.",
+    "Fold banana slices into leaf wraps and place on parchment paper lined baking dish.",
+    "Pour mixture over wrapped bananas and bake for 15 minutes.",
+    "Serve warm.",
+    "Enjoy your nutty, silky, energizing lotus-leaf wrap!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garnished",
+    "nutritious",
+    "spicy-free"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 15,
+    "carbs": 39,
+    "fat": 14
+  },
+  "slug": "gnutty-silky-energizing-lotus-leaf-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/gnutty-silky-energizing-lotus-leaf-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-20T15:59:10Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "silky",
+    "mood": "energizing",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "bananas",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "banana",
+    "descriptor": "Nutty Silky Energizing",
+    "dishForm": "Wrap"
+  }
+}
