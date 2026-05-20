@@ -1,0 +1,121 @@
+{
+  "title": "Garlicky and Shattering Russian Strawberries Casserole",
+  "description": "A sweet and savory vegetarian casserole featuring fresh strawberries, onions, and garlic, perfect for a weeknight dinner or a special occasion. This dish is a fun twist on traditional Russian desserts and is sure to be a hit with kids and adults alike.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 1/2 cups fresh strawberries, hulled and sliced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 large onion, thinly sliced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup plain greek yogurt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup grated mozzarella cheese",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp vanilla extract",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 1/2 tsp baking powder",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp ground cinnamon",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 tsp ground nutmeg",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp unsalted butter, melted",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 egg, beaten",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup crushed shortbread cookies",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, combine the sliced strawberries, thinly sliced onion, and minced garlic.",
+    "In a separate bowl, whisk together the greek yogurt, mozzarella cheese, vanilla extract, baking powder, cinnamon, and nutmeg until well combined.",
+    "Add the wet ingredients to the dry ingredients and mix until just combined, being careful not to overmix.",
+    "Press half of the shortbread cookie crumbs into the bottom of a ttukbaegi earthenware cooking vessel or 9x13 inch baking dish.",
+    "Add the strawberry mixture on top of the cookie crumbs, followed by the remaining shortbread cookie crumbs.",
+    "Drizzle the melted butter over the top of the casserole and sprinkle with the beaten egg.",
+    "Bake for 35-40 minutes, or until the casserole is golden brown and the egg is set.",
+    "Let the casserole cool for 10-15 minutes before serving.",
+    "Serve warm, garnished with additional sliced strawberries and shortbread cookie crumbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "one-pan",
+    "russian",
+    "strawberries",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 20,
+    "carbs": 50,
+    "fat": 15
+  },
+  "slug": "garlicky-and-shattering-russian-strawberries-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-and-shattering-russian-strawberries-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:07:24Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "shattering",
+    "mood": "kid-friendly",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "strawberries",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "strawberries",
+    "descriptor": "Garlicky and Shattering",
+    "dishForm": "Casserole"
+  }
+}
