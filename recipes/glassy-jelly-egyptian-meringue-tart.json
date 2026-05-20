@@ -1,0 +1,100 @@
+{
+  "title": "Glassy-Jelly Egyptian Meringue Tart",
+  "description": "Aromatic and romantic dessert featuring meringue nests, rose jelly, and orange blossom water.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "nut-free",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Rose Petals",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Orange Blossom Water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "2 3/4 cups"
+    },
+    {
+      "name": "Large Egg Whites",
+      "amount": "3"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Unsalted Butter, melted",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Fresh Rosemary Leaves",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out puff pastry and place in a 9-inch tart pan with a removable bottom.",
+    "In a medium saucepan, combine rose petals, orange blossom water, granulated sugar, and salt. Bring to a boil over medium heat, then reduce heat to low and simmer for 5 minutes.",
+    "Strain the rose petal mixture through a fine-mesh sieve into a clean saucepan, discarding the solids.",
+    "In a small bowl, whisk together cornstarch and a splash of the rose petal mixture until smooth.",
+    "Return the rose petal mixture to the saucepan and whisk in the cornstarch mixture. Continue to cook over low heat, whisking constantly, until the mixture thickens, about 5 minutes.",
+    "Remove from heat and stir in the melted butter and rosemary leaves.",
+    "Pour the rose petal mixture into the prepared tart shell and smooth the top with an offset spatula.",
+    "Bake for 25-30 minutes, or until the edges are golden brown and the center is set.",
+    "While the tart is baking, prepare the meringue nests. In a clean bowl, whip the egg whites and granulated sugar until stiff peaks form.",
+    "Spoon the meringue onto the tart and smooth the top with an offset spatula.",
+    "Return the tart to the oven and bake for an additional 5-7 minutes, or until the meringue is golden brown.",
+    "Remove from the oven and let cool on a wire rack for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "dessert",
+    "egyptian",
+    "gluten-free",
+    "herbal",
+    "nut-free",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 2,
+    "carbs": 55,
+    "fat": 13
+  },
+  "slug": "glassy-jelly-egyptian-meringue-tart",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/glassy-jelly-egyptian-meringue-tart",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:33:03Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "glassy-jelly",
+    "mood": "romantic",
+    "technique": "whisk",
+    "primaryIngredient": "meringue nests",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "meringue",
+    "descriptor": "Glassy-Jelly",
+    "dishForm": "Tart"
+  }
+}
