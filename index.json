@@ -12669,6 +12669,23 @@
     "shard": "g"
   },
   {
+    "slug": "gourmet-grilled-canadian-beef-gratin",
+    "title": "Gourmet Grilled Canadian Beef Gratin",
+    "tags": [
+      "beef",
+      "gluten-free",
+      "grilled",
+      "high-protein",
+      "one-pan",
+      "roasted",
+      "sous-vide",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 50,
+    "shard": "g"
+  },
+  {
     "slug": "gourmet-rich-syrian-grain-pilaf",
     "title": "Gourmet Rich Syrian Grain Pilaf",
     "tags": [

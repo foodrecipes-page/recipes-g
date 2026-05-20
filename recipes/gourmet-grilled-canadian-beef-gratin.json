@@ -1,0 +1,128 @@
+{
+  "title": "Gourmet Grilled Canadian Beef Gratin",
+  "description": "Fresh, pillowy, festive Canadian dish featuring minced beef, sous-vide, vegan-friendly, vessel=salt-block.",
+  "cuisine": "Canadian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Minced Canadian beef (80/20)",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Salt-block",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh sage",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Dry white wine",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Beef broth",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Grana Padano cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sour cream",
+      "amount": "",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a salt-block to 550°F (290°C).",
+    "Sous-vide a 1-pound (450g) portion of minced Canadian beef to 130°F (54°C).",
+    "Finely chop the red onion and sauté it in 1 tablespoon of unsalted butter until translucent.",
+    "Finely chop the fresh thyme and sage and mix with 2 tablespoons of all-purpose flour.",
+    "Add the dry white wine to the onion mixture and stir to combine, cooking for 2 minutes.",
+    "Add the beef broth to the wine mixture and stir to combine.",
+    "Melt the remaining 1 tablespoon of butter in a separate pan, then add the sous-vide beef and cook for 1 minute on each side, until browned.",
+    "Transfer the beef to a 9x13-inch baking dish and top with the onion mixture, thyme-sage mixture, and 1/2 cup of Grana Padano cheese.",
+    "Transfer the baking dish to the preheated salt-block and cook for 5 minutes or until the cheese is bubbly and golden brown.",
+    "Garnish with 1/4 cup of fresh parsley, and serve with a dollop of sour cream if desired.",
+    "Let the dish rest for 2 minutes before serving.",
+    "Serve hot and enjoy!",
+    "Repeat the process if serving a larger crowd, or make individual servings in ramekins."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "gluten-free",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "roasted",
+    "sous-vide",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 42,
+    "carbs": 6,
+    "fat": 32
+  },
+  "slug": "gourmet-grilled-canadian-beef-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/gourmet-grilled-canadian-beef-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:58:32Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "pillowy",
+    "mood": "festive",
+    "technique": "sous-vide",
+    "primaryIngredient": "minced beef",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "beef",
+    "descriptor": "gourmet grilled",
+    "dishForm": "Gratin"
+  }
+}
