@@ -1,0 +1,139 @@
+{
+  "title": "Golden Glazed Middle Eastern Beurre-Noisette Maqluba",
+  "description": "A nutty, bouncy, Middle Eastern dish featuring beurre-noisette, nigiri-shaping, and a kosher-friendly twist. Perfect for meal prep and easy to make.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Beurre-Noisette",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.5 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Golden syrup",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cooked chicken",
+      "amount": "1 pound",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onions and cook until they start to brown, about 5 minutes.",
+    "Add the minced garlic and cook for another minute, until fragrant.",
+    "Add the cumin, coriander, salt, and black pepper, and stir to combine.",
+    "Add the cooked chicken, rice, water, and chicken broth to the skillet, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and cover the skillet with a lid.",
+    "Simmer the mixture for 20-25 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "While the rice is cooking, prepare the beurre-noisette by melting the butter in a small saucepan over low heat.",
+    "Add the chopped parsley to the melted butter and stir to combine.",
+    "Once the rice is cooked, fluff it with a fork and stir in the beurre-noisette and chopped parsley mixture.",
+    "Transfer the rice mixture to a serving platter and shape it into a Maqluba, or upside-down pot, shape.",
+    "Glaze the top of the rice with the golden syrup and drizzle with lemon juice.",
+    "Serve the Golden Glazed Middle Eastern Beurre-Noisette Maqluba hot, garnished with additional chopped parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "healthy",
+    "kosher",
+    "meal-prep",
+    "middle-eastern",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 30,
+    "carbs": 70,
+    "fat": 20
+  },
+  "slug": "golden-glazed-middle-eastern-beurre-noisette-maqluba",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-glazed-middle-eastern-beurre-noisette-maqluba",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:54:38Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "bouncy-qq",
+    "mood": "meal-prep",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "beurre-noisette",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "beurre-noisette",
+    "descriptor": "Golden Glazed",
+    "dishForm": "Maqluba"
+  }
+}
