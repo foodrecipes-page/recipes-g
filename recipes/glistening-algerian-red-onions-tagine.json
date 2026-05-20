@@ -1,0 +1,125 @@
+{
+  "title": "Glistening Algerian Red Onions Tagine",
+  "description": "Spicy and energizing Algerian dish featuring red onions, perfect for a weeknight dinner.",
+  "cuisine": "algerian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 large red onion",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "2 cloves of garlic",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "1 teaspoon smoked paprika",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "1/2 teaspoon cayenne pepper",
+      "amount": "0.5",
+      "notes": null
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "0.5",
+      "notes": null
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "0.25",
+      "notes": null
+    },
+    {
+      "name": "2 tablespoons chopped fresh parsley",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "2 tablespoons chopped fresh cilantro",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "1 cup vegetable broth",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "2 tablespoons honey",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "2 tablespoons lemon juice",
+      "amount": "2",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Peel and thinly slice the red onion, then place it in a small bowl and separate the rings.",
+    "In a separate bowl, mix together cumin, smoked paprika, cayenne pepper, salt, and black pepper.",
+    "Coat the ramekin with a thin layer of olive oil.",
+    "Add the sliced red onion to the ramekin, followed by the spice mixture, garlic, parsley, and cilantro.",
+    "Drizzle the vegetable broth, honey, and lemon juice over the onion mixture.",
+    "Cover the ramekin with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 15-20 minutes, or until the onion is caramelized and tender.",
+    "Let the tagine rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "dinner-ideas",
+    "one-pan",
+    "red-onion",
+    "spicy",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "glistening-algerian-red-onions-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/glistening-algerian-red-onions-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T17:07:15Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crisp",
+    "mood": "energizing",
+    "technique": "dehydrate",
+    "primaryIngredient": "red onions",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "red onions",
+    "descriptor": "Glistening",
+    "dishForm": "Tagine"
+  }
+}
