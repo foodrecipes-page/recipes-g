@@ -1,0 +1,128 @@
+{
+  "title": "Gently Grilled Peruvian Beef Saltado",
+  "description": "A FODMAP-friendly twist on the classic Peruvian dish, featuring tender beef, pillowy rice, and a tangy shoyu-koji sauce.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "dairy-free",
+    "low-fodmap"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "flank steak",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "shoyu-koji",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "0.5 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.25 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large skillet over medium-high heat.",
+    "Add the beef to the skillet and cook for 3 minutes per side, or until browned and cooked to desired level of doneness.",
+    "Transfer the beef to a cutting board and let it rest for 5 minutes before slicing it thinly.",
+    "In the same skillet, add the sliced red onion and cook for 3-4 minutes, or until softened.",
+    "Add the sliced bell pepper to the skillet and cook for an additional 2-3 minutes, or until tender.",
+    "In a small bowl, whisk together the rice vinegar, soy sauce, shoyu-koji, ginger, garlic, sugar, salt, and black pepper.",
+    "Pour the sauce over the vegetables in the skillet and stir to combine.",
+    "Add the sliced beef back into the skillet and stir to coat with the sauce.",
+    "Serve the beef and vegetables over a bed of steamed rice, garnished with chopped green onions.",
+    "Cook the rice according to package instructions or use leftover cooked rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "gluten-free",
+    "high-protein",
+    "low-fodmap",
+    "one-pan",
+    "peruvian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "gently-grilled-peruvian-beef-saltado",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/gently-grilled-peruvian-beef-saltado",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:34:05Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "pillowy",
+    "mood": "energizing",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "shoyu-koji",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Beef",
+    "descriptor": "Gently Grilled",
+    "dishForm": "Saltado"
+  }
+}
