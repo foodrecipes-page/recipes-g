@@ -1,0 +1,123 @@
+{
+  "title": "Golden Green Mexican Chicken Pozole with Dulce de Leche Toppings",
+  "description": "A flavorful and nutritious Mexican dish featuring sashimi-cut chicken breast, paleo-friendly green tomatillo broth, and sweet dulce de leche toppings.",
+  "cuisine": "Mexican",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Poblano Peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Green Tomatillos",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Chicken Breast",
+      "amount": "1 pound",
+      "notes": "sashimi-cut"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Dulce de Leche",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large Dutch oven over medium heat.",
+    "Roast the poblano peppers by placing them directly on the stovetop and charring them on all sides.",
+    "Peel the roasted poblano peppers by removing the charred skin, then chop them into small pieces.",
+    "Add the chopped onion and minced garlic to the pot and sauté until softened.",
+    "Add the diced green tomatillos, chicken broth, and roasted poblano peppers to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Add the sashimi-cut chicken breast to the pot and simmer for an additional 10 minutes, or until cooked through.",
+    "Stir in the chopped cilantro and lime juice.",
+    "Season the pozole with salt and black pepper to taste.",
+    "Serve the pozole hot, topped with dulce de leche, chopped cilantro, and a sprinkle of lime zest.",
+    "Garnish with additional cilantro and lime wedges, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "gluten-free",
+    "high-protein",
+    "mexican",
+    "one-pot",
+    "paleo",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "golden-green-mexican-chicken-pozole-with-dulce-de-leche-toppings",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-green-mexican-chicken-pozole-with-dulce-de-leche-toppings",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:24:50Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "dulce de leche",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Chicken",
+    "descriptor": "Golden Green",
+    "dishForm": "Pozole with Dulce de Leche Toppings"
+  }
+}
