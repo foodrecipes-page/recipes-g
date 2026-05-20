@@ -1,0 +1,115 @@
+{
+  "title": "Grassy Russian Mentaiko Pilaf",
+  "description": "A hearty dairy-free-friendly Russian-inspired pilaf featuring the rich flavors of mentaiko and fresh herbs, perfect for a hangover cure.",
+  "cuisine": "Russian",
+  "diet": [
+    "dairy-free",
+    "vegan",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Mentaiko",
+      "amount": "120g",
+      "notes": "spicy pollock roe"
+    },
+    {
+      "name": "Rice",
+      "amount": "150g",
+      "notes": "short-grain Japanese rice"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "25g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "25g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh chives",
+      "amount": "25g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ghee",
+      "amount": "20g",
+      "notes": "or other plant-based oil"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "10g",
+      "notes": "for serving"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat ghee in a large saucepan over medium heat.",
+    "Add rice and cook, stirring occasionally, until lightly toasted, about 5 minutes.",
+    "Add 300ml of water to the saucepan and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 15 minutes, or until the water has been absorbed and the rice is cooked.",
+    "Flake in mentaiko and stir to combine.",
+    "Stir in chopped herbs (parsley, dill, and chives).",
+    "Season with salt and black pepper to taste.",
+    "Transfer the pilaf to a serving dish and drizzle with sesame oil, if desired.",
+    "Garnish with additional herbs, if desired.",
+    "Serve hot, garnished with a sprinkle of turmeric, if desired.",
+    "Dehydrate the pilaf for 10-15 minutes to enhance the flavors and textures, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "dairy-free",
+    "dinner",
+    "easy-to-make",
+    "lunch",
+    "one-pan",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 65,
+    "fat": 15
+  },
+  "slug": "grassy-russian-mentaiko-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/grassy-russian-mentaiko-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:14:42Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "molten",
+    "mood": "hangover-cure",
+    "technique": "dehydrate",
+    "primaryIngredient": "mentaiko",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Mentaiko",
+    "descriptor": "grassy",
+    "dishForm": "Pilaf"
+  }
+}
