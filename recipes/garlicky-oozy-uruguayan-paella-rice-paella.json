@@ -1,0 +1,111 @@
+{
+  "title": "Garlicky Oozy Uruguayan Paella Rice Paella",
+  "description": "A comforting and flavorful Uruguayan dish featuring paella rice, namul-blanch-season, and dairy-free-friendly options. This recipe is perfect for a cozy evening with family and friends.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Paella Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Namul-Blanch-Season",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "6 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Smoked Chorizo",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "8 oz",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the smoked chorizo and cook for 2 minutes, until slightly browned.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the mushrooms and cook for 3 minutes, until they start to release their moisture.",
+    "Add the paella rice and stir to combine with the chorizo and mushroom mixture.",
+    "Add the namul-blanch-season and stir to combine.",
+    "Add 2 cups of water to the pan and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes, until the rice is cooked and the liquid has been absorbed.",
+    "Stir in the fresh parsley and lemon juice.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "gluten-free",
+    "one-pan",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 70,
+    "fat": 24
+  },
+  "slug": "garlicky-oozy-uruguayan-paella-rice-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-oozy-uruguayan-paella-rice-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:23:29Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "gooey",
+    "mood": "comforting",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "paella rice",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "paella rice",
+    "descriptor": "garlicky oozy",
+    "dishForm": "Paella"
+  }
+}
