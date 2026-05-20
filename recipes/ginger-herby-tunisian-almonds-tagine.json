@@ -1,0 +1,91 @@
+{
+  "title": "ginger-herby tunisian almonds tagine",
+  "description": "a crisp, one-pot tunisian dish featuring rosemary, ginger, and crunchy almonds. perfect for raw-friendly diets and weeknights.",
+  "cuisine": "tunisian",
+  "diet": [
+    "raw-friendly",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "250g"
+    },
+    {
+      "name": "rosemary",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "2 slices"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "in a medium saucepan, heat 1 tsp of olive oil over medium heat.",
+    "add sliced ginger and cook for 1 minute, until fragrant.",
+    "add rosemary sprigs and cook for 30 seconds.",
+    "add almonds and cook for 2-3 minutes, until lightly toasted.",
+    "add maple syrup, salt, black pepper, and cinnamon. stir to combine.",
+    "reduce heat to low and simmer for 5-7 minutes, until the mixture has thickened and the almonds are coated in the spice mixture.",
+    "remove from heat and let cool completely."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 7,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "raw-friendly",
+    "snack",
+    "tunisian",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 15,
+    "fat": 15
+  },
+  "slug": "ginger-herby-tunisian-almonds-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/ginger-herby-tunisian-almonds-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:19:39Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crisp",
+    "mood": "one-pot",
+    "technique": "candy",
+    "primaryIngredient": "rosemary",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "almonds",
+    "descriptor": "Ginger-herby",
+    "dishForm": "Tagine"
+  }
+}
