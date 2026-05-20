@@ -1,0 +1,121 @@
+{
+  "title": "Garlicky Hearty Jamaican Chickpea Flour Stew",
+  "description": "A comforting Jamaican stew made with chickpea flour, marinated in a blend of spices and herbs. Low-carb friendly and perfect for a weeknight dinner.",
+  "cuisine": "jamaican",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpea flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "jamaican seasoning blend",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground ginger",
+      "amount": "0.5 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "0.5 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "0.25 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.25 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "1",
+      "notes": "use gloves when handling peppers."
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large cazuela over medium heat.",
+    "Sauté diced onion until translucent, about 5 minutes.",
+    "Mince garlic and sauté for another minute, until fragrant.",
+    "Add jamaican seasoning blend, ground ginger, cumin, salt, and black pepper. Stir for 1 minute.",
+    "Add chickpea flour and stir for 2 minutes, until well combined with spices.",
+    "Add chicken broth and coconut milk, stirring constantly to avoid lumps.",
+    "Bring mixture to a simmer and cook for 20 minutes, until thickened and heated through.",
+    "Remove from heat and stir in chopped scotch bonnet peppers.",
+    "Serve hot, garnished with chopped fresh herbs, if desired.",
+    "Let stew rest for 10 minutes before serving to allow flavors to meld."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "hearty",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "garlicky-hearty-jamaican-chickpea-flour-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-hearty-jamaican-chickpea-flour-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:00:54Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "shaggy",
+    "mood": "comforting",
+    "technique": "marinate",
+    "primaryIngredient": "chickpea flour",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Chickpea flour",
+    "descriptor": "Garlicky Hearty",
+    "dishForm": "Stew"
+  }
+}
