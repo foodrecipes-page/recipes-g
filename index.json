@@ -2612,6 +2612,22 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-indulgent-croatian-collards-stew",
+    "title": "garlicky indulgent croatian collards stew",
+    "tags": [
+      "comfort-food",
+      "macrobiotic-friendly",
+      "one-pan",
+      "slow-cooker",
+      "vegetarian-friendly",
+      "weeknight",
+      "winter-warmer"
+    ],
+    "cuisine": "croatian",
+    "totalTimeMin": 45,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-indulgent-norwegian-cheese-kjottkaker",
     "title": "Garlicky Indulgent Norwegian Cheese Kjøttkaker",
     "tags": [
@@ -4333,6 +4349,21 @@
     ],
     "cuisine": "ukrainian",
     "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-x-crisp-brazilian-chicken-tagine",
+    "title": "garlicky x-crisp brazilian chicken tagine",
+    "tags": [
+      "brazilian",
+      "dinner-party",
+      "high-protein",
+      "one-pan",
+      "romantic",
+      "weeknight"
+    ],
+    "cuisine": "brazilian",
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {

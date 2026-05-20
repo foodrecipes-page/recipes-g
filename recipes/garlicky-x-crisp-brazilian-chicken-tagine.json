@@ -1,0 +1,103 @@
+{
+  "title": "garlicky x-crisp brazilian chicken tagine",
+  "description": "a romantic brazilian dish featuring garlicky confit-tomato and crispy chicken served in a traditional clay tajine vessel. perfect for a special occasion or a cozy dinner.",
+  "cuisine": "brazilian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": "for dusting the chicken"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "confit-tomato",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "spices",
+      "amount": "1 teaspoon",
+      "notes": "ground cumin, paprika, and cayenne pepper"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a clay tajine over medium heat.",
+    "add the chopped onion and cook until softened, about 5 minutes.",
+    "add the minced garlic and cook for another minute, until fragrant.",
+    "add the chicken breast and cook until browned on all sides, about 5-7 minutes.",
+    "dust the chicken with the all-purpose flour and cook for another minute.",
+    "add the confit-tomato, chicken broth, spices, salt, and pepper to the tajine.",
+    "bring the mixture to a simmer and cook, covered, until the chicken is cooked through and the sauce has thickened, about 20-25 minutes.",
+    "serve the garlicky x-crisp brazilian chicken tagine hot, garnished with chopped fresh cilantro or scallions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "dinner-party",
+    "high-protein",
+    "one-pan",
+    "romantic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "garlicky-x-crisp-brazilian-chicken-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-x-crisp-brazilian-chicken-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:30:32Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crisp",
+    "mood": "romantic",
+    "technique": "confit-tomato",
+    "primaryIngredient": "all purpose flour",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "Garlicky x-crisp",
+    "dishForm": "Tagine"
+  }
+}

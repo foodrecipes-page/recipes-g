@@ -1,0 +1,117 @@
+{
+  "title": "garlicky indulgent croatian collards stew",
+  "description": "a hearty, garlicky stew from croatia, featuring al-dente collard greens and a rich broth. perfect for a cold winter night.",
+  "cuisine": "croatian",
+  "diet": [
+    "macrobiotic-friendly",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "collard greens",
+      "amount": "2 bunches",
+      "notes": "any color"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "14 oz",
+      "notes": ""
+    },
+    {
+      "name": "bay leaves",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large cazuela over medium heat.",
+    "add the onion and cook until softened, about 5 minutes.",
+    "add the garlic and cook for 1 minute.",
+    "add the caraway seeds and cook for 30 seconds.",
+    "add the collard greens, diced red bell pepper, and bay leaves.",
+    "cook for 5 minutes, stirring occasionally.",
+    "add the canned diced tomatoes and vegetable broth.",
+    "season with salt and black pepper to taste.",
+    "bring the stew to a boil, then reduce the heat to low and simmer for 20-25 minutes, or until the collard greens are al-dente.",
+    "serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "macrobiotic-friendly",
+    "one-pan",
+    "slow-cooker",
+    "vegetarian-friendly",
+    "weeknight",
+    "winter-warmer"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "garlicky-indulgent-croatian-collards-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-indulgent-croatian-collards-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:30:15Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "snappy",
+    "mood": "midnight-craving",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "collards",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Collards",
+    "descriptor": "Garlicky Indulgent",
+    "dishForm": "Stew"
+  }
+}
