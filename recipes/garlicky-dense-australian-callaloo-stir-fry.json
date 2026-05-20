@@ -1,0 +1,98 @@
+{
+  "title": "Garlicky Dense Australian Callaloo Stir-fry",
+  "description": "A hearty, flavorful stir-fry featuring Australian bush greens and a hint of garlic, making it a crowd-pleaser for meal prep or weeknight dinners. This recipe is also anti-inflammatory-friendly and suitable for those on a vegetarian diet.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian bush greens (such as Callaloo or Malabar spinach)",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "6 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large skillet or wok over medium-high heat."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "australian",
+    "garlic",
+    "gluten-free",
+    "one-pan",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "garlicky-dense-australian-callaloo-stir-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-dense-australian-callaloo-stir-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:33:04Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "dense",
+    "mood": "crowd-pleaser",
+    "technique": "marinate",
+    "primaryIngredient": "callaloo",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Callaloo",
+    "descriptor": "Garlicky Dense",
+    "dishForm": "Stir-fry"
+  }
+}
