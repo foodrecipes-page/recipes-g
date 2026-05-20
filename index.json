@@ -6647,6 +6647,18 @@
     "shard": "g"
   },
   {
+    "slug": "ginger-garlic-filipino-chicken-tinola",
+    "title": "Ginger-Garlic Filipino Chicken Tinola",
+    "tags": [
+      "comfort-food",
+      "filipino",
+      "one-pot"
+    ],
+    "cuisine": "filipino",
+    "totalTimeMin": 50,
+    "shard": "g"
+  },
+  {
     "slug": "ginger-garlic-paneer-stir-fry",
     "title": "Ginger Garlic Paneer Stir-Fry",
     "tags": [
