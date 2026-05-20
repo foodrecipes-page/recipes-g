@@ -1,0 +1,111 @@
+{
+  "title": "Garlicky Fiery Australian Lamb Burger",
+  "description": "A bold Australian dish featuring tender lamb, pungent garlic, and a sweet glaze, all on a toasted bun.",
+  "cuisine": "australian",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Australian Lamb Mince",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Sunflower Oil",
+      "amount": "50ml",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2cm",
+      "notes": "grated"
+    },
+    {
+      "name": "Lamb's Liver",
+      "amount": "100g",
+      "notes": "chopped (optional)"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tsp",
+      "notes": "glaze"
+    },
+    {
+      "name": "Apple Cider Vinegar",
+      "amount": "1 tsp",
+      "notes": "glaze"
+    },
+    {
+      "name": "Chilli Flakes",
+      "amount": "0.5 tsp",
+      "notes": "glaze"
+    },
+    {
+      "name": "Coarsely Ground Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "to taste",
+      "notes": "garnish"
+    }
+  ],
+  "instructions": [
+    "Heat sunflower oil in a large non-stick pan over medium-high heat",
+    "Add lamb mince and cook until browned, breaking up with a spoon as it cooks",
+    "Mince garlic and grate ginger; add to pan and cook until fragrant",
+    "Add lamb's liver (if using) and cook until browned",
+    "In a small bowl, whisk together honey, apple cider vinegar, and chilli flakes to make the glaze",
+    "Brush the glaze over the lamb during the last 2 minutes of cooking",
+    "Season with black pepper to taste",
+    "Divide the cooked lamb among toasted buns and garnish with parsley"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "burger",
+    "gluten-free",
+    "high-protein",
+    "lamb",
+    "one-pan",
+    "paleo",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 59,
+    "carbs": 25,
+    "fat": 32
+  },
+  "slug": "garlicky-fiery-australian-lamb-burger",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-fiery-australian-lamb-burger",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:47:10Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "snappy",
+    "mood": "show-off",
+    "technique": "glaze",
+    "primaryIngredient": "sunflower oil",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Lamb",
+    "descriptor": "Garlicky Fiery",
+    "dishForm": "Burger"
+  }
+}
