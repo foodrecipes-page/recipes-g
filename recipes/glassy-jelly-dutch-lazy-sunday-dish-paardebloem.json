@@ -1,0 +1,98 @@
+{
+  "title": "Glassy-Jelly Dutch Lazy Sunday Dish Paardebloem",
+  "description": "A deliciously jammy, glassy-jelly Dutch dish perfect for a lazy Sunday, featuring the flavors of cilantro and a crispy agemono-deep-fry in a low-fat-friendly tandoor-clay-pot.",
+  "cuisine": "Dutch",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Paardebloem",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "0.5 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cilantro",
+      "amount": "1 bunch",
+      "notes": "chopped, fresh"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 cup",
+      "notes": "for deep-frying"
+    }
+  ],
+  "instructions": [
+    "Combine Paardebloem, water, sugar, and lemon juice in a large bowl, stirring until the sugar dissolves.",
+    "Heat the vegetable oil in a tandoor-clay-pot over medium-high heat.",
+    "Deep-fry the Paardebloem mixture in batches until crispy and golden brown.",
+    "Drain the Paardebloem mixture on paper towels and sprinkle with chopped cilantro.",
+    "Mix the deep-fried Paardebloem mixture with the lemon juice and sugar mixture in a serving bowl.",
+    "Refrigerate the mixture for at least 30 minutes to allow the flavors to meld together.",
+    "Serve chilled, garnished with additional cilantro if desired.",
+    "Garnish with fresh cilantro leaves before serving.",
+    "This dish can be served as a breakfast or brunch option on a lazy Sunday morning.",
+    "This dish is perfect for a weeknight dinner when you need something quick and easy to prepare.",
+    "This dish can be made ahead of time and refrigerated or frozen for later use.",
+    "This dish is a great way to use up leftover Paardebloem or other ingredients in your pantry.",
+    "This dish is a delicious and unique twist on a traditional Dutch dessert.",
+    "This dish is a great option for a potluck or buffet.",
+    "This dish is a fun and flavorful way to spend a lazy Sunday afternoon in the kitchen.",
+    "This dish is a great way to practice making agemono-deep-fry in a tandoor-clay-pot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "dutch",
+    "easy-to-make",
+    "high-carb",
+    "lazy-sunday",
+    "low-fat",
+    "one-pan",
+    "potluck",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 2,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "glassy-jelly-dutch-lazy-sunday-dish-paardebloem",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/glassy-jelly-dutch-lazy-sunday-dish-paardebloem",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:56:07Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "glassy-jelly",
+    "mood": "lazy-sunday",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "cilantro",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Lazy Sunday Dish",
+    "descriptor": "Glassy-Jelly",
+    "dishForm": "Paardebloem"
+  }
+}
