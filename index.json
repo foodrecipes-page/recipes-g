@@ -4717,6 +4717,19 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-x-springy-middle-eastern-lentils-mujaddara",
+    "title": "Garlicky X Springy Middle Eastern Lentils Mujaddara",
+    "tags": [
+      "high-protein",
+      "meal-prep",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 45,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-zesty-greek-chilli-spanakopita",
     "title": "Garlicky Zesty Greek Chilli Spanakopita",
     "tags": [
@@ -7201,6 +7214,21 @@
     ],
     "cuisine": "jamaican",
     "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
+    "slug": "glassy-jelly-light-venezuelan-pul-biber-nigiri",
+    "title": "Glassy-Jelly Light Venezuelan Pul Biber Nigiri",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "mediterranean",
+      "one-pan",
+      "snack",
+      "weeknight"
+    ],
+    "cuisine": "venezuelan",
+    "totalTimeMin": 30,
     "shard": "g"
   },
   {

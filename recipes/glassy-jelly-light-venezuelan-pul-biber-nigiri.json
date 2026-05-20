@@ -1,0 +1,120 @@
+{
+  "title": "Glassy-Jelly Light Venezuelan Pul Biber Nigiri",
+  "description": "A mediterranean-inspired dish featuring the sweet and spicy flavors of pul biber, served in a glassy-jelly light venezuelan style, shaped into nigiri form.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "agar agar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "pul biber",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine 1 cup of sugar and 1 cup of water in a saucepan and heat the mixture until the sugar dissolves.",
+    "Add 2 tablespoons of agar agar to the sugar mixture and stir to combine.",
+    "Bring the sugar mixture to a boil, then reduce the heat and let it simmer for 5 minutes.",
+    "Remove the saucepan from the heat and stir in 2 teaspoons of pul biber, 1 tablespoon of lemon juice, 2 tablespoons of honey, and 1/4 teaspoon of salt.",
+    "Let the mixture cool slightly, then stir in 2 tablespoons of rice vinegar.",
+    "Spoon the mixture into a glass jar or container and let it chill in the refrigerator for at least 30 minutes.",
+    "Prepare the nigiri by cutting a small piece of cucumber into a nigiri shape and placing a small amount of the sugar mixture onto the cucumber.",
+    "Drizzle a small amount of sesame oil onto the sugar mixture and sprinkle with sesame seeds.",
+    "Garnish with a small piece of scallion and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 5,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "mediterranean",
+    "one-pan",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "glassy-jelly-light-venezuelan-pul-biber-nigiri",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/glassy-jelly-light-venezuelan-pul-biber-nigiri",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:26:57Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "glassy-jelly",
+    "mood": "light",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "pul biber",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "light venezuelan",
+    "mainIngredient": "pul biber",
+    "descriptor": "glassy-jelly",
+    "dishForm": "nigiri"
+  }
+}
