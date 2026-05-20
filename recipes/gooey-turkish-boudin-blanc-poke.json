@@ -1,0 +1,66 @@
+{
+  "title": "Gooey Turkish Boudin Blanc Poke",
+  "description": "A sick-day Turkish dish featuring bouncy-qq boudin blanc, perfect for a pungent morning meal.",
+  "cuisine": "turkish",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "boudin blanc",
+      "amount": "400g",
+      "notes": ""
+    },
+    {
+      "name": "long-grain rice",
+      "amount": "150g",
+      "notes": "cooled"
+    }
+  ],
+  "instructions": [
+    "Mix 200g boudin blanc with 1 egg and stir until smooth.",
+    "Gradually heat 50g olive oil in a pan over low heat.",
+    "Add 1 saffron thread and cook, stirring, for 1 minute.",
+    "Add 150g cooked long-grain rice, stirring to combine.",
+    "Mix in 2g salt, 1g black pepper, and 10g lemon juice.",
+    "Shape into nigiri-sized balls, about 2-3cm in diameter.",
+    "Place boudin blanc balls on a plate, drizzle with remaining olive oil, and refrigerate for at least 2 hours before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "breakfast",
+    "high-protein",
+    "sick-day",
+    "turkish-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 32,
+    "carbs": 40,
+    "fat": 33
+  },
+  "slug": "gooey-turkish-boudin-blanc-poke",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-turkish-boudin-blanc-poke",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:29:26Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "bouncy-qq",
+    "mood": "sick-day",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "boudin-blanc",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Boudin Blanc",
+    "descriptor": "Gooey",
+    "dishForm": "Poke"
+  }
+}

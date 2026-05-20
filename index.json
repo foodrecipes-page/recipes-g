@@ -2953,6 +2953,20 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-korean-kic-italian-teque-os-tiramisu",
+    "title": "Garlicky Korean Kic Italian Tiramisu",
+    "tags": [
+      "breakfast",
+      "brunch",
+      "dessert",
+      "italian",
+      "korean"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-korean-kimchi-mitbanchan",
     "title": "Garlicky Korean Kimchi Mitbanchan",
     "tags": [
@@ -11960,6 +11974,20 @@
     ],
     "cuisine": "Tunisian",
     "totalTimeMin": 50,
+    "shard": "g"
+  },
+  {
+    "slug": "gooey-turkish-boudin-blanc-poke",
+    "title": "Gooey Turkish Boudin Blanc Poke",
+    "tags": [
+      "breakfast",
+      "high-protein",
+      "sick-day",
+      "turkish-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "turkish",
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {

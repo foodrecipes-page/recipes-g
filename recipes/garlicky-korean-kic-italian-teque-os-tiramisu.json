@@ -1,0 +1,113 @@
+{
+  "title": "Garlicky Korean Kic Italian Tiramisu",
+  "description": "Bouncy-qq brunch-mood Italian dish featuring pre-fried teque os and double-fried low-glycemic-friendly ingredients in a bamboo-tray-style dessert.",
+  "cuisine": "Italian",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pre-fried teque os",
+      "amount": "12 pieces",
+      "notes": "/"
+    },
+    {
+      "name": "Double-fried chicken",
+      "amount": "1 pound",
+      "notes": "/"
+    },
+    {
+      "name": "Low-glycemic-friendly breadcrumbs",
+      "amount": "1 cup",
+      "notes": "/"
+    },
+    {
+      "name": "Minced garlic",
+      "amount": "3 cloves",
+      "notes": "/"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "/"
+    },
+    {
+      "name": "Italian parsley",
+      "amount": "1/4 cup",
+      "notes": "/"
+    },
+    {
+      "name": "Egg yolks",
+      "amount": "4",
+      "notes": "/"
+    },
+    {
+      "name": "Granulated sweetener (e.g. Swerve)",
+      "amount": "1 cup",
+      "notes": "/"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": "/"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "/"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "/"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C).",
+    "Line a bamboo tray or 9x13-inch baking dish with parchment paper.",
+    "In a medium bowl, whisk together the egg yolks, granulated sweetener, and vanilla extract.",
+    "In a separate bowl, mix together the breadcrumbs and Korean chili flakes.",
+    "Dip each pre-fried teque os piece into the breadcrumb mixture, coating both sides evenly.",
+    "Place the coated teque os pieces on the prepared tray or baking dish in a single layer.",
+    "Drizzle the heavy cream over the top of the teque os pieces.",
+    "Dot the top of the cream with the unsalted butter.",
+    "Sprinkle the Italian parsley over the top of the dish.",
+    "Bake for 20 minutes, or until the top is golden brown and the cream is set.",
+    "Remove from the oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "dessert",
+    "italian",
+    "korean"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 34,
+    "carbs": 25,
+    "fat": 35
+  },
+  "slug": "garlicky-korean-kic-italian-teque-os-tiramisu",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-korean-kic-italian-teque-os-tiramisu",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:28:50Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "bouncy-qq",
+    "mood": "brunch-mood",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "pre-fried teque os",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "teque os",
+    "descriptor": "garlicky korean kic",
+    "dishForm": "Tiramisu"
+  }
+}
