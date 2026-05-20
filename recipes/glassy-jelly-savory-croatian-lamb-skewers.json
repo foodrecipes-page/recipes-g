@@ -1,0 +1,107 @@
+{
+  "title": "Glassy Jelly Lamb Skewers",
+  "description": "A festive and flavorful Croatian dish featuring lamb loin chops, served with a sweet and savory glassy jelly. Perfect for a dinner gathering.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb loin chops (12 pieces)",
+      "amount": "600g",
+      "notes": null
+    },
+    {
+      "name": "Red wine",
+      "amount": "250ml",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "100ml",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 bunch",
+      "notes": null
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "50ml",
+      "notes": null
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Glassy jelly ( recipe below )",
+      "amount": "500g",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 220°C.",
+    "In a large bowl, whisk together red wine, olive oil, garlic, parsley, lemon juice, red pepper flakes, salt, and black pepper.",
+    "Add the lamb loin chops to the bowl and toss to coat.",
+    "Thread 3-4 pieces of lamb onto each skewer.",
+    "Grill the skewers for 20-25 minutes, or until cooked to desired level of doneness.",
+    "While the skewers are cooking, prepare the glassy jelly.",
+    "To make the glassy jelly, combine 250g of sugar, 250g of water, and 1 tsp of red pepper flakes in a saucepan.",
+    "Bring the mixture to a boil, then reduce heat and simmer for 10-15 minutes, or until the jelly has thickened.",
+    "Remove the skewers from the grill and brush with the glassy jelly.",
+    "Serve the skewers immediately, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 25,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "festival",
+    "grilled",
+    "lamb",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "glassy-jelly-savory-croatian-lamb-skewers",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/glassy-jelly-savory-croatian-lamb-skewers",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T06:23:24Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "glassy-jelly",
+    "mood": "festive",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "lamb loin chops",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "lamb",
+    "descriptor": "glassy-jelly savory",
+    "dishForm": "Skewers"
+  }
+}
