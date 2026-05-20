@@ -1,0 +1,56 @@
+{
+  "title": "grassy tender australian beans bake",
+  "description": "a paleo-inspired brunch dish featuring baked beans and lardons, with a grassy and tender texture",
+  "cuisine": "australian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "dried haricot beans",
+      "amount": "1 cup",
+      "notes": "soaked overnight and drained"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 375f.",
+    "saute the lardons in a large cast-iron pan over medium heat until browned, about 5 minutes.",
+    "add the soaked and drained haricot beans to the pan and stir to combine with the lardons.",
+    "transfer the bean and lardon mixture to a baking dish and cover with foil.",
+    "bake for 30 minutes, then remove the foil and continue baking for an additional 15 minutes, or until the beans are tender and the liquid has thickened."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-fiber",
+    "paleo",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 50,
+    "fat": 15
+  },
+  "slug": "grassy-tender-australian-beans-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/grassy-tender-australian-beans-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:48:34Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "tender",
+    "mood": "brunch-mood",
+    "technique": "lardons-render",
+    "primaryIngredient": "baked beans",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "beans",
+    "descriptor": "grassy tender",
+    "dishForm": "bake"
+  }
+}
