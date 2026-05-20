@@ -1,0 +1,87 @@
+{
+  "title": "Garlicky Tender Sicilian Tomatoes Gnocchi",
+  "description": "A quick-fix Italian dish featuring plum tomatoes, perfect for a weeknight dinner.",
+  "cuisine": "Italian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "plum tomatoes",
+      "amount": "1 pint"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "peeled and minced"
+    },
+    {
+      "name": "gnocchi",
+      "amount": "12 oz"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the gnocchi and cook for 2-3 minutes, until golden brown.",
+    "Add the plum tomatoes and cook for 5 minutes, until they start to break down.",
+    "Season with salt to taste.",
+    "Stir in the fresh basil and grated Parmesan cheese.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-fiber",
+    "italian",
+    "one-pan",
+    "pasta",
+    "quick-fix",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 55,
+    "fat": 10
+  },
+  "slug": "garlicky-tender-sicilian-tomatoes-gnocchi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-tender-sicilian-tomatoes-gnocchi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:24:55Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "tender",
+    "mood": "quick-fix",
+    "technique": "brine-dry",
+    "primaryIngredient": "plum tomatoes",
+    "diet": "diabetic-friendly",
+    "region": "sicilian",
+    "cuisineAdjective": "Sicilian",
+    "mainIngredient": "tomatoes",
+    "descriptor": "garlicky tender",
+    "dishForm": "Gnocchi"
+  }
+}
