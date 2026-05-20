@@ -1,0 +1,110 @@
+{
+  "title": "Garlicky Molten Italian Fish Fillet Cacio E Pepe",
+  "description": "A hangover-cure Italian dish featuring a garlic-infused, molten Cacio e Pepe sauce served with a tender and flaky fish fillet, made with shio-cure and no added sugar.",
+  "cuisine": "Italian",
+  "diet": [
+    "sugar-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod Fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Shio-Cure Capers",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "2 teaspoons",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Pecorino Romano",
+      "amount": "1 cup",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1 cup",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "Black Olives",
+      "amount": "1/4 cup",
+      "notes": "pitted and sliced"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Dry White Wine",
+      "amount": "2 cups",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Season the cod fillets with salt and pepper.",
+    "Add the garlic to the skillet and saut\u000089 until fragrant, about 1 minute.",
+    "Add the capers to the skillet and cook for 1 minute, until they start to brown.",
+    "Add the cod fillets to the skillet and cook for 2-3 minutes per side, until cooked through.",
+    "Remove the cod from the skillet and set aside.",
+    "Add the white wine to the skillet and cook until reduced by half, about 2 minutes.",
+    "Stir in the Pecorino Romano and Parmesan cheese until melted and smooth.",
+    "Return the cod to the skillet and spoon some of the Cacio e Pepe sauce over the top of each fillet.",
+    "Garnish with parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "fish",
+    "garlic",
+    "hangover-cure",
+    "italian",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "garlicky-molten-italian-fish-fillet-cacio-e-pepe",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-molten-italian-fish-fillet-cacio-e-pepe",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:16:07Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "molten",
+    "mood": "hangover-cure",
+    "technique": "shio-cure",
+    "primaryIngredient": "fish fillet",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "fish fillet",
+    "descriptor": "garlicky molten",
+    "dishForm": "Cacio E Pepe"
+  }
+}
