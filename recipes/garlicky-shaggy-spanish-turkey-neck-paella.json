@@ -1,0 +1,114 @@
+{
+  "title": "Garlicky Shaggy Spanish Turkey Neck Paella",
+  "description": "A nostalgic Spanish dish featuring turkey neck, rice, and vegetables, all combined in a garlicky and flavorful way.",
+  "cuisine": "spanish",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Turkey necks",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Arborio rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Spanish saffron",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Artichoke hearts",
+      "amount": "1 can",
+      "notes": "drained and chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium heat.",
+    "Sear the turkey necks until browned on all sides, then set aside.",
+    "Add the minced garlic and sauté until fragrant.",
+    "Add the sliced red onion and cook until translucent.",
+    "Add the Arborio rice and stir to coat with the oil and mix with the vegetables.",
+    "Add the smoked paprika, saffron, salt, and black pepper, and stir to combine.",
+    "Add the chicken broth, 2 cups of water, and the turkey necks to the pan.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Stir in the chopped artichoke hearts and cook for an additional 2 minutes.",
+    "Serve the paella hot, garnished with lemon wedges and chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "one-pan",
+    "spanish",
+    "valencian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 44,
+    "fat": 26
+  },
+  "slug": "garlicky-shaggy-spanish-turkey-neck-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-shaggy-spanish-turkey-neck-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:36:06Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "shaggy",
+    "mood": "nostalgic",
+    "technique": "knead",
+    "primaryIngredient": "turkey neck",
+    "diet": "dairy-free",
+    "region": "valencian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "turkey neck",
+    "descriptor": "Garlicky Shaggy",
+    "dishForm": "Paella"
+  }
+}
