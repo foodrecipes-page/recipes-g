@@ -14099,6 +14099,19 @@
     "shard": "g"
   },
   {
+    "slug": "grassy-venezuelan-dish-tacos",
+    "title": "Grassy Venezuelan Tacos",
+    "tags": [
+      "gluten-free",
+      "one-pan",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 95,
+    "shard": "g"
+  },
+  {
     "slug": "grassy-venezuelan-mars-bar-agemono",
     "title": "Grassy Venezuelan Mars Bar Agemono",
     "tags": [
