@@ -1,0 +1,118 @@
+{
+  "title": "Glassy-jelly Ukrainian Salad Tart",
+  "description": "A unique Ukrainian dish consisting of a glassy-jelly filling inside a katsuramuki-cut puff pastry tart. Suitable for a solo dinner.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Puff pastry",
+      "amount": "1 sheet (approx. 14 oz)",
+      "notes": "Thawed according to package instructions"
+    },
+    {
+      "name": "Cottage cheese",
+      "amount": "8 oz",
+      "notes": "Plain, unflavored"
+    },
+    {
+      "name": "Chopped fresh dill",
+      "amount": "1/4 cup",
+      "notes": "Reserve some for garnish"
+    },
+    {
+      "name": "Chopped fresh chives",
+      "amount": "1/4 cup",
+      "notes": "Reserve some for garnish"
+    },
+    {
+      "name": "Grated carrot",
+      "amount": "1 medium",
+      "notes": "Use a vegetable peeler to get thin strips"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Unflavored gelatin",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Walnuts",
+      "amount": "1/2 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C). Line a baking sheet with parchment paper.",
+    "Roll out the puff pastry to a thickness of about 1/8 inch (3 mm).",
+    "Cut the pastry into a 9-inch (23 cm) square.",
+    "Transfer the pastry to the prepared baking sheet.",
+    "Cut the pastry into katsuramuki-cut shapes, about 1 inch (2.5 cm) wide.",
+    "In a small bowl, mix together the cottage cheese, chopped dill, chopped chives, grated carrot, granulated sugar, unflavored gelatin, lemon juice, and salt.",
+    "Spread the cheese mixture on one half of the pastry, leaving a 1/2 inch (1 cm) border.",
+    "Fold the other half of the pastry over the filling and press the edges to seal.",
+    "Bake the tart for 25-30 minutes, or until the pastry is golden brown.",
+    "While the tart is baking, toast the chopped walnuts in a small skillet over medium heat, stirring frequently.",
+    "Remove the tart from the oven and let it cool for 5 minutes.",
+    "Drizzle the olive oil over the tart and sprinkle with toasted walnuts.",
+    "Garnish with additional chopped fresh dill and chives, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "glassy-jelly",
+    "katsuramuki-cut",
+    "puff-pastry",
+    "raw-friendly",
+    "salad",
+    "solo-dinner",
+    "ukrainian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "glassy-jelly-ukrainian-salad-tart",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/glassy-jelly-ukrainian-salad-tart",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:02:06Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "glassy-jelly",
+    "mood": "solo-dinner",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "puff pastry",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "ukrainian",
+    "mainIngredient": "salad",
+    "descriptor": "glassy-jelly",
+    "dishForm": "tart"
+  }
+}
