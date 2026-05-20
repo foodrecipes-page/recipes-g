@@ -1,0 +1,118 @@
+{
+  "title": "Garlicky Aerated Dutch Galangal Pasta",
+  "description": "A unique twist on traditional pasta featuring the aromatic flavors of galangal and a paleo-friendly pasta water emulsion. Cooked to perfection on a Binchotan grill for a smoky depth of flavor.",
+  "cuisine": "dutch",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "galangal",
+      "amount": "3 medium pieces",
+      "notes": ""
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "1 bag (for grilling)",
+      "notes": ""
+    },
+    {
+      "name": "pasta",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "grated carrot",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 large piece",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic oil",
+      "amount": "4 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "almonds",
+      "amount": "1 cup (for garnish)",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 bunch (for garnish)",
+      "notes": ""
+    },
+    {
+      "name": "pasta water",
+      "amount": "1 cup",
+      "notes": "for emulsion"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook pasta according to package instructions until al dente.",
+    "In a separate saucepan, combine grated carrot, ginger, and chicken broth. Bring to a simmer over medium heat and cook until the carrot is tender, about 5 minutes.",
+    "Grill the binchotan charcoal in a grill or grill pan until smoky and well charred, about 10 minutes.",
+    "Add garlic oil to the saucepan with the carrot mixture and stir to combine.",
+    "In a blender or food processor, combine the pasta water, lemon juice, and garlic oil mixture. Blend until the mixture becomes aerated and frothy, about 5 minutes.",
+    "To assemble the dish, combine cooked pasta, sauce, and charred galangal in a serving dish. Garnish with toasted almonds and fresh parsley"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "emulsion",
+    "grilled",
+    "paleo",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 20,
+    "carbs": 70,
+    "fat": 30
+  },
+  "slug": "garlicky-aerated-dutch-galangal-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-aerated-dutch-galangal-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:41:01Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "aerated",
+    "mood": "crowd-pleaser",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "galangal",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "galangal",
+    "descriptor": "garlicky aerated",
+    "dishForm": "Pasta"
+  }
+}
