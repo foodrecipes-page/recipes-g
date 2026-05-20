@@ -1,0 +1,133 @@
+{
+  "title": "Gooey Chilli Quedo Kenyan Stew",
+  "description": "A sour and gooey Kenyan stew with a nostalgic twist, featuring tamarind and chilli powder. This recipe is perfect for a weeknight dinner, serving 6 people in under 1 hour.",
+  "cuisine": "kenyan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tamarind paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chilli powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "tadka oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "tuna",
+      "amount": "1 can (drained and flaked)",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (full-fat)",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander leaves",
+      "amount": "1/4 cup (chopped)",
+      "notes": ""
+    },
+    {
+      "name": "scotch bonnet chilli",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the tadka oil in a cataplana over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the chilli powder and cook for 1 minute, until fragrant.",
+    "Add the tomatoes and cook for 5 minutes, until they start to break down.",
+    "Add the tuna, coconut milk, fish sauce, salt, black pepper, and water. Stir to combine.",
+    "Bring the stew to a simmer and cook for 15 minutes, until the sauce has thickened slightly.",
+    "Add the coriander leaves and scotch bonnet chilli. Stir to combine.",
+    "Reduce the heat to low and cook for a further 5 minutes, until the stew is heated through.",
+    "Serve hot, garnished with additional coriander leaves if desired.",
+    "Garnish with scotch bonnet chilli if desired.",
+    "Serve with rice or roti, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "fish-free",
+    "gooey",
+    "high-calorie",
+    "kenyan",
+    "one-pan",
+    "sour",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 35
+  },
+  "slug": "gooey-chilli-quedo-kenyan-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-chilli-quedo-kenyan-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:27:28Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "gooey",
+    "mood": "nostalgic",
+    "technique": "tadka",
+    "primaryIngredient": "chilli powder",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Sour",
+    "descriptor": "Gooey Chilli Quedo",
+    "dishForm": "Stew"
+  }
+}
