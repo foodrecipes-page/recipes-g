@@ -1,0 +1,94 @@
+{
+  "title": "garlicky peruvian shrimp shupe",
+  "description": "a light, nostalgic peruvian dish featuring shrimp, garlic, and pretzels, perfect for a weeknight meal. dairy-free-friendly and easily made on the grill.",
+  "cuisine": "peruvian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pretzels",
+      "amount": "1/2 cup",
+      "notes": "broken into pieces"
+    },
+    {
+      "name": "gruyère cheese",
+      "amount": "1/2 cup",
+      "notes": "dairy-free alternative such as soy cheese or vegan gruyère"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "dairy-free broth or stock"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing shrimp and grilling"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "preheat grill to medium-high heat and brush shrimp with olive oil.",
+    "grill shrimp for 2-3 minutes per side, or until pink and cooked through.",
+    "in a large pot, melt gruyère cheese over medium heat.",
+    "add chicken broth, garlic, and pretzels to the pot and stir to combine.",
+    "add cooked shrimp to the pot and stir to coat with the gruyère sauce.",
+    "season with salt and black pepper to taste.",
+    "serve the shrimp hot, garnished with additional gruyère cheese and pretzels if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "grill-friendly",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "garlicky-peruvian-shrimp-shrimp-chupe",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-peruvian-shrimp-shrimp-chupe",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:03:47Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "light",
+    "mood": "nostalgic",
+    "technique": "grill",
+    "primaryIngredient": "pretzels",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Garlicky",
+    "dishForm": "Shrimp Chupe"
+  }
+}
