@@ -610,6 +610,20 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-adventurous-spanish-potatoes-patatas-bravas",
+    "title": "Patatas Bravas",
+    "tags": [
+      "gluten-free",
+      "one-pan",
+      "spanish",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 50,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-aerated-canadian-halibut-poke",
     "title": "Garlicky Aerated Canadian Halibut Poke",
     "tags": [

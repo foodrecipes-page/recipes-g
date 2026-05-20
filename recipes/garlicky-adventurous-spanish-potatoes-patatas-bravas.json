@@ -1,0 +1,123 @@
+{
+  "title": "Patatas Bravas",
+  "description": "A classic Spanish dish featuring crispy fried potatoes in a spicy tomato sauce, garnished with parsley and garlic.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "4 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the potatoes into 1-inch cubes and place them in a bowl of cold water to remove excess starch.",
+    "Heat the olive oil in a large frying pan over medium-high heat.",
+    "Remove the potatoes from the water and pat them dry with paper towels.",
+    "Fry the potatoes in batches until they are golden brown, about 3-4 minutes per batch.",
+    "Drain the fried potatoes on paper towels and set them aside.",
+    "In the same pan, add the chopped garlic and cook until fragrant, about 1 minute.",
+    "Add the smoked paprika, salt, and black pepper to the pan and cook for 1 minute.",
+    "Add the red pepper flakes, if using, and cook for another minute.",
+    "Add the tomato sauce to the pan and stir to combine with the garlic and spices.",
+    "Bring the sauce to a simmer and cook for 2-3 minutes, until it has thickened slightly.",
+    "Add the fried potatoes to the sauce and stir to combine.",
+    "Garnish with chopped fresh parsley and a squeeze of lemon juice.",
+    "Serve the Patatas Bravas hot, garnished with additional parsley if desired.",
+    "Let the Patatas Bravas rest for 10 minutes before serving to allow the flavors to meld together.",
+    "This dish is best served immediately, as the potatoes will absorb the sauce and become soggy if left to sit for too long.",
+    "Patatas Bravas can be made ahead of time and refrigerated or frozen for later use, but they are best served fresh.",
+    "To reheat the Patatas Bravas, heat them in a pan over low heat, adding a splash of olive oil if necessary to prevent the potatoes from sticking.",
+    "If reheating from frozen, thaw the Patatas Bravas overnight in the refrigerator and then reheat them as above."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "gluten-free",
+    "one-pan",
+    "spanish",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "garlicky-adventurous-spanish-potatoes-patatas-bravas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-adventurous-spanish-potatoes-patatas-bravas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:21:17Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "shaggy",
+    "mood": "adventurous",
+    "technique": "brine-dry",
+    "primaryIngredient": "parsley",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "potatoes",
+    "descriptor": "Garlicky Adventurous",
+    "dishForm": "Patatas Bravas"
+  }
+}
