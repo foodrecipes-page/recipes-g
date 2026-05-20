@@ -1,0 +1,125 @@
+{
+  "title": "Glazed Gourmet Italian Ume-Plum Iron-Teppan Frittata",
+  "description": "A shattering Italian frittata featuring ume-plum and herbs, perfect for a date-night dinner.",
+  "cuisine": "Italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ume-plums",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "eggs",
+      "amount": "6",
+      "notes": "large"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra-virgin"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "raw"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "iron-teppan seasoning",
+      "amount": "1 tsp",
+      "notes": "herbal blend"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "kosher"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat the iron-teppan to 375°F (190°C) in a well-ventilated area.",
+    "Whisk together eggs, ricotta cheese, parmesan cheese, parsley, basil, garlic, salt, and black pepper in a bowl.",
+    "Heat olive oil in the preheated iron-teppan over medium heat.",
+    "Add ume-plums to the iron-teppan and sear for 2-3 minutes on each side.",
+    "Pour the egg mixture over the ume-plums and cook for 2-3 minutes or until the edges start to set.",
+    "Drizzle honey and lemon juice over the frittata and sprinkle with iron-teppan seasoning.",
+    "Transfer the iron-teppan to the oven and bake for 15-20 minutes or until the frittata is cooked through.",
+    "Remove the iron-teppan from the oven and let it cool for 2-3 minutes.",
+    "Slide the frittata out of the iron-teppan onto a plate and serve hot.",
+    "Repeat the process with the remaining ingredients if desired.",
+    "Serve immediately and enjoy!",
+    "Note: Be careful when handling hot iron-teppans and use a utensil to carefully slide the frittata out of the pan."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory-friendly",
+    "date-night",
+    "high-protein",
+    "italian",
+    "one-pan",
+    "ume-plum"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 12,
+    "fat": 18
+  },
+  "slug": "glazed-gourmet-italian-ume-plum-iron-teppan-frittata",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/glazed-gourmet-italian-ume-plum-iron-teppan-frittata",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:28:47Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "shattering",
+    "mood": "date-night",
+    "technique": "en-croute",
+    "primaryIngredient": "ume-plum",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "ume-plum",
+    "descriptor": "Glazed Gourmet",
+    "dishForm": "Iron-Teppan Frittata"
+  }
+}
