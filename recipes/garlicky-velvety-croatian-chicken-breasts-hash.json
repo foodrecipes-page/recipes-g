@@ -1,0 +1,91 @@
+{
+  "title": "Garlicky Velvety Croatian Chicken Breasts Hash",
+  "description": "A low-sodium-friendly croatian dish featuring chicken breasts, deep-fried potatoes, and a hint of garlic. Serve hot and enjoy!",
+  "cuisine": "Croatian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "1 kg",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "120 ml",
+      "notes": "for frying"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": "for dusting chicken breasts"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "25 g",
+      "notes": "chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a cast-iron skillet over medium-high heat.",
+    "Season the chicken breasts with salt and dust with flour, shaking off excess.",
+    "Add the chicken breasts to the skillet and sear until golden brown, about 3-4 minutes per side.",
+    "Transfer the chicken breasts to a plate and set aside.",
+    "Add the diced potatoes to the skillet and cook until golden brown, about 10-12 minutes, stirring occasionally.",
+    "Add the minced garlic to the skillet and cook for 1 minute, stirring constantly to prevent burning.",
+    "Return the chicken breasts to the skillet and simmer for 5-7 minutes, or until cooked through.",
+    "Garnish with chopped parsley and serve hot.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "crasian",
+    "garlicky",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 60,
+    "carbs": 60,
+    "fat": 40
+  },
+  "slug": "garlicky-velvety-croatian-chicken-breasts-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-velvety-croatian-chicken-breasts-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:28:58Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "velvety",
+    "mood": "midnight-craving",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "chicken breasts",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "chicken breasts",
+    "descriptor": "garlicky velvety",
+    "dishForm": "Hash"
+  }
+}
