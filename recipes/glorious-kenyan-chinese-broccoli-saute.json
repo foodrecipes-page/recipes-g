@@ -1,0 +1,102 @@
+{
+  "title": "glorious kenyan chinese broccoli saut\u000447",
+  "description": "spicy and fluffy kenyan dish that showcases chinese broccoli, made with a pressure cooker and is shojin-friendly.",
+  "cuisine": "kenyan chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chinese broccoli",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "kale",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "heat coconut oil in a pressure cooker over medium heat.",
+    "add onion, garlic, and ginger and saut\u00159 until softened.",
+    "add chinese broccoli and kale and saut\u00159 for 2 minutes.",
+    "add chili flakes, soy sauce, rice vinegar, salt, and black pepper and stir to combine.",
+    "close pressure cooker and cook for 5 minutes.",
+    "release pressure and stir in toasted sesame seeds.",
+    "serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "pressure-cooker",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "glorious-kenyan-chinese-broccoli-saute",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/glorious-kenyan-chinese-broccoli-saute",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:09:01Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "fluffy",
+    "mood": "show-off",
+    "technique": "pressure-cook",
+    "primaryIngredient": "chinese broccoli",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Chinese broccoli",
+    "descriptor": "Glorious",
+    "dishForm": "Sauté"
+  }
+}

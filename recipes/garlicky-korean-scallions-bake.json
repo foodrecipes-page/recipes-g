@@ -1,0 +1,107 @@
+{
+  "title": "Garlicky Korean Scallions Bake",
+  "description": "A delicious, low-calorie, and easy-to-make dish from the Chungcheong province of Korea, perfect for a sick day. Scallions are the star of the show in this garlicky bake.",
+  "cuisine": "Korean",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Scallions",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chopped green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crushed sesame seeds",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Toasted sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Trim the scallions and separate them into individual rings.",
+    "In a large bowl, whisk together sesame oil, minced garlic, grated ginger, salt, and black pepper.",
+    "Add the scallion rings to the bowl and toss to coat with the garlic-ginger mixture.",
+    "Transfer the scallion mixture to a baking dish and top with chopped green onions and crushed sesame seeds.",
+    "Bake for 20 minutes or until the scallions are tender and slightly caramelized.",
+    "Remove from the oven and drizzle with toasted sesame oil if using.",
+    "Sprinkle with Korean chili flakes if desired.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "korean",
+    "low-calorie",
+    "one-pan",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "garlicky-korean-scallions-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-korean-scallions-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:08:58Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "shaggy",
+    "mood": "sick-day",
+    "technique": "bake",
+    "primaryIngredient": "scallions",
+    "diet": "low-calorie",
+    "region": "chungcheong",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "scallions",
+    "descriptor": "garlicky",
+    "dishForm": "bake"
+  }
+}

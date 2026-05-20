@@ -1,0 +1,92 @@
+{
+  "title": "Gentle Hangover Russian Celery Broth",
+  "description": "A fresh and springy hangover cure featuring celery, a low-glycemic-friendly Russian dish made with a poached broth and served in a clay pot. Perfect for a morning pick-me-up.",
+  "cuisine": "russian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "celery",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "dill",
+      "amount": "1 sprig"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium"
+    }
+  ],
+  "instructions": [
+    "Cut the celery and carrots into bite-sized pieces.",
+    "Peel and chop the onion and mince the garlic.",
+    "In a large clay pot, combine the chicken broth, celery, carrots, onion, and garlic.",
+    "Bring the mixture to a boil over high heat, then reduce the heat to low and simmer for 20 minutes.",
+    "Add the lemon juice and dill to the pot and continue to simmer for another 10 minutes.",
+    "Mash the potatoes in a separate bowl and stir them into the pot.",
+    "Season the broth with salt and pepper to taste.",
+    "Serve the hangover broth hot in small clay bowls.",
+    "Garnish with additional dill and lemon wedges if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hangover-cure",
+    "low-glycemic",
+    "one-bowl",
+    "poached-broth",
+    "spring-veggies",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 6
+  },
+  "slug": "gentle-hangover-russian-celery-broth",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/gentle-hangover-russian-celery-broth",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:09:25Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "springy",
+    "mood": "hangover-cure",
+    "technique": "poach",
+    "primaryIngredient": "celery",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "celery",
+    "descriptor": "Gentle Hangover",
+    "dishForm": "Broth"
+  }
+}

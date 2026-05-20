@@ -3327,6 +3327,21 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-korean-scallions-bake",
+    "title": "Garlicky Korean Scallions Bake",
+    "tags": [
+      "easy",
+      "korean",
+      "low-calorie",
+      "one-pan",
+      "snack",
+      "weeknight"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-light-algerian-hazelnuts-tagine",
     "title": "Garlicky Light Algerian Hazelnuts Tagine",
     "tags": [
@@ -5391,6 +5406,21 @@
     "shard": "g"
   },
   {
+    "slug": "gentle-hangover-russian-celery-broth",
+    "title": "Gentle Hangover Russian Celery Broth",
+    "tags": [
+      "hangover-cure",
+      "low-glycemic",
+      "one-bowl",
+      "poached-broth",
+      "spring-veggies",
+      "weeknight"
+    ],
+    "cuisine": "russian",
+    "totalTimeMin": 45,
+    "shard": "g"
+  },
+  {
     "slug": "gentle-healing-saudi-arabian-custard-tagine",
     "title": "Gentle Healing Saudi Arabian Custard Tagine",
     "tags": [
@@ -5476,6 +5506,19 @@
     ],
     "cuisine": "Mexican",
     "totalTimeMin": 180,
+    "shard": "g"
+  },
+  {
+    "slug": "gentle-pillowy-tunisian-oat-tagine",
+    "title": "gentle pillowy tunisian oat tagine",
+    "tags": [
+      "comfort-food",
+      "herbal",
+      "oat-based",
+      "sick-day"
+    ],
+    "cuisine": "tunisian",
+    "totalTimeMin": 20,
     "shard": "g"
   },
   {
@@ -8353,6 +8396,20 @@
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 40,
+    "shard": "g"
+  },
+  {
+    "slug": "glorious-kenyan-chinese-broccoli-saute",
+    "title": "glorious kenyan chinese broccoli saut\u000447",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "pressure-cooker",
+      "vegan"
+    ],
+    "cuisine": "kenyan chinese",
+    "totalTimeMin": 15,
     "shard": "g"
   },
   {

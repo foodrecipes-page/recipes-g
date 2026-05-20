@@ -1,0 +1,96 @@
+{
+  "title": "gentle pillowy tunisian oat tagine",
+  "description": "a soothing and comforting tunisian-inspired dish featuring oat milk and tempering chocolate, perfect for a sick day. the pillowy texture and herbal flavors will help ease your symptoms.",
+  "cuisine": "tunisian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "oat milk",
+      "amount": "2 cups",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "2 tablespoons",
+      "notes": "at least 75% cocoa"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "fresh"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "in a raclette grill or heavy-bottomed pot, toast the oats over low heat, stirring frequently, until lightly browned and fragrant.",
+    "in a blender or food processor, combine the oat milk, tempering chocolate, ginger, lemon juice, honey, cinnamon, and cayenne pepper (if using).",
+    "transfer the blended mixture to the raclette grill or pot with the toasted oats.",
+    "cook over low heat, stirring occasionally, until the mixture has thickened and the oats are fully incorporated, about 10 minutes.",
+    "remove from heat and let cool slightly.",
+    "serve warm, garnished with a sprinkle of cinnamon or a drizzle of honey, if desired.",
+    "note: if using a raclette grill, you can also cook the tagine in individual portions by pouring the mixture into the grill's wells and cooking for 2-3 minutes on each side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "herbal",
+    "oat-based",
+    "sick-day"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "gentle-pillowy-tunisian-oat-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/gentle-pillowy-tunisian-oat-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:09:32Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "pillowy",
+    "mood": "sick-day",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "oat milk",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "tunisian",
+    "mainIngredient": "oat",
+    "descriptor": "gentle pillowy",
+    "dishForm": "tagine"
+  }
+}
