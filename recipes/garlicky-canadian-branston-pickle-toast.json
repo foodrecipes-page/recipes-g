@@ -1,0 +1,109 @@
+{
+  "title": "Garlicky Canadian Branston-Pickle Toast",
+  "description": "A nostalgic Canadian dish featuring Branston pickle, perfect for a high-protein friendly snack or light lunch.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Branston pickle",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Bread",
+      "amount": "4 slices",
+      "notes": "whole wheat or white bread, crust removed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Cream cheese",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Cracked black pepper",
+      "amount": "for garnish",
+      "notes": ""
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "for garnish",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Spread 1 tablespoon of butter on each bread slice.",
+    "Toast the bread slices until lightly browned.",
+    "Mash the garlic cloves and mix with the cream cheese in a bowl.",
+    "Spread the garlic-cream cheese mixture evenly on each toasted bread slice.",
+    "Top each bread slice with 1 tablespoon of Branston pickle, followed by a sprinkle of salt and black pepper.",
+    "Garnish with chopped fresh parsley and a sprinkle of cracked black pepper, if desired.",
+    "Cut the toast into halves or quarters, depending on your preference.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian",
+    "easy",
+    "high-protein",
+    "homemade",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 28,
+    "fat": 10
+  },
+  "slug": "garlicky-canadian-branston-pickle-toast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-canadian-branston-pickle-toast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:04:30Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "bouncy-qq",
+    "mood": "nostalgic",
+    "technique": "simmer",
+    "primaryIngredient": "branston-pickle",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "branston-pickle",
+    "descriptor": "garlicky",
+    "dishForm": "toast"
+  }
+}

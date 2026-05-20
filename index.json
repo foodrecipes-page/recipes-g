@@ -871,6 +871,21 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-canadian-branston-pickle-toast",
+    "title": "Garlicky Canadian Branston-Pickle Toast",
+    "tags": [
+      "canadian",
+      "easy",
+      "high-protein",
+      "homemade",
+      "snack",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 15,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-canadian-salmon-chowder",
     "title": "Garlicky Canadian Salmon Chowder",
     "tags": [],
