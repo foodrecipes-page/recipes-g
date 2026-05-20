@@ -1,0 +1,91 @@
+{
+  "title": "Glassy-jelly Irish Rhubarb Stew",
+  "description": "A sweet and tangy stew made with forced rhubarb, malty bhuna paste and dairy-free-friendly ingredients, all cooked in one pot.",
+  "cuisine": "Irish",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Forced rhubarb",
+      "amount": "500g"
+    },
+    {
+      "name": "Bhuna paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Dairy-free butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "White sugar",
+      "amount": "150g"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "75g"
+    },
+    {
+      "name": "Balsamic vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Oatmeal",
+      "amount": "50g"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece"
+    }
+  ],
+  "instructions": [
+    "In a large pot, melt the dairy-free butter over medium heat.",
+    "Add the bhuna paste and cook, stirring constantly, for 1 minute.",
+    "Add the rhubarb, white sugar, brown sugar, balsamic vinegar, oatmeal and ginger to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes, or until the rhubarb is tender and the sauce has thickened.",
+    "Remove the pot from the heat and let it cool slightly.",
+    "Use a fork to mash the rhubarb and break up any large pieces.",
+    "Return the pot to the heat and simmer, uncovered, for an additional 5 minutes, or until the sauce has thickened to your liking.",
+    "Serve the stew hot, garnished with additional oatmeal if desired.",
+    "This stew can be made ahead and refrigerated for up to 3 days or frozen for up to 3 months.",
+    "Reheat the stew over low heat, stirring occasionally, until warmed through.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "high-fiber",
+    "one-pan",
+    "spring",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 60,
+    "fat": 8
+  },
+  "slug": "glassy-jelly-irish-rhubarb-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/glassy-jelly-irish-rhubarb-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:18:16Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "glassy-jelly",
+    "mood": "one-pot",
+    "technique": "bhuna",
+    "primaryIngredient": "forced-rhubarb",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Rhubarb",
+    "descriptor": "Glassy-jelly",
+    "dishForm": "Stew"
+  }
+}
