@@ -1,0 +1,128 @@
+{
+  "title": "Garlicky and Snappy Mediterranean Lamb Kidney Dumplings",
+  "description": "A comforting Mediterranean dish featuring lamb kidney and savory dumplings, perfect for a cozy evening meal.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "macrobiotic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb kidney",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh oregano",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the lamb kidney, onion, garlic, parsley, oregano, salt, and black pepper, and mix well until just combined.",
+    "Add the flour to the bowl and mix until the lamb mixture is evenly coated.",
+    "Gradually add the egg and water to the bowl, mixing until a dough forms.",
+    "Knead the dough for 5 minutes until smooth and elastic.",
+    "Cut the dough into 12 equal pieces, and roll each piece into a ball.",
+    "Flatten each ball into a disk, and place a tablespoon of the lamb mixture in the center of each disk.",
+    "Fold the dough over the filling, and press the edges together to seal the dumpling.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "When the oil is hot, add the dumplings to the skillet and cook for 2-3 minutes on each side, or until golden brown.",
+    "Transfer the dumplings to a baking dish, and spoon the yogurt and lemon juice mixture over the top of each dumpling.",
+    "Bake the dumplings in a preheated oven at 375°F (190°C) for 15-20 minutes, or until cooked through and golden brown.",
+    "Serve the dumplings hot, garnished with additional parsley and lemon wedges if desired.",
+    "To make the yogurt and lemon juice mixture, combine the yogurt and lemon juice in a small bowl and mix well until smooth."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dumplings",
+    "easy-dinner",
+    "kidney",
+    "lamb",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 24
+  },
+  "slug": "garlicky-and-snappy-mediterranean-lamb-kidney-dumplings",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-and-snappy-mediterranean-lamb-kidney-dumplings",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:15:54Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "snappy",
+    "mood": "comforting",
+    "technique": "dum",
+    "primaryIngredient": "lamb kidney",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Lamb Kidney",
+    "descriptor": "Garlicky and Snappy",
+    "dishForm": "Dumplings"
+  }
+}
