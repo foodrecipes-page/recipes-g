@@ -1,0 +1,105 @@
+{
+  "title": "Glistening Dehydrated Malaysian Noodles Bowl",
+  "description": "Umami, silky, and ayurvedic-rajasic-friendly, this meal-prep dish combines the flavors of Malaysia with the convenience of dehydrated noodles.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Red rice noodles",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "Thai sweet basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Horapa",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Tamari",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Kale",
+      "amount": "1 cup",
+      "notes": "curly-leaf, stems removed and chopped"
+    },
+    {
+      "name": "Shiitake mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Soak the red rice noodles in water for at least 4 hours or overnight.",
+    "In a blender or food processor, combine the vegetable broth, coconut oil, ginger, Thai sweet basil, horapa, tamari, and maple syrup. Blend until smooth.",
+    "In a large skillet, heat the blended mixture over medium heat. Add the kale and shiitake mushrooms. Cook until the kale is wilted and the mushrooms are tender.",
+    "Add the cooked noodle mixture to the skillet and stir to combine. Cook for an additional 2-3 minutes.",
+    "Transfer the mixture to a wooden board or serving platter.",
+    "Dehydrate the noodle mixture in a food dehydrator at 135°F (57°C) for 1-2 hours, or until dry and slightly flexible.",
+    "Break the dehydrated noodles into smaller pieces and serve in individual bowls.",
+    "Garnish with additional Thai sweet basil and horapa, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "dehydrated",
+    "meal-prep",
+    "rajasic",
+    "silky",
+    "umami",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "glistening-dehydrated-malaysian-noodles-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/glistening-dehydrated-malaysian-noodles-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T19:18:33Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "silky",
+    "mood": "meal-prep",
+    "technique": "dehydrate",
+    "primaryIngredient": "thai-sweet-basil-horapa",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Noodles",
+    "descriptor": "Glistening Dehydrated",
+    "dishForm": "Bowl"
+  }
+}
