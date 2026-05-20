@@ -1,0 +1,63 @@
+{
+  "title": "Gooey Midnight Polish Treacle Hash",
+  "description": "A bitter, chewy, and indulgent Polish dish that's perfect for midnight cravings, made with treacle on a brine-wet low-calorie-friendly tava-griddle.",
+  "cuisine": "Polish",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Treacle",
+      "amount": "1/2 cup",
+      "notes": " Dark molasses-like syrup"
+    }
+  ],
+  "instructions": [
+    "Heat the tava-griddle over medium heat.",
+    "Sprinkle a small amount of water to check the heat, the water should sizzle and evaporate quickly.",
+    "In a large bowl, mix together the treacle, 1/4 cup of low-calorie-friendly vinegar, and 1/4 cup of water.",
+    "Add 1 tablespoon of mustard seeds and mix well.",
+    "Add the mixture to the preheated tava-griddle and spread it evenly.",
+    "Let it cook for 5 minutes on the first side, until the edges start to set.",
+    "Flip the hash and cook for an additional 2-3 minutes, until the second side is caramelized and sticky.",
+    "Let it cool for a minute before slicing and serving.",
+    "Slice the hash into small pieces and serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 7,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "low-calorie",
+    "midnight",
+    "one-pan",
+    "polish",
+    "tava-griddle",
+    "treacle",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 6
+  },
+  "slug": "gooey-midnight-polish-treacle-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-midnight-polish-treacle-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:17:30Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "chewy",
+    "mood": "midnight-craving",
+    "technique": "brine-wet",
+    "primaryIngredient": "treacle",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "treacle",
+    "descriptor": "Gooey Midnight",
+    "dishForm": "Hash"
+  }
+}
