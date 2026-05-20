@@ -1,0 +1,109 @@
+{
+  "title": "Garlicky Molten Canadian Cheese Poutine",
+  "description": "A midnight craving Canadian dish that combines garlic, saffron, and shio-cure flavors with melted cheese and crispy fries.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Russet Potatoes",
+      "amount": "2 lb",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Shio-Cure Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Saffron",
+      "amount": "1/2 tsp",
+      "notes": "threads, soaked in 1 tsp hot water"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Mascarpone Cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "2 sprigs",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the potatoes into 1/2-inch thick rounds and soak in cold water for at least 30 minutes to remove excess starch.",
+    "Drain the potatoes and pat dry with paper towels.",
+    "Heat the vegetable oil in a large pot to 375°F (190°C) and fry the potatoes in batches until golden brown, about 3-4 minutes per batch.",
+    "Drain the fried potatoes on paper towels and set aside.",
+    "In a separate saucepan, melt the butter over medium heat and cook the minced garlic until fragrant, about 1 minute.",
+    "Add the flour to the saucepan and cook for 1 minute, stirring constantly.",
+    "Slowly pour in the beef broth, whisking continuously to avoid lumps.",
+    "Bring the mixture to a simmer and cook until thickened, about 5-7 minutes.",
+    "Stir in the mascarpone cheese until melted and smooth.",
+    "Add the shredded cheddar cheese and stir until melted and well combined.",
+    "Season the cheese sauce with shio-cure salt and soaked saffron threads.",
+    "To assemble the poutine, place a portion of fries in a bowl, top with a ladle of the cheese sauce, and garnish with fresh thyme sprigs.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "comfort-food",
+    "high-calorie",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 24,
+    "carbs": 64,
+    "fat": 54
+  },
+  "slug": "garlicky-molten-canadian-cheese-poutine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-molten-canadian-cheese-poutine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:12:40Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "molten",
+    "mood": "midnight-craving",
+    "technique": "shio-cure",
+    "primaryIngredient": "saffron",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Cheese",
+    "descriptor": "Garlicky Molten",
+    "dishForm": "Poutine"
+  }
+}

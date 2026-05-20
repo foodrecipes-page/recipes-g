@@ -3161,6 +3161,19 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-molten-canadian-cheese-poutine",
+    "title": "Garlicky Molten Canadian Cheese Poutine",
+    "tags": [
+      "canadian",
+      "comfort-food",
+      "high-calorie",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 50,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-molten-canadian-garlic-gratin",
     "title": "garlicky molten canadian garlic gratin",
     "tags": [
