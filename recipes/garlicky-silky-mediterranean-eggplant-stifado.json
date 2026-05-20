@@ -1,0 +1,109 @@
+{
+  "title": "Garlicky Silky Mediterranean Eggplant Stifado",
+  "description": "A rich, garlicky eggplant dish inspired by Mediterranean cuisine, perfect for post-workout recovery. This stifado is an Ayurvedic-tamasic-friendly twist on traditional recipes.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "use a good quality oil for best flavor"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "use low-sodium broth for a healthier option"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "ayurvedic tamasic-friendly sweetener"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1",
+      "notes": "mediterranean staple"
+    },
+    {
+      "name": "flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup",
+      "notes": "for flambe (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Sauté the onion until softened, about 5 minutes.",
+    "Add the garlic and sauté for another minute, until fragrant.",
+    "Add the eggplant and sauté until tender, about 10 minutes.",
+    "Add the chicken broth, lemon juice, honey, and bay leaf. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Add the flour and stir to thicken the sauce.",
+    "If desired, flambe the dish with a small amount of red wine for added flavor.",
+    "Serve hot, garnished with fresh parsley or oregano.",
+    "Let the dish rest for 10 minutes before serving to allow the flavors to meld."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flambe",
+    "high-fiber",
+    "mediterranean",
+    "post-workout",
+    "tamasic-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "garlicky-silky-mediterranean-eggplant-stifado",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-silky-mediterranean-eggplant-stifado",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:09:36Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "silky",
+    "mood": "post-workout",
+    "technique": "flambe",
+    "primaryIngredient": "bay leaf",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "eggplant",
+    "descriptor": "garlicky silky",
+    "dishForm": "Stifado"
+  }
+}
