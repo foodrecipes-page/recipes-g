@@ -1,0 +1,65 @@
+{
+  "title": "Garlicky Crumbly Brazilian Shrimp Feijoada",
+  "description": "A diabetic-friendly, garlicky Brazilian dish featuring shrimp stock, shio-koji-cure, and a crumbly texture, served in banana leaves.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "shrimp stock",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "shio-koji-cured shrimp",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "black beans",
+      "amount": "1 cup",
+      "notes": "cooked"
+    }
+  ],
+  "instructions": [
+    "Combine shrimp stock, black beans, and shio-koji-cured shrimp in a large pot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "garlic-lovers",
+    "low-carb",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "garlicky-crumbly-brazilian-shrimp-feijoada",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-crumbly-brazilian-shrimp-feijoada",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:05:21Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crumbly",
+    "mood": "meal-prep",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "shrimp stock",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Shrimp",
+    "descriptor": "Garlicky Crumbly",
+    "dishForm": "Feijoada"
+  }
+}
