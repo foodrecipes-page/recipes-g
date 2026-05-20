@@ -1,0 +1,87 @@
+{
+  "title": "Gooey Energizing Syrian Shrimp Dumplings",
+  "description": "A sour, gooey, energizing Syrian dish featuring shrimp paste and tempering-chocolate. Suitable for macrobiotic-friendly diets.",
+  "cuisine": "Syrian",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "rice flour",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "shrimp paste",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "250ml",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "shredded tempering-chocolate",
+      "amount": "150g",
+      "notes": ""
+    },
+    {
+      "name": "yogurt",
+      "amount": "",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Mix rice flour and shrimp paste in a bowl until well combined.",
+    "Add water to the bowl and knead the dough for 10 minutes.",
+    "Divide the dough into 12 equal pieces and shape each into a ball.",
+    "Roll each ball into a thin circle, about 10 cm in diameter.",
+    "Heat a non-stick pan over medium heat and cook the dumplings for 2 minutes on each side, until golden brown.",
+    "Add shredded tempering-chocolate to the pan and stir to melt.",
+    "Cook for an additional 1 minute, until the chocolate is gooey and the dumplings are coated.",
+    "Serve hot, garnished with yogurt if desired.",
+    "Optional: chill in the refrigerator for 10 minutes to help the dumplings hold their shape better."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "dumplings",
+    "high-protein",
+    "syrian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 180,
+    "fat": 40
+  },
+  "slug": "gooey-energizing-syrian-shrimp-dumplings",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-energizing-syrian-shrimp-dumplings",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:00:09Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "gooey",
+    "mood": "energizing",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "shrimp paste",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "shrimp",
+    "descriptor": "gooey energizing",
+    "dishForm": "Dumplings"
+  }
+}
