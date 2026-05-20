@@ -9599,6 +9599,22 @@
     "shard": "g"
   },
   {
+    "slug": "golden-grilled-duck-lomo-saltado-pastry",
+    "title": "Golden Grilled Duck Lomo Saltado Pastry",
+    "tags": [
+      "grilled",
+      "lomo-saltado",
+      "low-sodium",
+      "one-pan",
+      "pastry",
+      "peruvian",
+      "weeknight"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "golden-grilled-greek-lamb-skewers",
     "title": "Golden Grilled Greek Lamb Skewers",
     "tags": [
