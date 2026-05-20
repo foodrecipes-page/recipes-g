@@ -1,0 +1,98 @@
+{
+  "title": "Grassy Brazilian Rice Bake",
+  "description": "A gooey, comforting lacto-vegetarian dish featuring tomato sauce and tempering chocolate, perfect for a lazy Sunday.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "long grain rice",
+      "amount": "250g"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "200ml"
+    },
+    {
+      "name": "shredded coconut",
+      "amount": "60g"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "40g"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "40g"
+    },
+    {
+      "name": "firm tofu",
+      "amount": "120g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2g"
+    },
+    {
+      "name": "salt",
+      "amount": "1.5g"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "In a large saucepan, combine the tomato sauce, shredded coconut, unsalted butter, tempering chocolate, firm tofu, onion, garlic, and ground cumin. Stir until the butter has melted.",
+    "Bring the mixture to a simmer over medium heat, then reduce the heat to low and let it cook for 10 minutes, stirring occasionally.",
+    "Add the cooked long grain rice to the saucepan and stir to combine.",
+    "Transfer the rice mixture to a baking dish and smooth the top.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the top is lightly browned.",
+    "Remove the dish from the oven and let it cool for 5 minutes before serving.",
+    "Serve hot, garnished with chopped fresh herbs if desired (optional)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "lacto-vegetarian",
+    "one-pan",
+    "sunday-brunch",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 22,
+    "carbs": 90,
+    "fat": 22
+  },
+  "slug": "grassy-brazilian-rice-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/grassy-brazilian-rice-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:14:58Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "gooey",
+    "mood": "lazy-sunday",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "tomato sauce",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "rice",
+    "descriptor": "grassy",
+    "dishForm": "bake"
+  }
+}
