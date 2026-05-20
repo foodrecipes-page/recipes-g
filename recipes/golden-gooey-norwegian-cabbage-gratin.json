@@ -1,0 +1,106 @@
+{
+  "title": "Golden Gooey Norwegian Cabbage Gratin",
+  "description": "A hearty, comforting dish featuring hispi sweetheart cabbage, rest meat, and a crispy golden crust. Perfect for a weeknight dinner.",
+  "cuisine": "Norwegian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Hispi Sweetheart Cabbage",
+      "amount": "1 medium head",
+      "notes": ""
+    },
+    {
+      "name": "Rest Meat (such as pork or beef)",
+      "amount": "8 oz",
+      "notes": "Shredded or diced"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tbsp",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1/2 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "1 tsp",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C). ",
+    "Arrange the cabbage and meat in a single layer in 6-8 ramekins. ",
+    "Melt 2 tablespoons of butter in a small saucepan over medium heat. ",
+    "Add the flour and whisk to combine. Cook for 1-2 minutes, until lightly golden. ",
+    "Gradually pour in the chicken broth, whisking to avoid lumps. Bring to a simmer and cook for 2-3 minutes, until the mixture thickens. ",
+    "Remove from heat and stir in the heavy cream, if using. Season with salt and pepper to taste. ",
+    "Pour the sauce over the cabbage and meat in the ramekins. ",
+    "Dot the top of each ramekin with the remaining 2 tablespoons of butter. ",
+    "Cover with foil and bake for 20-25 minutes, until the cabbage is tender and the top is golden brown. ",
+    "Remove the foil and continue baking for an additional 5-10 minutes, until the top is crispy and golden. ",
+    "Serve hot, garnished with chopped fresh thyme, if desired. ",
+    "Let cool for a few minutes before serving.",
+    "Let cool completely before refrigerating or freezing for later."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cabbage",
+    "high-protein",
+    "norwegian",
+    "one-pan",
+    "paleo-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 20,
+    "fat": 28
+  },
+  "slug": "golden-gooey-norwegian-cabbage-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-gooey-norwegian-cabbage-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:02:02Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "molten",
+    "mood": "weeknight",
+    "technique": "rest-meat",
+    "primaryIngredient": "hispi sweetheart cabbage",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Cabbage",
+    "descriptor": "Golden Gooey",
+    "dishForm": "Gratin"
+  }
+}
