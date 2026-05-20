@@ -1,0 +1,111 @@
+{
+  "title": "Garlicky British Cottage Pie",
+  "description": "A comforting, savory dish featuring a crispy mashed potato topping, a moist beef filling infused with the flavors of garlic, romano pepper, and yuzu-cure, all within a sugar-free framework.",
+  "cuisine": "British",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Finely Chopped Onion",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "6 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Romano Pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Yuzu-Cure",
+      "amount": "2 tablespoons",
+      "notes": "Make sure to use a sugar-free yuzu-cure."
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "250ml",
+      "notes": ""
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "Mashed Potatoes",
+      "amount": "800g",
+      "notes": "Choose high-moisture, high-starch potatoes for best results."
+    },
+    {
+      "name": "Grated Cheddar Cheese",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large pan over medium-high heat, cook the ground beef until browned. Drain excess fat.",
+    "Add the chopped onion, garlic, and romano pepper to the pan and continue to cook until the onion is translucent.",
+    "Add the yuzu-cure and stir to combine. Cook for 1 minute.",
+    "Add the tomato paste, beef broth, and flour to the pan, stirring to combine. Bring the mixture to a simmer and cook until the sauce thickens.",
+    "Transfer the beef mixture to a 9x13 inch baking dish. Spread the mashed potatoes evenly over the top.",
+    "Sprinkle the grated cheddar cheese over the mashed potatoes. Season with salt and pepper to taste.",
+    "Bake the cottage pie in the preheated oven for 35 minutes, or until the potatoes are golden brown and the filling is hot and bubbly."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "british",
+    "comfort-food",
+    "cottage-pie",
+    "garlic",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 80,
+    "carbs": 100,
+    "fat": 70
+  },
+  "slug": "garlicky-british-cottage-pie",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-british-cottage-pie",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:07:53Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crisp",
+    "mood": "light",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "romano pepper",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Romano Pepper",
+    "descriptor": "Garlicky",
+    "dishForm": "Cottage Pie"
+  }
+}

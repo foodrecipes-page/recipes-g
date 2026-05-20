@@ -888,6 +888,21 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-british-cottage-pie",
+    "title": "Garlicky British Cottage Pie",
+    "tags": [
+      "beef",
+      "british",
+      "comfort-food",
+      "cottage-pie",
+      "garlic",
+      "sugar-free"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 60,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-canadian-branston-pickle-toast",
     "title": "Garlicky Canadian Branston-Pickle Toast",
     "tags": [
