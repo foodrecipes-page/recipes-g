@@ -100,6 +100,22 @@
     "shard": "g"
   },
   {
+    "slug": "garden-fresh-mediterranean-salad-terracotta-dish",
+    "title": "Garden-fresh Mediterranean salad terracotta-dish",
+    "tags": [
+      "gluten-free",
+      "low-carb",
+      "mediterranean",
+      "salad",
+      "side-dish",
+      "vegan",
+      "whole30"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 10,
+    "shard": "g"
+  },
+  {
     "slug": "garden-fresh-mediterranean-vegetable-tacos",
     "title": "Garden Fresh Mediterranean Vegetable Tacos",
     "tags": [
@@ -13389,6 +13405,22 @@
     ],
     "cuisine": "Kenyan",
     "totalTimeMin": 30,
+    "shard": "g"
+  },
+  {
+    "slug": "grilled-golden-filipino-chicken-pilaf",
+    "title": "Grilled Golden Filipino Chicken Pilaf",
+    "tags": [
+      "citrusy",
+      "comfort-food",
+      "filipino",
+      "low-sodium",
+      "one-pan",
+      "pilaf",
+      "weeknight"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 45,
     "shard": "g"
   },
   {

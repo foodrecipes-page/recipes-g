@@ -1,0 +1,108 @@
+{
+  "title": "Grilled Golden Filipino Chicken Pilaf",
+  "description": "A classic Filipino dish with a citrusy twist, featuring tender chicken, fluffy rice, and aromatic spices.",
+  "cuisine": "Filipino",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds"
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "2 1/4 cups"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion, chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "freshly squeezed lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large non-stick skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the chicken thighs and cook until browned on both sides, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of oil to the skillet.",
+    "Add the cumin and cook for 1 minute, until fragrant.",
+    "Add the cooked rice to the skillet, breaking up any clumps with a spatula.",
+    "Add the water to the skillet and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 18-20 minutes, or until the liquid has been absorbed.",
+    "Fluff the rice with a fork and stir in the fish sauce and lime juice.",
+    "Return the chicken to the skillet and stir to combine with the rice and sauce.",
+    "Season with salt to taste and garnish with chopped cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "comfort-food",
+    "filipino",
+    "low-sodium",
+    "one-pan",
+    "pilaf",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "grilled-golden-filipino-chicken-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/grilled-golden-filipino-chicken-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T14:56:22Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "pillowy",
+    "mood": "nostalgic",
+    "technique": "deglaze",
+    "primaryIngredient": "cumin",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Chicken",
+    "descriptor": "Grilled Golden",
+    "dishForm": "Pilaf"
+  }
+}
