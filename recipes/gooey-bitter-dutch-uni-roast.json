@@ -1,0 +1,75 @@
+{
+  "title": "Gooey Bitter Dutch Uni Roast",
+  "description": "A rich, savory, and slightly bitter post-workout Dutch dish featuring seared uni and a gooey keto-friendly roast. This dish combines the ocean's finest with a hearty, comforting Dutch flavor profile.",
+  "cuisine": "Dutch",
+  "diet": [
+    "keto",
+    "high-protein"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Uni (1 dozen)",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Roast Beef (1.5 lbs)",
+      "amount": "1.5 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Roast Beef Fat (6 tbsp)",
+      "amount": "6 tbsp",
+      "notes": "use for basting"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400\u00120F (200\u00120C).",
+    "Season the roast beef with salt, pepper, and a pinch of paprika. ",
+    "Heat a large Dutch oven over medium-high heat and sear the roast beef on all sides until browned.",
+    "Transfer the roast beef to a plate and set aside. ",
+    "Reduce heat to medium and add the roast beef fat to the Dutch oven. ",
+    "Sear the uni on all sides until golden brown. ",
+    "Return the roast beef to the Dutch oven and cover with a lid. ",
+    "Bake for 45 minutes, then remove the lid and bake for an additional 15 minutes. ",
+    "Remove from the oven and let rest for 5 minutes before slicing. ",
+    "Slice the roast beef against the grain and serve with seared uni. ",
+    "Garnish with fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 5,
+    "fat": 44
+  },
+  "slug": "gooey-bitter-dutch-uni-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-bitter-dutch-uni-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:50:11Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "gooey",
+    "mood": "post-workout",
+    "technique": "roast",
+    "primaryIngredient": "uni",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "uni",
+    "descriptor": "Gooey Bitter",
+    "dishForm": "Roast"
+  }
+}
