@@ -14476,6 +14476,20 @@
     "shard": "g"
   },
   {
+    "slug": "grilled-smoky-turkish-lamb-kebap",
+    "title": "Grilled Smoky Turkish Lamb Kebap",
+    "tags": [
+      "grilled",
+      "high-protein",
+      "kebap",
+      "turkish-food",
+      "weeknight"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 38,
+    "shard": "g"
+  },
+  {
     "slug": "grilled-spicy-thai-beef-tacos",
     "title": "Grilled Spicy Thai Beef Tacos",
     "tags": [

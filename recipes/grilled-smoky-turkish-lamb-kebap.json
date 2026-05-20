@@ -1,0 +1,112 @@
+{
+  "title": "Grilled Smoky Turkish Lamb Kebap",
+  "description": "A flavorful and aromatic Turkish kebap made with tender lamb, crispy bread, and crumbly cheese. Serve immediately to experience the full smoky flavor.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground lamb",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Grana Padano cheese",
+      "amount": "120g",
+      "notes": ""
+    },
+    {
+      "name": "Bread (preferably day-old)",
+      "amount": "4 slices",
+      "notes": "toasted"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "",
+      "additional": 1
+    },
+    {
+      "name": "Black pepper",
+      "amount": null,
+      "notes": "",
+      "additional": 1
+    },
+    {
+      "name": "Ti leaf",
+      "amount": null,
+      "notes": "large, for wrapping"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (200-220C).",
+    "Mix lamb, Grana Padano cheese, smoked paprika, salt, and black pepper in a large bowl until just combined.",
+    "Do not overmix the meat mixture, as it will become tough.",
+    "Form the mixture into 8-10 skewers, about 3-4 inches each.",
+    "Thread a slice of bread onto the skewer, followed by a piece of lamb, a few slices of red onion, and a sprinkle of chopped garlic.",
+    "Repeat the process until the skewer is filled, leaving a small space at the end for easy handling.",
+    "Brush the grill grates with a small amount of oil to prevent sticking.",
+    "Place the skewers on the grill and cook for 8-10 minutes per side, or until the lamb reaches an internal temperature of 63C.",
+    "While the skewers are cooking, toast the bread slices on the grill until crispy.",
+    "Once the skewers are cooked, brush them with a little oil and wrap each one in a large Ti leaf.",
+    "Arrange on a plate and serve immediately with the toasted bread on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "kebap",
+    "turkish-food",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 25,
+    "fat": 35
+  },
+  "slug": "grilled-smoky-turkish-lamb-kebap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/grilled-smoky-turkish-lamb-kebap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:10:32Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crumbly",
+    "mood": "show-off",
+    "technique": "toast",
+    "primaryIngredient": "grana-padano",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "Grilled, Smoky",
+    "dishForm": "Kebap"
+  }
+}
