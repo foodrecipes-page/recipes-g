@@ -1,0 +1,102 @@
+{
+  "title": "Gooey Adventurous Ukrainian Boudin-Blanc Pierogi",
+  "description": "Savory Ukrainian pierogi filled with boudin blanc, topped with a manteca-re emulsion and garnished with fresh herbs. This recipe is Ayurvedic sattvic-friendly and perfect for a satisfying dinner.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups",
+      "notes": ""
+    },
+    {
+      "name": "warm water",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "boudin blanc",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "melted manteca",
+      "amount": "1/4 cup",
+      "notes": "for the emulsion"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": "for the emulsion"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Combine flour, warm water, and salt in a large mixing bowl and knead until smooth.",
+    "Roll out the dough to a thickness of 1/8 inch.",
+    "Use a round cookie cutter to cut out circles of dough.",
+    "Place a tablespoon of boudin blanc in the center of each dough circle and fold the dough in half to form a half-circle shape.",
+    "Press the edges together with a fork to seal the pierogi.",
+    "Bring a large pot of salted water to a boil and cook the pierogi for 5 minutes.",
+    "Meanwhile, prepare the manteca emulsion by whisking together melted manteca, apple cider vinegar, and a pinch of salt.",
+    "Drain the pierogi and serve hot with the manteca emulsion spooned over the top and garnished with fresh parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "ukrainian",
+    "veggie-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "gooey-adventurous-ukrainian-boudin-blanc-pierogi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-adventurous-ukrainian-boudin-blanc-pierogi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:57:47Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "gooey",
+    "mood": "adventurous",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "boudin-blanc",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Boudin-Blanc",
+    "descriptor": "Gooey Adventurous",
+    "dishForm": "Pierogi"
+  }
+}
