@@ -1,0 +1,107 @@
+{
+  "title": "Garlicky Crispy Peruvian Lamb Bowl",
+  "description": "A flavorful Peruvian-inspired dish featuring crispy lamb leg, crispy potatoes, and a side of spicy slaw.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb leg",
+      "amount": "1, 1.9 kg"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "3, 500g"
+    },
+    {
+      "name": "Corn oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1, 250g"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix together Korean chili flakes, garlic powder, ground cumin, salt, and black pepper.",
+    "Rub the spice mixture all over the lamb leg, making sure to coat it evenly.",
+    "Heat 2 tablespoons of corn oil in a large oven-safe skillet over medium-high heat.",
+    "Sear the lamb leg for 2-3 minutes on each side, or until browned.",
+    "Transfer the skillet to the oven and roast the lamb leg for 20 minutes, or until it reaches an internal temperature of 63°C.",
+    "While the lamb is cooking, peel the potatoes and cut them into 1-inch wedges.",
+    "Heat 2 tablespoons of corn oil in a large saucepan over medium-high heat.",
+    "Add the potato wedges to the saucepan and fry until crispy, about 5-7 minutes.",
+    "Drain the potatoes on paper towels and season with salt.",
+    "In a small bowl, mix together lime juice and chopped cilantro.",
+    "In a separate bowl, mix together chopped red onion and lime juice mixture.",
+    "To assemble the dish, place a portion of crispy potatoes in the bottom of a Korean brass bowl, followed by a slice of roasted lamb leg, and finally a spoonful of spicy slaw.",
+    "Garnish with additional cilantro if desired."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 30,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "high-protein",
+    "lamb",
+    "one-pan",
+    "peruvian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 30,
+    "fat": 32
+  },
+  "slug": "garlicky-crispy-peruvian-lamb-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-crispy-peruvian-lamb-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:27:33Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crispy",
+    "mood": "brunch-mood",
+    "technique": "knead",
+    "primaryIngredient": "lamb leg",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "lamb",
+    "descriptor": "Garlicky Crispy",
+    "dishForm": "Bowl"
+  }
+}
