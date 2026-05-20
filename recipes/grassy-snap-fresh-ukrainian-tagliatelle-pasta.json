@@ -1,0 +1,129 @@
+{
+  "title": "Grassy Snap-fresh Ukrainian Tagliatelle Pasta",
+  "description": "A hangover-cure dish featuring tagliatelle, katsuramuki-cut, fodmap-friendly and served in a corn-husk wrap. The grassy notes of the Ukrainian dill and fresh parsley create a refreshing taste experience.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten-free",
+    "fodmap-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Tagliatelle",
+      "amount": "400g",
+      "notes": ""
+    },
+    {
+      "name": "Ukrainian dill",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Rapeseed oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Mixed mushrooms",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Corn-husk wrap",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "Fodmap-friendly sausage",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the tagliatelle according to the package instructions.",
+    "In a large skillet, heat the rapeseed oil over medium heat and add the minced garlic. Cook for 1-2 minutes until fragrant.",
+    "Add the mixed mushrooms to the skillet and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the Ukrainian dill and fresh parsley to the skillet and cook for an additional 1-2 minutes until wilted.",
+    "Add the cooked tagliatelle to the skillet and toss with the mushroom and herb mixture.",
+    "Season with salt and pepper to taste.",
+    "In a separate pan, cook the fodmap-friendly sausage until browned, then chop into bite-sized pieces.",
+    "Warm the corn-husk wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "To assemble the dish, place a portion of the tagliatelle mixture onto the center of a corn-husk wrap, followed by a few pieces of the cooked sausage.",
+    "Top with fresh dill and parsley, and fold the bottom half of the wrap up over the filling, then fold in the sides and roll the wrap into a tight cylinder.",
+    "Repeat with the remaining ingredients and serve immediately.",
+    "Garnish with additional fresh herbs, if desired.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "fodmap-friendly",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "grassy-snap-fresh-ukrainian-tagliatelle-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/grassy-snap-fresh-ukrainian-tagliatelle-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:24:15Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "snappy",
+    "mood": "hangover-cure",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "tagliatelle",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Tagliatelle",
+    "descriptor": "Grassy, snap-fresh",
+    "dishForm": "Pasta"
+  }
+}
