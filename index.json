@@ -2900,6 +2900,19 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-jamaican-fish-stew",
+    "title": "Garlicky Jamaican Fish Stew",
+    "tags": [
+      "fish-friendly",
+      "gluten-free",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "jamaican",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-japanese-miso-ramen",
     "title": "Garlicky Japanese Miso Ramen with Tadka and Pink Hue",
     "tags": [

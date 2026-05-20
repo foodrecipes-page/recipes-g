@@ -1,0 +1,129 @@
+{
+  "title": "Garlicky Jamaican Fish Stew",
+  "description": "A flavorful and spicy stew from Jamaica, featuring garlic, fish, and a hint of vanilla. This recipe is perfect for a solo dinner, and is gluten-free friendly.",
+  "cuisine": "jamaican",
+  "diet": [
+    "gluten-free",
+    "fish-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Snapper fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla pod",
+      "amount": "1",
+      "notes": "For added depth of flavor"
+    },
+    {
+      "name": "Scotch bonnet peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Allspice",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup",
+      "notes": "For added creaminess"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Gluten-free all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": "To thicken the stew"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the fish fillets and cook until browned on both sides, about 3 minutes per side.",
+    "Remove the fish from the pot and set aside.",
+    "Reduce heat to medium and add the garlic, onion, bell pepper, and tomato to the pot.",
+    "Cook until the vegetables are softened, about 5 minutes.",
+    "Add the scotch bonnet peppers, allspice, thyme, salt, and black pepper to the pot, and cook for 1 minute.",
+    "Add the vanilla pod, coconut milk, and water to the pot, and stir to combine.",
+    "Return the fish to the pot and simmer until cooked through, about 8-10 minutes.",
+    "Stir in the gluten-free flour to thicken the stew.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "fish-friendly",
+    "gluten-free",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 60,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "garlicky-jamaican-fish-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-jamaican-fish-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:42:39Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "juicy",
+    "mood": "solo-dinner",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "vanilla pod",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "fish",
+    "descriptor": "garlicky",
+    "dishForm": "Stew"
+  }
+}
