@@ -1,0 +1,88 @@
+{
+  "title": "Garlicky Juicy Ukrainian Brie Cazuela",
+  "description": "Indulgent Ukrainian dish featuring brie cheese, cured with shio-koji and served in a hearty cazuela.",
+  "cuisine": "ukrainian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "brie cheese",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix together shio-koji and 1 tablespoon of water to make a paste.",
+    "In a large cazuela, heat 1 tablespoon of olive oil over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the brie cheese and cook until melted and bubbly, about 2-3 minutes.",
+    "Add the lemon juice and stir to combine.",
+    "Transfer the mixture to a serving dish and top with parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "easy-to-make",
+    "high-protein",
+    "one-pan",
+    "ukrainian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 32,
+    "carbs": 24,
+    "fat": 44
+  },
+  "slug": "garlicky-juicy-ukrainian-brie-cazuela",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-juicy-ukrainian-brie-cazuela",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:57:48Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "juicy",
+    "mood": "indulgent",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "brie",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Brie",
+    "descriptor": "Garlicky Juicy",
+    "dishForm": "Cazuela"
+  }
+}
