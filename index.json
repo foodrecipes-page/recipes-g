@@ -5528,6 +5528,22 @@
     "shard": "g"
   },
   {
+    "slug": "gently-grilled-japanese-beef-gyoza",
+    "title": "Gently Grilled Japanese beef Gyoza",
+    "tags": [
+      "beef",
+      "gyoza",
+      "high-protein",
+      "japanese",
+      "low-glycemic",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 40,
+    "shard": "g"
+  },
+  {
     "slug": "gently-grilled-portuguese-steak-grill",
     "title": "Gently Grilled Portuguese Steak Grill",
     "tags": [

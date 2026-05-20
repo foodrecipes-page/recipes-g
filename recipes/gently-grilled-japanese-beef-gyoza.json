@@ -1,0 +1,98 @@
+{
+  "title": "Gently Grilled Japanese beef Gyoza",
+  "description": "Inspired by the Shikoku region of Japan, this dish is a unique twist on traditional Japanese beef Gyoza, featuring lean minced beef and low-glycemic-friendly ingredients.",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-glycemic",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lean minced beef",
+      "amount": "250g"
+    },
+    {
+      "name": "spring onions",
+      "amount": "100g"
+    },
+    {
+      "name": "ginger",
+      "amount": "20g"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "30ml"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "15ml"
+    },
+    {
+      "name": "cumin",
+      "amount": "5g"
+    },
+    {
+      "name": "salt",
+      "amount": "2g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1g"
+    },
+    {
+      "name": "Gyoza wrappers",
+      "amount": "20 pieces"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine minced beef, spring onions, ginger, soy sauce, sesame oil, cumin, salt, and black pepper. Mix well with your hands until just combined.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Preheat a grill or grill pan to medium-low heat.",
+    "Lay a Gyoza wrapper on a flat surface and place a small spoonful of the beef mixture in the center of the wrapper.",
+    "Dip your finger in a small amount of water and run it along the edges of the wrapper.",
+    "Fold the wrapper into a half-moon shape, pressing the edges together to seal the Gyoza.",
+    "Repeat with the remaining wrappers and filling.",
+    "Place the Gyoza on the grill and cook for 2-3 minutes on the first side, or until the bottom is lightly browned.",
+    "Flip the Gyoza over and cook for an additional 2-3 minutes, or until the other side is also lightly browned.",
+    "Serve the Gyoza hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "gyoza",
+    "high-protein",
+    "japanese",
+    "low-glycemic",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "slug": "gently-grilled-japanese-beef-gyoza",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/gently-grilled-japanese-beef-gyoza",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:33:39Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "springy",
+    "mood": "solo-dinner",
+    "technique": "temper",
+    "primaryIngredient": "lean minced beef",
+    "diet": "low-glycemic",
+    "region": "shikoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "beef",
+    "descriptor": "Gently Grilled",
+    "dishForm": "Gyoza"
+  }
+}
