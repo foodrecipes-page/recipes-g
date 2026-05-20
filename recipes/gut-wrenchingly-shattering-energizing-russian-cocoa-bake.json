@@ -1,0 +1,88 @@
+{
+  "title": "Gut-Wrenchingly Shattering Energizing Russian Cocoa Bake",
+  "description": "A hearty, rich Russian dessert featuring unsweetened cocoa and a wood-fired bake. This cake is perfect for those looking for an egg-free treat.",
+  "cuisine": "Russian",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups",
+      "notes": ""
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": "1 1/4 cups",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "large ground almonds",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "large whole almonds",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "large whole coffee beans",
+      "amount": "2 tbsp",
+      "notes": "coarsely ground"
+    },
+    {
+      "name": "large ground cinnamon",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a wood-fired oven to 375°F (190°C)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "cocoa",
+    "egg-free",
+    "high-fat",
+    "russian",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 1440,
+    "protein": 16,
+    "carbs": 180,
+    "fat": 64
+  },
+  "slug": "gut-wrenchingly-shattering-energizing-russian-cocoa-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/gut-wrenchingly-shattering-energizing-russian-cocoa-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:45:31Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "shattering",
+    "mood": "energizing",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "unsweetened cocoa",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "russian",
+    "mainIngredient": "cocoa",
+    "descriptor": "gut-wrenchingly shattering energizing",
+    "dishForm": "bake"
+  }
+}
