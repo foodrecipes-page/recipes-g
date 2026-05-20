@@ -1,0 +1,109 @@
+{
+  "title": "Garlicky Creamy Peruvian Onion Fried-Rice",
+  "description": "A halal-friendly, flavorful Peruvian dish made with yellow onion and fried in agemono style. Prepare for a meal prep meal that is both creamy and spicy.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "halal",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yellow onion",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3-4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (400ml)",
+      "notes": "full-fat"
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups cooked",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2-3 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of vegetable oil in a large wok or frying pan over medium-high heat.",
+    "Add thinly sliced yellow onion and cook until golden brown, about 5 minutes.",
+    "Add minced garlic and cook for an additional 1-2 minutes until fragrant.",
+    "In a separate bowl, whisk together coconut milk, soy sauce (if using), salt, pepper, cumin powder, and chili flakes (if using).",
+    "Pour the coconut milk mixture over the cooked onion mixture and stir to combine.",
+    "Add cooked rice to the wok or frying pan and stir-fry for about 2-3 minutes until everything is well combined.",
+    "Transfer the mixture to a serving dish and garnish with additional chopped onion, if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "meal-prep",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 22
+  },
+  "slug": "garlicky-creamy-peruvian-onion-fried-rice",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-creamy-peruvian-onion-fried-rice",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:22:13Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "creamy",
+    "mood": "meal-prep",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "yellow onion",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "peruvian",
+    "mainIngredient": "onion",
+    "descriptor": "garlicky creamy",
+    "dishForm": "Fried-Rice"
+  }
+}
