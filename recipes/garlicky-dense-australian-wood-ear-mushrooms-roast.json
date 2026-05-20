@@ -1,0 +1,99 @@
+{
+  "title": "Garlicky Dense Australian Wood Ear Mushrooms Roast",
+  "description": "A date-night Australian dish featuring wood ear mushrooms, perfect for a special occasion. The combination of garlic, herbs, and spices creates a rich and aromatic flavor profile.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "wood ear mushrooms",
+      "amount": "250g"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 sprig"
+    },
+    {
+      "name": "rosemary",
+      "amount": "1 sprig"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Toss the wood ear mushrooms with olive oil, garlic, thyme, and rosemary in a bowl.",
+    "Season the potatoes and carrots with salt and pepper.",
+    "In a separate bowl, whisk together lemon juice and olive oil.",
+    "Place the potatoes and carrots on a baking sheet and drizzle with the lemon juice mixture.",
+    "Roast the vegetables in the oven for 20 minutes.",
+    "Add the wood ear mushrooms to the baking sheet and continue roasting for another 10 minutes.",
+    "Remove the baking sheet from the oven and let it cool for a few minutes.",
+    "Serve the roasted vegetables hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "australian",
+    "date-night",
+    "roast",
+    "vegan",
+    "wood-ear-mushrooms"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 16
+  },
+  "slug": "garlicky-dense-australian-wood-ear-mushrooms-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-dense-australian-wood-ear-mushrooms-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:30:49Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "dense",
+    "mood": "date-night",
+    "technique": "roast",
+    "primaryIngredient": "wood ear mushrooms",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "wood ear mushrooms",
+    "descriptor": "garlicky dense",
+    "dishForm": "Roast"
+  }
+}
