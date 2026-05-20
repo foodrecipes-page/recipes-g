@@ -11739,6 +11739,21 @@
     "shard": "g"
   },
   {
+    "slug": "gooey-rich-tunisian-grape-juice-tagine",
+    "title": "Gooey Rich Tunisian Grape Juice Tagine",
+    "tags": [
+      "grape-juice",
+      "keto",
+      "one-pot",
+      "tagine",
+      "tunisian",
+      "vegetarian"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 50,
+    "shard": "g"
+  },
+  {
     "slug": "gooey-roasted-turkish-jerusalem-artichoke-stir-fry",
     "title": "Gooey Roasted Turkish Jerusalem Artichoke Stir-fry",
     "tags": [
@@ -12715,6 +12730,20 @@
     ],
     "cuisine": "Norwegian",
     "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
+    "slug": "gourmet-grilled-algerian-tabasco-sauce-stir-fry",
+    "title": "Gourmet Grilled Algerian Tabasco Sauce Stir-fry",
+    "tags": [
+      "algerian",
+      "brunch",
+      "high-protein",
+      "one-pan",
+      "vegetarian"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 22,
     "shard": "g"
   },
   {
