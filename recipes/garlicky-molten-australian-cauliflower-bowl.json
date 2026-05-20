@@ -1,0 +1,107 @@
+{
+  "title": "Garlicky Molten Australian Cauliflower Bowl",
+  "description": "A lazy Sunday dish featuring roasted cauliflower, binchotan-charcoal, and a variety of flavors. Perfect for a high-protein meal.",
+  "cuisine": "australian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cauliflower",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "6 pieces",
+      "notes": ""
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": "shaved"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    " Rinse the cauliflower and break it into florets.",
+    "Drizzle the binchotan charcoal pieces with a little bit of oil and roast in the oven for 10 minutes.",
+    "Roast the cauliflower in the oven for 15-20 minutes, or until tender.",
+    "In a small bowl, mix together the ghee, garlic, lemon juice, chili flakes, salt, and black pepper.",
+    "Once the cauliflower is done, toss it with the ghee mixture until well coated.",
+    "Transfer the cauliflower to a serving bowl and top with shaved parmesan cheese and fresh parsley.",
+    "Drizzle a little bit of oil over the dish and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "dairy-friendly",
+    "high-protein",
+    "mushroom-free",
+    "one-pan",
+    "pescatarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "garlicky-molten-australian-cauliflower-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-molten-australian-cauliflower-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:49:52Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "molten",
+    "mood": "lazy-sunday",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "cauliflower",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "cauliflower",
+    "descriptor": "garlicky molten",
+    "dishForm": "bowl"
+  }
+}
