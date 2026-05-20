@@ -1,0 +1,53 @@
+{
+  "title": "Gloriously Garnished Irish Kaffir-lime-leaf Stew Bowl",
+  "description": "A flavorful and visually stunning Irish dish featuring kaffir-lime-leaf, served in a stone bowl and garnished with fresh herbs.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Irish lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of olive oil in a large Dutch oven over medium-high heat."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "high-protein",
+    "irish-cuisine",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 960,
+    "protein": 64,
+    "carbs": 20,
+    "fat": 56
+  },
+  "slug": "gloriously-garnished-irish-kaffir-lime-leaf-stew-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/gloriously-garnished-irish-kaffir-lime-leaf-stew-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:12:57Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "springy",
+    "mood": "show-off",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "kaffir-lime-leaf",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Kaffir-lime-leaf",
+    "descriptor": "Gloriously Garnished",
+    "dishForm": "Stew"
+  }
+}
