@@ -3946,6 +3946,21 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-ukrainian-fish-grill",
+    "title": "Garlicky Ukrainian Fish Grill",
+    "tags": [
+      "fish",
+      "fodmap-friendly",
+      "grill",
+      "high-protein",
+      "ukrainian",
+      "weeknight"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 27,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-ukrainian-garlic-borscht-air-fry",
     "title": "Garlicky Ukrainian Garlic Borscht Air-Fry",
     "tags": [
@@ -8108,6 +8123,23 @@
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
+    "slug": "goey-moroccan-dates-tagine",
+    "title": "Gooey Moroccan Dates Tagine",
+    "tags": [
+      "ayurvedic",
+      "dates",
+      "gluten-free",
+      "moroccan",
+      "sattvic",
+      "vegan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 45,
     "shard": "g"
   },
   {

@@ -1,0 +1,116 @@
+{
+  "title": "Garlicky Ukrainian Fish Grill",
+  "description": "A garlicky, crumbly, show-off Ukrainian dish featuring fish seasoning, roasted to perfection on a robata grill.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fresh Cod Fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Paprika",
+      "amount": "2 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "Dill Weed",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fish Seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Crushed Almonds",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbled"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium-high heat (400°F).",
+    "Rinse the cod fillets and pat them dry with paper towels.",
+    "Season the cod with fish seasoning, salt, and black pepper.",
+    "In a small bowl, mix together minced garlic, smoked paprika, and dried dill weed.",
+    "Brush the cod fillets with olive oil and apply the garlic-paprika-dill mixture evenly.",
+    "Place the cod fillets on the preheated grill and cook for 3-4 minutes per side, or until cooked through.",
+    "Transfer the cooked cod to a plate and sprinkle with crushed almonds, chopped parsley, and crumbled feta cheese.",
+    "Drizzle with lemon juice and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "fodmap-friendly",
+    "grill",
+    "high-protein",
+    "ukrainian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 60,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "garlicky-ukrainian-fish-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-ukrainian-fish-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T14:54:38Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crumbly",
+    "mood": "show-off",
+    "technique": "robata-grill",
+    "primaryIngredient": "fish seasoning",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Fish",
+    "descriptor": "Garlicky",
+    "dishForm": "Grill"
+  }
+}
