@@ -1,0 +1,119 @@
+{
+  "title": "Garlicky Fluffy Turkish Meat Kofte",
+  "description": "A flavorful and nutritious Turkish dish made with ground meat, onions, and spices, served in a steamed leaf wrap. This recipe is perfect for meal prep or a quick lunch.",
+  "cuisine": "Turkish",
+  "diet": [
+    "meat",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground lamb or beef",
+      "amount": "400g",
+      "notes": "Choose a lean meat for a healthier option"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Finely chop the onion for best results"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "Mince the garlic for the best flavor"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "50g",
+      "notes": "Use gluten-free breadcrumbs for a gluten-free option"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "Use a large egg for binding the kofte"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "Use ground cumin for the best flavor"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "Use sweet paprika for a milder flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Use kosher salt for the best flavor"
+    },
+    {
+      "name": "Clotted cream",
+      "amount": "100g",
+      "notes": "Use as a topping for added richness"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Use as a garnish for added freshness"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Use as a marinade for added flavor"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "Use for cooking the kofte"
+    }
+  ],
+  "instructions": [
+    "Mix the ground meat, onion, garlic, breadcrumbs, egg, cumin, paprika, and salt in a large bowl.",
+    "Use your hands to mix the ingredients until just combined.",
+    "Cover the bowl with plastic wrap and refrigerate for 30 minutes.",
+    "Preheat a steamer basket in a large pot of boiling water.",
+    "Thread the kofte onto skewers, leaving a little space between each one.",
+    "Steam the kofte for 12-15 minutes, or until cooked through.",
+    "Serve the kofte in a steamed leaf wrap with clotted cream, fresh parsley, and a squeeze of lemon juice."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "high-protein",
+    "meal-prep",
+    "one-pan",
+    "turkish-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "garlicky-fluffy-turkish-meat-kofte",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-fluffy-turkish-meat-kofte",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:32:39Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "fluffy",
+    "mood": "meal-prep",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "clotted-cream-extra",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Meat",
+    "descriptor": "Garlicky fluffy",
+    "dishForm": "Kofte"
+  }
+}
