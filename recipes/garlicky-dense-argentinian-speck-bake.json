@@ -1,0 +1,111 @@
+{
+  "title": "Garlicky Dense Argentinian Speck Bake",
+  "description": "A rich and savory bake featuring the flavors of Argentina, made with crispy speck and a variety of spices. This dish is perfect for a quick weeknight dinner.",
+  "cuisine": "Argentinian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Speck",
+      "amount": "12 oz",
+      "notes": "preferably thick-cut"
+    },
+    {
+      "name": "Garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh oregano",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Red wine vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Grated Parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, combine the speck, garlic, parsley, oregano, red pepper flakes, salt, and black pepper.",
+    "Drizzle the olive oil over the speck mixture and toss to combine.",
+    "Transfer the speck mixture to a 9x13-inch baking dish.",
+    "In a small bowl, whisk together the red wine vinegar and butter until smooth.",
+    "Pour the vinegar mixture over the speck mixture and toss to coat.",
+    "Sprinkle the Parmesan cheese over the top of the speck mixture.",
+    "Bake for 25 minutes, or until the speck is crispy and golden brown.",
+    "Remove from the oven and let cool for 5 minutes before serving.",
+    "Garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "comfort-food",
+    "easy-to-make",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 12,
+    "fat": 42
+  },
+  "slug": "garlicky-dense-argentinian-speck-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-dense-argentinian-speck-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:26:28Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "dense",
+    "mood": "light",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "speck",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "speck",
+    "descriptor": "garlicky dense",
+    "dishForm": "Bake"
+  }
+}

@@ -1774,6 +1774,19 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-dense-argentinian-speck-bake",
+    "title": "Garlicky Dense Argentinian Speck Bake",
+    "tags": [
+      "argentinian",
+      "comfort-food",
+      "easy-to-make",
+      "weeknight"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-dense-brazilian-prawns-paella",
     "title": "Garlicky Dense Brazilian Prawns Paella",
     "tags": [
@@ -6249,6 +6262,21 @@
     ],
     "cuisine": "Tunisian",
     "totalTimeMin": 65,
+    "shard": "g"
+  },
+  {
+    "slug": "gingerbread-polish-rye-bread-kaszanka",
+    "title": "Gingerbread Polish Rye Bread Kaszanka",
+    "tags": [
+      "casserole",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 45,
     "shard": "g"
   },
   {

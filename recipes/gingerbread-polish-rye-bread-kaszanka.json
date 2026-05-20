@@ -1,0 +1,91 @@
+{
+  "title": "Gingerbread Polish Rye Bread Kaszanka",
+  "description": "A hearty, low-glycemic-friendly Polish dish featuring rye bread and slow-cooked meat, perfect for a cold winter's night.",
+  "cuisine": "Polish",
+  "diet": [
+    "low-carb",
+    "gluten-free",
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rye bread, cubed",
+      "amount": "2 cups",
+      "notes": "Day-old bread works best."
+    },
+    {
+      "name": "Pork blood",
+      "amount": "1 cup",
+      "notes": "Available at most butcher shops or online."
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Fresh ginger is best."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chop finely for best results."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince for best flavor."
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 tsp",
+      "notes": "Traditional Polish spice."
+    }
+  ],
+  "instructions": [
+    "Heat a large Dutch oven over medium-high heat.",
+    "Add the pork blood and cook, breaking it up with a spoon, until it reaches 160°F (71°C).",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the cubed rye bread and cook, stirring occasionally, until it's lightly toasted.",
+    "Add the grated ginger and caraway seeds, and stir to combine.",
+    "Reduce heat to low and simmer, covered, for 25 minutes.",
+    "Season with salt to taste, then serve hot.",
+    "Serve with a dollop of sour cream, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "gingerbread-polish-rye-bread-kaszanka",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/gingerbread-polish-rye-bread-kaszanka",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:26:39Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "bouncy-qq",
+    "mood": "one-pot",
+    "technique": "slow-cook",
+    "primaryIngredient": "rye bread",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "rye bread",
+    "descriptor": "Gingerbread",
+    "dishForm": "Kaszanka"
+  }
+}
