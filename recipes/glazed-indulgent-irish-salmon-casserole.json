@@ -1,0 +1,104 @@
+{
+  "title": "Glazed Indulgent Irish Salmon Casserole",
+  "description": "A briny, flaky, and indulgent Irish dish featuring pineapple chunks, made with sous-vide salmon and keto-friendly ingredients. This casserole is perfect for a special occasion or a cozy dinner.",
+  "cuisine": "Irish",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salmon fillets",
+      "amount": "4",
+      "notes": "wild-caught, skin removed"
+    },
+    {
+      "name": "pineapple chunks",
+      "amount": "1 cup"
+    },
+    {
+      "name": "irish cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "dried dill weed",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sous-vide eggs",
+      "amount": "4",
+      "notes": "cooked at 145F"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375F.",
+    "Season the salmon fillets with salt, black pepper, and dried dill weed.",
+    "Place the salmon fillets in a sous-vide machine and cook at 120F for 30 minutes.",
+    "In a separate bowl, mix together the sour cream, irish cheddar cheese, and lemon juice.",
+    "Add the pineapple chunks to the bowl and stir until well combined.",
+    "Remove the salmon fillets from the sous-vide machine and place them in a baking dish.",
+    "Pour the pineapple and cheese mixture over the salmon fillets.",
+    "Dot the top of the casserole with butter.",
+    "Bake the casserole in the preheated oven for 15 minutes, or until the top is golden brown.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "irish-cuisine",
+    "keto-friendly",
+    "seafood-lovers",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "glazed-indulgent-irish-salmon-casserole",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/glazed-indulgent-irish-salmon-casserole",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-21T14:56:30Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "flaky",
+    "mood": "indulgent",
+    "technique": "sous-vide",
+    "primaryIngredient": "pineapple chunks",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "salmon",
+    "descriptor": "Glazed Indulgent",
+    "dishForm": "Casserole"
+  }
+}
