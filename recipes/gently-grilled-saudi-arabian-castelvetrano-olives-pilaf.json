@@ -1,0 +1,100 @@
+{
+  "title": "Gently Grilled Saudi Arabian Castelvetrano Olives Pilaf",
+  "description": "A herbal and romantic Saudi Arabian dish featuring castelvetrano olives, served in a banana leaf vessel, macrobiotic friendly and bursting with flavor",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "castelvetrano olives",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "khao khuay rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium heat",
+    "Rinse the rice and soak it in water for 30 minutes",
+    "Drain the rice and grind it into a coarse powder using a food processor",
+    "Heat the olive oil in a pan over medium heat and saute the ground rice until lightly toasted",
+    "Add the salt, black pepper, parsley, and mint to the pan and stir well",
+    "Grill the castelvetrano olives for 2-3 minutes on each side until slightly charred",
+    "Add the grilled olives to the pan and stir well",
+    "Squeeze the lemon juice over the pilaf and stir well",
+    "Spoon the pilaf onto the banana leaves and serve immediately"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "herbal",
+    "macrobiotic",
+    "one-pan",
+    "romantic",
+    "saudi-arabian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "gently-grilled-saudi-arabian-castelvetrano-olives-pilaf",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/gently-grilled-saudi-arabian-castelvetrano-olives-pilaf",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-21T08:12:09Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "bouncy-qq",
+    "mood": "romantic",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "castelvetrano-olives",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "castelvetrano olives",
+    "descriptor": "Gently grilled",
+    "dishForm": "Pilaf"
+  }
+}
