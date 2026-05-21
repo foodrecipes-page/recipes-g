@@ -1,0 +1,126 @@
+{
+  "title": "Garlicky Crisps Norwegian Fish Fry",
+  "description": "A comforting pescatarian-friendly dish featuring red pepper paste, tadka, and crunchy garlicky crisps.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "pescatarian",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Garlic crisps",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Red pepper paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Cornmeal",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Tadka spice mix",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of butter in a large non-stick skillet over medium heat.",
+    "Add the cornmeal and cook, stirring constantly, for 2 minutes.",
+    "Add the cod fillets and cook for 3-4 minutes on each side, or until golden brown and cooked through.",
+    "While the fish is cooking, mix the red pepper paste and tadka spice mix in a small bowl.",
+    "Once the fish is done, remove it from the skillet and set aside.",
+    "Add the remaining 2 tablespoons of butter to the skillet and cook until it has melted.",
+    "Add the breadcrumbs and cook, stirring constantly, for 2 minutes, or until lightly toasted.",
+    "Add the garlic crisps and cook, stirring constantly, for 1 minute, or until crispy.",
+    "Season the breadcrumbs mixture with salt and black pepper to taste.",
+    "Add the chopped parsley to the breadcrumbs mixture and stir to combine.",
+    "Place the cooked cod fillets on a serving plate and top with the breadcrumbs mixture.",
+    "Serve immediately, garnished with additional parsley if desired.",
+    "Crush the garlicky crisps in a bowl using a fork or a rolling pin to make them crunchy.",
+    "Serve the crushed garlicky crisps as a side dish to the fish fry, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "high-protein",
+    "norwegian",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 432,
+    "protein": 36,
+    "carbs": 24,
+    "fat": 26
+  },
+  "slug": "garlicky-crisps-norwegian-fish-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-crisps-norwegian-fish-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:20:18Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crisp",
+    "mood": "comforting",
+    "technique": "tadka",
+    "primaryIngredient": "red pepper paste",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "fish",
+    "descriptor": "garlicky crisps",
+    "dishForm": "Fry"
+  }
+}

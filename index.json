@@ -1364,6 +1364,21 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-crisps-norwegian-fish-fry",
+    "title": "Garlicky Crisps Norwegian Fish Fry",
+    "tags": [
+      "fish",
+      "high-protein",
+      "norwegian",
+      "one-pan",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-crispy-american-chicken-stir-fry",
     "title": "Garlicky Crispy American Chicken Stir-fry",
     "tags": [
