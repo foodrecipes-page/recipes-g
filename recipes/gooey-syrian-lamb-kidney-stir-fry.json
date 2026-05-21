@@ -1,0 +1,111 @@
+{
+  "title": "Gooey Syrian Lamb Kidney Stir-fry",
+  "description": "A funky, gooey brunch-mood Syrian dish featuring lamb kidney, stir-fry, and ayurvedic-tamasic-friendly ingredients.",
+  "cuisine": "Syrian",
+  "diet": [
+    "omnivore",
+    "dairy"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "lamb kidney",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ghee",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "garnish"
+    }
+  ],
+  "instructions": [
+    "Heat ghee in a large bamboo tray over medium-high heat.",
+    "Add lamb kidney and cook until browned on all sides, about 5 minutes.",
+    "Add onion and cook until softened, about 3 minutes.",
+    "Add garlic, cumin, coriander, paprika, black pepper, and salt. Cook for 1 minute.",
+    "Stir in chopped parsley and cook until heated through.",
+    "Serve immediately, garnished with chopped cilantro.",
+    "Cook's note: Be careful not to overcook the lamb kidney, as it can become tough and dry."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "syrian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "gooey-syrian-lamb-kidney-stir-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-syrian-lamb-kidney-stir-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:41:37Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "gooey",
+    "mood": "brunch-mood",
+    "technique": "stir-fry",
+    "primaryIngredient": "lamb kidney",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb kidney",
+    "descriptor": "Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
