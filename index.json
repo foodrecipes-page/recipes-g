@@ -9306,6 +9306,21 @@
     "shard": "g"
   },
   {
+    "slug": "golden-brazilian-corn-pilaf",
+    "title": "Golden Brazilian Corn Pilaf",
+    "tags": [
+      "brazilian-cuisine",
+      "cheese-lovers",
+      "corn-based",
+      "gluten-containing",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
     "slug": "golden-briny-greek-chicken-curry",
     "title": "Golden Briny Greek Chicken Curry",
     "tags": [
