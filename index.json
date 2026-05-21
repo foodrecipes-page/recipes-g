@@ -1560,6 +1560,22 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-crumbly-australian-bread-bread",
+    "title": "Garlicky Crumbly Australian Bread",
+    "tags": [
+      "australian",
+      "bread",
+      "crumbly",
+      "diabetic-friendly",
+      "easy-to-make",
+      "garlicky",
+      "snack"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 50,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-crumbly-brazilian-shrimp-feijoada",
     "title": "Garlicky Crumbly Brazilian Shrimp Feijoada",
     "tags": [
