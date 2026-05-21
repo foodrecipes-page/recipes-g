@@ -1,0 +1,107 @@
+{
+  "title": "Grassy Syrian Duck-Confit-Leg Clay-Pot-Cook",
+  "description": "A crumbly, date-night Syrian dish featuring tender duck confit leg, all clay-pot-cooked with a hint of mint and parsley, served with a side of garlic flatbread.",
+  "cuisine": "Syrian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck legs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Mint",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Parsley",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Flatbread dough",
+      "amount": "1 batch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a clay pot over low heat. ",
+    "Add the duck legs, mint, parsley, garlic, lemon juice, olive oil, salt, and black pepper to the clay pot. ",
+    "Cover the pot and cook for 2 hours. ",
+    "While the duck cooks, prepare the flatbread dough. ",
+    "Divide the dough into 4 equal pieces and roll each into a ball. ",
+    "Heat the ghee in a small pan over medium heat. ",
+    "Add a ball of dough to the pan and cook for 2-3 minutes on each side, until golden brown. ",
+    "Repeat with the remaining dough balls. ",
+    "Serve the duck with the garlic flatbread on the side. ",
+    "Optional: garnish with additional mint and parsley. "
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "high-fat",
+    "middle-eastern",
+    "one-pan",
+    "syrian"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 56,
+    "carbs": 12,
+    "fat": 72
+  },
+  "slug": "grassy-syrian-duck-confit-leg-clay-pot-cook",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/grassy-syrian-duck-confit-leg-clay-pot-cook",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:35:17Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crumbly",
+    "mood": "date-night",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "duck-confit-leg",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Duck-confit-leg",
+    "descriptor": "Grassy",
+    "dishForm": "Clay-pot-cook"
+  }
+}
