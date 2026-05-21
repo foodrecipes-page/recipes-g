@@ -1,0 +1,100 @@
+{
+  "title": "Golden-Gooey Norwegian Cheese Bake",
+  "description": "A rich, cheese-pull Norwegian dish featuring mirin-hon, perfect for a lazy Sunday.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Mirin-hon",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Gjetost cheese",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Flaky sea salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "2 sprigs",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a medium saucepan, combine mirin-hon, sugar, and 1/4 cup heavy cream. Heat over medium heat, stirring until sugar dissolves.",
+    "In a separate saucepan, combine Gjetost cheese and remaining 1/4 cup heavy cream. Heat over low heat, stirring until cheese melts.",
+    "In a large bowl, whisk together egg and melted cheese mixture. Stir in thyme.",
+    "Pour cheese mixture into a greased 9x13-inch baking dish.",
+    "Dot top with butter and sprinkle with flaky sea salt.",
+    "Drizzle mirin-hon mixture over cheese mixture.",
+    "Bake for 35-40 minutes, or until top is golden brown and center is set.",
+    "Remove from oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "easy-cheesy",
+    "high-protein",
+    "keto-friendly",
+    "lazy-sunday",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "golden-gooey-norwegian-cheese-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/golden-gooey-norwegian-cheese-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T13:12:06Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "cheese-pull",
+    "mood": "lazy-sunday",
+    "technique": "candy",
+    "primaryIngredient": "mirin-hon",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "cheese",
+    "descriptor": "golden-gooey",
+    "dishForm": "Bake"
+  }
+}
