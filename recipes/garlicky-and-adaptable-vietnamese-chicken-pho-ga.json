@@ -1,0 +1,129 @@
+{
+  "title": "garlicky and adaptable vietnamese chicken pho-ga",
+  "description": "snappy and adventurous vietnamese dish with a unique twist, featuring amaretti and an emulsified sauce, perfect for a keto-friendly meal. this recipe is adaptable to suit your personal taste preferences.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "amaretti cookies",
+      "amount": "1/4 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "fish stock",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "heat the fish stock in a large pot over medium heat.",
+    "add the sliced ginger and chopped lemongrass and cook for 5 minutes.",
+    "add the fish sauce, soy sauce, sugar, and salt, and stir to combine.",
+    "add the chicken breast and cook until browned on all sides and cooked through.",
+    "add the crushed amaretti cookies and cook for 1 minute.",
+    "stir in the coconut milk and lime juice.",
+    "taste and adjust the seasoning as needed.",
+    "serve the pho-ga hot, garnished with chopped green onions and a sprinkle of black pepper.",
+    "serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "keto",
+    "one-pan",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "garlicky-and-adaptable-vietnamese-chicken-pho-ga",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/garlicky-and-adaptable-vietnamese-chicken-pho-ga",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:26:49Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "snappy",
+    "mood": "adventurous",
+    "technique": "emulsify",
+    "primaryIngredient": "amaretti",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Chicken",
+    "descriptor": "Garlicky and Adaptable",
+    "dishForm": "Pho-Ga"
+  }
+}

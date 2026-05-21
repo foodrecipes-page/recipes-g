@@ -759,6 +759,20 @@
     "shard": "g"
   },
   {
+    "slug": "garlicky-and-adaptable-vietnamese-chicken-pho-ga",
+    "title": "garlicky and adaptable vietnamese chicken pho-ga",
+    "tags": [
+      "high-protein",
+      "keto",
+      "one-pan",
+      "vietnamese",
+      "weeknight"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 50,
+    "shard": "g"
+  },
+  {
     "slug": "garlicky-and-shattering-russian-strawberries-casserole",
     "title": "Garlicky and Shattering Russian Strawberries Casserole",
     "tags": [
@@ -12111,6 +12125,20 @@
     ],
     "cuisine": "Italian (Neapolitan)",
     "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
+    "slug": "gooey-jamaican-pepper-gratin",
+    "title": "Gooey Jamaican Pepper Gratin",
+    "tags": [
+      "dairy-free",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "jamaican",
+    "totalTimeMin": 45,
     "shard": "g"
   },
   {

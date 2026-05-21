@@ -1,0 +1,111 @@
+{
+  "title": "Gooey Jamaican Pepper Gratin",
+  "description": "A rich and spicy solo dinner dish featuring a gooey cornstarch crust and the flavors of Jamaica. This whole30-friendly dish is perfect for a weeknight meal.",
+  "cuisine": "jamaican",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bell peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "allspice",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tbsp",
+      "notes": "for crust"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Blanch 2 bell peppers in boiling water for 5 minutes, then rinse with cold water to stop the cooking process.",
+    "In a blender or food processor, combine blanched bell peppers, onion, garlic, allspice, thyme, cayenne pepper, salt, and black pepper. Blend until smooth.",
+    "Transfer the pepper mixture to individual mini cocottes and top with a sprinkle of cornstarch to create a crust.",
+    "Drizzle 1 tablespoon of coconut oil over each cocotte and cover with foil.",
+    "Bake for 20 minutes, then remove foil and continue baking for an additional 10 minutes or until the crust is golden brown.",
+    "Garnish with fresh cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "gooey-jamaican-pepper-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/gooey-jamaican-pepper-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:26:48Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "gooey",
+    "mood": "solo-dinner",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "cornstarch",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "dinner",
+    "descriptor": "peppery gooey",
+    "dishForm": "Gratin"
+  }
+}
