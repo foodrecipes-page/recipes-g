@@ -1,0 +1,117 @@
+{
+  "title": "glassy-jelly korean eggs quiche",
+  "description": "a briny, ovo-vegetarian-friendly quiche featuring caramelized onions and poached eggs, topped with a glassy-korean-inspired jelly made from gochujang and soy sauce.",
+  "cuisine": "korean",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "large eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "caramelized onions",
+      "amount": "1 cup",
+      "notes": "see note"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat oven to 375 f.",
+    "roll out the dough and place it in a 9-inch tart pan with a removable bottom.",
+    "cook the onions until caramelized, then set aside.",
+    "whisk together the eggs, heavy cream, and a pinch of salt and pepper.",
+    "add the grated cheese, chopped green onions, and sesame seeds to the egg mixture and stir to combine.",
+    "pour the egg mixture into the tart shell and top with the caramelized onions and a drizzle of gochujang-glazed jelly.",
+    "bake the quiche for 35-40 minutes, or until set and golden brown.",
+    "poach the eggs and place them on top of the quiche before serving.",
+    "bake for an additional 2-3 minutes to melt the cheese and set the eggs."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-quiche",
+    "korean-fusion",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "glassy-jelly-korean-eggs-quiche",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/glassy-jelly-korean-eggs-quiche",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:25:54Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "glassy-jelly",
+    "mood": "meal-prep",
+    "technique": "poach",
+    "primaryIngredient": "sea salt",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "eggs",
+    "descriptor": "glassy-jelly",
+    "dishForm": "Quiche"
+  }
+}
