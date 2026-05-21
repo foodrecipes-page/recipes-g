@@ -1,0 +1,128 @@
+{
+  "title": "Gently Braised Middle-Eastern Lamb Loin Chops Tagine",
+  "description": "A rich, creamy tagine dish featuring tender lamb loin chops and a blend of Middle-Eastern spices. Perfect for meal prep or a weeknight dinner.",
+  "cuisine": "Middle-Eastern",
+  "diet": [
+    "gluten-free",
+    "low-FODMAP"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb loin chops",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1-inch thick pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "use for browning"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "kosher"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": "low-lactose or non-dairy alternative"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the lamb loin chops with salt, black pepper, cumin, coriander, and paprika.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Sear the lamb loin chops until browned on both sides, about 2-3 minutes per side.",
+    "Transfer the lamb loin chops to a mini cocotte or ramekin.",
+    "Add the chopped onion to the skillet and cook until softened, about 5 minutes.",
+    "Stir in the minced garlic and grated ginger; cook for 1 minute.",
+    "Add the chicken broth to the skillet and bring to a simmer.",
+    "Pour the chicken broth mixture over the lamb loin chops in the mini cocotte.",
+    "Cover the mini cocotte with a lid or foil and braise in the preheated oven for 20-25 minutes.",
+    "Remove the mini cocotte from the oven and stir in the heavy cream.",
+    "Return the mini cocotte to the oven and braise for an additional 5-7 minutes, or until the lamb is tender and the sauce has thickened.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "low-fodmap",
+    "meal-prep",
+    "middle-eastern",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 53,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "gently-braised-middle-eastern-lamb-loin-chops-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/gently-braised-middle-eastern-lamb-loin-chops-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T08:15:52Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "creamy",
+    "mood": "meal-prep",
+    "technique": "braise",
+    "primaryIngredient": "lamb loin chops",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "lamb",
+    "descriptor": "Gently Braised",
+    "dishForm": "Tagine"
+  }
+}
