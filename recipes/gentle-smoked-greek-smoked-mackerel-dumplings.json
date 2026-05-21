@@ -1,0 +1,113 @@
+{
+  "title": "gentle smoked greek smoked-mackerel dumplings",
+  "description": "romantic greek dish featuring smoked-mackerel, fluffy dumplings, best served on a robata grill.",
+  "cuisine": "greek",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried all-purpose flour",
+      "amount": "250g",
+      "notes": "use high-quality flour for best results"
+    },
+    {
+      "name": "warm water",
+      "amount": "350ml",
+      "notes": "adjust according to humidity"
+    },
+    {
+      "name": "smoked-mackerel fillets",
+      "amount": "400g",
+      "notes": "boneless and skinless for easier handling"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "150g",
+      "notes": "use full-fat for creamiest texture"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "25g",
+      "notes": "add fresh herbs at the end for best flavor"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "25g",
+      "notes": "use both green and white parts for added flavor"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "15g",
+      "notes": "use organic lemons for best flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "10g",
+      "notes": "use high-quality sea salt for best flavor"
+    },
+    {
+      "name": "black pepper",
+      "amount": "5g",
+      "notes": "use fresh peppercorns for best flavor"
+    },
+    {
+      "name": "olive oil",
+      "amount": "20ml",
+      "notes": "use high-quality extra-virgin oil for best flavor"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, warm water, and a pinch of salt. Mix until a smooth dough forms.",
+    "Knead the dough for 5-7 minutes until it becomes elastic and smooth.",
+    "Wrap the dough in plastic wrap and let it rest for 30 minutes.",
+    "Divide the dough into 12 equal pieces and roll each piece into a ball.",
+    "Use a rolling pin to flatten each ball into a thin circle.",
+    "Place a tablespoon of ricotta cheese in the center of each circle.",
+    "Add a few pieces of smoked-mackerel on top of the ricotta cheese.",
+    "Fold the dough over the filling to form a half-moon shape and press the edges together to seal the dumpling.",
+    "Heat a robata grill to medium-high heat and brush with olive oil.",
+    "Cook the dumplings for 2-3 minutes on each side, until they are golden brown and crispy.",
+    "Serve the dumplings hot with a drizzle of olive oil and a sprinkle of parsley and scallions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "flexitarian-friendly",
+    "greek",
+    "high-protein",
+    "one-pan",
+    "robata-grill",
+    "romantic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "gentle-smoked-greek-smoked-mackerel-dumplings",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/gentle-smoked-greek-smoked-mackerel-dumplings",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T06:01:52Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "fluffy",
+    "mood": "romantic",
+    "technique": "dum",
+    "primaryIngredient": "smoked-mackerel",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "smoked-mackerel",
+    "descriptor": "Gentle Smoked",
+    "dishForm": "Dumplings"
+  }
+}
