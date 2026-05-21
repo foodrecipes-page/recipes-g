@@ -1,0 +1,129 @@
+{
+  "title": "Glassy-Jelly Festive Brazilian Herbal Bao",
+  "description": "A unique Brazilian-inspired bao dish featuring a glassy-jelly filling, topped with crispy scallions and a lacquer glaze, all within a gluten-free friendly package.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "gluten-free bao dough",
+      "amount": "4",
+      "notes": "use store-bought or make your own"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "sorghum syrup",
+      "amount": "1/4 cup",
+      "notes": "or maple syrup"
+    },
+    {
+      "name": "cassava flour",
+      "amount": "2 cups",
+      "notes": "or cornstarch"
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "unsalted butter, melted",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "large egg",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "scallions",
+      "amount": "1 bunch",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1/4 cup",
+      "notes": "or make your own"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, combine the gluten-free bao dough, sugar, water, sorghum syrup, cassava flour, cocoa powder, and melted butter. Mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    " Divide the dough into 8 equal pieces and shape each piece into a ball.",
+    "Place the balls onto a baking sheet lined with parchment paper and bake for 15 minutes.",
+    "While the bao is baking, prepare the glassy-jelly filling by combining the soy sauce, rice vinegar, grated ginger, and sesame seeds in a small bowl.",
+    "Once the bao is done, let it cool for a few minutes before slicing it open.",
+    "Fill each bao with the glassy-jelly filling and top with crispy scallions.",
+    "Drizzle the lacquer glaze over the bao and serve immediately.",
+    "To make the lacquer glaze, combine 1/4 cup of soy sauce, 1/4 cup of rice vinegar, and 2 tablespoons of honey in a small bowl. Heat the mixture in the microwave for 10 seconds and stir until smooth."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "brazilian",
+    "festive",
+    "glassy-jelly",
+    "gluten-free",
+    "herbal",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "glassy-jelly-festive-brazilian-herbal-bao",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/glassy-jelly-festive-brazilian-herbal-bao",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T16:38:17Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "glassy-jelly",
+    "mood": "festive",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "scallions",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "herbal",
+    "descriptor": "glassy-jelly festive",
+    "dishForm": "Bao"
+  }
+}
