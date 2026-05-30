@@ -2671,18 +2671,15 @@
   },
   {
     "slug": "garlicky-german-potatoes-gratin",
-    "title": "Garlicky German Potatoes Gratin",
+    "title": "Garlicky German Potato Gratin",
     "tags": [
-      "kid-friendly",
-      "potato-dish",
-      "gratin",
-      "garlic",
-      "monterey-jack",
       "german",
-      "bake"
+      "potatoes",
+      "gratin",
+      "side dish"
     ],
     "cuisine": "German",
-    "totalTimeMin": 60,
+    "totalTimeMin": 65,
     "shard": "g"
   },
   {
