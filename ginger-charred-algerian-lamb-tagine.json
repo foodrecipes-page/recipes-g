@@ -1,0 +1,99 @@
+{
+  "slug": "ginger-charred-algerian-lamb-tagine",
+  "title": "Algerian Lamb Tagine",
+  "description": "A flavorful North African stew made with lamb, ginger, and aromatic spices, slow-cooked in a clay pot. This hearty dish is perfect for a chilly evening.",
+  "cuisine": "North African",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "algerian spice blend",
+      "amount": "2 tablespoons",
+      "notes": "available at Middle Eastern markets"
+    },
+    {
+      "name": "charred red pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": "diced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large clay pot over medium heat. Add onion and cook until softened, 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add lamb and cook until browned on all sides, 5-7 minutes.",
+    "Add ginger, spice blend, red pepper, tomatoes, and broth. Stir to combine.",
+    "Bring mixture to a boil, then reduce heat to low and simmer, covered, for 1 1/2 hours, or until lamb is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "lamb",
+    "tagine",
+    "slow-cooker",
+    "aromatic"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ginger-charred-algerian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:37:49.845Z"
+}
