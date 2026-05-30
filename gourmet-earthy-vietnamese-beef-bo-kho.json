@@ -1,0 +1,90 @@
+{
+  "slug": "gourmet-earthy-vietnamese-beef-bo-kho",
+  "title": "Kho Bo Beef Stew",
+  "description": "A hearty, earthy Vietnamese-inspired beef stew made with locally sourced ingredients.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (2 lbs)",
+      "amount": "",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Gourmet Onions (1 large)",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "Earthy Carrots (3 large)",
+      "amount": "peeled and chopped",
+      "notes": ""
+    },
+    {
+      "name": "Vietnamese Fish Sauce (2 tbsp)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Bo Kho Spice Mix (2 tsp)",
+      "amount": "",
+      "notes": "available at Asian markets"
+    },
+    {
+      "name": "Beef Broth (4 cups)",
+      "amount": "",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Water (2 cups)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt (1 tsp)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper (1/2 tsp)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef cubes in batches until browned on all sides.",
+    "Remove the browned beef from the pot and set aside.",
+    "Add more oil to the pot if necessary, then sauté the chopped onions until softened.",
+    "Add the chopped carrots, fish sauce, and Bo Kho Spice Mix to the pot. Stir to combine.",
+    "Add the browned beef back to the pot, along with the beef broth and water.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 1.5 hours.",
+    "Season the stew with salt and black pepper to taste.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "vietnamese",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gourmet-earthy-vietnamese-beef-bo-kho",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:35:40.374Z"
+}
