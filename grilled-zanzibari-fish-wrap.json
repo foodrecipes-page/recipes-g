@@ -1,0 +1,87 @@
+{
+  "slug": "grilled-zanzibari-fish-wrap",
+  "title": "Grilled Fish Zanzibari Wrap",
+  "description": "A flavorful wrap filled with grilled fish, zanzibari sauce, and fresh herbs. Perfect for a quick and easy meal.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Grilled fish",
+      "amount": "4 oz",
+      "notes": "any white fish works well"
+    },
+    {
+      "name": "Zanzibari sauce",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Tortilla wrap",
+      "amount": "1",
+      "notes": "whole wheat or gluten-free"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "2 tbsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Grill the fish for 4-5 minutes per side, or until cooked through.",
+    "3. Warm the tortilla wrap in the microwave for 10-15 seconds.",
+    "4. Spread the zanzibari sauce on the tortilla wrap.",
+    "5. Add sliced cucumber, chopped cilantro, and grilled fish on top.",
+    "6. Drizzle with lemon juice and sprinkle with salt, pepper, and chili powder (if using).",
+    "7. Fold the tortilla wrap to enclose the filling.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "fish",
+    "zanzibari",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grilled-zanzibari-fish-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:42:03.344Z"
+}
