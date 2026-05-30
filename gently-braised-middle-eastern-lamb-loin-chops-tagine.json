@@ -1,0 +1,93 @@
+{
+  "slug": "gently-braised-middle-eastern-lamb-loin-chops-tagine",
+  "title": "Middle Eastern Braised Lamb Tagine",
+  "description": "A hearty dish from the Middle East, slow-cooked in a rich and aromatic tagine sauce, featuring tender lamb chops.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb chops",
+      "amount": "1 1/2 pounds",
+      "notes": "about 8-10 chops"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning lamb"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Allspice",
+      "amount": "1/4 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the bottom of a large clay or ceramic tagine over medium-high heat.",
+    "Brown the lamb chops on both sides, about 2-3 minutes per side, then remove from the pot.",
+    "Reduce heat to medium and sauté the onion, garlic, and ginger until the onion is translucent.",
+    "Add the cumin, cinnamon, allspice, salt, and pepper to the pot and cook for 1 minute.",
+    "Add the browned lamb chops back to the pot, along with any accumulated juices.",
+    "Add enough water to the pot to cover the lamb, then bring to a boil.",
+    "Cover the tagine and transfer to the oven, where it will cook at 300°F for 2-3 hours, or until the lamb is tender.",
+    "Serve the lamb hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "middle eastern"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gently-braised-middle-eastern-lamb-loin-chops-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:48:48.328Z"
+}
