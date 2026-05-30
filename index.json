@@ -1260,15 +1260,16 @@
   },
   {
     "slug": "garlicky-creamy-smoky-kenyian-fennel-stew",
-    "title": "Garlicky Creamy Smoky Kenyan Fennel Stew",
+    "title": "Smoky Fennel Stew",
     "tags": [
-      "high-protein",
+      "stew",
       "kenyan",
-      "one-pan",
-      "weeknight"
+      "fennel",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "kenyan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {
@@ -3751,16 +3752,16 @@
   },
   {
     "slug": "garlicky-nourishing-spanish-chicken-tortilla-espanola",
-    "title": "Garlicky Nourishing Spanish Chicken Tortilla Espanola",
+    "title": "Spanish Chicken Tortilla Espanola",
     "tags": [
+      "breakfast",
+      "lunch",
+      "spanish",
       "chicken",
-      "high-protein",
-      "mains",
-      "one-pan",
-      "weeknight"
+      "tortilla"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "g"
   },
   {
@@ -4794,16 +4795,16 @@
   },
   {
     "slug": "garlicky-velvety-french-sea-bass-pilaf",
-    "title": "Garlicky Velvety French Sea Bass Pilaf",
+    "title": "Garlicky Sea Bass with French Pilaf",
     "tags": [
-      "french",
-      "one-pan",
-      "sea-bass",
-      "velvety-sauce",
-      "weeknight"
+      "sea bass",
+      "french pilaf",
+      "garlic",
+      "healthy",
+      "fish"
     ],
     "cuisine": "French",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "g"
   },
   {
