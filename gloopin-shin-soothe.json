@@ -1,0 +1,93 @@
+{
+  "slug": "gloopin-shin-soothe",
+  "title": "Shin and Gloopin Stew",
+  "description": "A hearty stew made with tender shin meat and infused with the unique flavor of gloopin. Serve with a side of soothing soothe.",
+  "cuisine": null,
+  "diet": [
+    "traditional"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Shin",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Gloopin",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soothe",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add the chopped onion and sauté until softened, about 5 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the chopped carrots and potatoes, and cook for 5 minutes.",
+    "Add the shin, gloopin, salt, and black pepper, and stir to combine.",
+    "Add the water to the pot and bring to a boil.",
+    "Reduce heat to low and simmer for 1.5 hours, or until the shin is tender.",
+    "Stir in the chopped soothe and cook for an additional 10 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soups",
+    "stews",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gloopin-shin-soothe",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:41:53.403Z"
+}
