@@ -1,0 +1,48 @@
+{
+  "slug": "ginger-crunchy-quickfix",
+  "title": "Ginger Crunchy Bites",
+  "description": "A crunchy snack made with ginger, perfect for a quick fix.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ginger",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "Crunchy",
+      "amount": "1 cup",
+      "notes": "crushed crackers"
+    },
+    {
+      "name": "Quickfix",
+      "amount": "2 tbsp",
+      "notes": "sesame oil"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Grate the ginger and mix with crushed crackers.",
+    "Drizzle with sesame oil and mix well.",
+    "Shape into small balls and place on a baking sheet.",
+    "Bake for 10-12 minutes or until crispy.",
+    "Let cool and serve."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "ginger",
+    "crunchy",
+    "snack",
+    "quick-fix"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ginger-crunchy-quickfix",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:34:57.458Z"
+}
