@@ -1,0 +1,73 @@
+{
+  "slug": "garlicky-creamy-smoky-kenyian-fennel-stew",
+  "title": "Smoky Fennel Stew",
+  "description": "A hearty stew with a smoky twist, featuring fennel and a blend of savory spices.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoky paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fennel bulbs",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlicky onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Kenyian tomato puree",
+      "amount": "1 can (14.5 oz)"
+    },
+    {
+      "name": "Stew broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Cream",
+      "amount": "1/4 cup",
+      "notes": "heavy cream or coconut cream"
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a large pot over medium heat.",
+    "2. Add chopped onion and sauté until softened, about 5 minutes.",
+    "3. Add sliced fennel and cook for an additional 5 minutes.",
+    "4. Stir in smoky paprika and cook for 1 minute.",
+    "5. Add Kenyan tomato puree and stew broth, and bring to a simmer.",
+    "6. Reduce heat to low and cook, covered, for 20 minutes.",
+    "7. Stir in heavy cream or coconut cream and cook for an additional 2 minutes.",
+    "8. Season with salt and pepper to taste.",
+    "9. Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "kenyan",
+    "fennel",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": "4g",
+    "carbs": "30g",
+    "fat": "10g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-creamy-smoky-kenyian-fennel-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:09:22.108Z"
+}
