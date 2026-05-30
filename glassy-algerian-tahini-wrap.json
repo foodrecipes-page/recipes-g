@@ -1,0 +1,67 @@
+{
+  "slug": "glassy-algerian-tahini-wrap",
+  "title": "Algerian Wrap Bowl",
+  "description": "A flavorful Algerian-inspired wrap bowl filled with glassy vegetables, creamy tahini sauce, and crispy wrap pieces.",
+  "cuisine": "algerian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "algerian flatbread",
+      "amount": "1",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "glassy carrots",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "glassy cucumbers",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "tahini",
+      "amount": "2 tbsp",
+      "notes": "mix with lemon juice and water to thin out"
+    },
+    {
+      "name": "wrap",
+      "amount": "1",
+      "notes": "cut into small pieces for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss the glassy carrots and cucumbers with olive oil, salt, and pepper. Spread on a baking sheet and roast for 20 minutes.",
+    "In a small bowl, mix together the tahini, lemon juice, and water to thin out the sauce.",
+    "Warm the algerian flatbread pieces in the oven for 5 minutes.",
+    "Assemble the wrap bowl by placing a portion of the roasted vegetables on the flatbread, followed by a drizzle of tahini sauce and garnish with wrap pieces.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "vegan",
+    "gluten-free",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/glassy-algerian-tahini-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:36:51.579Z"
+}
