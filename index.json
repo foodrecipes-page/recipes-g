@@ -7545,15 +7545,14 @@
   },
   {
     "slug": "glassy-jelly-korean-eggs-quiche",
-    "title": "glassy-jelly korean eggs quiche",
+    "title": "Korean Quiche",
     "tags": [
-      "breakfast-quiche",
-      "korean-fusion",
-      "one-pan",
-      "weeknight"
+      "korean",
+      "quiche",
+      "breakfast"
     ],
-    "cuisine": "korean",
-    "totalTimeMin": 70,
+    "cuisine": "Korean",
+    "totalTimeMin": 55,
     "shard": "g"
   },
   {
@@ -13603,17 +13602,15 @@
   },
   {
     "slug": "gourmet-earthy-vietnamese-beef-bo-kho",
-    "title": "Gourmet Earthy Vietnamese Beef Bo Kho",
+    "title": "Kho Bo Beef Stew",
     "tags": [
-      "beef-recipes",
-      "cheesy-dishes",
-      "one-pot-meals",
-      "shojin-friendly",
-      "vietnamese-cuisine",
-      "weeknight-dinners"
+      "beef",
+      "stew",
+      "vietnamese",
+      "comfort-food"
     ],
-    "cuisine": "vietnamese",
-    "totalTimeMin": 150,
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 110,
     "shard": "g"
   },
   {
