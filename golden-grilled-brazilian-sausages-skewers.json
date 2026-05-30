@@ -1,0 +1,82 @@
+{
+  "slug": "golden-grilled-brazilian-sausages-skewers",
+  "title": "Grilled Brazilian Sausage Skewers",
+  "description": "A flavorful and easy-to-make recipe featuring grilled Brazilian sausages on skewers with a hint of golden goodness.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Brazilian sausages",
+      "amount": "8-10",
+      "notes": "Choose a combination of beef and pork or all beef for a more authentic experience"
+    },
+    {
+      "name": "Golden skewers",
+      "amount": "1 package",
+      "notes": "You can also use bamboo skewers and brush them with oil to prevent burning"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Red or yellow onion works best for this recipe"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "2 medium",
+      "notes": "Green or red bell pepper adds a crunchy texture"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "2 medium",
+      "notes": "You can substitute with yellow squash for a similar taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "Use a good quality olive oil for the best flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Use a flaky sea salt for a more authentic taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": "Use a freshly ground black pepper for the best flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat your grill to medium-high heat.",
+    "Thread the Brazilian sausages, onion, bell pepper, and zucchini onto the golden skewers.",
+    "Brush the skewers with olive oil and season with salt and pepper.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the sausages are cooked through and the vegetables are tender.",
+    "Remove the skewers from the grill and let them rest for a few minutes.",
+    "Serve the grilled Brazilian sausage skewers hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "sausages",
+    "skewers",
+    "brazilian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-grilled-brazilian-sausages-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:38:23.172Z"
+}
