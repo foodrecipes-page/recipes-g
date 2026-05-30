@@ -1,0 +1,85 @@
+{
+  "slug": "garlicky-nourishing-spanish-chicken-tortilla-espanola",
+  "title": "Spanish Chicken Tortilla Espanola",
+  "description": "A traditional Spanish omelette made with chicken, onions, and potatoes, perfect for a satisfying breakfast or lunch.",
+  "cuisine": "Spanish",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "garlicky Spanish chicken breast",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "tortilla espanola potatoes",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the diced onion and cook until softened, about 3-4 minutes.",
+    "Add the diced potatoes and cook for an additional 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the diced chicken breast and cook until browned and cooked through.",
+    "In a large bowl, beat the eggs and season with salt and pepper.",
+    "Add the cooked chicken, potatoes, and onion mixture to the bowl and stir to combine.",
+    "Heat a large non-stick skillet over medium heat and add a small amount of oil.",
+    "Pour the egg mixture into the skillet and cook until the edges start to set.",
+    "Use a spatula to gently lift and fold the edges of the tortilla towards the center.",
+    "Once the eggs are almost set, use the spatula to fold the tortilla in half.",
+    "Cook for an additional 1-2 minutes, until the eggs are fully set and the tortilla is cooked through.",
+    "Slide the tortilla onto a plate and top with shredded cheese, if using.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "lunch",
+    "spanish",
+    "chicken",
+    "tortilla"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-nourishing-spanish-chicken-tortilla-espanola",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:04:59.408Z"
+}
