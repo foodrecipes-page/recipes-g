@@ -1,0 +1,60 @@
+{
+  "slug": "garlic-gherkin-bliss",
+  "title": "Garlic Gherkin Bliss Stew",
+  "description": "A hearty stew made with sautéed garlic, gherkin, and bliss, perfect for a cold day. This stew is a great way to warm up and nourish your body.",
+  "cuisine": "European",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Gherkin",
+      "amount": "1 small",
+      "notes": "sliced"
+    },
+    {
+      "name": "Bliss",
+      "amount": "2 cups",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large pot over medium heat.",
+    "Add the minced garlic and sauté for 2-3 minutes until fragrant.",
+    "Add the sliced gherkin and sauté for another 2 minutes.",
+    "Add the chopped bliss and stir well.",
+    "Pour in 2 cups of vegetable broth and bring to a boil.",
+    "Reduce the heat to low and simmer for 20-25 minutes or until the bliss is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "garlic",
+    "gherkin",
+    "bliss",
+    "stew",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlic-gherkin-bliss",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:47:47.922Z"
+}
