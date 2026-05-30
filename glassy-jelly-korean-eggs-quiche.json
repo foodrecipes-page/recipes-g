@@ -1,0 +1,67 @@
+{
+  "slug": "glassy-jelly-korean-eggs-quiche",
+  "title": "Korean Quiche",
+  "description": "A delicious Korean-inspired quiche with a crispy crust and flavorful fillings.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 sheet glassy pastry dough",
+      "amount": "thawed",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "1/2 cup jelly",
+      "amount": "syrup",
+      "notes": "optional, for serving"
+    },
+    {
+      "name": "2 eggs",
+      "amount": "beaten",
+      "notes": "large eggs"
+    },
+    {
+      "name": "1/2 cup korean chili flakes",
+      "amount": "chopped",
+      "notes": "gochugaru"
+    },
+    {
+      "name": "1/2 cup diced scallions",
+      "amount": "chopped",
+      "notes": "green onions"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the pastry dough and place it in a 9-inch tart pan.",
+    "In a bowl, whisk together the eggs, soy sauce, and gochugaru.",
+    "Pour the egg mixture into the pastry crust.",
+    "Sprinkle the scallions on top of the egg mixture.",
+    "Bake for 35-40 minutes, or until the crust is golden brown and the quiche is set.",
+    "Remove from the oven and let cool for 10 minutes.",
+    "Serve warm, topped with jelly if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "quiche",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/glassy-jelly-korean-eggs-quiche",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:33:47.042Z"
+}
