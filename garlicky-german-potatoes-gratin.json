@@ -1,0 +1,84 @@
+{
+  "slug": "garlicky-german-potatoes-gratin",
+  "title": "Garlicky German Potato Gratin",
+  "description": "A creamy, cheesy potato dish infused with the flavors of garlic and Germany.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 pounds",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Gratin Cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large saucepan, combine sliced potatoes and enough cold water to cover them.",
+    "Bring to a boil over high heat, then reduce heat to medium-low and simmer for 5 minutes.",
+    "Drain potatoes and set aside.",
+    "In a separate saucepan, melt butter over medium heat.",
+    "Add minced garlic and cook, stirring constantly, for 1-2 minutes or until fragrant.",
+    "Stir in grated cheese until melted and smooth.",
+    "If using heavy cream, stir it in at this point.",
+    "In a greased 9x13-inch baking dish, arrange a layer of potatoes.",
+    "Pour half of the cheese mixture over the potatoes.",
+    "Repeat the layers, starting with the potatoes and then the remaining cheese mixture.",
+    "Season with salt and black pepper to taste.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove foil and continue baking for an additional 15-20 minutes or until the top is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "potatoes",
+    "gratin",
+    "side dish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-german-potatoes-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:25:47.044Z"
+}
