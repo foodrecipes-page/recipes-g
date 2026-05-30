@@ -322,15 +322,16 @@
   },
   {
     "slug": "garlic-gherkin-bliss",
-    "title": "Garlic Gherkin Bliss",
+    "title": "Garlic Gherkin Bliss Stew",
     "tags": [
       "garlic",
       "gherkin",
-      "velvety",
-      "kenyan"
+      "bliss",
+      "stew",
+      "lunch"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 15,
+    "cuisine": "European",
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
@@ -5878,16 +5879,14 @@
   },
   {
     "slug": "gently-braised-middle-eastern-lamb-loin-chops-tagine",
-    "title": "Gently Braised Middle-Eastern Lamb Loin Chops Tagine",
+    "title": "Middle Eastern Braised Lamb Tagine",
     "tags": [
-      "gluten-free",
-      "low-fodmap",
-      "meal-prep",
-      "middle-eastern",
-      "weeknight"
+      "lamb",
+      "tagine",
+      "middle eastern"
     ],
-    "cuisine": "Middle-Eastern",
-    "totalTimeMin": 45,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 140,
     "shard": "g"
   },
   {
