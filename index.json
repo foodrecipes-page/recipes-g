@@ -6856,16 +6856,15 @@
   },
   {
     "slug": "ginger-crunchy-quickfix",
-    "title": "Ginger Crunchy QuickFix",
+    "title": "Ginger Crunchy Bites",
     "tags": [
       "ginger",
-      "quickfix",
       "crunchy",
-      "salty",
-      "lowcal"
+      "snack",
+      "quick-fix"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 7,
+    "cuisine": null,
+    "totalTimeMin": 17,
     "shard": "g"
   },
   {
