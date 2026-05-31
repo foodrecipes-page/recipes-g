@@ -1,0 +1,59 @@
+{
+  "slug": "golden-crisp-middle-eastern-rice-pilaf",
+  "title": "Eastern-Style Middle Rice Pilaf",
+  "description": "A flavorful and aromatic rice pilaf dish inspired by Middle Eastern cuisine. This recipe is perfect for a quick weeknight dinner or special occasion.",
+  "cuisine": "middle-eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Golden Saffron Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Crunchy Middle Eastern Pilaf Mix",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Eastern-Style Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Middle Eastern Spices (optional)",
+      "notes": "cumin, coriander, cardamom, cinnamon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium-high heat.",
+    "Add the pilaf mix and cook for 2-3 minutes, stirring frequently.",
+    "Add the saffron rice and stir to combine.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15-20 minutes.",
+    "Fluff the rice with a fork and season with Middle Eastern spices (if using).",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "middle-eastern",
+    "rice-pilaf",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-crisp-middle-eastern-rice-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:05:14.339Z"
+}
