@@ -1,0 +1,98 @@
+{
+  "slug": "ground-galangal-ginger-syrian-galangal-bake",
+  "title": "Galangal and Ginger Meatballs",
+  "description": "Spicy meatballs made with ground meat and infused with the flavors of galangal and ginger.",
+  "cuisine": "Thai",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Syrian",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Galangal",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Bread, plain",
+      "amount": "1/2 cup",
+      "notes": "Breadcrumbs"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. In a food processor, combine galangal, ginger, onion, salt, and black pepper. Process until coarsely chopped.",
+    "3. In a large bowl, combine ground meat, processed mixture, bread, egg, fish sauce, and soy sauce. Mix well with your hands until just combined.",
+    "4. Use your hands to shape the mixture into meatballs, about 1 1/2 inches in diameter. Place on a baking sheet lined with parchment paper.",
+    "5. Drizzle with olive oil and gently roll to coat.",
+    "6. Bake for 18-20 minutes, or until cooked through.",
+    "7. Serve hot, garnished with chopped cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "meatballs",
+    "thai",
+    "galangal",
+    "ginger"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 6,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ground-galangal-ginger-syrian-galangal-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T01:35:36.441Z"
+}
