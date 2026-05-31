@@ -12022,16 +12022,15 @@
   },
   {
     "slug": "gooey-golden-italian-foie-gras-panna",
-    "title": "Gooey Golden Italian Foie-Gras Panna",
+    "title": "Golden Panna Gooey Gras Cake",
     "tags": [
-      "dessert",
-      "foie-gras",
       "italian",
-      "sugar-free",
-      "weeknight"
+      "dessert",
+      "rich",
+      "decadent"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 20,
+    "cuisine": "italian",
+    "totalTimeMin": 45,
     "shard": "g"
   },
   {
@@ -15599,6 +15598,19 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 40,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-velvety-french-sea-bass-pilaf--mexican",
+    "title": "Bass with French Pilaf and Sea Garlic",
+    "tags": [
+      "mexican",
+      "fish",
+      "pilaf",
+      "garlic"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
     "shard": "g"
   }
 ]
