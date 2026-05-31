@@ -1,0 +1,72 @@
+{
+  "slug": "garlicky-chewy-energizing-mediterranean-butter-beans-stir-fry",
+  "title": "Garlicky Bean Medley",
+  "description": "A flavorful and nutritious medley of beans and vegetables, perfect for a quick and easy dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Garlicky",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Chewy",
+      "amount": "1 cup",
+      "notes": "dried beans, such as chickpeas or black beans"
+    },
+    {
+      "name": "Energizing",
+      "amount": "1/2 cup",
+      "notes": "frozen vegetables, such as broccoli or bell peppers"
+    },
+    {
+      "name": "Mediterranean",
+      "amount": "2 tbsp",
+      "notes": "olive oil"
+    },
+    {
+      "name": "Butter",
+      "amount": "1 tsp",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Fry",
+      "amount": "None",
+      "notes": "cooking method"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the minced garlic and cook for 1-2 minutes, until fragrant.",
+    "Add the dried beans and frozen vegetables to the skillet, and stir to combine.",
+    "Reduce heat to medium-low and simmer for 10-15 minutes, or until the beans are tender.",
+    "Stir in the unsalted butter until melted.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bean-recipe",
+    "mediterranean-recipe",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-chewy-energizing-mediterranean-butter-beans-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:49:08.981Z"
+}
