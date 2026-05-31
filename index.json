@@ -15612,5 +15612,18 @@
     "cuisine": "mexican",
     "totalTimeMin": 25,
     "shard": "g"
+  },
+  {
+    "slug": "ginger-crunchy-quickfix--german",
+    "title": "Savory German Ginger Schnitzel",
+    "tags": [
+      "german",
+      "ginger",
+      "schnitzel",
+      "pork"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "g"
   }
 ]
