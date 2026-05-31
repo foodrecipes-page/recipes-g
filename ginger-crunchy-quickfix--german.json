@@ -1,0 +1,64 @@
+{
+  "slug": "ginger-crunchy-quickfix--german",
+  "title": "Savory German Ginger Schnitzel",
+  "description": "A twist on the classic German dish, adding the spicy flavor of ginger to the breading. Easy to make and delicious to eat.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flour",
+      "amount": "1 cup",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "fresh ginger, peeled and grated"
+    },
+    {
+      "name": "Quickfix",
+      "amount": "1/4 cup",
+      "notes": "quickfix breading mix"
+    },
+    {
+      "name": "Pork Chops",
+      "amount": "4",
+      "notes": "thinly sliced pork chops"
+    }
+  ],
+  "instructions": [
+    "Prepare the breading station: mix flour, ginger, and quickfix in a shallow dish.",
+    "Season the pork chops with salt and pepper.",
+    "Dip each pork chop in the flour mixture, coating both sides evenly.",
+    "Heat a large skillet over medium-high heat.",
+    "Add a tablespoon of oil to the skillet and swirl to coat.",
+    "Add the coated pork chops to the skillet and cook for 2-3 minutes per side.",
+    "Reduce heat to medium-low and continue cooking for an additional 5-7 minutes.",
+    "Remove the pork chops from the skillet and let rest for a few minutes.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "ginger",
+    "schnitzel",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ginger-crunchy-quickfix--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T21:09:54.160Z"
+}
