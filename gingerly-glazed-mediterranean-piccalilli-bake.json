@@ -1,0 +1,91 @@
+{
+  "slug": "gingerly-glazed-mediterranean-piccalilli-bake",
+  "title": "Mediterranean Chicken Bake",
+  "description": "A flavorful and refreshing Mediterranean-inspired chicken bake with a blend of herbs and spices.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "glazed olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon",
+      "notes": "crushed"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a small bowl, whisk together lemon juice, olive oil, garlic, oregano, salt, and pepper.",
+    "Place the chicken in a shallow baking dish and brush the lemon mixture evenly over both sides of the chicken.",
+    "Sprinkle the chopped parsley over the top of the chicken.",
+    "Bake the chicken for 25-30 minutes or until cooked through.",
+    "While the chicken is baking, heat the glazed olives in a small saucepan over medium heat until warmed through.",
+    "Serve the chicken hot, topped with the warmed olives and fresh parsley.",
+    "Garnish with additional parsley if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "mediterranean",
+    "bake",
+    "gluten-free",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 6,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gingerly-glazed-mediterranean-piccalilli-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T00:44:05.162Z"
+}
