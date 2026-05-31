@@ -14010,18 +14010,15 @@
   },
   {
     "slug": "grassy-gooey-tunisian-shiso-leaf-tagine",
-    "title": "grassy gooey tunisian shiso-leaf tagine",
+    "title": "Tunisian Tagine Delight",
     "tags": [
-      "breakfast",
-      "comforting",
-      "hangover-cure",
-      "one-pan",
-      "rich",
       "tunisian",
-      "weeknight"
+      "vegetarian",
+      "tagine",
+      "spices"
     ],
-    "cuisine": "tunisian",
-    "totalTimeMin": 75,
+    "cuisine": "Tunisian",
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
@@ -15602,6 +15599,18 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
+    "slug": "ground-croatian-lamb-stew--vegetarian",
+    "title": "Croatian Stew",
+    "tags": [
+      "vegetarian",
+      "stew",
+      "croatian"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 50,
     "shard": "g"
   }
 ]
