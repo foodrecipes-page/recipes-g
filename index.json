@@ -1034,16 +1034,14 @@
   },
   {
     "slug": "garlicky-chewy-energizing-mediterranean-butter-beans-stir-fry",
-    "title": "Garlicky Chewy Energizing Mediterranean Butter Beans Stir-fry",
+    "title": "Garlicky Bean Medley",
     "tags": [
-      "garlicky",
-      "chewy",
-      "energizing",
-      "mediterranean",
-      "buttermenukbe"
+      "bean-recipe",
+      "mediterranean-recipe",
+      "quick-dinner"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 15,
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
@@ -3107,17 +3105,15 @@
   },
   {
     "slug": "garlicky-juicy-argentinian-steak-skewers",
-    "title": "Garlicky Juicy Argentinian Steak Skewers",
+    "title": "Argentinian Garlic Steak Skewers",
     "tags": [
       "argentinian",
+      "grilled",
       "steak",
-      "skewers",
-      "garlic",
-      "brunch",
-      "dairy-free"
+      "skewers"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 28,
     "shard": "g"
   },
   {
@@ -11406,16 +11402,14 @@
   },
   {
     "slug": "gooey-australian-parmigiano-reggiano-stir-fry",
-    "title": "Gooey Australian Parmigiano-Reggiano Stir-fry",
+    "title": "Australian Parmigiano Crusted Gooey Stir Fry",
     "tags": [
-      "halal-friendly",
-      "gooey",
-      "post-workout",
-      "fermented",
-      "australian"
+      "australian",
+      "cheesy",
+      "stir-fry"
     ],
     "cuisine": "Australian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 22,
     "shard": "g"
   },
   {
