@@ -11080,17 +11080,17 @@
   },
   {
     "slug": "golden-thai-chickpeas-khanom-krok",
-    "title": "Golden Thai Chickpeas Khanom Krok",
+    "title": "Thai-Style Golden Chickpea Fritters",
     "tags": [
-      "corn-husk",
-      "dessert",
-      "macrobiotic",
       "snack",
-      "thai-food",
-      "vegetarian"
+      "thaifood",
+      "chickpeas",
+      "fritters",
+      "khanom",
+      "krok"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 35,
+    "totalTimeMin": 20,
     "shard": "g"
   },
   {
@@ -15561,6 +15561,19 @@
       "summer-savory"
     ],
     "cuisine": "Croatian",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
+    "slug": "gloopin-shin-soothe--thai",
+    "title": "Thai-Style Beef and Vegetable Stir-Fry",
+    "tags": [
+      "thai",
+      "beef",
+      "stir-fry",
+      "vegetarian"
+    ],
+    "cuisine": "thai",
     "totalTimeMin": 35,
     "shard": "g"
   }
