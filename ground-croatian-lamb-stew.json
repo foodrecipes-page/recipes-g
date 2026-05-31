@@ -1,0 +1,80 @@
+{
+  "slug": "ground-croatian-lamb-stew",
+  "title": "Traditional Croatian Stew",
+  "description": "A hearty and flavorful stew originating from Croatia, made with lamb and served with crusty bread.",
+  "cuisine": "Croatian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "500g"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "3 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "red wine",
+      "amount": "250ml"
+    },
+    {
+      "name": "beef broth",
+      "amount": "500ml"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the lamb and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the chopped carrots and potatoes, cook for 5 minutes.",
+    "Add the tomato paste, red wine, and beef broth. Stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 1.5 hours.",
+    "Season with salt and pepper to taste.",
+    "Serve hot with crusty bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "croatian",
+    "stew",
+    "traditional"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ground-croatian-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T22:50:01.151Z"
+}
