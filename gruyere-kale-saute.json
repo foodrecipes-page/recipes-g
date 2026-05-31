@@ -1,0 +1,66 @@
+{
+  "slug": "gruyere-kale-saute",
+  "title": "Gruyere Kale Frittata",
+  "description": "A simple and flavorful frittata packed with tender kale and nutty gruyere cheese, perfect for a quick breakfast or snack.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Gruyere cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Kale",
+      "amount": "2 cups, chopped"
+    },
+    {
+      "name": "Saute",
+      "amount": "1 tablespoon, butter or oil"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large skillet, sauté the chopped kale in butter or oil until tender.",
+    "In a separate bowl, whisk together eggs and a pinch of salt and pepper.",
+    "Add the shredded gruyere cheese to the egg mixture and stir to combine.",
+    "Pour the egg mixture over the cooked kale in the skillet.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the eggs are set.",
+    "Remove the skillet from the oven and let it cool for a few minutes.",
+    "Use a spatula to loosen the edges of the frittata from the skillet.",
+    "Slide the frittata onto a plate and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "lunch",
+    "brunch",
+    "italian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gruyere-kale-saute",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T01:52:36.817Z"
+}
