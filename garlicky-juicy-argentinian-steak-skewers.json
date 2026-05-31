@@ -1,0 +1,82 @@
+{
+  "slug": "garlicky-juicy-argentinian-steak-skewers",
+  "title": "Argentinian Garlic Steak Skewers",
+  "description": "Grilled steak skewers with a hint of garlic and a juicy twist, inspired by traditional Argentinian flavors.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "meat-lovers"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Argentinian steak",
+      "amount": "1 pound",
+      "notes": "preferably flank steak or skirt steak"
+    },
+    {
+      "name": "Garlicky olive oil",
+      "amount": "2 tablespoons",
+      "notes": "or regular olive oil with minced garlic"
+    },
+    {
+      "name": "Juicy pineapple",
+      "amount": "1 cup",
+      "notes": "fresh chunks or rings"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12",
+      "notes": "wooden or metal"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a small bowl, mix together garlicky olive oil, salt, and pepper.",
+    "3. Brush the mixture evenly onto both sides of the steak.",
+    "4. Thread the steak, pineapple, onion, and bell pepper onto the skewers.",
+    "5. Grill the skewers for 8-10 minutes per side, or until the steak reaches 135°F for medium-rare.",
+    "6. Let the skewers rest for 5 minutes before serving.",
+    "7. Slice the steak into thin strips and serve with the grilled vegetables."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 18,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "grilled",
+    "steak",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 55,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-juicy-argentinian-steak-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:48:07.590Z"
+}
