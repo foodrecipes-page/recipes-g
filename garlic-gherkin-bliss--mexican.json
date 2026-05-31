@@ -1,0 +1,50 @@
+{
+  "slug": "garlic-gherkin-bliss--mexican",
+  "title": "Mexican Bliss Salsa",
+  "description": "A tangy and spicy salsa made with bliss, gherkin, and a hint of garlic. Perfect for topping tacos or grilled meats.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bliss",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Gherkin",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    }
+  ],
+  "instructions": [
+    "Mince the garlic and mix with the bliss and gherkin in a bowl.",
+    "Squeeze a lime juice over the mixture and stir well.",
+    "Season with salt and pepper to taste.",
+    "Refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve chilled or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "salsa",
+    "appetizer",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 50,
+    "protein": 1,
+    "carbs": 12,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlic-gherkin-bliss--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:01:59.770Z"
+}
