@@ -4572,18 +4572,14 @@
   },
   {
     "slug": "garlicky-tender-ukrainian-sweetcorn-stew",
-    "title": "Garlicky Tender Ukrainian Sweetcorn Stew",
+    "title": "Ukrainian Stew with Sweet Corn and Tender Beef",
     "tags": [
-      "diabetic-friendly",
-      "garlicky",
-      "one-pan",
-      "stew",
-      "sweetcorn",
-      "ukrainian",
-      "weeknight"
+      "ukrainian-stew",
+      "beef-stew",
+      "sweet-corn"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 110,
     "shard": "g"
   },
   {
@@ -15444,16 +15440,15 @@
   },
   {
     "slug": "ground-galangal-ginger-syrian-galangal-bake",
-    "title": "Ground Galangal Ginger Syrian Bake",
+    "title": "Galangal and Ginger Meatballs",
     "tags": [
+      "meatballs",
+      "thai",
       "galangal",
-      "high-protein",
-      "one-pan",
-      "syrian",
-      "weeknight"
+      "ginger"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 35,
+    "cuisine": "Thai",
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {
@@ -15473,15 +15468,16 @@
   },
   {
     "slug": "gruyere-kale-saute",
-    "title": "Gruyère Kale Saute",
+    "title": "Gruyere Kale Frittata",
     "tags": [
-      "gourmet",
-      "kale",
-      "gruyere",
-      "herbaceous"
+      "breakfast",
+      "lunch",
+      "brunch",
+      "italian",
+      "vegetarian"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 40,
+    "cuisine": "Italian",
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
