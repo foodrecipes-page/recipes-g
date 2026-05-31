@@ -1,0 +1,73 @@
+{
+  "slug": "gooey-spanish-horseradish-wrap",
+  "title": "Gooey Spanish Wrap",
+  "description": "A fusion of gooey cheese, savory Spanish chorizo, and spicy horseradish in a crispy tortilla wrap.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Gooey cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Spanish chorizo",
+      "amount": "4 oz, sliced"
+    },
+    {
+      "name": "Horseradish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Large tortilla wrap",
+      "amount": "1"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a large skillet over medium heat.",
+    "2. Add sliced chorizo and cook until crispy, about 3-4 minutes.",
+    "3. Remove chorizo from skillet and set aside.",
+    "4. Add 1 tbsp of horseradish sauce to the skillet and stir to coat.",
+    "5. Add shredded cheese to the skillet and stir until melted and gooey.",
+    "6. Warm the tortilla wrap by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "7. Assemble the wrap by placing the chorizo, cheese mixture, and chopped cilantro onto the tortilla.",
+    "8. Season with salt and pepper to taste.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "cheesy",
+    "chorizo",
+    "horseradish",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 30,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-spanish-horseradish-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:18:27.222Z"
+}
