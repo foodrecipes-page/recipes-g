@@ -1,0 +1,82 @@
+{
+  "slug": "gooey-kenyan-shortening-fritters",
+  "title": "Kenyan Fritters",
+  "description": "A classic Kenyan snack, these fritters are crispy on the outside and gooey on the inside.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup all-purpose flour",
+      "amount": "",
+      "notes": "can be substituted with whole wheat flour"
+    },
+    {
+      "name": "1/2 cup shortening",
+      "amount": "",
+      "notes": "can be replaced with vegetable oil"
+    },
+    {
+      "name": "1/4 cup gooey",
+      "amount": "",
+      "notes": "adjust to desired level of gooeyness"
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon cayenne pepper",
+      "amount": "",
+      "notes": "optional"
+    },
+    {
+      "name": "2 eggs",
+      "amount": "",
+      "notes": "beaten"
+    },
+    {
+      "name": "1 cup buttermilk",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 375°F (190°C).",
+    "In a large bowl, whisk together flour, salt, black pepper, and cayenne pepper.",
+    "In a separate bowl, whisk together eggs and buttermilk.",
+    "Add gooey and mix until a smooth batter forms.",
+    "Gradually add dry ingredients to wet ingredients and mix until just combined.",
+    "Using a spoon, drop small balls of the batter into the hot oil.",
+    "Fry fritters until golden brown, about 3-4 minutes.",
+    "Using a slotted spoon, remove fritters from the oil and place on a paper towel-lined plate.",
+    "Serve fritters warm and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-kenyan-shortening-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T03:05:10.370Z"
+}
