@@ -1,0 +1,67 @@
+{
+  "slug": "grassy-gooey-tunisian-shiso-leaf-tagine",
+  "title": "Tunisian Tagine Delight",
+  "description": "A fragrant and flavorful dish that showcases the unique flavors of Tunisia. This recipe is perfect for a warm evening meal.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Grassy Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Gooey Apricots",
+      "amount": "1 cup chopped"
+    },
+    {
+      "name": "Tunisian Spices",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Shiso Leaves",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "Leafy Spinach",
+      "amount": "1 cup fresh"
+    },
+    {
+      "name": "Tagine Broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the Grassy Olive Oil in a large pan over medium heat.",
+    "Add the chopped Gooey Apricots and cook for 2-3 minutes.",
+    "Add the Tunisian Spices and cook for another minute.",
+    "Add the chopped Shiso Leaves and cook for 1 minute.",
+    "Add the fresh Leafy Spinach and cook until wilted.",
+    "Pour in the Tagine Broth and bring to a simmer.",
+    "Reduce heat to low and let cook for 10-15 minutes.",
+    "Serve hot and garnish with additional Shiso Leaves if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tunisian",
+    "vegetarian",
+    "tagine",
+    "spices"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grassy-gooey-tunisian-shiso-leaf-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T05:01:03.692Z"
+}
