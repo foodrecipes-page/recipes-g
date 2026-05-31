@@ -1,0 +1,80 @@
+{
+  "slug": "gooey-australian-parmigiano-reggiano-stir-fry",
+  "title": "Australian Parmigiano Crusted Gooey Stir Fry",
+  "description": "A unique stir fry dish featuring a gooey center, topped with a crispy Australian Parmigiano crust. Enjoy the combination of savory flavors and textures in this creative recipe.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gooey (cheese)",
+      "amount": "250g",
+      "notes": "Softened to room temperature"
+    },
+    {
+      "name": "Australian Parmigiano",
+      "amount": "150g",
+      "notes": ""
+    },
+    {
+      "name": "Reggiano",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "Stir Fry Vegetables",
+      "amount": "1 cup",
+      "notes": "Your choice of vegetables (e.g., bell peppers, carrots, broccoli)"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a bowl, mix together the softened Gooey and Australian Parmigiano until well combined.",
+    "Add the Reggiano to the bowl and mix until a crumbly mixture forms.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the stir fry vegetables to the skillet and cook until tender.",
+    "Form the Gooey mixture into a ball and place it on top of the vegetables.",
+    "Sprinkle the crumbly mixture evenly over the Gooey.",
+    "Transfer the skillet to the preheated oven and bake for 10-12 minutes, or until the cheese is melted and bubbly.",
+    "Remove the skillet from the oven and season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "cheesy",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-australian-parmigiano-reggiano-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:48:24.125Z"
+}
