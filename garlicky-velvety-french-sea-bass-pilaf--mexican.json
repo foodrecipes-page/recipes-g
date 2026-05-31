@@ -1,0 +1,70 @@
+{
+  "slug": "garlicky-velvety-french-sea-bass-pilaf--mexican",
+  "title": "Bass with French Pilaf and Sea Garlic",
+  "description": "A flavorful and aromatic Mexican-inspired dish featuring bass, pilaf, and a hint of sea garlic.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bass fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "French pilaf",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Velvety sea garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Garlicky butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 200°C.",
+    "2. Season bass fillets with salt and pepper.",
+    "3. In a pan, melt 1 tbsp of garlicky butter over medium heat.",
+    "4. Add the bass fillets and sear for 2-3 minutes.",
+    "5. Transfer the pan to the oven and bake for 8-10 minutes.",
+    "6. Meanwhile, cook the French pilaf according to package instructions.",
+    "7. Heat the remaining 1 tbsp of garlicky butter in a pan over medium heat.",
+    "8. Add the velvety sea garlic and sauté for 1-2 minutes.",
+    "9. Serve the baked bass on top of the French pilaf with a drizzle of sea garlic sauce.",
+    "10. Garnish with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "fish",
+    "pilaf",
+    "garlic"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-velvety-french-sea-bass-pilaf--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:22:02.359Z"
+}
