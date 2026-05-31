@@ -1,0 +1,94 @@
+{
+  "slug": "ground-croatian-lamb-stew--vegetarian",
+  "title": "Croatian Stew",
+  "description": "A hearty and flavorful stew made with lamb and a blend of spices, perfect for a chilly evening. This dish is a twist on the traditional Croatian version, adapted for a vegetarian diet.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb (substituted with portobello mushrooms)",
+      "amount": "1 cup, sliced",
+      "notes": "Use a meat substitute or mushrooms for a vegetarian version"
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Croatian paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "3 large",
+      "notes": ""
+    },
+    {
+      "name": "Red wine (substituted with vegetable broth)",
+      "amount": "1 cup",
+      "notes": "Use a vegetarian broth for a meat-free version"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add the sliced mushrooms and cook until browned, about 5 minutes.",
+    "Add the onion and garlic and cook until the onion is translucent, about 5 minutes.",
+    "Add the Croatian paprika and cook for 1 minute.",
+    "Add the tomato paste and cook for 1 minute.",
+    "Add the carrots and potatoes and cook for 5 minutes.",
+    "Add the red wine (or vegetable broth) and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "stew",
+    "croatian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ground-croatian-lamb-stew--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T04:40:02.157Z"
+}
