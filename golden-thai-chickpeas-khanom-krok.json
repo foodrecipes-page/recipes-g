@@ -1,0 +1,87 @@
+{
+  "slug": "golden-thai-chickpeas-khanom-krok",
+  "title": "Thai-Style Golden Chickpea Fritters",
+  "description": "A crispy and flavorful street food-inspired snack made with golden chickpeas and topped with khanom and krok.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can (15 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "golden",
+      "amount": "2 tbsp",
+      "notes": "vegetable oil"
+    },
+    {
+      "name": "thai red curry paste",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "khanom",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "krok",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350°F (180°C).",
+    "In a bowl, mash the chickpeas using a fork.",
+    "Add the curry paste, salt, and black pepper to the bowl and mix well.",
+    "Add the egg to the bowl and mix until a dough forms.",
+    "Using your hands, shape the dough into small patties.",
+    "When the oil is hot, add 2-3 patties to the pan and fry for 2-3 minutes on each side.",
+    "Remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the fritters hot with chopped khanom and krok on top.",
+    "Repeat the frying process with the remaining patties."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "snack",
+    "thaifood",
+    "chickpeas",
+    "fritters",
+    "khanom",
+    "krok"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-thai-chickpeas-khanom-krok",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:55:21.016Z"
+}
