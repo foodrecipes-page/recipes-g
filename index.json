@@ -3848,18 +3848,15 @@
   },
   {
     "slug": "garlicky-portuguese-garlic-grill",
-    "title": "Portuguese Garlicky Grill",
+    "title": "Grilled Portuguese Steak with Garlic",
     "tags": [
-      "easy-to-make",
-      "garlic-lovers",
       "grilled",
-      "one-pan",
+      "steak",
       "portuguese",
-      "vegan",
-      "weeknight"
+      "garlic"
     ],
-    "cuisine": "portuguese",
-    "totalTimeMin": 18,
+    "cuisine": "Portuguese",
+    "totalTimeMin": 30,
     "shard": "g"
   },
   {
@@ -13882,16 +13879,15 @@
   },
   {
     "slug": "grassy-brazilian-rice-bake",
-    "title": "Grassy Brazilian Rice Bake",
+    "title": "Brazilian Grilled Grasshoppers with Coconut Rice",
     "tags": [
-      "comfort-food",
-      "lacto-vegetarian",
-      "one-pan",
-      "sunday-brunch",
-      "weeknight"
+      "grilled",
+      "coconut",
+      "rice",
+      "snack"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
@@ -15436,17 +15432,15 @@
   },
   {
     "slug": "ground-croatian-lamb-stew",
-    "title": "Ground Croatian Lamb Stew",
+    "title": "Traditional Croatian Stew",
     "tags": [
-      "carrot-rich",
-      "halal-friendly",
-      "lamb-based",
-      "one-pot",
-      "pressure-cooker",
-      "weeknight"
+      "lamb",
+      "croatian",
+      "stew",
+      "traditional"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 110,
     "shard": "g"
   },
   {
