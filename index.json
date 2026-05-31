@@ -8168,17 +8168,15 @@
   },
   {
     "slug": "gleaming-turkish-wheat-salad",
-    "title": "Gleaming Turkish Wheat Salad",
+    "title": "Turkish Wheat Salad",
     "tags": [
-      "grain-based",
-      "kosher-friendly",
-      "quick",
       "salad",
       "turkish",
-      "village"
+      "wheat",
+      "healthy"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 25,
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
