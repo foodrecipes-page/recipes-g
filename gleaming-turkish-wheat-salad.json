@@ -1,0 +1,73 @@
+{
+  "slug": "gleaming-turkish-wheat-salad",
+  "title": "Turkish Wheat Salad",
+  "description": "A hearty and refreshing salad made with wheat, vegetables, and a hint of Turkish spices.",
+  "cuisine": "Turkish",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wheat Berries",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mixed Salad Greens",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Turkish Red Pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Gleaming Feta Cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cook the wheat berries according to package instructions.",
+    "In a large bowl, combine the cooked wheat berries, mixed salad greens, diced red pepper, and crumbled feta cheese.",
+    "In a small bowl, whisk together the olive oil, lemon juice, and garlic powder.",
+    "Pour the dressing over the wheat berry mixture and toss to combine.",
+    "Season with salt to taste.",
+    "Serve chilled or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "salad",
+    "turkish",
+    "wheat",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gleaming-turkish-wheat-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T21:22:57.834Z"
+}
