@@ -1,0 +1,84 @@
+{
+  "slug": "glassy-jelly-korean-eggs-quiche--indian",
+  "title": "Korean Quiche with Glassy Egg",
+  "description": "A twist on traditional quiche, this Indian-inspired dish combines the flavors of Korea with a rich, glassy egg.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Glassy Egg",
+      "amount": "2",
+      "notes": "Beaten to a frothy consistency"
+    },
+    {
+      "name": "Korean Chili Flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Quiche Crust",
+      "amount": "1",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Jelly",
+      "amount": "2 tbsp",
+      "notes": "Use a spicy Korean chili jelly for added flavor"
+    },
+    {
+      "name": "Garam Masala",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Cheese (optional)",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the quiche crust and place in a pie dish.",
+    "In a separate bowl, whisk together the glassy egg, Korean chili flakes, garam masala, salt, and black pepper.",
+    "Add the jelly to the egg mixture and stir to combine.",
+    "Pour the egg mixture into the quiche crust.",
+    "If using cheese, sprinkle on top of the egg mixture.",
+    "Bake for 25-30 minutes, or until the quiche is set and golden brown.",
+    "Let cool for 5 minutes before serving.",
+    "Serve warm, garnished with additional Korean chili flakes if desired.",
+    "Enjoy with a side of naan or rice for a complete Indian-inspired breakfast."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "indian",
+    "breakfast",
+    "quiche",
+    "eggs"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/glassy-jelly-korean-eggs-quiche--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:12:04.673Z"
+}
