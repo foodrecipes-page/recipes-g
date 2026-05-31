@@ -1,0 +1,85 @@
+{
+  "slug": "grassy-brazilian-rice-bake",
+  "title": "Brazilian Grilled Grasshoppers with Coconut Rice",
+  "description": "A unique and exotic dish from Brazil, featuring grilled grasshoppers and coconut-infused rice.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Grassy grasshoppers",
+      "amount": "12",
+      "notes": "Fresh and cleaned"
+    },
+    {
+      "name": "Brazilian coconut milk",
+      "amount": "1 cup",
+      "notes": "Full-fat for best flavor"
+    },
+    {
+      "name": "Bake sweet potatoes",
+      "amount": "2",
+      "notes": "Large and peeled"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "Uncooked white rice"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped and for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 375°F (190°C).",
+    "In a bowl, mix together coconut milk, salt, and black pepper.",
+    "Add grasshoppers to the bowl and toss to coat.",
+    "Grill grasshoppers for 3-4 minutes or until crispy.",
+    "Meanwhile, cook sweet potatoes in a separate pot until tender.",
+    "Fluff cooked rice with a fork and stir in coconut oil.",
+    "Add cooked sweet potatoes to the rice and mix well.",
+    "To assemble, place a portion of coconut rice on a plate, top with grilled grasshoppers, and garnish with cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "coconut",
+    "rice",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grassy-brazilian-rice-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T22:56:54.158Z"
+}
