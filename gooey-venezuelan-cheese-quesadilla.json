@@ -1,0 +1,57 @@
+{
+  "slug": "gooey-venezuelan-cheese-quesadilla",
+  "title": "Venezuelan Quesadilla",
+  "description": "A crispy and gooey Venezuelan-inspired quesadilla filled with melted cheese. Perfect for a snack or light meal.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "gooey cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "quesadilla",
+      "amount": "1",
+      "notes": "preferably venezuelan-style"
+    },
+    {
+      "name": "venezuelan cheese",
+      "amount": "4 oz",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium heat.",
+    "Place the quesadilla in the skillet and sprinkle with venezuelan cheese.",
+    "Cook for 2-3 minutes or until the cheese is melted and the quesadilla is crispy.",
+    "Flip the quesadilla over and cook for an additional 2-3 minutes or until the other side is crispy.",
+    "Cut the quesadilla into wedges and serve hot.",
+    "Optional: top with additional venezuelan cheese and gooey cheese."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "venezuelan",
+    "cheese",
+    "quesadilla",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-venezuelan-cheese-quesadilla",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T03:33:56.795Z"
+}
