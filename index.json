@@ -536,14 +536,15 @@
   },
   {
     "slug": "garlic-tadka-whole30",
-    "title": "Garlic Tadka Whole30",
+    "title": "Whole30 Garlic Tadka Chicken",
     "tags": [
-      "garlic",
-      "tadka",
-      "whole30"
+      "whole30",
+      "gluten-free",
+      "dinner",
+      "chicken"
     ],
-    "cuisine": "French",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 30,
     "shard": "g"
   },
   {
@@ -9753,16 +9754,15 @@
   },
   {
     "slug": "golden-crisp-middle-eastern-rice-pilaf",
-    "title": "Golden Crisp Middle Eastern Rice Pilaf",
+    "title": "Eastern-Style Middle Rice Pilaf",
     "tags": [
       "middle-eastern",
-      "one-pan",
-      "romantic-dinner",
-      "sweet-and-sour",
-      "weeknight"
+      "rice-pilaf",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 35,
+    "cuisine": "middle-eastern",
+    "totalTimeMin": 30,
     "shard": "g"
   },
   {
@@ -10660,16 +10660,14 @@
   },
   {
     "slug": "golden-hashed-butter-cazuela",
-    "title": "Golden Hashed Butter Cazuela",
+    "title": "Golden Cazuela with Hashed Potatoes",
     "tags": [
-      "breakfast",
-      "brunch",
-      "canadian",
-      "fried-eggs",
-      "one-pan"
+      "cazuela",
+      "hashbrowns",
+      "spanish"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 30,
+    "cuisine": "spanish",
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
@@ -15575,6 +15573,19 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
+    "slug": "garlic-gherkin-bliss--mexican",
+    "title": "Mexican Bliss Salsa",
+    "tags": [
+      "mexican",
+      "salsa",
+      "appetizer",
+      "vegan"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 10,
     "shard": "g"
   }
 ]
