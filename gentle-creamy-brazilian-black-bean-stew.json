@@ -1,0 +1,78 @@
+{
+  "slug": "gentle-creamy-brazilian-black-bean-stew",
+  "title": "Brazilian Black Bean Stew",
+  "description": "A hearty and comforting stew originating from Brazil, featuring tender black beans, a blend of spices, and a hint of gentle flavors.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "black bean",
+      "amount": "1 cup, drained and rinsed"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "diced bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 (14.5 oz) can"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Brazilian-style stew seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "gentle ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of oil in a large pot over medium heat. Add the onion, garlic, and bell pepper and cook until the vegetables are softened.",
+    "Add the black beans, diced tomatoes, vegetable broth, stew seasoning, and cumin. Stir to combine.",
+    "Bring the stew to a simmer, then reduce the heat to low and cook for 20-25 minutes or until the flavors have melded together.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian",
+    "black-bean",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gentle-creamy-brazilian-black-bean-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T03:07:31.718Z"
+}
