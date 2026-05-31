@@ -1,0 +1,68 @@
+{
+  "slug": "garlicky-portuguese-garlic-grill",
+  "title": "Grilled Portuguese Steak with Garlic",
+  "description": "A flavorful and aromatic dish featuring a grilled steak marinated in a mixture of garlicky goodness, perfect for a summer evening.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Portuguese Steak",
+      "amount": "1.5 lbs",
+      "notes": "such as Picanha or Alcatra"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Garlicky Marinade",
+      "amount": "1/4 cup",
+      "notes": "see instructions"
+    },
+    {
+      "name": "Grill",
+      "amount": "",
+      "notes": "preheated to medium-high heat"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a small bowl, mix together the minced garlic, salt, and pepper to make the garlicky marinade.",
+    "Season the steak with salt and pepper on both sides.",
+    "Brush the garlicky marinade on both sides of the steak.",
+    "Place the steak on the grill and cook for 5-7 minutes per side, or until it reaches your desired level of doneness.",
+    "Transfer the steak to a plate and let it rest for 5 minutes before slicing.",
+    "Slice the steak against the grain and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "steak",
+    "portuguese",
+    "garlic"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 50,
+    "carbs": 0,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-portuguese-garlic-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T23:13:04.399Z"
+}
