@@ -1,0 +1,88 @@
+{
+  "slug": "garlicky-tender-ukrainian-sweetcorn-stew",
+  "title": "Ukrainian Stew with Sweet Corn and Tender Beef",
+  "description": "A hearty Ukrainian-inspired stew filled with tender beef, sweet corn, and a hint of garlic.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tender Beef",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Garlicky Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Ukrainian Stew Seasoning",
+      "amount": "2 teaspoons",
+      "notes": "Available at most grocery stores"
+    },
+    {
+      "name": "Sweet Corn",
+      "amount": "2 cups",
+      "notes": "Fresh or frozen, thawed"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "4 cups",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Stew",
+      "amount": "1 tablespoon",
+      "notes": "Optional, for added flavor"
+    }
+  ],
+  "instructions": [
+    "Heat a large Dutch oven over medium-high heat.",
+    "Add the chopped onion and cook until browned, about 5 minutes.",
+    "Add the beef and cook until browned, about 5 minutes.",
+    "Add the Ukrainian stew seasoning, beef broth, water, salt, and black pepper.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 1 1/2 hours, or until the beef is tender.",
+    "Add the sweet corn and continue to simmer for an additional 15 minutes.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian-stew",
+    "beef-stew",
+    "sweet-corn"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 42,
+    "fat": 26
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-tender-ukrainian-sweetcorn-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T02:43:42.514Z"
+}
