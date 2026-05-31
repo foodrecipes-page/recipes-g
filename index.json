@@ -15587,5 +15587,19 @@
     "cuisine": "mexican",
     "totalTimeMin": 10,
     "shard": "g"
+  },
+  {
+    "slug": "glassy-jelly-korean-eggs-quiche--indian",
+    "title": "Korean Quiche with Glassy Egg",
+    "tags": [
+      "korean",
+      "indian",
+      "breakfast",
+      "quiche",
+      "eggs"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "g"
   }
 ]
