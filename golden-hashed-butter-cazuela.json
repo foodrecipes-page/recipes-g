@@ -1,0 +1,67 @@
+{
+  "slug": "golden-hashed-butter-cazuela",
+  "title": "Golden Cazuela with Hashed Potatoes",
+  "description": "A hearty and comforting dish featuring golden cazuela, crispy hashed potatoes, and a hint of butter.",
+  "cuisine": "spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cazuela",
+      "amount": "1 cup",
+      "notes": "Golden and tender"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "Hashed into small pieces"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Unsalted and melted"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Add as needed"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "Add as needed"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large skillet over medium heat.",
+    "Add potatoes and cook until golden brown, about 10-12 minutes.",
+    "Stir occasionally to prevent burning.",
+    "Add cazuela and stir to combine with potatoes.",
+    "Cook for an additional 2-3 minutes, until heated through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cazuela",
+    "hashbrowns",
+    "spanish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-hashed-butter-cazuela",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:03:55.890Z"
+}
