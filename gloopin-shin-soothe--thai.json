@@ -1,0 +1,92 @@
+{
+  "slug": "gloopin-shin-soothe--thai",
+  "title": "Thai-Style Beef and Vegetable Stir-Fry",
+  "description": "A flavorful and nutritious stir-fry made with beef shin, mixed vegetables, and a blend of Thai spices.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef shin",
+      "amount": "1 pound",
+      "notes": "Slice into thin strips"
+    },
+    {
+      "name": "gloopin",
+      "amount": "1 cup",
+      "notes": "Trimmed and sliced"
+    },
+    {
+      "name": "sooth oil",
+      "amount": "2 tablespoons",
+      "notes": "Used for stir-frying"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "Grated"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "Used to add depth of flavor"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "Used to balance the dish"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "Added for some heat"
+    },
+    {
+      "name": "sooth paste",
+      "amount": "2 tablespoons",
+      "notes": "Used to thicken the sauce"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of soothe oil in a large skillet or wok over medium-high heat.",
+    "Add the beef and cook until browned, about 3-4 minutes.",
+    "Remove the beef from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of soothe oil to the skillet.",
+    "Add the garlic and ginger and cook until fragrant, about 1 minute.",
+    "Add the gloopin and cook until tender, about 3-4 minutes.",
+    "Add the fish sauce, brown sugar, and chili flakes to the skillet and stir to combine.",
+    "Return the beef to the skillet and stir to coat with the sauce.",
+    "Stir in the soothe paste to thicken the sauce.",
+    "Cook for an additional 1-2 minutes, until the sauce has thickened and the beef is cooked through.",
+    "Serve hot over steamed rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "beef",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gloopin-shin-soothe--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:53:37.669Z"
+}
