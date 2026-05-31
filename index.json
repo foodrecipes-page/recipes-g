@@ -5234,17 +5234,15 @@
   },
   {
     "slug": "gentle-creamy-brazilian-black-bean-stew",
-    "title": "Gentle Creamy Brazilian Black Bean Stew",
+    "title": "Brazilian Black Bean Stew",
     "tags": [
-      "brazilian-cuisine",
-      "comfort-food",
-      "crowd-pleaser",
-      "fermented-food",
-      "lacto-vegetarian",
-      "one-pot"
+      "brazilian",
+      "black-bean",
+      "stew",
+      "vegetarian"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
@@ -12294,18 +12292,13 @@
   },
   {
     "slug": "gooey-kenyan-shortening-fritters",
-    "title": "Gooey Kenyan Shortening Fritters",
+    "title": "Kenyan Fritters",
     "tags": [
-      "chocolate",
-      "dessert",
-      "easy-to-make",
-      "fritters",
       "kenyan",
-      "shortening",
-      "weeknight"
+      "snack"
     ],
     "cuisine": "kenyan",
-    "totalTimeMin": 25,
+    "totalTimeMin": 20,
     "shard": "g"
   },
   {
@@ -13257,17 +13250,15 @@
   },
   {
     "slug": "gooey-venezuelan-cheese-quesadilla",
-    "title": "Gooey Venezuelan Cheese Quesadilla",
+    "title": "Venezuelan Quesadilla",
     "tags": [
-      "cheese-heavy",
-      "comfort-food",
-      "date-night",
-      "easy",
-      "quick",
-      "spicy"
+      "venezuelan",
+      "cheese",
+      "quesadilla",
+      "snack"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 18,
+    "cuisine": "venezuelan",
+    "totalTimeMin": 13,
     "shard": "g"
   },
   {
