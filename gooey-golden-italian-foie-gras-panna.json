@@ -1,0 +1,90 @@
+{
+  "slug": "gooey-golden-italian-foie-gras-panna",
+  "title": "Golden Panna Gooey Gras Cake",
+  "description": "A rich and decadent dessert featuring a gooey centre, topped with a golden panna sauce and crispy foie gras.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "foie gras",
+      "amount": "200g"
+    },
+    {
+      "name": "panna",
+      "amount": "250ml"
+    },
+    {
+      "name": "golden syrup",
+      "amount": "100ml"
+    },
+    {
+      "name": "goey honey",
+      "amount": "50g"
+    },
+    {
+      "name": "eggs",
+      "amount": "4"
+    },
+    {
+      "name": "sugar",
+      "amount": "100g"
+    },
+    {
+      "name": "flour",
+      "amount": "150g"
+    },
+    {
+      "name": "butter",
+      "amount": "50g"
+    },
+    {
+      "name": "milk",
+      "amount": "100ml"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "5ml"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Butter a 20cm (8 inch) cake tin and line the base with parchment paper.",
+    "In a medium bowl, whisk together the flour, sugar, and a pinch of salt.",
+    "In a large bowl, whisk together the eggs, milk, and vanilla extract.",
+    "Melt the butter and golden syrup in a saucepan over low heat.",
+    "Pour the melted butter mixture into the egg mixture and whisk until smooth.",
+    "Add the flour mixture to the egg mixture and whisk until just combined.",
+    "Pour the batter into the prepared cake tin and smooth the top.",
+    "Bake for 25-30 minutes or until a skewer inserted into the centre comes out clean.",
+    "While the cake is baking, prepare the panna sauce by heating the panna in a saucepan over low heat until warm and smooth.",
+    "Remove the cake from the oven and let it cool in the tin for 5 minutes.",
+    "Transfer the cake to a wire rack to cool completely.",
+    "To assemble the dessert, place the cake on a serving plate and top with the warm panna sauce.",
+    "Crumble the foie gras over the top of the sauce and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "italian",
+    "dessert",
+    "rich",
+    "decadent"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-golden-italian-foie-gras-panna",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:20:37.251Z"
+}
