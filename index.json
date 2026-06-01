@@ -6456,17 +6456,14 @@
   },
   {
     "slug": "gently-smoky-turkish-wild-mushrooms-roast",
-    "title": "Gently Smoky Turkish Wild Mushrooms Roast",
+    "title": "Smoky Wild Mushroom Stew",
     "tags": [
-      "one-pan",
-      "smoky",
-      "turkish",
-      "vegan",
-      "vegetarian",
-      "wild-mushrooms"
+      "wild-mushroom",
+      "stew",
+      "turkish"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
@@ -15442,16 +15439,17 @@
   },
   {
     "slug": "ground-gingered-vietnamese-beef-com-tam",
-    "title": "Ground Gingered Vietnamese Beef Com Tam",
+    "title": "Beef and Tam Com Bowl",
     "tags": [
-      "flexitarian",
-      "high-protein",
-      "one-pan",
-      "street-food",
-      "vietnamese-cuisine",
-      "weeknight"
+      "vietnamese",
+      "beef",
+      "tam",
+      "com",
+      "gingered",
+      "ginger",
+      "spicy"
     ],
-    "cuisine": "Vietnamese",
+    "cuisine": "vietnamese",
     "totalTimeMin": 25,
     "shard": "g"
   },
