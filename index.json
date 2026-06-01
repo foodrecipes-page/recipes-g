@@ -7846,17 +7846,15 @@
   },
   {
     "slug": "glazed-crispy-mexican-kale-bake",
-    "title": "Glazed Crispy Mexican Kale Bake",
+    "title": "Mexican Kale Bake",
     "tags": [
-      "gluten-free",
-      "healthy",
-      "kale",
-      "low-calorie",
       "mexican",
-      "one-pan"
+      "kale",
+      "bake",
+      "chicken"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {
@@ -15286,13 +15284,12 @@
   },
   {
     "slug": "gritty-ethiopian-lemongrass-ye-beg-aliche",
-    "title": "Gritty Ethiopian Lemongrass Ye Beg Aliche",
+    "title": "Aliche's Spicy Lemongrass Chicken",
     "tags": [
+      "chicken",
+      "ethiopian",
       "lemongrass",
-      "monsoon",
-      "one-pot",
-      "smoky-flavor",
-      "vegan"
+      "spicy"
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 35,
@@ -15640,6 +15637,32 @@
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
+    "slug": "gooey-golden-italian-foie-gras-panna--japanese",
+    "title": "Japanese Foie Gras Teriyaki",
+    "tags": [
+      "japanese",
+      "foie-gras",
+      "teriyaki",
+      "luxurious",
+      "sophisticated"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
+    "slug": "gloopin-shin-soothe--indian",
+    "title": "Soothe and Shin Korma",
+    "tags": [
+      "indian",
+      "korma",
+      "soothe"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
     "shard": "g"
   }
 ]
