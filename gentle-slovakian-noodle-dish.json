@@ -1,0 +1,75 @@
+{
+  "slug": "gentle-slovakian-noodle-dish",
+  "title": "Slovakian Noodle Dish",
+  "description": "A hearty and comforting Slovakian-inspired noodle dish. The combination of tender noodles, savory meat, and flavorful spices will transport your taste buds to Eastern Europe.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "500g"
+    },
+    {
+      "name": "Noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Caraway Seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Milk",
+      "amount": "100ml"
+    }
+  ],
+  "instructions": [
+    "Brown the ground beef in a pan over medium-high heat.",
+    "Add the chopped onion and cook until softened.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the caraway seeds and cook for 1 minute.",
+    "Add the noodles to the pan and stir to combine.",
+    "Add the milk and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Simmer the dish for 10-15 minutes or until the noodles are cooked through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "noodle-dish",
+    "slovakian-cuisine",
+    "homemade"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gentle-slovakian-noodle-dish",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T06:36:47.057Z"
+}
