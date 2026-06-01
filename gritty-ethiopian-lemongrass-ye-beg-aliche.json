@@ -1,0 +1,85 @@
+{
+  "slug": "gritty-ethiopian-lemongrass-ye-beg-aliche",
+  "title": "Aliche's Spicy Lemongrass Chicken",
+  "description": "A fusion of spicy and lemongrass flavors in a traditional Ethiopian-style chicken dish.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Aliche",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Lemongrass",
+      "amount": "2 stalks, bruised",
+      "notes": "Use only the white and light green parts"
+    },
+    {
+      "name": "Gritty",
+      "amount": "1 cup",
+      "notes": "Gritty bread crumbs can be used as a coating"
+    },
+    {
+      "name": "Ye",
+      "amount": "1/4 cup",
+      "notes": "Ethiopian flatbread, torn into small pieces"
+    },
+    {
+      "name": "Beg",
+      "amount": "2",
+      "notes": "Onion, chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a large skillet over medium-high heat.",
+    "2. Add the bruised lemongrass and cook for 1 minute, until fragrant.",
+    "3. Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "4. Add the torn ye and cook for an additional 2 minutes.",
+    "5. Add the chicken and cook until browned on all sides, about 5-6 minutes.",
+    "6. Reduce heat to medium-low and add the salt, black pepper, and lemongrass.",
+    "7. Simmer for 10-12 minutes, until the chicken is cooked through.",
+    "8. Serve hot, garnished with additional lemongrass if desired.",
+    "9. Serve with injera bread or over rice, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "ethiopian",
+    "lemongrass",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gritty-ethiopian-lemongrass-ye-beg-aliche",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T08:52:07.799Z"
+}
