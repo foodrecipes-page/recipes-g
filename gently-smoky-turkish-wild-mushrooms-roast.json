@@ -1,0 +1,86 @@
+{
+  "slug": "gently-smoky-turkish-wild-mushrooms-roast",
+  "title": "Smoky Wild Mushroom Stew",
+  "description": "A hearty and flavorful stew made with wild mushrooms and a hint of smokiness.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wild mushrooms",
+      "amount": "1 cup",
+      "notes": "any variety"
+    },
+    {
+      "name": "Gently roast",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Turkish paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "dried"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the gently roast in a large pot over medium heat.",
+    "Add the onion and garlic and cook until the onion is softened.",
+    "Add the wild mushrooms and cook until they release their liquid and start to brown.",
+    "Add the Turkish paprika, tomato paste, and beef broth. Stir to combine.",
+    "Bring the stew to a simmer and cook for 20 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "wild-mushroom",
+    "stew",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gently-smoky-turkish-wild-mushrooms-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T13:36:54.132Z"
+}
