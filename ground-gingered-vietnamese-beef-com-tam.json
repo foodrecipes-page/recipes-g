@@ -1,0 +1,95 @@
+{
+  "slug": "ground-gingered-vietnamese-beef-com-tam",
+  "title": "Beef and Tam Com Bowl",
+  "description": "A flavorful and nutritious bowl filled with ground beef, tam, and com, inspired by Vietnamese cuisine.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "omnivore",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": "80/20 or 70/30 lean to fat ratio works best"
+    },
+    {
+      "name": "Vietnamese Gingered Sauce",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Tam",
+      "amount": "2 cups",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "Com (Vietnamese-Style Fried Rice)",
+      "amount": "2 cups",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped",
+      "notes": "optional garnish"
+    },
+    {
+      "name": "Scallions",
+      "amount": "chopped",
+      "notes": "optional garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Cook the ground beef in a large skillet over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the Vietnamese gingered sauce and cook for 1-2 minutes, until the sauce is bubbly and slightly thickened.",
+    "Add the cooked com to the skillet and stir to combine with the beef mixture.",
+    "Add the tam to the skillet and stir to combine with the beef and com mixture.",
+    "Season with soy sauce, salt, and black pepper to taste.",
+    "Serve the beef and tam com mixture hot, garnished with chopped cilantro and scallions if desired.",
+    "Cook the tam according to package instructions, if using frozen.",
+    "Prepare the com according to package instructions, if using store-bought.",
+    "If making homemade com, cook the rice according to package instructions, then stir-fry it with some oil and soy sauce until lightly browned.",
+    "Season the com with salt and black pepper to taste.",
+    "To make the Vietnamese gingered sauce, combine soy sauce, ginger, garlic, and chili flakes in a small bowl. Stir until the ginger is well combined with the soy sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "beef",
+    "tam",
+    "com",
+    "gingered",
+    "ginger",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 35,
+    "carbs": 50,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ground-gingered-vietnamese-beef-com-tam",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T13:27:03.064Z"
+}
