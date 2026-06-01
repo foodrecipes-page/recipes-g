@@ -1,0 +1,74 @@
+{
+  "slug": "gooey-golden-italian-foie-gras-panna--japanese",
+  "title": "Japanese Foie Gras Teriyaki",
+  "description": "A luxurious and savory Japanese-inspired dish featuring seared foie gras in a sweet teriyaki sauce.",
+  "cuisine": "japanese",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Foie Gras",
+      "amount": "4 (6 oz) pieces",
+      "notes": "Grade A foie gras"
+    },
+    {
+      "name": "Italian Panna",
+      "amount": "1 cup",
+      "notes": "Heavy cream"
+    },
+    {
+      "name": "Golden",
+      "amount": "2 tablespoons",
+      "notes": "Honey"
+    },
+    {
+      "name": "Gooey",
+      "amount": "2 tablespoons",
+      "notes": "Grape jelly"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "Japanese soy sauce"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tablespoon",
+      "notes": "Japanese rice vinegar"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a skillet over medium-high heat.",
+    "2. Season the foie gras with salt and pepper.",
+    "3. Sear the foie gras in the skillet for 1-2 minutes per side, or until golden brown.",
+    "4. Meanwhile, combine the panna, golden, gooey, soy sauce, and rice vinegar in a small saucepan.",
+    "5. Bring the mixture to a simmer over medium heat and cook for 2-3 minutes, or until thickened.",
+    "6. Remove the foie gras from the skillet and place it on a plate.",
+    "7. Spoon the teriyaki sauce over the foie gras.",
+    "8. Serve immediately and garnish with sesame seeds and thinly sliced scallions, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "japanese",
+    "foie-gras",
+    "teriyaki",
+    "luxurious",
+    "sophisticated"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-golden-italian-foie-gras-panna--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T09:00:50.284Z"
+}
