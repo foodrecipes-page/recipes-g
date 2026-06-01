@@ -5646,14 +5646,12 @@
     "slug": "gentle-slovakian-noodle-dish",
     "title": "Slovakian Noodle Dish",
     "tags": [
-      "comfort-food",
-      "kid-friendly",
-      "kosher-friendly",
-      "one-pot",
-      "weeknight"
+      "noodle-dish",
+      "slovakian-cuisine",
+      "homemade"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {
@@ -10143,10 +10141,16 @@
   },
   {
     "slug": "golden-flaky-peruvian-lamb-empanadas",
-    "title": "Golden Flaky Peruvian Lamb Empanadas",
-    "tags": [],
+    "title": "Peruvian Lamb Empanadas",
+    "tags": [
+      "peruvian",
+      "lamb",
+      "empanadas",
+      "meat",
+      "snack"
+    ],
     "cuisine": "Peruvian",
-    "totalTimeMin": null,
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {
@@ -15611,6 +15615,31 @@
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 50,
+    "shard": "g"
+  },
+  {
+    "slug": "gooey-australian-parmigiano-reggiano-stir-fry--keto",
+    "title": "Australian Keto Stir Fry",
+    "tags": [
+      "keto",
+      "dinner",
+      "australian",
+      "stir-fry"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-nourishing-spanish-chicken-tortilla-espanola--keto",
+    "title": "Keto Chicken Tortilla Española",
+    "tags": [
+      "keto",
+      "spanish",
+      "breakfast"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 25,
     "shard": "g"
   }
 ]
