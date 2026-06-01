@@ -1,0 +1,79 @@
+{
+  "slug": "gooey-australian-parmigiano-reggiano-stir-fry--keto",
+  "title": "Australian Keto Stir Fry",
+  "description": "A quick and easy stir fry recipe that combines the flavors of Australia with a keto twist.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gooey Honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Australian Grass Fed Beef",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Parmigiano Reggiano Cheese",
+      "amount": "1/2 cup, shredded"
+    },
+    {
+      "name": "Reggiano Cheese Rind",
+      "amount": "1/4 cup, finely chopped"
+    },
+    {
+      "name": "Australian Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Australian Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Australian Ginger",
+      "amount": "1 tablespoon, grated"
+    },
+    {
+      "name": "Australian Green Onions",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the beef to the skillet and cook until browned, about 3-4 minutes.",
+    "Add the garlic and ginger to the skillet and cook for an additional 1-2 minutes.",
+    "Add the chopped green onions to the skillet and cook for an additional 1 minute.",
+    "Stir in the gooey honey and cook for an additional 1-2 minutes.",
+    "Reduce heat to low and stir in the Parmigiano Reggiano cheese until melted.",
+    "Serve immediately and garnish with additional green onions if desired.",
+    "Cook time may vary depending on desired level of doneness for the beef.",
+    "Be sure to cook the beef to a safe internal temperature of at least 145°F (63°C).",
+    "This recipe serves 4 people and can be adjusted to suit individual keto diet needs.",
+    "Nutrition information is an estimate and may vary based on specific ingredients used."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "dinner",
+    "australian",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 5,
+    "fat": 44
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-australian-parmigiano-reggiano-stir-fry--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T06:19:31.726Z"
+}
