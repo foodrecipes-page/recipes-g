@@ -1,0 +1,76 @@
+{
+  "slug": "garlicky-nourishing-spanish-chicken-tortilla-espanola--keto",
+  "title": "Keto Chicken Tortilla Española",
+  "description": "A Spanish-inspired twist on the classic omelette, made keto-friendly with a focus on rich and creamy flavors.",
+  "cuisine": "Spanish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "garlicky",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "chicken",
+      "amount": "8 oz",
+      "notes": "diced"
+    },
+    {
+      "name": "tortilla",
+      "amount": "1/4 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "espanola",
+      "amount": "1/4 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "salt",
+      "amount": ""
+    },
+    {
+      "name": "pepper",
+      "amount": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Crack 2 eggs into a bowl and whisk together.",
+    "Add salt and pepper to taste.",
+    "Heat olive oil in a skillet over medium heat.",
+    "Add diced garlicky, chicken, tortilla, and espanola.",
+    "Cook until the chicken is browned and the vegetables are softened.",
+    "Pour the whisked eggs over the top of the mixture.",
+    "Cook until the eggs are almost set.",
+    "Use a spatula to gently fold the omelette in half.",
+    "Cook for an additional 1-2 minutes.",
+    "Slide the omelette out of the skillet onto a plate.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "spanish",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 5,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-nourishing-spanish-chicken-tortilla-espanola--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T06:42:28.005Z"
+}
