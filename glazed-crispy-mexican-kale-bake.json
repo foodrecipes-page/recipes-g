@@ -1,0 +1,86 @@
+{
+  "slug": "glazed-crispy-mexican-kale-bake",
+  "title": "Mexican Kale Bake",
+  "description": "A flavorful and nutritious Mexican-inspired bake made with crispy kale, tender chicken, and a hint of spice.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "kale",
+      "amount": "2 cups, stems removed and discarded, leaves chopped",
+      "notes": "curly-leaf or lacinato kale work well"
+    },
+    {
+      "name": "mexican seasoning",
+      "amount": "1 tablespoon",
+      "notes": "store-bought or homemade blend"
+    },
+    {
+      "name": "bake",
+      "amount": "1 cup, shredded (Monterey Jack or Cheddar work well)",
+      "notes": "divided"
+    },
+    {
+      "name": "crispy tortilla strips",
+      "amount": "1 cup, crushed",
+      "notes": "or 1/2 cup of crispy fried onions"
+    },
+    {
+      "name": "glazed jalapeños",
+      "amount": "2, sliced",
+      "notes": "optional for some heat"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "In a large bowl, toss the chopped kale with 1 tablespoon of olive oil, salt, and pepper until the leaves are evenly coated.",
+    "Spread the kale mixture onto a baking sheet and roast in the oven for 5-7 minutes, or until crispy and slightly browned.",
+    "In a separate bowl, whisk together the Mexican seasoning, 1/2 cup of the shredded bake, and 1/4 cup of water until smooth.",
+    "In a large skillet, heat 1 tablespoon of olive oil over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned and cooked through, about 5-7 minutes.",
+    "Transfer the chicken to a plate and cover with foil to keep warm.",
+    "In the same skillet, add the crushed crispy tortilla strips and cook, stirring frequently, until crispy and golden brown.",
+    "Add the sliced glazed jalapeños to the skillet and cook for an additional minute.",
+    "To assemble the bake, spread half of the roasted kale mixture into the bottom of a 9x13 inch baking dish.",
+    "Top with the cooked chicken, then sprinkle with the remaining shredded bake.",
+    "Top with the crispy tortilla strip mixture and bake in the preheated oven for 10-12 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "kale",
+    "bake",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 34,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/glazed-crispy-mexican-kale-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T09:24:03.083Z"
+}
