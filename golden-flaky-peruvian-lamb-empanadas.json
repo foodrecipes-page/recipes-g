@@ -1,0 +1,92 @@
+{
+  "slug": "golden-flaky-peruvian-lamb-empanadas",
+  "title": "Peruvian Lamb Empanadas",
+  "description": "A traditional Peruvian dish, these empanadas are filled with tender lamb and spices, wrapped in golden flaky pastry.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1 pound, ground",
+      "notes": "Make sure to cook the lamb to 160°F (71°C)"
+    },
+    {
+      "name": "Golden Flaky Pastry",
+      "amount": "1 package, thawed",
+      "notes": "Use store-bought or homemade pastry for best results"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon, ground",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon, ground",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1, beaten (for egg wash)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C). Line a baking sheet with parchment paper.",
+    "In a large skillet, cook the lamb over medium-high heat, breaking it up with a spoon, until browned, about 5 minutes.",
+    "Add the onion, garlic, cumin, coriander, salt, and pepper to the skillet and cook until the onion is translucent, about 5 minutes.",
+    "Roll out the pastry on a floured surface to a thickness of about 1/8 inch.",
+    "Cut out circles of pastry using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of the lamb mixture in the center of each pastry circle.",
+    "Brush the edges of the pastry with the beaten egg and fold the pastry in half to form a triangle or a square shape.",
+    "Press the edges of the pastry to seal and use a fork to crimp the edges.",
+    "Place the empanadas on the prepared baking sheet and brush the tops with the beaten egg.",
+    "Bake the empanadas for 20-25 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "lamb",
+    "empanadas",
+    "meat",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-flaky-peruvian-lamb-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T06:09:18.089Z"
+}
