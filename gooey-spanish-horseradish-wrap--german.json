@@ -1,0 +1,74 @@
+{
+  "slug": "gooey-spanish-horseradish-wrap--german",
+  "title": "Currywurst Wrap",
+  "description": "A classic German street food made with spicy sausage and topped with ketchup and curry powder, served in a crispy wrap.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "pescetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Spanish sausage",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Horseradish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Gooey cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Wrap",
+      "amount": "4-6"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "for serving"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": "for serving"
+    },
+    {
+      "name": "Ketchup",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "1. Grill the Spanish sausage over medium-high heat until browned and cooked through.",
+    "2. Slice the sausage into thin rounds.",
+    "3. Grill the wraps for 30-60 seconds on each side, until crispy and lightly charred.",
+    "4. Spread a tablespoon of horseradish sauce onto each wrap.",
+    "5. Top with a few slices of sausage, some shredded cheese, and a spoonful of ketchup.",
+    "6. Season with salt and pepper to taste.",
+    "7. Serve immediately.",
+    "8. Garnish with additional ketchup and cheese if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "currywurst",
+    "sausage",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-spanish-horseradish-wrap--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T15:38:29.133Z"
+}
