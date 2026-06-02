@@ -13312,14 +13312,14 @@
   },
   {
     "slug": "goozy-grape-nosh",
-    "title": "Goozy Grape Nosh",
+    "title": "Goozy Grape Delight",
     "tags": [
-      "grape-nuts",
-      "coconut-whipped-cream",
-      "canadian-dessert"
+      "sweet",
+      "tangy",
+      "dessert"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 7,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
@@ -13772,14 +13772,14 @@
   },
   {
     "slug": "grapefizz-bhuna",
-    "title": "GrapeFizz Bhuna",
+    "title": "Bhuna Chicken with Grapefizz Glaze",
     "tags": [
-      "grapefruit",
-      "bhuna",
-      "sour",
-      "adventurous"
+      "chicken",
+      "indian",
+      "curry",
+      "glaze"
     ],
-    "cuisine": "Peru",
+    "cuisine": "Indian",
     "totalTimeMin": 35,
     "shard": "g"
   },
