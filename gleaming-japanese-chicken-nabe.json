@@ -1,0 +1,93 @@
+{
+  "slug": "gleaming-japanese-chicken-nabe",
+  "title": "Japanese Chicken Nabe Hot Pot",
+  "description": "A flavorful and spicy Japanese hot pot dish made with chicken, gleaming vegetables, and a rich nabe broth.",
+  "cuisine": "Japanese",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": null
+    },
+    {
+      "name": "gleaming",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "nabe broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "green onions",
+      "amount": "1 bunch",
+      "notes": null
+    },
+    {
+      "name": "shirataki noodles",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "Japanese rice",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Bring the nabe broth to a boil in a large pot.",
+    "Add the chicken breast and cook until it reaches an internal temperature of 165°F (74°C).",
+    "Add the gleaming and cook for an additional 2-3 minutes.",
+    "Add the green onions and shirataki noodles to the pot and cook for 2-3 minutes.",
+    "Season the broth with soy sauce, sesame oil, sugar, and pepper to taste.",
+    "Serve the hot pot with Japanese rice on the side.",
+    "Allow each person to cook their own ingredients in the hot pot.",
+    "Cook for an additional 2-3 minutes or until the ingredients are cooked through."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "hotpot",
+    "chicken",
+    "nabe"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gleaming-japanese-chicken-nabe",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T17:14:01.987Z"
+}
