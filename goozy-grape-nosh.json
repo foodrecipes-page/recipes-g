@@ -1,0 +1,56 @@
+{
+  "slug": "goozy-grape-nosh",
+  "title": "Goozy Grape Delight",
+  "description": "A sweet and tangy dessert made with goozy and grape. Perfect for a quick snack.",
+  "cuisine": null,
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Goozy",
+      "amount": "250g",
+      "notes": null
+    },
+    {
+      "name": "Grape",
+      "amount": "150g",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Nosh",
+      "amount": "20g",
+      "notes": "sprinkle on top"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "In a mixing bowl, combine goozy and grape. Mix until well combined.",
+    "Pour the mixture into a baking dish.",
+    "Sprinkle nosh on top of the mixture.",
+    "Bake for 20 minutes or until golden brown.",
+    "Let cool before serving.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "tangy",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/goozy-grape-nosh",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T21:13:46.215Z"
+}
