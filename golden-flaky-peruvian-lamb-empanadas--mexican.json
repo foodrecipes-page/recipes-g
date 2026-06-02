@@ -1,0 +1,74 @@
+{
+  "slug": "golden-flaky-peruvian-lamb-empanadas--mexican",
+  "title": "Peruvian Empanada Filling",
+  "description": "A twist on traditional empanadas with a Peruvian lamb filling. Perfect for a Mexican-inspired dinner.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb, ground",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Cumin, ground",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Golden flaky pastry dough",
+      "amount": "1 package"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, cook the ground lamb over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the diced onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Stir in the cumin, chili powder, salt, and black pepper. Cook for 1 minute.",
+    "Roll out the golden flaky pastry dough and cut it into circles using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of the lamb filling in the center of each circle. Fold the dough in half to form a half-circle and press the edges together to seal.",
+    "Place the empanadas on a baking sheet lined with parchment paper and brush the tops with a little water.",
+    "Bake the empanadas for 20-25 minutes, or until golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "lamb",
+    "empanadas",
+    "peruvian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-flaky-peruvian-lamb-empanadas--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T18:27:01.733Z"
+}
