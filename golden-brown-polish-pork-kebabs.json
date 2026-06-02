@@ -1,0 +1,76 @@
+{
+  "slug": "golden-brown-polish-pork-kebabs",
+  "title": "Kebab Kielbasa Sausage Skillet",
+  "description": "A hearty and flavorful skillet dish featuring kebab sausage and polish sausage, perfect for a weeknight dinner. This recipe is a twist on traditional sausage and potato dishes, with the added bonus of being easy to make and delicious.",
+  "cuisine": "European",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kebab sausage",
+      "amount": "1 pound",
+      "notes": "preferably with a mild or spicy flavor"
+    },
+    {
+      "name": "Polish sausage",
+      "amount": "1/2 pound",
+      "notes": "such as kielbasa"
+    },
+    {
+      "name": "Golden potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Brown onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Brown bell peppers",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add the chopped onions and bell peppers and cook until they begin to soften, about 3-4 minutes.",
+    "Add the diced potatoes and cook for another 5 minutes, or until they begin to brown.",
+    "Add the sliced kebab sausage and polish sausage to the skillet and cook until browned, about 5-6 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kebab",
+    "sausage",
+    "skillet",
+    "potatoes"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-brown-polish-pork-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T14:29:41.907Z"
+}
