@@ -8122,17 +8122,15 @@
   },
   {
     "slug": "gleaming-japanese-chicken-nabe",
-    "title": "Gleaming Japanese Chicken Nabe",
+    "title": "Japanese Chicken Nabe Hot Pot",
     "tags": [
+      "japanese",
+      "hotpot",
       "chicken",
-      "comfort-food",
-      "family-friendly",
-      "gluten-free",
-      "nabe",
-      "one-pan"
+      "nabe"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
@@ -15674,6 +15672,32 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
+    "slug": "golden-hashed-butter-cazuela--japanese",
+    "title": "Japanese Cazuela Hash",
+    "tags": [
+      "japanese",
+      "breakfast",
+      "hash",
+      "cazuela"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 20,
+    "shard": "g"
+  },
+  {
+    "slug": "golden-flaky-peruvian-lamb-empanadas--mexican",
+    "title": "Peruvian Empanada Filling",
+    "tags": [
+      "mexican",
+      "lamb",
+      "empanadas",
+      "peruvian"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 45,
     "shard": "g"
   }
 ]
