@@ -523,15 +523,15 @@
   },
   {
     "slug": "garlic-tadka-crunch",
-    "title": "Garlic Tadka Crunch",
+    "title": "Garlic Crunch Tadka",
     "tags": [
-      "garlic-tadka-crunch",
-      "post-workout-dish",
-      "tunisian-snack",
-      "fodmap-friendly"
+      "snack",
+      "indian",
+      "garlic",
+      "crunchy"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 6,
+    "cuisine": "indian",
+    "totalTimeMin": 8,
     "shard": "g"
   },
   {
@@ -3207,15 +3207,16 @@
   },
   {
     "slug": "garlicky-juicy-thai-lasagne-lasagna",
-    "title": "Garlicky Juicy Thai Lasagne Lasagna",
+    "title": "Thai Lasagna",
     "tags": [
       "thai",
+      "lasagna",
+      "italian",
       "vegetarian",
-      "lasagne",
-      "quick"
+      "lunch"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 50,
+    "cuisine": "thai",
+    "totalTimeMin": 60,
     "shard": "g"
   },
   {
