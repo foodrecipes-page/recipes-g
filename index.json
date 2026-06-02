@@ -9513,16 +9513,15 @@
   },
   {
     "slug": "golden-brown-polish-pork-kebabs",
-    "title": "Golden Brown Polish Pork Kebabs",
+    "title": "Kebab Kielbasa Sausage Skillet",
     "tags": [
-      "grilled",
-      "high-protein",
-      "one-pan",
-      "polish-cuisine",
-      "weeknight"
+      "kebab",
+      "sausage",
+      "skillet",
+      "potatoes"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 27,
+    "cuisine": "European",
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
@@ -15661,6 +15660,19 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
+    "slug": "gooey-spanish-horseradish-wrap--german",
+    "title": "Currywurst Wrap",
+    "tags": [
+      "german",
+      "currywurst",
+      "sausage",
+      "wrap"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
     "shard": "g"
   }
 ]
