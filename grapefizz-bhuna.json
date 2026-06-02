@@ -1,0 +1,90 @@
+{
+  "slug": "grapefizz-bhuna",
+  "title": "Bhuna Chicken with Grapefizz Glaze",
+  "description": "A sweet and spicy dish combining the flavors of India and a twist of Western sweetness. Perfect for a weeknight dinner.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "bhuna curry paste",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "grapefizz",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high.",
+    "Add chicken and cook until browned, about 5 minutes.",
+    "Remove chicken and set aside.",
+    "Add onion and ginger to skillet and cook until softened, about 3 minutes.",
+    "Add bhuna curry paste and cook, stirring constantly, for 1 minute.",
+    "Add grapefizz and brown sugar to skillet and bring to a simmer.",
+    "Return chicken to skillet and cook until coated in glaze, about 2-3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired.",
+    "Let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "indian",
+    "curry",
+    "glaze"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 35,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grapefizz-bhuna",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T21:17:58.047Z"
+}
