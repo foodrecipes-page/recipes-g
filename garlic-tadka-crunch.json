@@ -1,0 +1,61 @@
+{
+  "slug": "garlic-tadka-crunch",
+  "title": "Garlic Crunch Tadka",
+  "description": "A flavorful and crunchy tadka dish infused with garlic, perfect for a snack or side.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tadka",
+      "amount": "1 packet",
+      "notes": "crunchy mixture"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a pan over medium heat.",
+    "Add the minced garlic and sauté for 1 minute until fragrant.",
+    "Add the tadka packet and stir well to combine with the garlic.",
+    "Cook for an additional 2 minutes until the tadka is crispy.",
+    "Remove from heat and season with salt to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "indian",
+    "garlic",
+    "crunchy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 1,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlic-tadka-crunch",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T16:05:05.724Z"
+}
