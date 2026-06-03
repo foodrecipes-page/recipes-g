@@ -1,0 +1,73 @@
+{
+  "slug": "gloriously-briny-uruguayan-seafood-bowl",
+  "title": "Uruguayan Seafood Bowl",
+  "description": "A hearty, flavorful bowl filled with Uruguayan-inspired seafood, perfect for a satisfying meal.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Briny Mussels",
+      "amount": "1 pound",
+      "notes": "Freshly harvested from the coast"
+    },
+    {
+      "name": "Gloriously Grilled Shrimp",
+      "amount": "1/2 pound",
+      "notes": "Marinated in a zesty mixture of Uruguayan spices"
+    },
+    {
+      "name": "Seafood Soup Broth",
+      "amount": "2 cups",
+      "notes": "Homemade broth made with seafood-friendly spices"
+    },
+    {
+      "name": "Uruguayan Rice",
+      "amount": "1 cup",
+      "notes": "Cilantro-infused rice cooked to perfection"
+    },
+    {
+      "name": "Crispy Seafood Crackers",
+      "amount": "1/4 cup",
+      "notes": "Baked to a golden crispness"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the seafood soup broth in a large pot over medium heat.",
+    "Add the Briny Mussels and cook until they open, about 3-4 minutes.",
+    "Remove the mussels from the broth and set aside.",
+    "Add the Gloriously Grilled Shrimp to the broth and cook for an additional 2-3 minutes.",
+    "Stir in the Uruguayan Rice and cook according to package instructions.",
+    "To assemble the bowls, place a scoop of the rice mixture in the bottom, followed by the mussels and shrimp.",
+    "Top with Crispy Seafood Crackers and garnish with chopped Fresh Cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "uruguayan",
+    "bowls",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gloriously-briny-uruguayan-seafood-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T04:34:43.888Z"
+}
