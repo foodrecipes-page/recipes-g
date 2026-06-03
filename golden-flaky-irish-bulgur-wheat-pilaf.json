@@ -1,0 +1,85 @@
+{
+  "slug": "golden-flaky-irish-bulgur-wheat-pilaf",
+  "title": "Bulgur Pilaf with Irish Flavors",
+  "description": "A hearty and flavorful pilaf dish inspired by Irish cuisine, featuring golden and flaky bulgur as the main ingredient.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Golden Bulgur",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Irish Wheat Bread, diced",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Caramelized Onions",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley, chopped",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Cheddar Cheese, shredded",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large saucepan over medium heat.",
+    "Add diced Irish wheat bread and cook until lightly toasted.",
+    "Add caramelized onions and cook for an additional 2 minutes.",
+    "Add chopped parsley and cook until wilted.",
+    "Add shredded cheddar cheese and stir until melted.",
+    "Add golden bulgur and stir to combine.",
+    "Season with salt, pepper, and fresh thyme.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "bulgur",
+    "pilaf",
+    "lunch",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-flaky-irish-bulgur-wheat-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T06:09:31.189Z"
+}
