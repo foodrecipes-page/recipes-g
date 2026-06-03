@@ -15696,5 +15696,17 @@
     "cuisine": "mexican",
     "totalTimeMin": 45,
     "shard": "g"
+  },
+  {
+    "slug": "garlic-tadka-crunch--chinese",
+    "title": "Crunchy Garlic Beef Stir Fry",
+    "tags": [
+      "chinese",
+      "beef",
+      "stir-fry"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "g"
   }
 ]
