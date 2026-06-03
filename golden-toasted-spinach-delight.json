@@ -1,0 +1,56 @@
+{
+  "slug": "golden-toasted-spinach-delight",
+  "title": "Spinach Delight Toast",
+  "description": "A simple and nutritious breakfast or snack recipe featuring toasted spinach delight.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Golden Toast",
+      "amount": "2 slices",
+      "notes": null
+    },
+    {
+      "name": "Spinach Delight",
+      "amount": "1 packet",
+      "notes": null
+    },
+    {
+      "name": "Golden Cheese (optional)",
+      "amount": "1/4 cup",
+      "notes": "for extra flavor"
+    }
+  ],
+  "instructions": [
+    " Toast the golden bread until lightly browned.",
+    "Open the spinach delight packet and mix its contents with a fork.",
+    "Spread the spinach mixture evenly onto the toast slices.",
+    "If desired, top with golden cheese.",
+    "Cut the toast into halves or quarters for easier handling."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "snack",
+    "easy",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-toasted-spinach-delight",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T02:15:34.116Z"
+}
