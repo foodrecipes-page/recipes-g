@@ -1,0 +1,90 @@
+{
+  "slug": "gently-herbal-peruvian-chicken-aji-de-gallina",
+  "title": "Aji de Gallina",
+  "description": "A Peruvian chicken dish made with shredded chicken cooked in a creamy aji amarillo pepper sauce, served with rice and boiled potatoes.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Peruvian chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Aji amarillo peppers",
+      "amount": "2",
+      "notes": "dried"
+    },
+    {
+      "name": "Gallina chicken broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "Peruvian crema (or substitute with heavy cream)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Gallina chicken breast shredded",
+      "amount": "1 pound",
+      "notes": "cooked and cooled"
+    },
+    {
+      "name": "White rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "Boiled potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    }
+  ],
+  "instructions": [
+    "1. In a large pot, combine the chicken broth and dried aji amarillo peppers.",
+    "2. Bring to a boil over high heat, then reduce the heat to medium-low and simmer for 10 minutes.",
+    "3. Remove the pot from the heat and let it steep for 10 minutes.",
+    "4. Strain the broth through a fine-mesh sieve into a clean pot, discarding the solids.",
+    "5. In a large skillet, melt the butter over medium heat.",
+    "6. Add the shredded chicken and cook, stirring occasionally, until heated through.",
+    "7. Stir in the crema and cook for 2-3 minutes, until the sauce has thickened slightly.",
+    "8. Season with salt and pepper to taste.",
+    "9. Serve the chicken and sauce over white rice and boiled potatoes.",
+    "10. Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "chicken",
+    "creamy",
+    "sauce"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gently-herbal-peruvian-chicken-aji-de-gallina",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T07:21:18.421Z"
+}
