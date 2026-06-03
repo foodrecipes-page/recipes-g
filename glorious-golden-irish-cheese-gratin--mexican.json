@@ -1,0 +1,92 @@
+{
+  "slug": "glorious-golden-irish-cheese-gratin--mexican",
+  "title": "Irish and Golden Mexican Gratin",
+  "description": "A creamy, cheesy twist on traditional Mexican dishes, this gratin combines the richness of golden cheese with the bold flavors of Irish cuisine.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 pounds, peeled and thinly sliced",
+      "notes": null
+    },
+    {
+      "name": "glorious golden cheese",
+      "amount": "1 cup, shredded",
+      "notes": "such as cheddar or Monterey Jack"
+    },
+    {
+      "name": "irish cheese",
+      "amount": "1/2 cup, crumbled",
+      "notes": "such as Dubliner or Colman's"
+    },
+    {
+      "name": "gratin",
+      "amount": "1/4 cup, grated",
+      "notes": "such as Parmesan"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large, thinly sliced",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced",
+      "notes": null
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine sliced potatoes, chili powder, cumin, salt, and black pepper. Mix well to coat.",
+    "In a greased 9x13 inch baking dish, arrange half of the potato slices in the bottom of the dish.",
+    "In a separate bowl, combine shredded golden cheese, crumbled Irish cheese, and grated gratin. Mix well to combine.",
+    "Spread half of the cheese mixture over the potatoes in the baking dish.",
+    "Repeat layers, starting with the remaining potato slices, then the remaining cheese mixture.",
+    "Bake for 45-50 minutes, or until the top is golden brown and the potatoes are tender.",
+    "Remove from oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "cheesy",
+    "gratin",
+    "potatoes",
+    "irish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 40,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/glorious-golden-irish-cheese-gratin--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T00:24:24.948Z"
+}
