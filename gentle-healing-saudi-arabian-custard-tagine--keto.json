@@ -1,0 +1,78 @@
+{
+  "slug": "gentle-healing-saudi-arabian-custard-tagine--keto",
+  "title": "Saudi Arabian-Style Custard Tagine",
+  "description": "A unique dessert fusion of traditional Saudi Arabian and Moroccan flavors, featuring a rich custard in a fragrant tagine. Perfect for a keto-friendly treat.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Gentle Custard Powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Saudi Arabian Date Honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Large Eggs",
+      "amount": "4"
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cinnamon Powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Cardamom Powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Ground Ginger",
+      "amount": "1/8 teaspoon"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 350°F (175°C).",
+    "2. In a medium bowl, whisk together the custard powder, date honey, and heavy cream until smooth.",
+    "3. In a separate bowl, whisk together the eggs, ghee, cinnamon powder, cardamom powder, and ground ginger.",
+    "4. Add the egg mixture to the custard mixture and whisk until well combined.",
+    "5. Pour the mixture into 6 ramekins or small baking dishes.",
+    "6. Place the ramekins in a large baking dish and add hot water to come halfway up the sides of the ramekins.",
+    "7. Bake for 25-30 minutes or until the edges are set and the centers are still slightly jiggly.",
+    "8. Remove the ramekins from the water bath and let cool to room temperature.",
+    "9. Cover and refrigerate for at least 2 hours or overnight.",
+    "10. Serve chilled, garnished with a sprinkle of cinnamon powder if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "dessert",
+    "saudi-arabian",
+    "custard",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gentle-healing-saudi-arabian-custard-tagine--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T06:22:00.155Z"
+}
