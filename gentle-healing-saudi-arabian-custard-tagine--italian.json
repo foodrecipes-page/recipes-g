@@ -1,0 +1,85 @@
+{
+  "slug": "gentle-healing-saudi-arabian-custard-tagine--italian",
+  "title": "Gentle Italian Custard Tagine",
+  "description": "A creamy, slow-cooked Italian dessert inspired by Moroccan flavors. This gentle custard tagine is perfect for a relaxing evening.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Gentle",
+      "amount": "1 cup",
+      "notes": "Gentle flower petals for garnish"
+    },
+    {
+      "name": "Arabian Custard",
+      "amount": "1 1/2 cups",
+      "notes": "Store-bought or homemade custard"
+    },
+    {
+      "name": "Saudi Tagine",
+      "amount": "1 medium",
+      "notes": "Tagine spice blend or Moroccan spice mix"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1/4 cup",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tablespoons",
+      "notes": "Melted"
+    },
+    {
+      "name": "Large Eggs",
+      "amount": "3",
+      "notes": "Room temperature"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup",
+      "notes": "Chilled"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon",
+      "notes": "High-quality"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a medium bowl, whisk together the custard, sugar, and melted butter until smooth.",
+    "Add the eggs one at a time, whisking well after each addition.",
+    "Stir in the chilled heavy cream and vanilla extract.",
+    "Pour the mixture into 4-6 ramekins or small baking dishes.",
+    "Place the ramekins in a large baking dish and add hot water to come halfway up the sides.",
+    "Bake for 25-30 minutes or until the edges are set and the centers are still slightly jiggly.",
+    "Remove the ramekins from the water bath and let cool to room temperature.",
+    "Cover and refrigerate for at least 2 hours or overnight.",
+    "Just before serving, sprinkle with gentle flower petals and a pinch of tagine spice blend.",
+    "Serve chilled."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian-desserts",
+    "milk-based",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gentle-healing-saudi-arabian-custard-tagine--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T06:23:55.162Z"
+}
