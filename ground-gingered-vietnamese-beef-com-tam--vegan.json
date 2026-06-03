@@ -1,0 +1,82 @@
+{
+  "slug": "ground-gingered-vietnamese-beef-com-tam--vegan",
+  "title": "Vegan Vietnamese Beef Noodle Soup",
+  "description": "A plant-based twist on a classic Vietnamese beef noodle soup, featuring ground 'beef' made from com and tam.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "com ground",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "gingered com",
+      "amount": "1/2 cup",
+      "notes": "for added depth of flavor"
+    },
+    {
+      "name": "tam",
+      "amount": "2 cups",
+      "notes": "for a savory broth"
+    },
+    {
+      "name": "vietnamese rice noodles",
+      "amount": "1 package",
+      "notes": "to serve"
+    },
+    {
+      "name": "vegan fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "for umami flavor"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "for brightness"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "for balance"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Bring 4 cups of tam to a boil in a large pot.",
+    "Reduce heat to a simmer and add 1 tablespoon of vegan fish sauce, 1 tablespoon of brown sugar, and 2 tablespoons of lime juice.",
+    "Cook for 10 minutes, stirring occasionally.",
+    "Add 1 cup of com ground and cook for an additional 5 minutes, breaking it up with a spoon as it cooks.",
+    "Cook 1 package of vietnamese rice noodles according to package instructions.",
+    "To assemble the soup, place a portion of noodles in a bowl, then ladle the hot broth over the top.",
+    "Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "vietnamese",
+    "soup",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ground-gingered-vietnamese-beef-com-tam--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T05:12:03.212Z"
+}
