@@ -1,0 +1,86 @@
+{
+  "slug": "garlicky-shattering-vietnamese-seafood-dumplings",
+  "title": "Vietnamese Seafood Dumplings",
+  "description": "A fusion of Vietnamese flavors with a seafood twist in a steamed dumpling. This dish is both refreshing and savory.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "fish"
+  ],
+  "meal": "snack|lunch",
+  "ingredients": [
+    {
+      "name": "Vietnamese seafood mix",
+      "amount": "1 package",
+      "notes": "usually includes shrimp, scallops, and fish"
+    },
+    {
+      "name": "garlicky wonton wrappers",
+      "amount": "1 package",
+      "notes": "store-bought wonton wrappers"
+    },
+    {
+      "name": "shattering lettuce",
+      "amount": "1 head",
+      "notes": "to use as garnish"
+    },
+    {
+      "name": "dumpling filling",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade mixture"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for serving"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "1. Prepare the steamer basket and fill the bottom with water.",
+    "2. In a pan, heat sesame oil and sauté the garlic until fragrant.",
+    "3. Add the Vietnamese seafood mix and cook until lightly browned.",
+    "4. Add the dumpling filling and mix well.",
+    "5. Lay a wonton wrapper on a clean surface and place a tablespoon of the seafood mix in the center.",
+    "6. Fold the wrapper into a triangle and press the edges to seal.",
+    "7. Repeat with the remaining wrappers and filling.",
+    "8. Place the steamer basket over the boiling water and steam the dumplings for 8-10 minutes.",
+    "9. Serve the dumplings with soy sauce and fish sauce (if using).",
+    "10. Garnish with shattering lettuce and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "seafood",
+    "dumplings",
+    "snack",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-shattering-vietnamese-seafood-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T06:02:50.390Z"
+}
