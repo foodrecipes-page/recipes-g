@@ -1,0 +1,85 @@
+{
+  "slug": "garlic-tadka-crunch--chinese",
+  "title": "Crunchy Garlic Beef Stir Fry",
+  "description": "A simple and delicious Chinese-inspired stir fry recipe made with beef, garlic, and crunchy elements.",
+  "cuisine": "chinese",
+  "diet": [
+    "meat",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (sirloin or ribeye)",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Crunch",
+      "amount": "1 cup",
+      "notes": "e.g. fried shallots"
+    },
+    {
+      "name": "Tadka oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of tadka oil in a wok or large skillet over medium-high heat.",
+    "Add the beef and cook until browned, about 3-4 minutes.",
+    "Remove the beef from the wok and set aside.",
+    "In the same wok, add the remaining 1 tbsp of tadka oil.",
+    "Add the garlic and ginger and stir-fry until fragrant, about 30 seconds.",
+    "Add the soy sauce and sesame oil, and stir-fry for another minute.",
+    "Return the beef to the wok and stir-fry everything together.",
+    "Add the crunch and stir-fry for another minute.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "beef",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlic-tadka-crunch--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T23:12:30.502Z"
+}
