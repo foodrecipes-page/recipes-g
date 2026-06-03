@@ -15708,5 +15708,19 @@
     "cuisine": "chinese",
     "totalTimeMin": 25,
     "shard": "g"
+  },
+  {
+    "slug": "glorious-golden-irish-cheese-gratin--mexican",
+    "title": "Irish and Golden Mexican Gratin",
+    "tags": [
+      "mexican",
+      "cheesy",
+      "gratin",
+      "potatoes",
+      "irish"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 65,
+    "shard": "g"
   }
 ]
