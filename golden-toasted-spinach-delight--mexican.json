@@ -1,0 +1,74 @@
+{
+  "slug": "golden-toasted-spinach-delight--mexican",
+  "title": "Golden Delight Spinach Quesadilla",
+  "description": "A delicious Mexican-inspired quesadilla filled with golden spinach and delight, perfect for a quick lunch or dinner.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Golden Delight",
+      "amount": "1 package",
+      "notes": "Thawed and chopped"
+    },
+    {
+      "name": "Toasted Tortilla",
+      "amount": "2",
+      "notes": "Large flour tortillas"
+    },
+    {
+      "name": "Spinach",
+      "amount": "1 cup",
+      "notes": "Fresh, chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Grated Cheese",
+      "amount": "1 cup",
+      "notes": "Monterey Jack or Cheddar"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium heat.",
+    "Place a tortilla in the skillet and sprinkle shredded cheese on half of the tortilla.",
+    "Add chopped Spinach and Golden Delight on top of the cheese.",
+    "Fold the tortilla in half to enclose the filling.",
+    "Cook for 2-3 minutes or until the tortilla is crispy and the cheese is melted.",
+    "Flip the quesadilla and cook for an additional 2-3 minutes or until the other side is crispy.",
+    "Repeat with the remaining ingredients.",
+    "Cut the quesadillas into wedges and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "quesadilla",
+    "spinach",
+    "golden-delight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 32,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-toasted-spinach-delight--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T05:05:52.704Z"
+}
