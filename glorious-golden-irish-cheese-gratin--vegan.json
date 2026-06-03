@@ -1,0 +1,65 @@
+{
+  "slug": "glorious-golden-irish-cheese-gratin--vegan",
+  "title": "Golden Irish Gratin",
+  "description": "A vegan take on the classic Irish gratin, featuring a rich and creamy golden sauce.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "golden potatoes",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "irish kale",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "glorious garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegan cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel and slice the golden potatoes into 1/4 inch thick rounds.",
+    "In a large skillet, sauté the chopped Irish kale and minced glorious garlic in a little water until tender.",
+    "In a separate saucepan, combine the sliced potatoes and a splash of non-dairy milk.",
+    "Bring the mixture to a simmer over medium heat, then reduce the heat to low and let cook for 10-12 minutes, or until the potatoes are tender.",
+    "Stir in the shredded vegan cheese until melted and well combined.",
+    "Transfer the potato mixture to a baking dish and top with the sautéed kale and garlic.",
+    "Bake for 20-25 minutes, or until the top is golden brown and the gratin is heated through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "irish",
+    "gratin",
+    "golden",
+    "potatoes"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 9
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/glorious-golden-irish-cheese-gratin--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T07:31:44.839Z"
+}
