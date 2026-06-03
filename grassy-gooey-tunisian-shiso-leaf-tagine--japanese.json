@@ -1,0 +1,66 @@
+{
+  "slug": "grassy-gooey-tunisian-shiso-leaf-tagine--japanese",
+  "title": "Tunisian Shiso Salad with Grassy Dressing",
+  "description": "A refreshing Japanese-inspired salad featuring the flavors of Tunisia, paired with a light and tangy dressing made with grassy notes.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "grassy",
+      "amount": "2 cups",
+      "notes": "pea shoots or similar"
+    },
+    {
+      "name": "shiso",
+      "amount": "1/4 cup",
+      "notes": "chopped leaves"
+    },
+    {
+      "name": "tagine",
+      "amount": "2 tablespoons",
+      "notes": "olive oil infused with Tunisian spices"
+    },
+    {
+      "name": "gooey",
+      "amount": "2 tablespoons",
+      "notes": "honey or date syrup"
+    },
+    {
+      "name": "leaf",
+      "amount": "1 head",
+      "notes": "lettuce or similar"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the grassy, shiso, and leaf.",
+    "2. In a small bowl, whisk together the tagine and gooey.",
+    "3. Drizzle the dressing over the salad and toss to combine.",
+    "4. Season with salt and pepper to taste.",
+    "5. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "salad",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grassy-gooey-tunisian-shiso-leaf-tagine--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T03:52:00.056Z"
+}
