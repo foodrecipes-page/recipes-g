@@ -1,0 +1,105 @@
+{
+  "slug": "gloriously-smoky-ukrainian-pork-stew",
+  "title": "Smoky Ukrainian Stew",
+  "description": "A hearty and flavorful stew originating from Ukraine, made with tender pork and a rich smoky broth.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gloriously Smoky Pork Shoulder",
+      "amount": "1.5 kg",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "Ukrainian Stew Seasoning",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrot",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potato",
+      "amount": "3 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the pork pieces in batches until browned on all sides.",
+    "Remove the browned pork from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened.",
+    "Add the chopped carrot and potato to the pot and cook for 5 minutes.",
+    "Add the tomato paste, beef broth, water, brown sugar, thyme, salt, and black pepper to the pot.",
+    "Return the browned pork to the pot and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 2 hours or until the pork is tender.",
+    "Serve hot, garnished with chopped fresh herbs if desired.",
+    "Let the stew rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "pork",
+    "ukrainian",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 43,
+    "carbs": 40,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gloriously-smoky-ukrainian-pork-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T03:31:57.455Z"
+}
