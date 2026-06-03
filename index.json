@@ -1160,16 +1160,14 @@
   },
   {
     "slug": "garlicky-cinnamon-greek-shrimp-skillet",
-    "title": "Garlicky Cinnamon Greek Shrimp Skillet",
+    "title": "Shrimp Skillet with Greek Flair",
     "tags": [
-      "high-protein",
-      "mediterranean-diet",
-      "one-pan",
       "seafood",
-      "quick-dinner"
+      "mediterranean",
+      "quick"
     ],
-    "cuisine": "Greek",
-    "totalTimeMin": 25,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 13,
     "shard": "g"
   },
   {
@@ -8650,18 +8648,15 @@
   },
   {
     "slug": "gloriously-briny-uruguayan-seafood-bowl",
-    "title": "Gloriously Briny Uruguayan Seafood Bowl",
+    "title": "Uruguayan Seafood Bowl",
     "tags": [
-      "briny",
-      "creamy",
-      "festive",
-      "lacquerware",
-      "pescatarian",
       "seafood",
-      "uruguayan"
+      "uruguayan",
+      "bowls",
+      "gluten-free"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 27,
     "shard": "g"
   },
   {
@@ -8812,17 +8807,15 @@
   },
   {
     "slug": "gloriously-smoky-ukrainian-pork-stew",
-    "title": "Gloriously Smoky Ukrainian Pork Stew",
+    "title": "Smoky Ukrainian Stew",
     "tags": [
-      "comfort-food",
-      "hearty",
-      "keto-friendly",
-      "one-pot",
-      "pork-recipes",
-      "smoky"
+      "stew",
+      "pork",
+      "ukrainian",
+      "comfort food"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 170,
+    "totalTimeMin": 150,
     "shard": "g"
   },
   {
@@ -15721,6 +15714,19 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 65,
+    "shard": "g"
+  },
+  {
+    "slug": "grassy-gooey-tunisian-shiso-leaf-tagine--japanese",
+    "title": "Tunisian Shiso Salad with Grassy Dressing",
+    "tags": [
+      "japanese",
+      "salad",
+      "vegan",
+      "gluten-free"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 10,
     "shard": "g"
   }
 ]
