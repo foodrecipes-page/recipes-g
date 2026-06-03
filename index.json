@@ -4070,12 +4070,13 @@
   },
   {
     "slug": "garlicky-shattering-vietnamese-seafood-dumplings",
-    "title": "Garlicky Shattering Vietnamese Seafood Dumplings",
+    "title": "Vietnamese Seafood Dumplings",
     "tags": [
-      "garlicky",
-      "kid-friendly",
-      "shattering",
-      "vietnamese"
+      "vietnamese",
+      "seafood",
+      "dumplings",
+      "snack",
+      "lunch"
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 25,
@@ -5453,16 +5454,16 @@
   },
   {
     "slug": "gentle-healing-saudi-arabian-custard-tagine",
-    "title": "Gentle Healing Saudi Arabian Custard Tagine",
+    "title": "Gentle Saudi Arabian Custard Tagine",
     "tags": [
-      "claypot-cooking",
-      "comfort-food",
-      "healing-foods",
-      "middle-eastern",
-      "vegetarian-breakfast"
+      "saudi-arabian",
+      "dessert",
+      "custard",
+      "tagine",
+      "gluten-free"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 40,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 45,
     "shard": "g"
   },
   {
@@ -10109,17 +10110,16 @@
   },
   {
     "slug": "golden-flaky-irish-bulgur-wheat-pilaf",
-    "title": "Golden Flaky Irish Bulgur Wheat Pilaf",
+    "title": "Bulgur Pilaf with Irish Flavors",
     "tags": [
-      "flaky-pilaf",
-      "irish-cuisine",
-      "one-pot",
-      "plant-based",
-      "special-occasion",
-      "weeknight-meal"
+      "irish",
+      "bulgur",
+      "pilaf",
+      "lunch",
+      "vegetarian"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
@@ -14456,16 +14456,14 @@
   },
   {
     "slug": "greatly-snappy-turkish-beans-kuru-fasulye",
-    "title": "Greatly Snappy Turkish Beans Kuru Fasulye",
+    "title": "Turkish-Style Kuru Fasulye",
     "tags": [
-      "comfort-food",
-      "high-fiber",
-      "one-pot",
       "turkish-cuisine",
-      "weeknight-dinner"
+      "vegetarian-dishes",
+      "stews"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 60,
+    "totalTimeMin": 85,
     "shard": "g"
   },
   {
@@ -15727,6 +15725,32 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 10,
+    "shard": "g"
+  },
+  {
+    "slug": "golden-toasted-spinach-delight--mexican",
+    "title": "Golden Delight Spinach Quesadilla",
+    "tags": [
+      "mexican",
+      "quesadilla",
+      "spinach",
+      "golden-delight"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 18,
+    "shard": "g"
+  },
+  {
+    "slug": "ground-gingered-vietnamese-beef-com-tam--vegan",
+    "title": "Vegan Vietnamese Beef Noodle Soup",
+    "tags": [
+      "vegan",
+      "vietnamese",
+      "soup",
+      "noodles"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 35,
     "shard": "g"
   }
 ]
