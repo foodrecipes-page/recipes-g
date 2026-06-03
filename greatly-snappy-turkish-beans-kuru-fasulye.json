@@ -1,0 +1,72 @@
+{
+  "slug": "greatly-snappy-turkish-beans-kuru-fasulye",
+  "title": "Turkish-Style Kuru Fasulye",
+  "description": "A hearty Turkish white bean stew made with kuru beans, onions, and spices.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kuru fasulye (dried white beans)",
+      "amount": "1 cup, dried"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Turkish red pepper (optional)",
+      "amount": "1, finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Rinse the dried beans and soak them in water for at least 8 hours or overnight.",
+    "Drain and rinse the soaked beans, then transfer them to a large pot.",
+    "Add the chopped onion, Turkish red pepper (if using), and garlic to the pot.",
+    "Pour in enough water to cover the beans and bring to a boil.",
+    "Reduce the heat to low and simmer for 1 hour, or until the beans are tender.",
+    "Season with salt and black pepper to taste.",
+    "Heat the olive oil in a pan over medium heat.",
+    "Sauté the beans and onion mixture for 10-15 minutes, or until the flavors have melded together.",
+    "Serve the Turkish-style kuru fasulye hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 65,
+  "totalTimeMin": 85,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish-cuisine",
+    "vegetarian-dishes",
+    "stews"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/greatly-snappy-turkish-beans-kuru-fasulye",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T04:42:40.755Z"
+}
