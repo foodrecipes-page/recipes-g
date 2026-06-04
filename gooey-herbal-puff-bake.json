@@ -1,0 +1,71 @@
+{
+  "slug": "gooey-herbal-puff-bake",
+  "title": "Herbal Puff Bake",
+  "description": "A sweet and flaky pastry filled with gooey herbal goodness.",
+  "cuisine": "baked goods",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Puff pastry, thawed",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "Gooey herbal filling",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Herbal syrup",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1",
+      "notes": "for egg wash"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out puff pastry to a thickness of 1/8 inch.",
+    "Spread the gooey herbal filling over the center of the pastry, leaving a 1-inch border.",
+    "Drizzle with herbal syrup, if using.",
+    "Sprinkle with granulated sugar.",
+    "Fold the pastry over the filling, pressing edges to seal.",
+    "Brush the egg wash over the pastry to glaze.",
+    "Cut a few slits in the top of the pastry to allow steam to escape.",
+    "Bake for 25-30 minutes, or until golden brown.",
+    "Let cool for 10 minutes before serving.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "baked goods",
+    "dessert",
+    "herbal",
+    "gooey"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 11
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-herbal-puff-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T13:54:48.664Z"
+}
