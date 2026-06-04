@@ -2999,17 +2999,14 @@
   },
   {
     "slug": "garlicky-indulgent-tunisian-marzipan-tagine",
-    "title": "Garlicky Indulgent Tunisian Marzipan Tagine",
+    "title": "Tunisian Tagine Chicken",
     "tags": [
-      "dessert",
-      "garlic",
-      "marzipan",
-      "rich",
-      "special-occasion",
-      "tunisian"
+      "chicken",
+      "tunisian",
+      "marzipan"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 40,
+    "cuisine": "tunisian",
+    "totalTimeMin": 55,
     "shard": "g"
   },
   {
