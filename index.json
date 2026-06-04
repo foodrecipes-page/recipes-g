@@ -15791,5 +15791,17 @@
     "cuisine": "Irish",
     "totalTimeMin": 45,
     "shard": "g"
+  },
+  {
+    "slug": "glassy-algerian-tahini-wrap--mexican",
+    "title": "Tahini Chicken Wrap",
+    "tags": [
+      "mexican-chicken",
+      "tahini-sauce",
+      "glassy-elements"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
+    "shard": "g"
   }
 ]
