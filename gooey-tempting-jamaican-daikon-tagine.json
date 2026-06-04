@@ -1,0 +1,98 @@
+{
+  "slug": "gooey-tempting-jamaican-daikon-tagine",
+  "title": "Jamaican Braised Daikon with Tagine Spice",
+  "description": "A flavorful and comforting side dish that combines the sweetness of daikon with the warmth of Jamaican spices.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "daikon",
+      "amount": "1 large",
+      "notes": "peeled and sliced into 1-inch thick rounds"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "2 tsp",
+      "notes": "available at most Middle Eastern or Indian grocery stores"
+    },
+    {
+      "name": "goeey cheese",
+      "amount": "1/4 cup, crumbled",
+      "notes": "optional, adds a creamy element"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for browning the daikon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped",
+      "notes": "for added depth of flavor"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced",
+      "notes": "for added depth of flavor"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp",
+      "notes": "for a tangy element"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": "optional, adds a touch of sweetness"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large Dutch oven over medium-high heat.",
+    "Brown the daikon rounds in batches until caramelized, about 5 minutes per batch.",
+    "Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the tagine spice blend, apple cider vinegar, and honey (if using). Stir to combine.",
+    "Return the browned daikon to the pot and stir to coat with the spice mixture.",
+    "Cover the pot and transfer to the oven.",
+    "Braise the daikon for 25-30 minutes, until tender and caramelized.",
+    "Stir in the crumbled gooey cheese (if using) and season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs (if desired).",
+    "Note: If using the oven, adjust the cooking time as needed. Alternatively, cook the daikon on the stovetop over low heat, covered, for about 30-40 minutes, or until tender and caramelized."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "tagine",
+    "daikon",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": "2g",
+    "carbs": "30g",
+    "fat": "10g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-tempting-jamaican-daikon-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T12:52:02.700Z"
+}
