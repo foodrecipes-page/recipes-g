@@ -1,0 +1,67 @@
+{
+  "slug": "gooey-herbal-puff-bake--french",
+  "title": "French Herb Puff Pastry",
+  "description": "A simple yet elegant French pastry filled with gooey cheese and fresh herbs, perfect for any occasion.",
+  "cuisine": "french",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Puff Pastry",
+      "amount": "1 package (thawed)",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Gruyère Cheese",
+      "amount": "1 cup, shredded",
+      "notes": "goat cheese alternative or other Swiss cheese"
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "2 tbsp, chopped",
+      "notes": "or other fresh herbs like rosemary or parsley"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out puff pastry to a thickness of about 1/8 inch (3 mm).",
+    "In a small bowl, mix together grated Gruyère cheese and chopped thyme.",
+    "Spread the cheese mixture evenly over one half of the puff pastry, leaving a 1/2 inch (1 cm) border around the edges.",
+    "Fold the other half of the puff pastry over the cheese mixture to form a triangle or rectangle.",
+    "Brush the edges with a little water and press gently to seal.",
+    "Use a knife or pastry brush to cut a few slits in the top of the pastry to allow steam to escape.",
+    "Place the pastry on a baking sheet lined with parchment paper and bake for 20-25 minutes, or until golden brown.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "cheese",
+    "herbs",
+    "pastry"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-herbal-puff-bake--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T15:32:11.461Z"
+}
