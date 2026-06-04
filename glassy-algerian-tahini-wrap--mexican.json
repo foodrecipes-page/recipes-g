@@ -1,0 +1,94 @@
+{
+  "slug": "glassy-algerian-tahini-wrap--mexican",
+  "title": "Tahini Chicken Wrap",
+  "description": "A flavorful Mexican-inspired dish with crispy chicken, creamy tahini sauce, and crunchy glassy elements.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 lb",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "Tahini",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Glassy",
+      "amount": "1/2 cup",
+      "notes": "Crushed or chopped"
+    },
+    {
+      "name": "Algerian wrap",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken with salt, black pepper, cumin, and chili powder.",
+    "Bake the chicken in the oven for 20-25 minutes, or until cooked through.",
+    "In a blender, combine tahini, lemon juice, garlic, and 2 tbsp of water. Blend until smooth.",
+    "Heat the tahini sauce in a pan over medium heat.",
+    "Add the crushed glassy to the tahini sauce and stir to combine.",
+    "Warm the Algerian wrap in the oven for 2-3 minutes.",
+    "Slice the cooked chicken and place it in the center of the wrap.",
+    "Spoon the tahini sauce over the chicken and top with additional glassy if desired.",
+    "Fold the wrap to enclose the filling and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "mexican-chicken",
+    "tahini-sauce",
+    "glassy-elements"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/glassy-algerian-tahini-wrap--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T08:55:16.095Z"
+}
