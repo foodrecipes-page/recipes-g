@@ -15803,5 +15803,18 @@
     "cuisine": "mexican",
     "totalTimeMin": 40,
     "shard": "g"
+  },
+  {
+    "slug": "gooey-herbal-puff-bake--french",
+    "title": "French Herb Puff Pastry",
+    "tags": [
+      "french",
+      "cheese",
+      "herbs",
+      "pastry"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "g"
   }
 ]
