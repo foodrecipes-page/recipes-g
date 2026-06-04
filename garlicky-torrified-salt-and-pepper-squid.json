@@ -1,0 +1,67 @@
+{
+  "slug": "garlicky-torrified-salt-and-pepper-squid",
+  "title": "Pan-Seared Squid with Garlic and Herbs",
+  "description": "A quick and flavorful seafood dish that's perfect for a weeknight dinner. The combination of pan-seared squid, garlic, and herbs creates a delicious and aromatic meal.",
+  "cuisine": "Italian",
+  "diet": [
+    "seafood",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Squid",
+      "amount": "1 pound",
+      "notes": "Fresh or frozen, thawed and patted dry"
+    },
+    {
+      "name": "Garlicky",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Torrified",
+      "amount": "1/4 cup",
+      "notes": "Torrified breadcrumbs"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "And",
+      "amount": "pepper",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Season the squid with salt and pepper.",
+    "Heat a skillet over medium-high heat.",
+    "Add the minced garlic and cook for 1-2 minutes until fragrant.",
+    "Add the torrified breadcrumbs and cook for 1 minute.",
+    "Add the squid to the skillet and sear for 2-3 minutes on each side until cooked through.",
+    "Serve immediately and garnish with parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "squid",
+    "garlic",
+    "italian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-torrified-salt-and-pepper-squid",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T12:20:57.432Z"
+}
