@@ -12110,15 +12110,15 @@
   },
   {
     "slug": "gooey-herbal-puff-bake",
-    "title": "Gooey Herbal Puff Bake",
+    "title": "Herbal Puff Bake",
     "tags": [
+      "baked goods",
+      "dessert",
       "herbal",
-      "one-pan",
-      "scotch-bonnet",
-      "weeknight"
+      "gooey"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 65,
+    "cuisine": "baked goods",
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {
@@ -13106,16 +13106,16 @@
   },
   {
     "slug": "gooey-tempting-jamaican-daikon-tagine",
-    "title": "Gooey Jamaican Daikon Tagine",
+    "title": "Jamaican Braised Daikon with Tagine Spice",
     "tags": [
-      "comfort-food",
-      "easy-weeknight",
-      "high-fiber",
-      "one-pan",
-      "vegan"
+      "jamaican",
+      "tagine",
+      "daikon",
+      "gluten-free",
+      "vegetarian"
     ],
-    "cuisine": "jamaican",
-    "totalTimeMin": 40,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 45,
     "shard": "g"
   },
   {
