@@ -1,0 +1,86 @@
+{
+  "slug": "garlicky-cinnamon-greek-shrimp-skillet--japanese",
+  "title": "Shrimp Skillet with Japanese Flair",
+  "description": "A quick and flavorful Japanese-inspired skillet dish made with succulent shrimp, crunchy garlicky flavor, and a hint of cinnamon.",
+  "cuisine": "japanese",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "garlicky oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp",
+      "notes": "ground cinnamon"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 lb",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "greek yogurt",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "skillet seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped, for garnish",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the garlicky oil in a large skillet over medium-high heat.",
+    "Add the shrimp and cook until pink and just cooked through, about 2-3 minutes per side.",
+    "Remove the shrimp from the skillet and set aside.",
+    "In the same skillet, add the cinnamon and cook for 1 minute, stirring constantly.",
+    "Add the greek yogurt and stir to combine.",
+    "Return the shrimp to the skillet and stir to coat with the yogurt mixture.",
+    "Season with skillet seasoning, salt, and black pepper to taste.",
+    "Add the water to the skillet and stir to combine.",
+    "Bring the mixture to a simmer and cook for an additional 1-2 minutes.",
+    "Serve the shrimp hot, garnished with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "shrimp",
+    "japanese",
+    "skillet",
+    "seafood",
+    "quick-cook"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": "20g",
+    "carbs": "10g",
+    "fat": "12g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-cinnamon-greek-shrimp-skillet--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T21:00:12.671Z"
+}
