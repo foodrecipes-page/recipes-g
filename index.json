@@ -10448,19 +10448,18 @@
   },
   {
     "slug": "golden-greek-lamb-wrap",
-    "title": "Golden Greek Lamb Wrap",
+    "title": "Lamb and Tzatziki Wrap",
     "tags": [
-      "easy-to-make",
-      "fines-herbes",
-      "high-protein",
+      "greek",
       "lamb",
-      "mediterranean",
-      "one-pan",
-      "ssam-wrap",
-      "weeknight"
+      "wrap",
+      "grilled",
+      "tzatziki",
+      "cucumber",
+      "dill"
     ],
-    "cuisine": "mediterranean",
-    "totalTimeMin": 40,
+    "cuisine": "Greek",
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
@@ -15812,6 +15811,20 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-cinnamon-greek-shrimp-skillet--japanese",
+    "title": "Shrimp Skillet with Japanese Flair",
+    "tags": [
+      "shrimp",
+      "japanese",
+      "skillet",
+      "seafood",
+      "quick-cook"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 18,
     "shard": "g"
   }
 ]
