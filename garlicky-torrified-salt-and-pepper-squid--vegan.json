@@ -1,0 +1,67 @@
+{
+  "slug": "garlicky-torrified-salt-and-pepper-squid--vegan",
+  "title": "Squidless Squid Stir Fry",
+  "description": "A vegan twist on a seafood classic, without any seafood. This dish combines the umami flavors of garlicky and torrified with the crunch of squid-free 'squid'.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Squid-free 'squid' (Tofu)",
+      "amount": "1 block (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Garlicky",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Torrified rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add minced garlic and cook for 1 minute, until fragrant.",
+    "Add the cubed tofu and cook for 3-4 minutes, until golden brown.",
+    "Add the torrified rice and stir-fry for 2-3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "tofu",
+    "stir-fry",
+    "garlic",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-torrified-salt-and-pepper-squid--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T03:46:26.312Z"
+}
