@@ -1,0 +1,77 @@
+{
+  "slug": "garlicky-gooey-middle-eastern-lamb-tagine",
+  "title": "Middle Eastern Lamb Tagine",
+  "description": "A flavorful Moroccan dish with tender lamb, aromatic spices, and a rich sauce. Perfect for a special occasion or a cozy night in.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "meat",
+    "pork-free",
+    "vegan-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "Cut into 2-inch pieces"
+    },
+    {
+      "name": "Eastern spices",
+      "amount": "2 tablespoons",
+      "notes": "Mix of cumin, coriander, and cinnamon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Middle eastern dried fruits",
+      "amount": "1 cup",
+      "notes": "Dried apricots, prunes, and raisins"
+    },
+    {
+      "name": "Tagine sauce",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Gooey honey",
+      "amount": "2 tablespoons",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb in batches, about 5 minutes per batch.",
+    "Remove the lamb and set aside.",
+    "Reduce heat to medium and add the garlic, cooking until fragrant, about 1 minute.",
+    "Add the eastern spices and cook for 1 minute.",
+    "Add the tagine sauce and bring to a boil.",
+    "Return the lamb to the pot, cover, and transfer to the oven.",
+    "Bake at 300°F for 2 1/2 hours, or until the lamb is tender.",
+    "Stir in the dried fruits and cook for an additional 10 minutes.",
+    "Serve hot, drizzled with gooey honey."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "middle-eastern",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-gooey-middle-eastern-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T05:29:35.130Z"
+}
