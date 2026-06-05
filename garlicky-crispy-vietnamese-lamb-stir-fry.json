@@ -1,0 +1,84 @@
+{
+  "slug": "garlicky-crispy-vietnamese-lamb-stir-fry",
+  "title": "Crispy Lamb Stir Fry",
+  "description": "A quick and flavorful Vietnamese-inspired stir fry with crispy lamb, served with a side of stir-fried vegetables.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "garlicky oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lamb",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "stir-fry vegetables",
+      "amount": "2 cups",
+      "notes": "such as bell peppers, carrots, and broccoli"
+    },
+    {
+      "name": "crispy garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the garlicky oil in a large skillet or wok over medium-high heat.",
+    "Add the lamb and cook until browned, about 3-4 minutes.",
+    "Remove the lamb from the skillet and set aside.",
+    "Add the crispy garlic to the skillet and cook for 1 minute.",
+    "Add the stir-fry vegetables to the skillet and cook until tender, about 3-4 minutes.",
+    "Return the lamb to the skillet and stir in the soy sauce, fish sauce, and sugar.",
+    "Cook for an additional 1-2 minutes, until the lamb is coated in the sauce.",
+    "Season with black pepper to taste.",
+    "Serve the crispy lamb stir fry hot, garnished with additional crispy garlic if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stir-fry",
+    "vietnamese",
+    "garlic"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-crispy-vietnamese-lamb-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T09:58:46.119Z"
+}
