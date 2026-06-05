@@ -1,0 +1,76 @@
+{
+  "slug": "gooey-rich-tunisian-grape-juice-tagine",
+  "title": "Tunisian Tagine with Grape Juice",
+  "description": "A sweet and savory Tunisian-inspired stew made with rich flavors and grape juice.",
+  "cuisine": "North African",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gooey Honey",
+      "amount": "2 tbsp",
+      "notes": "for serving"
+    },
+    {
+      "name": "Tunisian Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Grape Juice",
+      "amount": "1 cup",
+      "notes": "sweet and tangy"
+    },
+    {
+      "name": "Tagine Spice Blend",
+      "amount": "1 tsp",
+      "notes": "Tunisian spice mix"
+    },
+    {
+      "name": "Chicken Thighs",
+      "amount": "4",
+      "notes": "bone-in and skin-on"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large clay or ceramic tagine or Dutch oven over medium heat.",
+    "Add onion and cook, stirring occasionally, until softened, about 8 minutes.",
+    "Add chicken and cook, stirring occasionally, until browned, about 5 minutes.",
+    "Add grape juice, spice blend, and water to the tagine. Stir to combine.",
+    "Bring the mixture to a simmer, then cover the tagine and cook, stirring occasionally, until the chicken is cooked through and the sauce has thickened, about 25 minutes.",
+    "Stir in honey and season with salt and pepper to taste.",
+    "Garnish with cilantro and serve over couscous or rice.",
+    "Serve with a drizzle of honey and a side of warm pita bread, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north african",
+    "stew",
+    "chicken",
+    "grape juice"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-rich-tunisian-grape-juice-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T22:57:58.074Z"
+}
