@@ -1,0 +1,76 @@
+{
+  "slug": "gently-smoked-norwegian-fish-wrap",
+  "title": "Smoked Norwegian Fish Wrap",
+  "description": "A simple and delicious wrap filled with smoked Norwegian salmon, mixed greens, and tangy cream cheese. Perfect for a light and refreshing meal.",
+  "cuisine": null,
+  "diet": [
+    "fish",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked Norwegian Salmon",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "Tortilla Wrap",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Mixed Greens",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Cream Cheese",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Lay the tortilla wrap flat on a clean surface.",
+    "Arrange the smoked salmon along the center of the wrap.",
+    "Top the salmon with mixed greens, cream cheese, lemon juice, salt, and pepper.",
+    "Fold the bottom half of the wrap up over the filling, then fold in the sides and roll the wrap into a tight cylinder.",
+    "Slice the wrap in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "salmon",
+    "wrap",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gently-smoked-norwegian-fish-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T05:05:25.926Z"
+}
