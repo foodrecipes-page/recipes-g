@@ -2819,16 +2819,15 @@
   },
   {
     "slug": "garlicky-gooey-middle-eastern-lamb-tagine",
-    "title": "Garlicky Gooey Middle-eastern Lamb Tagine",
+    "title": "Middle Eastern Lamb Tagine",
     "tags": [
       "lamb",
       "tagine",
       "middle-eastern",
-      "slow-cooked",
-      "fermented"
+      "dinner"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 180,
+    "totalTimeMin": 170,
     "shard": "g"
   },
   {
@@ -3869,17 +3868,15 @@
   },
   {
     "slug": "garlicky-pull-malaysian-lacto-vegetarian-bake",
-    "title": "Garlicky Pull Malaysian Lacto-Vegetarian Bake",
+    "title": "Vegetarian Malaysian Pulled Pork Bake",
     "tags": [
-      "lacto-vegetarian",
-      "malaysian-cuisine",
-      "meal-prep",
-      "melted-cheese",
-      "one-pan",
-      "sous-vide"
+      "malaysian",
+      "vegan",
+      "lacto",
+      "vegetarian"
     ],
-    "cuisine": "malaysian",
-    "totalTimeMin": 150,
+    "cuisine": "Malaysian",
+    "totalTimeMin": 45,
     "shard": "g"
   },
   {
@@ -6347,16 +6344,15 @@
   },
   {
     "slug": "gently-smoked-norwegian-fish-wrap",
-    "title": "Gently Smoked Norwegian Fish Wrap",
+    "title": "Smoked Norwegian Fish Wrap",
     "tags": [
-      "high-protein",
-      "norwegian-cuisine",
-      "post-workout",
-      "seafood",
-      "smoked"
+      "fish",
+      "salmon",
+      "wrap",
+      "lunch"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 50,
+    "cuisine": null,
+    "totalTimeMin": 10,
     "shard": "g"
   },
   {
@@ -15025,15 +15021,14 @@
   },
   {
     "slug": "grilled-norwedyan-red-chilis-stir-fry",
-    "title": "Grilled Norwegian Red Chilis Stir-fry",
+    "title": "Grilled Red Chili Stir Fry",
     "tags": [
-      "grilled-recipe",
-      "norwegian-dish",
+      "chili",
       "stir-fry",
-      "kosher-friendly"
+      "grilled"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 22,
     "shard": "g"
   },
   {
