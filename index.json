@@ -2149,16 +2149,15 @@
   },
   {
     "slug": "garlicky-dense-nostalgic-saudia-ghee-stew",
-    "title": "Garlicky Dense Nostalgic Saudia Ghee Stew",
+    "title": "Saudi-Style Stew",
     "tags": [
-      "saudi-arabian",
-      "ghee-stew",
-      "jain-friendly",
-      "pressure-cooked",
-      "garlicy"
+      "saudi",
+      "beef",
+      "lamb",
+      "stew"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 35,
+    "cuisine": "Saudi",
+    "totalTimeMin": 110,
     "shard": "g"
   },
   {
@@ -4768,16 +4767,15 @@
   },
   {
     "slug": "garlicky-velvety-energizing-ethiopian-garlic-tagine",
-    "title": "Ethiopian Garlic Tagine with Sriracha",
+    "title": "Garlicky Tagine Chicken",
     "tags": [
-      "breakfast",
-      "lunch",
-      "dairy-free",
-      "garlic-lovers",
-      "spicy"
+      "chicken",
+      "north-african",
+      "couscous",
+      "rice"
     ],
-    "cuisine": "Ethiopian",
-    "totalTimeMin": 35,
+    "cuisine": "north african",
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {
@@ -12588,17 +12586,15 @@
   },
   {
     "slug": "gooey-rich-tunisian-grape-juice-tagine",
-    "title": "Gooey Rich Tunisian Grape Juice Tagine",
+    "title": "Tunisian Tagine with Grape Juice",
     "tags": [
-      "grape-juice",
-      "keto",
-      "one-pot",
-      "tagine",
-      "tunisian",
-      "vegetarian"
+      "north african",
+      "stew",
+      "chicken",
+      "grape juice"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 50,
+    "cuisine": "North African",
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {
