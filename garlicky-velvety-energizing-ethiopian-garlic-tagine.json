@@ -1,0 +1,108 @@
+{
+  "slug": "garlicky-velvety-energizing-ethiopian-garlic-tagine",
+  "title": "Garlicky Tagine Chicken",
+  "description": "A flavorful and aromatic chicken dish inspired by North African cuisine, made with a rich and spicy tagine sauce.",
+  "cuisine": "north african",
+  "diet": [
+    "gluten-free",
+    "pescatarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds, cut into 8 pieces",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "tagine",
+      "amount": "1/2 cup",
+      "notes": "see notes"
+    },
+    {
+      "name": "garlicky",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "velvety",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "energizing",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "2. Add the chicken to the pot and cook until browned on all sides, about 5-7 minutes.",
+    "3. Remove the chicken from the pot and set aside.",
+    "4. Add the minced garlic to the pot and cook for 1-2 minutes, until fragrant.",
+    "5. Add the tagine, garlicky, and velvety to the pot and stir to combine.",
+    "6. Add the cumin, coriander, and cayenne pepper to the pot and stir to combine.",
+    "7. Return the chicken to the pot and stir to coat with the sauce.",
+    "8. Reduce heat to low and simmer, covered, for 20-25 minutes, or until the chicken is cooked through.",
+    "9. Stir in the chopped parsley and lemon juice.",
+    "10. Serve hot, garnished with additional parsley if desired.",
+    "11. Serve with couscous or rice, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "north-african",
+    "couscous",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-velvety-energizing-ethiopian-garlic-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T23:28:38.724Z"
+}
