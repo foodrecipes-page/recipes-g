@@ -1,0 +1,99 @@
+{
+  "slug": "golden-crispy-agemono-mexican-monterey-jack-cheese-tacos",
+  "title": "Crunchy Taco Casserole",
+  "description": "A fusion of Mexican flavors and textures in a satisfying casserole. The golden, crispy tortilla chips add a delightful crunch to each bite.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 (1.25 oz) package of taco seasoning",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "1 lb ground beef",
+      "amount": "1",
+      "notes": "Brown the beef in a pan over medium-high heat. Drain excess fat."
+    },
+    {
+      "name": "1 can of diced tomatoes",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "1 cup of shredded mexican cheese",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "1 cup of shredded monterey jack cheese",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "1 cup of crushed golden tortilla chips",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "1/4 cup of diced onion",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "1/4 cup of diced bell pepper",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "8-10 corn tortillas",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "1 tablespoon of olive oil",
+      "amount": "1",
+      "notes": "For greasing the baking dish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C). Grease a 9x13 inch baking dish with olive oil.",
+    "Brown the ground beef in a pan over medium-high heat. Drain excess fat.",
+    "Add taco seasoning to the ground beef and cook according to package instructions.",
+    "In a separate pan, sauté diced onion and bell pepper until softened.",
+    "In a large mixing bowl, combine cooked ground beef, diced tomatoes, cooked onion and bell pepper, and shredded cheese.",
+    "Arrange 4-5 corn tortillas in the bottom of the prepared baking dish.",
+    "Spoon half of the beef mixture over the tortillas.",
+    "Sprinkle half of the shredded cheese and half of the crushed tortilla chips over the beef mixture.",
+    "Repeat the layers, starting with the tortillas, then the remaining beef mixture, and finally the remaining cheese and tortilla chips.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Let the casserole rest for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "casserole",
+    "tacos",
+    "beef",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-crispy-agemono-mexican-monterey-jack-cheese-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T10:01:16.870Z"
+}
