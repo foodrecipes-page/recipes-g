@@ -1,0 +1,71 @@
+{
+  "slug": "garlicky-dense-nostalgic-saudia-ghee-stew",
+  "title": "Saudi-Style Stew",
+  "description": "A hearty, comforting stew inspired by the flavors of Saudi Arabia. This stew is made with tender meat and a blend of aromatic spices.",
+  "cuisine": "Saudi",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "stew meat (beef or lamb)",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "dense tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "saudia spices blend (or ground cumin, coriander, cinnamon)",
+      "amount": "2 teaspoons"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee in a large Dutch oven over medium-high heat.",
+    "Add the onion and cook until it starts to brown, about 5 minutes.",
+    "Add the garlic and cook for another minute.",
+    "Add the stew meat and cook until browned on all sides, about 5 minutes.",
+    "Add the tomato paste, water, and spices blend. Stir well to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the meat is tender.",
+    " Season with salt to taste.",
+    "Serve the stew hot, garnished with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi",
+    "beef",
+    "lamb",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-dense-nostalgic-saudia-ghee-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T22:23:45.752Z"
+}
