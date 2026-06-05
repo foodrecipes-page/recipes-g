@@ -15822,5 +15822,19 @@
     "cuisine": "japanese",
     "totalTimeMin": 18,
     "shard": "g"
+  },
+  {
+    "slug": "garlicky-torrified-salt-and-pepper-squid--vegan",
+    "title": "Squidless Squid Stir Fry",
+    "tags": [
+      "vegan",
+      "tofu",
+      "stir-fry",
+      "garlic",
+      "rice"
+    ],
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
+    "shard": "g"
   }
 ]
