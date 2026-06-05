@@ -1501,13 +1501,12 @@
   },
   {
     "slug": "garlicky-crispy-vietnamese-lamb-stir-fry",
-    "title": "Garlicky Crispy Vietnamese Lamb Stir-Fry",
+    "title": "Crispy Lamb Stir Fry",
     "tags": [
-      "high-protein",
-      "one-pan",
+      "lamb",
       "stir-fry",
       "vietnamese",
-      "weeknight"
+      "garlic"
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 25,
@@ -9772,16 +9771,16 @@
   },
   {
     "slug": "golden-crispy-agemono-mexican-monterey-jack-cheese-tacos",
-    "title": "Golden Crispy Agemono Mexican Monterey Jack Cheese Tacos",
+    "title": "Crunchy Taco Casserole",
     "tags": [
-      "cheesy",
-      "crunchy",
-      "low-carb",
       "mexican",
-      "weeknight"
+      "casserole",
+      "tacos",
+      "beef",
+      "cheese"
     ],
-    "cuisine": "mexican",
-    "totalTimeMin": 32,
+    "cuisine": "Mexican",
+    "totalTimeMin": 55,
     "shard": "g"
   },
   {
@@ -15842,6 +15841,19 @@
     ],
     "cuisine": "Tunisian",
     "totalTimeMin": 40,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-pull-malaysian-lacto-vegetarian-bake--french",
+    "title": "French Vegetarian Quiche",
+    "tags": [
+      "quiche",
+      "french",
+      "vegetarian",
+      "brunch"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 55,
     "shard": "g"
   }
 ]
