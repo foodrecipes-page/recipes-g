@@ -1,0 +1,75 @@
+{
+  "slug": "golden-greek-lamb-wrap",
+  "title": "Lamb and Tzatziki Wrap",
+  "description": "A Greek-inspired wrap filled with grilled lamb and a refreshing tzatziki sauce.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "250g",
+      "notes": "ground lamb"
+    },
+    {
+      "name": "Golden Greek Yogurt",
+      "amount": "250g",
+      "notes": "plain, full-fat yogurt"
+    },
+    {
+      "name": "Greek Wrap",
+      "amount": "4",
+      "notes": "large, pita-style wraps"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Dill",
+      "amount": "2 tbsp",
+      "notes": "fresh, chopped"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. Mix lamb with salt and pepper. Grill lamb for 5-6 minutes, breaking it up into small pieces as it cooks.",
+    "3. In a bowl, mix together yogurt, cucumber, garlic, and dill.",
+    "4. Warm the wraps by wrapping them in foil and heating them in the oven at 350°F (175°C) for 5 minutes.",
+    "5. Assemble the wraps by spooning the lamb onto the bottom half of each wrap, followed by a dollop of tzatziki sauce.",
+    "6. Top with the top half of the wrap and serve immediately.",
+    "7. Refrigerate any leftovers for up to 24 hours."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "lamb",
+    "wrap",
+    "grilled",
+    "tzatziki",
+    "cucumber",
+    "dill"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-greek-lamb-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T21:29:45.771Z"
+}
