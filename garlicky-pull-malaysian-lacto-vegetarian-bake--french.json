@@ -1,0 +1,81 @@
+{
+  "slug": "garlicky-pull-malaysian-lacto-vegetarian-bake--french",
+  "title": "French Vegetarian Quiche",
+  "description": "A delicious and easy-to-make quiche perfect for a French-inspired brunch or dinner. This recipe is a great option for vegetarians and can be customized with your favorite fillings.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "lacto"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "garlicky Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "pull Spinach",
+      "amount": "2 cups",
+      "notes": "Fresh"
+    },
+    {
+      "name": "malaysian Coconut Milk",
+      "amount": "1 can",
+      "notes": "Full-fat"
+    },
+    {
+      "name": "lacto Feta Cheese",
+      "amount": "1 cup",
+      "notes": "Crumble"
+    },
+    {
+      "name": "bake Pastry Dough",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the pastry dough and place it in a 9-inch tart pan.",
+    "In a large skillet, sauté the chopped onion until softened.",
+    "Add the fresh spinach and cook until wilted.",
+    "In a separate bowl, whisk together the coconut milk and feta cheese.",
+    "Pour the milk mixture over the cooked onion and spinach mixture.",
+    "Season with salt and black pepper to taste.",
+    "Pour the mixture into the pastry-lined tart pan.",
+    "Bake for 35-40 minutes, or until the edges are golden brown.",
+    "Let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "quiche",
+    "french",
+    "vegetarian",
+    "brunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-pull-malaysian-lacto-vegetarian-bake--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T09:39:38.419Z"
+}
