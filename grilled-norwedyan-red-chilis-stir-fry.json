@@ -1,0 +1,66 @@
+{
+  "slug": "grilled-norwedyan-red-chilis-stir-fry",
+  "title": "Grilled Red Chili Stir Fry",
+  "description": "A quick and spicy stir fry made with grilled red chilis, perfect for a weeknight dinner.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red chilis",
+      "amount": "2-3",
+      "notes": "Grilled until slightly charred"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Norwegian stir fry mix",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp",
+      "notes": "Optional, omit for vegan"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add minced garlic and sauté for 1 minute until fragrant.",
+    "Add the grilled red chilis and cook for 2-3 minutes until slightly tender.",
+    "Add the Norwegian stir fry mix and cook according to package instructions.",
+    "Stir in soy sauce (if using) and season with salt to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chili",
+    "stir-fry",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grilled-norwedyan-red-chilis-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T04:47:54.940Z"
+}
