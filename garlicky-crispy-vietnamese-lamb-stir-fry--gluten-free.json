@@ -1,0 +1,81 @@
+{
+  "slug": "garlicky-crispy-vietnamese-lamb-stir-fry--gluten-free",
+  "title": "Crispy Vietnamese Lamb Stir Fry",
+  "description": "A flavorful and gluten-free stir fry recipe featuring lamb and crispy vegetables.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Crispy Vegetable Garnish",
+      "amount": "",
+      "notes": "see notes"
+    },
+    {
+      "name": "Stir Fry Sauce",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the lamb and cook until browned, about 3-4 minutes.",
+    "Remove the lamb from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of vegetable oil.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the green onions and cook until they start to soften, about 2 minutes.",
+    "Add the stir fry sauce and cook for 1-2 minutes, until the sauce has thickened.",
+    "Return the lamb to the skillet and stir to combine with the sauce.",
+    "Transfer the lamb and sauce mixture to a serving platter.",
+    "Garnish with crispy vegetable garnish, chopped cilantro, and serve immediately.",
+    "To make the crispy vegetable garnish, heat a small amount of oil in a pan over medium heat. Add the desired vegetables (such as carrots, bell peppers, or zucchini) and cook until crispy. Season with salt to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "gluten-free",
+    "lamb",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-crispy-vietnamese-lamb-stir-fry--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T22:42:06.957Z"
+}
