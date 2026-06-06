@@ -1,0 +1,67 @@
+{
+  "slug": "garlicky-crispy-vietnamese-lamb-stir-fry--italian",
+  "title": "Lamb Italian Stir Fry",
+  "description": "A fusion twist on traditional Italian cooking, combining lamb with popular Asian stir fry flavors.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "500g",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "garlicky oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "crispy garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vietnamese basil",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "stir fry seasoning",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F).",
+    "Season the lamb with salt and pepper.",
+    "Heat the garlicky oil in a large skillet over medium-high heat.",
+    "Sear the lamb until browned, then set aside.",
+    "Add the crispy garlic to the skillet and sauté for 1 minute.",
+    "Add the chopped basil and stir fry seasoning (if using) to the skillet and sauté for 1 minute.",
+    "Return the lamb to the skillet and stir to combine with the basil mixture.",
+    "Transfer the skillet to the preheated oven and cook for 10-12 minutes, or until the lamb is cooked to your desired level of doneness.",
+    "Remove the skillet from the oven and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "lamb",
+    "stir-fry",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-crispy-vietnamese-lamb-stir-fry--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T21:21:20.925Z"
+}
