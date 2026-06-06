@@ -3228,19 +3228,14 @@
   },
   {
     "slug": "garlicky-juicy-venezuelan-tofu-soup",
-    "title": "Garlicky Juicy Venezuelan Tofu Soup",
+    "title": "Venezuelan Tofu Soup",
     "tags": [
-      "vegan-soup",
-      "tofu-soup",
-      "garlic",
-      "brunch",
-      "vegan",
-      "nut-free",
-      "sous-vide",
-      "vegetable-soup"
+      "soup",
+      "south-american",
+      "vegetarian"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 75,
+    "cuisine": "South American",
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
@@ -15854,6 +15849,31 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 55,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-gooey-middle-eastern-lamb-tagine--indian",
+    "title": "Middle Eastern Lamb Tagine",
+    "tags": [
+      "lamb",
+      "tagine",
+      "indian",
+      "gluten-free"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 170,
+    "shard": "g"
+  },
+  {
+    "slug": "golden-crispy-agemono-mexican-monterey-jack-cheese-tacos--keto",
+    "title": "Crispy Keto Taco Stacks",
+    "tags": [
+      "keto",
+      "tacos",
+      "low-carb"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "g"
   }
 ]
