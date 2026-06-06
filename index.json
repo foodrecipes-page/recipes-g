@@ -15875,5 +15875,32 @@
     "cuisine": null,
     "totalTimeMin": 25,
     "shard": "g"
+  },
+  {
+    "slug": "garlicky-pull-malaysian-lacto-vegetarian-bake--vegan",
+    "title": "Malaysian Vegan Pulled Jackfruit",
+    "tags": [
+      "vegan",
+      "asian",
+      "jackfruit",
+      "malaysian",
+      "curry"
+    ],
+    "cuisine": "asian",
+    "totalTimeMin": 40,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-pull-malaysian-lacto-vegetarian-bake--keto",
+    "title": "Malaysian-Style Baked Fish",
+    "tags": [
+      "keto",
+      "malaysian",
+      "fish",
+      "dinner"
+    ],
+    "cuisine": "malaysian",
+    "totalTimeMin": 22,
+    "shard": "g"
   }
 ]
