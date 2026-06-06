@@ -1,0 +1,61 @@
+{
+  "slug": "golden-crispy-agemono-mexican-monterey-jack-cheese-tacos--keto",
+  "title": "Crispy Keto Taco Stacks",
+  "description": "A twist on traditional tacos, this stack uses crispy taco shells filled with cheese and served hot, perfect for a keto meal.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Golden, Crispy Taco Shells",
+      "amount": "6-8 shells",
+      "notes": null
+    },
+    {
+      "name": "Monterey Jack Cheese",
+      "amount": "1 cup shredded",
+      "notes": "Keto-friendly cheese option"
+    },
+    {
+      "name": "Mexican Jack Cheese",
+      "amount": "1/4 cup shredded",
+      "notes": "Additional cheese for extra flavor"
+    },
+    {
+      "name": "Taco Meat (seasoned ground beef or chicken)",
+      "amount": "1 pound",
+      "notes": "Choose a keto-friendly option"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Bake taco shells for 5-7 minutes, or until crispy.",
+    "In a skillet, cook taco meat over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Shred the Monterey Jack cheese and set aside.",
+    "To assemble the tacos, place a few spoonfuls of taco meat onto a baked taco shell.",
+    "Top with shredded cheese and a sprinkle of Mexican Jack cheese.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "tacos",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 34,
+    "carbs": 6,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-crispy-agemono-mexican-monterey-jack-cheese-tacos--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T13:04:49.379Z"
+}
