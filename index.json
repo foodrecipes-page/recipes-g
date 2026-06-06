@@ -15902,5 +15902,30 @@
     "cuisine": "malaysian",
     "totalTimeMin": 22,
     "shard": "g"
+  },
+  {
+    "slug": "glorious-golden-irish-cheese-gratin--gluten-free",
+    "title": "Irish Golden Gratin",
+    "tags": [
+      "irish",
+      "gluten-free",
+      "cheesy",
+      "comfort-food"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 45,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-pull-malaysian-lacto-vegetarian-bake--vegetarian",
+    "title": "Garlicky Malaysian Vegetable Bake",
+    "tags": [
+      "veggie-bake",
+      "malaysian-cuisine",
+      "garlicky-flavor"
+    ],
+    "cuisine": "malaysian",
+    "totalTimeMin": 65,
+    "shard": "g"
   }
 ]
