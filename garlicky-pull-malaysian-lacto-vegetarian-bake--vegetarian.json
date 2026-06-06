@@ -1,0 +1,80 @@
+{
+  "slug": "garlicky-pull-malaysian-lacto-vegetarian-bake--vegetarian",
+  "title": "Garlicky Malaysian Vegetable Bake",
+  "description": "A flavorful and easy-to-make vegetable bake from Malaysia, featuring a garlicky twist.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "garlicky oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sweet potatoes",
+      "amount": "1 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 large",
+      "notes": "seeds removed and sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lacto-free milk",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine sweet potatoes, carrots, bell peppers, and onion.",
+    "In a small bowl, mix together garlicky oil, minced garlic, and vegetable broth.",
+    "Pour the garlicky mixture over the vegetables and toss to coat.",
+    "Transfer the vegetables to a 9x13 inch baking dish.",
+    "Dot the top of the vegetables with lacto-free milk.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20-25 minutes, or until the vegetables are tender.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 50,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "veggie-bake",
+    "malaysian-cuisine",
+    "garlicky-flavor"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-pull-malaysian-lacto-vegetarian-bake--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T18:04:33.474Z"
+}
