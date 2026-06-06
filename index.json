@@ -15927,5 +15927,32 @@
     "cuisine": "malaysian",
     "totalTimeMin": 65,
     "shard": "g"
+  },
+  {
+    "slug": "garlicky-crispy-vietnamese-lamb-stir-fry--italian",
+    "title": "Lamb Italian Stir Fry",
+    "tags": [
+      "italian",
+      "lamb",
+      "stir-fry",
+      "fusion"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 27,
+    "shard": "g"
+  },
+  {
+    "slug": "gritty-ethiopian-lemongrass-ye-beg-aliche--chinese",
+    "title": "Lemongrass and Ye Stir-Fry with Aliche",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "lemongrass",
+      "ye",
+      "aliche"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 20,
+    "shard": "g"
   }
 ]
