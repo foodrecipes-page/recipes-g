@@ -1,0 +1,85 @@
+{
+  "slug": "garlicky-gooey-middle-eastern-lamb-tagine--indian",
+  "title": "Middle Eastern Lamb Tagine",
+  "description": "A slow-cooked North African dish with tender lamb and aromatic spices, served over basmati rice.",
+  "cuisine": "indian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 lb",
+      "notes": null
+    },
+    {
+      "name": "Middle Eastern lamb seasoning",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Gooey honey",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Eastern spices (cumin, coriander, cinnamon)",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Sear lamb shoulder until browned on all sides, about 5 minutes.",
+    "Remove lamb and set aside.",
+    "Reduce heat to medium and add garlic, cooking until fragrant, about 1 minute.",
+    "Add middle eastern lamb seasoning, cooking for 1 minute.",
+    "Add water, honey, and eastern spices.",
+    "Return lamb to the pot, cover, and bring to a boil.",
+    "Transfer pot to the oven and braise for 2 1/2 hours, or until lamb is tender.",
+    "Season with salt to taste.",
+    "Garnish with chopped parsley before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "indian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-gooey-middle-eastern-lamb-tagine--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T12:41:32.498Z"
+}
