@@ -1,0 +1,68 @@
+{
+  "slug": "garlicky-pull-malaysian-lacto-vegetarian-bake--keto",
+  "title": "Malaysian-Style Baked Fish",
+  "description": "A flavorful and spicy keto-friendly fish dish, inspired by Malaysian cuisine. This recipe is perfect for a quick and easy dinner.",
+  "cuisine": "malaysian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "garlicky salmon fillet",
+      "amount": "4",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "pull-apart ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "lacto-free coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "vegetarian curry powder",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "bake-safe parchment paper",
+      "amount": "1 sheet",
+      "notes": "large enough to wrap fish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Place the salmon fillets on the prepared baking sheet.",
+    "In a small bowl, mix together the ginger, curry powder, and a pinch of salt.",
+    "Brush the mixture evenly onto both salmon fillets.",
+    "Drizzle the coconut milk over the salmon, making sure they're fully coated.",
+    "Bake for 12-15 minutes or until the fish is cooked through and flakes easily with a fork.",
+    "Serve hot, garnished with sliced green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "malaysian",
+    "fish",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-pull-malaysian-lacto-vegetarian-bake--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T16:54:16.707Z"
+}
