@@ -15954,5 +15954,18 @@
     "cuisine": "chinese",
     "totalTimeMin": 20,
     "shard": "g"
+  },
+  {
+    "slug": "garlicky-crispy-vietnamese-lamb-stir-fry--gluten-free",
+    "title": "Crispy Vietnamese Lamb Stir Fry",
+    "tags": [
+      "vietnamese",
+      "gluten-free",
+      "lamb",
+      "stir-fry"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 30,
+    "shard": "g"
   }
 ]
