@@ -1,0 +1,72 @@
+{
+  "slug": "garlicky-juicy-venezuelan-tofu-soup",
+  "title": "Venezuelan Tofu Soup",
+  "description": "A hearty and flavorful soup originating from Venezuela, made with tender tofu and a blend of aromatic spices.",
+  "cuisine": "South American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "garlicky venezuelan soup mix",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "juicy tomatoes",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlicky venezuelan soup mix and cook for 1 minute.",
+    "Add the juicy tomatoes, tofu, and water to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Season the soup with salt and pepper to taste.",
+    "Serve the soup hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "south-american",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-juicy-venezuelan-tofu-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T13:02:49.423Z"
+}
