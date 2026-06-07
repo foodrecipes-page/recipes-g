@@ -1,0 +1,86 @@
+{
+  "slug": "glorious-springy-turkish-lamb-kebab-doner",
+  "title": "Doner Kebab",
+  "description": "A classic Turkish dish made from layers of lamb stacked on a vertical spit and thinly sliced for serving in a crispy pita. This recipe brings the flavors of the street to your kitchen.",
+  "cuisine": "Turkish",
+  "diet": [
+    "pork-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb Doner Meat",
+      "amount": "1 pound",
+      "notes": "Look for pre-sliced doner meat at your local butcher or market"
+    },
+    {
+      "name": "Pita Bread",
+      "amount": "4-6",
+      "notes": "Warm the pita bread by wrapping it in foil and heating it in the oven at 350°F (180°C) for 5 minutes"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head",
+      "notes": "Chopped or whole, your preference"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2",
+      "notes": "Chopped or sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Tzatziki Sauce",
+      "amount": "1 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "Optional for some heat"
+    },
+    {
+      "name": "Salt and Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "Wrap the pita bread in foil and heat it in the oven for 5 minutes.",
+    "Slice the doner meat into thin strips and cook in a large skillet over medium-high heat until browned and crispy.",
+    "Warm the tzatziki sauce in the microwave or on the stovetop.",
+    "Assemble the kebabs by placing a few slices of the doner meat onto a warmed pita bread, followed by a dollop of tzatziki sauce, some chopped lettuce, tomato, onion, and cucumber.",
+    "Season with salt, black pepper, and red pepper flakes, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "doner-kebab",
+    "lamb",
+    "street-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/glorious-springy-turkish-lamb-kebab-doner",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:11:03.393Z"
+}
