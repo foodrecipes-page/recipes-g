@@ -1,0 +1,76 @@
+{
+  "slug": "grassy-snap-fresh-ukrainian-tagliatelle-pasta",
+  "title": "Classic Tagliatelle Bolognese",
+  "description": "A traditional Italian pasta dish made with ground meat and a rich tomato sauce. Serve with freshly cooked tagliatelle for a hearty and satisfying meal.",
+  "cuisine": "Italian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tagliatelle pasta",
+      "amount": "12 oz (340g)"
+    },
+    {
+      "name": "Grass-fed ground beef",
+      "amount": "1 lb (450g)"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup (15g)"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Ukrainian tomato paste",
+      "amount": "2 tbsp (30g)"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil. Cook the tagliatelle pasta according to package instructions until al dente. Reserve 1 cup of pasta water before draining.",
+    "In a large skillet, heat 2 tbsp of oil over medium-high heat. Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the onion and garlic to the skillet and cook until the onion is translucent.",
+    "Add the Ukrainian tomato paste and cook for 1-2 minutes, stirring constantly.",
+    "Add the reserved pasta water to the skillet and stir to combine.",
+    "Season the sauce with salt and black pepper to taste.",
+    "Add the cooked tagliatelle pasta to the skillet and toss to combine with the sauce.",
+    "Serve the tagliatelle hot, garnished with fresh parsley.",
+    "Cooking time for the pasta is 8-10 minutes. Additional 15 minutes for preparation."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 23,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pastabolognese",
+    "pasta",
+    "italiancuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 64,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grassy-snap-fresh-ukrainian-tagliatelle-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:43:35.987Z"
+}
