@@ -1,0 +1,71 @@
+{
+  "slug": "grilled-norwegian-couscous-stir-fry",
+  "title": "Norwegian Grilled Salmon with Couscous",
+  "description": "A simple and flavorful dish featuring grilled Norwegian salmon served atop a bed of couscous with a hint of lemon and herbs.",
+  "cuisine": "norwegian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "norwegian salmon fillets",
+      "amount": "4 (6 oz each)"
+    },
+    ")",
+    {
+      "name": "couscous",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped (for garnish)"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "chopped (for garnish)"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season salmon fillets with salt and pepper.",
+    "Grill salmon for 4-5 minutes per side, or until cooked through.",
+    "While salmon is cooking, heat olive oil in a large skillet over medium heat.",
+    "Add couscous to the skillet and stir to coat with oil.",
+    "Cook couscous for 2-3 minutes, or until lightly toasted.",
+    "Fluff couscous with a fork and stir in lemon juice.",
+    "To serve, place grilled salmon on top of couscous and garnish with parsley and dill."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "salmon",
+    "couscous",
+    "norwegian"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grilled-norwegian-couscous-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:46:56.595Z"
+}
