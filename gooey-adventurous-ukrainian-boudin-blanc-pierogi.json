@@ -1,0 +1,67 @@
+{
+  "slug": "gooey-adventurous-ukrainian-boudin-blanc-pierogi",
+  "title": "Pan-Seared Pierogi with Smoked Boudin and Gooey Onions",
+  "description": "A hearty Ukrainian-inspired dish featuring pan-seared pierogi topped with smoked boudin and gooey onions.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pierogi (12 count)",
+      "amount": "1 package",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Smoked Boudin",
+      "amount": "1/2 pound",
+      "notes": "Slice into 1/4 inch thick rounds"
+    },
+    {
+      "name": "Gooey Onions",
+      "amount": "1 large",
+      "notes": "Sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tablespoons",
+      "notes": "Melted"
+    },
+    {
+      "name": "Fresh Dill",
+      "amount": "1 tablespoon",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a large skillet over medium heat.",
+    "Add the sliced onions and cook until caramelized, stirring occasionally.",
+    "Add the sliced boudin to the skillet and cook for an additional 2-3 minutes.",
+    "Add the pierogi to the skillet and cook for 2-3 minutes on each side, or until golden brown.",
+    "Transfer the pierogi to a plate and top with the boudin and onion mixture.",
+    "Garnish with chopped fresh dill and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "pierogi",
+    "boudin",
+    "smoked",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-adventurous-ukrainian-boudin-blanc-pierogi",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:27:59.428Z"
+}
