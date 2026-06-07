@@ -1,0 +1,65 @@
+{
+  "slug": "gooey-italian-butter-stir-fry",
+  "title": "Gooey Italian Stir Fry",
+  "description": "A quick and easy Italian-inspired stir fry with gooey cheese and crispy vegetables.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Italian bread",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "Gooey cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Mixed vegetables (e.g. bell peppers, onions, broccoli)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the Italian bread into 1-inch cubes and place on a baking sheet.",
+    "Drizzle with 1 tablespoon of butter and toss to coat.",
+    "Bake for 5-7 minutes, or until crispy.",
+    "In a large skillet, melt 1 tablespoon of butter over medium-high heat.",
+    "Add the mixed vegetables and cook until tender, about 3-4 minutes.",
+    "Stir in the gooey cheese until melted and well combined.",
+    "Add the chopped basil and cook for an additional minute.",
+    "Serve the vegetable mixture over the toasted bread.",
+    "Drizzle with additional butter if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "stir-fry",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-italian-butter-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:11:57.055Z"
+}
