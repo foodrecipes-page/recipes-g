@@ -1,0 +1,78 @@
+{
+  "slug": "great-crumbly-british-almond-crumble",
+  "title": "Classic British Apple Crumble",
+  "description": "A traditional British dessert featuring tender apples topped with a crunchy oat and butter crumble mixture. Perfect for a cold winter's evening.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Apples (Granny Smith)",
+      "amount": "6-8 medium",
+      "notes": "Peel, core, and slice the apples"
+    },
+    {
+      "name": "Great British Shortbread Crumbs",
+      "amount": "1 1/2 cups",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1/2 cup",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1/2 cup",
+      "notes": "For dusting the apples"
+    },
+    {
+      "name": "Cold Unsalted Butter",
+      "amount": "1/2 cup",
+      "notes": "Cut into small pieces"
+    },
+    {
+      "name": "Almond Extract",
+      "amount": "1/4 teaspoon",
+      "notes": "Optional"
+    },
+    {
+      "name": "Crumble Topping",
+      "amount": "additional 1 cup",
+      "notes": "See below for recipe"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, combine the sliced apples, granulated sugar, and flour. Toss until the apples are evenly coated.",
+    "Transfer the apple mixture to a 9x9-inch baking dish.",
+    "In a separate bowl, combine the crumbly topping ingredients (see below).",
+    "Evenly spread the crumbly topping over the apple mixture.",
+    "Dot the top of the crumble with the cold unsalted butter.",
+    "Bake for 40-50 minutes, or until the topping is golden brown and the apples are tender.",
+    "Remove from the oven and let cool for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": "6-8",
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "apple",
+    "crumble",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": "2g",
+    "carbs": "35g",
+    "fat": "12g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/great-crumbly-british-almond-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:43:09.769Z"
+}
