@@ -1,0 +1,80 @@
+{
+  "slug": "garlicky-tender-polish-garlic-bowl",
+  "title": "Polish Garlic Bowl",
+  "description": "A hearty and flavorful dish featuring tender polish meat, sautéed with garlic and served in a bowl.",
+  "cuisine": "European",
+  "diet": [
+    "meat-lovers"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Polish sausage",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Bowl",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "1. Slice the polish sausage into 1-inch pieces.",
+    "2. In a large skillet, melt 1 tablespoon of butter over medium-high heat.",
+    "3. Add the sliced polish sausage to the skillet and cook until browned, about 3-4 minutes.",
+    "4. Remove the cooked sausage from the skillet and set aside.",
+    "5. In the same skillet, add the remaining 1 tablespoon of butter.",
+    "6. Add the minced garlic and garlic powder to the skillet and sauté until fragrant, about 1 minute.",
+    "7. Add the cooked polish sausage back into the skillet and stir to combine with the garlic mixture.",
+    "8. Season the mixture with salt and pepper to taste.",
+    "9. Serve the polish garlic mixture in a bowl.",
+    "10. Garnish with additional garlic powder if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "polish",
+    "garlic",
+    "sausage",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-tender-polish-garlic-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:44:33.952Z"
+}
