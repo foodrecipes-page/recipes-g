@@ -12107,15 +12107,14 @@
   },
   {
     "slug": "gooey-herbal-truffle-polish-dish",
-    "title": "Gooey Herbal Truffle Polish Dish",
+    "title": "Polish Truffle Goulash",
     "tags": [
-      "vegan",
-      "low-carb",
-      "dessert",
-      "festive"
+      "polish",
+      "truffle",
+      "goulash"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 30,
+    "cuisine": "polish",
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
@@ -12194,14 +12193,15 @@
   },
   {
     "slug": "gooey-italian-butter-stir-fry",
-    "title": "Gooey Italian Butter Stir-fry",
+    "title": "Gooey Italian Stir Fry",
     "tags": [
-      "goey",
-      "italian-butter-stir-fry",
-      "jain-friendly"
+      "italian",
+      "stir-fry",
+      "quick",
+      "easy"
     ],
-    "cuisine": "Italian (Neapolitan)",
-    "totalTimeMin": 35,
+    "cuisine": "Italian",
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
