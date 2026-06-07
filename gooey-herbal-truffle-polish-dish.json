@@ -1,0 +1,73 @@
+{
+  "slug": "gooey-herbal-truffle-polish-dish",
+  "title": "Polish Truffle Goulash",
+  "description": "A hearty and flavorful goulash made with polish sausage and truffle flavors. Perfect for a cold winter night.",
+  "cuisine": "polish",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Polish Sausage",
+      "amount": "500g",
+      "notes": "you can use any type of polish sausage you like"
+    },
+    {
+      "name": "Gooey Cheese",
+      "amount": "200g",
+      "notes": "such as mozzarella or string cheese"
+    },
+    {
+      "name": "Herbal Soup Broth",
+      "amount": "1L",
+      "notes": "you can use store-bought or homemade broth"
+    },
+    {
+      "name": "Truffle Oil",
+      "amount": "20ml",
+      "notes": "use sparingly for a rich truffle flavor"
+    },
+    {
+      "name": "Dish Soap (for washing your hands)",
+      "amount": "a little"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "a handful",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the soup broth in a large pot over medium heat.",
+    "Add the polish sausage and cook until browned.",
+    "Add the gooey cheese and stir until melted.",
+    "Add the truffle oil and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "truffle",
+    "goulash"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-herbal-truffle-polish-dish",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:15:12.912Z"
+}
