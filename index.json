@@ -1213,18 +1213,15 @@
   },
   {
     "slug": "garlicky-creamy-middle-eastern-grape-leaves-casserole",
-    "title": "Garlicky Creamy Middle Eastern Grape Leaves Casserole",
+    "title": "Grape Leaf Stuffed Casserole",
     "tags": [
       "vegetarian",
-      "jain-friendly",
-      "garlicky",
-      "creamy",
-      "middle-eastern",
-      "casserole",
-      "weeknight"
+      "middle eastern",
+      "grape leaves",
+      "casserole"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 35,
+    "cuisine": "middle eastern",
+    "totalTimeMin": 55,
     "shard": "g"
   },
   {
@@ -4842,17 +4839,14 @@
   },
   {
     "slug": "garlicky-vietnamese-hind-shank-bun-thit-nuong",
-    "title": "Garlicky Vietnamese Hind Shank Bun Thit Nuong",
+    "title": "Grilled Pork Thit Nuong",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "one-pot",
-      "slow-cooker",
-      "vietnamese-cuisine",
-      "whole30"
+      "vietnamese",
+      "grilled",
+      "pork"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 180,
+    "cuisine": "vietnamese",
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
@@ -8572,17 +8566,15 @@
   },
   {
     "slug": "glorious-springy-turkish-lamb-kebab-doner",
-    "title": "Glorious Springy Turkish Lamb Kebab Doner",
+    "title": "Doner Kebab",
     "tags": [
-      "halal-friendly",
-      "kebab-doner",
-      "lamb-recipes",
-      "spring-recipes",
-      "turkish-food",
-      "umami-flavors"
+      "turkish",
+      "doner-kebab",
+      "lamb",
+      "street-food"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
