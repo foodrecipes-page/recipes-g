@@ -11176,14 +11176,16 @@
   },
   {
     "slug": "gooey-adventurous-ukrainian-boudin-blanc-pierogi",
-    "title": "Gooey Adventurous Ukrainian Boudin-Blanc Pierogi",
+    "title": "Pan-Seared Pierogi with Smoked Boudin and Gooey Onions",
     "tags": [
-      "comfort-food",
       "ukrainian",
-      "veggie-dinner"
+      "pierogi",
+      "boudin",
+      "smoked",
+      "comfort-food"
     ],
-    "cuisine": "ukrainian",
-    "totalTimeMin": 50,
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 30,
     "shard": "g"
   },
   {
