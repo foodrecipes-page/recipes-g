@@ -3436,16 +3436,15 @@
   },
   {
     "slug": "garlicky-light-mexican-chicken-tacos",
-    "title": "Garlicky, Light Mexican Chicken Tacos",
+    "title": "Garlicky Chicken Tacos",
     "tags": [
+      "garlicky",
       "mexican",
-      "garlic",
-      "almonds",
-      "high-protein",
+      "chicken",
       "tacos",
-      "dinner"
+      "lunch"
     ],
-    "cuisine": "Mexican",
+    "cuisine": "mexican",
     "totalTimeMin": 35,
     "shard": "g"
   },
@@ -10242,18 +10241,14 @@
   },
   {
     "slug": "golden-ginger-middle-eastern-chicken-tagine",
-    "title": "Golden Ginger Middle-Eastern Chicken Tagine",
+    "title": "Moroccan Chicken Tagine",
     "tags": [
+      "moroccan",
       "chicken",
-      "comfort-food",
-      "easy-to-make",
-      "flavorful",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "tagine"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 45,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 60,
     "shard": "g"
   },
   {
@@ -11025,13 +11020,15 @@
   },
   {
     "slug": "golden-syrupy-tunisian-golden-syrup-tagine",
-    "title": "Golden Syrupy Tunisian Tagine",
+    "title": "Tunisian Golden Tagine",
     "tags": [
       "tunisian",
-      "dinner"
+      "chicken",
+      "tagine",
+      "north-african"
     ],
-    "cuisine": "tunisian",
-    "totalTimeMin": 40,
+    "cuisine": "North African",
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
@@ -14347,17 +14344,15 @@
   },
   {
     "slug": "great-crumbly-british-almond-crumble",
-    "title": "Great Crumbly British Almond Crumble",
+    "title": "Classic British Apple Crumble",
     "tags": [
-      "almond-based",
-      "british-dish",
-      "gluten-free",
-      "healthy-dessert",
-      "low-carb",
-      "post-workout"
+      "british",
+      "apple",
+      "crumble",
+      "dessert"
     ],
     "cuisine": "British",
-    "totalTimeMin": 40,
+    "totalTimeMin": 65,
     "shard": "g"
   },
   {
