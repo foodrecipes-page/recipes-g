@@ -1,0 +1,95 @@
+{
+  "slug": "golden-ginger-middle-eastern-chicken-tagine",
+  "title": "Moroccan Chicken Tagine",
+  "description": "A flavorful and aromatic dish from Moroccan cuisine, slow-cooked in a traditional clay pot. Chicken is marinated in spices and cooked with dried fruits and vegetables.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 whole chicken (3-4 lbs)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 medium onions",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves of ginger",
+      "amount": "grated",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp golden syrup",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp ground coriander",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp turmeric",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp cinnamon",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 tsp ground black pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in the tagine over medium heat.",
+    "Add onions and cook until they are lightly browned.",
+    "Add ginger and cook for 1 minute.",
+    "Add chicken and cook until browned on all sides.",
+    "Add spices and cook for 1 minute.",
+    "Add golden syrup and 2 cups of water.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 30 minutes.",
+    "Add dried fruits and simmer for an additional 10 minutes.",
+    "Serve hot, garnished with fresh herbs.",
+    "Let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "chicken",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-ginger-middle-eastern-chicken-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:43:34.310Z"
+}
