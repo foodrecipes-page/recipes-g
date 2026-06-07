@@ -1,0 +1,81 @@
+{
+  "slug": "garlicky-vietnamese-hind-shank-bun-thit-nuong",
+  "title": "Grilled Pork Thit Nuong",
+  "description": "A popular Vietnamese-style grilled pork dish, marinated in a sweet and savory mixture. Serve with fresh herbs and steamed rice.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "gluten-free",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork thit",
+      "amount": "500g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlicky bun",
+      "amount": "4",
+      "notes": "chopped, for serving"
+    },
+    {
+      "name": "vietnamese nuong",
+      "amount": "2 tablespoons",
+      "notes": "grilled until caramelized"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/2 cup",
+      "notes": "marinade"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons",
+      "notes": "marinade"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "marinade"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "marinade"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine soy sauce, sugar, fish sauce, lime juice, and nuong. Blend until smooth.",
+    "In a large bowl, whisk together marinade and sliced pork thit. Cover and refrigerate for at least 2 hours or overnight.",
+    "Preheat grill to medium-high heat. Remove pork from marinade, letting any excess liquid drip off.",
+    "Grill pork for 5-7 minutes per side, or until cooked through.",
+    "Transfer pork to a cutting board and let rest for 5 minutes. Slice into thin strips.",
+    "Serve pork with fresh cilantro, chopped garlicky bun, and steamed rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "grilled",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-vietnamese-hind-shank-bun-thit-nuong",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:13:14.660Z"
+}
