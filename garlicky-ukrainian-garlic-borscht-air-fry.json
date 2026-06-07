@@ -1,0 +1,89 @@
+{
+  "slug": "garlicky-ukrainian-garlic-borscht-air-fry",
+  "title": "Classic Ukrainian Borscht",
+  "description": "A traditional Ukrainian beet-based soup, flavored with garlic and vinegar. Perfect for a cold winter day.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beets",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 tsp",
+      "notes": "minced (optional)"
+    },
+    {
+      "name": "Borscht",
+      "amount": "1 cup",
+      "notes": "canned or homemade"
+    },
+    {
+      "name": "Fry",
+      "amount": "1/4 cup",
+      "notes": "crushed potato chips (optional)"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "Vinegar",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add minced garlic and sauté until fragrant.",
+    "Add beets, borscht, water, vinegar, salt, and pepper.",
+    "Bring to a boil, then reduce heat and simmer for 20 minutes.",
+    "Purée soup with an immersion blender or regular blender.",
+    "Taste and adjust seasoning.",
+    "Serve hot, topped with crushed potato chips (if desired).",
+    "Garnish with fresh dill (optional)"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "soup",
+    "beets",
+    "garlic",
+    "borscht"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-ukrainian-garlic-borscht-air-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:40:42.329Z"
+}
