@@ -1,0 +1,88 @@
+{
+  "slug": "garlicky-light-mexican-chicken-tacos",
+  "title": "Garlicky Chicken Tacos",
+  "description": "A twist on traditional tacos with a garlicky marinade, served with crispy chicken and fresh toppings.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken breasts",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tacos seasoning",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Light olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Tortillas",
+      "amount": "8",
+      "notes": ""
+    },
+    {
+      "name": "Shredded cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sliced avocado",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a blender or food processor, combine garlic, lime juice, and tacos seasoning. Blend until smooth.",
+    "2. Place the chicken breasts in a large ziplock bag. Pour the marinade over the chicken and massage to coat. Refrigerate for at least 30 minutes.",
+    "3. Preheat a grill or grill pan to medium-high heat. Remove the chicken from the marinade and cook for 5-7 minutes per side, or until cooked through.",
+    "4. Meanwhile, warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "5. Shred the cooked chicken into bite-sized pieces.",
+    "6. Assemble the tacos by placing a portion of the chicken onto a tortilla, followed by a sprinkle of cheese, a spoonful of cilantro, and a slice of avocado.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "garlicky",
+    "mexican",
+    "chicken",
+    "tacos",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-light-mexican-chicken-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:42:27.134Z"
+}
