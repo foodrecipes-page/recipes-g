@@ -1,0 +1,81 @@
+{
+  "slug": "garlicky-creamy-middle-eastern-grape-leaves-casserole",
+  "title": "Grape Leaf Stuffed Casserole",
+  "description": "A delicious twist on the traditional grape leaf dolma, this casserole is perfect for a weeknight dinner. The creamy filling is wrapped in grape leaves and baked in a flavorful casserole.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Grape Leaves",
+      "amount": "1 package (fresh or jarred)",
+      "notes": "fresh or jarred"
+    },
+    {
+      "name": "Garlicky Creamy Filling",
+      "amount": "1 cup",
+      "notes": "see notes"
+    },
+    {
+      "name": "Middle Eastern Spices",
+      "amount": "1 tsp",
+      "notes": "mix of cumin, paprika, and sumac"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Rinse the grape leaves and remove the stems.",
+    "In a bowl, mix together the creamy filling, rice, lemon juice, garlic, and spices.",
+    "Place a grape leaf on a flat surface, with the stem end facing you.",
+    "Place 1-2 tbsp of the filling in the center of the leaf.",
+    "Fold the stem end over the filling, then fold in the sides and roll up the leaf to form a tight package.",
+    "Repeat with the remaining grape leaves and filling.",
+    "In a 9x13 inch casserole dish, arrange the grape leaf packages seam-side down.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the grape leaves are tender.",
+    "Serve hot, garnished with lemon wedges and a sprinkle of sumac."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "middle eastern",
+    "grape leaves",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-creamy-middle-eastern-grape-leaves-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:08:51.649Z"
+}
