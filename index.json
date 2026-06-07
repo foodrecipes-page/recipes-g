@@ -4625,17 +4625,16 @@
   },
   {
     "slug": "garlicky-ukrainian-garlic-borscht-air-fry",
-    "title": "Garlicky Ukrainian Garlic Borscht Air-Fry",
+    "title": "Classic Ukrainian Borscht",
     "tags": [
-      "air-fried",
-      "comfort-food",
-      "high-protein",
-      "keto-friendly",
       "ukrainian",
-      "weeknight"
+      "soup",
+      "beets",
+      "garlic",
+      "borscht"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {
@@ -14125,17 +14124,15 @@
   },
   {
     "slug": "grassy-snap-fresh-ukrainian-tagliatelle-pasta",
-    "title": "Grassy Snap-fresh Ukrainian Tagliatelle Pasta",
+    "title": "Classic Tagliatelle Bolognese",
     "tags": [
-      "breakfast",
-      "fodmap-friendly",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "italian",
+      "pastabolognese",
+      "pasta",
+      "italiancuisine"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 45,
+    "cuisine": "Italian",
+    "totalTimeMin": 38,
     "shard": "g"
   },
   {
@@ -15022,15 +15019,15 @@
   },
   {
     "slug": "grilled-norwegian-couscous-stir-fry",
-    "title": "Grilled Norwegian Couscous Stir-fry",
+    "title": "Norwegian Grilled Salmon with Couscous",
     "tags": [
-      "norwegian-cuisine",
-      "grilled-couscous-stir-fry",
-      "kid-friendly",
-      "low-carb-diet"
+      "grilled",
+      "salmon",
+      "couscous",
+      "norwegian"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 45,
+    "cuisine": "norwegian",
+    "totalTimeMin": 30,
     "shard": "g"
   },
   {
