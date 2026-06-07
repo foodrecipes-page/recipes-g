@@ -1,0 +1,84 @@
+{
+  "slug": "golden-syrupy-tunisian-golden-syrup-tagine",
+  "title": "Tunisian Golden Tagine",
+  "description": "A traditional Tunisian dish, this tagine is made with chicken, golden syrup, and spices. The result is a rich and flavorful stew.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "golden syrup",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "tunisian spice blend",
+      "amount": "2 tsp",
+      "notes": "available at most Middle Eastern markets"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tagine",
+      "amount": "1",
+      "notes": "available at most Middle Eastern markets"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the bottom of a clay or ceramic tagine over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Add the tunisian spice blend, salt, and golden syrup. Stir to combine.",
+    "Add 1 cup of water to the tagine and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes, or until the chicken is cooked through.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tunisian",
+    "chicken",
+    "tagine",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-syrupy-tunisian-golden-syrup-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:42:12.991Z"
+}
