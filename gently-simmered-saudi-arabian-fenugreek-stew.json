@@ -1,0 +1,83 @@
+{
+  "slug": "gently-simmered-saudi-arabian-fenugreek-stew",
+  "title": "Saudi Arabian Stew with Fenugreek",
+  "description": "A hearty and flavorful stew originating from Saudi Arabia, incorporating fenugreek for added nutrition.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fenugreek",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "Gentle onions",
+      "amount": "2 medium, sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "3 medium, peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large, peeled and chopped"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp, ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp, ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add sliced onions and cook until they start to soften.",
+    "Add chopped carrots and potatoes, cooking for 5 minutes.",
+    "Stir in cumin, coriander, salt, and pepper.",
+    "Pour in vegetable broth and bring to a simmer.",
+    "Add chopped fenugreek and continue to simmer for 20 minutes.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with additional fenugreek if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stew",
+    "fenugreek",
+    "saudi arabian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gently-simmered-saudi-arabian-fenugreek-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:08:25.549Z"
+}
