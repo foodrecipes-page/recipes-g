@@ -1,0 +1,73 @@
+{
+  "slug": "grassy-canadian-quinoa-pilaf",
+  "title": "Canadian Quinoa Pilaf Bowl",
+  "description": "A nutritious and flavorful bowl filled with quinoa pilaf, topped with Canadian ingredients.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "canadian pilaf",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "grassy watercress",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "canadian maple syrup",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add the pilaf and cook for 2-3 minutes, or until lightly toasted.",
+    "Add the quinoa and water to the skillet, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 15-20 minutes, or until the quinoa is tender.",
+    "Fluff the quinoa mixture with a fork, and stir in the watercress.",
+    "Season with maple syrup, salt, and pepper to taste.",
+    "Serve hot in individual bowls."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian",
+    "quinoa",
+    "pilaf",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grassy-canadian-quinoa-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T14:38:46.942Z"
+}
