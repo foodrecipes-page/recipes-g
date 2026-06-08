@@ -1,0 +1,75 @@
+{
+  "slug": "gingered-crispy-fried-filipino-aubergine-bihon-pancit",
+  "title": "Filipino-Style Fried Aubergine with Bihon Noodles",
+  "description": "A spicy and savory dish combining crispy fried aubergine with pan-fried bihon noodles.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "aubergine",
+      "amount": "2 large",
+      "notes": "sliced into 1/2 inch thick rounds"
+    },
+    {
+      "name": "bihon noodles",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "gingered oil",
+      "amount": "2 tbsp",
+      "notes": "or vegetable oil"
+    },
+    {
+      "name": "crispy fried shallots",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of gingered oil in a pan over medium-high heat.",
+    "Add sliced aubergine and cook until golden brown, about 3-4 minutes.",
+    "Remove aubergine from pan and set aside.",
+    "In the same pan, add another tbsp of gingered oil and cook bihon noodles according to package instructions.",
+    "Add crispy fried shallots, salt, black pepper, and chili flakes to the noodles and stir to combine.",
+    "Return cooked aubergine to the pan and toss to coat with the noodle mixture.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gingered-crispy-fried-filipino-aubergine-bihon-pancit",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T14:59:24.440Z"
+}
