@@ -1,0 +1,69 @@
+{
+  "slug": "garlicky-uruguayan-garlic-grill",
+  "title": "Uruguayan Grilled Skirt Steak with Roasted Garlic",
+  "description": "A classic Uruguayan-style grilled skirt steak served with a side of roasted garlic. Perfect for a dinner or special occasion.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "skirt steak",
+      "amount": "1 (1.5-2 pounds) pound",
+      "notes": "preferably grass-fed"
+    },
+    {
+      "name": "garlic",
+      "amount": "3-4 cloves",
+      "notes": "for grilling"
+    },
+    {
+      "name": "garlicky",
+      "amount": "2 tablespoons",
+      "notes": "Uruguayan seasoning blend"
+    },
+    {
+      "name": "uruguayan",
+      "amount": "2 tablespoons",
+      "notes": "Uruguayan seasoning blend"
+    },
+    {
+      "name": "grill",
+      "amount": "",
+      "notes": "preheated to medium-high heat"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the skirt steak with Uruguayan seasoning blend, making sure to coat all sides evenly.",
+    "Grill the skirt steak for 4-5 minutes per side, or until it reaches your desired level of doneness.",
+    "While the steak is grilling, slice the garlic cloves in half lengthwise.",
+    "Place the garlic cloves on the grill and cook for an additional 2-3 minutes, or until the garlic is tender and lightly charred.",
+    "Remove the steak from the grill and let it rest for 5-7 minutes.",
+    "Meanwhile, squeeze the roasted garlic out of its skin and mix it with the Uruguayan seasoning blend.",
+    "Serve the grilled skirt steak with the roasted garlic sauce spooned over the top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "steak",
+    "uruguayan",
+    "garlic",
+    "latin-american"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-uruguayan-garlic-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:12:33.256Z"
+}
