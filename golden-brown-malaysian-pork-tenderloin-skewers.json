@@ -1,0 +1,77 @@
+{
+  "slug": "golden-brown-malaysian-pork-tenderloin-skewers",
+  "title": "Malaysian Pork Skewers",
+  "description": "A flavorful and tender pork skewer dish inspired by Malaysian cuisine, grilled to perfection.",
+  "cuisine": "malaysian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "500g",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "for marinating"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tbsp",
+      "notes": "for marinade and glaze"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tbsp",
+      "notes": "for grilling"
+    },
+    {
+      "name": "golden malaysian chili sauce",
+      "amount": "1 tbsp",
+      "notes": "for glaze"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12 wooden",
+      "notes": "for grilling"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400°F (200°C).",
+    "In a bowl, whisk together soy sauce, brown sugar, and 1 tbsp of coconut oil. Add pork pieces and marinate for at least 30 minutes.",
+    "Thread marinated pork onto skewers, leaving a little space between each piece.",
+    "Brush grill with coconut oil to prevent sticking.",
+    "Grill skewers for 8-10 minutes, or until pork is cooked through and slightly charred.",
+    "In a small bowl, whisk together golden malaysian chili sauce and 1 tbsp of ghee. Brush the glaze onto the grilled pork skewers.",
+    "Serve immediately, garnished with chopped cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "grilled",
+    "pork",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-brown-malaysian-pork-tenderloin-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:33:05.108Z"
+}
