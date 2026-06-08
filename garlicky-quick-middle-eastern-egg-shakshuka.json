@@ -1,0 +1,83 @@
+{
+  "slug": "garlicky-quick-middle-eastern-egg-shakshuka",
+  "title": "Middle Eastern Shakshuka",
+  "description": "A flavorful and spicy North African-inspired egg dish made with a rich tomato sauce.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "garlicky",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "middle eastern egg",
+      "amount": "4 eggs"
+    },
+    {
+      "name": "shakshuka",
+      "amount": "1 can"
+    },
+    {
+      "name": "quick eastern spices",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large cast-iron skillet over medium-high heat.",
+    "Add diced red onion and cook, stirring occasionally, until softened, about 5 minutes.",
+    "Add tomato paste and cook, stirring constantly, for 1 minute.",
+    "Add canned shakshuka, garlicky, quick eastern spices, red pepper flakes, salt, and black pepper. Stir to combine.",
+    "Create 4 wells in the tomato mixture and crack an egg into each well.",
+    "Transfer skillet to preheated oven and bake at 400°F (200°C) for 15-20 minutes, or until eggs are set.",
+    "Remove skillet from oven and let cool slightly.",
+    "Serve eggs in tomato sauce hot, garnished with parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "middle-eastern",
+    "breakfast",
+    "eggs",
+    "tomatoes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-quick-middle-eastern-egg-shakshuka",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:21:41.575Z"
+}
