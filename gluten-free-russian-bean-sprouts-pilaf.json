@@ -1,0 +1,85 @@
+{
+  "slug": "gluten-free-russian-bean-sprouts-pilaf",
+  "title": "Russian Bean Pilaf",
+  "description": "A hearty and flavorful Russian-inspired pilaf dish made with beans and sprouts, perfect for a satisfying meal.",
+  "cuisine": "Russian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mung beans",
+      "amount": "1 cup",
+      "notes": "Rinsed and drained"
+    },
+    {
+      "name": "Russian pilaf mix",
+      "amount": "1 cup",
+      "notes": "Follow package instructions for cooking"
+    },
+    {
+      "name": "Bean sprouts",
+      "amount": "1 cup",
+      "notes": "Fresh or frozen, thawed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the mung beans and Russian pilaf mix to the skillet.",
+    "Cook according to the pilaf mix instructions, stirring frequently.",
+    "Add the bean sprouts to the skillet and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired.",
+    "Optional: Add cooked sausage or ham to the pilaf for added protein."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "russian",
+    "bean-sprouts",
+    "pilaf",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gluten-free-russian-bean-sprouts-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:02:52.056Z"
+}
