@@ -1,0 +1,94 @@
+{
+  "slug": "gentle-sunday-braise-jamaican-fish-curry",
+  "title": "Jamaican Braise Fish Curry",
+  "description": "A flavorful Jamaican-inspired fish curry made with tender fish, soft vegetables, and aromatic spices.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fish (tilapia or snapper)",
+      "amount": "1 pound",
+      "notes": "Fresh or frozen, skin removed"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 teaspoons",
+      "notes": "Jamaican-style"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "Dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Unrefined"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "Full-fat"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add curry powder, cumin, thyme, salt, and pepper. Cook for 1 minute.",
+    "Add fish and cook until browned on both sides, about 3-4 minutes.",
+    "Add coconut milk and bring to a simmer.",
+    "Reduce heat to low and braise for 10-12 minutes, or until fish is cooked through.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "curry",
+    "fish",
+    "braise"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gentle-sunday-braise-jamaican-fish-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:27:58.680Z"
+}
