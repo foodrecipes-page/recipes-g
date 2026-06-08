@@ -4662,17 +4662,16 @@
   },
   {
     "slug": "garlicky-uruguayan-garlic-grill",
-    "title": "Garlicky Uruguayan Grill",
+    "title": "Uruguayan Grilled Skirt Steak with Roasted Garlic",
     "tags": [
-      "ayurvedic",
-      "garlicky",
-      "high-protein",
-      "one-pan",
-      "snappy",
-      "weeknight"
+      "grilled",
+      "steak",
+      "uruguayan",
+      "garlic",
+      "latin-american"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
@@ -5459,17 +5458,14 @@
   },
   {
     "slug": "gentle-italian-sardine-focaccia",
-    "title": "Gentle Italian Sardine Focaccia",
+    "title": "Italian Sardine Focaccia",
     "tags": [
-      "focaccia",
-      "italian-food",
-      "lazy-sunday",
-      "low-fat",
-      "mediterranean-diet",
-      "seafood"
+      "italian",
+      "fish",
+      "easy"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 20,
     "shard": "g"
   },
   {
@@ -6969,16 +6965,14 @@
   },
   {
     "slug": "gingered-crispy-fried-filipino-aubergine-bihon-pancit",
-    "title": "Gingered Crispy Fried Filipino Aubergine Bihon Pancit",
+    "title": "Filipino-Style Fried Aubergine with Bihon Noodles",
     "tags": [
       "filipino",
-      "high-protein",
-      "one-pan",
       "vegetarian",
-      "weeknight"
+      "gluten-free"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
@@ -9149,17 +9143,16 @@
   },
   {
     "slug": "gluten-free-russian-bean-sprouts-pilaf",
-    "title": "Gluten Free Russian Bean Sprouts Pilaf",
+    "title": "Russian Bean Pilaf",
     "tags": [
-      "easy-dinner",
       "gluten-free",
-      "healthy-meal",
-      "one-pot",
-      "russian-cuisine",
-      "vegetarian"
+      "russian",
+      "bean-sprouts",
+      "pilaf",
+      "lunch"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
@@ -10183,15 +10176,16 @@
   },
   {
     "slug": "golden-gelato-venezuelan-chocolate-torta",
-    "title": "Golden Gelato Venezuelan Chocolate Torta",
+    "title": "Venezuelan Chocolate Torta",
     "tags": [
-      "chocolate-lovers",
-      "high-end",
-      "make-ahead",
-      "special-occasion"
+      "chocolate",
+      "gelato",
+      "venezuelan",
+      "dessert",
+      "sweet"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 90,
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
@@ -13848,17 +13842,15 @@
   },
   {
     "slug": "grassy-canadian-quinoa-pilaf",
-    "title": "Grassy Canadian Quinoa Pilaf",
+    "title": "Canadian Quinoa Pilaf Bowl",
     "tags": [
       "canadian",
-      "kale",
-      "one-pan",
       "quinoa",
-      "vegetarian",
-      "weeknight"
+      "pilaf",
+      "vegetarian"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 40,
+    "cuisine": null,
+    "totalTimeMin": 30,
     "shard": "g"
   },
   {
