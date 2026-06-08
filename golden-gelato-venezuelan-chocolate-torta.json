@@ -1,0 +1,68 @@
+{
+  "slug": "golden-gelato-venezuelan-chocolate-torta",
+  "title": "Venezuelan Chocolate Torta",
+  "description": "A rich and decadent dessert that combines the flavors of Venezuela and chocolate. Perfect for special occasions or as a sweet treat.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Golden Venezuelan chocolate chips",
+      "amount": "1 cup",
+      "notes": "High-quality chocolate for the best flavor"
+    },
+    {
+      "name": "Golden gelato",
+      "amount": "1 pint",
+      "notes": "Choose your favorite flavor to pair with the chocolate"
+    },
+    {
+      "name": "Venezuelan arequipe",
+      "amount": "1 cup",
+      "notes": "Caramel-like sauce made from milk and sugar"
+    },
+    {
+      "name": "Golden torta",
+      "amount": "1",
+      "notes": "Crumbly, sweet pastry to hold the chocolate and gelato"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 tsp",
+      "notes": "To balance the sweetness of the chocolate and gelato"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Bake the torta according to the package instructions.",
+    "Melt the chocolate chips in a double boiler or in the microwave in 30-second increments, stirring between each interval.",
+    "Scoop the gelato into a bowl and top with the melted chocolate.",
+    "Drizzle the Venezuelan arequipe over the top of the gelato and chocolate.",
+    "Sprinkle sea salt over the top.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate",
+    "gelato",
+    "venezuelan",
+    "dessert",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-gelato-venezuelan-chocolate-torta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:09:19.384Z"
+}
