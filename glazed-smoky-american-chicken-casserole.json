@@ -1,0 +1,94 @@
+{
+  "slug": "glazed-smoky-american-chicken-casserole",
+  "title": "Smoky Chicken Casserole",
+  "description": "A classic comfort food dish with a smoky twist, perfect for a weeknight dinner.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, Skinless Chicken Thighs",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Smoky Paprika",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Canned Diced Tomatoes",
+      "amount": "14.5 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Glazed Chicken Broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Shredded Cheddar Cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5-6 minutes.",
+    "Add the onion and garlic to the skillet and cook until the onion is translucent.",
+    "Stir in the smoky paprika, diced tomatoes, and chicken broth.",
+    "Bring the mixture to a simmer and let cook for 10-15 minutes.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Top the mixture with the shredded cheese and breadcrumbs.",
+    "Bake the casserole in the preheated oven for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "chicken",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/glazed-smoky-american-chicken-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T18:21:39.040Z"
+}
