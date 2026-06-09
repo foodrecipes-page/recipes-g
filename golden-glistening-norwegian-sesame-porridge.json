@@ -1,0 +1,64 @@
+{
+  "slug": "golden-glistening-norwegian-sesame-porridge",
+  "title": "Golden Glistening Porridge",
+  "description": "A simple and comforting breakfast porridge with a hint of sesame and a touch of Norwegian flair.",
+  "cuisine": "Scandinavian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Golden porridge",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tsp",
+      "notes": "For serving"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Water",
+      "amount": "3 cups"
+    }
+  ],
+  "instructions": [
+    "Combine porridge, water, sugar, and salt in a medium saucepan.",
+    "Bring to a boil over medium heat.",
+    "Reduce heat to low and simmer for 5 minutes.",
+    "Stir in sesame seeds and cook for an additional 1-2 minutes.",
+    "Serve hot, drizzled with sesame oil."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "porridge",
+    "sesame"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 50,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-glistening-norwegian-sesame-porridge",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T00:29:54.553Z"
+}
