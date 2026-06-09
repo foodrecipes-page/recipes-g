@@ -1,0 +1,92 @@
+{
+  "slug": "gentle-earthy-malaysian-beef-kidney-curry",
+  "title": "Malaysian Beef Curry",
+  "description": "A flavorful and aromatic beef curry dish inspired by the cuisine of Malaysia. This recipe is a hearty and comforting meal.",
+  "cuisine": "malaysian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "kidney",
+      "amount": "2",
+      "notes": "optional"
+    },
+    {
+      "name": "curry",
+      "amount": "2 tablespoons",
+      "notes": "malaysian curry paste"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of coconut oil in a large pan over medium-high heat.",
+    "Add the beef and cook until browned, about 3-4 minutes. Remove from the pan and set aside.",
+    "Add the remaining 1 tablespoon of coconut oil to the pan.",
+    "Add the onion, garlic, and ginger to the pan and cook until the onion is translucent, about 3-4 minutes.",
+    "Add the curry paste to the pan and cook for 1 minute, stirring constantly.",
+    "Add the fish sauce, sugar, and lemon juice to the pan and cook for 1 minute.",
+    "Add the beef back to the pan and stir to coat with the curry sauce.",
+    "Reduce heat to low and simmer for 10-15 minutes or until the beef is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot with steamed rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-curry",
+    "malaysian-cuisine",
+    "easy-recipes"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gentle-earthy-malaysian-beef-kidney-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T00:05:46.351Z"
+}
