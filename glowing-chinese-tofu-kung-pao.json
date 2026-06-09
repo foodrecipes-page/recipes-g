@@ -1,0 +1,89 @@
+{
+  "slug": "glowing-chinese-tofu-kung-pao",
+  "title": "Glowing Kung Pao Tofu",
+  "description": "A spicy and savory Chinese-inspired dish made with glowing mushrooms, crispy tofu, and crunchy vegetables.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Glowing mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": "pressed and drained"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Kung pao sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/4 cup",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "1. Heat 2 tablespoons of oil in a wok or large skillet over medium-high heat.",
+    "2. Add the ginger and garlic and stir-fry for 30 seconds.",
+    "3. Add the glowing mushrooms and stir-fry for 2-3 minutes, until they release their liquid and start to brown.",
+    "4. Add the tofu and stir-fry for 2-3 minutes, until it is golden brown on all sides.",
+    "5. Add the soy sauce, rice vinegar, and kung pao sauce. Stir-fry for 1-2 minutes, until the sauce has thickened.",
+    "6. Add the scallions and pepper. Stir-fry for 1 minute, until they are tender.",
+    "7. Season with salt and pepper to taste.",
+    "8. Serve immediately over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "glowing",
+    "spicy",
+    "tofu",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/glowing-chinese-tofu-kung-pao",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T20:51:14.283Z"
+}
