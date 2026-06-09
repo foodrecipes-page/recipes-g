@@ -1,0 +1,89 @@
+{
+  "slug": "glowing-croatian-applesauce-stew",
+  "title": "Croatian Stew with Applesauce and Glowing Garnish",
+  "description": "A hearty and flavorful stew from Croatia, served with a sweet applesauce and a glowing garnish for a touch of whimsy.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Croatian stew meat",
+      "amount": "1 pound",
+      "notes": "such as beef or venison"
+    },
+    {
+      "name": "Applesauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Glowing garnish",
+      "amount": "1 tablespoon",
+      "notes": "such as edible glitter or glowing sugar"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Potato",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic and cook until softened.",
+    "Add carrot and potato and cook for 5 minutes.",
+    "Add stew meat and cook until browned.",
+    "Add tomato paste and red wine (if using) and stir to combine.",
+    "Add enough water to cover the stew meat and bring to a boil.",
+    "Reduce heat to low and simmer for 1 hour.",
+    "Serve hot with applesauce and glowing garnish on top.",
+    "Garnish with chopped fresh herbs (such as parsley or thyme) if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "stew",
+    "applesauce",
+    "glowing"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/glowing-croatian-applesauce-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T05:10:35.309Z"
+}
