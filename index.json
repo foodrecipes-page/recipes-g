@@ -494,16 +494,14 @@
   },
   {
     "slug": "garlic-roasted-potato-roast",
-    "title": "Garlic Roasted Potato Roast",
+    "title": "Roasted Garlic and Potato Mash",
     "tags": [
-      "potato",
-      "garlic",
-      "roasted",
-      "keto-friendly",
-      "dutch"
+      "mashed potatoes",
+      "roasted garlic",
+      "breakfast"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 45,
+    "cuisine": "french",
+    "totalTimeMin": 55,
     "shard": "g"
   },
   {
