@@ -1,0 +1,69 @@
+{
+  "slug": "golden-yolk-bliss-paleo-bowl",
+  "title": "Paleo Breakfast Bowl",
+  "description": "A delicious and healthy breakfast bowl made with paleo-friendly ingredients. Perfect for a quick and easy morning meal.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Golden Bliss Granola",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Paleo Yogurt",
+      "amount": "1 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "Fresh Fruit",
+      "amount": "1 cup",
+      "notes": "such as berries or sliced banana"
+    },
+    {
+      "name": "Chia Seeds",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Honey or Maple Syrup",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Bowl",
+      "amount": "",
+      "notes": "a large, shallow bowl"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the granola and yogurt.",
+    "2. Top with fresh fruit and chia seeds, if using.",
+    "3. Drizzle with honey or maple syrup, if desired.",
+    "4. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "paleo",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-yolk-bliss-paleo-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T23:50:09.595Z"
+}
