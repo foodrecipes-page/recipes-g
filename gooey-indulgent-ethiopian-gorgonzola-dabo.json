@@ -1,0 +1,76 @@
+{
+  "slug": "gooey-indulgent-ethiopian-gorgonzola-dabo",
+  "title": "Dabo Gorgonzola Stuffed Mushrooms",
+  "description": "A rich and creamy dish combining the flavors of Dabo cheese with the earthy taste of gorgonzola, all stuffed inside gooey indulgent mushrooms.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "gorgonzola cheese",
+      "amount": "1/2 cup, crumbled"
+    },
+    {
+      "name": "dabo cheese",
+      "amount": "1/2 cup, crumbled"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "12-15, depending on size"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "parsley",
+      "amount": "2 tbsp, chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Clean the mushrooms and remove the stems.",
+    "In a skillet over medium heat, melt the butter and sauté the garlic until fragrant.",
+    "Add the mushrooms to the skillet and cook for 2-3 minutes on each side.",
+    "In a bowl, mix together the gorgonzola and Dabo cheese.",
+    "Stuff each mushroom cap with the cheese mixture, dividing it evenly.",
+    "Sprinkle salt and pepper to taste, then top with chopped parsley.",
+    "Bake the stuffed mushrooms for 10-12 minutes, until golden brown and the cheese is melted.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "cheesy",
+    "mushrooms",
+    "snack",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-indulgent-ethiopian-gorgonzola-dabo",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T18:02:20.995Z"
+}
