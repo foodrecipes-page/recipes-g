@@ -8419,17 +8419,15 @@
   },
   {
     "slug": "glorious-golden-venezuelan-plantain-skewers",
-    "title": "Glorious Golden Venezuelan Plantain Skewers",
+    "title": "Venezuelan Grilled Plantain Skewers",
     "tags": [
-      "dairy-free",
       "grilled",
-      "kinako",
-      "south-american",
-      "tropical",
-      "vegetarian"
+      "skewers",
+      "plantains",
+      "venezuelan"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 32,
+    "totalTimeMin": 20,
     "shard": "g"
   },
   {
@@ -8870,17 +8868,15 @@
   },
   {
     "slug": "glowing-croatian-applesauce-stew",
-    "title": "Glowing Croatian Applesauce Stew",
+    "title": "Croatian Stew with Applesauce and Glowing Garnish",
     "tags": [
-      "comfort-food",
       "croatian",
-      "healthy",
-      "one-pot",
-      "smoky",
-      "vegetarian"
+      "stew",
+      "applesauce",
+      "glowing"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 80,
     "shard": "g"
   },
   {
