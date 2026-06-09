@@ -5156,16 +5156,16 @@
   },
   {
     "slug": "gentle-braised-venezuelan-tomato-stew",
-    "title": "Gentle Braised Venezuelan Tomato Stew",
+    "title": "Braised Venezuelan Beef Stew",
     "tags": [
-      "comfort-food",
-      "diabetic-friendly",
-      "gluten-free",
-      "low-carb",
-      "one-pot"
+      "beef",
+      "stew",
+      "venezuelan",
+      "latin-american",
+      "comfort-food"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 50,
+    "cuisine": "venezuelan",
+    "totalTimeMin": 135,
     "shard": "g"
   },
   {
@@ -5559,16 +5559,16 @@
   },
   {
     "slug": "gentle-simmered-ethiopian-lentil-stew",
-    "title": "Gentle Simmered Ethiopian Lentil Stew",
+    "title": "Ethiopian Lentil Stew",
     "tags": [
-      "buddhist-temple-friendly",
-      "high-protein",
-      "one-pot",
-      "vegan-friendly",
-      "weeknight"
+      "ethiopian",
+      "stew",
+      "lentil",
+      "vegetarian",
+      "comfort-food"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {
@@ -14844,17 +14844,16 @@
   },
   {
     "slug": "grilled-glazed-kenyan-chicken-kebabs",
-    "title": "Grilled Glazed Kenyan Chicken Kebabs",
+    "title": "Kenyan Style Grilled Chicken Kebabs",
     "tags": [
-      "anti-inflammatory",
-      "dinner",
-      "glazed",
-      "grilled",
       "kenyan",
-      "low-carb"
+      "grilled",
+      "chicken",
+      "kebabs",
+      "glazed"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 30,
+    "totalTimeMin": 27,
     "shard": "g"
   },
   {
