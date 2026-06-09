@@ -2918,17 +2918,15 @@
   },
   {
     "slug": "garlicky-hearty-jamaican-chickpea-flour-stew",
-    "title": "Garlicky Hearty Jamaican Chickpea Flour Stew",
+    "title": "Jamaican Chickpea Stew",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "hearty",
-      "low-carb",
-      "one-pan",
-      "weeknight"
+      "jamaican",
+      "stew",
+      "chickpea",
+      "vegetarian"
     ],
-    "cuisine": "jamaican",
-    "totalTimeMin": 55,
+    "cuisine": "Jamaican",
+    "totalTimeMin": 30,
     "shard": "g"
   },
   {
@@ -4903,17 +4901,14 @@
   },
   {
     "slug": "garlicky-zesty-greek-chilli-spanakopita",
-    "title": "Garlicky Zesty Greek Chilli Spanakopita",
+    "title": "Spanakopita Stuffed Chicken Breasts",
     "tags": [
+      "spanakopita",
       "greek",
-      "iron-teppan",
-      "monsoon-inspired",
-      "snappy-pastry",
-      "veggie-friendly",
-      "whole30-friendly"
+      "chicken"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 70,
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {
@@ -8048,17 +8043,14 @@
   },
   {
     "slug": "glazed-smoky-american-chicken-casserole",
-    "title": "Glazed Smoky American Chicken Casserole",
+    "title": "Smoky Chicken Casserole",
     "tags": [
       "american",
-      "dolsot",
-      "family-friendly",
-      "high-protein",
-      "one-pot",
-      "smoky"
+      "chicken",
+      "casserole"
     ],
-    "cuisine": "american",
-    "totalTimeMin": 50,
+    "cuisine": "American",
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {
@@ -12105,18 +12097,15 @@
   },
   {
     "slug": "gooey-indulgent-ethiopian-gorgonzola-dabo",
-    "title": "Gooey Indulgent Ethiopian Gorgonzola Dabo",
+    "title": "Dabo Gorgonzola Stuffed Mushrooms",
     "tags": [
-      "baked",
       "cheesy",
-      "clay-pot",
-      "ethiopian",
-      "indulgent",
-      "satvik",
-      "vegetarian"
+      "mushrooms",
+      "snack",
+      "easy-to-make"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 27,
     "shard": "g"
   },
   {
