@@ -1,0 +1,53 @@
+{
+  "slug": "garlic-roasted-potato-roast",
+  "title": "Roasted Garlic and Potato Mash",
+  "description": "A simple and delicious mashed potato dish infused with roasted garlic.",
+  "cuisine": "french",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "garlic",
+      "amount": "2 heads"
+    },
+    {
+      "name": "potato",
+      "amount": "3 large"
+    },
+    {
+      "name": "roast",
+      "amount": "1 tsp",
+      "notes": "dried thyme"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the top off the garlic heads, drizzle with olive oil, and wrap in foil. Roast for 45 minutes.",
+    "Bake the potatoes in the oven for 45 minutes, or until tender.",
+    "Scoop out the flesh and mash with roasted garlic, salt, and pepper.",
+    "Stir in 1 tsp dried thyme."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mashed potatoes",
+    "roasted garlic",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlic-roasted-potato-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T19:46:34.417Z"
+}
