@@ -1,0 +1,73 @@
+{
+  "slug": "garlicky-hearty-jamaican-chickpea-flour-stew",
+  "title": "Jamaican Chickpea Stew",
+  "description": "A hearty and flavorful stew made with chickpeas and a blend of Jamaican spices. Serve with crusty bread for a satisfying meal.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpea",
+      "amount": "1 1/2 cups",
+      "notes": "canned or cooked"
+    },
+    {
+      "name": "jamaican",
+      "amount": "2 tablespoons",
+      "notes": "dry rub or spice blend"
+    },
+    {
+      "name": "garlicky",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "hearty",
+      "amount": "1 large onion",
+      "notes": "chopped"
+    },
+    {
+      "name": "flour",
+      "amount": "2 tablespoons",
+      "notes": "all-purpose"
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups",
+      "notes": "vegetable or chicken broth"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the Jamaican spice blend and cook for 1 minute.",
+    "Add the chickpeas, broth, and flour. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "jamaican",
+    "stew",
+    "chickpea",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-hearty-jamaican-chickpea-flour-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T18:45:13.227Z"
+}
