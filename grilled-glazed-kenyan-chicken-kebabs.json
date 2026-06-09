@@ -1,0 +1,90 @@
+{
+  "slug": "grilled-glazed-kenyan-chicken-kebabs",
+  "title": "Kenyan Style Grilled Chicken Kebabs",
+  "description": "A flavorful and aromatic dish inspired by Kenyan cuisine, featuring grilled chicken kebabs glazed with a sweet and spicy sauce.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breasts",
+      "amount": "500g",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Mixed bell peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "medium"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1",
+      "notes": "medium"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": "for the glaze"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp",
+      "notes": "for the glaze"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "for the glaze"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread chicken, bell peppers, onion, and zucchini onto skewers.",
+    "In a small bowl, mix together honey, soy sauce, and lime juice to make the glaze.",
+    "Brush the glaze onto the chicken and vegetables.",
+    "Grill the kebabs for 10-12 minutes, turning occasionally.",
+    "Meanwhile, mix together grated ginger and minced garlic in a small bowl.",
+    "Brush the ginger-garlic mixture onto the kebabs during the last 2 minutes of grilling.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "grilled",
+    "chicken",
+    "kebabs",
+    "glazed"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grilled-glazed-kenyan-chicken-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T01:29:08.242Z"
+}
