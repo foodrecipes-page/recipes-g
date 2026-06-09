@@ -5270,17 +5270,14 @@
   },
   {
     "slug": "gentle-earthy-malaysian-beef-kidney-curry",
-    "title": "Gentle Earthy Malaysian Beef Kidney Curry",
+    "title": "Malaysian Beef Curry",
     "tags": [
-      "beef-recipes",
-      "comfort-food",
-      "curry-dishes",
-      "gluten-free",
+      "beef-curry",
       "malaysian-cuisine",
-      "nut-free"
+      "easy-recipes"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 50,
+    "cuisine": "malaysian",
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {
@@ -10334,17 +10331,14 @@
   },
   {
     "slug": "golden-glistening-norwegian-sesame-porridge",
-    "title": "Golden Glistening Norwegian Sesame Porridge",
+    "title": "Golden Glistening Porridge",
     "tags": [
-      "buddhist-temple-friendly",
-      "festive",
-      "norwegian",
-      "one-pan",
-      "weeknight",
-      "winter"
+      "breakfast",
+      "porridge",
+      "sesame"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 35,
+    "cuisine": "Scandinavian",
+    "totalTimeMin": 15,
     "shard": "g"
   },
   {
@@ -11082,14 +11076,14 @@
   },
   {
     "slug": "golden-yolk-bliss-paleo-bowl",
-    "title": "Golden Yolk Bliss Paleo Bowl",
+    "title": "Paleo Breakfast Bowl",
     "tags": [
-      "golden-yolk",
-      "bliss-paleo-bowl",
-      "post-workout"
+      "breakfast",
+      "paleo",
+      "gluten-free"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 17,
+    "cuisine": "American",
+    "totalTimeMin": 5,
     "shard": "g"
   },
   {
@@ -14606,13 +14600,14 @@
   },
   {
     "slug": "griddled-mexican-cod-taco",
-    "title": "Griddled Mexican Cod Tacos",
+    "title": "Cod Tacos with Griddled Onions",
     "tags": [
       "mexican",
-      "dinner"
+      "fish",
+      "tacos"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 40,
+    "cuisine": "mexican",
+    "totalTimeMin": 18,
     "shard": "g"
   },
   {
