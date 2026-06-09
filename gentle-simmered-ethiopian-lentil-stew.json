@@ -1,0 +1,93 @@
+{
+  "slug": "gentle-simmered-ethiopian-lentil-stew",
+  "title": "Ethiopian Lentil Stew",
+  "description": "A comforting and flavorful stew originating from Ethiopia, made with red lentils, onions, garlic, and spices.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": null
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion, garlic, and ginger; cook until the onion is softened.",
+    "Add the cumin, coriander, curry powder, and cayenne pepper; cook for 1 minute.",
+    "Add the lentils, water, and salt.",
+    "Bring to a boil, then reduce the heat to low and simmer for 30 minutes.",
+    "Check the lentils for doneness, and adjust the seasoning as needed.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "stew",
+    "lentil",
+    "vegetarian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gentle-simmered-ethiopian-lentil-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T02:24:15.590Z"
+}
