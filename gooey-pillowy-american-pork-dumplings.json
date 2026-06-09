@@ -1,0 +1,73 @@
+{
+  "slug": "gooey-pillowy-american-pork-dumplings",
+  "title": "Pork and Gooey Dumplings",
+  "description": "Soft and pillowy dumplings filled with a tangy pork filling, topped with a gooey sauce. A classic American comfort food dish.",
+  "cuisine": "American",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Pork",
+      "amount": "1 pound",
+      "notes": "80% lean"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "2 cups",
+      "notes": "for dumpling dough"
+    },
+    {
+      "name": "Bread Flour",
+      "amount": "1 cup",
+      "notes": "for dumpling dough"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten for dumpling dough"
+    },
+    {
+      "name": "Gooey Sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Pillowy Dumpling Wrappers",
+      "amount": "1 package",
+      "notes": "usually found in the frozen food section"
+    }
+  ],
+  "instructions": [
+    "Combine ground pork, American seasonings, and a pinch of salt in a large bowl.",
+    "Knead the dough for the dumplings until it becomes smooth and elastic.",
+    "Roll out the dough and cut into circles for the dumpling wrappers.",
+    "Place a tablespoon of the pork filling in the center of each dumpling wrapper.",
+    "Fold the dough over the filling and press the edges to seal the dumpling.",
+    "Bring a large pot of salted water to a boil and cook the dumplings for 10 minutes.",
+    "Heat the gooey sauce in a small saucepan over medium heat.",
+    "Serve the cooked dumplings with the gooey sauce drizzled on top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "comfort-food",
+    "dumplings",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-pillowy-american-pork-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T05:55:11.772Z"
+}
