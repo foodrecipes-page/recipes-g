@@ -1,0 +1,64 @@
+{
+  "slug": "gentle-braised-venezuelan-tomato-stew",
+  "title": "Braised Venezuelan Beef Stew",
+  "description": "A hearty and flavorful stew originating from Venezuela, made with tender beef and rich tomato sauce.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium"
+    },
+    {
+      "name": "gentle onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "braised garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "venezuelan cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "stew broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef on all sides, about 5 minutes. Remove from pot and set aside.",
+    "Add garlic and onion to pot, sauté until softened, about 5 minutes.",
+    "Add cumin and cook for 1 minute.",
+    "Add tomatoes and cook for 2 minutes.",
+    "Add beef broth and bring to a boil.",
+    "Return beef to pot and cover.",
+    "Transfer pot to oven and braise at 300°F for 2 hours.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "stew",
+    "venezuelan",
+    "latin-american",
+    "comfort-food"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gentle-braised-venezuelan-tomato-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T01:22:12.613Z"
+}
