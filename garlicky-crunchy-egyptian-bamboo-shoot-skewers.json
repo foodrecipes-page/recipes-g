@@ -1,0 +1,76 @@
+{
+  "slug": "garlicky-crunchy-egyptian-bamboo-shoot-skewers",
+  "title": "Grilled Bamboo Shoot Skewers with Egyptian Garlic",
+  "description": "A delicious and easy-to-make appetizer or snack that combines the flavors of Egypt with the crunch of bamboo shoots.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bamboo shoots",
+      "amount": "1 cup",
+      "notes": "Canned or fresh, sliced into 1-inch pieces"
+    },
+    {
+      "name": "Egyptian garlic",
+      "amount": "3 cloves",
+      "notes": "Mince and chop finely"
+    },
+    {
+      "name": "Garlicky sauce",
+      "amount": "2 tablespoons",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Crunchy peanut oil",
+      "amount": "1 tablespoon",
+      "notes": "For brushing skewers"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12",
+      "notes": "Soak in water for at least 30 minutes"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together garlicky sauce, salt, and black pepper.",
+    "3. Add sliced bamboo shoots to the bowl and toss to coat with the sauce.",
+    "4. Thread bamboo shoots onto skewers, leaving a small space between each piece.",
+    "5. Brush skewers with crunchy peanut oil.",
+    "6. Grill skewers for 2-3 minutes per side, or until bamboo shoots are tender and slightly charred.",
+    "7. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "appetizer",
+    "snack",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": "2g",
+    "carbs": "20g",
+    "fat": "4g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-crunchy-egyptian-bamboo-shoot-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T14:50:53.892Z"
+}
