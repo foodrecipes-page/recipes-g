@@ -1,0 +1,71 @@
+{
+  "slug": "gooey-chinese-all-purpose-flour-crumble",
+  "title": "Crumble Apple Pie",
+  "description": "A delicious homemade pie filled with gooey apples and topped with a crumbly crust. Perfect for a cozy dessert or snack.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups"
+    },
+    {
+      "name": "gooey",
+      "amount": "6-8 medium apples, peeled and sliced",
+      "notes": "Granny Smith or other sweet/tart variety"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup",
+      "notes": "white or brown sugar"
+    },
+    {
+      "name": "cold butter",
+      "amount": "1/2 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "crumble",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine sliced apples, sugar, and a pinch of salt. Mix until apples are evenly coated.",
+    "Roll out the pie dough to a thickness of about 1/8 inch.",
+    "Transfer the dough to a 9-inch pie dish and trim the edges to fit.",
+    "Fill the pie crust with the apple mixture and dot the top with butter pieces.",
+    "Roll out the remaining pie dough to a thickness of about 1/8 inch. Use a pastry cutter or a knife to cut the dough into strips for a lattice-top crust.",
+    "Place the lattice strips on top of the apple mixture, weaving them into a lattice pattern.",
+    "Brush the lattice top with a little bit of water and sprinkle with sugar.",
+    "Roll out the crumble topping and break it into small pieces. Sprinkle the crumble topping evenly over the lattice top.",
+    "Bake the pie for 45-50 minutes, or until the crust is golden brown and the apples are tender.",
+    "Remove the pie from the oven and let it cool for at least 30 minutes before serving.",
+    "Serve warm, topped with vanilla ice cream or whipped cream if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "apple-pie",
+    "homemade",
+    "crust",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-chinese-all-purpose-flour-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T16:32:39.044Z"
+}
