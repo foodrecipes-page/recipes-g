@@ -1,0 +1,86 @@
+{
+  "slug": "gingered-thai-tofu-curry",
+  "title": "Thai Gingered Tofu Curry",
+  "description": "A flavorful and spicy Thai-inspired curry made with gingered tofu, served with a side of steamed vegetables.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gingered tofu",
+      "amount": "200g"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can (400ml)"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and cook until softened, about 3-4 minutes.",
+    "Add curry paste and cook for 1-2 minutes, until fragrant.",
+    "Add coconut milk and stir to combine.",
+    "Add gingered tofu and cook for 3-4 minutes, until heated through.",
+    "Stir in fish sauce, soy sauce, and sugar.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with Thai basil.",
+    "Serve with steamed vegetables, such as broccoli or bell peppers."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "vegetarian",
+    "curry",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gingered-thai-tofu-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T14:35:26.588Z"
+}
