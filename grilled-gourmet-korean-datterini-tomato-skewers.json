@@ -1,0 +1,78 @@
+{
+  "slug": "grilled-gourmet-korean-datterini-tomato-skewers",
+  "title": "Grilled Korean Datterini Tomatoes",
+  "description": "A simple and flavorful side dish featuring grilled datterini tomatoes and a hint of Korean spice.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "Datterini Tomatoes",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "Korean Chili Flakes (gochugaru)",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Grilled Korean Chili Paste (gochujang)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Cut the datterini tomatoes in half and brush with sesame oil.",
+    "3. Season the tomatoes with salt and Korean chili flakes.",
+    "4. Grill the tomatoes for 3-4 minutes per side, or until they develop a charred exterior.",
+    "5. In a small bowl, whisk together gochujang, brown sugar, and 1 tablespoon of water.",
+    "6. Once the tomatoes are grilled, brush the gochujang glaze over them.",
+    "7. Garnish with fresh cilantro and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "grilled",
+    "gourmet",
+    "tomato"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grilled-gourmet-korean-datterini-tomato-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T15:24:35.003Z"
+}
