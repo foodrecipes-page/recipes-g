@@ -1049,16 +1049,14 @@
   },
   {
     "slug": "garlicky-chewy-german-tomato-stew",
-    "title": "Garlicky Chewy German Tomato Stew",
+    "title": "German Stew",
     "tags": [
       "german",
-      "homestyle",
-      "low-sodium",
-      "one-pan",
-      "weeknight"
+      "stew",
+      "comfort food"
     ],
     "cuisine": "german",
-    "totalTimeMin": 30,
+    "totalTimeMin": 80,
     "shard": "g"
   },
   {
@@ -1139,17 +1137,15 @@
   },
   {
     "slug": "garlicky-chinese-shrimp-bake",
-    "title": "Garlicky Chinese Shrimp Bake",
+    "title": "Garlicky Shrimp Bake",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "seafood",
-      "weeknight"
+      "garlicky",
+      "shrimp",
+      "bake",
+      "asian"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 27,
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
@@ -1328,16 +1324,16 @@
   },
   {
     "slug": "garlicky-crisp-saudi-arabian-oxtail-stew",
-    "title": "Garlicky Crisp Saudi Arabian Oxtail Stew",
+    "title": "Saudi Arabian Oxtail Stew",
     "tags": [
-      "middle-eastern",
+      "saudi-arabian",
+      "beef",
       "stew",
-      "oxtail",
-      "garlic",
-      "dairy-free"
+      "hearty",
+      "flavorful"
     ],
     "cuisine": "Saudi Arabian",
-    "totalTimeMin": 210,
+    "totalTimeMin": 170,
     "shard": "g"
   },
   {
@@ -5094,16 +5090,15 @@
   },
   {
     "slug": "gcrumbly-uruguayan-paella-pan",
-    "title": "Gcrumbly Uruguayan Paella-Pan",
+    "title": "Uruguayan Paella",
     "tags": [
-      "brunch-mood",
-      "crumbly",
-      "gourmet-dish",
-      "low-carb",
-      "uruguayan"
+      "snack",
+      "uruguayan",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 75,
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
