@@ -1,0 +1,61 @@
+{
+  "slug": "garlic-whisk-delight",
+  "title": "Roasted Garlic Delight",
+  "description": "A simple yet flavorful roasted garlic dish perfect for accompanying any meal. It's easy to prepare and can be customized with your favorite herbs.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "garlic",
+      "amount": "3-4 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the top off the garlic cloves and place them in a small baking dish.",
+    "Drizzle the olive oil over the garlic and season with salt and black pepper.",
+    "Cover the dish with aluminum foil and roast for 20-25 minutes.",
+    "Remove the foil and continue roasting for an additional 5-10 minutes, or until the garlic is tender and caramelized.",
+    "Serve the roasted garlic hot, garnished with chopped parsley if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 25,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "garlic",
+    "roasted",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 6,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlic-whisk-delight",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T10:51:54.387Z"
+}
