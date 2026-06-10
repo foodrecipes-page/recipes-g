@@ -1,0 +1,63 @@
+{
+  "slug": "grilled-garlic-vietnamese-bacon-lardon-comal-baguette",
+  "title": "Grilled Bacon Baguette",
+  "description": "A simple and delicious sandwich recipe featuring crispy bacon, melted cheese and fresh herbs, all on a toasted baguette.",
+  "cuisine": "French",
+  "diet": [
+    "meat",
+    "dairy"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "bacon",
+      "amount": "6 slices",
+      "notes": "thick cut"
+    },
+    {
+      "name": "baguette",
+      "amount": "1",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "grilled",
+      "amount": "to taste",
+      "notes": "fresh herbs like parsley or thyme"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Cook the bacon slices until crispy, flipping halfway through.",
+    "Toast the baguette on the grill or in a toaster.",
+    "Spread garlic on toasted baguette.",
+    "Add 2-3 slices of bacon to each baguette.",
+    "Top with grilled herbs and melted cheese, if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "sandwich",
+    "bacon",
+    "baguette"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grilled-garlic-vietnamese-bacon-lardon-comal-baguette",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T16:47:36.857Z"
+}
