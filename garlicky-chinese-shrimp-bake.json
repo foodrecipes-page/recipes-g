@@ -1,0 +1,80 @@
+{
+  "slug": "garlicky-chinese-shrimp-bake",
+  "title": "Garlicky Shrimp Bake",
+  "description": "A flavorful and easy-to-make shrimp bake recipe with a garlicky twist.",
+  "cuisine": "Asian",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Bok Choy",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": "for baking"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a small bowl, mix together minced garlic, soy sauce, salt, and black pepper.",
+    "Add the chopped bok choy to the bowl and toss to coat with the garlic-soy mixture.",
+    "Add the peeled and deveined shrimp to the bowl and toss to coat with the garlic-soy mixture.",
+    "Pour the olive oil into a 9x13-inch baking dish and spread it evenly across the bottom.",
+    "Add the shrimp and bok choy mixture to the baking dish and spread it out in an even layer.",
+    "Bake in the preheated oven for 12-15 minutes, or until the shrimp are pink and cooked through.",
+    "Remove the baking dish from the oven and let it cool for a few minutes.",
+    "Serve the garlicky shrimp bake hot, garnished with chopped green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlicky",
+    "shrimp",
+    "bake",
+    "asian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 30,
+    "carbs": 8,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-chinese-shrimp-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T12:10:41.293Z"
+}
