@@ -1,0 +1,85 @@
+{
+  "slug": "garden-fresh-mediterranean-salad-terracotta-dish",
+  "title": "Terracotta Mediterranean Garden Salad",
+  "description": "A fresh and flavorful salad featuring the best of the Mediterranean. Perfect for a light and healthy meal.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mixed greens",
+      "amount": "4 cups",
+      "notes": "Fresh from the garden"
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "1 cup",
+      "notes": "Pitted"
+    },
+    {
+      "name": "Artichoke hearts",
+      "amount": "1 cup",
+      "notes": "Canned"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/2 cup",
+      "notes": "Crumble"
+    },
+    {
+      "name": "Sun-dried tomatoes",
+      "amount": "1/4 cup",
+      "notes": "Dried"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/4 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": "Extra virgin"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the mixed greens, olives, artichoke hearts, feta cheese, sun-dried tomatoes, and red onion.",
+    "2. In a small bowl, whisk together the lemon juice and olive oil.",
+    "3. Pour the dressing over the salad and toss to combine.",
+    "4. Sprinkle the chopped parsley over the top.",
+    "5. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "garden-to-table",
+    "salad",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garden-fresh-mediterranean-salad-terracotta-dish",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T10:23:09.875Z"
+}
