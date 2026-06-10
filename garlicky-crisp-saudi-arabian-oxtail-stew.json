@@ -1,0 +1,75 @@
+{
+  "slug": "garlicky-crisp-saudi-arabian-oxtail-stew",
+  "title": "Saudi Arabian Oxtail Stew",
+  "description": "A hearty and flavorful stew from Saudi Arabia, made with tender oxtail meat and a blend of aromatic spices.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oxtail",
+      "amount": "1.5 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "garlicky",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "crisp",
+      "amount": "1 large",
+      "notes": "onion, chopped"
+    },
+    {
+      "name": "arabian",
+      "amount": "2 tablespoons",
+      "notes": "stew mix"
+    },
+    {
+      "name": "saudi",
+      "amount": "1 teaspoon",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups",
+      "notes": "beef broth"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the oxtail pieces in batches, then set aside.",
+    "Add more oil if needed and sauté the chopped onion until softened.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the browned oxtail, stew mix, cumin, and beef broth. Stir to combine.",
+    "Bring the mixture to a boil, then cover and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2 1/2 hours, or until the meat is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or with crusty bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "saudi-arabian",
+    "beef",
+    "stew",
+    "hearty",
+    "flavorful"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-crisp-saudi-arabian-oxtail-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T12:41:03.787Z"
+}
