@@ -1829,16 +1829,15 @@
   },
   {
     "slug": "garlicky-crunchy-egyptian-bamboo-shoot-skewers",
-    "title": "Garlicky Crunchy Egyptian Bamboo Shoot Skewers",
+    "title": "Grilled Bamboo Shoot Skewers with Egyptian Garlic",
     "tags": [
-      "easy-to-make",
-      "grill",
-      "kid-friendly",
-      "vegetarian",
-      "weeknight"
+      "appetizer",
+      "snack",
+      "vegan",
+      "gluten-free"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 32,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
@@ -7092,16 +7091,14 @@
   },
   {
     "slug": "gingered-thai-tofu-curry",
-    "title": "Gingered Thai Tofu Curry",
+    "title": "Thai Gingered Tofu Curry",
     "tags": [
-      "easy",
-      "one-pot",
-      "quick",
-      "thai-curry",
-      "vegan",
-      "weeknight"
+      "thai",
+      "vegetarian",
+      "curry",
+      "tofu"
     ],
-    "cuisine": "thai",
+    "cuisine": "Thai",
     "totalTimeMin": 25,
     "shard": "g"
   },
@@ -14019,18 +14016,15 @@
   },
   {
     "slug": "grassy-portuguese-fish-paella",
-    "title": "grassy portuguese fish paella",
+    "title": "Portuguese Paella with Grilled Fish",
     "tags": [
-      "fish",
-      "high-protein",
-      "low-glycemic",
-      "one-pan",
       "paella",
       "portuguese",
-      "weeknight"
+      "fish",
+      "grilled"
     ],
-    "cuisine": "portuguese",
-    "totalTimeMin": 35,
+    "cuisine": "Portuguese",
+    "totalTimeMin": 45,
     "shard": "g"
   },
   {
