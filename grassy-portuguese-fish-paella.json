@@ -1,0 +1,90 @@
+{
+  "slug": "grassy-portuguese-fish-paella",
+  "title": "Portuguese Paella with Grilled Fish",
+  "description": "A traditional Portuguese-inspired paella dish with the addition of grilled fish for extra flavor.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Paella rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Grassy extra virgin olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fish fillets (any white fish)",
+      "amount": "4 pieces",
+      "notes": "such as cod or tilapia"
+    },
+    {
+      "name": "Portuguese chorizo",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Small onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "1. Heat the grassy olive oil in a large paella pan over medium-high heat.",
+    "2. Add the Portuguese chorizo and cook until browned, about 2-3 minutes.",
+    "3. Add the chopped onion and minced garlic and cook until softened, about 3-4 minutes.",
+    "4. Add the halved cherry tomatoes and cook for an additional 2 minutes.",
+    "5. Add the smoked paprika, salt, and black pepper and stir to combine.",
+    "6. Add the paella rice and stir to coat with the oil and spice mixture.",
+    "7. Add 2 cups of water to the pan and bring to a boil.",
+    "8. Reduce heat to low and simmer, covered, for 20 minutes or until the rice is tender.",
+    "9. Meanwhile, grill the fish fillets over medium heat until cooked through, about 4-5 minutes per side.",
+    "10. To serve, place the cooked paella on a large platter and top with the grilled fish fillets."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "paella",
+    "portuguese",
+    "fish",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grassy-portuguese-fish-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T14:58:20.615Z"
+}
