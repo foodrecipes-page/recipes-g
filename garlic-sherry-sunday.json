@@ -1,0 +1,69 @@
+{
+  "slug": "garlic-sherry-sunday",
+  "title": "Garlic Sherry Chicken",
+  "description": "A flavorful and savory chicken dish with a rich sherry sauce. Perfect for a weeknight dinner.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Sherry",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the chicken breasts with salt and pepper.",
+    "Heat the olive oil in an oven-safe skillet over medium-high heat.",
+    "Sear the chicken breasts for 2-3 minutes on each side, or until browned.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the chicken is cooked through.",
+    "While the chicken is cooking, sauté the garlic in a separate pan over medium heat until fragrant.",
+    "Add the sherry to the pan and cook until the liquid has reduced by half.",
+    "Remove the skillet from the oven and let the chicken rest for 5 minutes.",
+    "Serve the chicken breasts with the sherry sauce spooned over the top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "sherry",
+    "garlic",
+    "spanish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 8,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlic-sherry-sunday",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T02:03:25.857Z"
+}
