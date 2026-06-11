@@ -1,0 +1,67 @@
+{
+  "slug": "garlicky-dense-norteno-corned-beef-bake",
+  "title": "Norteno Beef Tacos",
+  "description": "A delicious Mexican-inspired dish featuring corned beef, \n   topped with a crunchy slaw and served in a crispy taco shell.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Corned beef",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Garlicky slaw mix",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Dense taco shells",
+      "amount": "8-10 shells",
+      "notes": null
+    },
+    {
+      "name": "Beef seasoning",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Bake oil",
+      "amount": "1 tablespoon",
+      "notes": "for brushing shells"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Brush taco shells with bake oil and bake for 5 minutes.",
+    "Shred the corned beef and season with beef seasoning.",
+    "In a pan, heat the shredded beef over medium heat until warm.",
+    "Mix the garlicky slaw mix according to package instructions.",
+    "Assemble the tacos by spooning the beef onto a shell, followed by a spoonful of slaw.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "tacos",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-dense-norteno-corned-beef-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T00:47:08.152Z"
+}
