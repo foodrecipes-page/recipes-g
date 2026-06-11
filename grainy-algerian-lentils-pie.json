@@ -1,0 +1,79 @@
+{
+  "slug": "grainy-algerian-lentils-pie",
+  "title": "Algerian Lentil Stew",
+  "description": "A hearty and flavorful Algerian-inspired lentil stew made with lentils, vegetables, and aromatic spices.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "algerian seasoning",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "grainy mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 large"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 can"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion, carrot, and celery; cook until the vegetables are tender, about 5 minutes.",
+    "Add algerian seasoning, mustard, and tomato paste; cook for 1 minute.",
+    "Add lentils, water, and diced tomatoes; bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 30 minutes or until the lentils are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or with crusty bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "lentil-stew",
+    "vegetarian",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grainy-algerian-lentils-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T21:07:42.071Z"
+}
