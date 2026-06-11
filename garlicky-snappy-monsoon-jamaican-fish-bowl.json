@@ -1,0 +1,66 @@
+{
+  "slug": "garlicky-snappy-monsoon-jamaican-fish-bowl",
+  "title": "Spicy Jamaican Fish Bowls",
+  "description": "A Caribbean-inspired dish featuring pan-seared fish, served in a flavorful bowl with spicy kick.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "garlicky fish",
+      "amount": "1 pound",
+      "notes": "cut into 4 portions"
+    },
+    {
+      "name": "snappy jamaican peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "jamaican seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "monsoon rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "monsoon vegetables",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bowl",
+      "amount": "4",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Season the fish with jamaican seasoning, then pan-sear in oil until golden brown and cooked through.",
+    "3. Grill the sliced peppers until tender.",
+    "4. Cook the monsoon rice and vegetables according to package instructions.",
+    "5. Assemble the bowls by placing the cooked fish on top of the rice, adding grilled peppers and a side of monsoon vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caribbean",
+    "fish",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-snappy-monsoon-jamaican-fish-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T00:21:25.188Z"
+}
