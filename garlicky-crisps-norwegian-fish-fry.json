@@ -1,0 +1,96 @@
+{
+  "slug": "garlicky-crisps-norwegian-fish-fry",
+  "title": "Crispy Fish Bites with Norwegian Remoulade",
+  "description": "A delicious snack made with crispy fried fish bites served with a creamy Norwegian-inspired remoulade sauce.",
+  "cuisine": "Nordic",
+  "diet": [
+    "fish-friendly",
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Norwegian fish fillets",
+      "amount": "1 pound (450g)",
+      "notes": "White fish such as cod or haddock works well"
+    },
+    {
+      "name": "Garlicky breadcrumbs",
+      "amount": "1 cup (120g)",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Crisps",
+      "amount": "1 cup (120g)",
+      "notes": "Crushed for coating"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/2 cup (120ml)",
+      "notes": "For frying"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "For flavor"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "For remoulade sauce"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "1 cup (240g)",
+      "notes": "For remoulade sauce"
+    },
+    {
+      "name": "Chopped fresh dill",
+      "amount": "1 tablespoon",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the fish fillets into bite-sized pieces.",
+    "In a shallow dish, mix together the breadcrumbs and crushed crisps.",
+    "Dip each piece of fish into the breadcrumb mixture, pressing gently to coat.",
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add a few pieces of the coated fish to the skillet and fry until golden brown and cooked through, about 3-4 minutes per side.",
+    "Remove the fish from the skillet and place on a paper towel-lined plate to drain excess oil.",
+    "In a separate bowl, mix together the mayonnaise, lemon juice, and garlic powder.",
+    "Stir in the chopped fresh dill.",
+    "Serve the fried fish bites with the Norwegian remoulade sauce for dipping.",
+    "Garnish with additional chopped fresh dill, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "snack",
+    "nordic",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 15,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-crisps-norwegian-fish-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T01:45:21.140Z"
+}
