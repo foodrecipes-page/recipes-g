@@ -1,0 +1,74 @@
+{
+  "slug": "gourmet-argentinian-beef-sushi",
+  "title": "Grilled Beef Empanadas with Chimichurri",
+  "description": "A twist on traditional empanadas, filled with grilled beef and served with a tangy Argentinean-style chimichurri sauce. This recipe combines the flavors of Argentina with the richness of beef.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Empanada dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Chimichurri sauce",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Divide empanada dough into 8 equal pieces.",
+    "Roll out each piece into a thin circle.",
+    "Place a tablespoon of beef mixture onto one half of each circle.",
+    "Brush edges with water and fold dough in half to form a half-circle.",
+    "Press edges to seal and use a fork to crimp.",
+    "Grill empanadas for 2-3 minutes per side or until golden brown.",
+    "Serve with chimichurri sauce for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "gourmet",
+    "beef",
+    "argentinian"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gourmet-argentinian-beef-sushi",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T18:18:06.046Z"
+}
