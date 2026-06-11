@@ -12725,16 +12725,14 @@
   },
   {
     "slug": "gooey-sour-egyptian-olives-tagine",
-    "title": "Gooey Sour Egyptian Olives Tagine",
+    "title": "Traditional Egyptian Tagine with Olives",
     "tags": [
-      "egyptian",
-      "gluten-free",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "north-african",
+      "eggplant-free",
+      "gluten-free"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 35,
+    "cuisine": "North African",
+    "totalTimeMin": 65,
     "shard": "g"
   },
   {
