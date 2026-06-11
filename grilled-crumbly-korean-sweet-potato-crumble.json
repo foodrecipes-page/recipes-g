@@ -1,0 +1,72 @@
+{
+  "slug": "grilled-crumbly-korean-sweet-potato-crumble",
+  "title": "Sweet Potato Crumble",
+  "description": "A delicious dessert made with sweet potatoes, topped with a crumbly mixture.",
+  "cuisine": "korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "grilled almonds",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "korean crumble",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/2 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Poke some holes in the sweet potatoes with a fork and bake for 45-60 minutes, or until tender.",
+    "While the sweet potatoes are baking, mix together the grilled almonds, korean crumble, brown sugar, cinnamon, and nutmeg in a bowl.",
+    "Once the sweet potatoes are done, let them cool for a few minutes.",
+    "Slice the sweet potatoes in half lengthwise and top each half with the crumbly mixture.",
+    "Bake for an additional 15-20 minutes, or until the topping is golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sweet-potato",
+    "crumble",
+    "korean",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grilled-crumbly-korean-sweet-potato-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T00:25:40.266Z"
+}
