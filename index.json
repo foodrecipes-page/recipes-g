@@ -502,16 +502,14 @@
   },
   {
     "slug": "garlic-sherry-sunday",
-    "title": "Garlic Sherry Sunday",
+    "title": "Garlic Sherry Chicken",
     "tags": [
-      "garlic",
+      "chicken",
       "sherry",
-      "uruguayan",
-      "lazy-sunday",
-      "crispy",
-      "vegan-friendly"
+      "garlic",
+      "spanish"
     ],
-    "cuisine": "Uruguayan",
+    "cuisine": "Spanish",
     "totalTimeMin": 35,
     "shard": "g"
   },
@@ -1364,17 +1362,15 @@
   },
   {
     "slug": "garlicky-crisps-norwegian-fish-fry",
-    "title": "Garlicky Crisps Norwegian Fish Fry",
+    "title": "Crispy Fish Bites with Norwegian Remoulade",
     "tags": [
       "fish",
-      "high-protein",
-      "norwegian",
-      "one-pan",
-      "seafood",
-      "weeknight"
+      "snack",
+      "nordic",
+      "pescatarian"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 35,
+    "cuisine": "Nordic",
+    "totalTimeMin": 22,
     "shard": "g"
   },
   {
@@ -2096,19 +2092,14 @@
   },
   {
     "slug": "garlicky-dense-norteno-corned-beef-bake",
-    "title": "Garlicky Dense Norteño Corned Beef Bake",
+    "title": "Norteno Beef Tacos",
     "tags": [
       "mexican",
-      "norteño",
-      "corned-beef",
-      "dense",
-      "egg-free",
-      "bake",
-      "garlicky",
-      "hearty"
+      "tacos",
+      "beef"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 110,
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
