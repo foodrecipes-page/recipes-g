@@ -477,16 +477,15 @@
   },
   {
     "slug": "garlic-rajasthani-beef-curry",
-    "title": "Garlic Rajasthani Beef Curry",
+    "title": "Beef Curry with Garlic",
     "tags": [
-      "garlic",
-      "rajasthani",
       "beef",
-      "high-protein",
-      "pressure-cooker"
+      "curry",
+      "indian",
+      "garlic"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
@@ -12496,17 +12495,15 @@
   },
   {
     "slug": "gooey-rich-greek-fettuccine-loukoumades",
-    "title": "Gooey Rich Greek Fettuccine Loukoumades",
+    "title": "Loukoumades with Honey Syrup",
     "tags": [
-      "brine-wet",
-      "fettuccine-recipe",
-      "flexitarian-friendly",
-      "greek-food",
-      "lazy-sunday",
-      "pasta-dish"
+      "greekgreek",
+      "dessert",
+      "fritters",
+      "sweet"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 35,
+    "totalTimeMin": 50,
     "shard": "g"
   },
   {
@@ -12754,15 +12751,15 @@
   },
   {
     "slug": "gooey-spanish-beef-stir-fry",
-    "title": "Gooey Spanish Beef Stir-fry",
+    "title": "Spanish Beef Stir Fry",
     "tags": [
-      "vegan-friendly",
-      "meal-prep",
-      "goowy",
-      "spanish-dish"
+      "spanish",
+      "beef",
+      "stir-fry",
+      "easy-dinner"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 55,
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
@@ -13393,17 +13390,14 @@
   },
   {
     "slug": "gourmet-argentinian-beef-sushi",
-    "title": "Gourmet Argentinian Beef Sushi",
+    "title": "Grilled Beef Empanadas with Chimichurri",
     "tags": [
-      "argentinian",
-      "beef-sushi",
-      "crowd-pleaser",
-      "no-rice",
-      "paleo-friendly",
-      "quick"
+      "gourmet",
+      "beef",
+      "argentinian"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 30,
     "shard": "g"
   },
   {
