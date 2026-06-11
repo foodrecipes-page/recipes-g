@@ -1,0 +1,84 @@
+{
+  "slug": "grape-leaf-wrapt-turkish-meat-lahmacun",
+  "title": "Lahmacun: Turkish-Style Minced Meat Pizza",
+  "description": "A traditional Turkish dish, similar to pizza, topped with minced meat, onions, and spices.",
+  "cuisine": "Turkish",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lahmacun dough",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Minced meat",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Turkish spice mix",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Grape",
+      "amount": "1/4 cup",
+      "notes": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 450°F (230°C).",
+    "Roll out the lahmacun dough to a thickness of 1/4 inch.",
+    "Spread the minced meat mixture over the dough, leaving a 1-inch border around the edges.",
+    "Top with chopped onion, Turkish spice mix, salt, black pepper, and red pepper flakes.",
+    "Bake in the preheated oven for 12-15 minutes, or until the crust is golden brown.",
+    "Remove from the oven and top with chopped grape (if using).",
+    "Return to the oven for an additional 2-3 minutes, or until the grape is caramelized.",
+    "Remove from the oven and let cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "pizza",
+    "meat",
+    "pita"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grape-leaf-wrapt-turkish-meat-lahmacun",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T23:05:12.058Z"
+}
