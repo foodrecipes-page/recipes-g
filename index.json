@@ -1428,14 +1428,11 @@
   },
   {
     "slug": "garlicky-crispy-dutch-egg-yolk-frittata",
-    "title": "Garlicky Crispy Dutch Egg Yolk Frittata",
+    "title": "Crispy Dutch Frittata",
     "tags": [
-      "cheese",
-      "egg",
-      "garlic",
-      "high-protein",
-      "one-pan",
-      "quick-dinner"
+      "breakfast",
+      "dutch",
+      "easy"
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 22,
@@ -4301,13 +4298,13 @@
   },
   {
     "slug": "garlicky-snappy-monsoon-jamaican-fish-bowl",
-    "title": "Garlicky, Snappy, Monsoon Jamaican Fish Bowl",
+    "title": "Spicy Jamaican Fish Bowls",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "caribbean",
+      "fish",
+      "gluten-free"
     ],
-    "cuisine": "jamaican",
+    "cuisine": "Caribbean",
     "totalTimeMin": 35,
     "shard": "g"
   },
@@ -14673,14 +14670,15 @@
   },
   {
     "slug": "grilled-crumbly-korean-sweet-potato-crumble",
-    "title": "Grilled Crumbly Korean Sweet Potato Crumble",
+    "title": "Sweet Potato Crumble",
     "tags": [
-      "grilled sweet potato",
-      "crumble dish",
-      "kimchi date-night"
+      "sweet-potato",
+      "crumble",
+      "korean",
+      "dessert"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 55,
+    "cuisine": "korean",
+    "totalTimeMin": 75,
     "shard": "g"
   },
   {
