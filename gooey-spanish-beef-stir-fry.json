@@ -1,0 +1,84 @@
+{
+  "slug": "gooey-spanish-beef-stir-fry",
+  "title": "Spanish Beef Stir Fry",
+  "description": "A flavorful and easy-to-make beef stir fry dish with a Spanish twist, perfect for a weeknight dinner.",
+  "cuisine": "Spanish",
+  "diet": [
+    "meat",
+    "poultry-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (sirloin or ribeye)",
+      "amount": "1 pound (450g)",
+      "notes": ""
+    },
+    {
+      "name": "Gooey Syrup",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Spanish Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fry Onions",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Stir Fry Bell Peppers",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Fry Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Optional: Spanish Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat the olive oil in a large skillet or wok over medium-high heat.",
+    "2. Add the sliced onions and cook until they start to brown, about 3-4 minutes.",
+    "3. Add the beef and cook until browned, about 5-6 minutes.",
+    "4. Add the bell peppers and cook until they start to soften, about 2-3 minutes.",
+    "5. Add the garlic and cook for 1 minute.",
+    "6. Stir in the gooey syrup, paprika (if using), salt, and pepper.",
+    "7. Continue to cook for another 2-3 minutes, until the sauce has thickened.",
+    "8. Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "beef",
+    "stir-fry",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-spanish-beef-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T18:34:52.784Z"
+}
