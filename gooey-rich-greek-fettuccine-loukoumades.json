@@ -1,0 +1,66 @@
+{
+  "slug": "gooey-rich-greek-fettuccine-loukoumades",
+  "title": "Loukoumades with Honey Syrup",
+  "description": "A classic Greek dessert made with honey syrup and crispy fried dough balls. Serve warm and enjoy!",
+  "cuisine": "Greek",
+  "diet": [
+    "sugar",
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Gooey Honey",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Rich Greek Yogurt",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fettuccine Flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Loukoumades Batter",
+      "amount": "1 package",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine honey, sugar, and 1 cup of water in a saucepan and bring to a boil.",
+    "Reduce heat and simmer for 5 minutes, or until slightly thickened.",
+    "Combine flour and salt in a large bowl.",
+    "Make a well in the center and add the yogurt, eggs, and mix until a dough forms.",
+    "Knead the dough for 5 minutes until smooth.",
+    "Cover with plastic wrap and let rest for 1 hour.",
+    "Heat oil in a deep frying pan to 375°F.",
+    "Fry the dough in batches until golden brown, about 2-3 minutes.",
+    "Drain on paper towels.",
+    "Serve warm with honey syrup."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greekgreek",
+    "dessert",
+    "fritters",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-rich-greek-fettuccine-loukoumades",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T18:04:31.297Z"
+}
