@@ -1,0 +1,103 @@
+{
+  "slug": "gritty-turkish-deodeok-root-kofte",
+  "title": "Grilled Kofte with Spicy Deodeok Slaw",
+  "description": "A spicy and flavorful Korean-inspired dish featuring grilled kofte and a crunchy deodeok slaw.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kofte (ground turkey, gritty, turkish)",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Deodeok (Asian rhubarb)",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Coarse salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Green onion",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Root (for slaw, e.g. daikon or carrot)",
+      "amount": "1 medium",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, mix kofte ingredients until just combined.",
+    "Form into small patties and grill for 5-6 minutes per side, or until cooked through.",
+    "Meanwhile, peel and grate deodeok. Mix with Korean chili flakes, coarse salt, and pepper.",
+    "Chop garlic and mix with sesame oil, soy sauce, and brown sugar.",
+    "Combine garlic mixture with deodeok slaw ingredients and mix well.",
+    "Slice grilled kofte and serve with spicy deodeok slaw.",
+    "Garnish with green onion and cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "grilled",
+    "slaw",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gritty-turkish-deodeok-root-kofte",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T05:08:28.168Z"
+}
