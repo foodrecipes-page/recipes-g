@@ -1,0 +1,80 @@
+{
+  "slug": "golden-crisp-portuguese-chicken-skewers",
+  "title": "Portuguese Chicken Skewers",
+  "description": "A delicious and easy-to-make dish featuring marinated chicken skewers grilled to perfection, served with a side of tangy sauce.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "meat",
+    "gluten-free",
+    "pescatarian",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound, cut into 1-inch pieces",
+      "notes": ""
+    },
+    {
+      "name": "portuguese skewers",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, garlic, lemon juice, salt, and pepper.",
+    "Add chicken pieces to the bowl and toss to coat with marinade.",
+    "Thread chicken onto skewers, leaving a little space between each piece.",
+    "Grill skewers for 8-10 minutes, turning occasionally, until chicken is cooked through.",
+    "Serve hot with your favorite sides."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "portuguese",
+    "chicken",
+    "skewers",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-crisp-portuguese-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T08:44:08.141Z"
+}
