@@ -6939,20 +6939,14 @@
   },
   {
     "slug": "gingered-crumbly-portuguese-pomegranate-tart",
-    "title": "gingered crumbly portuguese pomegranate tart",
+    "title": "Pomegranate Tart with Crumbly Crust",
     "tags": [
-      "ayurvedic",
-      "cocotte",
-      "dessert",
-      "flambe",
-      "individual",
-      "mini",
-      "portuguese",
-      "post-workout",
-      "tamasic-friendly"
+      "tart",
+      "pomegranate",
+      "portuguese"
     ],
     "cuisine": "portuguese",
-    "totalTimeMin": 45,
+    "totalTimeMin": 75,
     "shard": "g"
   },
   {
@@ -10314,18 +10308,14 @@
   },
   {
     "slug": "golden-glistening-syrian-flaky-pastry-bowl",
-    "title": "Golden Glistening Syrian Flaky Pastry Bowl",
+    "title": "Syrian-Style Flaky Pastry Bowl",
     "tags": [
-      "breakfast",
-      "brunch",
-      "flaky",
-      "low-carb",
-      "one-pan",
-      "pastry",
-      "syrian"
+      "dessert",
+      "middle-eastern",
+      "flaky-pastry"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 30,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {
