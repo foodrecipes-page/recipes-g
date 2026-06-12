@@ -10861,16 +10861,13 @@
   },
   {
     "slug": "golden-steamed-slovakian-white-cabbage-dumplings",
-    "title": "Golden Steamed Slovakian White Cabbage Dumplings",
+    "title": "Steamed Slovakian Dumplings with Braised Cabbage",
     "tags": [
+      "slovakian",
       "comfort-food",
-      "european",
-      "homemade",
-      "meat-based",
-      "steamed",
-      "traditional"
+      "vegetarian"
     ],
-    "cuisine": "Slovakian",
+    "cuisine": "slovak",
     "totalTimeMin": 45,
     "shard": "g"
   },
@@ -15267,16 +15264,15 @@
   },
   {
     "slug": "gritty-turkish-deodeok-root-kofte",
-    "title": "Gritty Turkish Deodeok Root Kofte",
+    "title": "Grilled Kofte with Spicy Deodeok Slaw",
     "tags": [
-      "easy-to-make",
-      "gluten-free",
-      "low-fat",
-      "one-pan",
-      "vegetarian"
+      "korean",
+      "grilled",
+      "slaw",
+      "spicy"
     ],
-    "cuisine": "Turkish",
-    "totalTimeMin": 32,
+    "cuisine": "Korean",
+    "totalTimeMin": 27,
     "shard": "g"
   },
   {
