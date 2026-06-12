@@ -1,0 +1,80 @@
+{
+  "slug": "golden-steamed-slovakian-white-cabbage-dumplings",
+  "title": "Steamed Slovakian Dumplings with Braised Cabbage",
+  "description": "A hearty and comforting dish from Slovakia, featuring steamed dumplings and slow-cooked cabbage.",
+  "cuisine": "slovak",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "slovakian dumplings",
+      "amount": "400g",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "white cabbage",
+      "amount": "200g",
+      "notes": "shredded"
+    },
+    {
+      "name": "golden cabbage",
+      "amount": "150g",
+      "notes": "shredded"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Steam the Slovakian dumplings according to package instructions.",
+    "In a large pan, sauté the chopped onion and minced garlic until softened.",
+    "Add the shredded cabbage, caraway seeds, salt, and black pepper to the pan.",
+    "Cook for 10-15 minutes, stirring occasionally, until the cabbage is tender and caramelized.",
+    "Serve the braised cabbage over the steamed dumplings."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "slovakian",
+    "comfort-food",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-steamed-slovakian-white-cabbage-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T04:43:32.253Z"
+}
