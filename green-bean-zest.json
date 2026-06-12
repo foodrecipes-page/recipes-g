@@ -1,0 +1,78 @@
+{
+  "slug": "green-bean-zest",
+  "title": "Green Bean and Lemon Zest Pasta",
+  "description": "A simple yet flavorful pasta dish featuring green beans and lemon zest.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pasta (linguine)",
+      "amount": "8 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "green beans",
+      "amount": "1 cup",
+      "notes": "trimmed and cut"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to package instructions.",
+    "In a large skillet, heat the olive oil over medium heat. Add the garlic and cook for 1-2 minutes until fragrant.",
+    "Add the green beans to the skillet and cook for 3-4 minutes until tender.",
+    "Stir in the lemon zest and season with salt and pepper to taste.",
+    "Drain the pasta and add it to the skillet with the green beans and lemon zest.",
+    "Toss everything together to combine.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pasta",
+    "green-beans",
+    "lemon",
+    "italian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 50,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/green-bean-zest",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T12:43:31.535Z"
+}
