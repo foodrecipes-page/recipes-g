@@ -1,0 +1,83 @@
+{
+  "slug": "gently-grilled-saudi-arabian-castelvetrano-olives-pilaf",
+  "title": "Saudi Arabian Chicken and Castelvetrano Pilaf",
+  "description": "A flavorful and aromatic Saudi Arabian-inspired chicken dish served with a castelvetano olive pilaf.",
+  "cuisine": "saudi arabian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "castelvetrano olives",
+      "amount": "120g",
+      "notes": "pitted"
+    },
+    {
+      "name": "aromatic rice",
+      "amount": "250g",
+      "notes": "preferably basmati"
+    },
+    {
+      "name": "olive oil",
+      "amount": "20ml",
+      "notes": "for cooking"
+    },
+    {
+      "name": "gently grilled garlic",
+      "amount": "4 cloves",
+      "notes": "mashed"
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "20ml",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat. Add garlic and cook until fragrant.",
+    "Add chicken to the pan and cook until browned on both sides.",
+    "Add rice to the pan and stir to combine with chicken and garlic.",
+    "Add olives and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Add lemon juice and stir to combine.",
+    "Transfer the mixture to a serving dish.",
+    "Serve hot and garnish with additional olives if desired.",
+    "Cook rice according to package instructions prior to assembly."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "olives",
+    "arabic"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 30,
+    "fat": 23
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gently-grilled-saudi-arabian-castelvetrano-olives-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T13:09:54.568Z"
+}
