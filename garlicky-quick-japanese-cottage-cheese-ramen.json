@@ -1,0 +1,68 @@
+{
+  "slug": "garlicky-quick-japanese-cottage-cheese-ramen",
+  "title": "Japanese Ramen with Cottage Cheese",
+  "description": "A fusion twist on the classic Japanese noodle dish, featuring cottage cheese as a creamy addition.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Quick Japanese Ramen Noodles",
+      "amount": "1 package (200g)",
+      "notes": ""
+    },
+    {
+      "name": "Garlicky Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Cottage Cheese",
+      "amount": "1 cup (250g)",
+      "notes": "dairy, low-calorie"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/2 cup (chopped)",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the ramen noodles according to the package instructions.",
+    "In a separate pan, whisk together the garlicky soy sauce and 1 tbsp of water.",
+    "Add the cooked noodles to the pan and toss to coat with the soy sauce mixture.",
+    "In a separate bowl, mix the cottage cheese with a fork until smooth.",
+    "Add the chopped green onions and sesame seeds to the cottage cheese and mix well.",
+    "To assemble the dish, place a portion of the noodles on a plate, followed by a dollop of the cottage cheese mixture.",
+    "Garnish with additional green onions and sesame seeds if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "ramen",
+    "japanese",
+    "fusion",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 45,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-quick-japanese-cottage-cheese-ramen",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T09:19:01.534Z"
+}
