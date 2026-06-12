@@ -1,0 +1,87 @@
+{
+  "slug": "golden-roasted-syrian-shrimp-skewers",
+  "title": "Syrian Shrimp Skewers with Roasted Veggies",
+  "description": "A flavorful and colorful dish that combines the sweetness of shrimp with the savory flavors of Syrian spices and the crunch of roasted vegetables.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Large Shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "Golden Syrup",
+      "amount": "1/4 cup",
+      "notes": "for glazing shrimp"
+    },
+    {
+      "name": "Syrian Spice mix",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Roasted Red Peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12 wooden",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, mix together Syrian Spice mix, salt, and golden syrup.",
+    "Thread shrimp, red peppers, zucchini, and red onion onto skewers.",
+    "Brush skewers with vegetable oil.",
+    "Grill skewers for 8-10 minutes, or until shrimp are pink and cooked through.",
+    "Brush with glaze during last 2 minutes of grilling.",
+    "Serve hot, garnished with fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "shrimp",
+    "skewers",
+    "middle-eastern",
+    "grill",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-roasted-syrian-shrimp-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T16:07:41.363Z"
+}
