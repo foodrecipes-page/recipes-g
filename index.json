@@ -6603,17 +6603,16 @@
   },
   {
     "slug": "gently-wrapped-korean-pak-choi-ssam-wrap",
-    "title": "Gently Wrapped Korean Pak Choi Ssam Wrap",
+    "title": "Korean-Style Pan-Seared Pak Choi Wrap",
     "tags": [
-      "easy-meal",
-      "healthy",
-      "kid-friendly",
-      "korean-food",
-      "macrobiotic",
-      "vegetarian"
+      "korean",
+      "pak-choi",
+      "wrap",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 25,
+    "totalTimeMin": 15,
     "shard": "g"
   },
   {
@@ -14387,16 +14386,15 @@
   },
   {
     "slug": "green-bean-zest",
-    "title": "Green Bean Zest",
+    "title": "Green Bean and Lemon Zest Pasta",
     "tags": [
+      "pasta",
       "green-beans",
-      "spicy",
-      "energizing",
-      "spanish",
-      "fadmap-friendly"
+      "lemon",
+      "italian"
     ],
-    "cuisine": "Spanish",
-    "totalTimeMin": 30,
+    "cuisine": "italian",
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
