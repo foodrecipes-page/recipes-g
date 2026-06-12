@@ -1,0 +1,57 @@
+{
+  "slug": "glassy-jelly-ukrainian-salad-tart",
+  "title": "Ukrainian Glassy Tart Salad",
+  "description": "A refreshing and tangy salad made with glassy and ukrainian ingredients, perfect for a light lunch or dinner.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "glassy",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ukrainian salad",
+      "amount": "1 cup"
+    },
+    {
+      "name": "jelly",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tart",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the glassy and ukrainian salad.",
+    "2. In a small bowl, whisk together the jelly and 1 tablespoon of water until well combined.",
+    "3. Pour the jelly mixture over the glassy mixture and toss to coat.",
+    "4. Top with the tart.",
+    "5. Refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "6. Serve chilled."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "ukrainian-cuisine",
+    "glassy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/glassy-jelly-ukrainian-salad-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T10:01:18.183Z"
+}
