@@ -1,0 +1,79 @@
+{
+  "slug": "gingered-crumbly-portuguese-pomegranate-tart",
+  "title": "Pomegranate Tart with Crumbly Crust",
+  "description": "A sweet tart made with a crumbly crust, topped with a tangy pomegranate filling.",
+  "cuisine": "portuguese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": null
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "unsalted butter, chilled",
+      "amount": "1/2 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "pomegranate seeds",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "large egg",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "gingered sugar",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Make the crust by mixing the flour, sugar, and butter until crumbly.",
+    "Press the mixture into a 9-inch tart pan.",
+    "Bake for 20 minutes.",
+    "Let cool completely.",
+    "Make the filling by whisking together the pomegranate molasses, pomegranate seeds, and egg.",
+    "Pour the filling into the cooled tart crust.",
+    "Bake for an additional 25-30 minutes.",
+    "Let cool completely before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "tart",
+    "pomegranate",
+    "portuguese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gingered-crumbly-portuguese-pomegranate-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T06:26:09.417Z"
+}
