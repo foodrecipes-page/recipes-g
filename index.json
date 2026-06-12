@@ -3902,18 +3902,15 @@
   },
   {
     "slug": "garlicky-quick-japanese-cottage-cheese-ramen",
-    "title": "Garlicky Quick Japanese Cottage Cheese Ramen",
+    "title": "Japanese Ramen with Cottage Cheese",
     "tags": [
-      "ayurvedic-friendly",
-      "cottage-cheese",
-      "garlicky",
-      "glassy-jelly",
-      "low-fat",
-      "quick-ramen",
+      "ramen",
+      "japanese",
+      "fusion",
       "vegetarian"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 20,
+    "totalTimeMin": 10,
     "shard": "g"
   },
   {
@@ -9645,16 +9642,15 @@
   },
   {
     "slug": "golden-crisp-portuguese-chicken-skewers",
-    "title": "Golden Crisp Portuguese Chicken Skewers",
+    "title": "Portuguese Chicken Skewers",
     "tags": [
-      "diabetic-friendly",
-      "festive-recipe",
-      "grilled-chicken",
-      "low-carb",
-      "portuguese-cuisine"
+      "portuguese",
+      "chicken",
+      "skewers",
+      "grilled"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 32,
+    "totalTimeMin": 18,
     "shard": "g"
   },
   {
