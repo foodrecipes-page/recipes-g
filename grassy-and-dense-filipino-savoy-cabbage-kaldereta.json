@@ -1,0 +1,95 @@
+{
+  "slug": "grassy-and-dense-filipino-savoy-cabbage-kaldereta",
+  "title": "Kaldereta Stuffed Cabbage Rolls",
+  "description": "A twist on the classic Filipino dish, where cabbage leaves are stuffed with a rich meat mixture and simmered in a flavorful sauce.",
+  "cuisine": "Filipino",
+  "diet": [
+    "lacto-ovo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Dense cabbage",
+      "amount": "1 head",
+      "notes": "blanched and leaves separated"
+    },
+    {
+      "name": "Savoy cabbage",
+      "amount": "1/2 head",
+      "notes": "shredded"
+    },
+    {
+      "name": "Freshly grated ginger",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Filipino soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Grassy tomato sauce",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Dense beef broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "And vinegar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large pan over medium heat, cook the ground beef until browned, breaking it up into small pieces as it cooks.",
+    "Add the grated ginger and minced garlic to the pan and cook for 1 minute, until fragrant.",
+    "Stir in the Filipino soy sauce, grassy tomato sauce, and dense beef broth. Bring the mixture to a simmer.",
+    "Add the shredded savoy cabbage to the pan and cook, stirring occasionally, until it has broken down and the mixture has thickened.",
+    "Meanwhile, blanch the dense cabbage leaves in boiling water until they are pliable. Remove them from the water and let them cool.",
+    "To assemble the cabbage rolls, lay a cabbage leaf flat on a work surface and place a tablespoon of the meat mixture in the center of the leaf.",
+    "Fold the stem end of the leaf over the filling, then fold in the sides and roll the leaf into a tight cylinder. Repeat with the remaining leaves and filling.",
+    "Place the cabbage rolls seam-side down in the pan and spoon some of the sauce over them.",
+    "Simmer the cabbage rolls, covered, for 20-25 minutes, until they are tender and the sauce has thickened.",
+    "Season the cabbage rolls with salt and pepper to taste, then serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "meat",
+    "cabbage",
+    "sauce"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grassy-and-dense-filipino-savoy-cabbage-kaldereta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:22:11.083Z"
+}
