@@ -1,0 +1,73 @@
+{
+  "slug": "garlicky-lush-indulgent-ethiopian-garlic-injera-wrap",
+  "title": "Ethiopian-Inspired Wrap",
+  "description": "A fusion of flavors from Ethiopia and the comfort of a wrap. This dish combines the crunch of injera with the savory taste of garlicky chicken.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Lush Chicken Breast",
+      "amount": "1 lb",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Indulgent Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Ethiopian Spices",
+      "amount": "1 tsp",
+      "notes": "a mix of cumin, coriander, and paprika"
+    },
+    {
+      "name": "Injera",
+      "amount": "4-6 slices",
+      "notes": "for wrapping"
+    },
+    {
+      "name": "Wrap",
+      "amount": "1",
+      "notes": "large flour tortilla"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken breast with Ethiopian Spices and cook in the oven for 20-25 minutes.",
+    "While the chicken is cooking, heat the olive oil in a pan over medium heat.",
+    "Add the minced garlic and sauté for 1-2 minutes.",
+    "Once the chicken is done, let it rest for 5 minutes before slicing.",
+    "Warm the injera slices in the oven for 2-3 minutes.",
+    "Assemble the wraps by placing a slice of chicken, some garlic, and a sprinkle of Ethiopian Spices on each injera slice.",
+    "Top with a slice of wrap and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "chicken",
+    "ethiopian",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-lush-indulgent-ethiopian-garlic-injera-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:02:40.758Z"
+}
