@@ -1,0 +1,95 @@
+{
+  "slug": "gooey-chilli-quedo-kenyan-stew",
+  "title": "Kenyan Stew with Gooey Dumplings",
+  "description": "A hearty stew recipe from Kenya, served with gooey dumplings that add a sweet twist to the traditional dish.",
+  "cuisine": "African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Gooey Dumpling Dough",
+      "amount": "2 cups",
+      "notes": "Combine 1 cup all-purpose flour, 1/2 cup cornstarch, 1/4 cup sugar, 1/4 cup vegetable oil"
+    },
+    {
+      "name": "Kenyan Stew Meat",
+      "amount": "1 pound",
+      "notes": "Use beef or lamb for a more authentic flavor"
+    },
+    {
+      "name": "Chilli Peppers",
+      "amount": "2",
+      "notes": "Red or green chillies work well for this recipe"
+    },
+    {
+      "name": "Quedo Cheese",
+      "amount": "1 cup",
+      "notes": "Optional, but adds a rich flavor to the stew"
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium",
+      "notes": "Chopped or sliced, whichever suits the stew's texture"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced or crushed, depending on your preference"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 cups",
+      "notes": "Canned or fresh, whichever is available"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups",
+      "notes": "Chicken broth works well too, but use vegetable broth for a vegetarian option"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Don't overdo it – the stew's flavors will balance out"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground for the best flavor"
+    }
+  ],
+  "instructions": [
+    "1. Cut the stew meat into bite-sized pieces and season with salt and black pepper.",
+    "2. Heat oil in a large pot over medium-high heat and cook the stew meat until browned.",
+    "3. Add the chopped onions and cook until they're translucent.",
+    "4. Add the minced garlic and cook for 1-2 minutes, until fragrant.",
+    "5. Add the chopped chilli peppers and cook for another minute.",
+    "6. Add the stew meat, tomatoes, vegetable broth, and quedo cheese (if using).",
+    "7. Bring the stew to a boil, then reduce the heat to low and simmer for 30-40 minutes.",
+    "8. While the stew is cooking, prepare the gooey dumpling dough.",
+    "9. Roll out the dough into small balls, about 1 inch in diameter.",
+    "10. When the stew is ready, add the dumplings and cook for another 10-15 minutes, until they're cooked through.",
+    "11. Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan stew",
+    "gooey dumplings",
+    "vegetarian stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-chilli-quedo-kenyan-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T01:23:41.217Z"
+}
