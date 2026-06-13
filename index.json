@@ -3615,16 +3615,15 @@
   },
   {
     "slug": "garlicky-molten-comforting-venezuelan-dish-pilaf",
-    "title": "Garlicky Molten Comforting Venezuelan Dish Pilaf",
+    "title": "Venezuelan Comforting Garlicky Pilaf",
     "tags": [
+      "garlicky",
       "comforting",
-      "low-carb",
-      "spherification",
-      "vegan-option",
-      "weeknight"
+      "pilaf",
+      "venezuelan"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "g"
   },
   {
