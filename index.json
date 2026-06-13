@@ -555,14 +555,14 @@
   },
   {
     "slug": "garlic-velvet-fried-rice",
-    "title": "Garlic Velvet Fried Rice",
+    "title": "Garlic Fried Rice",
     "tags": [
-      "garlic",
-      "fried rice",
-      "korean"
+      "chinese",
+      "fried-rice",
+      "garlic"
     ],
-    "cuisine": "Korean",
-    "totalTimeMin": 25,
+    "cuisine": "Chinese",
+    "totalTimeMin": 15,
     "shard": "g"
   },
   {
@@ -11358,17 +11358,16 @@
   },
   {
     "slug": "gooey-caramelized-american-pecan-tagine",
-    "title": "Gooey Caramelized American Pecan Tagine",
+    "title": "Pecan Caramel Tagine",
     "tags": [
-      "american-cuisine",
-      "brunch-recipe",
-      "caramelized",
-      "dairy-free",
-      "nutty-flavors",
-      "tagine-pot"
+      "pecan",
+      "tagine",
+      "caramel",
+      "american",
+      "dessert"
     ],
     "cuisine": "American",
-    "totalTimeMin": 65,
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {
@@ -11442,18 +11441,14 @@
   },
   {
     "slug": "gooey-chilli-quedo-kenyan-stew",
-    "title": "Gooey Chilli Quedo Kenyan Stew",
+    "title": "Kenyan Stew with Gooey Dumplings",
     "tags": [
-      "fish-free",
-      "gooey",
-      "high-calorie",
-      "kenyan",
-      "one-pan",
-      "sour",
-      "weeknight"
+      "kenyan stew",
+      "gooey dumplings",
+      "vegetarian stew"
     ],
-    "cuisine": "kenyan",
-    "totalTimeMin": 35,
+    "cuisine": "African",
+    "totalTimeMin": 60,
     "shard": "g"
   },
   {
