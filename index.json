@@ -11515,17 +11515,14 @@
   },
   {
     "slug": "gooey-citrusy-russian-falafel-skillet",
-    "title": "Gooey Citrusy Russian Falafel Skillet",
+    "title": "Citrusy Russian Skillet Cake",
     "tags": [
-      "russian-cuisine",
-      "keto-friendly",
-      "gluten-free",
-      "falafel",
-      "cheesy",
-      "citrusy"
+      "citrusy",
+      "skillet",
+      "russian"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
@@ -12585,14 +12582,15 @@
   },
   {
     "slug": "gooey-show-off-white-chocolate-stir-fry",
-    "title": "Gooey Show-off White Chocolate Stir-fry",
+    "title": "Gooey White Chocolate Showpiece",
     "tags": [
-      "white-chocolate-stir-fry",
-      "tangy-korean-dish",
-      "raw-friendly-dessert"
+      "dessert",
+      "white chocolate",
+      "gooey",
+      "showpiece"
     ],
-    "cuisine": "Korean",
-    "totalTimeMin": 7,
+    "cuisine": null,
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {
