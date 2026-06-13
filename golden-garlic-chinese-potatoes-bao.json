@@ -1,0 +1,67 @@
+{
+  "slug": "golden-garlic-chinese-potatoes-bao",
+  "title": "Pan-Fried Bao Dumplings with Garlic and Golden Sauce",
+  "description": "A simple and delicious recipe for pan-fried bao dumplings with a flavorful golden sauce and a hint of garlic. Serve as a snack or appetizer.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bao dough",
+      "amount": "1 package (12-15 pieces)"
+    },
+    {
+      "name": "Golden sauce",
+      "amount": "1/4 cup soy sauce",
+      "notes": "see notes for homemade golden sauce recipe"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "1 large, peeled and diced"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup, chopped",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a pan over medium heat.",
+    "Add diced potatoes and cook until they start to brown.",
+    "Add minced garlic and cook for an additional 1-2 minutes.",
+    "Add bao dough pieces to the pan and cook for 2-3 minutes on each side, until golden brown.",
+    "Transfer cooked bao to a plate and brush with golden sauce.",
+    "Sprinkle chopped scallions on top, if using.",
+    "Serve immediately and enjoy!",
+    "To make homemade golden sauce, mix together 1/4 cup soy sauce, 1/4 cup honey, and 2 tablespoons rice vinegar in a small bowl."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "baodumplings",
+    "chinesefood",
+    "garliclovers",
+    "goldenbites"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-garlic-chinese-potatoes-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T20:48:11.351Z"
+}
