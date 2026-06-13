@@ -7074,16 +7074,15 @@
   },
   {
     "slug": "gingerly-dense-korean-sauerkraut-patbingsu",
-    "title": "Gingerly Dense Korean Sauerkraut Patbingsu",
+    "title": "Korean-Style Patbingsu with Sauerkraut",
     "tags": [
-      "comfort-food",
-      "dessert",
       "korean",
-      "sweet-tooth",
-      "weeknight"
+      "dessert",
+      "patbingsu",
+      "sauerkraut"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 75,
+    "totalTimeMin": 10,
     "shard": "g"
   },
   {
@@ -10073,17 +10072,15 @@
   },
   {
     "slug": "golden-garlic-chinese-potatoes-bao",
-    "title": "Golden Garlic Chinese Potatoes Bao",
+    "title": "Pan-Fried Bao Dumplings with Garlic and Golden Sauce",
     "tags": [
-      "easy-to-make",
-      "fujian-cuisine",
-      "high-protein",
-      "one-pan",
-      "pescatarian-friendly",
-      "weeknight"
+      "baodumplings",
+      "chinesefood",
+      "garliclovers",
+      "goldenbites"
     ],
-    "cuisine": "Fujian",
-    "totalTimeMin": 45,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
