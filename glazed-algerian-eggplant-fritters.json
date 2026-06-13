@@ -1,0 +1,82 @@
+{
+  "slug": "glazed-algerian-eggplant-fritters",
+  "title": "Algerian Eggplant Fritters",
+  "description": "A delicious Algerian-inspired eggplant fritter recipe. Crispy on the outside, tender on the inside.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "algerian",
+      "amount": "2 tbsp",
+      "notes": "chili flakes or berbere spice"
+    },
+    {
+      "name": "glazed",
+      "amount": "2 tbsp",
+      "notes": "honey or maple syrup"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "1 minced",
+      "notes": null
+    },
+    {
+      "name": "bread crumbs",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Peel the eggplant and cut it into small cubes.",
+    "In a large bowl, mix together the flour, eggs, garlic, and bread crumbs.",
+    "Add the eggplant cubes to the bowl and mix well.",
+    "Add the algerian spice and glazed honey and mix until the eggplant is evenly coated.",
+    "Heat a large non-stick skillet with a small amount of oil over medium heat.",
+    "Using a spoon, drop small amounts of the eggplant mixture into the skillet.",
+    "Cook the fritters for 3-4 minutes on each side, until they are golden brown and crispy.",
+    "Serve hot with a side of your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "eggplant",
+    "fritters",
+    "algerian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/glazed-algerian-eggplant-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:31:19.181Z"
+}
