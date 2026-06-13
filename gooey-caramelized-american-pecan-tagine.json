@@ -1,0 +1,87 @@
+{
+  "slug": "gooey-caramelized-american-pecan-tagine",
+  "title": "Pecan Caramel Tagine",
+  "description": "A twist on traditional tagine with caramelized pecans and gooey caramel sauce.",
+  "cuisine": "American",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "goey caramel sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "caramelized pecans",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "dates",
+      "amount": "4"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Mix together tagine spice blend, baking powder, and salt. Set aside.",
+    "In a large skillet, heat coconut oil over medium heat.",
+    "Add caramelized pecans and cook for 2 minutes.",
+    "Add dates, almonds, and maple syrup to the skillet. Cook for an additional 2 minutes.",
+    "Add water to the skillet and bring to a simmer.",
+    "Reduce heat to low and cook for 5 minutes.",
+    "Add tagine spice blend mixture to the skillet and stir to combine.",
+    "Transfer the mixture to a baking dish and bake for 15 minutes.",
+    "Remove from oven and drizzle with gooey caramel sauce.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pecan",
+    "tagine",
+    "caramel",
+    "american",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-caramelized-american-pecan-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T01:33:15.747Z"
+}
