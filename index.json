@@ -6844,18 +6844,15 @@
   },
   {
     "slug": "ginger-kissed-fermented-saudi-arabian-fish-tagine",
-    "title": "Ginger-Kissed Fermented Saudi-Arabian Fish Tagine",
+    "title": "Saudian Fish Tagine",
     "tags": [
-      "fermented",
-      "high-protein",
-      "kitchen-kadhai",
-      "one-pot",
-      "pescatarian",
-      "saudi-arabian",
-      "weeknight"
+      "north-african",
+      "fish",
+      "tagine",
+      "moroccan"
     ],
-    "cuisine": "saudi-arabian",
-    "totalTimeMin": 40,
+    "cuisine": "North African",
+    "totalTimeMin": 18,
     "shard": "g"
   },
   {
@@ -7646,17 +7643,16 @@
   },
   {
     "slug": "glaucous-smoky-korean-myeolchi-anchovies-tteok",
-    "title": "Glaucous Smoky Korean Myeolchi-Anchovies Tteok",
+    "title": "Smoky Korean-Style Myeolchi Tteok",
     "tags": [
-      "breakfast",
-      "gluten-free",
-      "high-protein",
       "korean",
+      "breakfast",
+      "snack",
       "smoky",
-      "snack"
+      "gluten-free"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
@@ -10734,18 +10730,15 @@
   },
   {
     "slug": "golden-roasted-saudi-arabian-date-skewers",
-    "title": "Golden Roasted Saudi Arabian Date Skewers",
+    "title": "Saudi Arabian Grilled Date Skewers",
     "tags": [
-      "caramel",
-      "dates",
-      "festive",
-      "low-calorie",
-      "middle-eastern",
-      "roasted",
-      "vegetarian"
+      "snack",
+      "middle eastern",
+      "grilled",
+      "dates"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 30,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 10,
     "shard": "g"
   },
   {
