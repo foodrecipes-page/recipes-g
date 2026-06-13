@@ -1,0 +1,58 @@
+{
+  "slug": "garlic-velvet-fried-rice",
+  "title": "Garlic Fried Rice",
+  "description": "A simple Chinese dish made with stir-fried rice, garlic, and other ingredients. This recipe is easy to make and requires minimal ingredients.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a wok or large skillet over medium-high heat.",
+    "Add the minced garlic and stir-fry until fragrant.",
+    "Add the cooked rice to the wok or skillet and stir-fry for 2-3 minutes.",
+    "Add the chopped scallions and stir-fry for another minute.",
+    "Season with salt to taste.",
+    "Serve the garlic fried rice hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "fried-rice",
+    "garlic"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlic-velvet-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T02:05:12.804Z"
+}
