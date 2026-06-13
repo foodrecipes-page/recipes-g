@@ -1,0 +1,97 @@
+{
+  "slug": "glaucous-smoky-korean-myeolchi-anchovies-tteok",
+  "title": "Smoky Korean-Style Myeolchi Tteok",
+  "description": "A spicy and savory breakfast dish from Korea, featuring crispy myeolchi (dried anchovies) and chewy tteok (rice cakes) in a smoky glaucous sauce.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Glaucous",
+      "amount": "2 tablespoons",
+      "notes": "for the sauce"
+    },
+    {
+      "name": "Smoky",
+      "amount": "1 teaspoon smoked paprika",
+      "notes": "for added depth"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1/2 teaspoon",
+      "notes": "optional for extra heat"
+    },
+    {
+      "name": "Myeolchi (dried anchovies)",
+      "amount": "1/4 cup",
+      "notes": "crushed or chopped"
+    },
+    {
+      "name": "Tteok (rice cakes)",
+      "amount": "4-6 pieces",
+      "notes": "preferably Korean-style"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for the sauce"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "for the sauce"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": "for the sauce"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tablespoons",
+      "notes": "for the sauce"
+    },
+    {
+      "name": "Green onions",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "1. In a small saucepan, combine glaucous, soy sauce, brown sugar, rice vinegar, and water. Bring to a simmer over medium heat, stirring occasionally.",
+    "2. Reduce the sauce by half, stirring occasionally, until it reaches a thick and syrupy consistency.",
+    "3. Meanwhile, toast the tteok in a dry pan over medium heat until lightly browned.",
+    "4. Add the crushed myeolchi to the pan and cook, stirring constantly, for 1-2 minutes or until fragrant.",
+    "5. Add the cooked tteok back into the pan and stir to combine with the myeolchi.",
+    "6. Add the smoky paprika and Korean chili flakes (if using) to the pan and stir to combine.",
+    "7. Pour the glaucous sauce over the tteok mixture and stir to coat.",
+    "8. Cook for an additional 1-2 minutes, stirring constantly, until the sauce has thickened and the tteok are well coated.",
+    "9. Garnish with chopped green onions and serve immediately.",
+    "10. Enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "breakfast",
+    "snack",
+    "smoky",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/glaucous-smoky-korean-myeolchi-anchovies-tteok",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T18:40:12.379Z"
+}
