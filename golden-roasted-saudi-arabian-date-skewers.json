@@ -1,0 +1,61 @@
+{
+  "slug": "golden-roasted-saudi-arabian-date-skewers",
+  "title": "Saudi Arabian Grilled Date Skewers",
+  "description": "A classic Middle Eastern dish, these sweet and savory date skewers are a perfect appetizer or snack.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "golden skewers",
+      "amount": "10-12",
+      "notes": ""
+    },
+    {
+      "name": "arabian spices",
+      "amount": "2 tsp",
+      "notes": "mix of cinnamon, cardamom, and cumin"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread a date onto each skewer.",
+    "Drizzle with olive oil and sprinkle with arabian spices.",
+    "Grill for 2-3 minutes per side, or until caramelized.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "middle eastern",
+    "grilled",
+    "dates"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 1,
+    "carbs": 30,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-roasted-saudi-arabian-date-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T19:02:08.714Z"
+}
