@@ -1,0 +1,61 @@
+{
+  "slug": "garlicky-crumbly-mexican-sausage-tacos",
+  "title": "Mexican Sausage Tacos",
+  "description": "A flavorful and easy-to-make recipe for tacos filled with spicy Mexican sausage, crunchy toppings, and a hint of garlicky goodness. Perfect for a quick weeknight dinner.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mexican sausage",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Garlicky tortillas",
+      "amount": "8-10",
+      "notes": null
+    },
+    {
+      "name": "Crumbly cheese",
+      "amount": "1 cup shredded",
+      "notes": null
+    },
+    {
+      "name": "Taco toppings",
+      "amount": "as needed",
+      "notes": "optional: diced tomatoes, shredded lettuce, diced avocado, sour cream"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a large skillet over medium-high heat.",
+    "2. Cook the Mexican sausage, breaking it up with a spoon as it cooks, until browned and cooked through.",
+    "3. Warm the garlicky tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "4. Assemble the tacos by spooning the cooked sausage onto a tortilla, followed by any desired toppings.",
+    "5. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "tacos",
+    "sausage",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-crumbly-mexican-sausage-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T17:08:20.307Z"
+}
