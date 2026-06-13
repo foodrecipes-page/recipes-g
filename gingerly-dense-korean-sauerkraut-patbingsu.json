@@ -1,0 +1,71 @@
+{
+  "slug": "gingerly-dense-korean-sauerkraut-patbingsu",
+  "title": "Korean-Style Patbingsu with Sauerkraut",
+  "description": "A refreshing Korean dessert featuring shaved ice, sweet red bean, and spicy patbingsu sauce, topped with sauerkraut for a unique twist.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "gingerly",
+      "amount": "1/2 cup, thinly sliced"
+    },
+    {
+      "name": "dense",
+      "amount": "1 cup, sweet red bean paste"
+    },
+    {
+      "name": "korean",
+      "amount": "1/4 cup, patbingsu sauce"
+    },
+    {
+      "name": "sauerkraut",
+      "amount": "1/2 cup, drained and chopped"
+    },
+    {
+      "name": "patbingsu",
+      "amount": "1 cup, milk ice"
+    },
+    {
+      "name": "green onion",
+      "amount": "1/4 cup, thinly sliced"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "1. In a blender, combine patbingsu sauce, honey, and 2 tablespoons water. Blend until smooth.",
+    "2. In a large bowl, combine shaved ice, sweet red bean paste, and patbingsu sauce mixture.",
+    "3. Top with chopped green onion, sesame seeds, and sauerkraut.",
+    "4. Serve immediately, garnished with additional green onion and sesame seeds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "dessert",
+    "patbingsu",
+    "sauerkraut"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gingerly-dense-korean-sauerkraut-patbingsu",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T20:02:44.391Z"
+}
