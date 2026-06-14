@@ -1,0 +1,84 @@
+{
+  "slug": "golden-grilled-greek-lamb-skewers",
+  "title": "Greek Lamb Skewers",
+  "description": "Tender lamb skewers marinated in a classic Greek mixture of olive oil, lemon juice, and herbs. Perfect for a summer BBQ or outdoor gathering.",
+  "cuisine": "Greek",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch cubes",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Fresh oregano, chopped",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "1 clove",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Skewers, wooden or metal",
+      "amount": "10-12",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together yogurt, olive oil, oregano, lemon juice, garlic, salt, and pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat grill to medium-high heat.",
+    "Thread the marinated lamb cubes onto the skewers, leaving a small space between each piece.",
+    "Grill the skewers for 8-10 minutes per side, or until the lamb is cooked to your desired level of doneness.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "lamb",
+    "skewers",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-grilled-greek-lamb-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T01:11:14.180Z"
+}
