@@ -3210,15 +3210,16 @@
   },
   {
     "slug": "garlicky-kenyan-dates-tagine",
-    "title": "Garlicky Kenyan Dates Tagine",
+    "title": "Kenyan Tagine Chicken with Dates",
     "tags": [
-      "date-night",
-      "gluten-free",
       "kenyan",
-      "vegan"
+      "date",
+      "tagine",
+      "chicken",
+      "gluten-free"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 35,
+    "cuisine": "North African",
+    "totalTimeMin": 50,
     "shard": "g"
   },
   {
@@ -6603,18 +6604,14 @@
   },
   {
     "slug": "gfluffy-tunisian-plant-based-friendly-tagine",
-    "title": "GFluffy Tunisian Plant-Based-Friendly Tagine",
+    "title": "Tunisian Tagine Stew",
     "tags": [
-      "clay-pot-cook",
-      "copper-vessel",
-      "fluffy",
-      "monsoon",
-      "plant-based",
-      "tagine",
+      "stew",
+      "vegetarian",
       "tunisian"
     ],
     "cuisine": "Tunisian",
-    "totalTimeMin": 90,
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {
@@ -7651,17 +7648,15 @@
   },
   {
     "slug": "glazed-algerian-almond-tagine",
-    "title": "Glazed Algerian Almond Tagine",
+    "title": "Algerian Chicken Tagine",
     "tags": [
-      "almond",
-      "crunchy",
-      "earthenware",
-      "low-glycemic",
-      "savory",
-      "tagine"
+      "algerian",
+      "chicken",
+      "tagine",
+      "glazed-almonds"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 75,
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
@@ -10393,17 +10388,15 @@
   },
   {
     "slug": "golden-grilled-greek-lamb-skewers",
-    "title": "Golden Grilled Greek Lamb Skewers",
+    "title": "Greek Lamb Skewers",
     "tags": [
-      "greek-food",
-      "grilled-meats",
-      "lamb-recipes",
-      "meal-prep",
-      "paleo-diet",
-      "weeknight-dinners"
+      "greek",
+      "lamb",
+      "skewers",
+      "grilled"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 32,
+    "totalTimeMin": 33,
     "shard": "g"
   },
   {
