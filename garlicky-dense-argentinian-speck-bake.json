@@ -1,0 +1,73 @@
+{
+  "slug": "garlicky-dense-argentinian-speck-bake",
+  "title": "Speck and Argentinian Empanadas",
+  "description": "Flaky pastry pockets filled with savory speck and argentinian cheese, perfect as a snack or dessert.",
+  "cuisine": "argentinian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Dense pastry dough",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Speck",
+      "amount": "1/2 cup, diced",
+      "notes": "or bacon"
+    },
+    {
+      "name": "Argentinian cheese",
+      "amount": "1/2 cup, crumbled",
+      "notes": "such as queso fresco"
+    },
+    {
+      "name": "Garlicky butter",
+      "amount": "1 tablespoon, melted",
+      "notes": "see notes"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Bake",
+      "amount": "preheated to 400°F",
+      "notes": "for 20-25 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roll out the dense pastry dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "In a small bowl, mix together the speck, argentinian cheese, and garlicky butter.",
+    "Place a tablespoon of the speck mixture onto one half of each dough circle.",
+    "Fold the other half of the dough circle over the filling, pressing the edges to seal.",
+    "Use a fork to crimp the edges and create a decorative border.",
+    "Place the empanadas on a baking sheet lined with parchment paper.",
+    "Brush the tops with a little water and bake for 20-25 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "empanadas",
+    "argentinian-food",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-dense-argentinian-speck-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:38:00.622Z"
+}
