@@ -11750,18 +11750,15 @@
   },
   {
     "slug": "gooey-french-hazlenuts-tarte",
-    "title": "Gooey French Hazelnut Tarte",
+    "title": "Tarte Tatin",
     "tags": [
-      "dessert",
       "french",
-      "keto",
-      "low-carb",
-      "one-pan",
-      "sunday-baking",
-      "weeknight"
+      "tarte",
+      "dessert",
+      "apples"
     ],
     "cuisine": "French",
-    "totalTimeMin": 35,
+    "totalTimeMin": 50,
     "shard": "g"
   },
   {
