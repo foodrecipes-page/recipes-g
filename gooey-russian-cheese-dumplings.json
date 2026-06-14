@@ -1,0 +1,62 @@
+{
+  "slug": "gooey-russian-cheese-dumplings",
+  "title": "Gooey Cheese Dumplings",
+  "description": "A Russian-inspired dish featuring gooey cheese-filled dumplings. Delicious and easy to make, this dish is perfect for a cozy evening.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dumpling dough",
+      "amount": "1 package (usually around 20 pieces)"
+    },
+    {
+      "name": "Gooey cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Russian cheese",
+      "amount": "1/2 cup, crumbled"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Water",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a large pot of water and add a pinch of salt.",
+    "2. Bring the water to a boil and cook the dumplings according to the package instructions.",
+    "3. While the dumplings are cooking, mix together the gooey cheese and Russian cheese in a bowl.",
+    "4. Once the dumplings are done, remove them from the water with a slotted spoon and add to the cheese mixture.",
+    "5. Place the dumplings in a baking dish and top with additional cheese if desired.",
+    "6. Bake in a preheated oven at 375°F (190°C) for 15-20 minutes, or until the cheese is melted and bubbly.",
+    "7. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "russian",
+    "cheese",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-russian-cheese-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:58:59.047Z"
+}
