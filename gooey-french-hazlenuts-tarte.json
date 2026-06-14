@@ -1,0 +1,81 @@
+{
+  "slug": "gooey-french-hazlenuts-tarte",
+  "title": "Tarte Tatin",
+  "description": "A classic French dessert made by cooking caramelized apples in butter and sugar, then topping them with pastry.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Gooey Butter",
+      "amount": "1/2 cup (1 stick)",
+      "notes": ""
+    },
+    {
+      "name": "French Tarte Pastry",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "Hazlenuts",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Apples",
+      "amount": "3-4, peeled and sliced",
+      "notes": ""
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Roll out the tarte pastry and place it in a 9-inch tart pan with a removable bottom.",
+    "In a large bowl, combine the sliced apples, granulated sugar, cinnamon, and salt. Mix well to coat the apples evenly.",
+    "Arrange the apple mixture in a concentric circle pattern, leaving a 1-inch border around the edges.",
+    "Dot the top of the apples with the gooey butter.",
+    "Fold the edges of the pastry up over the apples, pressing gently to seal.",
+    "Bake the tarte for 25-30 minutes, or until the pastry is golden brown and the apples are tender.",
+    "Remove the tarte from the oven and sprinkle with chopped hazlenuts.",
+    "Let the tarte cool in the pan for 10 minutes, then transfer it to a wire rack to cool completely.",
+    "Serve the tarte warm, topped with whipped cream or vanilla ice cream if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "tarte",
+    "dessert",
+    "apples"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-french-hazlenuts-tarte",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T22:02:48.028Z"
+}
