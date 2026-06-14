@@ -1,82 +1,70 @@
 {
   "slug": "gently-wrapped-korean-pak-choi-ssam-wrap",
-  "title": "Korean-Style Pan-Seared Pak Choi Wrap",
-  "description": "A simple and flavorful Korean-inspired dish featuring pan-seared pak choi wrapped in a ssam wrap.",
+  "title": "Korean-Style Pak Choi Ssam",
+  "description": "A simple and flavorful Korean-inspired dish featuring gently sautéed pak choi wrapped in a tender korean wrap.",
   "cuisine": "Korean",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
     {
-      "name": "Pak Choi",
-      "amount": "1 bunch"
+      "name": "pak choi",
+      "amount": "1 head"
     },
     {
-      "name": "Ssam Wrap",
-      "amount": "4-6",
-      "notes": "gently wrapped"
+      "name": "korean wrap",
+      "amount": "4-6 wraps"
     },
     {
-      "name": "Korean Chili Flakes (gochugaru)",
+      "name": "ssam wrap",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "gently",
+      "amount": "1 tsp, sesame oil"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove, minced"
+    },
+    {
+      "name": "toasted sesame seeds",
       "amount": "1 tsp"
-    },
-    {
-      "name": "Sesame Oil",
-      "amount": "2 tsp"
-    },
-    {
-      "name": "Soy Sauce",
-      "amount": "1 tbsp"
-    },
-    {
-      "name": "Brown Sugar",
-      "amount": "1 tsp"
-    },
-    {
-      "name": "Garlic Powder",
-      "amount": "1/2 tsp"
-    },
-    {
-      "name": "Salt",
-      "amount": "to taste"
-    },
-    {
-      "name": "Black Pepper",
-      "amount": "to taste"
     }
   ],
   "instructions": [
-    "Heat a non-stick pan over medium-high heat.",
-    "Add 1 tsp of sesame oil and swirl to coat the pan.",
-    "Add the pak choi to the pan and cook for 2-3 minutes or until slightly wilted.",
-    "Add the Korean chili flakes, soy sauce, brown sugar, garlic powder, salt, and black pepper to the pan. Toss to coat the pak choi evenly.",
-    "Cook for an additional 1-2 minutes or until the pak choi is tender.",
-    "Warm the ssam wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
-    "Assemble the wraps by placing a portion of the pan-seared pak choi in the center of each wrap.",
-    "Serve immediately and enjoy!"
+    "1. Cut the pak choi into thin strips and set aside.",
+    "2. In a small pan, heat the sesame oil over medium heat.",
+    "3. Add the minced garlic and cook for 1 minute, until fragrant.",
+    "4. Add the pak choi to the pan and cook for 3-4 minutes, until tender.",
+    "5. In a small bowl, whisk together the rice vinegar and toasted sesame seeds.",
+    "6. To assemble the ssam, place a few strips of pak choi onto a korean wrap, drizzle with the vinegar mixture, and sprinkle with additional toasted sesame seeds if desired.",
+    "7. Serve immediately and enjoy!"
   ],
-  "prepTimeMin": 5,
-  "cookTimeMin": 10,
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
   "totalTimeMin": 15,
   "servings": 4,
   "difficulty": "easy",
   "tags": [
     "korean",
-    "pak-choi",
-    "wrap",
     "vegetarian",
-    "gluten-free"
+    "wrap",
+    "ssam"
   ],
   "nutrition": {
-    "calories": 150,
-    "protein": 3,
+    "calories": 120,
+    "protein": 2,
     "carbs": 20,
-    "fat": 7
+    "fat": 4
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/gently-wrapped-korean-pak-choi-ssam-wrap",
   "providerUsed": "groq",
-  "createdAt": "2026-06-09T12:44:43.417Z"
+  "createdAt": "2026-06-11T04:39:53.940Z"
 }
