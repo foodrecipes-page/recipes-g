@@ -1,0 +1,80 @@
+{
+  "slug": "glassy-jelly-irish-rhubarb-stew",
+  "title": "Stewy Rhubarb Crisp",
+  "description": "A sweet and savory dessert made with rhubarb and topped with a crunchy glassy crust. Perfect for springtime.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Rhubarb",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Jelly",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Glassy",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Irish cream",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Stew",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, combine the rhubarb, sugar, and jelly. Mix well.",
+    "Transfer the mixture to a 9x9 inch baking dish.",
+    "In a separate bowl, combine the flour, Irish cream, and salt. Mix well.",
+    "Add the glassy to the flour mixture and mix until a crumbly texture forms.",
+    "Add the butter to the flour mixture and mix until a crumbly texture forms.",
+    "Top the rhubarb mixture with the flour mixture.",
+    "Bake for 35-40 minutes, or until the topping is golden brown.",
+    "Serve warm, topped with stew if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spring",
+    "dessert",
+    "rhubarb",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/glassy-jelly-irish-rhubarb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:55:34.386Z"
+}
