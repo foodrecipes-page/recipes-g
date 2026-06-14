@@ -5833,16 +5833,14 @@
   },
   {
     "slug": "gently-charred-indian-lamb-curry",
-    "title": "Gently Charred Indian Lamb Curry",
+    "title": "Lamb Curry",
     "tags": [
+      "lamb-curry",
       "indian-cuisine",
-      "lamb-recipes",
-      "low-fat",
-      "one-pot",
-      "weeknight"
+      "curry-recipe"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 110,
     "shard": "g"
   },
   {
@@ -9174,17 +9172,15 @@
   },
   {
     "slug": "golden-algerian-lamb-tagine",
-    "title": "Golden Algerian Lamb Tagine",
+    "title": "Algerian Lamb Tagine",
     "tags": [
-      "algerian-cuisine",
-      "comfort-food",
-      "high-protein",
-      "lamb-recipes",
-      "lazy-sunday",
-      "one-pot-meals"
+      "north-african",
+      "lamb",
+      "stew",
+      "slow-cooker"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 180,
+    "cuisine": "North African",
+    "totalTimeMin": 110,
     "shard": "g"
   },
   {
