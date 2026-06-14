@@ -1,0 +1,73 @@
+{
+  "slug": "gourmet-creamy-australian-russet-potato-gratin",
+  "title": "Creamy Australian Potato Gratin",
+  "description": "A rich and creamy potato dish with an Australian twist, perfect for a comforting dinner.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "australian potato",
+      "amount": "2 large"
+    },
+    {
+      "name": "russet potato",
+      "amount": "2 large"
+    },
+    {
+      "name": "gourmet butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "creamy grated cheddar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel and thinly slice the potatoes.",
+    "In a greased 9x13-inch baking dish, create a layer of potatoes.",
+    "Dot the top of the potatoes with butter.",
+    "Sprinkle a third of the cheddar cheese over the potatoes.",
+    "Repeat the layers two more times, ending with a layer of cheese on top.",
+    "Pour the heavy cream over the cheese.",
+    "Season with salt and pepper to taste.",
+    "Cover the dish with aluminum foil and bake for 45 minutes.",
+    "Remove the foil and continue baking for an additional 15-20 minutes, or until the top is golden brown.",
+    "Remove from the oven and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "potato-gratin",
+    "australian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gourmet-creamy-australian-russet-potato-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T23:02:52.833Z"
+}
