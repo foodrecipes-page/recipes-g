@@ -10205,15 +10205,16 @@
   },
   {
     "slug": "golden-glazed-peruvian-basmati-rice-gallina-aji",
-    "title": "Golden Glazed Peruvian Basmati Rice Gallina Aji",
+    "title": "Peruvian Chicken and Rice Bowl",
     "tags": [
-      "high-protein",
-      "one-pan",
       "peruvian",
-      "weeknight"
+      "chicken",
+      "rice",
+      "aji",
+      "grilled"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 45,
     "shard": "g"
   },
   {
@@ -14629,16 +14630,14 @@
   },
   {
     "slug": "grilled-fil-pasta-meal-prep",
-    "title": "Rich Flaky Grilled Fil-Pasta Meal-Prep",
+    "title": "Grilled Fish with Pasta",
     "tags": [
-      "grilled",
-      "filipino",
-      "meal-prep",
-      "gluten-free",
-      "nut-free"
+      "italian",
+      "fish",
+      "grilled"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 55,
+    "cuisine": "Italian",
+    "totalTimeMin": 18,
     "shard": "g"
   },
   {
