@@ -7387,17 +7387,15 @@
   },
   {
     "slug": "glassy-jelly-irish-rhubarb-stew",
-    "title": "Glassy-jelly Irish Rhubarb Stew",
+    "title": "Stewy Rhubarb Crisp",
     "tags": [
-      "comfort-food",
-      "dairy-free",
-      "high-fiber",
-      "one-pan",
       "spring",
-      "weeknight"
+      "dessert",
+      "rhubarb",
+      "stew"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 50,
     "shard": "g"
   },
   {
@@ -12505,18 +12503,14 @@
   },
   {
     "slug": "gooey-russian-cheese-dumplings",
-    "title": "Gooey Russian Cheese Dumplings",
+    "title": "Gooey Cheese Dumplings",
     "tags": [
-      "keto-friendly",
-      "quick-recipe",
-      "cheesy",
-      "dumplings",
       "russian",
-      "wonton",
-      "savory"
+      "cheese",
+      "dumplings"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 20,
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
