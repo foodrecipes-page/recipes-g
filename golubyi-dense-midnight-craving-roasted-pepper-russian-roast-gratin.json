@@ -1,0 +1,72 @@
+{
+  "slug": "golubyi-dense-midnight-craving-roasted-pepper-russian-roast-gratin",
+  "title": "Russian Roasted Golubyi",
+  "description": "A hearty, comforting dish featuring roasted golubyi with a crispy top and savory flavors.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "golubyi",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "roasted",
+      "amount": "2 tbsp",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": "black pepper"
+    },
+    {
+      "name": "russian",
+      "amount": "1 tsp",
+      "notes": "dried thyme"
+    },
+    {
+      "name": "roast",
+      "amount": "2 tbsp",
+      "notes": "olive oil"
+    },
+    {
+      "name": "gratin",
+      "amount": "1 cup",
+      "notes": "grated cheddar cheese"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the golubyi with salt, black pepper, and dried thyme.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Sear the golubyi until browned on both sides, about 5 minutes per side.",
+    "Transfer the golubyi to a baking dish and roast in the preheated oven for 20-25 minutes, or until tender.",
+    "Remove the golubyi from the oven and top with grated cheddar cheese.",
+    "Return the golubyi to the oven and bake for an additional 5-10 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "russian",
+    "roasted",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golubyi-dense-midnight-craving-roasted-pepper-russian-roast-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T07:01:04.758Z"
+}
