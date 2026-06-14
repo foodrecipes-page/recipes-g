@@ -1,0 +1,73 @@
+{
+  "slug": "garlicky-cheesy-pull-malaysian-wonton-bao",
+  "title": "Cheesy Pull Bao",
+  "description": "A fusion twist on traditional bao, filled with cheesy goodness and a hint of malaysian spices.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "garlicky pull",
+      "amount": "200g"
+    },
+    {
+      "name": "cheesy bao dough",
+      "amount": "400g"
+    },
+    {
+      "name": "malaysian chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "wonton wrapper (for wrapping)",
+      "amount": "4"
+    },
+    {
+      "name": "melted butter",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the bao dough to a thickness of 1/4 inch.",
+    "Place a spoonful of garlicky pull in the center of each dough circle.",
+    "Sprinkle a pinch of malaysian chili flakes on top of the filling.",
+    "Brush the edges of the dough with melted butter.",
+    "Fold the dough in half over the filling and press the edges to seal.",
+    "Use a wonton wrapper to wrap around the bao to create a package.",
+    "Brush the tops of the bao with additional melted butter.",
+    "Place the bao on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "bao",
+    "malaysian",
+    "snack",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-cheesy-pull-malaysian-wonton-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T06:17:17.052Z"
+}
