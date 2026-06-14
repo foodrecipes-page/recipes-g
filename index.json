@@ -5615,17 +5615,15 @@
   },
   {
     "slug": "gentle-spiced-moroccan-fish-tagine",
-    "title": "Gentle Spiced Moroccan Fish Tagine",
+    "title": "Spiced Moroccan Fish Tagine",
     "tags": [
-      "comfort-food",
-      "fish",
-      "healthy",
       "moroccan",
-      "one-pot",
+      "fish",
+      "tagine",
       "stew"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
@@ -8365,17 +8363,16 @@
   },
   {
     "slug": "glorious-golden-welsh-lamb-scotch-egg",
-    "title": "Glorious Golden Welsh Lamb Scotch Egg",
+    "title": "Welsh Scotch Egg",
     "tags": [
-      "british-cuisine",
-      "deep-fried",
-      "lamb-dishes",
-      "low-glycemic",
-      "scotch-eggs",
-      "welsh-recipes"
+      "scotch-egg",
+      "welsh-scotch-egg",
+      "lamb",
+      "egg",
+      "british"
     ],
-    "cuisine": "Welsh",
-    "totalTimeMin": 35,
+    "cuisine": "British",
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
