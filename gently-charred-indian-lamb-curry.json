@@ -1,0 +1,94 @@
+{
+  "slug": "gently-charred-indian-lamb-curry",
+  "title": "Lamb Curry",
+  "description": "A flavorful and aromatic Indian-inspired lamb curry made with tender lamb, fresh spices, and a hint of charred flavor.",
+  "cuisine": "Indian",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "Bone-in preferred for added flavor"
+    },
+    {
+      "name": "Ghee or vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Charred ginger",
+      "amount": "2 inches",
+      "notes": "Charred over an open flame or in a broiler"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Lamb curry powder",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Canned diced tomatoes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add charred ginger and cook for 1 minute.",
+    "Add lamb and cook until browned, about 5 minutes.",
+    "Add garam masala, curry powder, and salt. Cook for 1 minute.",
+    "Add diced tomatoes and chicken broth. Bring to a boil.",
+    "Reduce heat to low and simmer, covered, until lamb is tender, about 1 1/2 hours.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb-curry",
+    "indian-cuisine",
+    "curry-recipe"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gently-charred-indian-lamb-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:40:48.832Z"
+}
