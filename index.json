@@ -965,18 +965,16 @@
   },
   {
     "slug": "garlicky-cheesy-pull-malaysian-wonton-bao",
-    "title": "Garlicky Cheesy Pull Malaysian Wonton Bao",
+    "title": "Cheesy Pull Bao",
     "tags": [
-      "diabetic-friendly",
-      "easy-to-make",
-      "high-protein",
-      "low-carb",
-      "meal-prep",
-      "one-pan",
-      "weeknight"
+      "cheesy",
+      "bao",
+      "malaysian",
+      "snack",
+      "fusion"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 27,
+    "cuisine": null,
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
@@ -10987,15 +10985,14 @@
   },
   {
     "slug": "golubyi-dense-midnight-craving-roasted-pepper-russian-roast-gratin",
-    "title": "Golubyi Dense Midnight-Craving Roasted Pepper Russian Roast Gratin",
+    "title": "Russian Roasted Golubyi",
     "tags": [
-      "comfort-food",
-      "low-fat",
-      "midnight-snack",
-      "russian-cuisine"
+      "russian",
+      "roasted",
+      "comfort-food"
     ],
-    "cuisine": "russian",
-    "totalTimeMin": 75,
+    "cuisine": "Russian",
+    "totalTimeMin": 45,
     "shard": "g"
   },
   {
