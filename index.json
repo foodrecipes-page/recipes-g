@@ -1947,14 +1947,13 @@
   },
   {
     "slug": "garlicky-dense-argentinian-speck-bake",
-    "title": "Garlicky Dense Argentinian Speck Bake",
+    "title": "Speck and Argentinian Empanadas",
     "tags": [
-      "argentinian",
-      "comfort-food",
-      "easy-to-make",
-      "weeknight"
+      "empanadas",
+      "argentinian-food",
+      "snack"
     ],
-    "cuisine": "Argentinian",
+    "cuisine": "argentinian",
     "totalTimeMin": 35,
     "shard": "g"
   },
@@ -7041,17 +7040,15 @@
   },
   {
     "slug": "gingered-nutty-jamaican-galangal-kha-tagine",
-    "title": "gingered nutty jamaican galangal-kha tagine",
+    "title": "Jamaican Tagine Chicken",
     "tags": [
-      "gluten-free",
-      "high-fiber",
-      "low-calorie",
-      "one-pan",
-      "pressure-cooker",
-      "vegan-friendly"
+      "jamaican",
+      "caribbean",
+      "chicken",
+      "stew"
     ],
-    "cuisine": "jamaican",
-    "totalTimeMin": 25,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
@@ -9672,17 +9669,15 @@
   },
   {
     "slug": "golden-crispy-algerian-chorizo-skewers",
-    "title": "Golden Crispy Algerian Chorizo Skewers",
+    "title": "Grilled Chorizo Skewers with Algerian Spice",
     "tags": [
-      "algerian-cuisine",
-      "appetizer",
-      "high-protein",
-      "one-pan",
-      "snack",
-      "weeknight"
+      "grilled",
+      "skewers",
+      "chorizo",
+      "north-african-cuisine"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 35,
+    "cuisine": "North African",
+    "totalTimeMin": 32,
     "shard": "g"
   },
   {
@@ -11805,15 +11800,14 @@
   },
   {
     "slug": "gooey-garlic-peruvian-pilaf",
-    "title": "Gooey Garlic Peruvian Pilaf",
+    "title": "Peruvian Pilaf Bowl",
     "tags": [
       "peruvian",
-      "paleo-friendly",
-      "goosey-garlic",
-      "peru"
+      "pilaf",
+      "vegetarian"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 15,
     "shard": "g"
   },
   {
@@ -12819,16 +12813,15 @@
   },
   {
     "slug": "gooey-spicy-wheat-stir-fry",
-    "title": "Gooey Spicy Wheat Stir-fry",
+    "title": "Spicy Gooey Stir Fry",
     "tags": [
-      "spicy",
-      "gluten-free",
-      "sour",
-      "hangover-cure",
-      "keto-friendly"
+      "stir-fry",
+      "noodles",
+      "vegetarian",
+      "quick"
     ],
-    "cuisine": "Ethiopian",
-    "totalTimeMin": 40,
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
