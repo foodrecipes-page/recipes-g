@@ -1,0 +1,66 @@
+{
+  "slug": "golden-crispy-algerian-chorizo-skewers",
+  "title": "Grilled Chorizo Skewers with Algerian Spice",
+  "description": "A flavorful and spicy dish perfect for grilling, inspired by North African cuisine.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free",
+    "pescetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chorizo",
+      "amount": "500g",
+      "notes": "Choose a spicy variety"
+    },
+    {
+      "name": "Algerian Spice Blend",
+      "amount": "2 tsp",
+      "notes": "Available at most spice stores or online"
+    },
+    {
+      "name": "Golden Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing skewers"
+    },
+    {
+      "name": "Crispy Onions (such as shallots or pearl onions)",
+      "amount": "1 cup",
+      "notes": "Chopped and caramelized"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread chorizo, crispy onions, and cilantro onto skewers.",
+    "Brush with golden olive oil and season with Algerian Spice Blend.",
+    "Grill skewers for 10-12 minutes, turning occasionally.",
+    "Serve hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "skewers",
+    "chorizo",
+    "north-african-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-crispy-algerian-chorizo-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:36:31.967Z"
+}
