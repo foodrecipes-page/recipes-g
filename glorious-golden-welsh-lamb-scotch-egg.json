@@ -1,0 +1,78 @@
+{
+  "slug": "glorious-golden-welsh-lamb-scotch-egg",
+  "title": "Welsh Scotch Egg",
+  "description": "A twist on the classic British dish, this Welsh Scotch egg features lamb instead of sausage.",
+  "cuisine": "British",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Scotch egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Lamb mince",
+      "amount": "100g",
+      "notes": "Make sure to cook to 74°C (165°F)"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "Hard-boiled"
+    },
+    {
+      "name": "Paprika",
+      "amount": "0.5 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "0.25 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "0.25 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Hard-boil the egg and set aside.",
+    "In a pan, cook the lamb mince over medium heat until it reaches 74°C (165°F).",
+    "Add the breadcrumbs, paprika, salt, and pepper to the lamb mince and stir to combine.",
+    "Wrap the lamb mixture around the hard-boiled egg, making sure to seal the edges.",
+    "Dredge the lamb-coated egg in breadcrumbs to coat.",
+    "Deep fry the Welsh Scotch egg in hot oil until golden brown.",
+    "Drain the egg on paper towels and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "scotch-egg",
+    "welsh-scotch-egg",
+    "lamb",
+    "egg",
+    "british"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/glorious-golden-welsh-lamb-scotch-egg",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:47:47.353Z"
+}
