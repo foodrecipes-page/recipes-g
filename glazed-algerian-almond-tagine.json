@@ -1,0 +1,104 @@
+{
+  "slug": "glazed-algerian-almond-tagine",
+  "title": "Algerian Chicken Tagine",
+  "description": "A classic Algerian dish made with chicken, almonds, and a sweet glaze, served in a traditional clay pot.",
+  "cuisine": "Algerian",
+  "diet": [
+    "halal",
+    "pork-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "glazed almonds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a clay pot over medium heat.",
+    "Add chicken and cook until browned, about 5 minutes.",
+    "Add onion and cook until softened, about 3 minutes.",
+    "Add ginger, lemongrass, cumin, coriander, cinnamon, cayenne pepper, and salt. Cook for 1 minute.",
+    "Add tomato paste and cook for 1 minute.",
+    "Add honey, water, and glazed almonds. Stir to combine.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 20 minutes.",
+    "Serve hot over couscous, garnished with additional glazed almonds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "chicken",
+    "tagine",
+    "glazed-almonds"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/glazed-algerian-almond-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T02:01:24.374Z"
+}
