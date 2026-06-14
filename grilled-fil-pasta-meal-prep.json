@@ -1,0 +1,66 @@
+{
+  "slug": "grilled-fil-pasta-meal-prep",
+  "title": "Grilled Fish with Pasta",
+  "description": "A simple and delicious meal featuring grilled fish served with a side of pasta.",
+  "cuisine": "Italian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Grilled Fil",
+      "amount": "2 pieces",
+      "notes": "any firm white fish"
+    },
+    {
+      "name": "Pasta",
+      "amount": "8 oz",
+      "notes": "linguine or fettuccine work well"
+    },
+    {
+      "name": "Meal Prep",
+      "amount": "1 serving",
+      "notes": "for serving"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Cook pasta according to package instructions until al dente.",
+    "Preheat grill to medium-high heat.",
+    "Season grilled fil on both sides with salt and pepper.",
+    "Grill the fil for 4-6 minutes per side, or until cooked through.",
+    "Serve grilled fil on top of pasta.",
+    "Season with additional salt and pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "fish",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grilled-fil-pasta-meal-prep",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T00:12:59.205Z"
+}
