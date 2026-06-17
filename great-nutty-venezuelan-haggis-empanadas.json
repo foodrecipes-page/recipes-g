@@ -1,0 +1,71 @@
+{
+  "slug": "great-nutty-venezuelan-haggis-empanadas",
+  "title": "Venezuelan Empanadas with Great Cheese Filling",
+  "description": "A traditional Venezuelan dish with a twist, featuring a great cheese filling inside crispy empanadas.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Empanada dough",
+      "amount": "2 packages"
+    },
+    {
+      "name": "Great cheese",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "Nutty chutney",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Venezuelan spices",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Thaw empanada dough according to package instructions.",
+    "In a bowl, mix together great cheese, nutty chutney, and Venezuelan spices.",
+    "Place a spoonful of the cheese mixture onto the center of an empanada dough.",
+    "Fold the dough in half to form a half-moon shape and press edges together with a fork to seal.",
+    "Brush tops with beaten egg for a golden glaze.",
+    "Bake for 15-20 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "empanadas",
+    "cheese",
+    "snack",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/great-nutty-venezuelan-haggis-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-17T14:40:44.910Z"
+}
