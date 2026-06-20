@@ -1,0 +1,71 @@
+{
+  "slug": "gentle-yeasty-italian-pasta-calamarata",
+  "title": "Creamy Calamarata Pasta Bake",
+  "description": "A comforting Italian dish made with calamarata pasta, a blend of creamy cheeses, and a hint of garlic.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Calamarata pasta",
+      "amount": "12 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Gentle Italian cheese blend",
+      "amount": "1 cup",
+      "notes": "mix of mozzarella, parmesan, and ricotta"
+    },
+    {
+      "name": "Yeasty garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh basil leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the calamarata pasta according to the package instructions until al dente. Drain and set aside.",
+    "In a large skillet, heat the olive oil over medium heat. Add the minced garlic and sauté for 1-2 minutes until fragrant.",
+    "Stir in the gentle Italian cheese blend until well combined.",
+    "Add the cooked calamarata pasta to the skillet and toss with the cheese mixture until coated.",
+    "Transfer the pasta mixture to a baking dish and top with additional grated cheese.",
+    "Bake in the preheated oven for 15-20 minutes until the cheese is melted and bubbly.",
+    "Garnish with chopped fresh basil leaves and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "pasta",
+    "bake",
+    "cheese",
+    "garlic",
+    "basil"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 50,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gentle-yeasty-italian-pasta-calamarata",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-20T00:56:27.169Z"
+}
