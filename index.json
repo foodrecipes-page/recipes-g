@@ -5743,16 +5743,17 @@
   },
   {
     "slug": "gentle-yeasty-italian-pasta-calamarata",
-    "title": "Gentle Yeasty Italian Pasta Calamarata",
+    "title": "Creamy Calamarata Pasta Bake",
     "tags": [
-      "earthenware-cooking",
-      "hangover-cure",
-      "italian-food",
-      "pasta-dishes",
-      "vegan-recipes"
+      "italian",
+      "pasta",
+      "bake",
+      "cheese",
+      "garlic",
+      "basil"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
@@ -13155,17 +13156,16 @@
   },
   {
     "slug": "gorgeous-spicy-italian-nutella-calamarata",
-    "title": "Gorgeous Spicy Italian Nutella Calamarata",
+    "title": "Spicy Italian Pasta Bake",
     "tags": [
       "italian",
-      "macrobiotic",
-      "nutella",
-      "one-pan",
-      "romantic",
-      "spicy"
+      "pasta",
+      "spicy",
+      "bake",
+      "parmesan"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 25,
+    "cuisine": "italian",
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {
