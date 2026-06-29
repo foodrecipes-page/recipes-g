@@ -2624,16 +2624,15 @@
   },
   {
     "slug": "garlicky-german-beef-flank-steak-bauernfristuck",
-    "title": "Garlicky German Beef Flank Steak Bauernfristück",
+    "title": "Bavarian Beef Steak with German Seasoning",
     "tags": [
-      "comfort-food",
+      "beef",
       "german",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "bavarian",
+      "steak"
     ],
     "cuisine": "german",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "g"
   },
   {
@@ -11597,17 +11596,15 @@
   },
   {
     "slug": "gooey-festive-argentinian-beef-crumble",
-    "title": "Gooey Festive Argentinian Beef Crumble",
+    "title": "Argentinian Beef Empanadas",
     "tags": [
-      "argentine",
-      "sweet",
-      "festive",
-      "goowy",
+      "argentinian",
       "beef",
-      "gluten-free"
+      "empanadas",
+      "dinner"
     ],
-    "cuisine": "Argentine",
-    "totalTimeMin": 30,
+    "cuisine": "Argentinian",
+    "totalTimeMin": 50,
     "shard": "g"
   },
   {
