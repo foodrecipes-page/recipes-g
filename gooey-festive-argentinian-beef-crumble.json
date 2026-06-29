@@ -1,0 +1,86 @@
+{
+  "slug": "gooey-festive-argentinian-beef-crumble",
+  "title": "Argentinian Beef Empanadas",
+  "description": "A traditional Argentinian dish filled with seasoned beef and gooey cheese, perfect for a hearty dinner or snack.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Gooey Cheese",
+      "amount": "1 cup shredded",
+      "notes": ""
+    },
+    {
+      "name": "Festive Onion",
+      "amount": "1 medium, diced",
+      "notes": ""
+    },
+    {
+      "name": "Crumble",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, mix together ground beef, gooey cheese, festive onion, crumble, salt, and pepper.",
+    "In a separate bowl, whisk together eggs and water.",
+    "Add the egg mixture to the beef mixture and mix well.",
+    "Divide the dough into 8-10 equal pieces.",
+    "Roll out each piece into a thin circle.",
+    "Place a tablespoon of the beef mixture in the center of each circle.",
+    "Fold the dough over the filling and press the edges together to seal.",
+    "Brush the tops with a little water and sprinkle with crumble.",
+    "Place the empanadas on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "empanadas",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-festive-argentinian-beef-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-29T22:44:37.844Z"
+}
