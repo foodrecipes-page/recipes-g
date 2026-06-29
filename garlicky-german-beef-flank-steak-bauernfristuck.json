@@ -1,0 +1,59 @@
+{
+  "slug": "garlicky-german-beef-flank-steak-bauernfristuck",
+  "title": "Bavarian Beef Steak with German Seasoning",
+  "description": "A hearty Bavarian-inspired dish featuring a marinated beef steak seasoned with traditional German spices.",
+  "cuisine": "german",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "German seasoning",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Beef flank steak",
+      "amount": "1.5 lbs"
+    },
+    {
+      "name": "Bauernfristück (Bavarian-style bread)",
+      "amount": "4 slices"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a small bowl, mix together garlic, German seasoning, and 2 tbsp olive oil.",
+    "Rub the marinade mixture onto the beef flank steak, making sure to coat it evenly.",
+    "Let the steak marinate for at least 30 minutes.",
+    "Heat a skillet over medium-high heat. Sear the beef steak for 2-3 minutes per side.",
+    "Transfer the skillet to the preheated oven and cook for an additional 10-12 minutes, or until the steak reaches an internal temperature of 130°F (54°C) for medium-rare.",
+    "Let the steak rest for 5 minutes before slicing it thinly against the grain.",
+    "Serve the sliced beef with a side of Bauernfristück bread and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "german",
+    "bavarian",
+    "steak"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-german-beef-flank-steak-bauernfristuck",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-29T23:14:30.866Z"
+}
