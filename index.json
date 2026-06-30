@@ -5132,16 +5132,16 @@
   },
   {
     "slug": "gentle-chinese-lamb-century-egg-congee",
-    "title": "Gentle Chinese Lamb Century Egg Congee",
+    "title": "Century Egg Congee",
     "tags": [
-      "chinese-food",
-      "comfort-food",
-      "lamb-recipes",
-      "one-pot",
-      "special-occasion"
+      "breakfast",
+      "chinese",
+      "congee",
+      "centuryegg",
+      "lamb"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 150,
+    "totalTimeMin": 30,
     "shard": "g"
   },
   {
@@ -10646,16 +10646,15 @@
   },
   {
     "slug": "golden-roasted-peruvian-chicken-stew",
-    "title": "Golden Roasted Peruvian Chicken Stew",
+    "title": "Peruvian Chicken Stew",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "one-pot-dish",
-      "peruvian-cuisine",
-      "weeknight-meal"
+      "chicken",
+      "peruvian",
+      "stew",
+      "lunch"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 55,
     "shard": "g"
   },
   {
