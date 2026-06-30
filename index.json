@@ -1333,15 +1333,14 @@
   },
   {
     "slug": "garlicky-crisp-thai-wonton-spring-rolls",
-    "title": "Garlicky Crisp Thai Wonton Spring-Rolls",
+    "title": "Crisp Spring Rolls",
     "tags": [
-      "appetizer",
-      "crispy",
-      "garlic",
-      "springrolls",
-      "thaifood"
+      "spring-rolls",
+      "snack",
+      "veggie",
+      "gluten-free"
     ],
-    "cuisine": "Thai",
+    "cuisine": "Asian",
     "totalTimeMin": 25,
     "shard": "g"
   },
@@ -8836,19 +8835,14 @@
   },
   {
     "slug": "glowing-mid-night-saudi-arabian-parmigiano-reggiano-grill",
-    "title": "Glowing Mid-Night Saudi-Arabian Parmigiano-Reggiano Grill",
+    "title": "Saudian Arabian Glowing Skewers",
     "tags": [
-      "dessert",
-      "grill",
-      "italian",
-      "middle-eastern",
-      "midnight-curry",
-      "parmesan",
-      "saudi-arabian",
-      "snack"
+      "saudi arabian",
+      "grilled",
+      "meat"
     ],
-    "cuisine": "Middle Eastern Italian",
-    "totalTimeMin": 30,
+    "cuisine": "saudi arabian",
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
@@ -12547,20 +12541,15 @@
   },
   {
     "slug": "gooey-smoky-fish-stir-fry",
-    "title": "Gooey Smoky Fish Stir-fry",
+    "title": "Smoky Fish Fry",
     "tags": [
-      "gooey",
-      "tangy",
-      "adventurous",
-      "indian",
-      "tamil",
-      "smoky",
       "fish",
-      "stir-fry",
-      "pescatarian"
+      "seafood",
+      "smoky",
+      "fry"
     ],
-    "cuisine": "Indian (Tamil)",
-    "totalTimeMin": 50,
+    "cuisine": "Asian",
+    "totalTimeMin": 22,
     "shard": "g"
   },
   {
@@ -13019,13 +13008,13 @@
   },
   {
     "slug": "gooey-weeknight-italian-speck-pasta",
-    "title": "Gooey Weeknight Italian Speck Pasta",
+    "title": "Weeknight Italian Pasta with Speck",
     "tags": [
-      "high-protein",
       "italian",
-      "one-pan",
-      "weekend-dinner",
-      "weeknight"
+      "pasta",
+      "weeknight",
+      "quick",
+      "easy"
     ],
     "cuisine": "italian",
     "totalTimeMin": 25,
