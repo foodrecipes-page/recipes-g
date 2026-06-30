@@ -1,0 +1,63 @@
+{
+  "slug": "gentle-chinese-lamb-century-egg-congee",
+  "title": "Century Egg Congee",
+  "description": "A traditional Chinese breakfast dish made with century eggs and congee.",
+  "cuisine": "Chinese",
+  "diet": [
+    "breakfast"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Congee",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Century Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Lamb",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Gentle Oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the lamb under cold water and pat dry.",
+    "Heat the gentle oil in a pan over medium heat.",
+    "Sear the lamb until browned on all sides.",
+    "Add 2 cups of water to the pan and bring to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "While the lamb is cooking, cook the congee according to package instructions.",
+    "Once the lamb is cooked, slice it thinly.",
+    "Crack the century egg into a bowl and stir until the yolk and white are well combined.",
+    "Serve the cooked congee topped with the sliced lamb and century egg.",
+    "Optional: add additional seasonings such as soy sauce or scallions to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "chinese",
+    "congee",
+    "centuryegg",
+    "lamb"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gentle-chinese-lamb-century-egg-congee",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T04:39:45.756Z"
+}
