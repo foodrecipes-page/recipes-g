@@ -1,0 +1,89 @@
+{
+  "slug": "golden-glazed-norwegian-salmon-skewers",
+  "title": "Grilled Norwegian Salmon Skewers with Glazed Golden Pineapple",
+  "description": "Tender and flavorful grilled salmon skewers paired with sweet and sticky glazed pineapple, making for a perfect summer dinner.",
+  "cuisine": "Nordic",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian salmon fillets",
+      "amount": "4",
+      "notes": "1 pound each"
+    },
+    {
+      "name": "Golden pineapple",
+      "amount": "1",
+      "notes": "fresh and ripe"
+    },
+    {
+      "name": "Glazed soy sauce",
+      "amount": "1/4 cup",
+      "notes": "sweetened with honey"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "for glaze"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "fresh and peeled"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Skewers",
+      "amount": "8-10",
+      "notes": "wooden or bamboo"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Cut salmon and pineapple into 1-inch pieces.",
+    "3. Thread salmon and pineapple onto skewers, leaving space between each piece.",
+    "4. In a small bowl, whisk together soy sauce, brown sugar, ginger, and garlic.",
+    "5. Brush the glaze mixture onto both sides of the salmon and pineapple.",
+    "6. Season with salt and pepper to taste.",
+    "7. Grill skewers for 8-10 minutes per side, or until salmon is cooked through.",
+    "8. Serve immediately and garnish with fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "salmon",
+    "pineapple",
+    "summer",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-glazed-norwegian-salmon-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T09:02:47.923Z"
+}
