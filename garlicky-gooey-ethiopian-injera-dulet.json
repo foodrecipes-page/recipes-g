@@ -1,0 +1,61 @@
+{
+  "slug": "garlicky-gooey-ethiopian-injera-dulet",
+  "title": "Ethiopian Dulet with Injera",
+  "description": "A traditional Ethiopian dish made with spicy beef and served with a side of sourdough injera.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "beef",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dulet (beef and spice mix)",
+      "amount": "1 lb",
+      "notes": "available at Ethiopian markets"
+    },
+    {
+      "name": "injera (sourdough flatbread)",
+      "amount": "4-6 pieces",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "garlicky butter",
+      "amount": "2 tbsp",
+      "notes": "see notes below"
+    },
+    {
+      "name": "goeey red onions",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Cook dulet according to package instructions.",
+    "Warm injera by wrapping it in a damp cloth and microwaving for 20-30 seconds.",
+    "Melt garlicky butter in a pan over medium heat.",
+    "Sauté goeey red onions in garlicky butter until caramelized.",
+    "Assemble dish by placing cooked dulet on top of injera and serving with sautéed onions.",
+    "Repeat with remaining injera and dulet."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "beef",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-gooey-ethiopian-injera-dulet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T12:32:57.038Z"
+}
