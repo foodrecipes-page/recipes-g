@@ -1,0 +1,86 @@
+{
+  "slug": "golden-roasted-peruvian-chicken-stew",
+  "title": "Peruvian Chicken Stew",
+  "description": "A flavorful and hearty stew originating from Peru, made with tender chicken, aromatic spices, and vegetables.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "golden potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "roasted red peppers",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Peruvian aji amarillo pepper",
+      "amount": "2 teaspoons",
+      "notes": "or substitute with jalapeno"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups",
+      "notes": "beef or vegetable broth"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Add the chicken and cook until browned on both sides, about 5-6 minutes.",
+    "Remove the chicken from the pot and set aside.",
+    "Add the onion, garlic, and aji amarillo pepper to the pot and cook until the onion is translucent.",
+    "Add the potatoes, roasted red peppers, and stew to the pot.",
+    "Return the chicken to the pot and bring the stew to a boil.",
+    "Reduce the heat to low and simmer, covered, for 30-40 minutes, or until the chicken is cooked through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "peruvian",
+    "stew",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-roasted-peruvian-chicken-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T04:10:40.788Z"
+}
