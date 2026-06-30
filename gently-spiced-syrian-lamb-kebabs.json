@@ -1,0 +1,88 @@
+{
+  "slug": "gently-spiced-syrian-lamb-kebabs",
+  "title": "Syrian Lamb Kebabs",
+  "description": "Deliciously spiced lamb kebabs from Syria, perfect for a quick dinner or meal prep.",
+  "cuisine": "Syrian",
+  "diet": [
+    "meat",
+    "grill"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch cubes",
+      "amount": "1 pound",
+      "notes": "preferably with some fat"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Gentle spice blend (or similar)",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Syrian allspice",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Pita bread (for serving)",
+      "amount": "4-6 pita bread",
+      "notes": ""
+    },
+    {
+      "name": "Tzatziki sauce (for serving)",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together lamb, olive oil, spice blend, allspice, garlic, salt, and pepper.",
+    "Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Preheat grill to medium-high heat.",
+    "Thread lamb onto skewers, leaving a small space between each piece.",
+    "Grill the kebabs for 8-10 minutes per side, or until cooked to your desired level of doneness.",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Serve with pita bread and tzatziki sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "syrian",
+    "lamb",
+    "kebabs",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gently-spiced-syrian-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T08:57:20.885Z"
+}
