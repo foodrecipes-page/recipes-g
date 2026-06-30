@@ -1,0 +1,62 @@
+{
+  "slug": "garlicky-creamy-filipino-garlic-stir-fry",
+  "title": "Filipino Stir Fry",
+  "description": "Quick and flavorful stir-fry dish made with garlic and your choice of protein.",
+  "cuisine": "filipino",
+  "diet": [
+    "gluten-free",
+    "pescetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "filipino",
+      "amount": "1 cup mixed vegetables"
+    },
+    {
+      "name": "garlicky",
+      "amount": "1/4 cup stir-fry sauce"
+    },
+    {
+      "name": "stir",
+      "amount": "2 cups cooked rice"
+    },
+    {
+      "name": "fry",
+      "amount": "1 pound cooked shrimp"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet or wok over medium-high heat.",
+    "Add the garlic and stir-fry until fragrant, about 1 minute.",
+    "Add the mixed vegetables and cook until tender-crisp, about 3-4 minutes.",
+    "Stir in the stir-fry sauce and cook for an additional 1-2 minutes.",
+    "Serve the vegetables over the cooked rice and top with cooked shrimp.",
+    "Garnish with chopped green onions and a sprinkle of patis, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "stir-fry",
+    "shrimp",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-creamy-filipino-garlic-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T07:50:20.865Z"
+}
