@@ -1,0 +1,59 @@
+{
+  "slug": "gingered-crunchy-scottish-raspberry-eton-mess",
+  "title": "Scottish Raspberry Mess",
+  "description": "A traditional Scottish dessert made with raspberries, whipped cream, and crunchy biscuits.",
+  "cuisine": "Scottish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Raspberry",
+      "amount": "250g"
+    },
+    {
+      "name": "Eton Mess Biscuits",
+      "amount": "120g"
+    },
+    {
+      "name": "Whipped cream",
+      "amount": "300ml"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whip the whipped cream until soft peaks form.",
+    "2. Add the granulated sugar and whip until stiff peaks form.",
+    "3. Crush the Eton Mess biscuits into fine crumbs.",
+    "4. Fold the crushed biscuits into the whipped cream mixture.",
+    "5. Stir in the raspberries.",
+    "6. Spoon the mixture into individual serving dishes or glasses.",
+    "7. Chill in the refrigerator for at least 30 minutes.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "raspberry",
+    "whipped cream",
+    "eton mess"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gingered-crunchy-scottish-raspberry-eton-mess",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T08:39:25.251Z"
+}
