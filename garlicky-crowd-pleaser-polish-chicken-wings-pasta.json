@@ -1,0 +1,61 @@
+{
+  "slug": "garlicky-crowd-pleaser-polish-chicken-wings-pasta",
+  "title": "Garlicky Chicken and Pasta",
+  "description": "A crowd-pleasing dish that combines the flavors of chicken and garlic with the comfort of pasta.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Pleaser Chicken Wings",
+      "amount": "4 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Polish Pasta",
+      "amount": "1 lb (12 oz)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Season the chicken wings with salt and pepper.",
+    "3. Heat 2 tbsp of olive oil in a large skillet over medium-high heat.",
+    "4. Add the chicken wings to the skillet and cook until browned, about 5 minutes.",
+    "5. Transfer the chicken wings to a baking sheet and bake for 20-25 minutes, or until cooked through.",
+    "6. While the chicken is cooking, cook the Polish Pasta according to package instructions.",
+    "7. In a large skillet, sauté minced garlic until fragrant.",
+    "8. Add the cooked chicken wings to the skillet and toss with garlic.",
+    "9. Combine the cooked pasta and garlic chicken in a large serving dish.",
+    "10. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "chicken",
+    "pasta",
+    "garlic"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-crowd-pleaser-polish-chicken-wings-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T09:02:25.438Z"
+}
