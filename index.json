@@ -1608,19 +1608,15 @@
   },
   {
     "slug": "garlicky-crumbly-filipino-avocado-salad",
-    "title": "Garlicky Crumbly Filipino Avocado Salad",
+    "title": "Filipino-Style Crispy Chicken Salad",
     "tags": [
+      "filipino",
+      "chicken",
       "salad",
-      "avocado",
-      "garlic",
-      "fruit",
-      "light",
-      "snack",
-      "vegetarian",
-      "filipino"
+      "avocado"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 15,
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
@@ -2326,15 +2322,15 @@
   },
   {
     "slug": "garlicky-flaky-hail-crumble",
-    "title": "Garlicky Flaky Hail Crumble",
+    "title": "Garlicky Crumble Delight",
     "tags": [
-      "garlic",
-      "flaky",
-      "egyptian",
-      "raw-friendly"
+      "garlicky",
+      "crumble",
+      "pastry",
+      "savory"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 5,
+    "cuisine": "American",
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {
@@ -5961,18 +5957,14 @@
   },
   {
     "slug": "gently-glazed-ethiopian-lentils-tandoor",
-    "title": "Gently Glazed Ethiopian Lentils Tandoor",
+    "title": "Glazed Tandoor Lentils",
     "tags": [
-      "caramel-sauce",
-      "ethiopian",
-      "indian-inspired",
       "lentils",
-      "romantic-dinner",
-      "tandoor",
-      "vegetarian"
+      "ethiopian",
+      "glazed"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
@@ -7670,18 +7662,15 @@
   },
   {
     "slug": "glazed-algerian-tuna-tagine",
-    "title": "Glazed Algerian Tuna Tagine",
+    "title": "Algerian Tuna Tagine",
     "tags": [
       "algerian",
-      "couscous",
-      "glazed",
-      "nutty",
-      "pescatarian",
-      "seafood",
-      "tagine"
+      "tuna",
+      "tagine",
+      "north-african"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 35,
+    "cuisine": "North African",
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
