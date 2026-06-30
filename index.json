@@ -2692,17 +2692,14 @@
   },
   {
     "slug": "garlicky-gooey-ethiopian-injera-dulet",
-    "title": "Garlicky Gooey Ethiopian Injera Dulet",
+    "title": "Ethiopian Dulet with Injera",
     "tags": [
-      "breakfast",
-      "gluten-free",
-      "lunch",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "ethiopian",
+      "beef",
+      "spicy"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 45,
     "shard": "g"
   },
   {
@@ -4558,17 +4555,15 @@
   },
   {
     "slug": "garlicky-ukrainian-fish-grill",
-    "title": "Garlicky Ukrainian Fish Grill",
+    "title": "Garlicky Grilled Fish",
     "tags": [
       "fish",
-      "fodmap-friendly",
       "grill",
-      "high-protein",
-      "ukrainian",
-      "weeknight"
+      "garlic",
+      "ukrainian"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 27,
+    "totalTimeMin": 18,
     "shard": "g"
   },
   {
@@ -12140,15 +12135,14 @@
   },
   {
     "slug": "gooey-middle-eastern-dum-stir-fry",
-    "title": "Gooey Middle Eastern Dum Stir-fry",
+    "title": "Eastern Dum Stir Fry",
     "tags": [
-      "goey-middle-eastern-dum-stir-fry",
-      "date-night-exotic-dish",
-      "light-rum-inspiration",
-      "gluten-free-friendly"
+      "eastern-dum-stir-fry",
+      "middle-eastern",
+      "vegetarian"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 40,
+    "cuisine": "middle-eastern",
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
