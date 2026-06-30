@@ -1,0 +1,72 @@
+{
+  "slug": "gooey-smoky-fish-stir-fry",
+  "title": "Smoky Fish Fry",
+  "description": "A simple and flavorful fish dish cooked with smoky flavor and gooey texture. This recipe is perfect for a quick dinner or lunch.",
+  "cuisine": "Asian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish Fillets",
+      "amount": "4",
+      "notes": "any firm white fish works well"
+    },
+    {
+      "name": "Gooey Sauce",
+      "amount": "1/2 cup",
+      "notes": "see below for gooey sauce recipe"
+    },
+    {
+      "name": "Smoky Stir Fry",
+      "amount": "2 tbsp",
+      "notes": "see below for smoky stir fry recipe"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Season the fish fillets with salt and pepper.",
+    "Add the fish to the skillet and cook for 3-4 minutes per side, or until cooked through.",
+    "While the fish is cooking, heat the smoky stir fry in a small saucepan over low heat.",
+    "Stir in the gooey sauce and heat until warmed through.",
+    "Serve the fish topped with the smoky stir fry and gooey sauce.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "seafood",
+    "smoky",
+    "fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-smoky-fish-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T12:42:15.214Z"
+}
