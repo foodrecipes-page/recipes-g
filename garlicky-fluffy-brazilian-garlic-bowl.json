@@ -1,0 +1,83 @@
+{
+  "slug": "garlicky-fluffy-brazilian-garlic-bowl",
+  "title": "Brazilian Garlic Bowl",
+  "description": "A flavorful and nutritious bowl filled with grilled meats, vegetables, and a hint of Brazilian spices.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fluffy rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Brazilian sausage",
+      "amount": "1 pound",
+      "notes": "Grill until cooked through"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "2",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Fluffy",
+      "amount": "to taste"
+    },
+    {
+      "name": "Bowl",
+      "amount": "1",
+      "notes": "Large serving bowl"
+    },
+    {
+      "name": "Garlicky sauce",
+      "amount": "2 tablespoons",
+      "notes": "Store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Grill the Brazilian sausage for 5-7 minutes per side, or until cooked through.",
+    "While the sausage is cooking, grill the bell peppers and onion for 5-7 minutes per side, or until tender.",
+    "Slice the grilled sausage and set aside.",
+    "In a large serving bowl, combine the cooked fluffy rice, sliced bell peppers, and sliced onion.",
+    "Top the rice mixture with the sliced grilled sausage.",
+    "Drizzle the garlicky sauce over the top of the sausage.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "grilled",
+    "sausage",
+    "rice",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-fluffy-brazilian-garlic-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T10:55:09.129Z"
+}
