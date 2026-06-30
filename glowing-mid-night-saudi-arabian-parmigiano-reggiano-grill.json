@@ -1,0 +1,78 @@
+{
+  "slug": "glowing-mid-night-saudi-arabian-parmigiano-reggiano-grill",
+  "title": "Saudian Arabian Glowing Skewers",
+  "description": "A flavorful and healthy dish originating from Saudi Arabia. Marinated meat is grilled to perfection, served with a side of crunchy vegetables.",
+  "cuisine": "saudi arabian",
+  "diet": [
+    "gluten-free",
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Night Arabian Meat",
+      "amount": "500g",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Glowing Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For marinating"
+    },
+    {
+      "name": "Mid Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Reggiano Cheese",
+      "amount": "1/4 cup",
+      "notes": "Crumbed"
+    },
+    {
+      "name": "Parmigiano Cheese",
+      "amount": "1/4 cup",
+      "notes": "Crumbed"
+    },
+    {
+      "name": "Grill Skewers",
+      "amount": "10-12",
+      "notes": "For grilling"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together glowing olive oil, salt, and a pinch of black pepper.",
+    "2. Add the night arabian meat to the bowl and mix well to coat.",
+    "3. Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "4. Preheat the grill to medium-high heat.",
+    "5. Thread the marinated meat onto the grill skewers, leaving a little space between each piece.",
+    "6. Grill the skewers for 8-10 minutes per side, or until cooked through.",
+    "7. Meanwhile, brush the mid onion with glowing olive oil and grill for 2-3 minutes per side, or until caramelized.",
+    "8. Serve the grilled skewers with the grilled mid onion and crumbled reggiano and parmigiano cheese."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi arabian",
+    "grilled",
+    "meat"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/glowing-mid-night-saudi-arabian-parmigiano-reggiano-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T12:46:35.285Z"
+}
