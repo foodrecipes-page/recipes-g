@@ -1,0 +1,78 @@
+{
+  "slug": "glazed-algerian-tuna-tagine",
+  "title": "Algerian Tuna Tagine",
+  "description": "A traditional Algerian-inspired dish made with tuna, glazed carrots, and a blend of spices.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tuna (1 can, drained and flaked)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Glazed Carrots (2 medium)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Algerian Spices (1 tsp)",
+      "amount": "1 teaspoon",
+      "notes": "A blend of cumin, coriander, and cinnamon"
+    },
+    {
+      "name": "Olive Oil (2 tbsp)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion (1 medium)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Garlic (3 cloves)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro (chopped, for garnish)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large saucepan over medium heat.",
+    "Add the onion and garlic and cook until softened, about 5 minutes.",
+    "Add the Algerian Spices and cook for 1 minute.",
+    "Add the flaked tuna and cook until heated through.",
+    "Add the glazed carrots and cook for an additional 2-3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped cilantro and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "tuna",
+    "tagine",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/glazed-algerian-tuna-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T03:01:01.710Z"
+}
