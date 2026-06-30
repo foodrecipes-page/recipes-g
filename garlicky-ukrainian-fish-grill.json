@@ -1,0 +1,73 @@
+{
+  "slug": "garlicky-ukrainian-fish-grill",
+  "title": "Garlicky Grilled Fish",
+  "description": "A simple Ukrainian-inspired dish featuring grilled fish with a garlicky twist. Perfect for a light meal or snack.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish fillets (salmon or tilapia)",
+      "amount": "4",
+      "notes": "Fresh and skin removed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": "Extra virgin"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season fish fillets with salt and black pepper.",
+    "In a small bowl, mix together minced garlic and lemon juice.",
+    "Brush the garlic-lemon mixture onto both sides of the fish fillets.",
+    "Brush olive oil onto the grill grates.",
+    "Grill the fish for 4-5 minutes per side, or until cooked through.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "grill",
+    "garlic",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-ukrainian-fish-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T12:34:29.923Z"
+}
