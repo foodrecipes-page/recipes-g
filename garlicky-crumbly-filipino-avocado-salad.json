@@ -1,0 +1,67 @@
+{
+  "slug": "garlicky-crumbly-filipino-avocado-salad",
+  "title": "Filipino-Style Crispy Chicken Salad",
+  "description": "A twist on the classic chicken salad recipe, this Filipino-inspired dish combines crispy fried chicken with fresh avocado and crunchy salad. A perfect fusion of flavors and textures.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "garlicky chicken",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "crumbly breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": "preferably Panko"
+    },
+    {
+      "name": "filipino-style fried chicken seasoning",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "ripe avocado",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "mixed greens salad",
+      "amount": "4 cups",
+      "notes": "such as romaine, arugula, and red leaf lettuce"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together chicken pieces, breadcrumbs, and fried chicken seasoning.",
+    "Heat about 1/2-inch of oil in a deep frying pan over medium-high heat.",
+    "Fry chicken pieces until golden brown and crispy, about 5-7 minutes.",
+    "Drain excess oil on paper towels.",
+    "In a separate bowl, mix together diced avocado and mixed greens salad.",
+    "To assemble the salad, place a bed of mixed greens on a plate, followed by crispy fried chicken pieces.",
+    "Top with diced avocado and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "chicken",
+    "salad",
+    "avocado"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-crumbly-filipino-avocado-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T02:51:31.423Z"
+}
