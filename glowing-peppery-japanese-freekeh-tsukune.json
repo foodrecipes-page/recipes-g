@@ -1,0 +1,67 @@
+{
+  "slug": "glowing-peppery-japanese-freekeh-tsukune",
+  "title": "Glowing Tsukune with Japanese Pepper and Freekeh",
+  "description": "A unique and flavorful dish combining the savory taste of tsukune with the spicy kick of Japanese pepper, all served atop a bed of nutty freekeh.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tsukune",
+      "amount": "4",
+      "notes": "Japanese-style meatballs"
+    },
+    {
+      "name": "Japanese pepper",
+      "amount": "2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "freekeh",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "glowing",
+      "amount": "1 tsp",
+      "notes": "glowing seasoning"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cook the freekeh according to package instructions.",
+    "In a pan, heat 1 tsp of glowing seasoning over medium heat.",
+    "Add the tsukune and cook until browned, about 5 minutes.",
+    "Add the Japanese pepper and cook for an additional minute.",
+    "Serve the tsukune and freekeh hot, garnished with soy sauce if desired.",
+    "Enjoy your glowing tsukune with Japanese pepper and freekeh!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/glowing-peppery-japanese-freekeh-tsukune",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T00:08:04.025Z"
+}
