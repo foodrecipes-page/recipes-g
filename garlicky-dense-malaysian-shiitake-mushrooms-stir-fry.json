@@ -1,0 +1,68 @@
+{
+  "slug": "garlicky-dense-malaysian-shiitake-mushrooms-stir-fry",
+  "title": "Malaysian Stir-Fried Shiitake Mushrooms",
+  "description": "A flavorful and savory Malaysian-inspired stir-fry dish made with shiitake mushrooms and a hint of garlicky goodness. Perfect for a quick and easy dinner.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shiitake mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlicky stir-fry sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Dense soy sauce",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Mushrooms oil",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "2 cups",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a wok or large skillet over medium-high heat.",
+    "Add the sliced mushrooms and cook until they start to brown, about 2-3 minutes.",
+    "Add the sliced shiitake mushrooms and cook for an additional 2-3 minutes.",
+    "Add the garlicky stir-fry sauce, dense soy sauce, and mushrooms oil. Stir-fry for 1-2 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot over steamed rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "mushroom",
+    "stir-fry",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-dense-malaysian-shiitake-mushrooms-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T01:17:46.822Z"
+}
