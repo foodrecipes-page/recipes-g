@@ -1157,15 +1157,15 @@
   },
   {
     "slug": "garlicky-creamy-filipino-garlic-stir-fry",
-    "title": "Garlicky Creamy Filipino Garlic Stir-fry",
+    "title": "Filipino Stir Fry",
     "tags": [
-      "garlic",
-      "creaminess",
-      "brown-sugar",
-      "baked-chicken"
+      "filipino",
+      "stir-fry",
+      "shrimp",
+      "vegetarian"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 45,
+    "cuisine": "filipino",
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
@@ -6916,17 +6916,14 @@
   },
   {
     "slug": "gingered-crunchy-scottish-raspberry-eton-mess",
-    "title": "Gingered Crunchy Scottish Raspberry Eton Mess",
+    "title": "Scottish Raspberry Mess",
     "tags": [
-      "crunchy",
       "dessert",
-      "eton-mess",
-      "ginger",
-      "quick",
-      "scottish",
-      "vegan"
+      "raspberry",
+      "whipped cream",
+      "eton mess"
     ],
-    "cuisine": "British (Scottish)",
+    "cuisine": "Scottish",
     "totalTimeMin": 15,
     "shard": "g"
   },
@@ -14301,17 +14298,14 @@
   },
   {
     "slug": "green-cardamom-creamy-lazy-sunday-pescatarian-dish",
-    "title": "Green Cardamom Creamy Lazy Sunday Pescatarian Dish",
+    "title": "Sunday Green Curry",
     "tags": [
-      "lazy-sunday",
-      "sour",
-      "velvety",
-      "mexican",
-      "green-cardamom",
-      "pescatarian"
+      "green-curry",
+      "thai-curry",
+      "seafood-curry"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 30,
+    "cuisine": "thai",
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {
