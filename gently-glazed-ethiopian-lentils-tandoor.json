@@ -1,0 +1,87 @@
+{
+  "slug": "gently-glazed-ethiopian-lentils-tandoor",
+  "title": "Glazed Tandoor Lentils",
+  "description": "A flavorful and nutritious dish that combines the tender texture of lentils with the sweetness of a glaze, inspired by Ethiopian cuisine.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red Lentils",
+      "amount": "1 cup",
+      "notes": "Rinsed and drained"
+    },
+    {
+      "name": "Tandoor Spice",
+      "amount": "2 tsp",
+      "notes": "Available in most Indian grocery stores"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Grated"
+    },
+    {
+      "name": "Glazed Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "Available in most Asian grocery stores"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "Vegetable or chicken broth is also acceptable"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the grated ginger and cook for 1 minute.",
+    "Add the red lentils, tandoor spice, salt, and black pepper. Stir to combine.",
+    "Add the water and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer for 20-25 minutes, or until the lentils are tender.",
+    "While the lentils are cooking, prepare the glaze by whisking together the glazed soy sauce and honey.",
+    "Once the lentils are done, stir in the glaze and cook for an additional 2-3 minutes.",
+    "Serve the lentils hot, garnished with a drizzle of additional glaze if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentils",
+    "ethiopian",
+    "glazed"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 55,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gently-glazed-ethiopian-lentils-tandoor",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T02:35:13.442Z"
+}
