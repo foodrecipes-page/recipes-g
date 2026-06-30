@@ -1,0 +1,82 @@
+{
+  "slug": "gooey-middle-eastern-dum-stir-fry",
+  "title": "Eastern Dum Stir Fry",
+  "description": "A savory and spicy stir fry dish made with eastern dumplings and middle eastern spices, served with gooey sauce.",
+  "cuisine": "middle-eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eastern dumplings",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "middle eastern spices",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "stir-fry sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fry oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "dum sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of fry oil in a large pan over medium-high heat.",
+    "Add onion and garlic and sauté until softened.",
+    "Add middle eastern spices and stir well.",
+    "Add eastern dumplings and cook until lightly browned.",
+    "Add stir-fry sauce and dum sauce and stir well.",
+    "Reduce heat to low and simmer for 5 minutes.",
+    "Garnish with chopped cilantro.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "eastern-dum-stir-fry",
+    "middle-eastern",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-middle-eastern-dum-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T12:23:40.302Z"
+}
