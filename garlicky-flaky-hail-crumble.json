@@ -1,0 +1,56 @@
+{
+  "slug": "garlicky-flaky-hail-crumble",
+  "title": "Garlicky Crumble Delight",
+  "description": "A savory pastry filled with a garlicky crumble topping, perfect for a quick dinner or snack.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flaky pastry dough",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "garlicky crumble",
+      "amount": "1 cup",
+      "notes": "see below for recipe"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the pastry dough to a thickness of about 1/8 inch.",
+    "Transfer the dough to a 9-inch tart pan with a removable bottom.",
+    "In a separate bowl, mix together the garlicky crumble ingredients.",
+    "Spread the crumble mixture evenly over the pastry dough.",
+    "Bake for 20-25 minutes or until the crust is golden brown and the topping is crispy.",
+    "Remove from oven and sprinkle with salt to taste.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "garlicky",
+    "crumble",
+    "pastry",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-flaky-hail-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T02:26:52.786Z"
+}
