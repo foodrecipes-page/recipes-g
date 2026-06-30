@@ -2382,15 +2382,13 @@
   },
   {
     "slug": "garlicky-fluffy-brazilian-garlic-bowl",
-    "title": "Garlicky Fluffy Brazilian Garlic Bowl",
+    "title": "Brazilian Garlic Bowl",
     "tags": [
       "brazilian",
-      "fluffy",
-      "garlicky",
-      "kid-friendly",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "grilled",
+      "sausage",
+      "rice",
+      "vegetarian"
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 35,
@@ -6644,16 +6642,15 @@
   },
   {
     "slug": "giant-black-cardamom-pods-tunisian-cardamom-tagine",
-    "title": "Giant Black Cardamom Pods Tunisian Cardamom Tagine",
+    "title": "Tunisian Cardamom Chicken Tagine",
     "tags": [
-      "gluten-free",
-      "north-african",
-      "one-pan",
-      "stovetop",
-      "vegan"
+      "chicken",
+      "cardamom",
+      "tagine",
+      "north-african"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 45,
+    "cuisine": "North African",
+    "totalTimeMin": 60,
     "shard": "g"
   },
   {
