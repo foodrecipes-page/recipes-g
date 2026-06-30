@@ -2060,16 +2060,16 @@
   },
   {
     "slug": "garlicky-dense-malaysian-shiitake-mushrooms-stir-fry",
-    "title": "Garlicky Dense Malaysian Shiitake Mushrooms Stir-fry",
+    "title": "Malaysian Stir-Fried Shiitake Mushrooms",
     "tags": [
-      "garlicky",
-      "dense",
       "malaysian",
-      "meal-prep",
-      "mediterranean-friendly"
+      "mushroom",
+      "stir-fry",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
@@ -8254,17 +8254,14 @@
   },
   {
     "slug": "glorious-golden-filipino-vegetable-lumpia",
-    "title": "Glorious Golden Filipino Vegetable Lumpia",
+    "title": "Filipino Lumpia Recipe",
     "tags": [
-      "easy-to-make",
-      "filipino-food",
-      "lumpia",
-      "party-food",
+      "filipino",
       "snack",
       "vegetarian"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 50,
+    "cuisine": "filipino",
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
@@ -8896,17 +8893,14 @@
   },
   {
     "slug": "glowing-peppery-japanese-freekeh-tsukune",
-    "title": "Glowing Peppery Japanese Freekeh Tsukune",
+    "title": "Glowing Tsukune with Japanese Pepper and Freekeh",
     "tags": [
-      "flambe",
-      "freekeh-recipes",
+      "japanese",
       "gluten-free",
-      "japanese-cuisine",
-      "one-pot",
       "vegetarian"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 25,
+    "totalTimeMin": 30,
     "shard": "g"
   },
   {
