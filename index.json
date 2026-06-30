@@ -1507,16 +1507,15 @@
   },
   {
     "slug": "garlicky-crowd-pleaser-polish-chicken-wings-pasta",
-    "title": "Garlicky Polish Chicken Wings Pasta",
+    "title": "Garlicky Chicken and Pasta",
     "tags": [
+      "italian",
       "chicken",
-      "one-pan",
       "pasta",
-      "polish",
-      "weeknight"
+      "garlic"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 50,
+    "cuisine": "Italian",
+    "totalTimeMin": 60,
     "shard": "g"
   },
   {
@@ -6476,17 +6475,15 @@
   },
   {
     "slug": "gently-spiced-syrian-lamb-kebabs",
-    "title": "Gently Spiced Syrian Lamb Kebabs",
+    "title": "Syrian Lamb Kebabs",
     "tags": [
-      "coconut-cream",
+      "syrian",
+      "lamb",
       "kebabs",
-      "lamb-recipes",
-      "middle-eastern",
-      "ovo-vegetarian",
-      "syrian-cuisine"
+      "grilled"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
@@ -10162,17 +10159,16 @@
   },
   {
     "slug": "golden-glazed-norwegian-salmon-skewers",
-    "title": "Golden Glazed Norwegian Salmon Skewers",
+    "title": "Grilled Norwegian Salmon Skewers with Glazed Golden Pineapple",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "lazy-susan-spinner",
-      "norwegian-cuisine",
-      "seafood",
-      "spicy"
+      "grilled",
+      "salmon",
+      "pineapple",
+      "summer",
+      "dinner"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 32,
+    "cuisine": "Nordic",
+    "totalTimeMin": 36,
     "shard": "g"
   },
   {
