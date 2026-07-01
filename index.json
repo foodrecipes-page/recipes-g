@@ -5704,17 +5704,15 @@
   },
   {
     "slug": "gentle-yeasty-filipino-wrappers-spring-rolls",
-    "title": "Gentle Yeasty Filipino Spring Rolls",
+    "title": "Filipino Spring Rolls",
     "tags": [
-      "deep-fried",
-      "dinner-ideas",
-      "filipino-food",
-      "snack-ideas",
-      "vegetarian-friendly",
-      "yeast-based"
+      "filipino",
+      "snack",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "g"
   },
   {
@@ -5950,16 +5948,16 @@
   },
   {
     "slug": "gently-glazed-indian-lentil-tagine",
-    "title": "Gently Glazed Indian Lentil Tagine",
+    "title": "Spiced Indian Lentil Tagine",
     "tags": [
-      "clay-pot-cooking",
-      "glazed-dishes",
-      "indian-cuisine",
-      "lentil-recipes",
-      "vegan-dinner"
+      "indian",
+      "lentil",
+      "stew",
+      "vegetarian",
+      "easy-to-make"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {
@@ -9626,18 +9624,16 @@
   },
   {
     "slug": "golden-crispy-canadian-italian-sausage-wrap",
-    "title": "Golden Crispy Canadian Italian Sausage Wrap",
+    "title": "Italian Sausage Wrap",
     "tags": [
-      "canadian-cuisine",
-      "comfort-food",
-      "crispy",
-      "high-protein",
-      "italian-sausage",
-      "one-pan",
-      "pandan-leaf"
+      "italian",
+      "sausage",
+      "wrap",
+      "lunch",
+      "easy"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 45,
+    "cuisine": "italian",
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
