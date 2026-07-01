@@ -1,0 +1,80 @@
+{
+  "slug": "gooey-floral-malaysian-tofu-curry",
+  "title": "Malaysian Tofu Curry",
+  "description": "A sweet and savory curry dish featuring marinated tofu in a floral and spicy sauce. Serve over steamed rice or noodles for a satisfying meal.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Gooey Palm Sugar",
+      "amount": "2 tbsp",
+      "notes": "or substitute with brown sugar"
+    },
+    {
+      "name": "Floral Curry Powder",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Malaysian Red Curry Paste",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Marinate the tofu in a mixture of 1 tsp of curry powder and 1 tbsp of palm sugar for at least 30 minutes.",
+    "Heat 1 tbsp of coconut oil in a pan over medium heat. Remove the tofu from the marinade, allowing any excess to drip off.",
+    "Cook the tofu until golden brown on all sides, about 5-7 minutes.",
+    "Add the remaining 1 tsp of curry powder and cook for 1 minute.",
+    "Add the red curry paste and cook for 1 minute, stirring constantly.",
+    "Pour in the vegetable broth and bring to a simmer.",
+    "Reduce the heat to low and let the curry simmer for 10-15 minutes, or until the sauce has thickened.",
+    "Stir in the remaining 1 tbsp of palm sugar and season with salt to taste.",
+    "Serve the curry over steamed rice or noodles, garnished with fresh cilantro.",
+    "Garnish with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "curry",
+    "tofu",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-floral-malaysian-tofu-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T14:40:37.202Z"
+}
