@@ -1,0 +1,86 @@
+{
+  "slug": "garlicky-and-snappy-mediterranean-lamb-kidney-dumplings",
+  "title": "Mediterranean Lamb Dumplings",
+  "description": "A hearty and flavorful dish featuring lamb dumplings in a rich mediterranean sauce.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "250g",
+      "notes": "ground"
+    },
+    {
+      "name": "dumplings",
+      "amount": "8-10 pieces",
+      "notes": null
+    },
+    {
+      "name": "garlicky olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "and lemon juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "snappy fresh parsley",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "mediterranean seasonings",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "kidney (for sauce)",
+      "amount": "150g",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. In a large pan, heat the garlicky olive oil over medium heat.",
+    "3. Add the ground lamb and cook, breaking it up with a spoon, until browned.",
+    "4. Add the lemon juice, parsley, and mediterranean seasonings to the lamb. Season with salt and pepper to taste.",
+    "5. Bring the mixture to a simmer and let cook for 5 minutes.",
+    "6. Wrap each dumpling in a piece of parchment paper and steam over boiling water for 10 minutes.",
+    "7. Add the cooked dumplings to the lamb mixture and cook for an additional 2 minutes.",
+    "8. Meanwhile, puree the kidney in a blender or food processor until smooth.",
+    "9. Transfer the kidney puree to the lamb mixture and stir to combine.",
+    "10. Remove the pan from the heat and let it cool slightly.",
+    "11. Serve the dumplings hot, topped with the rich and creamy kidney sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "dumplings",
+    "mediterranean",
+    "greek"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-and-snappy-mediterranean-lamb-kidney-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T15:08:11.318Z"
+}
