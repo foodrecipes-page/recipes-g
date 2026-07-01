@@ -5870,17 +5870,19 @@
   },
   {
     "slug": "gently-crisp-australian-doraji-skewers",
-    "title": "Gently Crisp Australian Doraji Skewers",
+    "title": "Grilled Doraji Skewers with Australian Slaw",
     "tags": [
+      "grilled",
+      "skewers",
+      "doraji",
       "australian",
-      "crunchy",
-      "fun",
-      "kid-friendly",
-      "unique",
-      "vegetarian"
+      "slaw",
+      "summer",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 30,
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
