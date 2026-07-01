@@ -1,0 +1,84 @@
+{
+  "slug": "glassy-jelly-uruguayan-oats-bake",
+  "title": "Uruguayan Glassy Oat Bake",
+  "description": "A unique dessert combining uruguayan flavors with glassy and jelly ingredients, baked to perfection with oats.",
+  "cuisine": "uruguayan",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Uruguayan sugar",
+      "amount": "1 1/2 cups",
+      "notes": null
+    },
+    {
+      "name": "Glassy honey",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Jelly beans",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Rolled oats",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Large eggs",
+      "amount": "2",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C).",
+    "In a large bowl, whisk together the Uruguayan sugar, baking powder, and salt.",
+    "In a separate bowl, whisk together the Glassy honey, unsalted butter, and large eggs.",
+    "Add the Jelly beans to the wet ingredients and mix until well combined.",
+    "Gradually add the dry ingredients to the wet ingredients and mix until a dough forms.",
+    "Stir in the rolled oats until well combined.",
+    "Pour the dough into a greased 9x13 inch baking dish.",
+    "Bake for 35-40 minutes or until a toothpick inserted in the center comes out clean.",
+    "Remove from the oven and let cool for 10 minutes.",
+    "Cut into bars and serve warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "glassy",
+    "jelly",
+    "oat",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 50,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/glassy-jelly-uruguayan-oats-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T15:14:56.258Z"
+}
