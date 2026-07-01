@@ -1,0 +1,80 @@
+{
+  "slug": "gently-woodfired-mediterranean-rhubarb-bake",
+  "title": "Woodfired Rhubarb Tarte with Mediterranean Twist",
+  "description": "A sweet and tangy dessert that combines the flavors of the Mediterranean with the sweetness of woodfired rhubarb.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Rhubarb",
+      "amount": "2 cups, sliced"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Almond flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Woodfired breadcrumbs",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat woodfired oven to 400°F (200°C).",
+    "In a bowl, mix together yogurt, honey, thyme, and salt.",
+    "In a separate bowl, mix together almond flour and breadcrumbs.",
+    "Add sliced rhubarb to the yogurt mixture and toss to coat.",
+    "Roll out the almond flour mixture to a thickness of 1/8 inch.",
+    "Place the dough in a 9-inch tart pan with a removable bottom.",
+    "Arrange the rhubarb mixture on top of the dough, leaving a 1-inch border around the edges.",
+    "Drizzle with olive oil and sprinkle with woodfired breadcrumbs.",
+    "Bake for 35-40 minutes, or until the crust is golden brown and the rhubarb is tender.",
+    "Let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "rhubarb",
+    "mediterranean",
+    "woodfired",
+    "dessert",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gently-woodfired-mediterranean-rhubarb-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T15:01:29.152Z"
+}
