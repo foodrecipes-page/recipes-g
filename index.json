@@ -4056,16 +4056,16 @@
   },
   {
     "slug": "garlicky-silky-mediterranean-eggplant-stifado",
-    "title": "Garlicky Silky Mediterranean Eggplant Stifado",
+    "title": "Greek Eggplant Stifado",
     "tags": [
-      "flambe",
-      "high-fiber",
-      "mediterranean",
-      "post-workout",
-      "tamasic-friendly"
+      "greek",
+      "eggplant",
+      "stifado",
+      "vegetarian",
+      "mediterranean"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 40,
+    "cuisine": "greek",
+    "totalTimeMin": 20,
     "shard": "g"
   },
   {
@@ -5880,17 +5880,15 @@
   },
   {
     "slug": "gently-crisp-syrian-basmati-rice-pilaf",
-    "title": "Gently Crisp Syrian Basmati Rice Pilaf",
+    "title": "Syrian Pilaf with Crispy Rice",
     "tags": [
-      "basmati-rice",
-      "gluten-free",
-      "middle-eastern",
+      "syrian",
       "pilaf",
-      "syrian-cuisine",
-      "vegetarian"
+      "rice",
+      "crispy"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 30,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {
