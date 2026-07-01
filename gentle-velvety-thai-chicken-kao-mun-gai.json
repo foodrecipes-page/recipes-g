@@ -1,0 +1,91 @@
+{
+  "slug": "gentle-velvety-thai-chicken-kao-mun-gai",
+  "title": "Gentle Thai Chicken Curry",
+  "description": "A mild and creamy Thai-inspired dish made with tender chicken and a blend of aromatic spices. Serve over steamed rice for a comforting meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "mild Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "gentle",
+      "amount": "1 cup",
+      "notes": "chicken broth"
+    },
+    {
+      "name": "velvety",
+      "amount": "1 cup",
+      "notes": "coconut cream"
+    },
+    {
+      "name": "kao",
+      "amount": "1 cup",
+      "notes": "cooked jasmine rice"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the chicken and cook until browned and cooked through, about 5-7 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the curry paste to the skillet and cook for 1-2 minutes, until fragrant.",
+    "Add the fish sauce, sugar, and lime juice to the skillet and stir to combine.",
+    "Return the chicken to the skillet and stir to coat with the curry sauce.",
+    "Pour in the chicken broth and bring to a simmer.",
+    "Reduce the heat to low and stir in the coconut cream.",
+    "Serve the chicken and curry sauce over steamed jasmine rice.",
+    "Garnish with fresh cilantro or basil leaves, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "chicken",
+    "curry",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gentle-velvety-thai-chicken-kao-mun-gai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T13:40:44.376Z"
+}
