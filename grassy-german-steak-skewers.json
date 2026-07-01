@@ -1,0 +1,66 @@
+{
+  "slug": "grassy-german-steak-skewers",
+  "title": "Grilled Steak with German Skewers",
+  "description": "A classic steak dish paired with a hearty German-inspired skewer, perfect for a summer evening.",
+  "cuisine": "German",
+  "diet": [
+    "meat-lovers",
+    "grill"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "grassy",
+      "amount": "2 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "german",
+      "amount": "1 cup",
+      "notes": "for skewers"
+    },
+    {
+      "name": "steak",
+      "amount": "1 (1.5-2 pound) steak",
+      "notes": "ribeye or strip loin"
+    },
+    {
+      "name": "steak skewers",
+      "amount": "10-12",
+      "notes": "wooden or metal"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400°F (200°C).",
+    "In a small bowl, mix together grassy and 2 cloves of minced garlic for marinade.",
+    "Place steak in a large zip-top plastic bag. Pour marinade into bag, turning steak to coat.",
+    "Seal bag and refrigerate for at least 2 hours or overnight.",
+    "Thread german onto steak skewers, leaving 1/4 inch space between each piece.",
+    "Remove steak from marinade, letting any excess liquid drip off.",
+    "Grill steak for 5-7 minutes per side, or until it reaches desired level of doneness.",
+    "Meanwhile, grill skewers for 2-3 minutes per side, or until lightly charred.",
+    "Let steak rest for 5 minutes before slicing.",
+    "Serve with skewers on the side."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "steak",
+    "skewers",
+    "german"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grassy-german-steak-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T14:47:37.069Z"
+}
