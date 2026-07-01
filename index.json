@@ -6553,14 +6553,14 @@
   },
   {
     "slug": "gently-woodfired-mediterranean-rhubarb-bake",
-    "title": "Gently Woodfired Mediterranean Rhubarb Bake",
+    "title": "Woodfired Rhubarb Tarte with Mediterranean Twist",
     "tags": [
+      "rhubarb",
+      "mediterranean",
+      "woodfired",
       "dessert",
-      "macrobiotic",
-      "mediterranean-diet",
-      "one-pan",
-      "vegetarian-friendly",
-      "wood-fired"
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 55,
@@ -11637,15 +11637,15 @@
   },
   {
     "slug": "gooey-floral-malaysian-tofu-curry",
-    "title": "Gooey Floral Malaysian Tofu Curry",
+    "title": "Malaysian Tofu Curry",
     "tags": [
-      "malaysian-cuisine",
-      "vegan-recipes",
-      "one-pot-meals",
-      "floral-foods"
+      "malaysian",
+      "curry",
+      "tofu",
+      "vegetarian"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
@@ -13694,17 +13694,15 @@
   },
   {
     "slug": "grassy-german-steak-skewers",
-    "title": "Grassy German Steak Skewers",
+    "title": "Grilled Steak with German Skewers",
     "tags": [
-      "german-cuisine",
-      "high-protein",
-      "light-meals",
-      "one-pan",
-      "spring-recipes",
-      "weeknight"
+      "grilled",
+      "steak",
+      "skewers",
+      "german"
     ],
     "cuisine": "German",
-    "totalTimeMin": 45,
+    "totalTimeMin": 50,
     "shard": "g"
   },
   {
