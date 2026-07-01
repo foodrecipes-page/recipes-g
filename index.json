@@ -4977,16 +4977,14 @@
   },
   {
     "slug": "garnished-algerian-sloe-berries-tagine",
-    "title": "Garnished Algerian Sloe-Berries Tagine",
+    "title": "Sloe Berries Tagine",
     "tags": [
-      "algerian",
-      "one-pan",
-      "sloe-berries",
-      "tagine",
+      "north-african",
+      "stew",
       "vegetarian"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 65,
+    "cuisine": "North African",
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {
@@ -5700,16 +5698,15 @@
   },
   {
     "slug": "gentle-velvety-thai-chicken-kao-mun-gai",
-    "title": "Gentle Velvety Thai Chicken Kao Mun Gai",
+    "title": "Gentle Thai Chicken Curry",
     "tags": [
-      "anti-inflammatory",
-      "dairy-free",
-      "gluten-free",
-      "one-pot",
-      "thai-cuisine"
+      "thai",
+      "chicken",
+      "curry",
+      "comfort-food"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "g"
   },
   {
