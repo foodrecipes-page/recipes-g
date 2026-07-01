@@ -1,0 +1,98 @@
+{
+  "slug": "gently-crisp-australian-doraji-skewers",
+  "title": "Grilled Doraji Skewers with Australian Slaw",
+  "description": "A simple and flavorful summer recipe featuring grilled doraji skewers served with a refreshing Australian-inspired slaw.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Doraji",
+      "amount": "1 bunch",
+      "notes": "about 20-25 pieces"
+    },
+    {
+      "name": "Australian Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Crunchy Peanut Butter",
+      "amount": "2 tablespoons",
+      "notes": "for slaw dressing"
+    },
+    {
+      "name": "Crisp Cabbage",
+      "amount": "1 head",
+      "notes": "shredded"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": "for slaw dressing"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread doraji onto skewers, leaving a little space between each piece.",
+    "In a small bowl, whisk together Australian olive oil, ginger, and garlic. Brush the mixture onto the doraji skewers.",
+    "Season with salt and black pepper to taste.",
+    "Grill the skewers for 2-3 minutes per side, or until slightly charred.",
+    "In a separate bowl, whisk together crunchy peanut butter, crisp cabbage, and lime juice. Season with salt and black pepper to taste.",
+    "Serve the grilled doraji skewers with Australian slaw on the side.",
+    "Garnish with additional ginger slices, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "skewers",
+    "doraji",
+    "australian",
+    "slaw",
+    "summer",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gently-crisp-australian-doraji-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T14:07:53.842Z"
+}
