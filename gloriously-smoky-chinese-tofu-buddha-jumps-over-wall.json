@@ -1,0 +1,98 @@
+{
+  "slug": "gloriously-smoky-chinese-tofu-buddha-jumps-over-wall",
+  "title": "Buddha's Wall of Tofu Delight",
+  "description": "A smoky, savory dish inspired by Chinese cuisine, featuring tofu as the main star.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Extra-firm tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "Crisp-fried for a golden brown exterior"
+    },
+    {
+      "name": "Gloriously smoky vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "For a rich, savory flavor"
+    },
+    {
+      "name": "Buddha jumps over the wall sauce",
+      "amount": "2 tbsp",
+      "notes": "A sweet and savory condiment"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "For garnish and added freshness"
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "For added crunch and flavor"
+    },
+    {
+      "name": "Chinese five-spice powder",
+      "amount": "1 tsp",
+      "notes": "For a warm, aromatic flavor"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": "For a nutty, aromatic flavor"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp",
+      "notes": "For a salty, umami flavor"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tsp",
+      "notes": "For a tangy, slightly sweet flavor"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": "For balance and depth"
+    }
+  ],
+  "instructions": [
+    "1. Cut the tofu into 1-inch cubes and set aside.",
+    "2. Heat 1 tablespoon of gloriously smoky vegetable oil in a large skillet or wok over medium-high heat.",
+    "3. Add the tofu to the skillet and cook until golden brown on all sides, about 5-7 minutes. Remove from the skillet and set aside.",
+    "4. In the same skillet, add the remaining 1 tablespoon of vegetable oil.",
+    "5. Add the chopped scallions and cook until fragrant, about 1 minute.",
+    "6. Add the Buddha jumps over the wall sauce and stir to combine.",
+    "7. Add the cooked tofu back into the skillet and stir to combine with the sauce.",
+    "8. Sprinkle the Chinese five-spice powder over the tofu and stir to combine.",
+    "9. Cook for an additional 1-2 minutes, until the flavors have melded together.",
+    "10. Garnish with chopped cilantro and serve hot.",
+    "11. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "tofu",
+    "vegetarian",
+    "vegan",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gloriously-smoky-chinese-tofu-buddha-jumps-over-wall",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T18:26:26.981Z"
+}
