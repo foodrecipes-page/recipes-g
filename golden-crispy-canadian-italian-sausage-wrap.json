@@ -1,0 +1,75 @@
+{
+  "slug": "golden-crispy-canadian-italian-sausage-wrap",
+  "title": "Italian Sausage Wrap",
+  "description": "A delicious and easy-to-make wrap filled with Italian sausage, melted cheese, and crispy vegetables.",
+  "cuisine": "italian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Italian Sausage",
+      "amount": "1 lb",
+      "notes": "casings removed"
+    },
+    {
+      "name": "Golden Wrap",
+      "amount": "1",
+      "notes": "large tortilla"
+    },
+    {
+      "name": "Crispy Canadian Bacon",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Italian Seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Shredded Mozzarella Cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium-high heat.",
+    "Cook the Italian sausage for 5-7 minutes, breaking it up with a spoon as it cooks.",
+    "Add the Canadian bacon to the skillet and cook for an additional 2-3 minutes.",
+    "Warm the wrap in the microwave for 20-30 seconds.",
+    "Assemble the wrap by spooning the sausage and bacon mixture onto the center of the wrap.",
+    "Sprinkle with Italian seasoning and shredded mozzarella cheese.",
+    "Top with fresh basil leaves.",
+    "Fold the bottom half of the wrap up over the filling, then fold in the sides and roll the wrap into a tight cylinder.",
+    "Slice in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "sausage",
+    "wrap",
+    "lunch",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-crispy-canadian-italian-sausage-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T21:46:41.746Z"
+}
