@@ -1,0 +1,79 @@
+{
+  "slug": "grilled-flaky-mediterranean-fish-bake",
+  "title": "Pan-Seared Mediterranean Fish",
+  "description": "A Mediterranean-inspired dish featuring flaky fish, topped with a blend of herbs and spices, and served with a squeeze of fresh lemon.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish fillets (flaky)",
+      "amount": "4 fillets",
+      "notes": null
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 lemons",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the fish fillets with salt and pepper.",
+    "Heat the olive oil in a skillet over medium-high heat.",
+    "Sear the fish fillets for 2-3 minutes on each side, until golden brown.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes, until cooked through.",
+    "Remove the fish from the oven and squeeze a sliver of lemon juice over each fillet.",
+    "Sprinkle the chopped parsley over the top of each fillet.",
+    "Serve immediately, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "fish",
+    "seafood",
+    "lemon",
+    "parsley"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 0,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grilled-flaky-mediterranean-fish-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T21:17:32.944Z"
+}
