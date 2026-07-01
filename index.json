@@ -1691,17 +1691,15 @@
   },
   {
     "slug": "garlicky-crumbly-portuguese-cheese-bake",
-    "title": "Garlicky Crumbly Portuguese Cheese Bake",
+    "title": "Cheesy Portuguese Bake",
     "tags": [
-      "garlicky",
-      "crumbly",
+      "snack",
       "portuguese",
-      "diabetic-friendly",
-      "cheese-bake",
-      "snack"
+      "cheesy",
+      "bake"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 40,
+    "cuisine": "portuguese",
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
@@ -7668,13 +7666,12 @@
   },
   {
     "slug": "glazed-citrus-venezuelan-peanuts-stir-fry",
-    "title": "Glazed Citrus Venezuelan Peanuts Stir-fry",
+    "title": "Venezuelan Citrus Stir Fry",
     "tags": [
+      "vegan",
       "citrus",
-      "one-pot",
-      "peanut",
-      "pescatarian",
-      "quick-meal"
+      "peanuts",
+      "stir-fry"
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 25,
@@ -8605,17 +8602,16 @@
   },
   {
     "slug": "gloriously-smoky-chinese-tofu-buddha-jumps-over-wall",
-    "title": "Gloriously Smoky Chinese Tofu Buddha Jumps Over Wall",
+    "title": "Buddha's Wall of Tofu Delight",
     "tags": [
-      "chaozhou-cuisine",
-      "comfort-food",
-      "jain-friendly",
-      "one-pot",
-      "smoky",
-      "vegetarian"
+      "chinese-cuisine",
+      "tofu",
+      "vegetarian",
+      "vegan",
+      "easy-to-make"
     ],
-    "cuisine": "Chaozhou",
-    "totalTimeMin": 40,
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
@@ -9011,14 +9007,14 @@
   },
   {
     "slug": "gluten-free-tangy-creamy-onion-stir-fry",
-    "title": "Gluten Free Tangy Creamy Onion Stir-fry",
+    "title": "Gluten-Free Stir Fry",
     "tags": [
-      "gluten_free_onion_stir_fry",
-      "comfort_cooking",
-      "tangy_yum"
+      "gluten-free",
+      "stir-fry",
+      "quick-dinner"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 35,
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
@@ -11659,17 +11655,14 @@
   },
   {
     "slug": "gooey-french-challot-tart-galette",
-    "title": "Gooey French Chalot Tart Galette",
+    "title": "French Tart Galette",
     "tags": [
-      "cheesy",
-      "french",
-      "indulgent",
-      "one-pan",
-      "provence",
-      "sweet",
-      "weeknight"
+      "dessert",
+      "tart",
+      "galette",
+      "french"
     ],
-    "cuisine": "French (Provence)",
+    "cuisine": "French",
     "totalTimeMin": 50,
     "shard": "g"
   },
