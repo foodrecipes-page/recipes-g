@@ -1,0 +1,87 @@
+{
+  "slug": "gently-crisp-syrian-basmati-rice-pilaf",
+  "title": "Syrian Pilaf with Crispy Rice",
+  "description": "A flavorful Middle Eastern-inspired pilaf made with tender Syrian rice and crispy rice at the bottom.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Syrian rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Basmati rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Gently cooked chicken (optional)",
+      "amount": "1 cup, diced",
+      "notes": "cook with 1 tsp olive oil at 165°F (74°C)"
+    },
+    {
+      "name": "Crisp rice",
+      "amount": "1/2 cup",
+      "notes": "cook in a pan with 1 tsp olive oil at 325°F (165°C)"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Pilaf spice",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp olive oil in a large saucepan over medium heat. Add diced onion and cook until translucent.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add 1 cup Syrian rice and 1 cup Basmati rice. Cook for 2 minutes, stirring constantly.",
+    "Add 2 cups water, 1 tsp salt, 1/2 tsp black pepper, and 1/2 tsp pilaf spice. Bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 18-20 minutes or until the rice is tender and the water is absorbed.",
+    "While the rice is cooking, cook the crisp rice in a pan with 1 tsp olive oil at 325°F (165°C) for 5-7 minutes or until crispy.",
+    "If using chicken, cook in a pan with 1 tsp olive oil at 165°F (74°C) for 5-7 minutes or until cooked through.",
+    "Once the rice is cooked, fluff it with a fork to separate the grains. ",
+    "To serve, place a portion of the pilaf in a bowl, top with crispy rice, and garnish with diced chicken (if using)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "syrian",
+    "pilaf",
+    "rice",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 65,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gently-crisp-syrian-basmati-rice-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T19:31:04.187Z"
+}
