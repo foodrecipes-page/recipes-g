@@ -782,16 +782,14 @@
   },
   {
     "slug": "garlicky-and-snappy-mediterranean-lamb-kidney-dumplings",
-    "title": "Garlicky and Snappy Mediterranean Lamb Kidney Dumplings",
+    "title": "Mediterranean Lamb Dumplings",
     "tags": [
-      "comfort-food",
-      "dumplings",
-      "easy-dinner",
-      "kidney",
       "lamb",
-      "mediterranean"
+      "dumplings",
+      "mediterranean",
+      "greek"
     ],
-    "cuisine": "Mediterranean",
+    "cuisine": "Greek",
     "totalTimeMin": 45,
     "shard": "g"
   },
@@ -3657,18 +3655,15 @@
   },
   {
     "slug": "garlicky-moroccan-rice-tagine",
-    "title": "Garlicky Moroccan Rice Tagine",
+    "title": "Moroccan Chicken and Rice Tagine",
     "tags": [
-      "moroccan",
-      "garlicky",
+      "chicken",
       "rice",
-      "slow-cook",
-      "meal-prep",
-      "fodmap-friendly",
-      "vegan"
+      "tagine",
+      "moroccan"
     ],
-    "cuisine": "Moroccan",
-    "totalTimeMin": 30,
+    "cuisine": "North African",
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {
@@ -7524,17 +7519,16 @@
   },
   {
     "slug": "glassy-jelly-uruguayan-oats-bake",
-    "title": "Glassy-Jelly Uruguayan Oats Bake",
+    "title": "Uruguayan Glassy Oat Bake",
     "tags": [
-      "gluten-free",
-      "high-fiber",
-      "holiday",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "uruguayan",
+      "glassy",
+      "jelly",
+      "oat",
+      "bake"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 40,
+    "cuisine": "uruguayan",
+    "totalTimeMin": 55,
     "shard": "g"
   },
   {
@@ -15190,16 +15184,14 @@
   },
   {
     "slug": "gut-wrenchingly-shattering-energizing-russian-cocoa-bake",
-    "title": "Gut-Wrenchingly Shattering Energizing Russian Cocoa Bake",
+    "title": "Energizing Russian Cocoa Cake",
     "tags": [
       "cocoa",
-      "egg-free",
-      "high-fat",
-      "russian",
-      "wood-fired"
+      "cake",
+      "dessert"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "g"
   },
   {
