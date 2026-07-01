@@ -6670,18 +6670,14 @@
   },
   {
     "slug": "gindole-roasted-wholesome-chicken-legs",
-    "title": "Gindole Roasted Wholesome Chicken Legs",
+    "title": "Roasted Chicken Leg Delight",
     "tags": [
-      "dairy-free",
-      "indulgent",
-      "malaysian",
-      "malty",
-      "roasted",
-      "whole-meal",
-      "wholesome"
+      "roasted-chicken",
+      "easy-dinner",
+      "wholesome-food"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 60,
+    "cuisine": "American",
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {
@@ -14570,17 +14566,16 @@
   },
   {
     "slug": "grilled-flaky-mediterranean-fish-bake",
-    "title": "Grilled Flaky Mediterranean Fish Bake",
+    "title": "Pan-Seared Mediterranean Fish",
     "tags": [
-      "fish",
-      "grilled",
       "mediterranean",
-      "one-pan",
-      "quinoa",
-      "weeknight"
+      "fish",
+      "seafood",
+      "lemon",
+      "parsley"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 22,
     "shard": "g"
   },
   {
