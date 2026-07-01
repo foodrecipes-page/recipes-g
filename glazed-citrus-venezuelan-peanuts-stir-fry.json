@@ -1,0 +1,87 @@
+{
+  "slug": "glazed-citrus-venezuelan-peanuts-stir-fry",
+  "title": "Venezuelan Citrus Stir Fry",
+  "description": "A sweet and tangy stir fry recipe inspired by Venezuelan cuisine, featuring glazed chicken, citrus, and peanuts.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Glazed Chicken Breast",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Citrus (orange, lemon, lime)",
+      "amount": "1 cup (juiced)",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Venezuelan Peanut Sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Peanuts",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "2 cups",
+      "notes": "Diced"
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "2 cups",
+      "notes": "Diced"
+    },
+    {
+      "name": "Cooking Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat 2 tablespoons of cooking oil in a large skillet over medium-high heat.",
+    "2. Add the diced onions and bell peppers to the skillet and cook until tender, about 5 minutes.",
+    "3. Add the glazed chicken breast to the skillet and cook until browned, about 5 minutes.",
+    "4. Stir in the citrus juice, Venezuelan peanut sauce, peanuts, and a pinch of salt and pepper.",
+    "5. Cook for an additional 2-3 minutes, until the sauce has thickened.",
+    "6. Serve the stir fry hot, garnished with additional peanuts and citrus wedges if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "citrus",
+    "peanuts",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/glazed-citrus-venezuelan-peanuts-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T18:17:31.481Z"
+}
