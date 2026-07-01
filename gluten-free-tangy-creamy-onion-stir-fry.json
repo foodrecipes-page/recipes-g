@@ -1,0 +1,77 @@
+{
+  "slug": "gluten-free-tangy-creamy-onion-stir-fry",
+  "title": "Gluten-Free Stir Fry",
+  "description": "A quick and easy gluten-free stir fry made with a tangy sauce and served with creamy rice. Perfect for a weeknight dinner.",
+  "cuisine": "Asian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Stir-Fry Sauce",
+      "amount": "2 tablespoons",
+      "notes": "tangy and gluten-free"
+    },
+    {
+      "name": "Cooked Rice",
+      "amount": "1 cup",
+      "notes": "creamy and gluten-free"
+    },
+    {
+      "name": "Protein of Choice",
+      "amount": "1 cup",
+      "notes": "chicken, beef, or tofu"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy Sauce (gluten-free)",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced onion and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the protein of choice and cook until browned, about 5-6 minutes.",
+    "Add the stir-fry sauce and soy sauce (if using) and stir to combine.",
+    "Cook for an additional 2-3 minutes, until the sauce has thickened.",
+    "Serve the stir-fry over creamy cooked rice.",
+    " Garnish with green onions and sesame seeds (optional)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "stir-fry",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gluten-free-tangy-creamy-onion-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T19:22:22.062Z"
+}
