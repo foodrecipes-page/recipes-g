@@ -1,0 +1,78 @@
+{
+  "slug": "gentle-yeasty-filipino-wrappers-spring-rolls",
+  "title": "Filipino Spring Rolls",
+  "description": "A popular Filipino snack made with tender spring rolls filled with a delicious mixture of vegetables and served with a sweet chili sauce.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Spring roll wrappers",
+      "amount": "1 package (usually 20-24 wrappers)"
+    },
+    {
+      "name": "Shredded cabbage",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Shredded carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Shredded bean sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chopped green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "1. Fill a large bowl with warm water.",
+    "2. Dip a spring roll wrapper into the water for about 10-15 seconds, until it becomes soft and pliable.",
+    "3. Remove the wrapper from the water and place it on a clean surface.",
+    "4. Place about 1 tablespoon of the vegetable mixture onto the center of the wrapper.",
+    "5. Fold the bottom half of the wrapper up over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "6. Repeat with the remaining wrappers and filling.",
+    "7. Heat about 1-2 inches of vegetable oil in a large skillet over medium-high heat.",
+    "8. When the oil is hot, add a few of the spring rolls to the skillet and fry until golden brown, about 2-3 minutes on each side.",
+    "9. Remove the spring rolls from the oil and drain on paper towels.",
+    "10. Serve hot with a sweet chili sauce for dipping."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "snack",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gentle-yeasty-filipino-wrappers-spring-rolls",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T23:15:50.018Z"
+}
