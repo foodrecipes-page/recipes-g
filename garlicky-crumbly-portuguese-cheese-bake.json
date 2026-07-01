@@ -1,0 +1,56 @@
+{
+  "slug": "garlicky-crumbly-portuguese-cheese-bake",
+  "title": "Cheesy Portuguese Bake",
+  "description": "A cheesy bake dish inspired by Portuguese cuisine, perfect for a snack or light meal.",
+  "cuisine": "portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Garlicky Crumbly Bread",
+      "amount": "1 loaf",
+      "notes": "crumbly bread"
+    },
+    {
+      "name": "Portuguese Cheese",
+      "amount": "1 block",
+      "notes": "similar to cheddar"
+    },
+    {
+      "name": "Bake",
+      "amount": "350°F",
+      "notes": "oven temperature"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Cut the garlicky crumbly bread into 1-inch (2.5 cm) cubes.",
+    "In a medium bowl, crumble the Portuguese cheese and mix with the bread cubes.",
+    "Transfer the bread mixture to a baking dish.",
+    "Bake for 15-20 minutes or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "portuguese",
+    "cheesy",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-crumbly-portuguese-cheese-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T19:15:25.039Z"
+}
