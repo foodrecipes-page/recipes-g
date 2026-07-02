@@ -810,15 +810,15 @@
   },
   {
     "slug": "garlicky-australian-duck-pasta",
-    "title": "Garlicky Australian Duck Pasta",
+    "title": "Pan-Seared Duck Breasts with Australian Pasta",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "shojin",
-      "weeknight"
+      "australian",
+      "duck",
+      "pasta",
+      "garlic"
     ],
     "cuisine": "australian",
-    "totalTimeMin": 22,
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
@@ -4356,15 +4356,13 @@
   },
   {
     "slug": "garlicky-syrian-garlic-stir-fry",
-    "title": "Garlicky Syrian Garlic Stir-Fry",
+    "title": "Syrian Garlic Stir Fry",
     "tags": [
-      "garlicy",
-      "fluffy",
-      "smoky",
-      "syrian",
-      "whole30-friendly"
+      "garlic",
+      "veggie-stir-fry",
+      "syrian-spices"
     ],
-    "cuisine": "Syrian",
+    "cuisine": "Middle Eastern",
     "totalTimeMin": 25,
     "shard": "g"
   },
@@ -9350,17 +9348,15 @@
   },
   {
     "slug": "golden-brown-uruguayan-chicken-skewers",
-    "title": "Golden Brown Uruguayan Chicken Skewers",
+    "title": "Uruguayan-Style Grilled Chicken Skewers",
     "tags": [
-      "gluten-free",
+      "latin-american",
       "grilled",
-      "healthy",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "chicken",
+      "skewers"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 35,
+    "cuisine": "Latin American",
+    "totalTimeMin": 33,
     "shard": "g"
   },
   {
