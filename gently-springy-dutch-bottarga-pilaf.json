@@ -1,0 +1,82 @@
+{
+  "slug": "gently-springy-dutch-bottarga-pilaf",
+  "title": "Springy Pilaf with Bottarga and Gently Cooked Dutch Sausage",
+  "description": "A flavorful and nutritious dish combining the springy texture of pilaf with the richness of bottarga and the savory taste of gently cooked Dutch sausage.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Dutch sausage",
+      "amount": "1 pound",
+      "notes": "look for a mildly seasoned sausage"
+    },
+    {
+      "name": "Pilaf rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Bottarga",
+      "amount": "4 ounces",
+      "notes": "shaved or sliced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the Dutch sausage and cook, breaking it up with a spoon, until browned, about 5-7 minutes.",
+    "Add the chicken broth to the skillet and bring to a boil.",
+    "Stir in the pilaf rice, reduce the heat to low, cover, and simmer for 18-20 minutes, or until the liquid is absorbed and the rice is tender.",
+    "Fluff the pilaf with a fork and stir in the salt, chopped parsley, and lemon juice.",
+    "Shave or slice the bottarga and serve on top of the pilaf.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pilaf",
+    "sausage",
+    "bottarga"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 35,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gently-springy-dutch-bottarga-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T23:22:59.296Z"
+}
