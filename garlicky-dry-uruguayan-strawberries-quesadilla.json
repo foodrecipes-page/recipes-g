@@ -1,0 +1,69 @@
+{
+  "slug": "garlicky-dry-uruguayan-strawberries-quesadilla",
+  "title": "Uruguayan Strawberry Quesadilla",
+  "description": "Sweet and savory combination of uruguayan ingredients. A perfect dessert.",
+  "cuisine": "South American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Quesadilla",
+      "amount": "2",
+      "notes": "tortilla"
+    },
+    {
+      "name": "Uruguayan",
+      "amount": "2 tbsp",
+      "notes": "dulce de leche"
+    },
+    {
+      "name": "Strawberries",
+      "amount": "1 cup",
+      "notes": "hulled and sliced"
+    },
+    {
+      "name": "Garlicky",
+      "amount": "1 tsp",
+      "notes": "garlic powder"
+    },
+    {
+      "name": "Dry",
+      "amount": "1 tbsp",
+      "notes": "granulated sugar"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan over medium heat.",
+    "Place one quesadilla in the pan, cook for 2 minutes.",
+    "Flip the quesadilla, spread Uruguayan on half of the quesadilla.",
+    "Add sliced strawberries on top of the dulce de leche.",
+    "Sprinkle garlicky powder and dry sugar over the strawberries.",
+    "Fold the quesadilla in half, cook for another 2 minutes.",
+    "Flip the quesadilla, cook for an additional minute.",
+    "Cut into wedges, serve warm."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 6,
+  "totalTimeMin": 11,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "south-american",
+    "dessert",
+    "quesadilla",
+    "strawberries",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-dry-uruguayan-strawberries-quesadilla",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T03:22:38.701Z"
+}
