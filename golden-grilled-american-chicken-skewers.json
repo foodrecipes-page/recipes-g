@@ -1,0 +1,77 @@
+{
+  "slug": "golden-grilled-american-chicken-skewers",
+  "title": "Grilled Chicken Skewers with American BBQ Sauce",
+  "description": "Juicy grilled chicken skewers smothered in a sweet and tangy American BBQ sauce, perfect for a summer evening.",
+  "cuisine": "American",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, Skinless Chicken Breasts",
+      "amount": "1 pound, cut into 1-inch pieces",
+      "notes": ""
+    },
+    {
+      "name": "American BBQ Sauce",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Golden Skewers",
+      "amount": "10-12",
+      "notes": ""
+    },
+    {
+      "name": "Vegetables of choice (bell peppers, onions, mushrooms, etc.)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Optional: garlic powder, paprika, or other seasonings of choice",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread chicken and vegetables onto the golden skewers, leaving a little space between each piece.",
+    "Brush the olive oil onto both sides of the chicken and vegetables.",
+    "Season with salt, pepper, and any desired additional seasonings.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, or until the chicken is cooked through and the vegetables are tender.",
+    "While the skewers are cooking, heat the American BBQ sauce in a small saucepan over medium heat.",
+    "Once the skewers are done, brush the American BBQ sauce onto both sides of the chicken and vegetables.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "chicken",
+    "bbq"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-grilled-american-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T00:53:40.612Z"
+}
