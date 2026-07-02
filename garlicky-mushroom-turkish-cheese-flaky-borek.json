@@ -1,0 +1,63 @@
+{
+  "slug": "garlicky-mushroom-turkish-cheese-flaky-borek",
+  "title": "Cheesy Borek",
+  "description": "A classic Turkish pastry filled with cheese and served as a snack or light meal. This recipe uses a simple dough and a flavorful cheese filling.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flaky borek dough",
+      "amount": "1 package"
+    },
+    {
+      "name": "cheese",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "turkish cheese",
+      "amount": "4 ounces"
+    },
+    {
+      "name": "garlicky spread",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mushroom duxelles",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the borek dough to a thickness of about 1/8 inch.",
+    "Cut the dough into squares of about 4 inches per side.",
+    "Place a tablespoon of cheese in the center of each square.",
+    "Brush the edges with water and fold the dough over the cheese to form a triangle.",
+    "Press the edges together to seal the borek.",
+    "Brush the tops with a little bit of water and bake for 15-20 minutes, or until golden brown.",
+    "Serve warm with a side of garlicky spread and mushroom duxelles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "pastry",
+    "cheese",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-mushroom-turkish-cheese-flaky-borek",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T00:49:09.978Z"
+}
