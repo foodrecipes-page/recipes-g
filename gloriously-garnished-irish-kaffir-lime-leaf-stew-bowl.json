@@ -1,0 +1,82 @@
+{
+  "slug": "gloriously-garnished-irish-kaffir-lime-leaf-stew-bowl",
+  "title": "Lime and Irish Stew",
+  "description": "A twist on traditional Irish stew, this recipe incorporates the bright flavors of lime and kaffir leaf.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Irish potatoes",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "Kaffir lime leaves",
+      "amount": "4-6 leaves",
+      "notes": "fresh"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Garnished parsley",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large bowl over medium heat.",
+    "Add chopped onions and cook until softened, about 5 minutes.",
+    "Add carrots and cook for an additional 5 minutes.",
+    "Add kaffir lime leaves and cook for 1 minute.",
+    "Add Irish potatoes, chicken broth, and lime juice. Bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 20-25 minutes or until potatoes are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish-stew",
+    "lunch",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gloriously-garnished-irish-kaffir-lime-leaf-stew-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T08:09:57.348Z"
+}
