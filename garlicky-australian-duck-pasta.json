@@ -1,0 +1,81 @@
+{
+  "slug": "garlicky-australian-duck-pasta",
+  "title": "Pan-Seared Duck Breasts with Australian Pasta",
+  "description": "A savory and rich dish combining the flavors of pan-seared duck breasts with Australian-inspired pasta. This recipe is perfect for a dinner party.",
+  "cuisine": "australian",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck Breasts",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Garlicky Pasta",
+      "amount": "1 package (12 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Australian Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season the duck breasts with salt and black pepper.",
+    "Heat 1 tablespoon of Australian olive oil in a skillet over medium-high heat.",
+    "Sear the duck breasts for 3-4 minutes per side, or until a thermometer reads 135°F.",
+    "Remove the duck from the skillet and set aside to rest.",
+    "Cook the garlicky pasta according to the package instructions.",
+    "In the same skillet, add the remaining 1 tablespoon of Australian olive oil.",
+    "Add the minced garlic and cook for 1 minute, or until fragrant.",
+    "Stir in the fresh thyme and cook for an additional minute.",
+    "Add the cooked pasta to the skillet and toss with the garlic-thyme mixture.",
+    "Serve the pan-seared duck breasts on top of the pasta."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "duck",
+    "pasta",
+    "garlic"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 34,
+    "fat": 33
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-australian-duck-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T14:46:31.910Z"
+}
