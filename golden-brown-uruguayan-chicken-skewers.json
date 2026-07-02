@@ -1,0 +1,83 @@
+{
+  "slug": "golden-brown-uruguayan-chicken-skewers",
+  "title": "Uruguayan-Style Grilled Chicken Skewers",
+  "description": "A flavorful and juicy dish inspired by the grilled meats of Uruguay, featuring marinated chicken skewers cooked to perfection.",
+  "cuisine": "Latin American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "uruguayan chimichurri",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "golden olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together chimichurri, brown sugar, salt, and black pepper.",
+    "3. Add chicken to the bowl and toss to coat with marinade.",
+    "4. Thread marinated chicken onto skewers.",
+    "5. Brush grill grates with olive oil to prevent sticking.",
+    "6. Grill skewers for 8-10 minutes per side, or until chicken is cooked through.",
+    "7. Transfer skewers to a plate and sprinkle with parsley.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "latin-american",
+    "grilled",
+    "chicken",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-brown-uruguayan-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T14:46:34.045Z"
+}
