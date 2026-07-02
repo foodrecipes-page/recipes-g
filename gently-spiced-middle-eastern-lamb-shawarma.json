@@ -1,0 +1,89 @@
+{
+  "slug": "gently-spiced-middle-eastern-lamb-shawarma",
+  "title": "Middle Eastern Lamb Shawarma",
+  "description": "A classic street food from the Middle East, this lamb shawarma recipe is a flavorful and aromatic sandwich. Marinated lamb is grilled to perfection and served in a warm pita with your favorite toppings.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1 pound",
+      "notes": "Cut into thin strips"
+    },
+    {
+      "name": "Middle Eastern Shawarma Spice Blend",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Pita Bread",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "1",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Tzatziki Sauce",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together shawarma spice blend, yogurt, garlic, and cilantro.",
+    "Add the lamb strips to the marinade and mix until coated.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Remove the lamb from the marinade and cook for 5-7 minutes per side, or until cooked through.",
+    "Warm the pita bread by wrapping it in foil and heating it in the oven for 5 minutes.",
+    "Assemble the shawarma by slicing the cooked lamb and serving it in the pita with tomato, onion, and tzatziki sauce.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "shawarma",
+    "middle-eastern",
+    "grilled",
+    "street-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gently-spiced-middle-eastern-lamb-shawarma",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T11:58:40.408Z"
+}
