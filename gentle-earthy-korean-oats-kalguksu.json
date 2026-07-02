@@ -1,0 +1,83 @@
+{
+  "slug": "gentle-earthy-korean-oats-kalguksu",
+  "title": "Korean Oatmeal Kalguksu",
+  "description": "A warm and comforting Korean-inspired oatmeal, infused with the flavors of kalguksu noodles and topped with a gentle sprinkle of earthy sesame seeds.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Rolled Oats",
+      "amount": "1 cup",
+      "notes": "quick-cooking oats work best"
+    },
+    {
+      "name": "Kalguksu Noodles",
+      "amount": "1/2 cup",
+      "notes": "dried kalguksu noodles can be found at Asian markets"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "2 cups",
+      "notes": "low-sodium broth recommended"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tablespoons",
+      "notes": "for added depth of flavor"
+    },
+    {
+      "name": "Dark Sesame Seeds",
+      "amount": "1 tablespoon",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional, for added umami"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional, for added sweetness"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated or sliced, for added flavor"
+    }
+  ],
+  "instructions": [
+    "Bring the vegetable broth to a boil in a medium saucepan.",
+    "Add the kalguksu noodles and cook according to package instructions.",
+    "In a small bowl, whisk together the sesame oil, soy sauce, and brown sugar (if using).",
+    "Add the grated ginger to the bowl and whisk until well combined.",
+    "Once the noodles are cooked, add the sesame oil mixture to the saucepan and stir to combine.",
+    "Add the rolled oats to the saucepan and cook for an additional 2-3 minutes, stirring constantly.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the oatmeal hot, topped with a sprinkle of dark sesame seeds."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "oats",
+    "breakfast",
+    "comforting"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gentle-earthy-korean-oats-kalguksu",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T02:41:42.153Z"
+}
