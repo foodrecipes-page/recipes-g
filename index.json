@@ -3666,17 +3666,15 @@
   },
   {
     "slug": "garlicky-mushroom-turkish-cheese-flaky-borek",
-    "title": "Garlicky Mushroom Turkish Cheese Flaky Borek",
+    "title": "Cheesy Borek",
     "tags": [
-      "date-night",
-      "flaky-crust",
-      "high-protein",
-      "low-sodium",
-      "one-pan",
-      "turkish-recipe"
+      "turkish",
+      "pastry",
+      "cheese",
+      "snack"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
@@ -10274,17 +10272,14 @@
   },
   {
     "slug": "golden-grilled-american-chicken-skewers",
-    "title": "Golden Grilled American Chicken Skewers",
+    "title": "Grilled Chicken Skewers with American BBQ Sauce",
     "tags": [
-      "american-cuisine",
-      "egg-free",
-      "gluten-free",
-      "grilled-chicken",
-      "quick-fix",
-      "summer-recipes"
+      "grilled",
+      "chicken",
+      "bbq"
     ],
     "cuisine": "American",
-    "totalTimeMin": 32,
+    "totalTimeMin": 18,
     "shard": "g"
   },
   {
