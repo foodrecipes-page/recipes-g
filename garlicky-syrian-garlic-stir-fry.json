@@ -1,0 +1,59 @@
+{
+  "slug": "garlicky-syrian-garlic-stir-fry",
+  "title": "Syrian Garlic Stir Fry",
+  "description": "A flavorful and aromatic stir fry made with Syrian spices and a hint of garlic.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Syrian spice mix",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "garlicky stir-fry sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fry",
+      "amount": "1 cup",
+      "notes": "your favorite mix of vegetables, e.g. bell peppers, onions, broccoli"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of oil in a pan over medium-high heat.",
+    "Add the minced garlic and cook for 1 minute until fragrant.",
+    "Add the Syrian spice mix and cook for another minute.",
+    "Add the stir-fry sauce and cook for 2 minutes.",
+    "Add the fry and cook until the vegetables are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or with pita bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "garlic",
+    "veggie-stir-fry",
+    "syrian-spices"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-syrian-garlic-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T14:47:54.426Z"
+}
