@@ -1,0 +1,77 @@
+{
+  "slug": "gently-fermented-australian-tripe-hotpot",
+  "title": "Australian Hotpot with Tripe and Fermented Vegetables",
+  "description": "A hearty and flavorful hotpot from Australia, featuring tender tripe and fermented vegetables. Serve with crusty bread for dipping.",
+  "cuisine": "australian",
+  "diet": [
+    "meat-lovers"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian beef tripe",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Gentle beef broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Fermented vegetables (such as kimchi or sauerkraut)",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Hotpot spices (such as ginger, garlic, and chili flakes)",
+      "amount": "2 teaspoons",
+      "notes": "to taste"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": "for serving"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "Rice or noodles",
+      "amount": "1 cup",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "1. In a large pot or Dutch oven, heat the sesame oil over medium heat.",
+    "2. Add the hotpot spices and cook, stirring constantly, for 1 minute.",
+    "3. Add the tripe and cook, stirring occasionally, until browned on all sides, about 5 minutes.",
+    "4. Pour in the beef broth and bring to a boil.",
+    "5. Reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the tripe is tender.",
+    "6. Add the fermented vegetables to the pot and cook for an additional 10-15 minutes, or until heated through.",
+    "7. Season the hotpot with salt and pepper to taste.",
+    "8. Serve the hotpot hot, garnished with chopped cilantro and accompanied by rice or noodles."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "hotpot",
+    "fermented-vegetables"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gently-fermented-australian-tripe-hotpot",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T23:29:10.807Z"
+}
