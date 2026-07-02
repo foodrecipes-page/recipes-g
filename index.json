@@ -3456,16 +3456,16 @@
   },
   {
     "slug": "garlicky-mediterranean-garlic-casserole",
-    "title": "Garlicky Mediterranean Garlic Casserole",
+    "title": "Creamy Mediterranean Casserole",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "post-workout"
+      "casserole",
+      "mediterranean",
+      "vegetarian",
+      "easy",
+      "dinner"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 40,
+    "totalTimeMin": 30,
     "shard": "g"
   },
   {
@@ -6402,17 +6402,16 @@
   },
   {
     "slug": "gently-spiced-middle-eastern-lamb-shawarma",
-    "title": "Gently Spiced Middle Eastern Lamb Shawarma",
+    "title": "Middle Eastern Lamb Shawarma",
     "tags": [
-      "gluten-free",
       "lamb",
-      "low-carb",
+      "shawarma",
       "middle-eastern",
-      "one-pan",
-      "shawarma"
+      "grilled",
+      "street-food"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 55,
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
