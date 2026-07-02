@@ -5891,17 +5891,14 @@
   },
   {
     "slug": "gently-fermented-australian-tripe-hotpot",
-    "title": "Gently Fermented Australian Tripe Hotpot",
+    "title": "Australian Hotpot with Tripe and Fermented Vegetables",
     "tags": [
       "australian-cuisine",
-      "fermented-food",
-      "gluten-free",
       "hotpot",
-      "low-sodium",
-      "meal-prep"
+      "fermented-vegetables"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 120,
+    "cuisine": "australian",
+    "totalTimeMin": 110,
     "shard": "g"
   },
   {
@@ -6513,17 +6510,15 @@
   },
   {
     "slug": "gently-springy-dutch-bottarga-pilaf",
-    "title": "Gently Springy Dutch Bottarga Pilaf",
+    "title": "Springy Pilaf with Bottarga and Gently Cooked Dutch Sausage",
     "tags": [
-      "ayurvedic-friendly",
-      "dutch-cuisine",
-      "one-pan",
-      "romantic-dinner",
-      "sattvic-diet",
-      "spring-ingredients"
+      "italian",
+      "pilaf",
+      "sausage",
+      "bottarga"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 40,
+    "cuisine": null,
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
