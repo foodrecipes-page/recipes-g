@@ -1,0 +1,94 @@
+{
+  "slug": "gloriously-dense-mexican-borlotti-beans-skillet",
+  "title": "Mexican Bean Skillet",
+  "description": "A flavorful and nutritious Mexican-inspired bean skillet dish, perfect for a quick and easy meal. It's packed with protein-rich black beans and borlotti beans, sautéed with onions and served with a sprinkle of cheese.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "black beans, drained and rinsed",
+      "amount": "1 1/2 cups",
+      "notes": "canned"
+    },
+    {
+      "name": "borlotti beans, drained and rinsed",
+      "amount": "1 1/2 cups",
+      "notes": "canned"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium",
+      "notes": "any color"
+    },
+    {
+      "name": "skillet, medium-sized",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "oil, vegetable",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "cumin, ground",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "chili powder, ground",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "pepper, ground",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "shredded cheese, cheddar or Monterey Jack",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a medium-sized skillet over medium heat.",
+    "Add the diced onion and cook until softened, about 3-4 minutes.",
+    "Add the cumin, chili powder, salt, and pepper, and stir to combine.",
+    "Add the black beans and borlotti beans, and stir to combine.",
+    "Cook for an additional 2-3 minutes, until the beans are heated through.",
+    "Sprinkle the shredded cheese over the top of the beans and cook until melted and bubbly.",
+    "Serve hot, garnished with additional cheese if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "beans",
+    "skillet",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gloriously-dense-mexican-borlotti-beans-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T05:40:11.592Z"
+}
