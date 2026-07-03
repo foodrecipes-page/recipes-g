@@ -5895,15 +5895,14 @@
     "slug": "gently-flavored-tunisian-fish-tagine",
     "title": "Tunisian Fish Tagine",
     "tags": [
-      "fish-based",
       "north-african",
-      "one-pot",
-      "pescatarian",
-      "spicy",
-      "tagine"
+      "fish",
+      "tagine",
+      "easy",
+      "pescatarian"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 40,
+    "cuisine": "North African",
+    "totalTimeMin": 20,
     "shard": "g"
   },
   {
@@ -9812,16 +9811,15 @@
   },
   {
     "slug": "golden-crunchy-portuguese-pepper-skewers",
-    "title": "Golden Crunchy Portuguese Pepper Skewers",
+    "title": "Grilled Pepper Skewers with Portuguese Flair",
     "tags": [
-      "gluten-free",
-      "meal-prep",
-      "portuguese-cuisine",
-      "snack-ideas",
-      "vegan-friendly"
+      "grilled",
+      "portuguese",
+      "vegetarian",
+      "skewers"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
@@ -12874,15 +12872,16 @@
   },
   {
     "slug": "gooey-turkish-cashew-stir-fry",
-    "title": "Gooey Turkish Cashew Stir-fry",
+    "title": "Turkish Cashew Stir Fry",
     "tags": [
+      "turkish",
       "cashew",
-      "sour",
-      "goey",
-      "hangover-cure"
+      "vegetarian",
+      "stir-fry",
+      "easy"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 20,
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
