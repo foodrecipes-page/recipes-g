@@ -1,0 +1,81 @@
+{
+  "slug": "gooey-uruguayan-aubergine-stir-fry",
+  "title": "Uruguayan Aubergine Stir Fry",
+  "description": "A simple and flavorful dish combining the best of Uruguayan and Asian cuisines. The gooey sauce adds a sweet and tangy twist.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "aubergine",
+      "amount": "2",
+      "notes": "medium-sized"
+    },
+    {
+      "name": "uruguayan",
+      "amount": "1 tablespoon",
+      "notes": "uruguayan seasoning blend"
+    },
+    {
+      "name": "goey sauce",
+      "amount": "2 tablespoons",
+      "notes": "available in most supermarkets"
+    },
+    {
+      "name": "oil",
+      "amount": "1 tablespoon",
+      "notes": "vegetable or peanut oil"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet or wok over medium-high heat.",
+    "Add the minced garlic and grated ginger and stir-fry for 1 minute.",
+    "Add the sliced aubergine and stir-fry for 3-4 minutes, until it starts to soften.",
+    "Add the uruguayan seasoning blend and stir-fry for another minute.",
+    "Add the gooey sauce and stir-fry for 2-3 minutes, until the aubergine is coated.",
+    "Taste and adjust the seasoning with soy sauce and sesame seeds if desired.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "vegetarian",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-uruguayan-aubergine-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T23:32:11.237Z"
+}
