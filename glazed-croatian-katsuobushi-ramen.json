@@ -1,0 +1,89 @@
+{
+  "slug": "glazed-croatian-katsuobushi-ramen",
+  "title": "Croatian Ramen with Glazed Pork Belly",
+  "description": "A unique fusion of Croatian and Japanese flavors featuring a rich glazed pork belly on top of a savory ramen broth.",
+  "cuisine": "Croatian-Japanese",
+  "diet": [
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork belly",
+      "amount": "1 piece (about 1 kg)",
+      "notes": "Score the skin for crispy texture"
+    },
+    {
+      "name": "Glazed soy sauce",
+      "amount": "2 tbsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Katsuobushi",
+      "amount": "2 sheets",
+      "notes": "Dried and fermented bonito flakes"
+    },
+    {
+      "name": "Ramen noodles",
+      "amount": "200g",
+      "notes": "Japanese-style wheat noodles"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp",
+      "notes": "For serving"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 bunch",
+      "notes": "Thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F).",
+    "Season the pork belly with salt and black pepper.",
+    "In a small saucepan, combine 2 tbsp of soy sauce and 2 tbsp of water.",
+    "Bake the pork belly in the preheated oven for 30 minutes.",
+    "Increase the oven temperature to 220°C (425°F) and bake for another 20 minutes.",
+    "Meanwhile, cook the ramen noodles according to the package instructions.",
+    "In a separate saucepan, heat 2 tbsp of sesame oil over medium heat.",
+    "Add the thinly sliced onion and sauté until caramelized.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the dried katsuobushi and cook for 1-2 minutes, until fragrant.",
+    "Add the cooked ramen noodles to the saucepan and toss everything together.",
+    "Slice the glazed pork belly into thin strips.",
+    "Serve the ramen noodles in bowls, topped with sliced pork belly, green onions, and a drizzle of sesame oil."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 50,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "ramen",
+    "pork-belly",
+    "glazed-soy-sauce",
+    "katsuobushi",
+    "croatian-japanese"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 120,
+    "fat": 70
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/glazed-croatian-katsuobushi-ramen",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T00:42:17.992Z"
+}
