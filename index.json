@@ -2695,15 +2695,14 @@
   },
   {
     "slug": "garlicky-gooey-festive-gelatin-crumble",
-    "title": "Garlicky Gooey Festive Gelatin Crumble",
+    "title": "Festive Fruit Crumble",
     "tags": [
-      "gelatin",
-      "garlic",
-      "festive",
-      "argentinean"
+      "fruit",
+      "dessert",
+      "crumble"
     ],
-    "cuisine": "Argentinean",
-    "totalTimeMin": 35,
+    "cuisine": "American",
+    "totalTimeMin": 45,
     "shard": "g"
   },
   {
@@ -2914,16 +2913,16 @@
   },
   {
     "slug": "garlicky-indulgent-portuguese-boudin-noir-fried-rice",
-    "title": "garlicky indulgent portuguese fried rice with boudin-noir",
+    "title": "Fried Boudin Balls",
     "tags": [
-      "fried-rice",
-      "high-calorie",
-      "one-pan",
-      "portuguese",
-      "weeknight"
+      "crispy",
+      "fried",
+      "boudin",
+      "snack",
+      "appetizer"
     ],
     "cuisine": "portuguese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
