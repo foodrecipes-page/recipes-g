@@ -1,0 +1,83 @@
+{
+  "slug": "gooey-malaysian-muffin-stir-fry",
+  "title": "Malaysian Muffin Stir Fry",
+  "description": "A unique fusion of flavors and textures, this dish combines the crunch of a stir fry with the comfort of a muffin.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Gooey honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Muffin bread",
+      "amount": "1 loaf",
+      "notes": "cut into small cubes"
+    },
+    {
+      "name": "Fry oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Malaysian stir fry sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Snow peas",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the fry oil in a large skillet over medium-high heat.",
+    "Add the onion and bell pepper and stir-fry until they start to soften.",
+    "Add the snow peas and stir-fry for 2-3 minutes.",
+    "Add the muffin bread and stir-fry until it starts to brown.",
+    "Pour in the Malaysian stir fry sauce and stir-fry until the bread is well coated.",
+    "Transfer the mixture to a baking dish and drizzle with gooey honey.",
+    "Bake in a preheated oven at 375°F (190°C) for 10-15 minutes, or until the top is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "fusion",
+    "muffin",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-malaysian-muffin-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T20:57:21.929Z"
+}
