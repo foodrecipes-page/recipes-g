@@ -7662,18 +7662,16 @@
   },
   {
     "slug": "glazed-croatian-katsuobushi-ramen",
-    "title": "Glazed Croatian Katsuobushi Ramen",
+    "title": "Croatian Ramen with Glazed Pork Belly",
     "tags": [
-      "al-dente",
-      "bento-box",
-      "croatian",
-      "glazed",
-      "hangover-cure",
+      "ramen",
+      "pork-belly",
+      "glazed-soy-sauce",
       "katsuobushi",
-      "paleo-friendly"
+      "croatian-japanese"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 27,
+    "cuisine": "Croatian-Japanese",
+    "totalTimeMin": 80,
     "shard": "g"
   },
   {
@@ -12925,15 +12923,14 @@
   },
   {
     "slug": "gooey-uruguayan-aubergine-stir-fry",
-    "title": "Gooey Uruguayan Aubergine Stir-fry",
+    "title": "Uruguayan Aubergine Stir Fry",
     "tags": [
-      "goosey",
       "uruguayan",
-      "aubergine",
+      "vegetarian",
       "stir-fry"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 35,
+    "cuisine": "uruguayan",
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
@@ -14057,17 +14054,14 @@
   },
   {
     "slug": "great-lazy-brazilian-tofu-skillet",
-    "title": "Great Lazy Brazilian Tofu Skillet",
+    "title": "Brazilian Skillet",
     "tags": [
-      "brazilian-inspired",
-      "easy-dinner",
-      "lazy-sunday",
-      "one-pan",
-      "plant-based",
-      "tofu-recipes"
+      "skillet-dinner",
+      "brazilian-cuisine",
+      "vegetarian-options"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
