@@ -1,0 +1,67 @@
+{
+  "slug": "garlicky-aerated-dutch-galangal-pasta",
+  "title": "Galangal Pasta Stir Fry",
+  "description": "A flavorful and aromatic pasta dish made with galangal and a hint of garlic. This quick and easy recipe is perfect for a weeknight dinner.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "galangal",
+      "amount": "1 medium-sized piece",
+      "notes": "grated"
+    },
+    {
+      "name": "garlicky oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "aerated flour",
+      "amount": "1 tablespoon",
+      "notes": "to thicken sauce"
+    },
+    {
+      "name": "dutch cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "dried"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to package instructions.",
+    "In a large skillet, heat the garlicky oil over medium-high heat.",
+    "Add the grated galangal and sauté for 1-2 minutes until fragrant.",
+    "Add the aerated flour and stir to combine, cooking for an additional minute.",
+    "Gradually add in the grated dutch cheese, stirring constantly until smooth.",
+    "Add the cooked pasta to the skillet and toss to combine with the galangal sauce.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pasta",
+    "stir-fry",
+    "italian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-aerated-dutch-galangal-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:00:58.191Z"
+}
