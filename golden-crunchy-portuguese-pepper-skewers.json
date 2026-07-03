@@ -1,0 +1,79 @@
+{
+  "slug": "golden-crunchy-portuguese-pepper-skewers",
+  "title": "Grilled Pepper Skewers with Portuguese Flair",
+  "description": "A flavorful and colorful dish featuring marinated peppers, onions, and tomatoes, grilled to perfection on skewers, with a hint of Portuguese influence.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Peppers (4)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onions (1)",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tomatoes (2)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Golden potatoes (4",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Portuguese seasonings (1 tsp)",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Crunchy garlic (2 cloves)",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Skewers (10)",
+      "amount": "10",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Cut peppers, onions, and tomatoes into bite-sized pieces.",
+    "3. In a large bowl, whisk together Portuguese seasonings, olive oil, and a pinch of salt and pepper.",
+    "4. Add the vegetables to the bowl and toss to coat.",
+    "5. Thread the vegetables onto the skewers, leaving a little space between each piece.",
+    "6. Brush the grill with oil to prevent sticking.",
+    "7. Grill the skewers for 8-10 minutes, turning occasionally, until the vegetables are tender.",
+    "8. Remove from heat and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "portuguese",
+    "vegetarian",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-crunchy-portuguese-pepper-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T20:36:45.171Z"
+}
