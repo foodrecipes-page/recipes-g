@@ -1902,17 +1902,14 @@
   },
   {
     "slug": "garlicky-dash-friendly-chinese-minari-stir-fry",
-    "title": "Garlicky Dash-Friendly Chinese Minari Stir-fry",
+    "title": "Garlicky Stir Fry",
     "tags": [
-      "gluten-free",
-      "one-pan",
-      "quick-dinner",
+      "garlicky",
       "stir-fry",
-      "vegetarian",
-      "weeknight"
+      "vegetarian"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 22,
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
@@ -12121,17 +12118,15 @@
   },
   {
     "slug": "gooey-molten-turkish-tofu-adana-kebap",
-    "title": "Gooey Molten Turkish Tofu Adana Kebap",
+    "title": "Turkish-Style Adana Kebap with Gooey Egg",
     "tags": [
-      "adana-kebap",
-      "high-protein",
-      "shojin-friendly",
-      "tava-griddle",
-      "turkish-cuisine",
+      "turkish",
+      "kebap",
+      "breakfast",
       "vegetarian"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
