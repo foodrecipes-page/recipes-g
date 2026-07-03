@@ -1,0 +1,70 @@
+{
+  "slug": "gooey-turkish-boudin-blanc-poke",
+  "title": "Boudin and Blanc Gooey Breakfast Bake",
+  "description": "A savory, gooey breakfast dish featuring boudin sausage and a rich blanc sauce.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Boudin sausage",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Blanc sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Gooey cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Poke bread",
+      "amount": "1 loaf, cut into 1-inch cubes"
+    },
+    {
+      "name": "Turkish butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the boudin sausage into 1-inch pieces and cook in a skillet over medium-high heat until browned, about 5 minutes.",
+    "Transfer the cooked sausage to a 9x13-inch baking dish.",
+    "Pour the blanc sauce over the sausage, followed by the shredded gooey cheese.",
+    "Arrange the poke bread cubes on top of the cheese.",
+    "Drizzle the Turkish butter over the bread.",
+    "Season with salt and pepper to taste.",
+    "Cover the dish with aluminum foil and bake for 20 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "boudin",
+    "blanc",
+    "gooey",
+    "cheese",
+    "poke"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-turkish-boudin-blanc-poke",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:14:19.135Z"
+}
