@@ -1,0 +1,83 @@
+{
+  "slug": "golden-creamy-croatian-pork-pasta",
+  "title": "Croatian Pasta Bake",
+  "description": "A hearty pasta bake with a twist of Croatian flavors and a creamy golden sauce.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "penne or macaroni work well"
+    },
+    {
+      "name": "golden paprika",
+      "amount": "2 tbsp",
+      "notes": "smoked paprika can be substituted"
+    },
+    {
+      "name": "creamy sour cream",
+      "amount": "1/2 cup",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "croatian cheese",
+      "amount": "1/4 cup",
+      "notes": "paški sir or similar work well"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook pasta according to package instructions until al dente. Drain and set aside.",
+    "In a large skillet, heat olive oil over medium heat. Add minced garlic and cook for 1-2 minutes until fragrant.",
+    "Stir in golden paprika, sour cream, and Croatian cheese. Bring the mixture to a simmer and let cook for 2-3 minutes until slightly thickened.",
+    "In a large mixing bowl, combine cooked pasta, paprika sauce, and salt. Mix well to combine.",
+    "Transfer the pasta mixture to a baking dish and top with additional Croatian cheese.",
+    "Bake in the preheated oven for 15-20 minutes until the top is golden brown and the pasta is heated through.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "pasta",
+    "bake",
+    "creamy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-creamy-croatian-pork-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T17:27:38.697Z"
+}
