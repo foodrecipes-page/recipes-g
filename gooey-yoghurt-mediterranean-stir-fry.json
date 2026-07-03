@@ -1,0 +1,64 @@
+{
+  "slug": "gooey-yoghurt-mediterranean-stir-fry",
+  "title": "Mediterranean Yoghurt Stew",
+  "description": "A light and refreshing stew perfect for a snack or light meal. This dish is packed with the flavors of the Mediterranean.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Gooey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Yoghurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mediterranean stir fry",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the Gooey in a saucepan over low heat.",
+    "Add the Mediterranean stir fry and stir until heated through.",
+    "Stir in the yoghurt until well combined.",
+    "Season with salt and pepper to taste.",
+    "Cook for an additional 2-3 minutes.",
+    "Serve warm or chilled.",
+    "Garnish with additional yoghurt if desired.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "stew",
+    "yoghurt",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-yoghurt-mediterranean-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T04:36:39.224Z"
+}
