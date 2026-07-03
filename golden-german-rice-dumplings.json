@@ -1,0 +1,78 @@
+{
+  "slug": "golden-german-rice-dumplings",
+  "title": "German-Style Dumpling Stew",
+  "description": "A hearty German-inspired stew made with juicy dumplings and a flavorful broth.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "german",
+      "amount": "2 cups, sliced",
+      "notes": ""
+    },
+    {
+      "name": "dumplings",
+      "amount": "4-6, homemade or store-bought",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped",
+      "notes": "optional"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring the sliced german and 4 cups of water to a boil in a large pot.",
+    "Reduce the heat to medium-low and simmer for 20 minutes.",
+    "While the german is cooking, prepare the dumplings according to the package instructions or make your own using a simple dumpling recipe.",
+    "Add the cooked dumplings to the pot and continue to simmer for an additional 10 minutes.",
+    "Add the cooked rice to the pot and stir to combine.",
+    "If using onion and caraway seeds, add them to the pot and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "stew",
+    "dumplings",
+    "comfortfood"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-german-rice-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T17:27:49.109Z"
+}
