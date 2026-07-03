@@ -636,16 +636,14 @@
   },
   {
     "slug": "garlicky-aerated-dutch-galangal-pasta",
-    "title": "Garlicky Aerated Dutch Galangal Pasta",
+    "title": "Galangal Pasta Stir Fry",
     "tags": [
-      "emulsion",
-      "grilled",
-      "paleo",
-      "smoky",
-      "weeknight"
+      "pasta",
+      "stir-fry",
+      "italian"
     ],
-    "cuisine": "dutch",
-    "totalTimeMin": 40,
+    "cuisine": "italian",
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
@@ -7085,18 +7083,15 @@
   },
   {
     "slug": "glamorous-egyptian-tofu-tagine",
-    "title": "Glamorous Egyptian Tofu Tagine",
+    "title": "Tofu Tagine with Egyptian Glamour",
     "tags": [
-      "date-night",
+      "vegan",
       "gluten-free",
-      "high-protein",
-      "lacto-vegetarian",
-      "moroccan-inspired",
-      "one-pan",
-      "weeknight"
+      "moroccan",
+      "european"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 50,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 45,
     "shard": "g"
   },
   {
@@ -7869,13 +7864,12 @@
   },
   {
     "slug": "glazed-silky-venezuelan-aubergine-frittata",
-    "title": "Glazed Silky Venezuelan Aubergine Frittata",
+    "title": "Savory Aubergine Frittata with Silkiness",
     "tags": [
-      "glazed",
-      "one-pan",
-      "ovo-vegetarian",
-      "quick-meal",
-      "silky"
+      "breakfast",
+      "aubergine",
+      "frittata",
+      "venezuelan"
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 30,
@@ -12040,14 +12034,15 @@
   },
   {
     "slug": "gooey-malaysian-muffin-stir-fry",
-    "title": "Earthy Gooey Muffin Stir-fry",
+    "title": "Malaysian Muffin Stir Fry",
     "tags": [
-      "goey",
-      "malaysian",
+      "breakfast",
+      "fusion",
+      "muffin",
       "stir-fry"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 20,
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
