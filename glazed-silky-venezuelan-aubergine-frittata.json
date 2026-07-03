@@ -1,0 +1,69 @@
+{
+  "slug": "glazed-silky-venezuelan-aubergine-frittata",
+  "title": "Savory Aubergine Frittata with Silkiness",
+  "description": "A simple Venezuelan-inspired breakfast frittata with aubergine and silky texture. Perfect for a weekend brunch.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "aubergine",
+      "amount": "1 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "frittata",
+      "amount": "6 eggs",
+      "notes": "beaten"
+    },
+    {
+      "name": "glazed",
+      "amount": "1/4 cup olive oil",
+      "notes": "for brushing aubergine"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Brush the aubergine slices with olive oil and season with salt and pepper.",
+    "Sauté the aubergine slices in a pan until softened.",
+    "In a separate bowl, beat the eggs and set aside.",
+    "In the same pan, add the eggs and cook until the edges start to set.",
+    "Add the sautéed aubergine to the eggs and gently fold.",
+    "Transfer the frittata to a baking dish and bake for 15-20 minutes.",
+    "Remove from the oven and let it cool for 5 minutes.",
+    "Slice and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "aubergine",
+    "frittata",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 12,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/glazed-silky-venezuelan-aubergine-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:07:32.535Z"
+}
