@@ -3922,18 +3922,16 @@
   },
   {
     "slug": "garlicky-roasted-thai-fish-bowl",
-    "title": "Garlicky Roasted Thai Fish Bowl",
+    "title": "Thai Fish Bowl",
     "tags": [
-      "easy-to-make",
-      "fish",
-      "gluten-free",
-      "keto",
-      "one-pan",
       "thai",
-      "weeknight"
+      "fish",
+      "bowl",
+      "gluten-free",
+      "vegetarian"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 20,
+    "totalTimeMin": 22,
     "shard": "g"
   },
   {
@@ -8466,16 +8464,15 @@
   },
   {
     "slug": "gloriously-dense-mexican-borlotti-beans-skillet",
-    "title": "Gloriously Dense Mexican Borlotti Beans Skillet",
+    "title": "Mexican Bean Skillet",
     "tags": [
-      "high-protein",
-      "keto-friendly",
-      "mexican-inspired",
-      "one-pan",
-      "weeknight"
+      "mexican",
+      "beans",
+      "skillet",
+      "vegetarian"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
@@ -12616,14 +12613,16 @@
   },
   {
     "slug": "gooey-spicy-canadian-citrus-peel-stir-fry",
-    "title": "Gooey Spicy Canadian Citrus Peel Stir-fry",
+    "title": "Citrus and Spicy Canadian Pancakes",
     "tags": [
-      "gluten-free",
-      "citrusy",
-      "spicy"
+      "breakfast",
+      "pancakes",
+      "citrus",
+      "spicy",
+      "canadian"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 35,
+    "cuisine": "North American",
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
@@ -12961,14 +12960,15 @@
   },
   {
     "slug": "gooey-yoghurt-mediterranean-stir-fry",
-    "title": "Gooey Yoghurt Mediterranean Stir-fry",
+    "title": "Mediterranean Yoghurt Stew",
     "tags": [
-      "yoghurt",
       "mediterranean",
-      "stir-fry"
+      "stew",
+      "yoghurt",
+      "snack"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 25,
+    "totalTimeMin": 10,
     "shard": "g"
   },
   {
