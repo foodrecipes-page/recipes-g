@@ -3371,18 +3371,15 @@
   },
   {
     "slug": "garlicky-light-mediterranean-leek-braised",
-    "title": "Garlicky Light Mediterranean Leek Braised",
+    "title": "Mediterranean Braised Leek Dish",
     "tags": [
-      "braised",
-      "easy-to-make",
-      "garlic",
-      "leek",
       "mediterranean",
-      "special-occasion",
+      "leek",
+      "braised",
       "vegetarian"
     ],
-    "cuisine": "mediterranean",
-    "totalTimeMin": 50,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {
@@ -9405,17 +9402,15 @@
   },
   {
     "slug": "golden-creamy-croatian-pork-pasta",
-    "title": "Golden Creamy Croatian Pork Pasta",
+    "title": "Croatian Pasta Bake",
     "tags": [
-      "cream-sauce",
-      "croatian-cuisine",
-      "low-fodmap",
-      "one-pan",
-      "pork-dish",
-      "weeknight"
+      "croatian",
+      "pasta",
+      "bake",
+      "creamy"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "g"
   },
   {
@@ -10023,17 +10018,15 @@
   },
   {
     "slug": "golden-german-rice-dumplings",
-    "title": "Golden German Rice Dumplings",
+    "title": "German-Style Dumpling Stew",
     "tags": [
-      "bouncy-qq",
-      "german-influenced",
-      "halal-friendly",
-      "pickled-flavor",
-      "quick-dinner",
-      "rice-dumplings"
+      "german",
+      "stew",
+      "dumplings",
+      "comfortfood"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 40,
+    "cuisine": "german",
+    "totalTimeMin": 50,
     "shard": "g"
   },
   {
