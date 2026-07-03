@@ -1,0 +1,90 @@
+{
+  "slug": "gooey-molten-turkish-tofu-adana-kebap",
+  "title": "Turkish-Style Adana Kebap with Gooey Egg",
+  "description": "A flavorful and spicy Turkish-inspired dish featuring marinated adana kebap served with a gooey egg and served with a side of turkish salad.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "adana kebap",
+      "amount": "1 package",
+      "notes": "look for vegetarian or vegan option"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "marinate with kebap spices"
+    },
+    {
+      "name": "molten cheese",
+      "amount": "1 cup",
+      "notes": "such as halloumi or paneer"
+    },
+    {
+      "name": "turkish bread",
+      "amount": "1 loaf",
+      "notes": "for serving"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 cup",
+      "notes": "for salad"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 cup",
+      "notes": "for salad"
+    },
+    {
+      "name": "onion",
+      "amount": "1 cup",
+      "notes": "for salad"
+    },
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": "for gooey egg"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium heat.",
+    "Cook adana kebap according to package instructions.",
+    "Meanwhile, toast turkish bread and slice in half.",
+    "In a separate skillet, heat olive oil over medium heat.",
+    "Add marinated tofu and cook until golden brown.",
+    "Assemble the dish by placing cooked adana kebap on toasted bread, topping with tofu, and serving with a side of salad.",
+    "To make the gooey egg, crack an egg into a hot skillet and cook until the whites are set and the yolks are still runny.",
+    "Serve the gooey egg on top of the kebap and bread.",
+    "Garnish with molten cheese and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "kebap",
+    "breakfast",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-molten-turkish-tofu-adana-kebap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T05:57:05.961Z"
+}
