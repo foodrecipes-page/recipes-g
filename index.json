@@ -14377,17 +14377,14 @@
   },
   {
     "slug": "grill-seared-jamaican-duck-grill",
-    "title": "Grill-Seared Jamaican Duck",
+    "title": "Jamaican Grilled Duck",
     "tags": [
-      "duck",
-      "grilled",
-      "high-protein",
       "jamaican",
-      "robata",
-      "weeknight"
+      "grilled",
+      "duck"
     ],
     "cuisine": "jamaican",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
