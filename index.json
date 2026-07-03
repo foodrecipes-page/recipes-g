@@ -7774,17 +7774,15 @@
   },
   {
     "slug": "glazed-indulgent-irish-salmon-casserole",
-    "title": "Glazed Indulgent Irish Salmon Casserole",
+    "title": "Irish Salmon Casserole",
     "tags": [
-      "comfort-food",
-      "gluten-free",
       "irish-cuisine",
-      "keto-friendly",
-      "seafood-lovers",
-      "special-occasion"
+      "seafood",
+      "comfort-food",
+      "casserole"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 65,
+    "cuisine": "irish",
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {
@@ -12853,16 +12851,17 @@
   },
   {
     "slug": "gooey-turkish-boudin-blanc-poke",
-    "title": "Gooey Turkish Boudin Blanc Poke",
+    "title": "Boudin and Blanc Gooey Breakfast Bake",
     "tags": [
       "breakfast",
-      "high-protein",
-      "sick-day",
-      "turkish-cuisine",
-      "weeknight"
+      "boudin",
+      "blanc",
+      "gooey",
+      "cheese",
+      "poke"
     ],
-    "cuisine": "turkish",
-    "totalTimeMin": 40,
+    "cuisine": "American",
+    "totalTimeMin": 45,
     "shard": "g"
   },
   {
