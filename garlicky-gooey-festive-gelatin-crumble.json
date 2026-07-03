@@ -1,0 +1,67 @@
+{
+  "slug": "garlicky-gooey-festive-gelatin-crumble",
+  "title": "Festive Fruit Crumble",
+  "description": "A sweet and tangy dessert featuring a crunchy crumble topping and a festive twist.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Gooey brown sugar",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Festive mixed berries",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Gelatin",
+      "amount": "1/4 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "Crumble topping",
+      "amount": "1 cup",
+      "notes": "pre-made"
+    },
+    {
+      "name": "Garlicky butter",
+      "amount": "1/2 cup",
+      "notes": "softened"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, mix together the gooey brown sugar and festive mixed berries.",
+    "Add the gelatin to the bowl and stir until dissolved.",
+    "Transfer the mixture to a 9x9-inch baking dish.",
+    "In a separate bowl, mix together the crumble topping and garlicky butter.",
+    "Spread the crumble mixture evenly over the top of the berry mixture.",
+    "Bake for 35-40 minutes, or until the topping is golden brown and the fruit is bubbly.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "fruit",
+    "dessert",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-gooey-festive-gelatin-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T04:10:20.511Z"
+}
