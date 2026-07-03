@@ -1,0 +1,84 @@
+{
+  "slug": "great-lazy-brazilian-tofu-skillet",
+  "title": "Brazilian Skillet",
+  "description": "A hearty and flavorful Brazilian-inspired skillet dish made with great ingredients.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "pressed and drained"
+    },
+    {
+      "name": "lazy",
+      "amount": "1 bag",
+      "notes": "fresh spinach leaves"
+    },
+    {
+      "name": "skillet",
+      "amount": "1",
+      "notes": "large cast-iron skillet"
+    },
+    {
+      "name": "great",
+      "amount": "1",
+      "notes": "large red bell pepper, sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Heat the olive oil in the skillet over medium-high heat.",
+    "Add the sliced red bell pepper and cook until tender, about 3-4 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the pressed and drained tofu to the skillet and cook until lightly browned, about 3-4 minutes.",
+    "Add the fresh spinach leaves to the skillet and cook until wilted, about 1-2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Transfer the skillet to the preheated oven and bake for 10-12 minutes, or until the tofu is golden brown and the spinach is heated through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "skillet-dinner",
+    "brazilian-cuisine",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/great-lazy-brazilian-tofu-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T00:51:58.038Z"
+}
