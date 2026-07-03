@@ -1,0 +1,85 @@
+{
+  "slug": "garlicky-roasted-thai-fish-bowl",
+  "title": "Thai Fish Bowl",
+  "description": "A flavorful and healthy Thai-inspired fish bowl with roasted vegetables and a kick of garlicky goodness.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish (such as tilapia or cod)",
+      "amount": "4 oz",
+      "notes": "Fresh or frozen, thawed"
+    },
+    {
+      "name": "Garlicky Sauce",
+      "amount": "2 tbsp",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Roasted Vegetables",
+      "amount": "1 cup",
+      "notes": "Pre-roasted bell peppers, carrots, and broccoli"
+    },
+    {
+      "name": "Thai Basil",
+      "amount": "1/4 cup",
+      "notes": "Fresh or dried"
+    },
+    {
+      "name": "Bowl Rice",
+      "amount": "1 cup",
+      "notes": "Cooked white or brown rice"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tsp",
+      "notes": "Optional garnish"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": "Fresh or bottled"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the fish with salt and pepper. Bake in the oven for 8-10 minutes or until cooked through.",
+    "Heat the garlicky sauce in a pan over medium heat.",
+    "Add the roasted vegetables to the pan and stir to combine.",
+    "Add the cooked fish to the pan and stir to combine.",
+    "Serve the fish and vegetables over a bed of cooked rice.",
+    "Garnish with Thai basil, sesame seeds, and a squeeze of lime juice.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "fish",
+    "bowl",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-roasted-thai-fish-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T04:56:55.125Z"
+}
