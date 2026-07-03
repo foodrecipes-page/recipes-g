@@ -1,0 +1,89 @@
+{
+  "slug": "gently-flavored-tunisian-fish-tagine",
+  "title": "Tunisian Fish Tagine",
+  "description": "A flavorful North African-inspired fish dish cooked in a traditional clay pot. Flaky fish, aromatic spices, and a hint of sweetness come together in this easy-to-make tagine.",
+  "cuisine": "North African",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish (1 lb)",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Tunisian Tagine Spice Mix (1/2 tsp)",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Gently Fried Onions (1/4 cup)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Flavored Olive Oil (2 tbsp)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Parsley (1/4 cup)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt (to taste)",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper (to taste)",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice (2 tbsp)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Honey (1 tsp)",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season the fish with salt and black pepper.",
+    "Heat the flavored olive oil in a large clay pot or Dutch oven over medium heat.",
+    "Add the gently fried onions and cook until fragrant.",
+    "Add the Tunisian Tagine Spice Mix and cook for 1 minute.",
+    "Arrange the fish in the pot and spoon some of the spice mix over the top.",
+    "Pour in the lemon juice and honey.",
+    "Cover the pot and cook for 8-10 minutes or until the fish is cooked through.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "north-african",
+    "fish",
+    "tagine",
+    "easy",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 8,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gently-flavored-tunisian-fish-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T19:50:09.459Z"
+}
