@@ -1,0 +1,70 @@
+{
+  "slug": "garlicky-dash-friendly-chinese-minari-stir-fry",
+  "title": "Garlicky Stir Fry",
+  "description": "A quick and flavorful stir fry dish using garlicky flavors. Pair it with a side of rice for a filling meal.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Garlicky",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Minari",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Friendly",
+      "amount": "1 cup",
+      "notes": "your favorite stir-fry vegetables"
+    },
+    {
+      "name": "Dash",
+      "amount": "1 tsp",
+      "notes": "soy sauce"
+    },
+    {
+      "name": "Chinese",
+      "amount": "1 tsp",
+      "notes": "chili flakes"
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large skillet over medium-high heat.",
+    "Add 1 tablespoon of oil and swirl it around. Then add minced garlicky.",
+    "Cook for 1-2 minutes until fragrant.",
+    "Add your favorite stir-fry vegetables (friendly) and cook for 3-4 minutes.",
+    "Add the chopped minari and cook for another 2 minutes.",
+    "In a small bowl, whisk together soy sauce (dash) and chili flakes (chinese).",
+    "Pour the sauce into the wok and stir to combine.",
+    "Cook for an additional 1-2 minutes until the sauce has thickened.",
+    "Serve hot over rice or noodles.",
+    "Garnish with green onions and a sprinkle of sesame seeds (optional).",
+    "Enjoy your delicious garlicky stir fry!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "garlicky",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-dash-friendly-chinese-minari-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T06:47:37.120Z"
+}
