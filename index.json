@@ -11000,16 +11000,15 @@
   },
   {
     "slug": "gooey-algerian-rest-meat-tagine",
-    "title": "Gooey Algerian Rest-meat Tagine",
+    "title": "Algerian-Style Gooey Tagine",
     "tags": [
       "algerian",
-      "high-protein",
-      "one-pan",
-      "post-workout",
-      "weeknight"
+      "tagine",
+      "meat",
+      "stew"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 60,
+    "cuisine": "algerian",
+    "totalTimeMin": 105,
     "shard": "g"
   },
   {
