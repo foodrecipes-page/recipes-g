@@ -1,0 +1,83 @@
+{
+  "slug": "gooey-turkish-cashew-stir-fry",
+  "title": "Turkish Cashew Stir Fry",
+  "description": "A quick and easy stir fry recipe combining the flavors of Turkey with the creaminess of cashews.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cashews",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Gooey",
+      "amount": "2 tbsp",
+      "notes": "olive oil"
+    },
+    {
+      "name": "Turkish Stir Fry Spices",
+      "amount": "1 tsp",
+      "notes": "available at most Middle Eastern grocery stores"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the gooey in a large skillet over medium-high heat.",
+    "Add the onion and bell pepper and cook until tender, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the cashews and stir-fry for 2-3 minutes.",
+    "Add the Turkish Stir Fry Spices and cook for 1 minute.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "cashew",
+    "vegetarian",
+    "stir-fry",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-turkish-cashew-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T19:48:13.323Z"
+}
