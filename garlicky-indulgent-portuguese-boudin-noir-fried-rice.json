@@ -1,0 +1,64 @@
+{
+  "slug": "garlicky-indulgent-portuguese-boudin-noir-fried-rice",
+  "title": "Fried Boudin Balls",
+  "description": "Crispy fried boudin balls are a delicious twist on traditional boudin. Perfect as a snack or appetizer.",
+  "cuisine": "portuguese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "boudin",
+      "amount": "1 pound"
+    },
+    {
+      "name": "garlicky fried rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "indulgent breadcrumbs",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 375°F (190°C).",
+    "In a large bowl, combine the boudin, fried rice, flour, egg, and breadcrumbs. Mix well until just combined.",
+    "Using your hands, shape the mixture into small balls, about 1 1/2 inches in diameter.",
+    "Dredge the boudin balls in the flour, shaking off any excess.",
+    "Gently place the boudin balls into the hot oil, being careful not to overcrowd the pan.",
+    "Fry the boudin balls for 3-4 minutes on each side, or until golden brown and crispy.",
+    "Using a slotted spoon, remove the boudin balls from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the fried boudin balls hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "fried",
+    "boudin",
+    "snack",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-indulgent-portuguese-boudin-noir-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T04:20:24.911Z"
+}
