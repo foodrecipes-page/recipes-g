@@ -1,0 +1,59 @@
+{
+  "slug": "gshattering-celery-smoky-pilaf",
+  "title": "Smoky Pilaf with Crispy Celery",
+  "description": "A flavorful and crunchy pilaf dish made with smoky spices and crispy celery. Perfect for a quick and easy meal.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "Smoky spices",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Gshattering (assuming garlic)",
+      "amount": "2 cloves"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a pan over medium heat.",
+    "Add the gshattering (garlic) and cook for 1 minute.",
+    "Add the smoky spices and cook for another minute.",
+    "Add the pilaf to the pan and cook for 2-3 minutes.",
+    "Add the celery to the pan and cook until crispy.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "quick",
+    "vegetarian",
+    "pilaf",
+    "celery"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gshattering-celery-smoky-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T19:48:18.852Z"
+}
