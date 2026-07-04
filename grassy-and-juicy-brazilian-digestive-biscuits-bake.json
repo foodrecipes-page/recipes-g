@@ -1,0 +1,68 @@
+{
+  "slug": "grassy-and-juicy-brazilian-digestive-biscuits-bake",
+  "title": "Brazilian Biscuit Bake",
+  "description": "A delicious Brazilian-inspired dessert featuring a crunchy biscuit crust and a sweet, juicy filling. Perfect for a sweet treat.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "biscuits",
+      "amount": "1 1/2 cups",
+      "notes": "crushed"
+    },
+    {
+      "name": "grassy",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "juicy",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "In a medium bowl, mix together crushed biscuits and sugar.",
+    "Press the biscuit mixture into the bottom of a 9x9-inch baking dish.",
+    "In a separate bowl, whisk together eggs and mix in juicy and grassy.",
+    "Pour the egg mixture over the biscuit crust.",
+    "Bake for 35-40 minutes, or until the edges are golden brown.",
+    "Allow to cool completely before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "dessert",
+    "biscuit",
+    "grassy",
+    "juicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grassy-and-juicy-brazilian-digestive-biscuits-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T16:19:48.344Z"
+}
