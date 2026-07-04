@@ -1,0 +1,77 @@
+{
+  "slug": "garden-fresh-polish-raw-vegetables-salad",
+  "title": "Polish Garden Salad",
+  "description": "A refreshing salad made with fresh vegetables from your garden, perfect for a light summer meal.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fresh Cucumber",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Garden Carrots",
+      "amount": "4 medium"
+    },
+    {
+      "name": "Polish Radishes",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Raw Red Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Salad Lettuce",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Fresh Dill",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vegan Salad Dressing",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Wash and slice the cucumbers, carrots, radishes, and red onion.",
+    "Chop the fresh dill.",
+    "In a large bowl, combine the lettuce, sliced vegetables, and chopped dill.",
+    "Dress the salad with the vegan salad dressing and season with salt and black pepper.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "garden-fresh",
+    "polish-cuisine",
+    "light-meal"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garden-fresh-polish-raw-vegetables-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T12:25:48.972Z"
+}
