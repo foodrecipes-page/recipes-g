@@ -1,0 +1,67 @@
+{
+  "slug": "gozzle-zesty-butternut-squash-nut-free-friendly-oozy-crumble",
+  "title": "Autumnal Squash Crumble",
+  "description": "A hearty and comforting dessert featuring roasted squash topped with a crunchy oat and nut crumble.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "butternut squash",
+      "amount": "1 medium",
+      "notes": " peeled and cubed"
+    },
+    {
+      "name": "zesty",
+      "amount": "1/2 cup",
+      "notes": " brown sugar"
+    },
+    {
+      "name": "nut",
+      "amount": "1/2 cup",
+      "notes": " chopped walnuts"
+    },
+    {
+      "name": "oozy",
+      "amount": "1/4 cup",
+      "notes": " honey"
+    },
+    {
+      "name": "crumble",
+      "amount": "1 cup",
+      "notes": " rolled oats"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Toss the squash with 2 tablespoons of the zesty and spread on a baking sheet. Roast for 20 minutes.",
+    "In a separate bowl, mix the nut, oozy, and crumble. Add the remaining zesty and mix until crumbly.",
+    "Transfer the roasted squash to a baking dish and top with the crumble mixture.",
+    "Bake for an additional 20-25 minutes or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "squares",
+    "crumble",
+    "fall",
+    "vegetarian",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 45,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gozzle-zesty-butternut-squash-nut-free-friendly-oozy-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T20:22:32.659Z"
+}
