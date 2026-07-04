@@ -3188,17 +3188,15 @@
   },
   {
     "slug": "garlicky-kenyan-mushrooms-biko",
-    "title": "Garlicky Kenyan Mushrooms Biko",
+    "title": "Kenyan Mushroom Biko",
     "tags": [
-      "deep-fried",
-      "kenyan",
-      "low-fat",
       "mushroom",
-      "one-pan",
-      "weeknight"
+      "kenyan",
+      "biko",
+      "gluten-free"
     ],
     "cuisine": "kenyan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
@@ -7033,17 +7031,16 @@
   },
   {
     "slug": "gingerly-smoky-syrian-chicken-tagine",
-    "title": "Gingerly Smoky Syrian Chicken Tagine",
+    "title": "Syrian Chicken Tagine",
     "tags": [
-      "ginger",
-      "gluten-free",
-      "romantic-dinner",
-      "smoky-flavors",
-      "weeknight",
-      "whole30-friendly"
+      "syrian",
+      "chicken",
+      "tagine",
+      "middle-eastern",
+      "stew"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 55,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 60,
     "shard": "g"
   },
   {
@@ -7480,16 +7477,14 @@
   },
   {
     "slug": "glassy-portuguese-elderflower-broth",
-    "title": "Glassy Portuguese Elderflower Broth",
+    "title": "Elderflower Portuguese Soup",
     "tags": [
-      "gluten-free",
-      "hangover-cure",
-      "portuguese-cuisine",
-      "refreshing-drink",
-      "vegan-friendly"
+      "elderflower",
+      "portuguese",
+      "soup"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 55,
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
@@ -13328,15 +13323,16 @@
   },
   {
     "slug": "gozzle-zesty-butternut-squash-nut-free-friendly-oozy-crumble",
-    "title": "Gozzle Zesty Butternut Squash Nut-Free-Friendly Oozy Crumble",
+    "title": "Autumnal Squash Crumble",
     "tags": [
-      "candy",
-      "croation-dessert",
-      "nut-free-friendly",
-      "zesty"
+      "squares",
+      "crumble",
+      "fall",
+      "vegetarian",
+      "dessert"
     ],
-    "cuisine": "croation",
-    "totalTimeMin": 35,
+    "cuisine": "American",
+    "totalTimeMin": 50,
     "shard": "g"
   },
   {
@@ -15079,16 +15075,16 @@
   },
   {
     "slug": "gshattering-celery-smoky-pilaf",
-    "title": "GShattering Celery Smoky Pilaf",
+    "title": "Smoky Pilaf with Crispy Celery",
     "tags": [
-      "celery",
-      "halal",
-      "japanese",
+      "easy",
+      "quick",
+      "vegetarian",
       "pilaf",
-      "smoky"
+      "celery"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 80,
+    "cuisine": null,
+    "totalTimeMin": 15,
     "shard": "g"
   },
   {
