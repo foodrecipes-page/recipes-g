@@ -11130,15 +11130,14 @@
   },
   {
     "slug": "gooey-bitter-dutch-uni-roast",
-    "title": "Gooey Bitter Dutch Uni Roast",
+    "title": "Dutch Roast Uni Tart",
     "tags": [
-      "high-protein",
-      "low-carb",
-      "one-pan",
-      "weeknight"
+      "snack",
+      "tart",
+      "uni"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 75,
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {
@@ -11997,13 +11996,15 @@
   },
   {
     "slug": "gooey-korean-apple-polish-dish",
-    "title": "Gooey Korean Apple Polish Dish",
+    "title": "Polish Apple Gooey Strudel",
     "tags": [
-      "hangover-cure",
-      "korean-apple-dish"
+      "apple",
+      "strudel",
+      "polish",
+      "dessert"
     ],
-    "cuisine": "Korean",
-    "totalTimeMin": 55,
+    "cuisine": "polish",
+    "totalTimeMin": 45,
     "shard": "g"
   },
   {
