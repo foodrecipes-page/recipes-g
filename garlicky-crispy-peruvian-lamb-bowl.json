@@ -1,0 +1,79 @@
+{
+  "slug": "garlicky-crispy-peruvian-lamb-bowl",
+  "title": "Crispy Lamb Bowl with Peruvian Twist",
+  "description": "A flavorful and aromatic bowl dish featuring crispy lamb, crunchy garlicky elements, and a hint of Peruvian spices.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince"
+    },
+    {
+      "name": "Peruvian aji amarillo peppers",
+      "amount": "2",
+      "notes": "Diced"
+    },
+    {
+      "name": "Crispy plantain chips",
+      "amount": "1 cup",
+      "notes": "Crushed"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the lamb with salt and bake for 20 minutes.",
+    "In a pan, heat 1 tablespoon of oil. Add the minced garlic and cook for 1 minute.",
+    "Add the diced aji amarillo peppers and cook for an additional 2 minutes.",
+    "Add the cooked lamb to the pan and stir to combine.",
+    "Warm the crispy plantain chips in the oven for 2 minutes.",
+    "To assemble the bowls, place a portion of the lamb mixture on the bottom.",
+    "Top with crushed plantain chips, chopped cilantro, and a squeeze of lime juice.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "lamb",
+    "bowl",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-crispy-peruvian-lamb-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T09:01:06.018Z"
+}
