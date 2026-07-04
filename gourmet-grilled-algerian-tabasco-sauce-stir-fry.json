@@ -1,0 +1,81 @@
+{
+  "slug": "gourmet-grilled-algerian-tabasco-sauce-stir-fry",
+  "title": "Grilled Algerian Chicken with Spicy Gourmet Sauce",
+  "description": "A flavorful and spicy dish from Algeria, served with a rich gourmet sauce. Perfect for grilled chicken lovers.",
+  "cuisine": "algerian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "4",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for grilling"
+    },
+    {
+      "name": "gourmet sauce",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "grilled red pepper",
+      "amount": "1",
+      "notes": "roasted and pureed"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tabasco sauce",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Season the chicken breasts with salt, pepper, and a pinch of garlic.",
+    "3. Grill the chicken for 5-6 minutes per side, or until cooked through.",
+    "4. Meanwhile, heat the olive oil in a pan over medium heat.",
+    "5. Add the minced garlic and cook for 1 minute, until fragrant.",
+    "6. Add the gourmet sauce and grilled red pepper puree. Stir to combine.",
+    "7. Bring the sauce to a simmer and let cook for 2-3 minutes, until thickened.",
+    "8. Stir in the Tabasco sauce and adjust to taste.",
+    "9. Serve the grilled chicken with the spicy gourmet sauce.",
+    "10. Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "chicken",
+    "algerian",
+    "gourmet",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gourmet-grilled-algerian-tabasco-sauce-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T23:57:05.607Z"
+}
