@@ -1,0 +1,58 @@
+{
+  "slug": "gooey-garlic-irish-stir-fry",
+  "title": "Irish Gooey Garlic Stir Fry",
+  "description": "A simple and flavorful stir fry dish with Irish sausages, gooey cheese, and aromatic garlic.",
+  "cuisine": "Irish",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish Sausages",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Gooey Cheese",
+      "amount": "100g",
+      "notes": "shredded"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add the Irish sausages and cook for 5 minutes, until browned.",
+    "Add 1 clove of garlic and cook for another minute.",
+    "Add the shredded gooey cheese and stir until melted.",
+    "Cook for an additional 2 minutes, until the cheese is gooey and the sausages are cooked through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "sausages",
+    "stir-fry",
+    "garlic",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-garlic-irish-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T09:40:33.079Z"
+}
