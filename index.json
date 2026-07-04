@@ -6170,17 +6170,16 @@
   },
   {
     "slug": "gently-simmered-tunisian-beef-kidney-tagine",
-    "title": "Tunisian Beef Kidney Tagine",
+    "title": "Tunisian Beef Tagine",
     "tags": [
-      "beef-kidney",
-      "north-african",
-      "romantic-dinner",
-      "slow-cooked",
+      "beef",
+      "kidney",
       "tagine",
-      "tunisian-cuisine"
+      "tunisian",
+      "stew"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 170,
+    "cuisine": "North African",
+    "totalTimeMin": 110,
     "shard": "g"
   },
   {
@@ -12304,16 +12303,14 @@
   },
   {
     "slug": "gooey-roasted-turkish-jerusalem-artichoke-stir-fry",
-    "title": "Gooey Roasted Turkish Jerusalem Artichoke Stir-fry",
+    "title": "Roasted Jerusalem Artichoke Soup",
     "tags": [
-      "goey",
-      "earthly",
-      "meal-prep",
-      "turkish",
-      "jerusalem-artichoke"
+      "soup",
+      "vegetarian",
+      "comfort-food"
     ],
-    "cuisine": "Turkish",
-    "totalTimeMin": 40,
+    "cuisine": "mediterranean",
+    "totalTimeMin": 55,
     "shard": "g"
   },
   {
