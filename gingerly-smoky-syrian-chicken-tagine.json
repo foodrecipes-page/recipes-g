@@ -1,0 +1,94 @@
+{
+  "slug": "gingerly-smoky-syrian-chicken-tagine",
+  "title": "Syrian Chicken Tagine",
+  "description": "A flavorful Middle Eastern stew originating from Syria, typically cooked in a clay pot. This recipe combines the rich flavors of ginger, smoky spices, and tender chicken.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 1/2 pounds boneless, skinless chicken thighs",
+      "notes": null
+    },
+    {
+      "name": "gingerly",
+      "amount": "2 inches fresh ginger, peeled and sliced",
+      "notes": null
+    },
+    {
+      "name": "smoky",
+      "amount": "2 tablespoons smoked paprika",
+      "notes": null
+    },
+    {
+      "name": "Syrian",
+      "amount": "2 tablespoons Syrian spice blend",
+      "notes": null
+    },
+    {
+      "name": "tagine",
+      "amount": "2 tablespoons olive oil",
+      "notes": null
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large clay pot or Dutch oven over medium-high heat.",
+    "Add the sliced ginger and cook until fragrant, about 2 minutes.",
+    "Add the chicken and cook until browned on all sides, about 5-7 minutes.",
+    "Add the smoked paprika, Syrian spice blend, chicken broth, honey, lemon juice, salt, and black pepper. Stir to combine.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the oven.",
+    "Bake at 375°F (190°C) for 30-40 minutes, or until the chicken is cooked through and the sauce has thickened.",
+    "Serve the chicken and sauce hot, garnished with fresh parsley or cilantro if desired.",
+    "Serve with couscous or rice, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "syrian",
+    "chicken",
+    "tagine",
+    "middle-eastern",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gingerly-smoky-syrian-chicken-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T20:35:52.240Z"
+}
