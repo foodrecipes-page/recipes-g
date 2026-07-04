@@ -4380,17 +4380,14 @@
   },
   {
     "slug": "garlicky-tender-ethiopian-vanilla-custard-bake",
-    "title": "garlicky tender ethiopian vanilla custard bake",
+    "title": "Ethiopian Bake",
     "tags": [
-      "dessert",
-      "ethiopian",
-      "lazy-sunday",
-      "one-pan",
-      "vanilla-custard",
-      "weeknight"
+      "ethiopian-bake",
+      "custard-topping",
+      "sweet-treat"
     ],
-    "cuisine": "ethiopian",
-    "totalTimeMin": 45,
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 50,
     "shard": "g"
   },
   {
@@ -7804,17 +7801,16 @@
   },
   {
     "slug": "glazed-moroccan-chicken-tagine",
-    "title": "Glazed Moroccan Chicken Tagine",
+    "title": "Moroccan Chicken Tagine",
     "tags": [
-      "glazed",
-      "hangover-cure",
-      "low-carb",
       "moroccan",
-      "one-pan",
-      "sugar-free-friendly"
+      "chicken",
+      "tagine",
+      "dinner",
+      "easy"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 40,
+    "totalTimeMin": 60,
     "shard": "g"
   },
   {
