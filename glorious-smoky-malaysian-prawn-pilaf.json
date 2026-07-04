@@ -1,0 +1,83 @@
+{
+  "slug": "glorious-smoky-malaysian-prawn-pilaf",
+  "title": "Smoky Malaysian Prawn Pilaf",
+  "description": "A flavorful and aromatic dish combining the spices of Malaysia with the sweetness of prawns.",
+  "cuisine": "malaysian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "glorious jasmine rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "smoky coconut milk",
+      "amount": "1 can",
+      "notes": "14 oz"
+    },
+    {
+      "name": "malaysian curry powder",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "prawns",
+      "amount": "12",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add onion and garlic and sauté until softened.",
+    "Add prawns and cook until pink, about 2-3 minutes.",
+    "Add curry powder and cook for 1 minute.",
+    "Add coconut milk, soy sauce, and fish sauce. Stir to combine.",
+    "Add jasmine rice to the skillet and stir-fry for 2-3 minutes.",
+    "Transfer the skillet to the oven and bake at 375°F for 20-25 minutes.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "prawn",
+    "pilaf",
+    "malaysian",
+    "coconut-milk"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/glorious-smoky-malaysian-prawn-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T09:18:53.051Z"
+}
