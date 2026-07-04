@@ -1,0 +1,70 @@
+{
+  "slug": "glassy-portuguese-elderflower-broth",
+  "title": "Elderflower Portuguese Soup",
+  "description": "A comforting and flavorful soup made with the sweetness of elderflower and the richness of portuguese broth.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Elderflower Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Portuguese Bread",
+      "amount": "4 slices",
+      "notes": "stale is ok"
+    },
+    {
+      "name": "Elderflower Syrup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Glassy Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the glassy olive oil in a large pot over medium heat.",
+    "Add the sliced portuguese bread and cook until lightly toasted.",
+    "Pour in the elderflower broth and bring to a simmer.",
+    "Stir in the elderflower syrup and cook for an additional 5 minutes.",
+    "Taste and adjust the seasoning with salt and black pepper.",
+    "Serve hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "elderflower",
+    "portuguese",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/glassy-portuguese-elderflower-broth",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T20:30:46.501Z"
+}
