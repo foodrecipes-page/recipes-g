@@ -1,0 +1,95 @@
+{
+  "slug": "golden-roasted-portuguese-pork-roast",
+  "title": "Roasted Pork with Golden Gravy",
+  "description": "A delicious roasted pork dish with a rich golden gravy, perfect for a special occasion.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "rosemary",
+      "amount": "2 sprigs",
+      "notes": null
+    },
+    {
+      "name": "golden mustard",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "flour",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 325°F (160°C).",
+    "Season the pork shoulder with salt, pepper, and rosemary.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the pork shoulder until browned on all sides, about 2-3 minutes per side.",
+    "Transfer the pork to a plate and set aside.",
+    "Add the sliced onion to the pot and cook until caramelized, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the red wine and beef broth, scraping up any browned bits from the bottom of the pot.",
+    "Return the pork shoulder to the pot and transfer to the preheated oven.",
+    "Roast the pork for 2-3 hours, or until tender and falling apart.",
+    "While the pork is cooking, prepare the golden gravy.",
+    "Melt the golden mustard in a small saucepan over low heat.",
+    "Whisk in the flour to make a slurry, and cook for 1-2 minutes.",
+    "Gradually add the beef broth, whisking constantly, until the gravy thickens.",
+    "Serve the roasted pork with the golden gravy spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "roast",
+    "pork",
+    "gravy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "43g",
+    "carbs": "24g",
+    "fat": "34g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-roasted-portuguese-pork-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T16:47:33.694Z"
+}
