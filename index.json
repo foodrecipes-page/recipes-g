@@ -4642,18 +4642,16 @@
   },
   {
     "slug": "garlicky-velvety-croatian-tomato-gratin",
-    "title": "Garlicky Velvety Croatian Tomato Gratin",
+    "title": "Croatian Garlicky Gratin",
     "tags": [
-      "comfort-food",
-      "croatian-cuisine",
-      "high-protein",
-      "italian-inspired",
-      "one-pan",
-      "tomato-based",
-      "weeknight"
+      "croatian",
+      "garlicky",
+      "gratin",
+      "side-dish",
+      "vegetarian"
     ],
-    "cuisine": "croatian",
-    "totalTimeMin": 60,
+    "cuisine": "European",
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
