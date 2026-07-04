@@ -10790,15 +10790,15 @@
   },
   {
     "slug": "golden-thai-rice-pad-thai",
-    "title": "Golden Thai Rice Pad Thai",
+    "title": "Thai Pad Thai",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "vegan-option",
-      "weeknight"
+      "thai",
+      "noodles",
+      "vegan",
+      "vegetarian"
     ],
-    "cuisine": "thai",
-    "totalTimeMin": 35,
+    "cuisine": "Thai",
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
