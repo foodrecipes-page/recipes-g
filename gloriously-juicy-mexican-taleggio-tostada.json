@@ -1,0 +1,68 @@
+{
+  "slug": "gloriously-juicy-mexican-taleggio-tostada",
+  "title": "Grilled Mexican Tostada with Taleggio",
+  "description": "A twist on traditional Mexican cuisine, this recipe combines the creaminess of taleggio cheese with the crunch of a tostada.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Taleggio Cheese",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Tostada",
+      "amount": "4"
+    },
+    {
+      "name": "Lime",
+      "amount": "1"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Slice the taleggio cheese into thin pieces.",
+    "Grill the tostada for 2-3 minutes on each side, until lightly toasted.",
+    "Top the tostada with a slice of taleggio cheese, a sprinkle of salt and pepper, and a squeeze of lime juice.",
+    "Garnish with fresh cilantro and a drizzle of olive oil.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "cheese",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gloriously-juicy-mexican-taleggio-tostada",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T16:21:04.623Z"
+}
