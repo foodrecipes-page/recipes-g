@@ -1,0 +1,76 @@
+{
+  "slug": "grill-tzimmes",
+  "title": "Grilled Tzimmes",
+  "description": "A simple and delicious side dish featuring sweet carrots and prunes, grilled to perfection. Tzimmes is a traditional Jewish dish that's perfect for springtime and summer gatherings.",
+  "cuisine": "jewish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "4 large",
+      "notes": ""
+    },
+    {
+      "name": "prunes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Peel and slice the carrots into 1/4-inch thick rounds.",
+    "In a small bowl, mix together the brown sugar, cinnamon, ginger, and salt.",
+    "Add the prunes to the sugar mixture and toss to coat.",
+    "Brush the grill with oil to prevent sticking.",
+    "Add the carrot slices to the grill and cook for 2-3 minutes per side, or until tender.",
+    "After the carrots are cooked, brush the grill with oil again.",
+    "Add the prune mixture to the grill and cook for an additional 1-2 minutes, or until caramelized.",
+    "Serve the tzimmes hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "tzimmes",
+    "carrots",
+    "prunes",
+    "grilled",
+    "side dish"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 0.5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grill-tzimmes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T18:19:12.368Z"
+}
