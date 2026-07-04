@@ -4958,17 +4958,16 @@
   },
   {
     "slug": "garnished-american-peppers-toast",
-    "title": "Garnished American Peppers Toast",
+    "title": "Grilled American Cheese Toast",
     "tags": [
       "american",
-      "herbal",
-      "juicy",
-      "quick",
-      "toast",
-      "vegetarian"
+      "grilled",
+      "cheese",
+      "breakfast",
+      "snack"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 15,
+    "cuisine": null,
+    "totalTimeMin": 11,
     "shard": "g"
   },
   {
@@ -8503,17 +8502,14 @@
   },
   {
     "slug": "gloriously-juicy-mexican-taleggio-tostada",
-    "title": "Gloriously Juicy Mexican Taleggio Tostada",
+    "title": "Grilled Mexican Tostada with Taleggio",
     "tags": [
-      "cheesy-dishes",
-      "chicken-recipes",
-      "halal-friendly",
-      "mexican-food",
-      "tostada-recipes",
-      "veracruzan-cuisine"
+      "mexican",
+      "cheese",
+      "grilled"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 35,
+    "cuisine": "mexican",
+    "totalTimeMin": 23,
     "shard": "g"
   },
   {
@@ -13504,16 +13500,16 @@
   },
   {
     "slug": "grassy-and-juicy-brazilian-digestive-biscuits-bake",
-    "title": "grassy and juicy brazilian digestive biscuits bake",
+    "title": "Brazilian Biscuit Bake",
     "tags": [
       "brazilian",
-      "breakfast",
-      "brunch",
-      "one-pan",
-      "weeknight"
+      "dessert",
+      "biscuit",
+      "grassy",
+      "juicy"
     ],
-    "cuisine": "brazilian",
-    "totalTimeMin": 35,
+    "cuisine": "Brazilian",
+    "totalTimeMin": 50,
     "shard": "g"
   },
   {
