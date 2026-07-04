@@ -13245,16 +13245,16 @@
   },
   {
     "slug": "gourmet-grilled-algerian-tabasco-sauce-stir-fry",
-    "title": "Gourmet Grilled Algerian Tabasco Sauce Stir-fry",
+    "title": "Grilled Algerian Chicken with Spicy Gourmet Sauce",
     "tags": [
+      "grilled",
+      "chicken",
       "algerian",
-      "brunch",
-      "high-protein",
-      "one-pan",
-      "vegetarian"
+      "gourmet",
+      "spicy"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 22,
+    "cuisine": "algerian",
+    "totalTimeMin": 27,
     "shard": "g"
   },
   {
