@@ -2185,17 +2185,14 @@
   },
   {
     "slug": "garlicky-filipino-chicken-stew",
-    "title": "Garlicky Filipino Chicken Stew",
+    "title": "Filipino-Style Chicken Stew",
     "tags": [
-      "chicken-stew",
-      "filipino-cuisine",
-      "halal-friendly",
-      "mason-jar-recipe",
-      "one-pot-meal",
-      "weeknight-dinner"
+      "chicken",
+      "stew",
+      "filipino"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {
@@ -10554,16 +10551,15 @@
   },
   {
     "slug": "golden-roasted-portuguese-pork-roast",
-    "title": "Golden Roasted Portuguese Pork Roast",
+    "title": "Roasted Pork with Golden Gravy",
     "tags": [
-      "flambe-technique",
-      "gluten-free",
-      "pork-recipes",
-      "portuguese-cuisine",
-      "roasted-meats"
+      "portuguese",
+      "roast",
+      "pork",
+      "gravy"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 50,
+    "totalTimeMin": 140,
     "shard": "g"
   },
   {
