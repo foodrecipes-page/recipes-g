@@ -1,0 +1,90 @@
+{
+  "slug": "garlicky-bouncy-german-sausage-stew",
+  "title": "German Sausage Stew",
+  "description": "A hearty German-inspired stew made with sausages and a variety of vegetables.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "german sausage",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "bouncy potatoes",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "garlicky onions",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "stew beef",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a large Dutch oven over medium-high heat.",
+    "2. Add sausages and cook until browned, about 5 minutes.",
+    "3. Remove sausages and set aside.",
+    "4. Add stew beef and cook until browned, about 5 minutes.",
+    "5. Add onions and cook until softened, about 3 minutes.",
+    "6. Add potatoes, beef broth, caraway seeds, salt, and pepper. Stir to combine.",
+    "7. Return sausages to the pot and bring to a boil.",
+    "8. Reduce heat to low, cover, and simmer for 30 minutes.",
+    "9. Add tomatoes and stir to combine.",
+    "10. Simmer for an additional 15 minutes.",
+    "11. Serve hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "sausage",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 740,
+    "protein": 43,
+    "carbs": 30,
+    "fat": 46
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-bouncy-german-sausage-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T18:16:57.243Z"
+}
