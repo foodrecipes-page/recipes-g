@@ -1,0 +1,109 @@
+{
+  "slug": "glazed-moroccan-chicken-tagine",
+  "title": "Moroccan Chicken Tagine",
+  "description": "A classic North African dish with a rich and flavorful sauce, made with chicken, spices, and dried fruits.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "meat",
+    "poultry"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "glazed almonds",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "ginger",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large clay or ceramic tagine or Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the ground cumin, coriander, cinnamon, and ginger. Cook for 1 minute.",
+    "Add the chicken and cook until browned on all sides, about 5-7 minutes.",
+    "Add the chicken broth, honey (if using), and chopped dried apricots.",
+    "Bring the mixture to a boil, then cover the tagine and transfer it to the oven.",
+    "Bake at 300°F (150°C) for 30-40 minutes, or until the chicken is cooked through.",
+    "Stir in the chopped almonds and fresh parsley.",
+    "Serve the tagine over couscous or rice.",
+    "Garnish with additional almonds and parsley, if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "chicken",
+    "tagine",
+    "dinner",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/glazed-moroccan-chicken-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T13:46:37.550Z"
+}
