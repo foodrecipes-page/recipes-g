@@ -834,17 +834,14 @@
   },
   {
     "slug": "garlicky-bouncy-german-sausage-stew",
-    "title": "Garlicky Bouncy German Sausage Stew",
+    "title": "German Sausage Stew",
     "tags": [
       "german",
-      "hearty",
-      "high-protein",
-      "midnight-craving",
-      "one-pan",
-      "weeknight"
+      "sausage",
+      "stew"
     ],
     "cuisine": "german",
-    "totalTimeMin": 45,
+    "totalTimeMin": 60,
     "shard": "g"
   },
   {
@@ -8289,16 +8286,14 @@
   },
   {
     "slug": "glorious-kenyan-chinese-broccoli-saute",
-    "title": "glorious kenyan chinese broccoli saut\u000447",
+    "title": "Stir-Fried Broccoli with Kenyan Spices",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "pressure-cooker",
-      "vegan"
+      "vegan",
+      "broccoli",
+      "kenyan"
     ],
-    "cuisine": "kenyan chinese",
-    "totalTimeMin": 15,
+    "cuisine": "kenyan",
+    "totalTimeMin": 22,
     "shard": "g"
   },
   {
@@ -12634,17 +12629,15 @@
   },
   {
     "slug": "gooey-spicy-ukrainian-tofu-bake",
-    "title": "Gooey Spicy Ukrainian Tofu Bake",
+    "title": "Spicy Ukrainian Tofu Bake",
     "tags": [
-      "vegetarian",
-      "spicy",
+      "ukrainian",
       "tofu",
-      "bake",
-      "comfort-food",
-      "Ukrainian"
+      "cheese",
+      "bake"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 60,
+    "cuisine": "ukrainian",
+    "totalTimeMin": 50,
     "shard": "g"
   },
   {
@@ -14349,14 +14342,16 @@
   },
   {
     "slug": "grill-tzimmes",
-    "title": "Grilled Tzimmes with Tahini Paste",
+    "title": "Grilled Tzimmes",
     "tags": [
-      "grilledtzimmes",
-      "tahinapaste",
-      "pescatarianrecipe"
+      "tzimmes",
+      "carrots",
+      "prunes",
+      "grilled",
+      "side dish"
     ],
-    "cuisine": "Ethiopian",
-    "totalTimeMin": 45,
+    "cuisine": "jewish",
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
