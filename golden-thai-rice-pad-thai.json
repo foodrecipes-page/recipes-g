@@ -1,0 +1,96 @@
+{
+  "slug": "golden-thai-rice-pad-thai",
+  "title": "Thai Pad Thai",
+  "description": "A classic Thai dish made with stir-fried rice noodles, vegetables, and your choice of protein. This recipe is a quick and easy take on a traditional favorite.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "or peanut oil for added flavor"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "golden",
+      "amount": "1 cup",
+      "notes": "thinly sliced and toasted peanuts for garnish"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to package instructions and set aside.",
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the onion and garlic and stir-fry until the onion is translucent.",
+    "Add the carrots and bean sprouts and stir-fry for 2-3 minutes.",
+    "Add the Thai red curry paste and stir-fry for 1 minute.",
+    "Add the cooked noodles, sugar, soy sauce, and lime juice to the skillet.",
+    "Stir-fry everything together for 2-3 minutes.",
+    "Transfer the Pad Thai to a serving platter and garnish with toasted peanuts and lime wedges.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "noodles",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-thai-rice-pad-thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T11:08:58.677Z"
+}
