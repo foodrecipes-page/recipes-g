@@ -1,0 +1,81 @@
+{
+  "slug": "gooey-spicy-ukrainian-tofu-bake",
+  "title": "Spicy Ukrainian Tofu Bake",
+  "description": "A spicy twist on a classic Ukrainian dish, featuring baked tofu and gooey cheese.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "Cubed"
+    },
+    {
+      "name": "Spicy Ukrainian Gooey Cheese (Sirene)",
+      "amount": "1 cup",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Spices",
+      "amount": "1 tsp",
+      "notes": "Paprika, Salt, Black Pepper"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, mix together tofu, sour cream, breadcrumbs, scallions, spices, garlic, and olive oil.",
+    "Transfer the mixture to a baking dish.",
+    "Shred the spicy Ukrainian gooey cheese and sprinkle it evenly over the top of the tofu mixture.",
+    "Bake for 30-40 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "tofu",
+    "cheese",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-spicy-ukrainian-tofu-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T17:35:21.887Z"
+}
