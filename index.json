@@ -1443,17 +1443,15 @@
   },
   {
     "slug": "garlicky-crispy-peruvian-lamb-bowl",
-    "title": "Garlicky Crispy Peruvian Lamb Bowl",
+    "title": "Crispy Lamb Bowl with Peruvian Twist",
     "tags": [
-      "dairy-free",
-      "high-protein",
-      "lamb",
-      "one-pan",
       "peruvian",
-      "weeknight"
+      "lamb",
+      "bowl",
+      "gluten-free"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {
@@ -8360,18 +8358,15 @@
   },
   {
     "slug": "glorious-smoky-malaysian-prawn-pilaf",
-    "title": "Glorious Smoky Malaysian Prawn Pilaf",
+    "title": "Smoky Malaysian Prawn Pilaf",
     "tags": [
-      "cheesy",
-      "lazy-sunday",
-      "malaysian-cuisine",
-      "one-pan",
-      "pescatarian",
-      "smoky",
-      "spicy"
+      "prawn",
+      "pilaf",
+      "malaysian",
+      "coconut-milk"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 45,
+    "cuisine": "malaysian",
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {
@@ -11651,15 +11646,16 @@
   },
   {
     "slug": "gooey-garlic-irish-stir-fry",
-    "title": "Gooey Garlic Irish Stir-fry",
+    "title": "Irish Gooey Garlic Stir Fry",
     "tags": [
+      "irish",
+      "sausages",
+      "stir-fry",
       "garlic",
-      "gooey",
-      "post-workout",
-      "irish"
+      "cheese"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
