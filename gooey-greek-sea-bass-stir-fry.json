@@ -1,0 +1,73 @@
+{
+  "slug": "gooey-greek-sea-bass-stir-fry",
+  "title": "Pan-Seared Sea Bass with Gooey Grits",
+  "description": "A flavorful and easy-to-make dish featuring pan-seared sea bass served with a side of creamy gooey grits.",
+  "cuisine": "seafood",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sea Bass Fillets",
+      "amount": "4",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Gooey Grits Mix",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Wedges",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the sea bass fillets with salt and pepper.",
+    "Pan-fry the sea bass in butter until golden brown on both sides.",
+    "Transfer the pan to the preheated oven and bake for 8-10 minutes or until cooked through.",
+    "Meanwhile, cook the gooey grits according to the package instructions.",
+    "Stir in Greek yogurt to add creaminess to the grits.",
+    "Serve the pan-seared sea bass with a side of warm gooey grits.",
+    "Garnish with lemon wedges and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "seafood",
+    "grits",
+    "lemon",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-greek-sea-bass-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T00:27:28.213Z"
+}
