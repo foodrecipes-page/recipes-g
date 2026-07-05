@@ -1,0 +1,85 @@
+{
+  "slug": "gooey-garlic-croatian-stew",
+  "title": "Croatian Stew",
+  "description": "A hearty and flavorful stew made with Croatian sausage and vegetables.",
+  "cuisine": "European",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Croatian sausage",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "goeey",
+      "amount": "2 tablespoons",
+      "notes": "for browning sausage"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup",
+      "notes": "for thickening"
+    }
+  ],
+  "instructions": [
+    "Heat the oven to 300°F (150°C).",
+    "In a large Dutch oven, brown the sausage over medium-high heat until crispy.",
+    "Remove the sausage from the pot and set aside.",
+    "Add the garlic, onion, potato, and carrot to the pot. Cook until the vegetables are tender.",
+    "Add the beef broth to the pot and bring to a boil.",
+    "Return the sausage to the pot and cover.",
+    "Transfer the pot to the preheated oven and cook for 30 minutes.",
+    "Stir in the stew to thicken the sauce.",
+    "Serve hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "stew",
+    "hearty",
+    "flavorful"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-garlic-croatian-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T00:24:20.921Z"
+}
