@@ -1065,15 +1065,16 @@
   },
   {
     "slug": "garlicky-chewy-irish-rhubarb-stir-fry",
-    "title": "Garlicky Chewy Irish Rhubarb Stir-fry",
+    "title": "Irish Rhubarb Crisp",
     "tags": [
-      "garlicky",
-      "chewy",
-      "light",
-      "irish"
+      "rhubarb",
+      "dessert",
+      "irish",
+      "oats",
+      "baking"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 27,
+    "totalTimeMin": 50,
     "shard": "g"
   },
   {
@@ -11607,14 +11608,15 @@
   },
   {
     "slug": "gooey-garlic-croatian-stew",
-    "title": "Gooey Garlic Baby New Potatoes",
+    "title": "Croatian Stew",
     "tags": [
-      "baby_new_potatoes",
-      "croatian_stew",
-      "snack_cuisine"
+      "croatian",
+      "stew",
+      "hearty",
+      "flavorful"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 40,
+    "cuisine": "European",
+    "totalTimeMin": 60,
     "shard": "g"
   },
   {
@@ -11701,14 +11703,14 @@
   },
   {
     "slug": "gooey-greek-sea-bass-stir-fry",
-    "title": "Gooey Greek Sea Bass Stir-fry",
+    "title": "Pan-Seared Sea Bass with Gooey Grits",
     "tags": [
-      "greek",
-      "stir-fry",
-      "fermented",
-      "keto-friendly"
+      "seafood",
+      "grits",
+      "lemon",
+      "easy"
     ],
-    "cuisine": "Greek",
+    "cuisine": "seafood",
     "totalTimeMin": 25,
     "shard": "g"
   },
