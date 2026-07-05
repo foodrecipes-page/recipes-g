@@ -1,0 +1,75 @@
+{
+  "slug": "grassy-russian-mentaiko-pilaf",
+  "title": "Mentaiko Pilaf with Russian Twist",
+  "description": "A flavorful pilaf dish infused with the rich taste of mentaiko and a hint of Russian spices.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mentaiko",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Pilaf rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Grassy parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Dried dill weed",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat butter and olive oil in a large skillet over medium heat.",
+    "Add pilaf rice and cook, stirring constantly, for 2-3 minutes.",
+    "Add dried dill weed, salt, and black pepper. Stir to combine.",
+    "Add mentaiko and stir to combine.",
+    "Add 2 cups of water to the skillet. Bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 18-20 minutes or until the liquid is absorbed.",
+    "Fluff the pilaf with a fork. Stir in chopped parsley.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pilaf",
+    "mentaiko",
+    "russian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grassy-russian-mentaiko-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T14:20:43.182Z"
+}
