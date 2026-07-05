@@ -1,0 +1,88 @@
+{
+  "slug": "gently-spiced-syrian-chicken-curry",
+  "title": "Syrian Chicken Curry",
+  "description": "A flavorful and aromatic curry dish made with gently spiced chicken and a blend of syrian spices.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "gently spiced curry powder",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "syrian spice blend",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "yogurt",
+      "amount": "100g",
+      "notes": null
+    },
+    {
+      "name": "curry leaves",
+      "amount": "1 sprig",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add chicken and cook until browned, about 5-7 minutes.",
+    "Add curry powder and syrian spice blend, cook for 1 minute.",
+    "Add coconut milk and yogurt, stir to combine.",
+    "Add curry leaves and salt, stir to combine.",
+    "Reduce heat to low and simmer for 10-15 minutes.",
+    "Serve hot, garnished with additional curry leaves if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "curry",
+    "chicken",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gently-spiced-syrian-chicken-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T22:26:19.865Z"
+}
