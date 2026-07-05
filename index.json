@@ -6369,16 +6369,13 @@
   },
   {
     "slug": "gently-spiced-syrian-chicken-curry",
-    "title": "Gently Spiced Syrian Chicken Curry",
+    "title": "Syrian Chicken Curry",
     "tags": [
-      "chicken-recipes",
-      "coconut-cream-recipes",
-      "macrobiotic-recipes",
-      "meal-prep-ideas",
-      "peanut-butter-recipes",
-      "syrian-cuisine"
+      "curry",
+      "chicken",
+      "middle-eastern"
     ],
-    "cuisine": "Syrian",
+    "cuisine": "Middle Eastern",
     "totalTimeMin": 35,
     "shard": "g"
   },
@@ -8292,17 +8289,15 @@
   },
   {
     "slug": "glorious-nutty-syrian-chicken-pilaf",
-    "title": "Glorious Nutty Syrian Chicken Pilaf",
+    "title": "Syrian-Style Chicken Pilaf",
     "tags": [
-      "chicken-recipes",
-      "creamy",
-      "gluten-free",
-      "nutty",
-      "one-pot",
-      "syrian-cuisine"
+      "chicken",
+      "pilaf",
+      "syrian",
+      "middle-eastern"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 40,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 30,
     "shard": "g"
   },
   {
@@ -13537,16 +13532,16 @@
   },
   {
     "slug": "grassy-chewy-thai-basil-tagine",
-    "title": "grassy chewy thai basil tagine",
+    "title": "Thai Basil Tagine",
     "tags": [
-      "comfort-food",
-      "easy-to-make",
-      "gluten-free",
-      "one-pan",
-      "vegan-friendly"
+      "thaibasil",
+      "tagine",
+      "thaicuisine",
+      "glutenfree",
+      "meat"
     ],
-    "cuisine": "thai",
-    "totalTimeMin": 30,
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
