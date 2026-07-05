@@ -3822,14 +3822,13 @@
   },
   {
     "slug": "garlicky-quick-dutch-broccoli-gratin",
-    "title": "Garlicky Quick Dutch Broccoli Gratin",
+    "title": "Garlicky Broccoli Gratin",
     "tags": [
-      "high-protein",
-      "one-pan",
+      "cheesy",
       "vegetarian",
-      "weeknight"
+      "easy-to-make"
     ],
-    "cuisine": "Dutch",
+    "cuisine": "french",
     "totalTimeMin": 35,
     "shard": "g"
   },
@@ -7040,16 +7039,16 @@
   },
   {
     "slug": "gingery-mustardy-crunchy-filipino-corn-tortillas-tinola-style-filled-tortillas",
-    "title": "Gingery Mustardy Crunchy Filipino Corn Tortillas Tinola-Style Filled Tortillas",
+    "title": "Filipino-Style Tortilla Filling",
     "tags": [
-      "breakfast-ish",
       "filipino",
-      "one-pan",
       "vegetarian",
-      "weeknight"
+      "snack",
+      "corn",
+      "tortillas"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
