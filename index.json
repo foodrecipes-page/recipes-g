@@ -4075,17 +4075,16 @@
   },
   {
     "slug": "garlicky-silky-turkish-rice-pilaf",
-    "title": "Garlicky Silky Turkish Rice Pilaf",
+    "title": "Turkish Rice Pilaf",
     "tags": [
       "turkish",
-      "vegetarian",
       "rice",
-      "garlic",
-      "silky",
-      "dish"
+      "pilaf",
+      "easy",
+      "lunch"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
