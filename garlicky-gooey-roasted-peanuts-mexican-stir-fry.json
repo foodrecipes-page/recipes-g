@@ -1,0 +1,70 @@
+{
+  "slug": "garlicky-gooey-roasted-peanuts-mexican-stir-fry",
+  "title": "Peanut Mexican Stir Fry",
+  "description": "A flavorful and spicy stir fry made with peanuts and a blend of mexican spices. This dish is perfect for a quick and easy dinner.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Peanuts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlicky stir fry sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Mexican stir",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Roasted vegetables (bell peppers, carrots, broccoli)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Gooey honey",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet or wok over medium-high heat.",
+    "Add the roasted vegetables and cook until they start to soften.",
+    "Add the peanuts and cook for 1-2 minutes.",
+    "Add the garlicky stir fry sauce and mexican stir and stir to combine.",
+    "Cook for an additional 2-3 minutes or until the sauce has thickened.",
+    "Season with salt to taste.",
+    "Serve hot over rice or noodles and drizzle with gooey honey."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "mexican",
+    "peanuts",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-gooey-roasted-peanuts-mexican-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T06:20:53.833Z"
+}
