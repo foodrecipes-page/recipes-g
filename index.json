@@ -2780,18 +2780,15 @@
   },
   {
     "slug": "garlicky-gooey-roasted-peanuts-mexican-stir-fry",
-    "title": "Garlicky Gooey Roasted Peanuts Mexican Stir-fry",
+    "title": "Peanut Mexican Stir Fry",
     "tags": [
-      "garlicky",
-      "goody",
-      "hangover-cure",
+      "easy",
+      "mexican",
       "peanuts",
-      "mexican-dish"
+      "stir-fry"
     ],
-    "cuisine": [
-      "Mexican"
-    ],
-    "totalTimeMin": 35,
+    "cuisine": "Mexican",
+    "totalTimeMin": 20,
     "shard": "g"
   },
   {
@@ -4444,16 +4441,13 @@
   },
   {
     "slug": "garlicky-tender-turkish-potatoes-pilaf",
-    "title": "garlicky tender turkish potatoes pilaf",
+    "title": "Turkish Pilaf with Potatoes",
     "tags": [
-      "gluten-free",
-      "one-pan",
       "turkish",
       "vegan",
-      "vegetarian",
-      "weeknight"
+      "gluten-free"
     ],
-    "cuisine": "turkish",
+    "cuisine": "Turkish",
     "totalTimeMin": 25,
     "shard": "g"
   },
@@ -14380,12 +14374,13 @@
   },
   {
     "slug": "grilled-crispy-peruvian-chicken-wings",
-    "title": "Grilled Crispy Peruvian Chicken Wings",
+    "title": "Crispy Grilled Chicken Wings Peruvian Style",
     "tags": [
-      "peruvian",
       "grilled",
       "crispy",
-      "low-fat"
+      "peruvian",
+      "chicken",
+      "wings"
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 40,
