@@ -1,0 +1,94 @@
+{
+  "slug": "grilled-crispy-peruvian-chicken-wings",
+  "title": "Crispy Grilled Chicken Wings Peruvian Style",
+  "description": "A fusion twist on traditional grilled chicken wings, marinated in a Peruvian-inspired mixture of spices and grilled to perfection. Serve with a side of your favorite dipping sauce.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken wings",
+      "amount": "2 pounds",
+      "notes": "drumsticks and flats"
+    },
+    {
+      "name": "grilled lime juice",
+      "amount": "1 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing"
+    },
+    {
+      "name": "aaji amarillo pepper paste",
+      "amount": "2 tablespoons",
+      "notes": "or substitute with aji amarillo seasoning"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "or minced garlic"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground coriander"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "flaky sea salt"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F).",
+    "In a large bowl, whisk together lime juice, olive oil, aji amarillo pepper paste, garlic powder, cumin, coriander, black pepper, and salt.",
+    "Add the chicken wings to the marinade, toss to coat, and refrigerate for at least 2 hours or overnight.",
+    "Remove the chicken from the marinade, letting any excess liquid drip off.",
+    "Grill the chicken wings for 5-7 minutes per side, or until cooked through and crispy.",
+    "Transfer the wings to a plate and garnish with chopped cilantro.",
+    "Serve immediately and enjoy!",
+    "Optional: for an extra crispy coating, toss the wings in a bowl with a little more olive oil and a sprinkle of aji amarillo seasoning before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "crispy",
+    "peruvian",
+    "chicken",
+    "wings"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grilled-crispy-peruvian-chicken-wings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T06:33:03.180Z"
+}
