@@ -1,0 +1,87 @@
+{
+  "slug": "goey-moroccan-dates-tagine",
+  "title": "Moroccan Date Tagine",
+  "description": "A traditional North African stew made with sweet dates and spices, typically cooked in a clay pot with a conical lid. This recipe cooks the tagine with the addition of gooey cheese for an extra rich flavor.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Dates",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Gooey cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "Moroccan spice blend",
+      "amount": "2 tsp",
+      "notes": "available at most spice stores"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Almonds",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in the bottom of a clay tagine or a large Dutch oven over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the dates, spice blend, salt, and almonds. Stir to combine.",
+    "Add the gooey cheese and stir until melted and smooth.",
+    "Transfer the tagine to the oven and bake at 300°F (150°C) for 20-25 minutes.",
+    "Garnish with parsley and serve hot over couscous."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "north-african",
+    "stew",
+    "dates",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/goey-moroccan-dates-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T02:21:00.226Z"
+}
