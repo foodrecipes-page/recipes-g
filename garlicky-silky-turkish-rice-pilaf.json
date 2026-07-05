@@ -1,0 +1,65 @@
+{
+  "slug": "garlicky-silky-turkish-rice-pilaf",
+  "title": "Turkish Rice Pilaf",
+  "description": "A flavorful and aromatic rice dish from Turkey, made with garlic, turkish spices, and silky texture.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Garlicky rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Silky oil",
+      "amount": "2 tablespoons",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "Turkish spices",
+      "amount": "1 teaspoon",
+      "notes": "Use a combination of paprika, cumin, and coriander"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the silky oil in a medium saucepan over medium heat.",
+    "Add the Turkish spices and sauté for 1-2 minutes.",
+    "Add the garlicky rice and stir to coat the rice with the spice mixture.",
+    "Add the water and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 18-20 minutes.",
+    "Fluff the rice with a fork and season with salt to taste."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "rice",
+    "pilaf",
+    "easy",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-silky-turkish-rice-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T17:26:54.178Z"
+}
