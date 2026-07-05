@@ -2251,19 +2251,15 @@
   },
   {
     "slug": "garlicky-flaky-algerian-lamb-tagine",
-    "title": "Garlicky Flaky Algerian Lamb Tagine",
+    "title": "Algerian Lamb Tagine",
     "tags": [
-      "algerian",
-      "ayurvedic",
-      "garlic-lovers",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "sattvic",
-      "weeknight"
+      "lamb",
+      "tagine",
+      "north-african",
+      "slow-cooked"
     ],
-    "cuisine": "algerian",
-    "totalTimeMin": 165,
+    "cuisine": "North African",
+    "totalTimeMin": 230,
     "shard": "g"
   },
   {
@@ -9006,19 +9002,16 @@
   },
   {
     "slug": "goey-moroccan-dates-tagine",
-    "title": "Gooey Moroccan Dates Tagine",
+    "title": "Moroccan Date Tagine",
     "tags": [
-      "ayurvedic",
-      "dates",
-      "gluten-free",
       "moroccan",
-      "sattvic",
-      "vegan",
-      "vegetarian",
-      "weeknight"
+      "north-african",
+      "stew",
+      "dates",
+      "cheese"
     ],
-    "cuisine": "Moroccan",
-    "totalTimeMin": 45,
+    "cuisine": "North African",
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {
