@@ -1,0 +1,93 @@
+{
+  "slug": "gently-smoked-vietnamese-pork-bun-thit-nuong",
+  "title": "Grilled Pork Bun",
+  "description": "A popular Vietnamese street food recipe featuring tender grilled pork and crispy fresh buns. Serve with pickled carrots and daikon for a delicious snack or light meal.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": "Slice into thin strips"
+    },
+    {
+      "name": "Gentle bun",
+      "amount": "4-6",
+      "notes": "Preferably fresh"
+    },
+    {
+      "name": "Smoked fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "For added depth of flavor"
+    },
+    {
+      "name": "Nuoc Cham",
+      "amount": "2 tablespoons",
+      "notes": "Vietnamese dipping sauce"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "Chopped",
+      "notes": "Garnish"
+    },
+    {
+      "name": "Pickled carrots and daikon",
+      "amount": "Sliced",
+      "notes": "Optional"
+    },
+    {
+      "name": "Sliced cucumber",
+      "amount": "Sliced",
+      "notes": "Optional"
+    },
+    {
+      "name": "Sliced mint leaves",
+      "amount": "Sliced",
+      "notes": "Optional"
+    },
+    {
+      "name": "Sliced chili peppers",
+      "amount": "Sliced",
+      "notes": "Optional"
+    },
+    {
+      "name": "Salt and black pepper",
+      "amount": "To taste",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together smoked fish sauce, Nuoc Cham, salt, and black pepper.",
+    "Add sliced pork to the marinade and mix well to coat.",
+    "Let the pork marinate for at least 30 minutes.",
+    "Grill the pork for 5-7 minutes per side, or until cooked through.",
+    "Meanwhile, toast the buns on the grill or in a toaster.",
+    "Assemble the buns with grilled pork, pickled carrots and daikon, cucumber, mint leaves, and chili peppers.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "grilled",
+    "pork",
+    "bun"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gently-smoked-vietnamese-pork-bun-thit-nuong",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T13:50:58.951Z"
+}
