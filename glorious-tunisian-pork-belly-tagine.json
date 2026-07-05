@@ -1,0 +1,97 @@
+{
+  "slug": "glorious-tunisian-pork-belly-tagine",
+  "title": "Tunisian Pork Belly Tagine",
+  "description": "A rich and flavorful North African-inspired dish featuring slow-cooked pork belly in a spicy tagine sauce.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "2 lbs",
+      "notes": null
+    },
+    {
+      "name": "glorious olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "tunisian chili peppers",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the pork belly with salt, black pepper, cumin, and coriander.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the pork belly until browned on all sides, about 5 minutes.",
+    "Remove the pork from the pot and set aside.",
+    "Add the onion and garlic to the pot and cook until the onion is translucent, about 5 minutes.",
+    "Add the chili peppers, cumin, coriander, salt, and black pepper to the pot and cook for 1 minute.",
+    "Add the chicken broth to the pot and bring to a boil.",
+    "Return the pork belly to the pot and cover with a lid.",
+    "Transfer the pot to the preheated oven and cook for 2 1/2 hours, or until the pork is tender.",
+    "Remove the pot from the oven and let cool slightly.",
+    "Slice the pork belly into thick slices and serve with the tagine sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pork",
+    "tagine",
+    "north-african",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 10,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/glorious-tunisian-pork-belly-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T04:07:10.574Z"
+}
