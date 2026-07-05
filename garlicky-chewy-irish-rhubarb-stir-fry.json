@@ -1,0 +1,68 @@
+{
+  "slug": "garlicky-chewy-irish-rhubarb-stir-fry",
+  "title": "Irish Rhubarb Crisp",
+  "description": "A sweet and tangy dessert featuring fresh rhubarb and a crunchy oat topping. Perfect for a cozy evening.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "rhubarb",
+      "amount": "2 cups",
+      "notes": "fresh"
+    },
+    {
+      "name": "garlicky sugar",
+      "amount": "1 cup",
+      "notes": "granulated"
+    },
+    {
+      "name": "chewy oats",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "irish butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "stir flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine rhubarb, garlicky sugar, and stir flour. Mix until well coated.",
+    "Transfer the mixture to a 9x9-inch baking dish.",
+    "In a separate bowl, mix together chewy oats and irish butter until crumbly.",
+    "Spread the oat mixture evenly over the rhubarb filling.",
+    "Bake for 35-40 minutes or until the topping is golden brown and the fruit is tender.",
+    "Serve warm, topped with vanilla ice cream if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "rhubarb",
+    "dessert",
+    "irish",
+    "oats",
+    "baking"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-chewy-irish-rhubarb-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T00:55:21.085Z"
+}
