@@ -1,0 +1,63 @@
+{
+  "slug": "garlicky-quick-dutch-broccoli-gratin",
+  "title": "Garlicky Broccoli Gratin",
+  "description": "A delicious and easy-to-make gratin dish loaded with garlicky flavor and tender broccoli.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "garlicky butter (4 tbsp)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "broccoli (2 cups)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "dutch cheese (1 cup shredded)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "gratin (1 cup shredded)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Steam the broccoli until tender, about 5 minutes.",
+    "In a separate pan, melt the garlicky butter over medium heat.",
+    "Add the steamed broccoli to the pan and toss to coat with butter.",
+    "Transfer the broccoli mixture to a baking dish.",
+    "Sprinkle the dutch cheese and gratin on top of the broccoli.",
+    "Bake in the preheated oven for 20-25 minutes, until the cheese is golden brown and bubbly.",
+    "Remove from the oven and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheesy",
+    "vegetarian",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-quick-dutch-broccoli-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T05:13:28.295Z"
+}
