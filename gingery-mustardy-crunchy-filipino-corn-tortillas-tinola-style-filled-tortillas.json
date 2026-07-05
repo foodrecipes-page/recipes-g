@@ -1,0 +1,58 @@
+{
+  "slug": "gingery-mustardy-crunchy-filipino-corn-tortillas-tinola-style-filled-tortillas",
+  "title": "Filipino-Style Tortilla Filling",
+  "description": "A twist on traditional tacos, this recipe combines the flavors of the Philippines with crispy tortillas.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "gingery tortillas",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "corn",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "tinpasta (Filipino noodle soup) mix",
+      "amount": "1 packet",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Cook the tinpasta according to the packet instructions.",
+    "Heat a pan over medium heat and add the corn. Cook until slightly caramelized.",
+    "Cut the cooked tinpasta into small pieces.",
+    "Combine the cooked corn and tinpasta pieces in a bowl.",
+    "Warm the tortillas in a dry pan or in the microwave.",
+    "Spoon the corn and tinpasta mixture onto the tortillas.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "vegetarian",
+    "snack",
+    "corn",
+    "tortillas"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gingery-mustardy-crunchy-filipino-corn-tortillas-tinola-style-filled-tortillas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T04:01:21.376Z"
+}
