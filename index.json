@@ -8342,17 +8342,15 @@
   },
   {
     "slug": "glorious-tunisian-pork-belly-tagine",
-    "title": "Glorious Tunisian Pork Belly Tagine",
+    "title": "Tunisian Pork Belly Tagine",
     "tags": [
-      "complex-recipe",
-      "long-cooking-time",
-      "pork-belly",
-      "sous-vide",
-      "tunisian-cuisine",
-      "wine-braised"
+      "pork",
+      "tagine",
+      "north-african",
+      "slow-cooked"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 1470,
+    "cuisine": "North African",
+    "totalTimeMin": 170,
     "shard": "g"
   },
   {
