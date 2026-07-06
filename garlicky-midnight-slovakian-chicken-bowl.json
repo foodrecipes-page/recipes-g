@@ -1,0 +1,77 @@
+{
+  "slug": "garlicky-midnight-slovakian-chicken-bowl",
+  "title": "Slovakian Chicken Bowl",
+  "description": "A hearty and flavorful dish inspired by Slovakian cuisine, served in a bowl with chicken, vegetables, and a hint of garlic.",
+  "cuisine": "slovakian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "garlicky chicken breast",
+      "amount": "1 (6 oz) breast",
+      "notes": "marinated with a mix of garlic and herbs"
+    },
+    {
+      "name": "midnight mushrooms",
+      "amount": "1 cup sliced",
+      "notes": null
+    },
+    {
+      "name": "slovakian cabbage",
+      "amount": "1 cup shredded",
+      "notes": null
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": "adds a traditional Slovakian flavor"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "bowl",
+      "amount": null,
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken breast with caraway seeds and black pepper.",
+    "Heat olive oil in an oven-safe skillet over medium-high heat.",
+    "Sear the chicken breast for 2-3 minutes on each side, then transfer to the oven.",
+    "Roast the chicken breast in the oven for 12-15 minutes, or until cooked through.",
+    "Meanwhile, sauté the sliced mushrooms in a separate skillet over medium heat.",
+    "Add the shredded cabbage to the skillet with the mushrooms and cook until wilted.",
+    "Serve the cooked chicken breast on top of the mushroom and cabbage mixture in a bowl."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "chicken",
+    "bowl"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-midnight-slovakian-chicken-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T05:29:29.404Z"
+}
