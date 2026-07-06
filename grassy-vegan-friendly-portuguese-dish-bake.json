@@ -1,0 +1,78 @@
+{
+  "slug": "grassy-vegan-friendly-portuguese-dish-bake",
+  "title": "Baked Portuguese Custard Tarts",
+  "description": "A traditional Portuguese dessert, these egg-based custard tarts are baked to perfection and topped with a caramelized sugar crust. This recipe is vegan-friendly and perfect for a special occasion.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Grassy sugar",
+      "amount": "200g",
+      "notes": null
+    },
+    {
+      "name": "Friendly flour",
+      "amount": "200g",
+      "notes": null
+    },
+    {
+      "name": "Portuguese pastry dough",
+      "amount": "1 package (usually 250g)",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Bake apples",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Dish vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Grassy almond milk",
+      "amount": "250ml",
+      "notes": "or other non-dairy milk"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Roll out the pastry dough to a thickness of about 3mm (1/8 inch).",
+    "Cut out circles of pastry dough using a cookie cutter or the rim of a glass.",
+    "Place the pastry circles into a muffin tin, pressing them into the corners.",
+    "In a separate bowl, whisk together the sugar, flour, and vanilla extract.",
+    "Add the almond milk to the bowl and whisk until smooth.",
+    "Pour the mixture into the pastry-lined muffin tin.",
+    "Bake for 20-25 minutes, or until the edges are golden brown.",
+    "Remove from the oven and let cool for a few minutes.",
+    "Use a skewer to create a hole in the center of each tart, then use a spoon to carefully remove the center of each tart.",
+    "Return the tarts to the oven and bake for an additional 5-10 minutes, or until the centers are firm and the edges are golden brown.",
+    "Remove from the oven and let cool completely before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "baking",
+    "portuguese",
+    "vegan",
+    "dessert",
+    "tarts"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grassy-vegan-friendly-portuguese-dish-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T15:58:51.735Z"
+}
