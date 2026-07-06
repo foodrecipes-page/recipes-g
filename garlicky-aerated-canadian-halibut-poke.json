@@ -1,0 +1,80 @@
+{
+  "slug": "garlicky-aerated-canadian-halibut-poke",
+  "title": "Pan-Seared Halibut with Poke Glaze",
+  "description": "A simple yet flavorful halibut dish with a sweet and savory poke glaze. Perfect for a quick dinner.",
+  "cuisine": "Pacific Northwest",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "halibut fillets",
+      "amount": "4",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "poke sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "garlicky butter",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "aerated rice",
+      "amount": "1 cup",
+      "notes": "cooked according to package"
+    },
+    {
+      "name": "canadian maple syrup",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "Season the halibut fillets with salt and pepper.",
+    "Heat the garlicky butter in a skillet over medium-high heat.",
+    "Sear the halibut for 2-3 minutes per side, or until cooked through.",
+    "Transfer the halibut to a baking sheet and bake for 8-10 minutes, or until cooked to your liking.",
+    "Meanwhile, mix the poke sauce and maple syrup in a small saucepan.",
+    "Bring the mixture to a simmer over medium heat and cook until slightly thickened.",
+    "Brush the poke glaze over the halibut during the last 2 minutes of cooking.",
+    "Serve the halibut with the aerated rice and garnish with parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "halibut",
+    "poke sauce",
+    "garlicky butter",
+    "pacific northwest"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-aerated-canadian-halibut-poke",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T10:41:21.679Z"
+}
