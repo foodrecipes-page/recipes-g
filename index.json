@@ -1085,17 +1085,15 @@
   },
   {
     "slug": "garlicky-chewy-syrian-mung-bean-sprout-sukju-pastry-flattened-buns",
-    "title": "garlicky chewy syrian mung-bean-sprout-sukju pastry-flattened buns",
+    "title": "Sukju Mung Bean Buns",
     "tags": [
-      "festival-food",
-      "gluten-free",
-      "one-pan",
-      "syrian-food",
-      "vegan-option",
-      "weeknight"
+      "korean",
+      "middle-eastern",
+      "snack",
+      "vegetarian"
     ],
-    "cuisine": "syrian",
-    "totalTimeMin": 45,
+    "cuisine": "Korean-Middle Eastern",
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
@@ -2482,10 +2480,15 @@
   },
   {
     "slug": "garlicky-fluffy-portuguese-rice-pilaf",
-    "title": "Garlicky Fluffy Portuguese Rice Pilaf",
-    "tags": [],
+    "title": "Fluffy Portuguese Rice Pilaf",
+    "tags": [
+      "portuguese",
+      "rice",
+      "pilaf",
+      "vegetarian"
+    ],
     "cuisine": "Portuguese",
-    "totalTimeMin": null,
+    "totalTimeMin": 23,
     "shard": "g"
   },
   {
@@ -2608,16 +2611,15 @@
   },
   {
     "slug": "garlicky-german-sea-bass-bake",
-    "title": "Garlicky German Sea Bass Bake",
+    "title": "Baked Bass with German Flair",
     "tags": [
-      "cheese",
-      "easy-servings",
+      "fish",
       "german",
-      "one-pan",
-      "seafood"
+      "easy-dinner",
+      "bass"
     ],
     "cuisine": "german",
-    "totalTimeMin": 27,
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
@@ -12980,16 +12982,15 @@
   },
   {
     "slug": "gossamer-uruguayan-yogurt-ceviche",
-    "title": "Gossamer Uruguayan Yogurt Ceviche",
+    "title": "Ceviche-Style Yogurt Gossamer",
     "tags": [
-      "citrusy",
-      "low-calorie",
-      "ovo-vegetarian",
-      "romantic",
-      "silky"
+      "dessert",
+      "vegan",
+      "gluten-free",
+      "summer"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 10,
+    "cuisine": "Latin American",
+    "totalTimeMin": 30,
     "shard": "g"
   },
   {
