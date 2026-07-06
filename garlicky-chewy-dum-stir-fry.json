@@ -1,0 +1,61 @@
+{
+  "slug": "garlicky-chewy-dum-stir-fry",
+  "title": "Stir-Fried Dumplings",
+  "description": "A simple and delicious stir-fry recipe with chewy dumplings, perfect for a quick lunch or dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chewy dum",
+      "amount": "12 pieces",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "garlicky",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fry",
+      "amount": "1 cup",
+      "notes": "vegetable oil"
+    },
+    {
+      "name": "stir",
+      "amount": "1 cup",
+      "notes": "mixed vegetables (e.g. bell peppers, carrots, broccoli)"
+    }
+  ],
+  "instructions": [
+    "Heat 1 cup of vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add minced garlic and stir-fry for 1 minute.",
+    "Add mixed vegetables and stir-fry for 2-3 minutes.",
+    "Add chewy dum and stir-fry for 2-3 minutes, until dum are cooked through.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "chinese-cuisine",
+    "vegetarian-recipes",
+    "quick-lunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-chewy-dum-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T05:13:38.686Z"
+}
