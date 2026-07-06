@@ -6204,16 +6204,14 @@
   },
   {
     "slug": "gently-smoked-saudi-arabian-lamb-tagine",
-    "title": "Gently Smoked Saudi Arabian Lamb Tagine",
+    "title": "Smoked Lamb Tagine",
     "tags": [
-      "ceramic-tagine",
-      "lamb-based",
-      "middle-eastern",
-      "one-pot",
-      "smoked",
-      "tandoor-cooked"
+      "lamb",
+      "tagine",
+      "north-african",
+      "dinner"
     ],
-    "cuisine": "Saudi Arabian",
+    "cuisine": "North African",
     "totalTimeMin": 140,
     "shard": "g"
   },
@@ -10979,17 +10977,14 @@
   },
   {
     "slug": "gooey-argentinian-beef-skewers",
-    "title": "Gooey Argentinian Beef Skewers",
+    "title": "Argentinian Beef Skewers",
     "tags": [
       "argentinian",
-      "beef",
-      "pomegranate",
-      "skewers",
-      "mediterranean",
-      "post-workout"
+      "grilled",
+      "beef"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 32,
+    "cuisine": "argentinian",
+    "totalTimeMin": 38,
     "shard": "g"
   },
   {
