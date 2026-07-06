@@ -1,0 +1,83 @@
+{
+  "slug": "garlicky-chewy-syrian-mung-bean-sprout-sukju-pastry-flattened-buns",
+  "title": "Sukju Mung Bean Buns",
+  "description": "A unique fusion of Korean and Middle Eastern flavors, these buns are filled with a savory mixture of mung beans and sukju, wrapped in crispy pastry.",
+  "cuisine": "Korean-Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flattened pastry",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "mung bean",
+      "amount": "1 cup",
+      "notes": "cooked and mashed"
+    },
+    {
+      "name": "sukju",
+      "amount": "1/2 cup",
+      "notes": "soybean paste"
+    },
+    {
+      "name": "garlicky sprout",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "bean sprout",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "chewy mung",
+      "amount": "1/4 cup",
+      "notes": "cooked and chopped"
+    },
+    {
+      "name": "syrian buns",
+      "amount": "4-6",
+      "notes": "for serving"
+    },
+    {
+      "name": "water",
+      "amount": "1 tablespoon",
+      "notes": "for brushing pastry"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the flattened pastry to a thickness of about 1/8 inch.",
+    "In a bowl, mix together the mung bean, sukju, garlicky sprout, and bean sprout.",
+    "Place a tablespoon of the mung bean mixture onto one half of the pastry, leaving a 1/2 inch border around the edges.",
+    "Brush the edges with water and fold the other half of the pastry over the filling to form a half-moon shape.",
+    "Press the edges to seal and use a fork to crimp them.",
+    "Brush the tops of the buns with water and bake for 20-25 minutes, or until golden brown.",
+    "Serve the buns warm with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "middle-eastern",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-chewy-syrian-mung-bean-sprout-sukju-pastry-flattened-buns",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T19:07:05.506Z"
+}
