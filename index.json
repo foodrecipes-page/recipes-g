@@ -1362,14 +1362,11 @@
   },
   {
     "slug": "garlicky-crispy-american-chicken-stir-fry",
-    "title": "Garlicky Crispy American Chicken Stir-fry",
+    "title": "American Chicken Stir Fry",
     "tags": [
       "american",
-      "whole30-friendly",
-      "stir-fry",
-      "garlic",
-      "crispy",
-      "quick-meal"
+      "chicken",
+      "stir-fry"
     ],
     "cuisine": "American",
     "totalTimeMin": 25,
@@ -10400,16 +10397,15 @@
   },
   {
     "slug": "golden-portuguese-fish-skewers",
-    "title": "Golden Portuguese Fish Skewers",
+    "title": "Grilled Fish Skewers",
     "tags": [
-      "chocolate-recipes",
-      "fish-recipes",
-      "portuguese-cuisine",
-      "seafood-recipes",
-      "wok-cooking"
+      "grilled",
+      "fish",
+      "portuguese",
+      "skewers"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 33,
     "shard": "g"
   },
   {
