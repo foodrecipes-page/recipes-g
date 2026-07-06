@@ -1,0 +1,60 @@
+{
+  "slug": "gossamer-uruguayan-yogurt-ceviche",
+  "title": "Ceviche-Style Yogurt Gossamer",
+  "description": "A refreshing dessert that combines the tanginess of ceviche with the creaminess of yogurt and the delicate texture of gossamer.",
+  "cuisine": "Latin American",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "gossamer",
+      "amount": "1 cup"
+    },
+    {
+      "name": "uruguayan",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ceviche",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Combine gossamer and uruguayan in a blender.",
+    "Blend until smooth.",
+    "Add yogurt and blend until well combined.",
+    "Fold in ceviche.",
+    "Cover and refrigerate for at least 30 minutes.",
+    "Serve chilled.",
+    "Garnish with additional uruguayan if desired.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "vegan",
+    "gluten-free",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gossamer-uruguayan-yogurt-ceviche",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T20:47:25.420Z"
+}
