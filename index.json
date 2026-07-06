@@ -832,14 +832,15 @@
   },
   {
     "slug": "garlicky-bouncy-german-sausage-stew",
-    "title": "German Sausage Stew",
+    "title": "Classic German Sausage Stew",
     "tags": [
       "german",
       "sausage",
-      "stew"
+      "stew",
+      "comfort-food"
     ],
-    "cuisine": "german",
-    "totalTimeMin": 60,
+    "cuisine": "German",
+    "totalTimeMin": 50,
     "shard": "g"
   },
   {
@@ -999,16 +1000,15 @@
   },
   {
     "slug": "garlicky-chewy-dum-stir-fry",
-    "title": "Garlicky Chewy Dum Stir-fry",
+    "title": "Stir-Fried Dumplings",
     "tags": [
-      "garlicky",
-      "chewy",
-      "kid-friendly",
-      "norwegian",
-      "whole30"
+      "stir-fry",
+      "chinese-cuisine",
+      "vegetarian-recipes",
+      "quick-lunch"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 35,
+    "cuisine": "Chinese",
+    "totalTimeMin": 18,
     "shard": "g"
   },
   {
@@ -3264,20 +3264,14 @@
   },
   {
     "slug": "garlicky-korean-kimchi-mitbanchan",
-    "title": "Garlicky Korean Kimchi Mitbanchan",
+    "title": "Spicy Garlicky Kimchi Fried Rice",
     "tags": [
-      "busan",
-      "garlicky",
-      "high-protein",
-      "kimchi",
       "korean",
-      "mitbanchan",
-      "one-pan",
-      "velvety",
-      "weeknight"
+      "spicy",
+      "fried-rice"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 15,
     "shard": "g"
   },
   {
@@ -3485,19 +3479,14 @@
   },
   {
     "slug": "garlicky-midnight-slovakian-chicken-bowl",
-    "title": "Garlicky Midnight Slovakian Chicken Bowl",
+    "title": "Slovakian Chicken Bowl",
     "tags": [
       "slovakian",
-      "garlic",
-      "sous-vide",
-      "colby-jack",
-      "midnight-craving",
-      "paleo-friendly",
-      "gluten-free",
-      "quick-and-easy"
+      "chicken",
+      "bowl"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 110,
+    "cuisine": "slovakian",
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
@@ -5555,17 +5544,15 @@
   },
   {
     "slug": "gentle-spicy-portuguese-chicken-tagine",
-    "title": "Gentle Spicy Portuguese Chicken Tagine",
+    "title": "Spicy Chicken Tagine",
     "tags": [
-      "comfort-food",
-      "lazy-sunday",
-      "low-fat",
-      "one-pot",
-      "portuguese-cuisine",
+      "chicken",
+      "tagine",
+      "north-african",
       "spicy"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 70,
+    "cuisine": "North African",
+    "totalTimeMin": 45,
     "shard": "g"
   },
   {
