@@ -1,0 +1,98 @@
+{
+  "slug": "gently-smoked-saudi-arabian-lamb-tagine",
+  "title": "Smoked Lamb Tagine",
+  "description": "A traditional North African dish from Saudi Arabia, made with tender lamb and aromatic spices, slow-cooked in a clay pot.",
+  "cuisine": "North African",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, bone-in",
+      "amount": "1 piece, 1.5 kg",
+      "notes": ""
+    },
+    {
+      "name": "Gently smoked saffron",
+      "amount": "1/2 tsp",
+      "notes": "soaked in 1 tbsp hot water"
+    },
+    {
+      "name": "Saudi Arabian ground cumin",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Arabian paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season the lamb with salt and black pepper.",
+    "Heat oil in a large clay pot over medium heat.",
+    "Sear the lamb on all sides until browned, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the cumin, paprika, coriander, cinnamon, and turmeric to the pot.",
+    "Cook for 1 minute, stirring constantly.",
+    "Add the smoked saffron and its soaking liquid to the pot.",
+    "Return the lamb to the pot and bring to a simmer.",
+    "Cover the pot and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2 hours, or until the lamb is tender.",
+    "Remove the lamb from the pot and let rest for 10 minutes.",
+    "Serve the lamb with the sauce spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "north-african",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "43g",
+    "carbs": "10g",
+    "fat": "34g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gently-smoked-saudi-arabian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T14:10:44.186Z"
+}
