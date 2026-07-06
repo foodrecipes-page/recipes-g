@@ -1,0 +1,81 @@
+{
+  "slug": "garlicky-korean-kimchi-mitbanchan",
+  "title": "Spicy Garlicky Kimchi Fried Rice",
+  "description": "A flavorful Korean-inspired dish made with kimchi, mitbanchan, and garlicky goodness. Perfect for a quick and spicy meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Garlicky rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "Mitbanchan (Korean fermented vegetables)",
+      "amount": "1 cup",
+      "notes": "any variety"
+    },
+    {
+      "name": "Kimchi",
+      "amount": "1 cup",
+      "notes": "spicy, chopped"
+    },
+    {
+      "name": "Gochujang (Korean chili paste)",
+      "amount": "2 tablespoons",
+      "notes": "adjust level of spiciness to taste"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "use low-sodium option if possible"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Green onions",
+      "amount": "scallions, chopped",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Sliced garlic",
+      "amount": "1 clove",
+      "notes": "for added flavor"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large skillet over medium-high heat.",
+    "Add the sliced garlic and cook for 1 minute, until fragrant.",
+    "Add the kimchi and mitbanchan. Cook for 2 minutes, stirring frequently.",
+    "Add the gochujang and soy sauce. Stir to combine and cook for an additional minute.",
+    "Add the garlicky rice to the skillet and stir to combine with the kimchi mixture.",
+    "Cook for 2-3 minutes, until the rice is heated through and starting to brown.",
+    "Transfer the rice mixture to a serving platter and garnish with chopped green onions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "spicy",
+    "fried-rice"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-korean-kimchi-mitbanchan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T05:52:48.154Z"
+}
