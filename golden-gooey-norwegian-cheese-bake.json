@@ -1,0 +1,70 @@
+{
+  "slug": "golden-gooey-norwegian-cheese-bake",
+  "title": "Norwegian Golden Gooey Cheese Bake",
+  "description": "A rich and creamy bake combining Norwegian cheese with golden crust.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Norwegian cheese",
+      "amount": "250g",
+      "notes": "grated"
+    },
+    {
+      "name": "butter",
+      "amount": "100g",
+      "notes": "softened"
+    },
+    {
+      "name": "flour",
+      "amount": "200g",
+      "notes": "all-purpose"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "large"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "golden syrup",
+      "amount": "100g",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C.",
+    "Mix grated cheese, softened butter, and flour.",
+    "Beat in eggs and salt.",
+    "Transfer the mix to a greased 20cm baking dish.",
+    "If using golden syrup, drizzle evenly on top.",
+    "Bake for 35-40 minutes, or until golden brown.",
+    "Let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese",
+    "baked-good",
+    "norwegian"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-gooey-norwegian-cheese-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T09:08:32.398Z"
+}
