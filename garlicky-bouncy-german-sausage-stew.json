@@ -1,90 +1,71 @@
 {
   "slug": "garlicky-bouncy-german-sausage-stew",
-  "title": "German Sausage Stew",
-  "description": "A hearty German-inspired stew made with sausages and a variety of vegetables.",
-  "cuisine": "german",
+  "title": "Classic German Sausage Stew",
+  "description": "A hearty and comforting stew made with German sausage and a variety of vegetables. Perfect for a cold winter's night.",
+  "cuisine": "German",
   "diet": [
-    "meat"
+    "omnivore"
   ],
   "meal": "dinner",
   "ingredients": [
     {
-      "name": "german sausage",
+      "name": "German sausage",
       "amount": "1 pound",
-      "notes": null
+      "notes": "Choose a high-quality sausage with a good balance of flavor and texture"
     },
     {
-      "name": "bouncy potatoes",
+      "name": "garlicky stew meat",
+      "amount": "1 pound",
+      "notes": "Look for a cut that is well-marbled and has a good amount of flavor"
+    },
+    {
+      "name": "bouncy carrots",
+      "amount": "2 medium",
+      "notes": "Choose carrots that are firm and have a good crunch"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Choose an onion that is sweet and has a good flavor"
+    },
+    {
+      "name": "potatoes",
       "amount": "2 large",
-      "notes": null
-    },
-    {
-      "name": "garlicky onions",
-      "amount": "1 large",
-      "notes": null
-    },
-    {
-      "name": "stew beef",
-      "amount": "1 pound",
-      "notes": null
-    },
-    {
-      "name": "tomatoes",
-      "amount": "2 cups",
-      "notes": null
-    },
-    {
-      "name": "beef broth",
-      "amount": "4 cups",
-      "notes": null
-    },
-    {
-      "name": "caraway seeds",
-      "amount": "1 teaspoon",
-      "notes": null
-    },
-    {
-      "name": "salt",
-      "amount": "1 teaspoon",
-      "notes": null
-    },
-    {
-      "name": "pepper",
-      "amount": "1/2 teaspoon",
-      "notes": null
+      "notes": "Choose potatoes that are high in starch and have a good flavor"
     }
   ],
   "instructions": [
-    "1. Heat oil in a large Dutch oven over medium-high heat.",
-    "2. Add sausages and cook until browned, about 5 minutes.",
-    "3. Remove sausages and set aside.",
-    "4. Add stew beef and cook until browned, about 5 minutes.",
-    "5. Add onions and cook until softened, about 3 minutes.",
-    "6. Add potatoes, beef broth, caraway seeds, salt, and pepper. Stir to combine.",
-    "7. Return sausages to the pot and bring to a boil.",
-    "8. Reduce heat to low, cover, and simmer for 30 minutes.",
-    "9. Add tomatoes and stir to combine.",
-    "10. Simmer for an additional 15 minutes.",
-    "11. Serve hot, garnished with chopped fresh parsley."
+    "Brown the German sausage in a large pot over medium-high heat.",
+    "Remove the sausage from the pot and set it aside.",
+    "Add the garlicky stew meat to the pot and brown it on all sides.",
+    "Remove the stew meat from the pot and set it aside with the sausage.",
+    "Add the bouncy carrots and onion to the pot and sauté them until they are tender.",
+    "Add the potatoes to the pot and sauté them for a few minutes.",
+    "Add the browned sausage and stew meat back to the pot.",
+    "Add enough broth to the pot to cover the ingredients.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer it for 30 minutes.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
   ],
-  "prepTimeMin": 15,
-  "cookTimeMin": 45,
-  "totalTimeMin": 60,
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
     "german",
     "sausage",
-    "stew"
+    "stew",
+    "comfort-food"
   ],
   "nutrition": {
-    "calories": 740,
-    "protein": 43,
-    "carbs": 30,
-    "fat": 46
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-bouncy-german-sausage-stew",
   "providerUsed": "groq",
-  "createdAt": "2026-07-02T18:16:57.243Z"
+  "createdAt": "2026-07-04T04:34:24.488Z"
 }
