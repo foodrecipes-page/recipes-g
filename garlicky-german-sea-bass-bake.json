@@ -1,0 +1,86 @@
+{
+  "slug": "garlicky-german-sea-bass-bake",
+  "title": "Baked Bass with German Flair",
+  "description": "A flavorful and moist bass dish inspired by traditional German cuisine, topped with a garlicky crust.",
+  "cuisine": "german",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bass Fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Lemon",
+      "amount": "1, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Season the bass fillets with salt and pepper.",
+    "3. In a pan, melt the butter over medium heat.",
+    "4. Add the minced garlic and cook for 1 minute.",
+    "5. Arrange the bass fillets on a baking sheet.",
+    "6. Spread the garlic butter mixture evenly over each fillet.",
+    "7. Sprinkle breadcrumbs and chopped parsley over the fish.",
+    "8. Place a lemon slice on top of each fillet.",
+    "9. Bake for 12-15 minutes, or until the fish is cooked through.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "german",
+    "easy-dinner",
+    "bass"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 6,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-german-sea-bass-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T19:53:44.034Z"
+}
