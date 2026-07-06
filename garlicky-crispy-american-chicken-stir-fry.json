@@ -1,0 +1,79 @@
+{
+  "slug": "garlicky-crispy-american-chicken-stir-fry",
+  "title": "American Chicken Stir Fry",
+  "description": "A flavorful and easy-to-make American-style stir fry dish made with crispy chicken, crunchy vegetables, and savory sauce. Perfect for a quick dinner or lunch.",
+  "cuisine": "American",
+  "diet": [
+    "pork-free",
+    "shellfish-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "garlicky oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "american stir fry sauce",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "crispy bacon",
+      "amount": "4 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "stir-fry mix",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "chopped green onions",
+      "amount": "",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the garlicky oil in a large skillet or wok over medium-high heat.",
+    "Add the diced crispy bacon and cook until crispy, then set aside.",
+    "Add the chicken breast to the skillet and cook until browned and cooked through.",
+    "Add the stir-fry mix to the skillet and cook until the vegetables are tender.",
+    "Return the crispy bacon to the skillet and add the American stir fry sauce.",
+    "Stir to combine and cook for an additional 1-2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped green onions if desired.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "chicken",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-crispy-american-chicken-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T07:09:39.541Z"
+}
