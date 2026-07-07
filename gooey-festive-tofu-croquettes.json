@@ -1,0 +1,71 @@
+{
+  "slug": "gooey-festive-tofu-croquettes",
+  "title": "Crispy Tofu Croquettes with Gooey Sauce",
+  "description": "A festive twist on traditional croquettes, featuring crispy tofu and served with a side of gooey sauce for dipping.",
+  "cuisine": "European",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (12 oz)",
+      "notes": "pressed and drained"
+    },
+    {
+      "name": "Croquettes",
+      "amount": "1 package (12-16 pieces)",
+      "notes": "frozen"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": "for coating"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1 cup",
+      "notes": "for coating"
+    },
+    {
+      "name": "Gooey sauce (optional)",
+      "amount": "",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oil in a deep frying pan to 350°F (175°C).",
+    "2. Cut the tofu into small cubes and coat with flour, shaking off excess.",
+    "3. Dip the floured tofu in the beaten egg and then coat with breadcrumbs.",
+    "4. Fry the coated tofu in batches until crispy and golden brown, about 3-4 minutes.",
+    "5. Drain the fried tofu on paper towels.",
+    "6. If using store-bought croquettes, cook according to package instructions.",
+    "7. Serve the crispy tofu croquettes with gooey sauce for dipping."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "snack",
+    "finger-food",
+    "festive"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-festive-tofu-croquettes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T12:16:22.975Z"
+}
