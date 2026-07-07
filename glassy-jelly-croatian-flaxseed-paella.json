@@ -1,0 +1,72 @@
+{
+  "slug": "glassy-jelly-croatian-flaxseed-paella",
+  "title": "Croatian Paella with Flaxseed Crostini",
+  "description": "A Mediterranean-inspired paella dish paired with a crunchy flaxseed crostini.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paella",
+      "amount": "1 cup"
+    },
+    {
+      "name": "flaxseed",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "glassy olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "croatian paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "jelly",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the paella according to the package's instructions.",
+    "Mix the flaxseed with a pinch of salt and a drizzle of olive oil.",
+    "Toast the flaxseed mixture in the oven for 5 minutes.",
+    "Prepare the crostini by mixing the flour with a pinch of salt.",
+    "Add the jelly to the flour mixture and mix until a dough forms.",
+    "Roll out the dough and cut into small squares.",
+    "Bake the crostini in the oven for 10 minutes.",
+    "Serve the paella with the flaxseed crostini on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/glassy-jelly-croatian-flaxseed-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T23:43:52.008Z"
+}
