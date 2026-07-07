@@ -1,0 +1,73 @@
+{
+  "slug": "gooey-irish-pistachio-bake",
+  "title": "Gooey Pistachio Irish Shortbread",
+  "description": "A sweet and crumbly shortbread infused with the nutty flavor of pistachios, perfect for a dessert or snack.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "irish butter",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "pistachio meal",
+      "amount": "2 tablespoons",
+      "notes": "finely ground"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/4 cups",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "pistachios",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C). Line a baking sheet with parchment paper.",
+    "In a medium bowl, whisk together the flour, sugar, and salt.",
+    "Add the pistachio meal and whisk until combined.",
+    "Add the irish butter and mix until the dough comes together.",
+    "Stir in the chopped pistachios.",
+    "Roll out the dough on a lightly floured surface to about 1/4 inch thickness.",
+    "Cut into desired shapes using a cookie cutter.",
+    "Place on the prepared baking sheet and bake for 18-20 minutes or until lightly golden.",
+    "Remove from the oven and let cool on the baking sheet for 5 minutes.",
+    "Transfer to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 9,
+  "difficulty": "easy",
+  "tags": [
+    "shortbread",
+    "pistachio",
+    "irish",
+    "buttery"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 1,
+    "carbs": 15,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-irish-pistachio-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T13:10:14.338Z"
+}
