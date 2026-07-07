@@ -1,0 +1,59 @@
+{
+  "slug": "grassy-solo-australian-ackee-fritters",
+  "title": "Grassy Aussie Fritter Breakfast",
+  "description": "A tasty breakfast dish featuring Australian ingredients, served with a side of ackee.",
+  "cuisine": "australian",
+  "diet": [
+    "breakfast",
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Grassy Australian Solo Grass",
+      "amount": "2 cups",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Ackee",
+      "amount": "1 cup",
+      "notes": "Canned"
+    },
+    {
+      "name": "Fritters",
+      "amount": "6 pieces",
+      "notes": "Bought at store"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick pan over medium heat.",
+    "Add chopped grassy Australian solo grass and stir occasionally.",
+    "Once softened, add canned ackee and stir.",
+    "Cook for 2 minutes.",
+    "Prepare fritters according to package instructions.",
+    "Place fritters on top of the ackee mixture.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "australian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grassy-solo-australian-ackee-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T14:40:40.166Z"
+}
