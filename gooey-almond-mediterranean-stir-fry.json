@@ -1,0 +1,82 @@
+{
+  "slug": "gooey-almond-mediterranean-stir-fry",
+  "title": "Gooey Almond Stir Fry",
+  "description": "A sweet and savory Asian-inspired stir fry featuring gooey sauce, crunchy almonds, and a mediterranean twist.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gooey sauce",
+      "amount": "1/4 cup",
+      "notes": "can be substituted with store-bought sauce"
+    },
+    {
+      "name": "Almonds",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "2 medium",
+      "notes": "any color"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Mediterranean olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tsp",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 tsp",
+      "notes": "minced"
+    },
+    {
+      "name": "Rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tsp of oil in a large skillet or wok over medium-high heat.",
+    "Add onion and bell peppers; cook until tender.",
+    "Add almonds; cook for 2 minutes.",
+    "Add Mediterranean olives; cook for 1 minute.",
+    "Add soy sauce, ginger, and garlic; stir-fry for 1 minute.",
+    "Add gooey sauce; stir-fry until sauce thickens.",
+    "Serve over cooked rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stir-fry",
+    "almond",
+    "mediterranean",
+    "vegetarian"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-almond-mediterranean-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T03:57:50.642Z"
+}
