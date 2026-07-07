@@ -1,0 +1,58 @@
+{
+  "slug": "gooey-french-dates-galette",
+  "title": "French Galette with Caramelized Dates",
+  "description": "Sweet and savory galette filled with caramelized dates and gooey goodness.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "French galette dough",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "Dates",
+      "amount": "4-6",
+      "notes": "pitted"
+    },
+    {
+      "name": "Gooey",
+      "amount": "1/4 cup",
+      "notes": "optional (for drizzling)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out French galette dough to a thickness of 1/8 inch.",
+    "In a pan, caramelize dates over medium heat until sticky and fragrant.",
+    "Spread caramelized dates over the center of the dough, leaving a 1-inch border.",
+    "Fold the edges of the dough over the filling, pressing gently to seal.",
+    "Bake for 20-25 minutes or until the crust is golden brown.",
+    "Optional: drizzle with gooey goodness.",
+    "Serve warm, dust with powdered sugar if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "pastry",
+    "dates",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-french-dates-galette",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T11:31:40.962Z"
+}
