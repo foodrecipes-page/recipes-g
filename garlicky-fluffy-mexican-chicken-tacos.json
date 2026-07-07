@@ -1,0 +1,90 @@
+{
+  "slug": "garlicky-fluffy-mexican-chicken-tacos",
+  "title": "Delicious Chicken Tacos",
+  "description": "A flavorful and easy-to-make recipe for chicken tacos, perfect for a quick dinner or lunch.",
+  "cuisine": "mexican",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "fluffy tortillas",
+      "amount": "8-10",
+      "notes": "corn or flour, your preference"
+    },
+    {
+      "name": "garlicky salsa",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "cheddar or Monterey Jack work well"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 medium",
+      "notes": "optional, for extra flavor"
+    },
+    {
+      "name": "diced bell pepper",
+      "amount": "1 medium",
+      "notes": "optional, for extra flavor"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground cumin adds a nice depth of flavor"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": "season to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Season the chicken breast with cumin, chili powder, salt, and pepper.",
+    "Grill the chicken for 5-6 minutes per side, or until it reaches an internal temperature of 165°F.",
+    "Let the chicken rest for a few minutes before slicing it into thin strips.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing a few slices of chicken onto a tortilla, followed by a spoonful of garlicky salsa, some shredded cheese, and any desired toppings (such as diced onion or bell pepper).",
+    "Serve immediately and enjoy!",
+    "Optional: top with diced avocado, sour cream, or cilantro for added flavor and texture."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "easy",
+    "quick",
+    "dinner",
+    "chicken",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-fluffy-mexican-chicken-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T10:00:29.485Z"
+}
