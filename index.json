@@ -11812,18 +11812,15 @@
   },
   {
     "slug": "gooey-irish-pistachio-bake",
-    "title": "Gooey Irish Pistachio Bake",
+    "title": "Gooey Pistachio Irish Shortbread",
     "tags": [
-      "irish",
+      "shortbread",
       "pistachio",
-      "gooey",
-      "high-protein",
-      "vegan",
-      "dessert",
-      "sick-day"
+      "irish",
+      "buttery"
     ],
-    "cuisine": "irish",
-    "totalTimeMin": 25,
+    "cuisine": null,
+    "totalTimeMin": 30,
     "shard": "g"
   },
   {
