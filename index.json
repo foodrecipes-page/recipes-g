@@ -4129,18 +4129,15 @@
   },
   {
     "slug": "garlicky-smoky-argentinian-chicken-empanadas",
-    "title": "Garlicky Smoky Argentinian Chicken Empanadas",
+    "title": "Smoky Empanadas with Chicken Filling",
     "tags": [
       "argentinian",
-      "chicken",
       "empanadas",
-      "garlic",
-      "smoky",
-      "pecan-free",
-      "gluten-free"
+      "chicken",
+      "snack"
     ],
-    "cuisine": "argentinian",
-    "totalTimeMin": 40,
+    "cuisine": "Argentinian",
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
@@ -11195,14 +11192,16 @@
   },
   {
     "slug": "gooey-chia-seed-argentinian-stir-fry",
-    "title": "Gooey Chia Seed Argentinian Stir-fry",
+    "title": "Argentinian Chia Seed Cereal",
     "tags": [
-      "chia-seeds",
-      "pita-bread",
-      "argentinean-stir-fry"
+      "breakfast",
+      "argentinian",
+      "chia-seed",
+      "gluten-free",
+      "vegan"
     ],
-    "cuisine": "Argentinean",
-    "totalTimeMin": 30,
+    "cuisine": "Argentinian",
+    "totalTimeMin": 20,
     "shard": "g"
   },
   {
@@ -13734,19 +13733,14 @@
   },
   {
     "slug": "grassy-solo-australian-ackee-fritters",
-    "title": "Grassy Solo Australian Ackee Fritters",
+    "title": "Grassy Aussie Fritter Breakfast",
     "tags": [
-      "ausstralian",
-      "crispy",
-      "grassy",
-      "high-protein",
-      "kitchen",
-      "one-pan",
-      "solodinner",
-      "weeknight"
+      "breakfast",
+      "australian",
+      "vegetarian"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 18,
+    "cuisine": "australian",
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
