@@ -1,0 +1,88 @@
+{
+  "slug": "garlicky-uruguayan-wagyu-asado",
+  "title": "Uruguayan-Style Wagyu Asado",
+  "description": "A classic Uruguayan asado recipe featuring Wagyu beef. This dish is perfect for a special occasion.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wagyu beef (Ribeye or Striploin)",
+      "amount": "1.5 lbs",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "Garlicky chimichurri sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Uruguayan-style asado rub",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 bunch",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Red wine vinegar",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Chile flakes",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F).",
+    "Season the Wagyu beef with salt, black pepper, and asado rub.",
+    "Grill the Wagyu beef for 4-5 minutes per side, or until it reaches your desired level of doneness.",
+    "Let the beef rest for 10 minutes before slicing it thinly against the grain.",
+    "Meanwhile, mix together the chimichurri sauce and minced garlic in a small bowl.",
+    "Slice the rested beef into thin strips and serve with the chimichurri sauce spooned over the top.",
+    "Garnish with fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "uruguayan",
+    "wagyu",
+    "asado",
+    "garlicky"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 60,
+    "carbs": 0,
+    "fat": 50
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-uruguayan-wagyu-asado",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T23:31:26.130Z"
+}
