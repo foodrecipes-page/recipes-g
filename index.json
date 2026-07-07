@@ -6670,14 +6670,15 @@
   },
   {
     "slug": "ginger-garlic-paneer-stir-fry",
-    "title": "Ginger Garlic Paneer Stir-Fry",
+    "title": "Spicy Paneer Stir Fry",
     "tags": [
-      "ginger-garlic-paneer",
-      "turkish-brunch-dish",
-      "sugar-free-friendly"
+      "paneer",
+      "stir-fry",
+      "indian-cuisine",
+      "vegetarian"
     ],
-    "cuisine": "Turkish",
-    "totalTimeMin": 22,
+    "cuisine": "Indian",
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
@@ -11437,15 +11438,14 @@
   },
   {
     "slug": "gooey-festive-tofu-croquettes",
-    "title": "Fermented Gooey Tofu Croquettes",
+    "title": "Crispy Tofu Croquettes with Gooey Sauce",
     "tags": [
-      "fermented-tofu",
-      "vegetable-dum",
-      "goosey-croquette",
-      "croatian-vegan"
+      "snack",
+      "finger-food",
+      "festive"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 25,
+    "cuisine": "European",
+    "totalTimeMin": 22,
     "shard": "g"
   },
   {
@@ -11523,16 +11523,15 @@
   },
   {
     "slug": "gooey-french-dates-galette",
-    "title": "Gooey French Dates Galette",
+    "title": "French Galette with Caramelized Dates",
     "tags": [
-      "date-night",
       "french",
-      "lyonnaise",
-      "romantic",
-      "weeknight"
+      "pastry",
+      "dates",
+      "dessert"
     ],
     "cuisine": "French",
-    "totalTimeMin": 55,
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
@@ -13856,17 +13855,15 @@
   },
   {
     "slug": "grassy-venezuelan-arepa-bake",
-    "title": "Grassy Venezuelan Arepa Bake",
+    "title": "Grilled Arepa Sandwich",
     "tags": [
-      "breakfast",
-      "brunch",
-      "egg-free",
-      "one-pan",
-      "venezuelan",
-      "weekend"
+      "grilled",
+      "sandwich",
+      "arepa",
+      "venezuelan"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 15,
     "shard": "g"
   },
   {
