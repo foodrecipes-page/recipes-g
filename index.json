@@ -4554,15 +4554,15 @@
   },
   {
     "slug": "garlicky-uruguayan-wagyu-asado",
-    "title": "Garlicky Uruguayan Wagyu Asado",
+    "title": "Uruguayan-Style Wagyu Asado",
     "tags": [
-      "high-protein",
-      "latin-inspired",
-      "one-pan",
-      "weeknight"
+      "uruguayan",
+      "wagyu",
+      "asado",
+      "garlicky"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 40,
+    "totalTimeMin": 30,
     "shard": "g"
   },
   {
@@ -7117,17 +7117,14 @@
   },
   {
     "slug": "glassy-jelly-croatian-flaxseed-paella",
-    "title": "Glassy Jelly Croatian Flaxseed Paella",
+    "title": "Croatian Paella with Flaxseed Crostini",
     "tags": [
-      "croatian",
-      "dinner",
+      "mediterranean",
       "gluten-free",
-      "high-protein",
-      "paleo",
-      "weeknight"
+      "vegetarian"
     ],
-    "cuisine": "croatian",
-    "totalTimeMin": 55,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {
