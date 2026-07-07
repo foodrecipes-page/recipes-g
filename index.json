@@ -2432,16 +2432,17 @@
   },
   {
     "slug": "garlicky-fluffy-mexican-chicken-tacos",
-    "title": "Garlicky Fluffy Mexican Chicken Tacos",
+    "title": "Delicious Chicken Tacos",
     "tags": [
       "mexican",
+      "easy",
+      "quick",
+      "dinner",
       "chicken",
-      "tacos",
-      "garlic",
-      "green-salsa"
+      "tacos"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 45,
+    "cuisine": "mexican",
+    "totalTimeMin": 27,
     "shard": "g"
   },
   {
