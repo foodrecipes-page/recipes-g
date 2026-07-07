@@ -1,0 +1,72 @@
+{
+  "slug": "garlicky-smoky-argentinian-chicken-empanadas",
+  "title": "Smoky Empanadas with Chicken Filling",
+  "description": "Classic empanadas filled with a flavorful chicken mixture, perfect for a quick snack or dinner.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Garlicky Chicken Filling",
+      "amount": "1 pound boneless, skinless chicken breast, cut into small pieces",
+      "notes": "Cooked until just done"
+    },
+    {
+      "name": "Smoky Empanada Dough",
+      "amount": null,
+      "notes": ""
+    },
+    {
+      "name": "Smoky Paprika",
+      "amount": 0,
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": 0,
+      "notes": ""
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": 0,
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the empanada dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "In a large skillet, heat a couple of tablespoons of olive oil over medium-high heat.",
+    "Add the chicken to the skillet and cook, breaking it up with a spoon, until it is no longer pink.",
+    "Add the smoky paprika and cook for another minute.",
+    "Stir in the cheddar and Parmesan cheese until melted and well combined.",
+    "Spoon a tablespoon or two of the chicken mixture onto one half of each dough circle.",
+    "Fold the dough in half to form a half-moon shape, and press the edges together with a fork to seal.",
+    "Brush the tops of the empanadas with a little bit of olive oil.",
+    "Bake in the preheated oven for 15-20 minutes, or until golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "empanadas",
+    "chicken",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-smoky-argentinian-chicken-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T15:43:37.565Z"
+}
