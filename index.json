@@ -10917,15 +10917,15 @@
   },
   {
     "slug": "gooey-almond-mediterranean-stir-fry",
-    "title": "Gooey Almond Mediterranean Stir-fry",
+    "title": "Gooey Almond Stir Fry",
     "tags": [
-      "almond-milk",
-      "bhuna-spices",
-      "mediterranean-dish",
-      "whole30-friendly"
+      "stir-fry",
+      "almond",
+      "mediterranean",
+      "vegetarian"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 20,
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
