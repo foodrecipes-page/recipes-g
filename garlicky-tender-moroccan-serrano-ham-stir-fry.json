@@ -1,0 +1,68 @@
+{
+  "slug": "garlicky-tender-moroccan-serrano-ham-stir-fry",
+  "title": "Moroccan Ham Fajitas",
+  "description": "A flavorful and spicy dish combining the flavors of Morocco with the comfort of a fajita. This recipe is quick, easy, and perfect for a weeknight dinner.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ham",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Serrano pepper",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Garlicky stir-fry oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Fry",
+      "amount": "1 cup",
+      "notes": "Any stir-fry vegetable mix"
+    },
+    {
+      "name": "Tender",
+      "amount": "2",
+      "notes": "Fresh cilantro leaves"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of garlicky stir-fry oil in a large skillet over medium-high heat.",
+    "Add the diced serrano peppers to the skillet and cook for 2 minutes.",
+    "Add the diced ham to the skillet and cook for 3-4 minutes, until lightly browned.",
+    "Add the stir-fry mix to the skillet and cook for 3-4 minutes, until the vegetables are tender.",
+    "Serve the ham and vegetable mixture hot, garnished with fresh cilantro leaves.",
+    "Warm flour or corn tortillas and serve with the fajita mixture.",
+    "Optional: serve with your favorite toppings, such as salsa, sour cream, or shredded cheese."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "fajitas",
+    "ham",
+    "vegetables"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-tender-moroccan-serrano-ham-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T11:33:03.480Z"
+}
