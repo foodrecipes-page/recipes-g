@@ -4930,16 +4930,15 @@
   },
   {
     "slug": "garnished-asian-vietnamese-rice-noodle-fresh-spring-rolls",
-    "title": "Garnished Asian Vietnamese Rice Noodle Fresh Spring Rolls",
+    "title": "Vietnamese Spring Rolls",
     "tags": [
-      "fermented",
-      "gluten-free",
-      "macrobiotic",
+      "vietnamese",
       "spring-rolls",
-      "vietnamese"
+      "vegetarian",
+      "snack"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 35,
+    "cuisine": "vietnamese",
+    "totalTimeMin": 20,
     "shard": "g"
   },
   {
@@ -6018,16 +6017,15 @@
   },
   {
     "slug": "gently-roasted-croatian-potato-roast",
-    "title": "Gently Roasted Croatian Potato Roast",
+    "title": "Roasted Croatian Potato Croquettes",
     "tags": [
-      "comfort-food",
-      "one-pan",
-      "potato-based",
-      "vegan",
-      "weeknight"
+      "croatian",
+      "potato",
+      "snack",
+      "vegetarian"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 32,
     "shard": "g"
   },
   {
