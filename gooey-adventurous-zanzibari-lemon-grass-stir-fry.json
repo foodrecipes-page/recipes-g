@@ -1,0 +1,63 @@
+{
+  "slug": "gooey-adventurous-zanzibari-lemon-grass-stir-fry",
+  "title": "Grilled Zanzibari Skewers with Lemon",
+  "description": "A flavorful and healthy grilled skewer dish made with zanzibari and a hint of lemon.",
+  "cuisine": "Grilled",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Zanzibari",
+      "amount": "500g",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "Lemon",
+      "amount": "2",
+      "notes": "juice and zest"
+    },
+    {
+      "name": "Gooey",
+      "amount": "100g",
+      "notes": "for basting"
+    },
+    {
+      "name": "Grass",
+      "amount": "handful",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread zanzibari cubes onto skewers.",
+    "Brush with lemon juice and zest.",
+    "Season with salt and pepper to taste.",
+    "Grill for 8-10 minutes, turning occasionally.",
+    "Baste with gooey every 2 minutes during last 4 minutes of grilling.",
+    "Serve hot, garnished with grass and lemon wedges."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "skewers",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-adventurous-zanzibari-lemon-grass-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T11:00:12.464Z"
+}
