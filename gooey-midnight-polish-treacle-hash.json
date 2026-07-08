@@ -1,0 +1,65 @@
+{
+  "slug": "gooey-midnight-polish-treacle-hash",
+  "title": "Treacle Hash Cakes",
+  "description": "A sweet breakfast treat made with crispy hash and gooey treacle syrup.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Hash",
+      "amount": "200g"
+    },
+    {
+      "name": "Treacle syrup",
+      "amount": "60g"
+    },
+    {
+      "name": "Gooey honey",
+      "amount": "30g"
+    },
+    {
+      "name": "Polish rye flour",
+      "amount": "100g"
+    },
+    {
+      "name": "Midnight black sesame seeds",
+      "amount": "20g"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 180°C (350°F).",
+    "2. In a mixing bowl, combine the hash, treacle syrup, and gooey honey.",
+    "3. In a separate bowl, whisk together the polish rye flour and midnight black sesame seeds.",
+    "4. Add the dry ingredients to the wet ingredients and mix until a dough forms.",
+    "5. Divide the dough into 4-6 portions, depending on desired size.",
+    "6. Shape each portion into a ball and then flatten slightly into a cake.",
+    "7. Place the cakes on a baking sheet lined with parchment paper.",
+    "8. Bake for 15-20 minutes, or until the cakes are golden brown.",
+    "9. Remove from the oven and let cool for a few minutes.",
+    "10. Serve warm, dust with powdered sugar if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "sweet",
+    "hash",
+    "treacle"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-midnight-polish-treacle-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T05:43:02.402Z"
+}
