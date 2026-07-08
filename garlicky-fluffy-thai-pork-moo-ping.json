@@ -1,0 +1,65 @@
+{
+  "slug": "garlicky-fluffy-thai-pork-moo-ping",
+  "title": "Thai-Style Pork Bites",
+  "description": "A simple and flavorful Thai-inspired dish made with crispy pork bites, served with a tangy dipping sauce. Enjoy as an appetizer or snack.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "pork"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pork",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlicky",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fluffy",
+      "amount": "1 cup",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "ping",
+      "amount": "1 cup",
+      "notes": "panko breadcrumbs"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. In a shallow dish, mix together the flour, minced garlic, and a pinch of salt.",
+    "3. Add the sliced pork to the flour mixture and toss to coat evenly.",
+    "4. Dip each coated pork slice into the beaten eggs and then roll in panko breadcrumbs to coat.",
+    "5. Place the coated pork slices on a baking sheet lined with parchment paper.",
+    "6. Bake in the preheated oven for 12-15 minutes or until golden brown and crispy.",
+    "7. While the pork is baking, prepare the dipping sauce by mixing together equal parts of soy sauce and fish sauce in a small bowl.",
+    "8. Once the pork is done, remove from the oven and let cool for a few minutes.",
+    "9. Serve the crispy pork bites with the tangy dipping sauce for a delicious snack or appetizer.",
+    "10. Garnish with chopped fresh cilantro or scallions, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai-food",
+    "pork-bites",
+    "snack-ideas"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-fluffy-thai-pork-moo-ping",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T10:10:26.724Z"
+}
