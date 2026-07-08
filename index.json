@@ -696,16 +696,16 @@
   },
   {
     "slug": "garlicky-algerian-garlic-tagine",
-    "title": "Garlicky Algerian Garlic Tagine",
+    "title": "Garlicky Algerian Chicken Tagine",
     "tags": [
       "north-african",
-      "lamb",
+      "chicken",
       "stew",
-      "garlic",
-      "hearty"
+      "paleo",
+      "gluten-free"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 170,
+    "cuisine": "North African",
+    "totalTimeMin": 50,
     "shard": "g"
   },
   {
@@ -8649,18 +8649,14 @@
   },
   {
     "slug": "glowing-glassy-irish-passata-skewers",
-    "title": "Glowing Glassy Irish Passata Skewers",
+    "title": "Grilled Irish Skewers with Tomato Sauce",
     "tags": [
-      "gluten-free",
-      "grilled",
-      "irish-cuisine",
-      "low-carb",
-      "nigiri",
-      "passata",
-      "robata-grill"
+      "grilling",
+      "lamb",
+      "irish"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 45,
+    "cuisine": "irish",
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
@@ -9168,16 +9164,15 @@
   },
   {
     "slug": "golden-brown-norwegian-cheese-pasta",
-    "title": "Golden Brown Norwegian Cheese Pasta",
+    "title": "Norwegian Brown Pasta Bake",
     "tags": [
-      "mediterranean-inspired",
-      "norwegian-cuisine",
-      "one-pan-meals",
-      "pasta-dishes",
-      "vegetarian-options"
+      "pasta",
+      "cheese",
+      "comfort-food",
+      "scandinavian"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 40,
+    "cuisine": "Scandinavian",
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
