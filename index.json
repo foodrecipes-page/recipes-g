@@ -652,19 +652,16 @@
   },
   {
     "slug": "garlicky-aerated-egyptian-sherry-vinegar-tagine",
-    "title": "Garlicky Aerated Egyptian Sherry Vinegar Tagine",
+    "title": "Egyptian Chicken Tagine",
     "tags": [
-      "egyptian",
-      "garlic",
-      "gluten-free",
-      "lamb",
-      "one-pan",
-      "robata-grill",
-      "sherry-vinegar",
-      "whole30-friendly"
+      "north african",
+      "chicken",
+      "slow-cooked",
+      "clay pot",
+      "moroccan"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 150,
+    "cuisine": "North African",
+    "totalTimeMin": 50,
     "shard": "g"
   },
   {
