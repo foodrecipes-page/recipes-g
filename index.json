@@ -2505,17 +2505,14 @@
   },
   {
     "slug": "garlicky-fluffy-thai-pork-moo-ping",
-    "title": "Garlicky Fluffy Thai Pork Moo Ping",
+    "title": "Thai-Style Pork Bites",
     "tags": [
-      "garlic",
-      "midnightcraving",
-      "noodle",
-      "pork",
-      "quickmeal",
-      "thaifood"
+      "thai-food",
+      "pork-bites",
+      "snack-ideas"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 45,
+    "totalTimeMin": 22,
     "shard": "g"
   },
   {
@@ -4365,16 +4362,15 @@
   },
   {
     "slug": "garlicky-tender-moroccan-serrano-ham-stir-fry",
-    "title": "Garlicky Tender Moroccan Serrano Ham Stir-fry",
+    "title": "Moroccan Ham Fajitas",
     "tags": [
-      "garlicky",
-      "tender",
       "moroccan",
-      "serrano-ham",
-      "stir-fry"
+      "fajitas",
+      "ham",
+      "vegetables"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 15,
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
@@ -10842,16 +10838,15 @@
   },
   {
     "slug": "gooey-adventurous-zanzibari-lemon-grass-stir-fry",
-    "title": "Gooey Adventurous Zanzibari Lemon Grass Stir-fry",
+    "title": "Grilled Zanzibari Skewers with Lemon",
     "tags": [
-      "lemon-grass",
-      "pressure-cooked",
-      "zanzibari",
-      "middle-eastern",
-      "spicy"
+      "grilled",
+      "skewers",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 55,
+    "cuisine": "Grilled",
+    "totalTimeMin": 18,
     "shard": "g"
   },
   {
