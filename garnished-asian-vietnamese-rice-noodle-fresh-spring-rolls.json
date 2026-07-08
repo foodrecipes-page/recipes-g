@@ -1,0 +1,81 @@
+{
+  "slug": "garnished-asian-vietnamese-rice-noodle-fresh-spring-rolls",
+  "title": "Vietnamese Spring Rolls",
+  "description": "A classic Vietnamese dish made with fresh spring roll wrappers, vegetables, and herbs, served with a sweet and spicy dipping sauce.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Spring roll wrappers (rice paper)",
+      "amount": "1 package (about 20 wrappers)",
+      "notes": ""
+    },
+    {
+      "name": "Shredded carrot",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Shredded cabbage",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Bean sprouts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh basil leaves",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garnishes (fresh herbs, sesame seeds, etc.)",
+      "amount": "as desired",
+      "notes": ""
+    },
+    {
+      "name": "Sweet and spicy dipping sauce",
+      "amount": "as desired",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Soak the spring roll wrappers in warm water for about 10-15 seconds, until they become pliable and soft.",
+    "Lay a wrapper flat and place about 1 tablespoon of the filling in the center of the wrapper.",
+    "Fold the bottom half of the wrapper up over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "Repeat with the remaining wrappers and filling.",
+    "Serve the spring rolls with sweet and spicy dipping sauce.",
+    "Garnish with fresh herbs, sesame seeds, and other desired garnishes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "vietnamese",
+    "spring-rolls",
+    "vegetarian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garnished-asian-vietnamese-rice-noodle-fresh-spring-rolls",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T18:26:01.465Z"
+}
