@@ -7260,18 +7260,15 @@
   },
   {
     "slug": "glassy-jelly-jamaican-sour-cream-burger",
-    "title": "Glassy-Jelly Jamaican Sour Cream Burger",
+    "title": "Jamaican Jerk Burger",
     "tags": [
-      "breakfast",
-      "brunch",
-      "easy",
-      "jamaican",
-      "quick",
-      "weekend",
-      "weeknight"
+      "burger",
+      "jerk-seasoning",
+      "grilled",
+      "caribbean"
     ],
-    "cuisine": "jamaican",
-    "totalTimeMin": 35,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 27,
     "shard": "g"
   },
   {
