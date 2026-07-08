@@ -1,0 +1,101 @@
+{
+  "slug": "garnished-tunisian-lamb-tagine",
+  "title": "Tunisian Lamb Tagine",
+  "description": "A traditional North African stew made with lamb, vegetables, and aromatic spices. This dish is slow-cooked in a clay pot called a tagine, which gives it a unique flavor and texture.",
+  "cuisine": "North African",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 kg",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in the bottom of the tagine over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and ginger and cook for another minute.",
+    "Add cumin, coriander, cinnamon, salt, and pepper and cook for 1 minute.",
+    "Add lamb and cook until browned on all sides, about 5 minutes.",
+    "Add broth and bring to a boil.",
+    "Cover the tagine and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2 1/2 hours, or until the meat is tender.",
+    "Garnish with fresh herbs, if desired.",
+    "Serve hot over couscous or rice."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "stew",
+    "lamb",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garnished-tunisian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T09:37:25.766Z"
+}
