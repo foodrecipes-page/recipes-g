@@ -1,0 +1,76 @@
+{
+  "slug": "golden-brown-norwegian-cheese-pasta",
+  "title": "Norwegian Brown Pasta Bake",
+  "description": "A hearty and flavorful pasta bake with Norwegian brown cheese and golden breadcrumbs. A great comfort food for any occasion.",
+  "cuisine": "Scandinavian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "500g"
+    },
+    {
+      "name": "Norwegian brown cheese",
+      "amount": "200g"
+    },
+    {
+      "name": "golden breadcrumbs",
+      "amount": "50g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Cook the pasta according to the package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat. Add the garlic and onion and cook until softened.",
+    "Add the Norwegian brown cheese to the skillet and stir until melted.",
+    "Add the cooked pasta to the skillet and stir to combine.",
+    "Transfer the pasta mixture to a baking dish and top with golden breadcrumbs.",
+    "Season with salt and black pepper to taste.",
+    "Bake in the preheated oven for 15-20 minutes or until the breadcrumbs are golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pasta",
+    "cheese",
+    "comfort-food",
+    "scandinavian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-brown-norwegian-cheese-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T03:02:08.026Z"
+}
