@@ -1,0 +1,72 @@
+{
+  "slug": "glassy-jelly-jamaican-sour-cream-burger",
+  "title": "Jamaican Jerk Burger",
+  "description": "A twist on the classic burger, with the bold flavors of Jamaica.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Burger",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Jamaican Jerk Seasoning",
+      "amount": "2 tsp",
+      "notes": "available at most grocery stores"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1/2 cup",
+      "notes": "for serving"
+    },
+    {
+      "name": "Glassy Onion",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Jelly",
+      "amount": "1/4 cup",
+      "notes": "for glaze"
+    },
+    {
+      "name": "Cream",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the burgers with Jamaican Jerk Seasoning.",
+    "Grill the burgers for 5-7 minutes per side, or until cooked to your liking.",
+    "Meanwhile, grill the onions for 2-3 minutes per side, or until caramelized.",
+    "In a small saucepan, heat the jelly over medium heat until warm and syrupy.",
+    "Assemble the burgers with the grilled onions, a dollop of sour cream, and a drizzle of jelly glaze.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "burger",
+    "jerk-seasoning",
+    "grilled",
+    "caribbean"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/glassy-jelly-jamaican-sour-cream-burger",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T06:44:49.866Z"
+}
