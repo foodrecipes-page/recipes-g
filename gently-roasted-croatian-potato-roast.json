@@ -1,0 +1,81 @@
+{
+  "slug": "gently-roasted-croatian-potato-roast",
+  "title": "Roasted Croatian Potato Croquettes",
+  "description": "A delicious twist on classic potato croquettes, featuring Croatian potatoes roasted to perfection. Serve as a snack or side dish.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Croatian potatoes",
+      "amount": "3 large",
+      "notes": "Look for high-quality, waxy potatoes for the best results"
+    },
+    {
+      "name": "Gently roasted garlic",
+      "amount": "2 cloves",
+      "notes": "Use roasted garlic for a deeper flavor"
+    },
+    {
+      "name": "Roast beef broth",
+      "amount": "1/2 cup",
+      "notes": "Can be substituted with vegetable broth for a vegetarian option"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/2 cup",
+      "notes": "Optional, for dusting croquettes before frying"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "Optional, for binding croquettes together"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": "Optional, for coating croquettes before frying"
+    },
+    {
+      "name": "Grated cheddar cheese",
+      "amount": "1/4 cup",
+      "notes": "Optional, for added flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Boil the Croatian potatoes until tender, then drain and mash.",
+    "Add the gently roasted garlic, roast beef broth, and a pinch of salt and pepper to the mashed potatoes. Mix well.",
+    "Transfer the potato mixture to a bowl and let cool to room temperature.",
+    "Once cooled, use your hands to shape the potato mixture into small patties.",
+    "If desired, dust the patties with flour, then dip in beaten egg, and finally coat with breadcrumbs.",
+    "Place the coated patties on a baking sheet lined with parchment paper and refrigerate for at least 30 minutes.",
+    "Heat about 1/2 inch (1 cm) of oil in a large skillet over medium-high heat.",
+    "When the oil is hot, add a few of the patties to the skillet and fry until golden brown, about 2-3 minutes per side.",
+    "Transfer the fried patties to a paper towel-lined plate to drain excess oil.",
+    "Serve the croquettes hot, garnished with grated cheddar cheese if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "potato",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gently-roasted-croatian-potato-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T19:45:38.542Z"
+}
