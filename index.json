@@ -4940,18 +4940,15 @@
   },
   {
     "slug": "garnished-tunisian-lamb-tagine",
-    "title": "Garnished Tunisian Lamb Tagine",
+    "title": "Tunisian Lamb Tagine",
     "tags": [
-      "high-protein",
-      "lamb",
-      "middle-eastern",
-      "one-pan",
+      "north-african",
       "stew",
-      "tunisian",
-      "weeknight"
+      "lamb",
+      "spicy"
     ],
     "cuisine": "North African",
-    "totalTimeMin": 110,
+    "totalTimeMin": 180,
     "shard": "g"
   },
   {
