@@ -1,0 +1,67 @@
+{
+  "slug": "garlicky-molten-italian-fish-fillet-cacio-e-pepe",
+  "title": "Pan-Seared Fish with Cacio e Pepe Sauce",
+  "description": "A classic Italian dish with a twist, pairing pan-seared fish with a creamy cacio e pepe sauce.",
+  "cuisine": "Italian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish fillet",
+      "amount": "4",
+      "notes": "preferably cod or tilapia"
+    },
+    {
+      "name": "garlicky",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "molten",
+      "amount": "2 tablespoons",
+      "notes": "butter"
+    },
+    {
+      "name": "italian",
+      "amount": "1 teaspoon",
+      "notes": "dried herbs"
+    },
+    {
+      "name": "cacio e pepe",
+      "amount": "1/4 cup",
+      "notes": "grated parmesan"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the fish fillets with salt, pepper, and dried herbs.",
+    "Heat the butter in a skillet over medium-high heat.",
+    "Sear the fish for 2-3 minutes on each side until golden brown.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes.",
+    "Meanwhile, prepare the cacio e pepe sauce by combining the grated parmesan and a pinch of black pepper.",
+    "Remove the skillet from the oven and top each fish fillet with a spoonful of cacio e pepe sauce.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "fish",
+    "parmesan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 6,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-molten-italian-fish-fillet-cacio-e-pepe",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T07:36:07.014Z"
+}
