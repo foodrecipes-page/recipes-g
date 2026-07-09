@@ -4813,18 +4813,15 @@
   },
   {
     "slug": "garlicky-zesty-venezuelan-plantains-patties",
-    "title": "Garlicky Zesty Venezuelan Plantains Patties",
+    "title": "Venezuelan Plantain Patties",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "latin-american",
-      "one-pan",
+      "vegan",
+      " venezuelan",
       "snack",
-      "vegan-option",
-      "weeknight"
+      "plantains"
     ],
-    "cuisine": "venezuelan",
-    "totalTimeMin": 45,
+    "cuisine": "vegan venezuelan",
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
@@ -8734,17 +8731,14 @@
   },
   {
     "slug": "glowing-smoky-mexican-beef-huaraches",
-    "title": "Glowing Smoky Mexican Beef Huaraches",
+    "title": "Smoky Beef Huaraches",
     "tags": [
-      "beef-recipes",
-      "crowd-pleasers",
-      "dairy-free",
-      "gluten-free",
-      "mexican-food",
-      "smoky-flavors"
+      "mexican",
+      "beef",
+      "grilled"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
@@ -8826,14 +8820,16 @@
   },
   {
     "slug": "gluten-free-indian-pistachio-stir-fry",
-    "title": "Gluten-free Indian Pistachio Stir-fry",
+    "title": "Indian-Style Pistachio Stir Fry",
     "tags": [
-      "gluten_free_indian_pistachio_stir_fry",
-      "savory_light_indian_dish",
-      "indian_solo_dinner"
+      "indian",
+      "gluten-free",
+      "pistachio",
+      "stir-fry",
+      "vegetarian"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 22,
     "shard": "g"
   },
   {
@@ -8949,18 +8945,15 @@
   },
   {
     "slug": "golden-algerian-chicken-wings-skewers",
-    "title": "Golden Algerian Chicken Wings Skewers",
+    "title": "North African Chicken Skewers",
     "tags": [
-      "algerian",
       "chicken",
-      "golden",
-      "grilled",
+      "north-african",
       "skewers",
-      "snack",
-      "spicy"
+      "grilled"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 45,
+    "cuisine": "North African",
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
