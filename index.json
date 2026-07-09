@@ -4658,17 +4658,16 @@
   },
   {
     "slug": "garlicky-velvety-portuguese-mozzarella-wrap",
-    "title": "Garlicky Velvety Portuguese Mozzarella Wrap",
+    "title": "Garlicky Portuguese Mozzarella Wrap",
     "tags": [
-      "garlicky",
-      "healthy",
-      "mediterranean",
       "portuguese",
-      "steamed",
-      "vegetarian"
+      "italian",
+      "snack",
+      "vegetarian",
+      "cheese"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 30,
+    "totalTimeMin": 5,
     "shard": "g"
   },
   {
@@ -9172,17 +9171,15 @@
   },
   {
     "slug": "golden-brown-saudi-arabian-lamb-flatbread",
-    "title": "Golden Brown Saudi Arabian Lamb Flatbread",
+    "title": "Saudi Arabian Lamb Flatbread",
     "tags": [
-      "anti-inflammatory",
+      "lamb",
       "flatbread",
-      "lamb-based",
-      "middle-eastern",
-      "snack-food",
-      "yeast-based"
+      "saudi-arabian",
+      "middle-eastern"
     ],
     "cuisine": "Saudi Arabian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
