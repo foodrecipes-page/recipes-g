@@ -1,0 +1,70 @@
+{
+  "slug": "garlicky-zesty-venezuelan-plantains-patties",
+  "title": "Venezuelan Plantain Patties",
+  "description": "A Venezuelan-inspired dish featuring crispy plantain patties with a garlicky and zesty twist. Perfect as a snack or side dish.",
+  "cuisine": "vegan venezuelan",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "plantains",
+      "amount": "2"
+    },
+    {
+      "name": "garlicky breadcrumbs",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "zesty vegan mayo",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "venezuelan seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "patty mix (vegan)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Peel and slice the plantains into 1-inch thick rounds.",
+    "Heat the oil in a large skillet over medium-high heat.",
+    "Dip each plantain round into the patty mix, coating both sides evenly.",
+    "Place the coated plantain rounds in the skillet and fry for 3-4 minutes on each side, or until golden brown.",
+    "Remove the patties from the skillet and place on a paper towel-lined plate to drain excess oil.",
+    "Mix the garlicky breadcrumbs and zesty vegan mayo in a small bowl.",
+    "Dip the fried plantain patties into the breadcrumb mixture to coat.",
+    "Sprinkle the venezuelan seasoning over the coated patties.",
+    "Serve the plantain patties hot and enjoy!",
+    "Optional: Serve with your favorite dipping sauce or side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    " venezuelan",
+    "snack",
+    "plantains"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-zesty-venezuelan-plantains-patties",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T21:37:46.675Z"
+}
