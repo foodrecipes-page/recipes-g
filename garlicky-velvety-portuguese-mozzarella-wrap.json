@@ -1,0 +1,63 @@
+{
+  "slug": "garlicky-velvety-portuguese-mozzarella-wrap",
+  "title": "Garlicky Portuguese Mozzarella Wrap",
+  "description": "A fusion of Portuguese flavors and Italian mozzarella wrapped in a crispy wrap. This is a quick and easy snack.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Garlicky cheese spread",
+      "amount": "6 oz"
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "4 oz"
+    },
+    {
+      "name": "Portuguese chicken wrap",
+      "amount": "1"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sliced red onion",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Spread 2 oz of Garlicky cheese spread on the wrap.",
+    "Cut the Mozzarella cheese into thin slices.",
+    "Add sliced Mozzarella cheese on top of the cheese spread.",
+    "Slice the red onion and add on top.",
+    "Sprinkle chopped cilantro over the onion.",
+    "Fold the wrap into a neat square.",
+    "Cut into halves for serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "portuguese",
+    "italian",
+    "snack",
+    "vegetarian",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-velvety-portuguese-mozzarella-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T01:48:23.449Z"
+}
