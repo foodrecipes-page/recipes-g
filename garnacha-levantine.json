@@ -1,0 +1,87 @@
+{
+  "slug": "garnacha-levantine",
+  "title": "Grilled Levantine Lamb Chops with Garnacha Glaze",
+  "description": "A flavorful and aromatic dish that combines the richness of lamb with the bold flavors of the Mediterranean.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Chops",
+      "amount": "1 1/2 pounds",
+      "notes": "1 1/2 inches thick"
+    },
+    {
+      "name": "Levantine",
+      "amount": "2 tablespoons",
+      "notes": "minced"
+    },
+    {
+      "name": "Garnacha",
+      "amount": "1 cup",
+      "notes": "red wine"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400°F (200°C).",
+    "Season lamb chops with salt and black pepper.",
+    "In a small bowl, whisk together Levantine, garlic, lemon juice, and honey.",
+    "Brush lamb chops with olive oil and place on grill.",
+    "Grill lamb chops for 5-7 minutes per side, or until they reach an internal temperature of 145°F (63°C).",
+    "While lamb chops are cooking, reduce Garnacha glaze over medium heat until thickened.",
+    "Once lamb chops are cooked, brush with Garnacha glaze and let rest for 5 minutes.",
+    "Slice lamb chops and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-lamb",
+    "garnacha",
+    "levantine"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 55,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garnacha-levantine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T10:28:13.231Z"
+}
