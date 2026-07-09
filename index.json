@@ -6535,19 +6535,15 @@
   },
   {
     "slug": "gigantic-korean-quinoa-pilaf",
-    "title": "Gigantic Korean Quinoa Pilaf",
+    "title": "Korean-Style Quinoa Pilaf",
     "tags": [
-      "breakfast",
-      "gluten-free",
-      "high-protein",
-      "korean-inspired",
-      "pilaf",
+      "korean",
       "quinoa",
-      "sesame",
-      "weeknight"
+      "pilaf",
+      "vegetarian"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "g"
   },
   {
