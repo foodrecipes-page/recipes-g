@@ -1,0 +1,76 @@
+{
+  "slug": "golden-algerian-chicken-wings-skewers",
+  "title": "North African Chicken Skewers",
+  "description": "Grilled chicken skewers with a blend of North African spices, served with a side of golden sauce.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "golden couscous",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "algerian spice blend",
+      "amount": "2 tablespoons",
+      "notes": "available at most grocery stores"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread chicken pieces onto skewers, leaving a small space between each piece.",
+    "Brush skewers with olive oil and season with algerian spice blend, soy sauce, lemon juice, and garlic powder.",
+    "Grill skewers for 8-10 minutes, turning occasionally, or until chicken is cooked through.",
+    "Serve hot with golden couscous and a side of your favorite vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "north-african",
+    "skewers",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-algerian-chicken-wings-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T20:59:29.066Z"
+}
