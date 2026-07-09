@@ -7805,10 +7805,15 @@
   },
   {
     "slug": "glazed-tender-peruvian-ribs-roast",
-    "title": "Glazed Tender Peruvian Ribs Roast",
-    "tags": [],
-    "cuisine": "Peruvian",
-    "totalTimeMin": null,
+    "title": "Peruvian-Style Roasted Ribs",
+    "tags": [
+      "peruvian",
+      "ribs",
+      "roast",
+      "latin-american"
+    ],
+    "cuisine": "Latin American",
+    "totalTimeMin": 50,
     "shard": "g"
   },
   {
