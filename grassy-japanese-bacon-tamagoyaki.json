@@ -1,0 +1,70 @@
+{
+  "slug": "grassy-japanese-bacon-tamagoyaki",
+  "title": "Japanese-Style Bacon Wrap",
+  "description": "A fusion of Japanese flavors and Western ingredients, this unique wrap is perfect for adventurous foodies. The combination of crispy bacon, sweet tamagoyaki, and fresh grassy notes will leave you wanting more.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bacon",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Tamagoyaki",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "Grassy greens (such as arugula or spinach)",
+      "amount": "1 cup",
+      "notes": "Choose a mix of fresh, grassy greens for the best flavor"
+    },
+    {
+      "name": "Sushi rice",
+      "amount": "1 cup",
+      "notes": "Cook according to package instructions"
+    },
+    {
+      "name": "Japanese soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Cook the bacon in a pan over medium heat until crispy.",
+    "Wrap the cooked bacon in a tortilla.",
+    "Serve with tamagoyaki, sushi rice, and a sprinkle of sesame seeds.",
+    "Drizzle with soy sauce and sesame oil.",
+    "Top with fresh grassy greens and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "wrap",
+    "fusion",
+    "adventurous"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grassy-japanese-bacon-tamagoyaki",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T11:06:27.069Z"
+}
