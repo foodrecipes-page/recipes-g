@@ -2952,14 +2952,13 @@
   },
   {
     "slug": "garlicky-irish-samphire-gratin",
-    "title": "Garlicky Irish Samphire Gratin",
+    "title": "Garlicky Samphire Gratin",
     "tags": [
-      "comfort-food",
-      "gratin",
-      "irish-cuisine",
-      "main-course",
       "samphire",
-      "vegetarian"
+      "gratin",
+      "irish",
+      "vegetarian",
+      "sidedish"
     ],
     "cuisine": "Irish",
     "totalTimeMin": 40,
@@ -6500,15 +6499,14 @@
   },
   {
     "slug": "ghee-grilled-rye-a-style",
-    "title": "Ghee Grilled Rye, A-Style",
+    "title": "Rye Grilled Cheese",
     "tags": [
-      "ghee",
-      "rye bread",
-      "grilled",
-      "smoky"
+      "grilled-cheese",
+      "cheese",
+      "rye-bread"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 13,
+    "cuisine": null,
+    "totalTimeMin": 9,
     "shard": "g"
   },
   {
@@ -6741,14 +6739,15 @@
   },
   {
     "slug": "ginger-spiced-roast-tunisian-roast-gratin",
-    "title": "Ginger-spiced Roast Tunisian Roast Gratin",
+    "title": "Tunisian Ginger Chicken",
     "tags": [
-      "one-pan",
-      "tunisian",
-      "weeknight"
+      "chicken",
+      "north african",
+      "ginger",
+      "tunisian"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 65,
+    "cuisine": "North African",
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {
@@ -12461,16 +12460,15 @@
   },
   {
     "slug": "gooey-spicy-american-carrot-stir-fry",
-    "title": "Gooey Spicy American Carrot Stir-fry",
+    "title": "Spicy Stir-Fry",
     "tags": [
-      "gooey",
-      "spicy",
-      "adventurous",
-      "american",
-      "low-carb-friendly"
+      "easy",
+      "quick",
+      "stir-fry",
+      "spicy"
     ],
     "cuisine": "American",
-    "totalTimeMin": 30,
+    "totalTimeMin": 20,
     "shard": "g"
   },
   {
