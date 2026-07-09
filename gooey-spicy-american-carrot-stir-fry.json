@@ -1,0 +1,62 @@
+{
+  "slug": "gooey-spicy-american-carrot-stir-fry",
+  "title": "Spicy Stir-Fry",
+  "description": "A quick and easy stir-fry with a spicy kick, made with gooey cheese and American flavors.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Gooey Cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Spicy Stir-Fry Sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "American Stir-Fry Blend",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick pan over medium-high heat.",
+    "Add 1 tbsp of Spicy Stir-Fry Sauce to the pan and swirl it around to coat the bottom.",
+    "Add the sliced carrots to the pan and cook for 3-4 minutes, or until they start to brown.",
+    "Add the shredded Gooey Cheese to the pan and stir to combine with the carrots.",
+    "Add the American Stir-Fry Blend to the pan and stir to combine.",
+    "Cook for an additional 2-3 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "quick",
+    "stir-fry",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-spicy-american-carrot-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T19:27:05.795Z"
+}
