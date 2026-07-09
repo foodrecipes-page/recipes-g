@@ -1,0 +1,92 @@
+{
+  "slug": "glowing-smoky-mexican-beef-huaraches",
+  "title": "Smoky Beef Huaraches",
+  "description": "A flavorful Mexican dish with tender beef and crispy huarache corn tortillas.",
+  "cuisine": "Mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "flank steak or skirt steak work well"
+    },
+    {
+      "name": "Mexican",
+      "amount": "",
+      "notes": "chili powder or dried oregano for seasoning"
+    },
+    {
+      "name": "smoky",
+      "amount": "2 tablespoons",
+      "notes": "chipotle peppers in adobo sauce"
+    },
+    {
+      "name": "huaraches",
+      "amount": "4-6",
+      "notes": "corn tortillas for the huarache shells"
+    },
+    {
+      "name": "glowing",
+      "amount": "0.5 teaspoon",
+      "notes": "optional: a pinch of paprika for color"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Season the beef with chili powder, salt, and black pepper.",
+    "Grill the beef for 5-7 minutes per side, or until it reaches your desired level of doneness.",
+    "Let the beef rest for 5 minutes before slicing it thinly against the grain.",
+    "Meanwhile, toast the huarache corn tortillas on the grill or in a dry skillet.",
+    "To assemble the huaraches, spread a layer of onion and garlic on each tortilla, followed by a few slices of beef.",
+    "Drizzle with lime juice and top with a sprinkle of smoky seasoning.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "beef",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/glowing-smoky-mexican-beef-huaraches",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T21:25:48.079Z"
+}
