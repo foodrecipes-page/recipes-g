@@ -1,0 +1,84 @@
+{
+  "slug": "golden-roast-tunisian-lamb-tagine",
+  "title": "Tunisian Lamb Tagine",
+  "description": "A flavorful North African stew made with tender lamb, dried fruits, and aromatic spices.",
+  "cuisine": "North African",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 2-inch cubes"
+    },
+    {
+      "name": "Golden raisins",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Roast chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Tunisian spice blend",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Dried apricots",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in the bottom of a clay or ceramic tagine over medium heat.",
+    "Sear the lamb until browned, about 5 minutes. Remove from the pot and set aside.",
+    "Add more oil if necessary, then add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the spice blend and cook for 1 minute.",
+    "Add the broth, raisins, and apricots. Bring to a boil, then reduce the heat to low and cover the tagine.",
+    "Return the lamb to the pot and simmer, covered, until the meat is tender, about 2-3 hours.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "north-african",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-roast-tunisian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T06:32:53.927Z"
+}
