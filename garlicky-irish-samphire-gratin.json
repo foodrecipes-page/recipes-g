@@ -1,0 +1,82 @@
+{
+  "slug": "garlicky-irish-samphire-gratin",
+  "title": "Garlicky Samphire Gratin",
+  "description": "A rich and flavorful side dish that showcases the delicate taste of samphire. Perfect for accompanying a hearty Irish dinner.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "Samphire",
+      "amount": "225g",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Gratin cheese",
+      "amount": "100g",
+      "notes": "Irish cheddar or similar"
+    },
+    {
+      "name": "Butter",
+      "amount": "25g",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "Milk",
+      "amount": "100ml",
+      "notes": "Whole milk or heavy cream"
+    },
+    {
+      "name": "Salt",
+      "amount": "a pinch",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "a few grinds",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C.",
+    "Trim the samphire to 5cm lengths and blanch in boiling water for 3-5 minutes, or until tender.",
+    "Drain the samphire and set aside.",
+    "In a saucepan, melt the butter over medium heat.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Stir in the grated cheese until melted and smooth.",
+    "Add the milk, salt, and pepper, and stir to combine.",
+    "In a greased baking dish, arrange a layer of samphire.",
+    "Pour some of the cheese sauce over the samphire.",
+    "Repeat the layers until all the ingredients are used up, finishing with a layer of cheese on top.",
+    "Bake for 20-25 minutes, or until the top is golden brown and the sauce is bubbly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "samphire",
+    "gratin",
+    "irish",
+    "vegetarian",
+    "sidedish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-irish-samphire-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T19:01:13.457Z"
+}
