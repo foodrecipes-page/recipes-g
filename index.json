@@ -4864,14 +4864,14 @@
   },
   {
     "slug": "garnacha-levantine",
-    "title": "Garnacha Levantine",
+    "title": "Grilled Levantine Lamb Chops with Garnacha Glaze",
     "tags": [
-      "garnacha-levantine",
-      "syrian-dish",
-      "low-carb-friendly"
+      "grilled-lamb",
+      "garnacha",
+      "levantine"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 15,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
@@ -13594,16 +13594,15 @@
   },
   {
     "slug": "grassy-japanese-bacon-tamagoyaki",
-    "title": "Grassy Japanese Bacon Tamagoyaki",
+    "title": "Japanese-Style Bacon Wrap",
     "tags": [
-      "breakfast-ideas",
-      "hangover-cure",
-      "japanese-cuisine",
-      "keto-friendly",
-      "low-carb"
+      "japanese",
+      "wrap",
+      "fusion",
+      "adventurous"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 20,
     "shard": "g"
   },
   {
