@@ -1,0 +1,57 @@
+{
+  "slug": "ghee-grilled-rye-a-style",
+  "title": "Rye Grilled Cheese",
+  "description": "A simple grilled cheese sandwich made with rye bread and served with melted ghee.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rye bread",
+      "amount": "2 slices",
+      "notes": null
+    },
+    {
+      "name": "Ghee",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Style cheese",
+      "amount": "2 slices",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat a non-stick pan or griddle over medium heat.",
+    "2. Butter one side of each slice of rye bread with ghee.",
+    "3. Place one slice of rye bread, butter side down, in the pan.",
+    "4. Place two slices of style cheese on top of the bread in the pan.",
+    "5. Place the second slice of rye bread, butter side up, on top of the cheese.",
+    "6. Cook for 2-3 minutes or until the bread is golden brown and the cheese is melted.",
+    "7. Flip the sandwich over and cook for an additional 2-3 minutes or until the other side is also golden brown.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 4,
+  "totalTimeMin": 9,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "grilled-cheese",
+    "cheese",
+    "rye-bread"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ghee-grilled-rye-a-style",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T18:01:55.098Z"
+}
