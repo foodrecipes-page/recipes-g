@@ -1,0 +1,82 @@
+{
+  "slug": "ginger-spiced-roast-tunisian-roast-gratin",
+  "title": "Tunisian Ginger Chicken",
+  "description": "A flavorful and aromatic North African-inspired dish, made with chicken, ginger, and a blend of spices.",
+  "cuisine": "North African",
+  "diet": [
+    "meat",
+    "poultry"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "2 inches",
+      "notes": "peeled and minced"
+    },
+    {
+      "name": "tunisian spice blend",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Season the chicken with salt and pepper.",
+    "3. Heat the olive oil in a large oven-safe skillet over medium-high heat.",
+    "4. Sear the chicken until browned, about 5 minutes per side.",
+    "5. Remove the chicken from the skillet and set aside.",
+    "6. Add the minced ginger and garlic to the skillet and cook until fragrant, about 1 minute.",
+    "7. Stir in the Tunisian spice blend and cook for 1 minute.",
+    "8. Add the chicken broth and honey to the skillet and bring to a simmer.",
+    "9. Return the chicken to the skillet and transfer it to the preheated oven.",
+    "10. Bake until the chicken is cooked through and the internal temperature reaches 165°F (74°C), about 20-25 minutes.",
+    "11. Let the chicken rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "north african",
+    "ginger",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ginger-spiced-roast-tunisian-roast-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T18:01:57.151Z"
+}
