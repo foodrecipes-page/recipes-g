@@ -1,0 +1,76 @@
+{
+  "slug": "glazed-tender-peruvian-ribs-roast",
+  "title": "Peruvian-Style Roasted Ribs",
+  "description": "A delicious and flavorful recipe for Peruvian-style roasted ribs, perfect for a dinner party or special occasion.",
+  "cuisine": "Latin American",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork ribs",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "Peruvian aji amarillo pepper paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Glazed soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Tender brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Roast garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a small bowl, mix together the aji amarillo pepper paste, soy sauce, brown sugar, garlic powder, salt, and black pepper.",
+    "Place the pork ribs on a baking sheet lined with parchment paper.",
+    "Brush the Peruvian spice mixture evenly onto both sides of the ribs.",
+    "Roast the ribs in the preheated oven for 20 minutes.",
+    "Reduce the oven temperature to 300°F (150°C) and continue roasting for an additional 20-25 minutes, or until the ribs are tender and caramelized.",
+    "Remove the ribs from the oven and let them rest for 5 minutes before serving.",
+    "Garnish with chopped cilantro, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "ribs",
+    "roast",
+    "latin-american"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/glazed-tender-peruvian-ribs-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T01:36:02.696Z"
+}
