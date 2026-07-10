@@ -739,16 +739,15 @@
   },
   {
     "slug": "garlicky-and-adaptable-vietnamese-chicken-pho-ga",
-    "title": "garlicky and adaptable vietnamese chicken pho-ga",
+    "title": "Vietnamese Chicken Pho",
     "tags": [
-      "high-protein",
-      "keto",
-      "one-pan",
       "vietnamese",
-      "weeknight"
+      "chicken",
+      "pho",
+      "noodle soup"
     ],
     "cuisine": "vietnamese",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
@@ -5554,16 +5553,16 @@
   },
   {
     "slug": "gentle-steamed-dutch-fish-wrap",
-    "title": "Gentle Steamed Dutch Fish Wrap",
+    "title": "Pan-Seared Fish Wrap",
     "tags": [
-      "dutch-cuisine",
-      "healthy-meals",
       "seafood",
-      "steamed-dishes",
-      "umami-rich"
+      "easy",
+      "quick",
+      "fish",
+      "wrap"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 23,
+    "cuisine": "seafood",
+    "totalTimeMin": 18,
     "shard": "g"
   },
   {
@@ -9049,16 +9048,16 @@
   },
   {
     "slug": "golden-brown-french-sausage-gratin",
-    "title": "Golden Brown French Sausage Gratin",
+    "title": "French Golden Gratin Casserole",
     "tags": [
-      "comfort-food",
-      "french-cuisine",
-      "low-fodmap",
-      "one-pan",
-      "wood-fired"
+      "french",
+      "gratin",
+      "casserole",
+      "sausage",
+      "potatoes"
     ],
     "cuisine": "French",
-    "totalTimeMin": 50,
+    "totalTimeMin": 55,
     "shard": "g"
   },
   {
@@ -13144,19 +13143,15 @@
   },
   {
     "slug": "gourmet-grilled-canadian-beef-gratin",
-    "title": "Gourmet Grilled Canadian Beef Gratin",
+    "title": "Grilled Canadian Beef Gratin",
     "tags": [
       "beef",
-      "gluten-free",
-      "grilled",
-      "high-protein",
-      "one-pan",
-      "roasted",
-      "sous-vide",
-      "weeknight"
+      "canadian",
+      "gratin",
+      "grilled"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 50,
+    "cuisine": "canadian",
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
@@ -14053,15 +14048,14 @@
   },
   {
     "slug": "green-chilli-crumbly-canadian-garlic-biryani",
-    "title": "Green Chilli Crumbly Canadian Garlic Biryani",
+    "title": "Canadian Biryani with Spicy Chilli Crust",
     "tags": [
-      "green-chilli",
-      "crumbly",
-      "festive-canadian",
-      "dash-friendly"
+      "spicy",
+      "vegetarian",
+      "canadian"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 30,
+    "cuisine": "Indian",
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
