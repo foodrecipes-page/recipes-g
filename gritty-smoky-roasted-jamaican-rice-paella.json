@@ -1,0 +1,68 @@
+{
+  "slug": "gritty-smoky-roasted-jamaican-rice-paella",
+  "title": "Jamaican Paella",
+  "description": "A flavorful and spicy paella dish inspired by the Caribbean, featuring smoky sausage and a hint of Jamaican jerk seasoning.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoky Sausage",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Jamaican Jerk Seasoning",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "Roasted Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Paella",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large paella pan over medium-high heat.",
+    "Add the Smoky Sausage and cook until browned, about 5 minutes.",
+    "Add the Roasted Onion and cook until softened, about 3 minutes.",
+    "Add the Jamaican Jerk Seasoning and cook for 1 minute.",
+    "Add the Paella and cook for 2 minutes, stirring constantly.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low and cover with a lid.",
+    "Simmer for 20-25 minutes, or until the liquid has been absorbed and the rice is cooked.",
+    "Remove from heat and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caribbean",
+    "spicy",
+    "paella"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gritty-smoky-roasted-jamaican-rice-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T12:29:53.869Z"
+}
