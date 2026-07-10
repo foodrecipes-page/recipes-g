@@ -1,0 +1,61 @@
+{
+  "slug": "garlicky-filipino-reblochon-lechon",
+  "title": "Filipino-Style Lechon with Garlic Butter",
+  "description": "A twist on the classic Filipino dish, this recipe adds a rich and savory flavor with a garlicky butter sauce.",
+  "cuisine": "Filipino",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lechon",
+      "amount": "1 (2-3 pound) whole pig head or 1 (2-3 pound) pork shoulder",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Butter",
+      "amount": "1/2 cup (1 stick) unsalted butter, softened",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "4-5 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Reblochon Cheese",
+      "amount": "1/4 cup, crumbled (optional)",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 325°F (165°C).",
+    "Score the skin of the lechon in a crisscross pattern, being careful not to cut too deeply into the meat.",
+    "In a small bowl, mix together the softened butter, minced garlic, and a pinch of salt.",
+    "Rub the garlic butter all over the lechon, making sure to get some under the skin as well.",
+    "If using reblochon cheese, sprinkle it over the top of the lechon.",
+    "Place the lechon in a large roasting pan and roast for 2-1/2 to 3 hours, or until the skin is crispy and golden brown.",
+    "Let the lechon rest for 10-15 minutes before slicing and serving.",
+    "Serve with steamed rice and your favorite Filipino sides."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": "8-10",
+  "difficulty": "hard",
+  "tags": [
+    "filipino",
+    "garlic-butter",
+    "lechon",
+    "reblochon"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 60
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-filipino-reblochon-lechon",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T14:31:47.100Z"
+}
