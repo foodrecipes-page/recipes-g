@@ -1,0 +1,64 @@
+{
+  "slug": "green-chilli-crumbly-canadian-garlic-biryani",
+  "title": "Canadian Biryani with Spicy Chilli Crust",
+  "description": "A flavorful and spicy twist on traditional biryani, topped with a crunchy Canadian crust.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Biryani Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Green Chilli",
+      "amount": "2-3",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Canadian Crumbly Cheese",
+      "amount": "1/2 cup, crumbled",
+      "notes": "adds a nice crunch"
+    },
+    {
+      "name": "Minced Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Green Chilli Sauce",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the biryani rice according to package instructions.",
+    "In a pan, heat 1 tbsp of oil and sauté the green chilli and garlic until fragrant.",
+    "Add the green chilli sauce and stir well.",
+    "Mix the cooked biryani rice with the spicy green chilli mixture.",
+    "Transfer the rice mixture to a baking dish and top with crumbled Canadian cheese.",
+    "Bake in the oven for 5-7 minutes or until the cheese is golden brown.",
+    "Serve hot and garnish with additional green chilies if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "vegetarian",
+    "canadian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/green-chilli-crumbly-canadian-garlic-biryani",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T22:12:07.142Z"
+}
