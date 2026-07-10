@@ -1,0 +1,84 @@
+{
+  "slug": "glassy-slovakian-mushroom-pasta",
+  "title": "Slovakian Mushroom Pasta",
+  "description": "A hearty and flavorful pasta dish featuring the rich flavors of Slovakia, with tender mushrooms and a hint of spices.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mushroom",
+      "amount": "8 oz (225g)",
+      "notes": ""
+    },
+    {
+      "name": "Pasta",
+      "amount": "8 oz (225g)",
+      "notes": ""
+    },
+    {
+      "name": "Glassy",
+      "amount": "2 tbsp (30g)",
+      "notes": "glassy or olive oil"
+    },
+    {
+      "name": "Slovakian",
+      "amount": "1 tsp (5g)",
+      "notes": "paprika or caraway seeds"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/2 tsp (2g)",
+      "notes": ""
+    },
+    {
+      "name": "Onion Powder",
+      "amount": "1/2 tsp (2g)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Cook the pasta according to package instructions until al dente.",
+    "In a large skillet, heat the glassy over medium heat.",
+    "Add the mushrooms and cook until they release their liquid and start to brown.",
+    "Add the Slovakian, garlic powder, and onion powder to the skillet and stir to combine.",
+    "Cook for an additional 1-2 minutes.",
+    "Drain the cooked pasta and add it to the skillet with the mushroom mixture.",
+    "Toss to combine and season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "slovakian",
+    "mushroom",
+    "pasta",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/glassy-slovakian-mushroom-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T05:10:15.993Z"
+}
