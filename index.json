@@ -1326,15 +1326,15 @@
   },
   {
     "slug": "garlicky-crisp-vietnamese-garlic-pho",
-    "title": "Garlicky Crisp Vietnamese Garlic Pho",
+    "title": "Vietnamese Pho with Crisp Garlic",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "rice-noodle",
-      "vietnamese-cuisine"
+      "vietnamese",
+      "pho",
+      "garlic",
+      "beef"
     ],
-    "cuisine": "vietnamese",
-    "totalTimeMin": 35,
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 110,
     "shard": "g"
   },
   {
@@ -1465,18 +1465,15 @@
   },
   {
     "slug": "garlicky-croatian-flatbread-dough",
-    "title": "Garlicky Croatian Flatbread Dough",
+    "title": "Croatian Flatbread",
     "tags": [
-      "croatian-cuisine",
+      "bread",
+      "croatian",
       "flatbread",
-      "fodmap-friendly",
-      "garlicky",
-      "lazy-sunday",
-      "self-raising-flour",
-      "snack"
+      "garlic"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
@@ -5242,17 +5239,15 @@
   },
   {
     "slug": "gentle-grilled-uruguayan-butter-beans-grill",
-    "title": "Gentle Grilled Uruguayan Butter Beans Grill",
+    "title": "Grilled Uruguayan Beans",
     "tags": [
-      "grilled",
-      "low-calorie",
-      "post-workout",
-      "snack",
       "uruguayan",
-      "vegetarian"
+      "grilled",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 25,
+    "cuisine": "uruguayan",
+    "totalTimeMin": 22,
     "shard": "g"
   },
   {
@@ -9790,17 +9785,16 @@
   },
   {
     "slug": "golden-fluffy-french-apple-crepes",
-    "title": "Golden Fluffy French Apple Crepes",
+    "title": "French Apple Crepes",
     "tags": [
-      "apple-crepes",
-      "brunch",
-      "crowd-pleaser",
-      "french-dish",
-      "one-pan",
-      "weeknight"
+      "breakfast",
+      "dessert",
+      "french",
+      "apple",
+      "crepes"
     ],
     "cuisine": "French",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
