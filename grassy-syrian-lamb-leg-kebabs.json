@@ -1,0 +1,92 @@
+{
+  "slug": "grassy-syrian-lamb-leg-kebabs",
+  "title": "Syrian Lamb Kebabs with Grassy Salad",
+  "description": "A flavorful and healthy dish that combines the taste of Syrian lamb with a fresh, grassy salad.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Syrian lamb",
+      "amount": "500g",
+      "notes": "Cut into 1 1/2-inch cubes"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Grassy salad greens",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 pint",
+      "notes": null
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Pita bread",
+      "amount": "4",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Sumac",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, salt, and sumac (if using).",
+    "Add the lamb cubes to the bowl and toss to coat.",
+    "Thread the lamb cubes onto skewers, leaving a little space between each piece.",
+    "Grill the kebabs for 8-10 minutes, turning occasionally, until cooked through.",
+    "Meanwhile, combine the salad greens, cherry tomatoes, cucumber, and red onion in a large bowl.",
+    "Once the kebabs are cooked, serve them with the salad and pita bread on the side.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "syrian",
+    "lamb",
+    "kebabs",
+    "salad",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grassy-syrian-lamb-leg-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T13:04:38.721Z"
+}
