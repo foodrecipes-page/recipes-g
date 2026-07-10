@@ -4314,16 +4314,16 @@
   },
   {
     "slug": "garlicky-tender-ethiopian-pork-knuckle-tagine",
-    "title": "Garlicky Tender Ethiopian Pork Knuckle Tagine",
+    "title": "Ethiopian-Style Braised Pork Knuckle",
     "tags": [
       "ethiopian",
-      "high-fat",
-      "keto-friendly",
-      "one-pan",
-      "post-workout"
+      "braised",
+      "slow-cooked",
+      "pork",
+      "tagine"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 190,
+    "totalTimeMin": 170,
     "shard": "g"
   },
   {
@@ -4994,14 +4994,11 @@
   },
   {
     "slug": "gentle-bitter-syrian-lamb-stew",
-    "title": "Gentle Bitter Syrian Lamb Stew",
+    "title": "Syrian Lamb Stew",
     "tags": [
-      "gluten-free",
       "lamb",
-      "one-pot",
-      "satvik-friendly",
       "stew",
-      "syrian-cuisine"
+      "syrian"
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 110,
@@ -7421,17 +7418,15 @@
   },
   {
     "slug": "glassy-slovakian-mushroom-pasta",
-    "title": "Glassy Slovakian Mushroom Pasta",
+    "title": "Slovakian Mushroom Pasta",
     "tags": [
-      "glassy-sauce",
-      "low-calorie",
+      "slovakian",
       "mushroom",
       "pasta",
-      "quick",
-      "slovakian"
+      "vegetarian"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
