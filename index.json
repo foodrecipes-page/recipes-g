@@ -9100,17 +9100,15 @@
   },
   {
     "slug": "golden-brown-irish-minced-beef-hash",
-    "title": "Golden Brown Irish Minced Beef Hash",
+    "title": "Irish Beef Hash",
     "tags": [
-      "beef-recipes",
-      "brunch-ideas",
-      "dairy-free",
-      "gluten-free",
-      "hash-recipes",
-      "irish-cuisine"
+      "irish",
+      "breakfast",
+      "hash",
+      "beef"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 50,
+    "cuisine": "irish",
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
@@ -13715,16 +13713,16 @@
   },
   {
     "slug": "grassy-syrian-lamb-leg-kebabs",
-    "title": "Grassy Syrian Lamb Leg Kebabs",
+    "title": "Syrian Lamb Kebabs with Grassy Salad",
     "tags": [
-      "grassy",
-      "high-protein",
+      "syrian",
+      "lamb",
       "kebabs",
-      "low-calorie",
-      "syrian"
+      "salad",
+      "summer"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
@@ -14856,17 +14854,14 @@
   },
   {
     "slug": "gritty-smoky-roasted-jamaican-rice-paella",
-    "title": "Gritty Smoky Roasted Jamaican Rice Paella",
+    "title": "Jamaican Paella",
     "tags": [
-      "healthy",
-      "high-protein",
-      "jamaican",
-      "low-fat",
-      "one-pan",
-      "weeknight"
+      "caribbean",
+      "spicy",
+      "paella"
     ],
-    "cuisine": "jamaican",
-    "totalTimeMin": 35,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {
