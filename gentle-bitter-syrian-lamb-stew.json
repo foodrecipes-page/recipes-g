@@ -1,0 +1,91 @@
+{
+  "slug": "gentle-bitter-syrian-lamb-stew",
+  "title": "Syrian Lamb Stew",
+  "description": "A hearty and flavorful stew originating from Syria, featuring tender lamb and a blend of aromatic spices.",
+  "cuisine": "Syrian",
+  "diet": [
+    "lamb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1.5 pounds",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Gentle Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Bitter Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Syrian Allspice",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Stew",
+      "amount": "2 cups",
+      "notes": "Chopped tomatoes or tomato puree"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb cubes and cook until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Reduce the heat to medium and add the chopped onion to the pot.",
+    "Cook the onion until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the Syrian allspice, cumin, salt, and black pepper to the pot.",
+    "Stir to combine and cook for 1 minute.",
+    "Add the stew to the pot and stir to combine.",
+    "Return the lamb to the pot and bring the mixture to a simmer.",
+    "Reduce the heat to low and cook, covered, until the lamb is tender, about 1 1/2 hours.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stew",
+    "syrian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gentle-bitter-syrian-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T06:30:35.691Z"
+}
