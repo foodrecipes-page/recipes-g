@@ -1,0 +1,75 @@
+{
+  "slug": "golden-fluffy-french-apple-crepes",
+  "title": "French Apple Crepes",
+  "description": "A delicious breakfast dessert featuring French crepes filled with tender apples. Perfect for a cozy morning.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "breakfast"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "French crepes",
+      "amount": "6-8 crepes",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Apples",
+      "amount": "2 large",
+      "notes": "Granny Smith or any sweet variety"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tbsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "Melted"
+    },
+    {
+      "name": "Golden brown sugar",
+      "amount": "1 tbsp",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Warm the French crepes according to package instructions.",
+    "Peel, core, and slice the apples into thin pieces.",
+    "In a pan, melt 1 tbsp of butter over medium heat.",
+    "Add sliced apples, sugar, and cinnamon to the pan. Cook for 5 minutes, stirring occasionally.",
+    "To assemble, place a warm crepe flat on a plate.",
+    "Spread a portion of the cooked apple mixture onto the crepe, leaving a 1-inch border.",
+    "Fold the crepe in half over the filling, then fold in the sides to form a triangle.",
+    "Serve with additional butter, golden brown sugar, or whipped cream if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "dessert",
+    "french",
+    "apple",
+    "crepes"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": "2g",
+    "carbs": "35g",
+    "fat": "8g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-fluffy-french-apple-crepes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T20:22:11.404Z"
+}
