@@ -1,0 +1,87 @@
+{
+  "slug": "gourmet-grilled-canadian-beef-gratin",
+  "title": "Grilled Canadian Beef Gratin",
+  "description": "A rich and flavorful dish featuring tender grilled beef in a creamy gratin sauce.",
+  "cuisine": "canadian",
+  "diet": [
+    "beef",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef tenderloin",
+      "amount": "1 pound",
+      "notes": "preferably at room temperature"
+    },
+    {
+      "name": "gourmet butter",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1 cup",
+      "notes": "such as cheddar or gouda"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for dredging"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": "warmed"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": "for the gratin sauce"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the beef tenderloin with salt and pepper.",
+    "Grill the beef for 4-5 minutes per side, or until it reaches your desired level of doneness.",
+    "Transfer the beef to a plate and let it rest for 5 minutes before slicing.",
+    "In a large saucepan, melt the gourmet butter over medium heat.",
+    "Add the flour and whisk to combine; cook for 1-2 minutes.",
+    "Slowly pour in the warmed beef broth, whisking constantly to avoid lumps.",
+    "Bring the mixture to a simmer and cook for 2-3 minutes, or until it thickens.",
+    "Stir in the grated cheese until melted and smooth.",
+    "Add the heavy cream and cook for an additional 1-2 minutes, until heated through.",
+    "Slice the grilled beef into thin medallions and serve with the gratin sauce spooned over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "canadian",
+    "gratin",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gourmet-grilled-canadian-beef-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T22:44:51.353Z"
+}
