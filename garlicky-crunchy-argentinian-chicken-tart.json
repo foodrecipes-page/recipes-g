@@ -1,0 +1,72 @@
+{
+  "slug": "garlicky-crunchy-argentinian-chicken-tart",
+  "title": "Tart and Crunchy Chicken",
+  "description": "A delicious and crispy chicken dish from Argentina, with a tangy twist.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "garlicky seasoning blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "tart panko breadcrumbs",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Season the chicken with garlicky seasoning blend.",
+    "3. Dip the chicken in the flour, then the eggs, and finally the tart panko breadcrumbs.",
+    "4. Heat the olive oil in a large skillet over medium-high heat.",
+    "5. Add the coated chicken breasts to the skillet and cook for 2-3 minutes on each side.",
+    "6. Transfer the chicken to a baking dish and bake for 15-20 minutes, or until cooked through.",
+    "7. Let the chicken rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "crunchy",
+    "easy-dinner",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-crunchy-argentinian-chicken-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T09:34:34.656Z"
+}
