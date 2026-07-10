@@ -1,0 +1,79 @@
+{
+  "slug": "garlicky-snappy-ethiopian-beef-gored-gored",
+  "title": "Spicy Ethiopian Beef Stir Fry",
+  "description": "A flavorful and spicy Ethiopian-inspired beef stir fry made with tender beef, crunchy vegetables, and aromatic spices.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "meat",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb beef (sirloin or ribeye)",
+      "amount": "1 lb",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "2 cups mixed vegetables (bell peppers, carrots, broccoli)",
+      "amount": "2 cups",
+      "notes": "sliced"
+    },
+    {
+      "name": "2 cloves garlicky",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "1 tablespoon gored",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon snappy",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon gored",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet over medium-high heat.",
+    "Add the beef and cook until browned, about 3-4 minutes. Remove from the skillet and set aside.",
+    "Add the mixed vegetables and cook until tender, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the gored, snappy, and gored, and cook for 1 minute.",
+    "Return the beef to the skillet and stir to combine with the vegetables and spices.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stir-fry",
+    "ethiopian",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-snappy-ethiopian-beef-gored-gored",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T14:48:05.347Z"
+}
