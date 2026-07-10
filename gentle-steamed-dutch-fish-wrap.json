@@ -1,0 +1,74 @@
+{
+  "slug": "gentle-steamed-dutch-fish-wrap",
+  "title": "Pan-Seared Fish Wrap",
+  "description": "A simple and flavorful fish wrap recipe with a tender fish fillet, crunchy vegetables, and a hint of Dutch seasoning.",
+  "cuisine": "seafood",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish fillet (cod or tilapia)",
+      "amount": "4 oz",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Dutch seasoning",
+      "amount": "1 tsp",
+      "notes": "Available at most supermarkets"
+    },
+    {
+      "name": "Gentle wrap",
+      "amount": "1",
+      "notes": "Soft and pliable"
+    },
+    {
+      "name": "Fresh lettuce",
+      "amount": "1 cup",
+      "notes": "Crunchy and fresh"
+    },
+    {
+      "name": "Sliced tomato",
+      "amount": "1/2 cup",
+      "notes": "Juicy and sweet"
+    },
+    {
+      "name": "Thinly sliced red onion",
+      "amount": "1/4 cup",
+      "notes": "Pungent and crunchy"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a non-stick skillet over medium heat.",
+    "2. Season the fish fillet with Dutch seasoning.",
+    "3. Add a small amount of oil to the skillet and cook the fish for 3-4 minutes per side or until cooked through.",
+    "4. Warm the wrap in the microwave for 10-15 seconds.",
+    "5. Assemble the wrap by placing the cooked fish on the wrap, followed by lettuce, tomato, and red onion.",
+    "6. Drizzle with your favorite sauce (optional).",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "seafood",
+    "easy",
+    "quick",
+    "fish",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gentle-steamed-dutch-fish-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T22:50:03.976Z"
+}
