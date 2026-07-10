@@ -1,0 +1,63 @@
+{
+  "slug": "gentle-grilled-uruguayan-butter-beans-grill",
+  "title": "Grilled Uruguayan Beans",
+  "description": "A simple and delicious recipe featuring tender beans grilled to perfection, inspired by traditional Uruguayan cuisine.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "white beans (such as cannellini or navy beans)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "grill seasoning (such as paprika, garlic powder, salt, and pepper)",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "gentle",
+      "amount": "",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Rinse the white beans and pat them dry with paper towels.",
+    "In a small bowl, mix together butter, grill seasoning, and a pinch of salt and pepper.",
+    "Add the butter mixture to the white beans and toss to coat.",
+    "Place the white beans on the grill and cook for about 10-12 minutes, turning occasionally, until slightly charred and tender.",
+    "Remove the beans from the grill and let them cool slightly.",
+    "Serve the grilled beans hot, garnished with optional gentle herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "uruguayan",
+    "grilled",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gentle-grilled-uruguayan-butter-beans-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T20:01:44.803Z"
+}
