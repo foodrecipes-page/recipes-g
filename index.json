@@ -2208,15 +2208,15 @@
   },
   {
     "slug": "garlicky-filipino-reblochon-lechon",
-    "title": "Garlicky Filipino Reblochon Lechon",
+    "title": "Filipino-Style Lechon with Garlic Butter",
     "tags": [
-      "cheesy",
       "filipino",
-      "one-pan",
-      "weeknight"
+      "garlic-butter",
+      "lechon",
+      "reblochon"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 45,
+    "totalTimeMin": 210,
     "shard": "g"
   },
   {
@@ -4180,17 +4180,15 @@
   },
   {
     "slug": "garlicky-snappy-ethiopian-beef-gored-gored",
-    "title": "Garlicky Snappy Ethiopian Beef Gored Gored",
+    "title": "Spicy Ethiopian Beef Stir Fry",
     "tags": [
-      "banana-leaf",
-      "dairy-free",
-      "ethiopian-cuisine",
-      "gluten-free",
-      "high-protein",
+      "beef",
+      "stir-fry",
+      "ethiopian",
       "spicy"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
