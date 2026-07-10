@@ -1,0 +1,74 @@
+{
+  "slug": "golden-brown-irish-minced-beef-hash",
+  "title": "Irish Beef Hash",
+  "description": "A hearty Irish dish made with ground beef and crispy potatoes. Perfect for a quick weeknight dinner.",
+  "cuisine": "irish",
+  "diet": [
+    "meat",
+    "beef"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 lb",
+      "notes": "80% lean"
+    },
+    {
+      "name": "golden hash",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": "for thickening"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cook the ground beef in a large skillet over medium-high heat, breaking it up with a spoon as it cooks, until browned, about 5 minutes.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent, about 3-4 minutes.",
+    "Add the golden hash to the skillet and cook, stirring occasionally, until the hash is crispy and lightly browned, about 5-7 minutes.",
+    "Stir in the flour and cook for 1 minute.",
+    "Gradually add the beef broth to the skillet, whisking constantly, and bring the mixture to a simmer.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the hash is hot and bubbly.",
+    "Serve the Irish beef hash hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "breakfast",
+    "hash",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-brown-irish-minced-beef-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T13:29:21.183Z"
+}
