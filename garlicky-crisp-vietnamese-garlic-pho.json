@@ -1,0 +1,70 @@
+{
+  "slug": "garlicky-crisp-vietnamese-garlic-pho",
+  "title": "Vietnamese Pho with Crisp Garlic",
+  "description": "A flavorful and aromatic pho recipe with the added crunch of crispy garlic. Serve with your favorite toppings.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Crisp",
+      "amount": "1 bunch",
+      "notes": "garlic, sliced"
+    },
+    {
+      "name": "Vietnamese",
+      "amount": "2 pounds",
+      "notes": "beef bones, preferably oxtail or beef neck bones"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Pho",
+      "amount": "2 cups",
+      "notes": "beef broth"
+    }
+  ],
+  "instructions": [
+    "1. In a large stockpot, char the beef bones over medium heat until caramelized.",
+    "2. Add the sliced ginger and garlic to the pot and cook for 1 minute.",
+    "3. Add the beef broth and bring to a boil.",
+    "4. Reduce heat to low and simmer for at least 1 hour.",
+    "5. Meanwhile, cook the sliced crisp garlic in a skillet over medium heat until crispy.",
+    "6. Strain the pho broth and discard the solids.",
+    "7. Slice the cooked beef into thin strips.",
+    "8. Assemble the pho by placing the beef and noodles into bowls and ladling the hot broth over the top.",
+    "9. Garnish with crispy garlic, bean sprouts, lime wedges, and your favorite toppings.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "pho",
+    "garlic",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-crisp-vietnamese-garlic-pho",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T20:58:41.896Z"
+}
