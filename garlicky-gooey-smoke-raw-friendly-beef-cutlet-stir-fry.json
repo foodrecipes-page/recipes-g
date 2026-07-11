@@ -1,0 +1,81 @@
+{
+  "slug": "garlicky-gooey-smoke-raw-friendly-beef-cutlet-stir-fry",
+  "title": "Beef Cutlet with Stir Fry",
+  "description": "A delicious and easy-to-make dish that combines the flavors of beef and stir-fry. Perfect for a quick dinner.",
+  "cuisine": "asian",
+  "diet": [
+    "meat",
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef cutlet",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlicky",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "friendly",
+      "amount": "1 tablespoon",
+      "notes": "soy sauce"
+    },
+    {
+      "name": "smoke",
+      "amount": "1 teaspoon",
+      "notes": "smoked paprika"
+    },
+    {
+      "name": "raw",
+      "amount": "1 cup",
+      "notes": "mixed vegetables"
+    },
+    {
+      "name": "stir",
+      "amount": "2 tablespoons",
+      "notes": "vegetable oil"
+    },
+    {
+      "name": "fry",
+      "amount": "1 cup",
+      "notes": "cooked rice"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a pan over medium-high heat.",
+    "Add the sliced beef cutlet and cook for 3-4 minutes per side, or until browned and cooked through.",
+    "Remove the beef from the pan and set aside.",
+    "Add the remaining 1 tablespoon of vegetable oil to the pan.",
+    "Add the minced garlic and cook for 1 minute, or until fragrant.",
+    "Add the mixed vegetables and cooked rice to the pan.",
+    "Stir in the soy sauce and smoked paprika.",
+    "Return the beef cutlet to the pan and stir to combine.",
+    "Cook for an additional 1-2 minutes, or until the beef is coated in the stir-fry sauce.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stir-fry",
+    "asian",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-gooey-smoke-raw-friendly-beef-cutlet-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T07:35:49.590Z"
+}
