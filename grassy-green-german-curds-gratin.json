@@ -1,0 +1,70 @@
+{
+  "slug": "grassy-green-german-curds-gratin",
+  "title": "German Gratin with Green Curds",
+  "description": "A creamy, comforting side dish that combines the flavors of Germany with the freshness of green curds.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "Grassy potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Green curds",
+      "amount": "1 cup",
+      "notes": "Freshly grated"
+    },
+    {
+      "name": "German butter",
+      "amount": "2 tablespoons",
+      "notes": "Salted"
+    },
+    {
+      "name": "Gratin cheese",
+      "amount": "1/2 cup",
+      "notes": "Grated"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel and slice the potatoes thinly.",
+    "In a separate bowl, mix together the grated curds and German butter until well combined.",
+    "In a greased 9x13 inch baking dish, create a layer of potatoes.",
+    "Spread half of the curd mixture over the potatoes.",
+    "Sprinkle half of the grated cheese over the curds.",
+    "Repeat the layers: potatoes, curds, and cheese.",
+    "Dust the top with flour and dot with butter.",
+    "Bake for 35-40 minutes, or until the top is golden brown and the potatoes are tender.",
+    "Remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "side-dish",
+    "potatoes",
+    "curds"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grassy-green-german-curds-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T23:04:44.319Z"
+}
