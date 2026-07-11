@@ -1,0 +1,68 @@
+{
+  "slug": "garlicky-gooey-turkish-cheese-gratin",
+  "title": "Turkish Cheesy Garlicky Gratin",
+  "description": "A rich, satisfying gratin featuring elements of Turkish cuisine. Perfect for a comforting dinner.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Turkish cheese",
+      "amount": "250g"
+    },
+    {
+      "name": "garlicky",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "gratin",
+      "amount": "1 small"
+    },
+    {
+      "name": "goey",
+      "amount": "20g"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Slice the Turkish cheese into 1cm thick pieces.",
+    "Finely chop the garlic cloves.",
+    "In a greased baking dish, create a layer of gratin.",
+    "Arrange the Turkish cheese slices on top of the gratin.",
+    "Sprinkle the chopped garlic over the cheese.",
+    "Drizzle the gooey over the garlic.",
+    "Season with salt and black pepper to taste.",
+    "Bake in the preheated oven for 20 minutes, or until the top is golden brown.",
+    "Remove from the oven and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "turkish-cuisine",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-gooey-turkish-cheese-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T23:04:41.292Z"
+}
