@@ -1,0 +1,67 @@
+{
+  "slug": "garlicky-kissed-brazilian-salmon-bowl",
+  "title": "Brazilian Salmon Bowl",
+  "description": "A flavorful and healthy Brazilian-inspired dish featuring grilled salmon and garlicky rice.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Brazilian Salmon Fillets",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Garlicky Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Kissed Olive Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Bowls for serving",
+      "amount": "4-6",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the salmon fillets with salt and pepper.",
+    "Grill the salmon for 4-5 minutes per side, or until cooked through.",
+    "Cook the garlicky rice according to package instructions.",
+    "In a small bowl, whisk together kissed olive oil, salt, and pepper.",
+    "To assemble the bowls, place a scoop of rice on the bottom, followed by a piece of grilled salmon, and drizzle with the olive oil mixture.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "grilled-salmon",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-kissed-brazilian-salmon-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T21:14:15.348Z"
+}
