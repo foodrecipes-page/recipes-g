@@ -3900,18 +3900,15 @@
   },
   {
     "slug": "garlicky-shattering-algerian-salt-cod-dolsot",
-    "title": "Garlicky Shattering Algerian Salt Cod Dolsot",
+    "title": "Pan-Seared Cod with Algerian Spices and Crispy Shattering Crust",
     "tags": [
       "algerian",
-      "breakfast",
-      "brunch",
-      "flexitarian",
-      "one-pan",
-      "salt-cod",
-      "weekend"
+      "cod",
+      "fish",
+      "seafood"
     ],
-    "cuisine": "algerian",
-    "totalTimeMin": 45,
+    "cuisine": "Algerian",
+    "totalTimeMin": 27,
     "shard": "g"
   },
   {
@@ -7250,15 +7247,15 @@
   },
   {
     "slug": "glassy-jelly-mediterranean-beef-tacos",
-    "title": "Glassy-Jelly Mediterranean Beef Tacos",
+    "title": "Taco Beef Medley",
     "tags": [
       "beef",
-      "comfort-food",
-      "low-calorie",
+      "mexican",
+      "tacos",
       "mediterranean"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 20,
+    "cuisine": "mexican",
+    "totalTimeMin": 30,
     "shard": "g"
   },
   {
