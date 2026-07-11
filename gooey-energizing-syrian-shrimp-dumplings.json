@@ -1,0 +1,70 @@
+{
+  "slug": "gooey-energizing-syrian-shrimp-dumplings",
+  "title": "Syrian-Style Shrimp Dumplings with Gooey Sauce",
+  "description": "A fusion of flavors, this recipe combines the savory taste of Syrian spices with the sweetness of gooey sauce and the freshness of shrimp, all wrapped in a delicious dumpling.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "Peeled and deveined"
+    },
+    {
+      "name": "Dumpling wrappers",
+      "amount": "10-12 wrappers",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Gooey sauce",
+      "amount": "1/2 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Syrian spices",
+      "amount": "2 teaspoons",
+      "notes": "A mix of paprika, cumin, and coriander"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For frying"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pan over medium heat.",
+    "Add the Syrian spices and cook for 1 minute, until fragrant.",
+    "Add the shrimp and cook until pink, about 2-3 minutes.",
+    "Meanwhile, prepare the dumpling wrappers by following the package instructions.",
+    "Place a dumpling wrapper in the pan and add a few pieces of cooked shrimp on one half of the wrapper.",
+    "Add a spoonful of gooey sauce on top of the shrimp and fold the wrapper in half to form a half-moon shape.",
+    "Seal the edges by pressing them together and cook for an additional 2-3 minutes, until the dumpling is golden brown.",
+    "Repeat with the remaining wrappers and filling.",
+    "Serve the Syrian-Style Shrimp Dumplings with additional gooey sauce on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "syrian",
+    "shrimp",
+    "dumplings",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-energizing-syrian-shrimp-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T10:35:08.324Z"
+}
