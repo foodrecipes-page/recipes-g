@@ -1,0 +1,79 @@
+{
+  "slug": "golden-green-mexican-chicken-pozole-with-dulce-de-leche-toppings",
+  "title": "Chicken Pozole",
+  "description": "A Mexican-inspired posole recipe with tender chicken, flavorful broth, and crunchy toppings.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": null
+    },
+    {
+      "name": "golden pozole",
+      "amount": "1 can",
+      "notes": null
+    },
+    {
+      "name": "green chilies",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "mexican oregano",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "with onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "dulce de leche",
+      "amount": "1 tsp",
+      "notes": "for serving"
+    },
+    {
+      "name": "tortilla chips",
+      "amount": "1 cup",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "1. Shred the chicken breast into bite-sized pieces.",
+    "2. In a large pot, heat 2 tbsp of oil over medium-high heat.",
+    "3. Add the diced onion and cook until translucent, about 3-4 minutes.",
+    "4. Add the diced green chilies and cook for 1 minute.",
+    "5. Add the shredded chicken, pozole, and mexican oregano.",
+    "6. Bring the mixture to a boil, then reduce heat to medium-low and simmer for 10-15 minutes.",
+    "7. Taste and adjust the seasoning as needed.",
+    "8. Serve the pozole hot, topped with a drizzle of dulce de leche and crushed tortilla chips."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "mexican",
+    "pozole",
+    "soup",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-green-mexican-chicken-pozole-with-dulce-de-leche-toppings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T16:37:03.803Z"
+}
