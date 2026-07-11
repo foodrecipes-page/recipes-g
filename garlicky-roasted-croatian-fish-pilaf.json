@@ -1,0 +1,66 @@
+{
+  "slug": "garlicky-roasted-croatian-fish-pilaf",
+  "title": "Pan-Seared Fish with Croatia-Style Pilaf",
+  "description": "A simple yet flavorful dish that combines pan-seared fish with a traditional Croatia-style pilaf.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish fillet",
+      "amount": "4 pieces, 6 oz each"
+    },
+    {
+      "name": "Garlicky pilaf",
+      "amount": "2 cups, cooked",
+      "notes": "Recipe using roasted garlicky Croatian rice"
+    },
+    {
+      "name": "Lemon",
+      "amount": "1, juiced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium-high heat.",
+    "Season the fish with salt and pepper.",
+    "Add the fish to the pan and sear for 3-4 minutes on each side.",
+    "Transfer the fish to a plate and set aside.",
+    "Add the cooked pilaf to the pan and stir to combine with any remaining oil.",
+    "Squeeze lemon juice over the pilaf and stir to combine.",
+    "Serve the fish with the pilaf and garnish with additional lemon wedges if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "pilaf",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-roasted-croatian-fish-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T22:35:53.939Z"
+}
