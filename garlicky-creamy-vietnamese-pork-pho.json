@@ -1,0 +1,83 @@
+{
+  "slug": "garlicky-creamy-vietnamese-pork-pho",
+  "title": "Vietnamese Pho",
+  "description": "A traditional Vietnamese noodle soup with a rich broth and flavorful toppings.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork Bones",
+      "amount": "2 lbs",
+      "notes": "preferably with marrow"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Vietnamese Pho Noodles",
+      "amount": "1 pound",
+      "notes": "wide rice noodles"
+    },
+    {
+      "name": "Pho Seasoning",
+      "amount": "2 tablespoons",
+      "notes": "available at Asian markets"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "1. In a large pot, combine pork bones, garlic, onion, and ginger. Roast at 400°F (200°C) for 30 minutes.",
+    "2. Add pho seasoning and fish sauce (if using) to the pot. Pour in beef broth and bring to a boil.",
+    "3. Reduce heat to low and simmer for at least 1 hour.",
+    "4. Cook pho noodles according to package instructions.",
+    "5. Slice cooked pork into thin strips.",
+    "6. Assemble pho bowls by placing noodles in the bottom, then adding sliced pork and hot broth.",
+    "7. Garnish with chopped herbs (such as cilantro or basil) and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "pho",
+    "soup",
+    "noodle",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-creamy-vietnamese-pork-pho",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T07:57:45.229Z"
+}
