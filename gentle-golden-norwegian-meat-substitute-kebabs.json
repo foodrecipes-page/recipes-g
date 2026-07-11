@@ -1,0 +1,81 @@
+{
+  "slug": "gentle-golden-norwegian-meat-substitute-kebabs",
+  "title": "Norwegian Golden Meat Kebabs",
+  "description": "A Scandinavian-inspired recipe featuring tender meat and flavorful spices, perfect for a quick dinner.",
+  "cuisine": "Scandinavian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Meat substitute",
+      "amount": "500g",
+      "notes": "Choose a meat substitute that mimics the texture of meat"
+    },
+    {
+      "name": "Golden kebabs spice blend",
+      "amount": "2 tbsp",
+      "notes": "Available at most Scandinavian markets"
+    },
+    {
+      "name": "Norwegian gentle oil",
+      "amount": "2 tbsp",
+      "notes": "Optional, but recommended for a authentic flavor"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed for the best flavor"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced for maximum flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Use a flaky sea salt for the best flavor"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "Freshly ground for the best flavor"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together golden kebabs spice blend, Norwegian gentle oil, lemon juice, garlic, salt, and black pepper.",
+    "Add the meat substitute to the bowl and toss to coat with the spice mixture.",
+    "Thread the meat substitute onto skewers, leaving a small space between each piece.",
+    "Grill the kebabs for 8-10 minutes per side, or until cooked through.",
+    "Serve immediately, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 16,
+  "totalTimeMin": 31,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "scandinavian",
+    "gluten-free",
+    "kebabs",
+    "meat-substitute"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gentle-golden-norwegian-meat-substitute-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T02:36:13.806Z"
+}
