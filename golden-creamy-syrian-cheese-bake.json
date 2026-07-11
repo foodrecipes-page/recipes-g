@@ -1,0 +1,80 @@
+{
+  "slug": "golden-creamy-syrian-cheese-bake",
+  "title": "Golden Syrian Cheese Bake",
+  "description": "A warm, cheesy bake inspired by the flavors of the Middle East, perfect for a comforting snack or light meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "golden syrup",
+      "amount": "1/2 cup",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Syrian cheese",
+      "amount": "8 oz",
+      "notes": "crumbly, salty cheese"
+    },
+    {
+      "name": "creamy cheese",
+      "amount": "8 oz",
+      "notes": "soft, spreadable cheese"
+    },
+    {
+      "name": "bake",
+      "amount": "1 1/2 cups",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "beaten eggs"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a medium bowl, whisk together the golden syrup, eggs, salt, and pepper.",
+    "Add the crumbled Syrian cheese and mix until well combined.",
+    "Stir in the softened creamy cheese until smooth.",
+    "Gradually add the flour, mixing until a dough forms.",
+    "Roll out the dough to a thickness of about 1/4 inch (6 mm).",
+    "Transfer the dough to a 9x13 inch baking dish.",
+    "Bake for 35-40 minutes, or until golden brown and set.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheese",
+    "middle-eastern",
+    "comfort-food",
+    "snack",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-creamy-syrian-cheese-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T12:05:42.540Z"
+}
