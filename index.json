@@ -2743,18 +2743,15 @@
   },
   {
     "slug": "garlicky-gooey-norwegian-soya-milk-stir-fry",
-    "title": "Garlicky Gooey Norwegian Soya Milk Stir-fry",
+    "title": "Norwegian Soya Stir Fry",
     "tags": [
-      "garlicky",
-      "gooey",
-      "adventurous",
       "norwegian",
-      "soya-milk",
+      "soya",
       "stir-fry",
-      "gluten-free"
+      "easy-dinner"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 25,
+    "cuisine": "Asian",
+    "totalTimeMin": 13,
     "shard": "g"
   },
   {
@@ -11316,15 +11313,15 @@
   },
   {
     "slug": "gooey-energizing-syrian-shrimp-dumplings",
-    "title": "Gooey Energizing Syrian Shrimp Dumplings",
+    "title": "Syrian-Style Shrimp Dumplings with Gooey Sauce",
     "tags": [
-      "dumplings",
-      "high-protein",
       "syrian",
-      "weeknight"
+      "shrimp",
+      "dumplings",
+      "snack"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 27,
     "shard": "g"
   },
   {
