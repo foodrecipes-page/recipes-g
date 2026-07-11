@@ -1,0 +1,63 @@
+{
+  "slug": "garlicky-shattering-algerian-salt-cod-dolsot",
+  "title": "Pan-Seared Cod with Algerian Spices and Crispy Shattering Crust",
+  "description": "A flavorful and spicy cod dish, inspired by Algerian cuisine. The crispy shattering crust adds a satisfying crunch.",
+  "cuisine": "Algerian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod",
+      "amount": "4 fillets (6 oz each)"
+    },
+    {
+      "name": "algerian",
+      "amount": "2 tbsp (garlic-ginger spice blend)"
+    },
+    {
+      "name": "garlicky",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "shattering",
+      "amount": "1 cup (cornstarch-based breading)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C). Line a baking sheet with parchment paper.",
+    "Season the cod fillets with salt and Algerian spice blend.",
+    "Dip each fillet into the garlicky mixture, then coat with shattering breading.",
+    "Heat a non-stick skillet over medium-high heat. Add a small amount of oil.",
+    "Sear the cod for 2-3 minutes on each side, until golden brown.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes.",
+    "Remove from the oven and let rest for 2 minutes.",
+    "Serve hot, garnished with chopped fresh herbs (optional)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "cod",
+    "fish",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-shattering-algerian-salt-cod-dolsot",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T05:45:51.234Z"
+}
