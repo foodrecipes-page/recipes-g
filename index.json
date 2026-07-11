@@ -1267,18 +1267,16 @@
   },
   {
     "slug": "garlicky-creamy-vietnamese-pork-pho",
-    "title": "Garlicky Creamy Vietnamese Pork Pho",
+    "title": "Vietnamese Pho",
     "tags": [
       "vietnamese",
       "pho",
-      "pork",
-      "garlicky",
-      "creamy",
-      "keto",
-      "gluten-free"
+      "soup",
+      "noodle",
+      "pork"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 50,
+    "totalTimeMin": 150,
     "shard": "g"
   },
   {
@@ -2785,13 +2783,14 @@
   },
   {
     "slug": "garlicky-gooey-smoke-raw-friendly-beef-cutlet-stir-fry",
-    "title": "Garlicky Gooey Smoke Raw-Friendly Beef Cutlet Stir-fry",
+    "title": "Beef Cutlet with Stir Fry",
     "tags": [
-      "garlicky",
-      "gooey",
-      "raw-friendly"
+      "beef",
+      "stir-fry",
+      "asian",
+      "dinner"
     ],
-    "cuisine": "Ukrainian",
+    "cuisine": "asian",
     "totalTimeMin": 25,
     "shard": "g"
   },
