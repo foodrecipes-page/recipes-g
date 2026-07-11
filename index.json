@@ -10080,18 +10080,16 @@
   },
   {
     "slug": "golden-green-mexican-chicken-pozole-with-dulce-de-leche-toppings",
-    "title": "Golden Green Mexican Chicken Pozole with Dulce de Leche Toppings",
+    "title": "Chicken Pozole",
     "tags": [
-      "dinner",
-      "gluten-free",
-      "high-protein",
+      "chicken",
       "mexican",
-      "one-pot",
-      "paleo",
-      "weeknight"
+      "pozole",
+      "soup",
+      "lunch"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
