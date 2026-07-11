@@ -1,0 +1,88 @@
+{
+  "slug": "glassy-jelly-mediterranean-beef-tacos",
+  "title": "Taco Beef Medley",
+  "description": "A classic taco recipe with a twist of mediterranean flavors, featuring tender beef and a blend of spices.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "glassy onions",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "jelly",
+      "amount": "1/4 cup",
+      "notes": "used for caramelization"
+    },
+    {
+      "name": "tacos seasoning",
+      "amount": "2 teaspoons",
+      "notes": "mexican-inspired blend"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "olives",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "mediterranean oregano",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Brown the beef in a skillet over medium-high heat.",
+    "Add the glassy onions and cook until translucent.",
+    "Add the tacos seasoning and stir to combine.",
+    "Add the jelly and stir to caramelize the onions.",
+    "Reduce heat to medium-low and simmer for 10 minutes.",
+    "Stir in feta cheese and olives.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and garnish with mediterranean oregano."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "mexican",
+    "tacos",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/glassy-jelly-mediterranean-beef-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T06:20:32.114Z"
+}
