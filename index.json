@@ -1094,16 +1094,12 @@
   },
   {
     "slug": "garlicky-chewy-turkish-garlic-pilaf",
-    "title": "Garlicky Chewy Turkish Garlic Pilaf",
+    "title": "Turkish-Style Pilaf",
     "tags": [
-      "tasty",
-      "aromatic",
-      "flavorful",
-      "festive",
-      "vegan-friendly",
-      "gluten-free",
       "turkish",
-      "pilaf"
+      "rice",
+      "pilaf",
+      "garlic"
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 30,
@@ -11180,17 +11176,15 @@
   },
   {
     "slug": "gooey-citrusy-roast-filipino-liver-roast",
-    "title": "Gooey Citrusy Roast Filipino Liver Roast",
+    "title": "Filipino-Style Roast Chicken",
     "tags": [
-      "easy-dinner",
+      "chicken",
       "filipino",
-      "liver",
-      "one-pan",
       "roast",
-      "weeknight"
+      "main-course"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 40,
+    "totalTimeMin": 70,
     "shard": "g"
   },
   {
@@ -12548,17 +12542,14 @@
   },
   {
     "slug": "gooey-syrian-blueberry-crumble",
-    "title": "Gooey Syrian Blueberry Crumble",
+    "title": "Blueberry Crumble",
     "tags": [
-      "gooey",
-      "herbal",
-      "monsoon",
-      "syrrian",
-      "dessert",
-      "low-sodium-friendly"
+      "blueberry",
+      "crumble",
+      "dessert"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 55,
     "shard": "g"
   },
   {
@@ -14112,18 +14103,16 @@
   },
   {
     "slug": "griddle-cooked-polish-macaroni-pasta",
-    "title": "Griddle Cooked Polish Macaroni Pasta",
+    "title": "Polish Macaroni Fritters",
     "tags": [
-      "griddle-cook",
-      "one-pan",
-      "pasta",
       "polish",
-      "sattvic",
-      "weeknight",
-      "wine-infused"
+      "breakfast",
+      "snack",
+      "fritters",
+      "macaroni"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "g"
   },
   {
