@@ -1,88 +1,92 @@
 {
   "slug": "glassy-jelly-mediterranean-beef-tacos",
-  "title": "Taco Beef Medley",
-  "description": "A classic taco recipe with a twist of mediterranean flavors, featuring tender beef and a blend of spices.",
-  "cuisine": "mexican",
+  "title": "Mediterranean Beef Tacos",
+  "description": "This Mediterranean Beef Tacos recipe combines the flavors of the Mediterranean with the simplicity of tacos. Beef is marinated in a mixture of Mediterranean spices and then sautéed to perfection.",
+  "cuisine": "Mediterranean",
   "diet": [
     "meat"
   ],
-  "meal": "dinner",
+  "meal": "lunch",
   "ingredients": [
     {
-      "name": "beef",
+      "name": "Ground Beef",
       "amount": "1 pound",
       "notes": ""
     },
     {
-      "name": "glassy onions",
-      "amount": "1/2 cup",
-      "notes": ""
-    },
-    {
-      "name": "jelly",
-      "amount": "1/4 cup",
-      "notes": "used for caramelization"
-    },
-    {
-      "name": "tacos seasoning",
+      "name": "Mediterranean Spice Blend",
       "amount": "2 teaspoons",
-      "notes": "mexican-inspired blend"
-    },
-    {
-      "name": "feta cheese",
-      "amount": "1/2 cup",
-      "notes": "crumbled"
-    },
-    {
-      "name": "olives",
-      "amount": "1/2 cup",
       "notes": ""
     },
     {
-      "name": "mediterranean oregano",
-      "amount": "1 teaspoon",
+      "name": "Jelly",
+      "amount": "1/4 cup",
       "notes": ""
     },
     {
-      "name": "salt",
-      "amount": "to taste",
+      "name": "Crushed Glassy Olives",
+      "amount": "1/4 cup",
       "notes": ""
     },
     {
-      "name": "pepper",
-      "amount": "to taste",
+      "name": "Taco Shells",
+      "amount": "8-10",
+      "notes": ""
+    },
+    {
+      "name": "Shredded Cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sliced Beef (for serving)",
+      "amount": "4-6 slices",
+      "notes": ""
+    },
+    {
+      "name": "Lettuce (for serving)",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "Tomato (for serving)",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Cucumber (for serving)",
+      "amount": "1 large",
       "notes": ""
     }
   ],
   "instructions": [
-    "Brown the beef in a skillet over medium-high heat.",
-    "Add the glassy onions and cook until translucent.",
-    "Add the tacos seasoning and stir to combine.",
-    "Add the jelly and stir to caramelize the onions.",
-    "Reduce heat to medium-low and simmer for 10 minutes.",
-    "Stir in feta cheese and olives.",
-    "Season with salt and pepper to taste.",
-    "Serve hot and garnish with mediterranean oregano."
+    "1. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "2. Once the beef is browned, add the Mediterranean Spice Blend and stir to combine.",
+    "3. Reduce heat to low and simmer for 5 minutes.",
+    "4. Meanwhile, toast the taco shells by baking them in the oven at 350°F for 5-7 minutes, or until lightly browned.",
+    "5. In a small bowl, mix together the jelly and crushed glassy olives.",
+    "6. To assemble the tacos, place a portion of the beef mixture onto each taco shell, followed by a spoonful of the jelly-olive mixture.",
+    "7. Top with shredded cheese, sliced beef, lettuce, tomato, and cucumber.",
+    "8. Serve immediately and enjoy!"
   ],
   "prepTimeMin": 10,
-  "cookTimeMin": 20,
-  "totalTimeMin": 30,
-  "servings": 4,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": "4-6",
   "difficulty": "medium",
   "tags": [
     "beef",
-    "mexican",
-    "tacos",
-    "mediterranean"
+    "mediterranean",
+    "tacos"
   ],
   "nutrition": {
-    "calories": 420,
-    "protein": 35,
-    "carbs": 20,
-    "fat": 25
+    "calories": 450,
+    "protein": "35g",
+    "carbs": "20g",
+    "fat": "25g"
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/glassy-jelly-mediterranean-beef-tacos",
   "providerUsed": "groq",
-  "createdAt": "2026-07-09T06:20:32.114Z"
+  "createdAt": "2026-07-11T06:24:14.688Z"
 }
