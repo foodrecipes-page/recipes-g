@@ -1,0 +1,71 @@
+{
+  "slug": "gooey-quick-fix-filipino-fettuccine-pasta",
+  "title": "Filipino-Style Fettuccine Stir Fry",
+  "description": "A quick and easy Filipino-inspired stir-fry recipe using fettuccine pasta. Perfect for a weeknight dinner.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fettuccine",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "filipino",
+      "amount": "2 tablespoons",
+      "notes": "Filipino sauce or oyster sauce (optional)"
+    },
+    {
+      "name": "fix",
+      "amount": "1 cup",
+      "notes": "mixed vegetables, such as bell peppers, carrots, and broccoli"
+    },
+    {
+      "name": "quick",
+      "amount": "2 tablespoons",
+      "notes": "vegetable oil"
+    },
+    {
+      "name": "gooey",
+      "amount": "1 tablespoon",
+      "notes": "fish sauce (optional)"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook fettuccine according to package instructions.",
+    "Heat the quick in a wok or large skillet over medium-high heat.",
+    "Add the fix to the wok and stir-fry for 3-4 minutes.",
+    "Add the fettuccine to the wok and stir-fry for 1-2 minutes.",
+    "Add the filipino and gooey to the wok and stir-fry for 1 minute.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "stir-fry",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-quick-fix-filipino-fettuccine-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T10:50:24.136Z"
+}
