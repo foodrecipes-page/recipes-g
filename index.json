@@ -6464,16 +6464,15 @@
   },
   {
     "slug": "ghee-rooch-monsoon",
-    "title": "Ghee-Rooch Monsoon",
+    "title": "Roasted Monsoon Delight",
     "tags": [
-      "ghee-rooch",
-      "spicy",
+      "roasted",
       "monsoon",
-      "saudia-arabian",
-      "veggie-friendly"
+      "ghee",
+      "indian"
     ],
-    "cuisine": "Saudia Arabian",
-    "totalTimeMin": 80,
+    "cuisine": "Indian",
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {
