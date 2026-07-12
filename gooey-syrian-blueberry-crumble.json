@@ -1,0 +1,78 @@
+{
+  "slug": "gooey-syrian-blueberry-crumble",
+  "title": "Blueberry Crumble",
+  "description": "A delicious dessert featuring fresh blueberries topped with a crunchy crumble mixture. Perfect for warm weather.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Blueberries",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "Cut into small pieces"
+    },
+    {
+      "name": "Gooey",
+      "amount": "1/4 cup",
+      "notes": "Crushed"
+    },
+    {
+      "name": "Crumbly",
+      "amount": "1 cup",
+      "notes": "Crushed"
+    },
+    {
+      "name": "Syrian",
+      "amount": "2 tsp",
+      "notes": "Ground cinnamon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large mixing bowl, combine the blueberries, granulated sugar, and Syrian (ground cinnamon).",
+    "Mix until the blueberries are evenly coated with the sugar and cinnamon.",
+    "Transfer the blueberry mixture to a 9x9 inch baking dish.",
+    "In another mixing bowl, combine the flour, cold unsalted butter, gooey (crushed), and crumble (crushed).",
+    "Mix until the mixture resembles coarse crumbs.",
+    "Spread the crumb mixture evenly over the blueberry mixture.",
+    "Bake for 40-45 minutes, or until the topping is golden brown and the fruit is bubbly.",
+    "Remove from oven and let cool for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "blueberry",
+    "crumble",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-syrian-blueberry-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T02:57:19.766Z"
+}
