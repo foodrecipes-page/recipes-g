@@ -1,0 +1,86 @@
+{
+  "slug": "garlicky-korean-chicken-stir-fry",
+  "title": "Korean-Style Chicken Stir Fry",
+  "description": "A quick and delicious Korean-inspired dish made with marinated chicken and stir-fried vegetables. Serve with rice or noodles for a satisfying meal.",
+  "cuisine": null,
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breasts",
+      "amount": "1 pound, cut into bite-sized pieces",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Green onions, chopped",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together chili flakes, garlic, soy sauce, brown sugar, and rice vinegar. Add the chicken and toss to coat. Let marinate for at least 15 minutes.",
+    "2. Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "3. Remove the chicken from the marinade, letting any excess liquid drip off.",
+    "4. Add the chicken to the skillet and cook until browned and cooked through, about 5-7 minutes.",
+    "5. Remove the chicken from the skillet and set aside.",
+    "6. Add the remaining 1 tablespoon of vegetable oil to the skillet.",
+    "7. Stir-fry the chicken in the skillet for 1-2 minutes, until heated through.",
+    "8. Add the green onions to the skillet and stir-fry for an additional 1 minute.",
+    "9. Serve the chicken and vegetables hot, garnished with additional green onions if desired.",
+    "10. Cook rice or noodles according to package instructions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "chicken",
+    "stirfry",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-korean-chicken-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T01:40:12.556Z"
+}
