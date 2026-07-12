@@ -1,0 +1,77 @@
+{
+  "slug": "griddle-cooked-polish-macaroni-pasta",
+  "title": "Polish Macaroni Fritters",
+  "description": "A twist on the classic Polish dish, these fritters are perfect for a satisfying breakfast or snack.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "macaroni",
+      "amount": "1 cup"
+    },
+    {
+      "name": "polish sausage",
+      "amount": "1/2 cup, crumbled"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "grated carrot",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "1"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. Cook the macaroni according to the package instructions until al dente. Drain and set aside.",
+    "3. In a large bowl, combine the cooked macaroni, crumbled sausage, chopped scallions, grated carrot, and flour.",
+    "4. In a separate bowl, whisk together the eggs, salt, and pepper. Add the egg mixture to the macaroni mixture and stir until well combined.",
+    "5. Using your hands, shape the mixture into small patties.",
+    "6. Place the patties on a greased griddle or baking sheet and cook for 2-3 minutes on each side, or until golden brown.",
+    "7. Transfer the fritters to a baking sheet and bake for an additional 10-12 minutes, or until crispy and cooked through.",
+    "8. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "breakfast",
+    "snack",
+    "fritters",
+    "macaroni"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/griddle-cooked-polish-macaroni-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T03:45:43.658Z"
+}
