@@ -1,0 +1,67 @@
+{
+  "slug": "golden-yeasty-malaysian-chicken-toast",
+  "title": "Malaysian-Style Chicken Toast",
+  "description": "A flavorful and aromatic Malaysian-inspired dish featuring crispy toast topped with chicken, spices, and herbs. Perfect as a snack or light meal.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound, boneless, skinless",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Golden yeast extract",
+      "amount": "2 tablespoons",
+      "notes": "Available at most Asian grocery stores"
+    },
+    {
+      "name": "Toast",
+      "amount": "4 slices",
+      "notes": "preferably baguette or ciabatta"
+    },
+    {
+      "name": "Malaysian chili sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional, for added heat"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup, chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. In a large bowl, whisk together yeast extract, 1 tablespoon oil, and 1 tablespoon water. Add chicken and marinate for at least 15 minutes.",
+    "3. Line a baking sheet with parchment paper and arrange chicken pieces in a single layer. Bake for 12-15 minutes or until cooked through.",
+    "4. Meanwhile, toast the bread slices until crispy. Cut into bite-sized pieces.",
+    "5. In a small bowl, mix together chili sauce, 1 tablespoon oil, and 1 tablespoon water (if using).",
+    "6. Assemble the toast by spreading a layer of chili sauce mixture on each slice, followed by a piece of cooked chicken, and finishing with chopped cilantro.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "malaysian",
+    "chicken",
+    "toast",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-yeasty-malaysian-chicken-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T11:16:15.006Z"
+}
