@@ -1,0 +1,83 @@
+{
+  "slug": "grassy-golden-british-sausage-cornish-pasty",
+  "title": "Traditional Cornish Sausage Pasty",
+  "description": "A hearty British-inspired dish featuring a flaky crust wrapped around a savory filling of Cornish sausage, potatoes, and vegetables.",
+  "cuisine": "British",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cornish sausage",
+      "amount": "4",
+      "notes": "Choose a high-quality, locally-made sausage"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": "Peel and dice before using"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Peel and dice before using"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "Chop before using"
+    },
+    {
+      "name": "Golden pastry crust",
+      "amount": "1 package",
+      "notes": "Thaw before using"
+    },
+    {
+      "name": "Grassy butter",
+      "amount": "1/4 cup",
+      "notes": "Softened"
+    },
+    {
+      "name": "Sage",
+      "amount": "2 tablespoons",
+      "notes": "Chopped fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C)",
+    "Roll out the pastry crust to a thickness of 1/8 inch (3 mm)",
+    "In a large pan, cook the Cornish sausage over medium heat until browned",
+    "Add the diced potatoes, carrots, and onions to the pan and cook until the vegetables are tender",
+    "Add the chopped sage to the pan and stir to combine",
+    "Place the filling mixture onto one half of the pastry crust, leaving a 1/2 inch (1 cm) border around the edges",
+    "Brush the edges of the pastry with the softened grassy butter",
+    "Fold the other half of the pastry crust over the filling and press the edges to seal",
+    "Use a knife to cut a few slits in the top of the pastry to allow steam to escape",
+    "Brush the top of the pastry with the remaining grassy butter",
+    "Bake the pasty in the preheated oven for 25-30 minutes, or until the crust is golden brown"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cornish",
+    "sausage",
+    "pasty",
+    "british",
+    "lunch",
+    "meat"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 28,
+    "carbs": 45,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grassy-golden-british-sausage-cornish-pasty",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T09:01:15.927Z"
+}
