@@ -1,0 +1,66 @@
+{
+  "slug": "golden-syrup-lomo-sissing",
+  "title": "Sissing and Golden Syrup Crumble",
+  "description": "A sweet dessert recipe featuring sissing, golden syrup, and crunchy topping.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Golden Syrup",
+      "amount": "120g"
+    },
+    {
+      "name": "Sissing",
+      "amount": "250g"
+    },
+    {
+      "name": "All Purpose Flour",
+      "amount": "150g"
+    },
+    {
+      "name": "Cold Butter",
+      "amount": "100g"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "100g"
+    },
+    {
+      "name": "Baking Powder",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Mix the sissing, golden syrup, and baking powder in a bowl.",
+    "In a separate bowl, mix the flour and sugar.",
+    "Add the cold butter to the dry mixture and rub until crumbly.",
+    "Pour the sissing mixture into a baking dish.",
+    "Top with the crumbly mixture.",
+    "Bake for 30-40 minutes, or until golden brown.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "british",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 2,
+    "carbs": 50,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-syrup-lomo-sissing",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T07:08:12.811Z"
+}
