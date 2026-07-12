@@ -1,0 +1,63 @@
+{
+  "slug": "golden-crispy-chinese-cherry-tomatoes-jiaozi",
+  "title": "Pan-Fried Cherry Tomatoes with Jiaozi Crust",
+  "description": "A simple and flavorful dish that combines the sweetness of cherry tomatoes with the crunch of pan-fried jiaozi.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cherry tomatoes",
+      "amount": "4-6"
+    },
+    {
+      "name": "jiaozi",
+      "amount": "4-6",
+      "notes": "preferably pan-fried until crispy"
+    },
+    {
+      "name": "chinese vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "chinese five-spice powder",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of vegetable oil in a pan over medium-high heat.",
+    "Pan-fry the jiaozi until crispy and golden, about 2-3 minutes per side.",
+    "Add the cherry tomatoes to the pan and cook for an additional 2-3 minutes, until tender.",
+    "Mince the garlic and sprinkle over the cherry tomatoes.",
+    "Sprinkle the Chinese five-spice powder over the cherry tomatoes and stir to combine.",
+    "Serve the cherry tomatoes with the crispy jiaozi on top."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cherry-tomatoes",
+    "jiaozi",
+    "chinese-cuisine",
+    "vegetarian",
+    "snack-ideas"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 15,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-crispy-chinese-cherry-tomatoes-jiaozi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T10:54:14.248Z"
+}
