@@ -1,0 +1,93 @@
+{
+  "slug": "garlicky-argentinian-peanuts-empanadas",
+  "title": "Argentinian Empanadas with Spicy Peanut Sauce",
+  "description": "A twist on the classic empanada recipe, filled with a garlicky beef mixture and served with a spicy peanut sauce.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Peanuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": "for empanada dough"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing empanadas"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat 2 tablespoons of vegetable oil over medium-high heat. Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the minced garlic and diced onion to the skillet and cook until the onion is translucent.",
+    "Stir in the chopped peanuts and cook for 1-2 minutes.",
+    "Add the beaten eggs to the skillet and stir to combine. Cook for 1-2 minutes, until the eggs are set.",
+    "Season the beef mixture with salt and black pepper to taste.",
+    "Roll out the empanada dough on a floured surface to a thickness of about 1/8 inch.",
+    "Use a cookie cutter or the rim of a glass to cut out circles of dough.",
+    "Place a tablespoon or two of the beef mixture in the center of each dough circle.",
+    "Fold the dough in half over the filling and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with vegetable oil and bake for 20-25 minutes, until golden brown.",
+    "Meanwhile, prepare the spicy peanut sauce by blending together 1/2 cup of peanuts, 1/4 cup of mayonnaise, 1 tablespoon of sriracha, and 1 tablespoon of lime juice.",
+    "Serve the empanadas with the spicy peanut sauce for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "empanadas",
+    "snack",
+    "peanut-sauce"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-argentinian-peanuts-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T08:34:33.984Z"
+}
