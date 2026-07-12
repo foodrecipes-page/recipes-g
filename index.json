@@ -9870,17 +9870,16 @@
   },
   {
     "slug": "golden-glazed-argentinian-kabocha-gratin",
-    "title": "Golden Glazed Argentinian Kabocha Gratin",
+    "title": "Kabocha and Argentinian Gratin",
     "tags": [
-      "argentinian",
-      "gluten-free",
+      "beef",
+      "squash",
+      "potatoes",
       "gratin",
-      "kabocha",
-      "special-occasion",
-      "vegetarian"
+      "latin american"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 50,
+    "cuisine": "latin american",
+    "totalTimeMin": 45,
     "shard": "g"
   },
   {
@@ -12048,16 +12047,14 @@
   },
   {
     "slug": "gooey-quick-fix-filipino-fettuccine-pasta",
-    "title": "Gooey Quick Fix Filipino Fettuccine Pasta",
+    "title": "Filipino-Style Fettuccine Stir Fry",
     "tags": [
       "filipino",
-      "high-protein",
-      "one-pan",
-      "quick-fix",
-      "weeknight"
+      "stir-fry",
+      "pasta"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 18,
+    "totalTimeMin": 15,
     "shard": "g"
   },
   {
