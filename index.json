@@ -2368,15 +2368,15 @@
   },
   {
     "slug": "garlicky-fluffy-french-brittany-french-bread-pilaf",
-    "title": "Garlicky, Fluffy French (Brittany) Bread Pilaf",
+    "title": "Brittany-Style Garlic Bread",
     "tags": [
-      "high-fiber",
-      "midnight-craving",
-      "one-pan",
-      "weeknight"
+      "garlic",
+      "bread",
+      "snack",
+      "french"
     ],
-    "cuisine": "French",
-    "totalTimeMin": 17,
+    "cuisine": "french",
+    "totalTimeMin": 22,
     "shard": "g"
   },
   {
@@ -3195,16 +3195,16 @@
   },
   {
     "slug": "garlicky-korean-chicken-stir-fry",
-    "title": "Garlicky Korean Chicken Stir-fry",
+    "title": "Korean-Style Chicken Stir Fry",
     "tags": [
-      "garlicy",
-      "korean-style",
-      "quick-fix",
-      "tender-chicken",
-      "low-calorie"
+      "korean",
+      "chicken",
+      "stirfry",
+      "quick",
+      "easy"
     ],
-    "cuisine": "Venezuelan-Korean fusion",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
