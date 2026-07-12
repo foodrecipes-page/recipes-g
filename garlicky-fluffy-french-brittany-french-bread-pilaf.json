@@ -1,0 +1,64 @@
+{
+  "slug": "garlicky-fluffy-french-brittany-french-bread-pilaf",
+  "title": "Brittany-Style Garlic Bread",
+  "description": "A simple, flavorful bread dish inspired by French cuisine. Perfect as a side or light snack.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Garlicky bread",
+      "amount": "1 loaf",
+      "notes": "preferably a day-old bread"
+    },
+    {
+      "name": "Fluffy pilaf",
+      "amount": "1/2 cup",
+      "notes": "crouton-like texture works best"
+    },
+    {
+      "name": "French bread",
+      "amount": "2 cups",
+      "notes": "preferably a rustic bread"
+    },
+    {
+      "name": "Brittany",
+      "amount": "2 tbsp",
+      "notes": "chopped fresh herbs like parsley or thyme"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C)",
+    "2. Cut the garlicky bread into 1-inch cubes",
+    "3. Toss the bread cubes with melted butter until evenly coated",
+    "4. In a pan over medium heat, cook the fluffy pilaf until lightly toasted",
+    "5. Add the French bread to the pan and cook until it starts to toast",
+    "6. Sprinkle the Brittany herbs over the top of the bread",
+    "7. Transfer the bread mixture to a baking dish",
+    "8. Bake in the preheated oven for 10-12 minutes or until golden brown",
+    "9. Remove from the oven and let cool for 2-3 minutes before serving"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlic",
+    "bread",
+    "snack",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-fluffy-french-brittany-french-bread-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T01:48:06.363Z"
+}
