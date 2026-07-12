@@ -1,0 +1,67 @@
+{
+  "slug": "garlicky-chewy-turkish-garlic-pilaf",
+  "title": "Turkish-Style Pilaf",
+  "description": "A flavorful and aromatic Turkish pilaf dish made with chewy rice and savory garlicky flavor.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "garlicky",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "chewy",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of olive oil in a large saucepan over medium heat.",
+    "Add the chopped garlic and sauté for 1 minute until fragrant.",
+    "Add the chopped chewy and cook for an additional 2 minutes.",
+    "Add the rice, pilaf, and garlicky to the saucepan, stirring to combine.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce the heat to low, cover the saucepan, and simmer for 20 minutes.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "rice",
+    "pilaf",
+    "garlic"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-chewy-turkish-garlic-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T03:10:35.748Z"
+}
