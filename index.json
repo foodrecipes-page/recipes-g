@@ -780,17 +780,15 @@
   },
   {
     "slug": "garlicky-argentinian-peanuts-empanadas",
-    "title": "Garlicky Argentinian Peanuts Empanadas",
+    "title": "Argentinian Empanadas with Spicy Peanut Sauce",
     "tags": [
       "argentinian",
-      "finger-food",
-      "garlicky",
-      "high-protein",
-      "peanut",
-      "weeknight"
+      "empanadas",
+      "snack",
+      "peanut-sauce"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 45,
     "shard": "g"
   },
   {
@@ -11045,16 +11043,13 @@
   },
   {
     "slug": "gooey-charred-british-fruits-spotted-dick",
-    "title": "Gooey Charred British Fruits Spotted Dick",
+    "title": "Spotted Dick with Fresh Fruits",
     "tags": [
-      "fruit-based",
-      "plant-based",
-      "romantic-dinner",
-      "steamed-dessert",
-      "traditional-british"
+      "british",
+      "dessert"
     ],
     "cuisine": "British",
-    "totalTimeMin": 150,
+    "totalTimeMin": 55,
     "shard": "g"
   },
   {
@@ -13442,13 +13437,14 @@
   },
   {
     "slug": "grassy-golden-british-sausage-cornish-pasty",
-    "title": "Grassy Golden British Sausage Cornish Pasty",
+    "title": "Traditional Cornish Sausage Pasty",
     "tags": [
-      "british-food",
-      "comfort-food",
-      "homemade-pastry",
-      "lacto-vegetarian",
-      "lazy-sunday"
+      "cornish",
+      "sausage",
+      "pasty",
+      "british",
+      "lunch",
+      "meat"
     ],
     "cuisine": "British",
     "totalTimeMin": 45,
