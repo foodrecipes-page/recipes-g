@@ -1,0 +1,82 @@
+{
+  "slug": "golden-glazed-argentinian-kabocha-gratin",
+  "title": "Kabocha and Argentinian Gratin",
+  "description": "A delicious and comforting side dish that combines the sweetness of kabocha with the savory flavors of Argentinian beef.",
+  "cuisine": "latin american",
+  "diet": [
+    "meat",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Argentinian beef",
+      "amount": "1 pound",
+      "notes": "such as flank steak"
+    },
+    {
+      "name": "Kabocha squash",
+      "amount": "1 medium",
+      "notes": "peeled and sliced into 1/2-inch thick rounds"
+    },
+    {
+      "name": "Golden potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and sliced into 1/2-inch thick rounds"
+    },
+    {
+      "name": "Gratin cheese",
+      "amount": "1 cup",
+      "notes": "such as parmesan or cheddar"
+    },
+    {
+      "name": "Glazed onions",
+      "amount": "1/4 cup",
+      "notes": "see instructions for preparation"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the beef with salt and pepper. Heat 1 tablespoon of olive oil in a large oven-safe skillet over medium-high heat. Sear the beef for 2-3 minutes per side, or until browned. Transfer the skillet to the preheated oven and cook for 10-12 minutes, or until the beef reaches an internal temperature of 130°F (54°C) for medium-rare.",
+    "While the beef is cooking, toss the sliced kabocha and potatoes with the remaining 1 tablespoon of olive oil, salt, and pepper on a baking sheet. Roast in the oven for 20-25 minutes, or until the vegetables are tender and lightly browned.",
+    "To prepare the glazed onions, heat 1 tablespoon of olive oil in a small skillet over medium heat. Add 1/4 cup of chopped onions and cook for 5-7 minutes, or until caramelized and golden brown.",
+    "To assemble the gratin, remove the beef from the oven and let it rest for 5 minutes. Slice the beef into thin strips. In a large serving dish, arrange a layer of roasted kabocha and potatoes. Top with a layer of sliced beef, then a layer of glazed onions. Sprinkle with grated cheese and repeat the layers one more time, finishing with a layer of cheese on top.",
+    "Return the dish to the oven and cook for an additional 5-7 minutes, or until the cheese is melted and bubbly. Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "squash",
+    "potatoes",
+    "gratin",
+    "latin american"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-glazed-argentinian-kabocha-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T10:20:56.330Z"
+}
