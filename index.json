@@ -1200,16 +1200,14 @@
   },
   {
     "slug": "garlicky-creamy-poached-turkey-stir-fry",
-    "title": "Garlicky Creamy Poached Turkey Stir-fry",
+    "title": "Creamy Turkey Stir Fry",
     "tags": [
-      "garlicky",
       "creamy",
-      "monsoon_korean",
-      "turkey_poach",
-      "stir-fry"
+      "stir-fry",
+      "turkey"
     ],
-    "cuisine": "Monsoon Korean",
-    "totalTimeMin": 80,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
@@ -7241,15 +7239,14 @@
   },
   {
     "slug": "glassy-jelly-mediterranean-beef-tacos",
-    "title": "Taco Beef Medley",
+    "title": "Mediterranean Beef Tacos",
     "tags": [
       "beef",
-      "mexican",
-      "tacos",
-      "mediterranean"
+      "mediterranean",
+      "tacos"
     ],
-    "cuisine": "mexican",
-    "totalTimeMin": 30,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
@@ -7593,13 +7590,14 @@
   },
   {
     "slug": "glazed-german-rice-fried-rice",
-    "title": "Glazed German Rice Fried-Rice",
+    "title": "German Fried Rice",
     "tags": [
       "german",
-      "dinner"
+      "fried-rice",
+      "lunch-ideas"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 40,
+    "cuisine": "german",
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
@@ -8058,17 +8056,14 @@
   },
   {
     "slug": "glorious-golden-indian-dumplings-gulab-jamun",
-    "title": "Glorious Golden Indian Dumplings Gulab Jamun",
+    "title": "Indian-Style Gulab Jamun Dumplings",
     "tags": [
-      "gluten-free",
-      "high-carb",
-      "indian-dessert",
-      "one-pot",
-      "vegan-friendly",
-      "weeknight"
+      "indian",
+      "dessert",
+      "sweet"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {
@@ -10585,14 +10580,14 @@
   },
   {
     "slug": "golden-syrup-lomo-sissing",
-    "title": "Golden Syrup Lomo Sissing",
+    "title": "Sissing and Golden Syrup Crumble",
     "tags": [
-      "sous-vide",
-      "lomo-sissing",
-      "plant-based"
+      "dessert",
+      "british",
+      "sweet"
     ],
-    "cuisine": "Ethiopian",
-    "totalTimeMin": 80,
+    "cuisine": "British",
+    "totalTimeMin": 55,
     "shard": "g"
   },
   {
