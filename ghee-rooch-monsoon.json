@@ -1,0 +1,62 @@
+{
+  "slug": "ghee-rooch-monsoon",
+  "title": "Roasted Monsoon Delight",
+  "description": "A flavorful and aromatic dish, perfect for a weeknight dinner. Roasted Monsoon is a staple in many cuisines, and when paired with ghee and spices, it becomes a treat.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Monsoon",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tbsp",
+      "notes": "for roasting"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Rinse the Monsoon and trim the ends.",
+    "Drizzle ghee over the Monsoon and sprinkle salt and black pepper to taste.",
+    "Toss to coat evenly and roast in the oven for 25-30 minutes.",
+    "After 25-30 minutes, remove from oven and let cool slightly.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "roasted",
+    "monsoon",
+    "ghee",
+    "indian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ghee-rooch-monsoon",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T07:32:01.844Z"
+}
