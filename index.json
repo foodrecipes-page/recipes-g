@@ -1,14 +1,15 @@
 [
   {
     "slug": "galangal-air-fried-garam-masala-stew",
-    "title": "Galangal Air-Fried Garam Masala Stew",
+    "title": "Galangal Stew",
     "tags": [
-      "galangal-air-fried-stew",
-      "slovenian-garam-masala",
-      "air-fry-jain-friendly"
+      "indian",
+      "stew",
+      "galangal",
+      "coconut-milk"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 20,
+    "cuisine": "Indian",
+    "totalTimeMin": 65,
     "shard": "g"
   },
   {
@@ -9432,17 +9433,16 @@
   },
   {
     "slug": "golden-crispy-chinese-cherry-tomatoes-jiaozi",
-    "title": "Golden Crispy Chinese Cherry Tomatoes Jiaozi",
+    "title": "Pan-Fried Cherry Tomatoes with Jiaozi Crust",
     "tags": [
-      "chinese-food",
-      "crispy-snack",
-      "halal-friendly",
-      "monsoon-recipe",
-      "umami-rich",
-      "vegetarian-option"
+      "cherry-tomatoes",
+      "jiaozi",
+      "chinese-cuisine",
+      "vegetarian",
+      "snack-ideas"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 15,
     "shard": "g"
   },
   {
@@ -10671,17 +10671,15 @@
   },
   {
     "slug": "golden-yeasty-malaysian-chicken-toast",
-    "title": "Golden Yeasty Malaysian Chicken Toast",
+    "title": "Malaysian-Style Chicken Toast",
     "tags": [
-      "gluten-free",
-      "low-carb",
       "malaysian",
-      "post-workout",
-      "snack",
-      "yeasty"
+      "chicken",
+      "toast",
+      "snack"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 22,
+    "totalTimeMin": 27,
     "shard": "g"
   },
   {
