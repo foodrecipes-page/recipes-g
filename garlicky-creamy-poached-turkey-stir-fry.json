@@ -1,0 +1,80 @@
+{
+  "slug": "garlicky-creamy-poached-turkey-stir-fry",
+  "title": "Creamy Turkey Stir Fry",
+  "description": "A quick and easy meal made with poached turkey, stir-fried in a creamy sauce.",
+  "cuisine": null,
+  "diet": [
+    "omnivore",
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Turkey breast",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Garlicky sauce",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Creamy sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Vegetables (bell peppers, carrots, broccoli)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Poach the turkey breast in boiling water for 8-10 minutes, or until cooked through.",
+    "Heat the olive oil in a large skillet or wok over medium-high heat.",
+    "Add the vegetables to the skillet and stir-fry for 3-4 minutes, or until tender.",
+    "Add the garlicky sauce to the skillet and stir-fry for 1 minute.",
+    "Add the creamy sauce to the skillet and stir-fry for 1 minute.",
+    "Add the poached turkey to the skillet and stir-fry for 2-3 minutes, or until heated through.",
+    "Season with salt and pepper to taste.",
+    "Garnish with fresh parsley.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "stir-fry",
+    "turkey"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-creamy-poached-turkey-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T06:13:38.468Z"
+}
