@@ -1,0 +1,84 @@
+{
+  "slug": "grassy-portuguese-chicken-wings-tagine",
+  "title": "Portuguese Chicken Tagine",
+  "description": "A traditional Moroccan-inspired stew with a Portuguese twist, featuring chicken, spices, and a blend of flavors.",
+  "cuisine": "Moroccan, Portuguese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 lb boneless, skinless chicken thighs",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "grass",
+      "amount": "2 tbsp chopped fresh parsley",
+      "notes": null
+    },
+    {
+      "name": "portuguese",
+      "amount": "2 tbsp olive oil",
+      "notes": "use a good quality oil"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 small onion",
+      "notes": "chopped"
+    },
+    {
+      "name": "wings",
+      "amount": "2 cloves garlic",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp ground cumin",
+      "notes": null
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp ground coriander",
+      "notes": null
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp smoked paprika",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the onion and cook until browned, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the chicken and cook until browned on all sides, about 5 minutes.",
+    "Add the cumin, coriander, paprika, salt, and pepper. Cook for 1 minute.",
+    "Add 1 cup of water and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 20-25 minutes or until the chicken is cooked through.",
+    "Stir in parsley and cook for an additional 2 minutes.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "moroccan",
+    "portuguese",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grassy-portuguese-chicken-wings-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T20:38:22.285Z"
+}
