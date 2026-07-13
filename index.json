@@ -8720,14 +8720,16 @@
   },
   {
     "slug": "gluten-free-falafel-date-night",
-    "title": "Gluten-Free Falafel Date Night",
+    "title": "Middle Eastern Falafel Bowl",
     "tags": [
-      "falafel",
       "gluten-free",
-      "korean"
+      "vegan",
+      "middle-eastern",
+      "falafel",
+      "bowl"
     ],
-    "cuisine": "Korean",
-    "totalTimeMin": 50,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
