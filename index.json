@@ -72,17 +72,15 @@
   },
   {
     "slug": "garden-fresh-canadian-blueberries-bowl",
-    "title": "Garden Fresh Canadian Blueberries Bowl",
+    "title": "Blueberry and Garden Salad",
     "tags": [
-      "blueberries",
-      "canadian",
-      "easy",
-      "healthy",
-      "one-pan",
-      "weeknight"
+      "salad",
+      "lunch",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 15,
+    "totalTimeMin": 10,
     "shard": "g"
   },
   {
@@ -5273,16 +5271,14 @@
   },
   {
     "slug": "gentle-light-spanish-cassaba-pa-amb-tomaquet",
-    "title": "Gentle Light Spanish Cassaba Pa Amb Tomaquet",
+    "title": "Spanish Paella",
     "tags": [
-      "fresh-ingredients",
-      "healthy-breakfast",
-      "high-fiber",
-      "one-pan",
-      "weeknight"
+      "spanish",
+      "seafood-free",
+      "chicken"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 45,
     "shard": "g"
   },
   {
@@ -12565,17 +12561,14 @@
   },
   {
     "slug": "gooey-tangy-meditteranean-cabbage-stir-fry",
-    "title": "Gooey Tangy Meditteranean Cabbage Stir-fry",
+    "title": "Savory Cabbage Stir Fry",
     "tags": [
-      "goey",
-      "tangy",
-      "mediterranean",
-      "dum",
+      "cabbage",
       "stir-fry",
-      "fodmap-friendly"
+      "cheese"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 15,
     "shard": "g"
   },
   {
