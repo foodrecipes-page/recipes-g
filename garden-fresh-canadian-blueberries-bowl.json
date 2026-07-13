@@ -1,0 +1,71 @@
+{
+  "slug": "garden-fresh-canadian-blueberries-bowl",
+  "title": "Blueberry and Garden Salad",
+  "description": "A fresh summer salad combining the sweetness of blueberries with the crunch of garden greens. Perfect for a light and refreshing snack or lunch.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fresh garden greens",
+      "amount": "4 cups",
+      "notes": "Mixed greens such as arugula, spinach, and lettuce"
+    },
+    {
+      "name": "Fresh blueberries",
+      "amount": "1 cup",
+      "notes": "Rinsed and pat dry"
+    },
+    {
+      "name": "Canadian feta cheese (vegetarian)",
+      "amount": "1/2 cup",
+      "notes": "Crumble into small pieces"
+    },
+    {
+      "name": "Bowl",
+      "amount": "",
+      "notes": "Large enough to serve 4"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For dressing"
+    },
+    {
+      "name": "Balsamic vinegar",
+      "amount": "1 tablespoon",
+      "notes": "For dressing"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the fresh garden greens.",
+    "2. In a small bowl, whisk together the olive oil and balsamic vinegar to make the dressing.",
+    "3. Drizzle the dressing over the salad and toss to coat.",
+    "4. Top the salad with the crumbled Canadian feta cheese and fresh blueberries.",
+    "5. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "lunch",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garden-fresh-canadian-blueberries-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T17:33:53.469Z"
+}
