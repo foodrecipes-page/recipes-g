@@ -6992,16 +6992,15 @@
   },
   {
     "slug": "glassy-jelly-briny-vegetables-polish",
-    "title": "Glassy Jelly Briny Vegetables Polish",
+    "title": "Polish Vegetable Soup",
     "tags": [
-      "brunch-dish",
-      "glassy-jelly-polish",
-      "gluten-free",
-      "polish-cuisine",
-      "vegan"
+      "soup",
+      "vegetarian",
+      "polish",
+      "eastern-european"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 30,
+    "cuisine": "Eastern European",
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {
