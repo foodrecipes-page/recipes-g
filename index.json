@@ -3240,17 +3240,15 @@
   },
   {
     "slug": "garlicky-korean-scallions-bake",
-    "title": "Garlicky Korean Scallions Bake",
+    "title": "Scallion and Garlic Korean Bake",
     "tags": [
-      "easy",
       "korean",
-      "low-calorie",
-      "one-pan",
-      "snack",
-      "weeknight"
+      "bake",
+      "scallions",
+      "garlic"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {
@@ -13541,16 +13539,15 @@
   },
   {
     "slug": "grassy-portuguese-chicken-wings-tagine",
-    "title": "Grassy Portuguese Chicken Wings Tagine",
+    "title": "Portuguese Chicken Tagine",
     "tags": [
-      "comfort-food",
-      "low-sodium",
-      "one-pot",
-      "portuguese-cuisine",
-      "weeknight-dinner"
+      "chicken",
+      "moroccan",
+      "portuguese",
+      "stew"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 60,
+    "cuisine": "Moroccan, Portuguese",
+    "totalTimeMin": 45,
     "shard": "g"
   },
   {
