@@ -1,0 +1,95 @@
+{
+  "slug": "garlicky-korean-scallions-bake",
+  "title": "Scallion and Garlic Korean Bake",
+  "description": "A flavorful and easy-to-make Korean-inspired dish that combines the savory taste of scallions and garlic with the comforting warmth of a baked casserole.",
+  "cuisine": "Korean",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Garlicy Korean Spice Blend",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ground Pork",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Bake",
+      "amount": "1 (14.5 ounce) can of diced tomatoes",
+      "notes": ""
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the rice according to package instructions.",
+    "Heat sesame oil in a large skillet over medium-high heat.",
+    "Add the ground pork and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the garlicy Korean spice blend, scallions, soy sauce, sugar, salt, and black pepper to the skillet and cook for 1-2 minutes.",
+    "Stir in the diced tomatoes.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Top with cooked rice.",
+    "Bake for 20-25 minutes, or until the rice is golden brown and the casserole is hot and bubbly.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "bake",
+    "scallions",
+    "garlic"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-korean-scallions-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T21:08:18.071Z"
+}
