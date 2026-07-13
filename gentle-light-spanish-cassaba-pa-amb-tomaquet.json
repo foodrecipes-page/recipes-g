@@ -1,0 +1,81 @@
+{
+  "slug": "gentle-light-spanish-cassaba-pa-amb-tomaquet",
+  "title": "Spanish Paella",
+  "description": "A classic Spanish dish with saffron-infused rice, tender chicken, and succulent seafood.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "paella rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "tomaquet",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "cassaba",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "spanish olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "amb",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Remove the chicken from the pan and set aside.",
+    "Add the diced tomaquet and cassaba to the pan and cook until tender, about 8 minutes.",
+    "Add the paella rice to the pan and cook for 1-2 minutes, stirring constantly.",
+    "Add 2 cups of water to the pan and bring to a boil.",
+    "Add the browned chicken back to the pan and stir to combine.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes or until the rice is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "seafood-free",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gentle-light-spanish-cassaba-pa-amb-tomaquet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T17:21:04.333Z"
+}
