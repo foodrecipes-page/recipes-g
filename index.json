@@ -3874,16 +3874,15 @@
   },
   {
     "slug": "garlicky-shaggy-spanish-turkey-neck-paella",
-    "title": "Garlicky Shaggy Spanish Turkey Neck Paella",
+    "title": "Spanish Turkey Paella",
     "tags": [
-      "easy-dinner",
-      "one-pan",
       "spanish",
-      "valencian",
-      "weeknight"
+      "turkey",
+      "paella",
+      "lunch"
     ],
-    "cuisine": "spanish",
-    "totalTimeMin": 50,
+    "cuisine": "Spanish",
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {
