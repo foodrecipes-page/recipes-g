@@ -4461,15 +4461,14 @@
   },
   {
     "slug": "garlicky-uruguayan-cheese-fried-rice",
-    "title": "Garlicky Uruguayan Cheese Fried Rice",
+    "title": "Uruguayan Fried Rice",
     "tags": [
-      "cheesy",
-      "deep-fry",
+      "uruguayan",
       "fried-rice",
-      "uruguayan"
+      "easy-dinner"
     ],
-    "cuisine": "uruguayan",
-    "totalTimeMin": 45,
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
