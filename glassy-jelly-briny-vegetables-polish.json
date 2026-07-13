@@ -1,0 +1,77 @@
+{
+  "slug": "glassy-jelly-briny-vegetables-polish",
+  "title": "Polish Vegetable Soup",
+  "description": "A hearty and comforting soup filled with vegetables and a touch of polish flavor. Serve with a side of bread for a satisfying meal.",
+  "cuisine": "Eastern European",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "polish sausage",
+      "amount": "1/2 pound",
+      "notes": "optional"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "briny feta cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbled"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add the onion, carrots, and celery, and cook until the vegetables are tender, about 10 minutes.",
+    "Add the potatoes, vegetable broth, and polish sausage (if using).",
+    "Bring to a boil, then reduce heat and simmer for 20 minutes.",
+    "Stir in the briny feta cheese.",
+    "Taste and adjust seasoning as needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "vegetarian",
+    "polish",
+    "eastern-european"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/glassy-jelly-briny-vegetables-polish",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T15:14:45.918Z"
+}
