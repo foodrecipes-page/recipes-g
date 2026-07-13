@@ -1,0 +1,73 @@
+{
+  "slug": "garlicky-shaggy-spanish-turkey-neck-paella",
+  "title": "Spanish Turkey Paella",
+  "description": "A traditional Spanish dish with a twist, using turkey neck for added flavor. Serve with a side of garlic bread for a complete meal.",
+  "cuisine": "Spanish",
+  "diet": [
+    "meat",
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Spanish rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garlicky chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "shaggy onions, diced",
+      "amount": "1 large"
+    },
+    {
+      "name": "turkey neck, cut into 1-inch pieces",
+      "amount": "1"
+    },
+    {
+      "name": "paella seasoning",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt and pepper, to taste",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the diced onions and cook until translucent, about 5 minutes.",
+    "Add the turkey neck and cook until browned on all sides, about 5 minutes.",
+    "Add the Spanish rice and cook for 1-2 minutes, stirring constantly.",
+    "Add the garlicky chicken broth and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes or until the rice is cooked.",
+    "Stir in the paella seasoning and cook for an additional 2-3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "turkey",
+    "paella",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-shaggy-spanish-turkey-neck-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T03:22:26.848Z"
+}
