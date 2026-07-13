@@ -1,0 +1,84 @@
+{
+  "slug": "gluten-free-falafel-date-night",
+  "title": "Middle Eastern Falafel Bowl",
+  "description": "A flavorful and refreshing bowl filled with crispy falafel, sweet dates, and crunchy lettuce served over a bed of rice.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Falafel",
+      "amount": "4-6"
+    },
+    {
+      "name": "Pitted Dates",
+      "amount": "4-6"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "4 cups, chopped"
+    },
+    {
+      "name": "Cooked White Rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Chopped Cucumber",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tahini Sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Pita Bread (gluten-free)",
+      "amount": "4-6 slices"
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cook the white rice according to package instructions.",
+    "Chop the lettuce and cucumber into small pieces.",
+    "Slice the pita bread into smaller pieces.",
+    "Warm the tahini sauce in a small pan over low heat.",
+    "Assemble the falafel bowls by placing a scoop of cooked rice at the bottom, followed by a few pieces of falafel, some chopped lettuce and cucumber, and a drizzle of tahini sauce.",
+    "Serve immediately and garnish with chopped fresh parsley and a squeeze of lemon juice.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "vegan",
+    "middle-eastern",
+    "falafel",
+    "bowl"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gluten-free-falafel-date-night",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T14:15:12.260Z"
+}
