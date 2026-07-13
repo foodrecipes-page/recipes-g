@@ -1,0 +1,72 @@
+{
+  "slug": "gooey-monsoon-indian-prosciutto-dal",
+  "title": "Gooey Dal Bites with Indian Prosciutto",
+  "description": "A unique twist on traditional dal bites with crispy prosciutto and gooey goodness.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Gooey cheese",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "Monsoon moong dal",
+      "amount": "1 cup cooked",
+      "notes": "any type of split green gram"
+    },
+    {
+      "name": "Indian flatbread",
+      "amount": "4-6 pieces",
+      "notes": "or any other flatbread"
+    },
+    {
+      "name": "Prosciutto",
+      "amount": "6 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cut the prosciutto slices in half lengthwise.",
+    "Place a flatbread piece on a flat surface, and spread a spoonful of cooked dal on it.",
+    "Top the dal with a spoonful of gooey cheese, followed by a few pieces of prosciutto.",
+    "Fold the flatbread in half to enclose the filling, and press gently.",
+    "Repeat with the remaining ingredients to make more dal bites.",
+    "Place the dal bites on a baking sheet lined with parchment paper.",
+    "Bake for 10-12 minutes, or until the cheese is melted and the prosciutto is crispy.",
+    "Remove from the oven, and sprinkle with chopped cilantro and a squeeze of lemon juice.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "snack",
+    "cheese",
+    "prosciutto"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-monsoon-indian-prosciutto-dal",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T22:25:16.896Z"
+}
