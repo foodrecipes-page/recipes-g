@@ -1,0 +1,67 @@
+{
+  "slug": "garlic-basil-white-fish-bowl",
+  "title": "Baked Fish with Herbs",
+  "description": "A simple and flavorful fish dish with a Mediterranean twist, perfect for a quick weeknight dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish (4 fillets)",
+      "amount": "4",
+      "notes": "Any white fish works well, such as cod or tilapia"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Basil",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "White (olive oil)",
+      "amount": "2 tbsp",
+      "notes": "For brushing fish"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season fish with salt and pepper.",
+    "In a small bowl, mix together minced garlic and chopped basil.",
+    "Place fish on a baking sheet lined with parchment paper.",
+    "Brush fish with olive oil and sprinkle with garlic-basil mixture.",
+    "Bake for 12-15 minutes or until fish is cooked through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "herbs",
+    "mediterranean",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlic-basil-white-fish-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T16:09:43.750Z"
+}
