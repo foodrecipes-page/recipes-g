@@ -1,0 +1,64 @@
+{
+  "slug": "garlicky-filipino-bun-stir-fry",
+  "title": "Filipino-Style Garlic Bun",
+  "description": "A sweet and savory bun filled with a garlicky and herby Filipino-inspired filling. Perfect as a snack or light meal.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Garlic Bun",
+      "amount": "4",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Filipino Stir-Fry Mix",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Fry Oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing buns"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Brush the tops of the buns with fry oil and bake for 5 minutes.",
+    "In a pan, heat 1 tablespoon of oil over medium heat.",
+    "Add minced garlic and sauté for 1 minute until fragrant.",
+    "Add the Filipino stir-fry mix and cook according to package instructions.",
+    "Split the buns in half and fill with the garlicky filling.",
+    "Serve warm and enjoy!",
+    "Optional: top with chopped herbs or a drizzle of sweet chili sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "filipino",
+    "garlic",
+    "bread"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-filipino-bun-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T13:02:41.701Z"
+}
