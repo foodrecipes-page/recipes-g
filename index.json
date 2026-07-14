@@ -1347,19 +1347,14 @@
   },
   {
     "slug": "garlicky-crispy-argentinian-sausages-stew",
-    "title": "Garlicky Crispy Argentinian Sausages Stew",
+    "title": "Argentinian Sausage Stew",
     "tags": [
-      "garlicky",
-      "crispy",
-      "one-pot",
-      "halal-friendly",
-      "pressure-cooker",
       "argentinian",
-      "sausage",
+      "sausages",
       "stew"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 90,
     "shard": "g"
   },
   {
@@ -2517,19 +2512,16 @@
   },
   {
     "slug": "garlicky-french-wagyu-rillettes",
-    "title": "Garlicky French Wagyu Rillettes",
+    "title": "Wagyu French Rillettes",
     "tags": [
-      "beef",
-      "easy",
-      "entree",
       "french",
-      "grilled",
-      "rillettes",
       "wagyu",
-      "weeknight"
+      "rillettes",
+      "beef",
+      "appetizer"
     ],
     "cuisine": "French",
-    "totalTimeMin": 55,
+    "totalTimeMin": 135,
     "shard": "g"
   },
   {
@@ -5131,15 +5123,14 @@
   },
   {
     "slug": "gentle-glutinous-stroop",
-    "title": "Gentle Glutinous Stroop",
+    "title": "Glutinous Stroop Fritters",
     "tags": [
-      "gluten-free",
-      "plant-based",
-      "vegan-friendly",
-      "festive"
+      "snack",
+      "dessert",
+      "vegan-friendly"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 50,
+    "cuisine": null,
+    "totalTimeMin": 16,
     "shard": "g"
   },
   {
@@ -6868,13 +6859,12 @@
   },
   {
     "slug": "gingerly-peppery-thai-tofu-pad-thai",
-    "title": "Gingerly Peppery Thai Tofu Pad Thai",
+    "title": "Spicy Pad Thai Stir Fry",
     "tags": [
-      "diabetic-friendly",
-      "one-pan",
-      "quick-meal",
-      "spicy",
-      "thai-cuisine",
+      "pad thai",
+      "thai",
+      "stir fry",
+      "tofu",
       "vegetarian"
     ],
     "cuisine": "Thai",
@@ -9477,17 +9467,15 @@
   },
   {
     "slug": "golden-crispy-slovakian-pork-hash",
-    "title": "Golden Crispy Slovakian Pork Hash",
+    "title": "Slovakian Hash Browns with Crispy Pork",
     "tags": [
-      "brunch-ideas",
-      "diabetic-friendly",
-      "easy-meals",
-      "gluten-free",
-      "pork-recipes",
-      "slovakian-cuisine"
+      "breakfast",
+      "pork",
+      "hash-browns",
+      "slovakian"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {
@@ -13306,16 +13294,14 @@
   },
   {
     "slug": "grassy-char-grill-yang-algerian-minari-grill",
-    "title": "Grassy Char-grill-yang Algerian Minari Grill",
+    "title": "Grilled Char with Algerian Spices",
     "tags": [
-      "algerian-cuisine",
-      "grilled-meat",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "grilled",
+      "seafood",
+      "algerian"
     ],
     "cuisine": "algerian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 22,
     "shard": "g"
   },
   {
