@@ -2131,17 +2131,15 @@
   },
   {
     "slug": "garlicky-filipino-bun-stir-fry",
-    "title": "Garlicky Filipino Bun Stir-fry",
+    "title": "Filipino-Style Garlic Bun",
     "tags": [
-      "garlicky",
-      "crispy",
-      "light",
+      "snack",
       "filipino",
-      "bun",
-      "smoke"
+      "garlic",
+      "bread"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 13,
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
@@ -2869,18 +2867,15 @@
   },
   {
     "slug": "garlicky-indulgent-saudi-arabian-lamb-agemono",
-    "title": "Garlicky Indulgent Saudi-Arabian Lamb Agemono",
+    "title": "Saudi Arabian Lamb Agemono",
     "tags": [
-      "deep-fried",
-      "high-protein",
-      "hojicha",
+      "saudi arabian",
       "lamb",
-      "one-pan",
-      "saudi-arabian",
-      "weeknight"
+      "rice",
+      "agemono"
     ],
-    "cuisine": "Saudi-Arabian",
-    "totalTimeMin": 42,
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 125,
     "shard": "g"
   },
   {
