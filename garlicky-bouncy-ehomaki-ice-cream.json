@@ -1,0 +1,64 @@
+{
+  "slug": "garlicky-bouncy-ehomaki-ice-cream",
+  "title": "Creamy Garlicky Ehomaki",
+  "description": "A creative dessert where the flavors of garlicky and creamy come together with the crunch of ehomaki. Perfect for adventurous eaters.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ehomaki",
+      "amount": "1 cup (crushed)",
+      "notes": null
+    },
+    {
+      "name": "garlicky",
+      "amount": "1/2 cup (chopped)",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "ice",
+      "amount": "1/2 cup (crushed)",
+      "notes": "for texture"
+    },
+    {
+      "name": "cream",
+      "amount": "1 cup",
+      "notes": "dairy-free for vegan option"
+    }
+  ],
+  "instructions": [
+    "Preheat ice cream maker according to manufacturer's instructions.",
+    "Combine crushed ehomaki, chopped garlicky, and crushed ice in a bowl.",
+    "Mix well until ingredients are evenly distributed.",
+    "Add cream and mix until well combined.",
+    "Churn mixture in ice cream maker according to manufacturer's instructions.",
+    "Transfer churned mixture to an airtight container and place in freezer.",
+    "Freeze for at least 2 hours.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 120,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "ice-cream",
+    "ehomaki",
+    "garlicky"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-bouncy-ehomaki-ice-cream",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T05:15:42.370Z"
+}
