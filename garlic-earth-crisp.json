@@ -1,0 +1,73 @@
+{
+  "slug": "garlic-earth-crisp",
+  "title": "Crisp Garlic Fritters",
+  "description": "A simple fritter recipe that combines the flavors of garlic and crisp. A perfect snack to enjoy with a cup of coffee or tea.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cold water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "crisp",
+      "amount": "1 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the flour, baking powder, and salt.",
+    "Add the minced garlic and chopped crisp to the bowl.",
+    "Gradually add the cold water to the bowl, stirring with a fork until the dough comes together.",
+    "Turn the dough out onto a floured surface and knead for 2-3 minutes until smooth.",
+    "Heat a non-stick skillet or frying pan over medium-high heat.",
+    "Using a cookie scoop or spoon, drop rounded balls of dough into the pan.",
+    "Cook the fritters for 2-3 minutes on each side, until golden brown and crispy.",
+    "Serve hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlic",
+    "snack",
+    "fritters",
+    "crunchy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlic-earth-crisp",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T01:30:53.621Z"
+}
