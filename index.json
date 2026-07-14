@@ -2112,19 +2112,16 @@
   },
   {
     "slug": "garlicky-fiery-australian-lamb-burger",
-    "title": "Garlicky Fiery Australian Lamb Burger",
+    "title": "Lamb Burger with Australian Flair",
     "tags": [
-      "australian",
-      "burger",
-      "gluten-free",
-      "high-protein",
       "lamb",
-      "one-pan",
-      "paleo",
-      "weeknight"
+      "burger",
+      "australian",
+      "garlicky",
+      "fiery"
     ],
-    "cuisine": "australian",
-    "totalTimeMin": 27,
+    "cuisine": "Australian",
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
