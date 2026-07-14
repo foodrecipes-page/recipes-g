@@ -1,0 +1,64 @@
+{
+  "slug": "gooey-kenyan-garlic-stir-fry",
+  "title": "Kenyan-Style Stir Fry",
+  "description": "A flavorful Kenyan-inspired stir fry dish made with a variety of vegetables and spices. This recipe is perfect for a quick and easy weeknight dinner.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "stir-fry sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "kenyan spices",
+      "amount": "1 teaspoon",
+      "notes": "Kenyan curry powder or similar"
+    },
+    {
+      "name": "frozen vegetables",
+      "amount": "1 cup",
+      "notes": "such as broccoli, carrots, bell peppers"
+    },
+    {
+      "name": "fryer oil",
+      "amount": "1 tablespoon",
+      "notes": "use for stir-frying"
+    }
+  ],
+  "instructions": [
+    "Heat the fryer oil in a large skillet or wok over medium-high heat.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the frozen vegetables and cook until they start to thaw.",
+    "Pour in the stir-fry sauce and add the Kenyan spices.",
+    "Stir everything together and continue to cook for an additional 2-3 minutes, until the vegetables are tender.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-kenyan-garlic-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T00:24:09.153Z"
+}
