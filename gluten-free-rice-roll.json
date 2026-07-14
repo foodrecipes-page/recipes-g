@@ -1,0 +1,69 @@
+{
+  "slug": "gluten-free-rice-roll",
+  "title": "Gluten-Free Rice Roll",
+  "description": "A simple and delicious gluten-free dish made with rice and a few other ingredients.",
+  "cuisine": "Asian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Gluten-free rice flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Optional: sesame seeds or chopped scallions for garnish",
+      "amount": "",
+      "notes": "adds extra flavor and texture"
+    }
+  ],
+  "instructions": [
+    "1. Rinse the rice and soak it in water for at least 30 minutes.",
+    "2. Drain the water and mix the rice with gluten-free rice flour in a bowl.",
+    "3. Gradually add in water and mix until a sticky dough forms.",
+    "4. Knead the dough for about 10 minutes until it becomes smooth and pliable.",
+    "5. Divide the dough into 4-6 equal pieces, depending on how large you want your rolls to be.",
+    "6. Roll each piece into a thin circle, about 1/8 inch thick.",
+    "7. Heat a non-stick pan or a cast-iron skillet over medium heat.",
+    "8. Brush the pan with a little vegetable oil and place a rolled circle in the pan.",
+    "9. Cook the roll for about 2-3 minutes on each side, until it is lightly browned and crispy.",
+    "10. Repeat with the remaining dough and serve the rolls warm with your favorite fillings."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "rice-roll",
+    "asian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 1
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gluten-free-rice-roll",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T03:28:55.569Z"
+}
