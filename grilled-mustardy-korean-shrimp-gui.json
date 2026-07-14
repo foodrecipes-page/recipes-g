@@ -1,0 +1,71 @@
+{
+  "slug": "grilled-mustardy-korean-shrimp-gui",
+  "title": "Korean-Style Grilled Shrimp Skewers",
+  "description": "A flavorful and spicy Korean-inspired dish featuring marinated shrimp grilled to perfection.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Large Shrimp",
+      "amount": "1 pound, peeled and deveined"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Ginger, grated",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together gochujang, brown sugar, rice vinegar, ginger, and garlic.",
+    "Add the shrimp to the marinade and toss to coat.",
+    "Thread the marinated shrimp onto skewers.",
+    "Brush the grill with sesame oil to prevent sticking.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the shrimp are pink and cooked through.",
+    "Serve immediately, garnished with toasted sesame seeds and chopped green onions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "mustardy",
+    "korean",
+    "shrimp"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grilled-mustardy-korean-shrimp-gui",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T11:28:09.718Z"
+}
