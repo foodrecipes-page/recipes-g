@@ -1,0 +1,74 @@
+{
+  "slug": "garlicky-french-wagyu-rillettes",
+  "title": "Wagyu French Rillettes",
+  "description": "A rich and indulgent French-inspired dish featuring tender wagyu meat in a garlicky rillettes sauce.",
+  "cuisine": "French",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wagyu beef, thinly sliced",
+      "amount": "250g",
+      "notes": "Choose a high-quality wagyu beef for optimal flavor and tenderness."
+    },
+    {
+      "name": "Garlicky rillettes sauce",
+      "amount": "120ml",
+      "notes": "Homemade or store-bought, adjust to taste."
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "2 sprigs",
+      "notes": "For garnish and flavor enhancement."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Use high-quality flaky sea salt for added texture and flavor."
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "to taste",
+      "notes": "Adjust to suit your personal taste."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "30ml",
+      "notes": "For cooking and finishing."
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 150°C (300°F).",
+    "Season the wagyu beef with salt and black pepper, then sear in a hot pan with olive oil until browned.",
+    "Transfer the beef to a baking dish and cover with foil. Roast in the oven for 2 hours, or until tender and easily shredded.",
+    "While the beef is cooking, heat the garlicky rillettes sauce in a separate pan over low heat.",
+    "Once the beef is cooked, shred it into bite-sized pieces and add to the rillettes sauce. Stir to combine.",
+    "Taste and adjust seasoning as needed.",
+    "Serve the wagyu rillettes in individual portions, garnished with fresh thyme and a drizzle of olive oil.",
+    "Optional: Serve with toasted bread or crackers for a satisfying snack or light meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "french",
+    "wagyu",
+    "rillettes",
+    "beef",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "35g",
+    "carbs": "10g",
+    "fat": "35g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-french-wagyu-rillettes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T09:55:33.743Z"
+}
