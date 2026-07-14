@@ -1,0 +1,105 @@
+{
+  "slug": "gamey-smoky-ethiopian-lamb-stew",
+  "title": "Smoky Ethiopian Lamb Stew",
+  "description": "A hearty and flavorful stew from Ethiopia, featuring tender lamb and a rich, smoky spice blend.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "trimmed of excess fat"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Smoky spice blend",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Gamey berbere spice",
+      "amount": "1 tablespoon",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add lamb and cook until browned on all sides, about 5 minutes.",
+    "Remove lamb from pot and set aside.",
+    "Reduce heat to medium and add onion, ginger, and garlic.",
+    "Cook, stirring occasionally, until onion is softened and lightly browned, about 8 minutes.",
+    "Stir in smoky spice blend and gamey berbere spice.",
+    "Cook for 1 minute.",
+    "Add tomato paste (if using) and cook for 1 minute.",
+    "Add red wine (if using) and cook until reduced by half, about 2 minutes.",
+    "Add water and browned lamb back to pot.",
+    "Bring to a boil, then cover and transfer to oven.",
+    "Bake at 300°F for 2 1/2 hours, or until lamb is tender.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stew",
+    "ethiopian",
+    "smoky",
+    "gamey"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gamey-smoky-ethiopian-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T05:13:30.247Z"
+}
