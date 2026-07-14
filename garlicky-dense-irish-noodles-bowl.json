@@ -1,0 +1,89 @@
+{
+  "slug": "garlicky-dense-irish-noodles-bowl",
+  "title": "Creamy Irish Noodle Bowl",
+  "description": "A comforting and creamy noodle bowl dish inspired by Irish cuisine, perfect for a cold night.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "garlicky noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "dense Irish cheddar",
+      "amount": "1 cup shredded",
+      "notes": ""
+    },
+    {
+      "name": "cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped irish parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "4 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the garlicky noodles according to the package instructions.",
+    "In a saucepan, melt 2 tablespoons of butter over medium heat.",
+    "Add the flour and whisk to create a roux. Cook for 1 minute.",
+    "Slowly pour in the milk, whisking continuously. Bring the mixture to a simmer.",
+    "Reduce the heat to low and let it cook for 2-3 minutes or until it thickens.",
+    "Remove the sauce from the heat and stir in the cream and shredded cheese.",
+    "Season the sauce with salt and pepper to taste.",
+    "Add the cooked noodles to the sauce and stir until well coated.",
+    "Transfer the noodle mixture to a serving bowl.",
+    "Garnish with chopped irish parsley and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "irish-noodle-bowl",
+    "comfort-food",
+    "creamy-sauce"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-dense-irish-noodles-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T10:39:38.145Z"
+}
