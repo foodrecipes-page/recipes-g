@@ -1,0 +1,65 @@
+{
+  "slug": "gluten-free-frankfurter-delight",
+  "title": "Frankfurter Delight",
+  "description": "A tasty and easy to make hot dog dish. Perfect for a quick snack or meal.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Frankfurter",
+      "amount": "4-6",
+      "notes": null
+    },
+    {
+      "name": "Delight",
+      "amount": "1 cup",
+      "notes": "any type of topping, such as cheese, onions, or chili"
+    },
+    {
+      "name": "Buns",
+      "amount": "4-6",
+      "notes": "gluten-free buns recommended"
+    },
+    {
+      "name": "Condiments",
+      "amount": "as needed",
+      "notes": "ketchup, mustard, or any other desired condiments"
+    },
+    {
+      "name": "Sliced Onions",
+      "amount": "as needed",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Cook the Frankfurters according to the package instructions.",
+    "While the Frankfurters are cooking, toast the buns on the grill or in a toaster.",
+    "Assemble the hot dogs by placing a cooked Frankfurter in each bun.",
+    "Add desired toppings and condiments to each hot dog.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "hot-dog",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gluten-free-frankfurter-delight",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T20:55:55.630Z"
+}
