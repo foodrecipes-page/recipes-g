@@ -28,17 +28,16 @@
   },
   {
     "slug": "gamey-smoky-ethiopian-lamb-stew",
-    "title": "Gamey Smoky Ethiopian Lamb Stew",
+    "title": "Smoky Ethiopian Lamb Stew",
     "tags": [
-      "comfort-food",
-      "game-meat",
-      "hearty",
-      "one-pot",
-      "slow-cooker",
-      "spicy"
+      "lamb",
+      "stew",
+      "ethiopian",
+      "smoky",
+      "gamey"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 180,
+    "totalTimeMin": 170,
     "shard": "g"
   },
   {
@@ -805,17 +804,15 @@
   },
   {
     "slug": "garlicky-bouncy-ehomaki-ice-cream",
-    "title": "Garlicky Bouncy Ehomaki Ice Cream",
+    "title": "Creamy Garlicky Ehomaki",
     "tags": [
+      "dessert",
+      "ice-cream",
       "ehomaki",
-      "festival-friendly",
-      "fried-ingredients",
-      "japanese-eggs",
-      "rice-ball-inspired",
-      "spicy"
+      "garlicky"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 120,
     "shard": "g"
   },
   {
