@@ -1,0 +1,84 @@
+{
+  "slug": "gingerly-peppery-thai-tofu-pad-thai",
+  "title": "Spicy Pad Thai Stir Fry",
+  "description": "A classic Thai stir fry made with crispy tofu and a spicy sauce. Quick and easy to make, perfect for a weeknight dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Gingerly Sauce",
+      "amount": "2 tbsp",
+      "notes": "available in most grocery stores"
+    },
+    {
+      "name": "Peppery Oyster Sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Thai Rice Noodles",
+      "amount": "1 package (8 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Thai Basil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to package instructions and set aside.",
+    "Cut the tofu into small cubes and pan-fry until golden brown.",
+    "In a separate pan, heat the vegetable oil over medium-high heat.",
+    "Add the gingerly sauce, peppery oyster sauce, soy sauce, and sugar. Stir well.",
+    "Add the Thai basil and stir-fry for 1 minute.",
+    "Add the cooked noodles and tofu to the pan and stir-fry for 2-3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pad thai",
+    "thai",
+    "stir fry",
+    "tofu",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gingerly-peppery-thai-tofu-pad-thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T09:55:43.985Z"
+}
