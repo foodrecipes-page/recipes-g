@@ -1,0 +1,70 @@
+{
+  "slug": "gentle-glutinous-stroop",
+  "title": "Glutinous Stroop Fritters",
+  "description": "Crunchy fritters filled with a sweet, sticky stroop core, using glutinous rice flour for added texture.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Glutinous rice flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Stroop",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Gentle vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together glutinous rice flour and sugar.",
+    "2. In a separate bowl, whisk together egg, stroop, and vanilla extract.",
+    "3. Add the wet ingredients to the dry ingredients and mix until a dough forms.",
+    "4. Heat 1/2 cup of gentle vegetable oil in a large pan over medium heat.",
+    "5. Using a spoon, drop small balls of dough into the oil and flatten slightly.",
+    "6. Cook for 2-3 minutes on each side, or until golden brown.",
+    "7. Remove fritters from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "8. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 16,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "snack",
+    "dessert",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gentle-glutinous-stroop",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T10:54:50.258Z"
+}
