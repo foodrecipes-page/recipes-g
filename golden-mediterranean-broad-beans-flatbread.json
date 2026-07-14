@@ -1,0 +1,76 @@
+{
+  "slug": "golden-mediterranean-broad-beans-flatbread",
+  "title": "Mediterranean Bean Flatbread",
+  "description": "A flavorful flatbread topped with beans, inspired by the Mediterranean diet.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "2 pieces",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "Golden beans",
+      "amount": "1/2 cup, cooked",
+      "notes": "canned or cooked from scratch"
+    },
+    {
+      "name": "Mediterranean beans",
+      "amount": "1/4 cup, drained and rinsed",
+      "notes": "canned"
+    },
+    {
+      "name": "Broad beans",
+      "amount": "1/4 cup, sliced",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "2 tablespoons, chopped",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Brush the flatbread with olive oil and season with salt.",
+    "Spread the golden beans over the flatbread, leaving a 1-inch border.",
+    "Top with Mediterranean beans and sliced broad beans.",
+    "Bake in the preheated oven for 10-12 minutes, or until the flatbread is crispy.",
+    "Remove from the oven and sprinkle with chopped parsley, if using.",
+    "Cut into slices and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "vegetarian",
+    "flatbread",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-mediterranean-broad-beans-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T07:18:52.974Z"
+}
