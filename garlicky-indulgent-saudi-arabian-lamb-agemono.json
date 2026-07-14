@@ -1,0 +1,77 @@
+{
+  "slug": "garlicky-indulgent-saudi-arabian-lamb-agemono",
+  "title": "Saudi Arabian Lamb Agemono",
+  "description": "A traditional Saudi Arabian dish made with tender lamb and crispy onions, served with a side of flavorful rice.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1.5 pounds",
+      "notes": "Boneless lamb shoulder or leg"
+    },
+    {
+      "name": "Garlicky Onion",
+      "amount": "2 medium onions",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Indulgent Rice",
+      "amount": "2 cups",
+      "notes": "Long-grain white rice"
+    },
+    {
+      "name": "Sauteed Spices",
+      "amount": "2 tablespoons",
+      "notes": "Blend of cumin, coriander, and turmeric"
+    },
+    {
+      "name": "Salt and Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Agemono",
+      "amount": "2 tablespoons",
+      "notes": "Arabian-style crispy onions"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": "For frying"
+    }
+  ],
+  "instructions": [
+    "Brown the lamb in a large pan over medium heat.",
+    "Add sauteed spices and cook for 1 minute.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat and simmer for 1.5 hours or until the lamb is tender.",
+    "Prepare the indulgent rice according to package instructions.",
+    "Heat 1 tablespoon of vegetable oil in a pan and fry the thinly sliced onions until crispy.",
+    "Serve the lamb on top of the rice with a side of agemono and garnish with fresh parsley.",
+    "Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 105,
+  "totalTimeMin": 125,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi arabian",
+    "lamb",
+    "rice",
+    "agemono"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 35,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-indulgent-saudi-arabian-lamb-agemono",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T11:49:04.939Z"
+}
