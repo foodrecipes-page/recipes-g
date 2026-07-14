@@ -1,0 +1,97 @@
+{
+  "slug": "garlicky-fiery-australian-lamb-burger",
+  "title": "Lamb Burger with Australian Flair",
+  "description": "A flavorful lamb burger infused with the essence of Australia, featuring a garlicky and fiery kick. Perfect for a unique dinner experience.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb patty",
+      "amount": "4",
+      "notes": "Freshly ground lamb"
+    },
+    {
+      "name": "Australian bush tomato chutney",
+      "amount": "2 tbsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Garlicky aioli",
+      "amount": "2 tbsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Fiery slaw",
+      "amount": "1 cup",
+      "notes": "Made with red cabbage, carrot, and a drizzle of chili oil"
+    },
+    {
+      "name": "Burger buns",
+      "amount": "4",
+      "notes": "Whole wheat or gluten-free"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Australian bush herbs",
+      "amount": "1 tsp",
+      "notes": "Dried or fresh"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Form the lamb patty and season with salt, pepper, and Australian bush herbs.",
+    "Grill the lamb patty for 4-5 minutes per side, or until cooked to your desired level of doneness.",
+    "Meanwhile, toast the burger buns on the grill or in a toaster.",
+    "Spread a layer of garlicky aioli on the bottom bun.",
+    "Add a few slices of red onion, a lettuce leaf, and a tomato slice on top of the aioli.",
+    "Place the grilled lamb patty on top of the vegetables.",
+    "Add a dollop of Australian bush tomato chutney on top of the lamb patty.",
+    "Drizzle the fiery slaw over the chutney.",
+    "Top with the top bun.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "burger",
+    "australian",
+    "garlicky",
+    "fiery"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-fiery-australian-lamb-burger",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T16:50:22.753Z"
+}
