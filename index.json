@@ -1990,17 +1990,14 @@
   },
   {
     "slug": "garlicky-dense-irish-noodles-bowl",
-    "title": "Garlicky Dense Irish Noodles Bowl",
+    "title": "Creamy Irish Noodle Bowl",
     "tags": [
+      "irish-noodle-bowl",
       "comfort-food",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "creamy-sauce"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 25,
+    "totalTimeMin": 20,
     "shard": "g"
   },
   {
@@ -12898,16 +12895,15 @@
   },
   {
     "slug": "gourmet-adventurous-mediterranean-dish-puff",
-    "title": "Pungent Mediterranean Puff",
+    "title": "Puff Pastry Mediterranean Tart",
     "tags": [
-      "adventurous",
       "mediterranean",
-      "one-pan",
-      "pastries",
-      "seafood"
+      "vegetarian",
+      "pastry",
+      "tart"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 55,
+    "totalTimeMin": 45,
     "shard": "g"
   },
   {
