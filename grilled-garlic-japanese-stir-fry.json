@@ -1,0 +1,63 @@
+{
+  "slug": "grilled-garlic-japanese-stir-fry",
+  "title": "Grilled Garlic Stir Fry",
+  "description": "A quick and flavorful stir fry made with grilled garlic and your favorite Japanese ingredients.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Grilled Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Bok choy",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Shiitake mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a wok or large skillet over medium-high heat.",
+    "Add grilled garlic and stir-fry for 1 minute.",
+    "Add bok choy and shiitake mushrooms, and stir-fry for 2-3 minutes.",
+    "Add soy sauce and ginger, and stir-fry for an additional minute.",
+    "Cook to desired doneness.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled-garlic",
+    "japanese-stir-fry"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grilled-garlic-japanese-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T23:05:29.198Z"
+}
