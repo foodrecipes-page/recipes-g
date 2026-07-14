@@ -1,0 +1,78 @@
+{
+  "slug": "gentle-silky-chinese-noodles-chow-fun",
+  "title": "Simplified Chow Fun Stir Fry",
+  "description": "A quick and easy Chinese-inspired stir fry dish made with fun noodles, vegetables, and a flavorful sauce.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fun noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Gentle cabbage",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Silky carrots",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Chow sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cook the fun noodles according to package instructions.",
+    "Heat 1 tablespoon of oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced cabbage and carrots and cook until they start to soften.",
+    "Add the cooked noodles to the skillet and stir in the chow sauce, soy sauce, and rice vinegar.",
+    "Season with salt and pepper to taste.",
+    "Continue cooking for 2-3 minutes, until the noodles are well coated with the sauce.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "noodles",
+    "vegetarian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gentle-silky-chinese-noodles-chow-fun",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T20:55:45.848Z"
+}
