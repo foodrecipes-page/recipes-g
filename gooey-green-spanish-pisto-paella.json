@@ -1,0 +1,84 @@
+{
+  "slug": "gooey-green-spanish-pisto-paella",
+  "title": "Spanish Paella with Pisto",
+  "description": "A classic Spanish dish featuring saffron-infused rice, savory paella, and a flavorful pisto salsa.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Spanish paella rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Gooey mozzarella",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Green bell pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Pisto salsa",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of olive oil in a large skillet over medium-high heat.",
+    "Add the diced green bell pepper and cook until tender, about 3-4 minutes.",
+    "Add the Spanish paella rice and cook, stirring constantly, for 1-2 minutes.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15-20 minutes or until the rice is cooked.",
+    "Stir in the smoked paprika and cook for an additional minute.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the paella to a serving dish and top with gooey mozzarella cheese.",
+    "Drizzle with pisto salsa and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "vegetarian",
+    "paella",
+    "pisto"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-green-spanish-pisto-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T19:42:02.578Z"
+}
