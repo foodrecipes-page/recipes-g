@@ -2748,18 +2748,14 @@
   },
   {
     "slug": "garlicky-gooey-russian-gouda-casserole",
-    "title": "Garlicky Gooey Russian Gouda Casserole",
+    "title": "Gooey Russian Gouda Casserole",
     "tags": [
-      "fodmap-friendly",
-      "vegan-friendly",
-      "cheesy",
-      "casserole",
-      "quick",
       "comfort-food",
-      "russian-cuisine"
+      "cheesy",
+      "russian"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
@@ -7800,18 +7796,15 @@
   },
   {
     "slug": "glistening-dehydrated-malaysian-noodles-bowl",
-    "title": "Glistening Dehydrated Malaysian Noodles Bowl",
+    "title": "Spicy Malaysian Noodle Bowl",
     "tags": [
-      "ayurvedic",
-      "dehydrated",
-      "meal-prep",
-      "rajasic",
-      "silky",
-      "umami",
-      "vegan"
+      "noodles",
+      "malaysian",
+      "spicy",
+      "vegetarian"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 50,
+    "cuisine": "malaysian",
+    "totalTimeMin": 20,
     "shard": "g"
   },
   {
@@ -11741,15 +11734,14 @@
   },
   {
     "slug": "gooey-kenyan-garlic-stir-fry",
-    "title": "Gooey Kenyan Garlic Stir-fry",
+    "title": "Kenyan-Style Stir Fry",
     "tags": [
+      "kenyan",
       "stir-fry",
-      "garlic",
-      "pineapple",
-      "kenyan"
+      "vegetarian"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 20,
     "shard": "g"
   },
   {
@@ -14267,16 +14259,13 @@
   },
   {
     "slug": "grilled-garlic-japanese-stir-fry",
-    "title": "Grilled Garlic Japanese Stir-fry",
+    "title": "Grilled Garlic Stir Fry",
     "tags": [
-      "garlicky",
-      "crisp",
-      "indulgent",
-      "japanese",
-      "stir-fry"
+      "grilled-garlic",
+      "japanese-stir-fry"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 30,
+    "totalTimeMin": 13,
     "shard": "g"
   },
   {
