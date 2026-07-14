@@ -5315,17 +5315,16 @@
   },
   {
     "slug": "gentle-silky-chinese-noodles-chow-fun",
-    "title": "Gentle Silky Chinese Noodles Chow Fun",
+    "title": "Simplified Chow Fun Stir Fry",
     "tags": [
-      "chinese-food",
-      "lazy-sunday",
-      "noodle-dish",
-      "one-pot",
-      "satvik-friendly",
-      "vegetarian"
+      "chinese",
+      "stir-fry",
+      "noodles",
+      "vegetarian",
+      "vegan"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 25,
+    "totalTimeMin": 18,
     "shard": "g"
   },
   {
@@ -8702,15 +8701,14 @@
   },
   {
     "slug": "gluten-free-frankfurter-delight",
-    "title": "Gluten-Free Frankfurter Delight",
+    "title": "Frankfurter Delight",
     "tags": [
-      "sweet",
-      "fluffy",
-      "indulgent",
-      "egyptian"
+      "gluten-free",
+      "hot-dog",
+      "quick-meal"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 50,
+    "cuisine": null,
+    "totalTimeMin": 15,
     "shard": "g"
   },
   {
@@ -11524,17 +11522,15 @@
   },
   {
     "slug": "gooey-green-spanish-pisto-paella",
-    "title": "Gooey Green Spanish Pisto Paella",
+    "title": "Spanish Paella with Pisto",
     "tags": [
-      "catalan",
-      "comfort-food",
-      "easy-dinner",
-      "one-pan",
       "spanish",
-      "weeknight"
+      "vegetarian",
+      "paella",
+      "pisto"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "g"
   },
   {
@@ -14344,15 +14340,15 @@
   },
   {
     "slug": "grilled-japanese-baby-aubergine-stir-fry",
-    "title": "Grilled Japanese Baby Aubergine Stir-fry",
+    "title": "Grilled Aubergine Stir Fry",
     "tags": [
       "grilled",
+      "japanese",
       "aubergine",
-      "stir-fry",
-      "low-carb"
+      "stirfry"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
