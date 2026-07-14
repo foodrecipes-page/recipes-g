@@ -1,0 +1,76 @@
+{
+  "slug": "golden-crispy-slovakian-pork-hash",
+  "title": "Slovakian Hash Browns with Crispy Pork",
+  "description": "A hearty breakfast dish featuring crispy pork and Slovakian hash browns.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "meat",
+    "breakfast"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Golden hash browns",
+      "amount": "2 cups",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Slovakian paprika",
+      "amount": "1 tablespoon",
+      "notes": "Add a traditional Slovakian flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Eggs",
+      "amount": "4",
+      "notes": "Beaten for egg wash"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Season the pork cubes with salt, pepper, and Slovakian paprika.",
+    "3. In a separate bowl, mix the beaten eggs with a splash of water.",
+    "4. Dip each pork cube into the egg wash, coating it evenly.",
+    "5. Heat a large skillet over medium-high heat. Add a small amount of oil to prevent sticking.",
+    "6. Sear the pork cubes until golden brown on all sides, about 5 minutes per side.",
+    "7. Transfer the pork to a baking sheet lined with parchment paper.",
+    "8. Spread the store-bought or homemade hash browns on top of the pork, forming a layer.",
+    "9. Bake in the preheated oven for 20-25 minutes, or until the hash browns are crispy and golden brown.",
+    "10. Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "pork",
+    "hash-browns",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-crispy-slovakian-pork-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T10:35:02.179Z"
+}
