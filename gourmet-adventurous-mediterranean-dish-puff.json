@@ -1,0 +1,84 @@
+{
+  "slug": "gourmet-adventurous-mediterranean-dish-puff",
+  "title": "Puff Pastry Mediterranean Tart",
+  "description": "A savory tart filled with Mediterranean flavors, featuring puff pastry, feta cheese, and sun-dried tomatoes.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Puff Pastry",
+      "amount": "1 sheet (thawed)",
+      "notes": ""
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "1/2 cup (crumbly)",
+      "notes": ""
+    },
+    {
+      "name": "Sun-dried Tomatoes",
+      "amount": "1/4 cup (dried)",
+      "notes": ""
+    },
+    {
+      "name": "Kalamata Olives",
+      "amount": "1/4 cup (pitted)",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup (chopped)",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out puff pastry to a thickness of about 1/8 inch.",
+    "Transfer the pastry to a 9-inch tart pan with a removable bottom.",
+    "In a small bowl, mix together feta cheese, sun-dried tomatoes, olives, parsley, garlic, salt, and pepper.",
+    "Spread the cheese mixture evenly over the center of the pastry, leaving a 1-inch border around the edges.",
+    "Fold the edges of the pastry up over the filling, pressing gently to seal.",
+    "Brush the pastry with a little water and sprinkle with a bit of sugar.",
+    "Bake for 25-30 minutes, or until the pastry is golden brown.",
+    "Let the tart cool for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "vegetarian",
+    "pastry",
+    "tart"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 14,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gourmet-adventurous-mediterranean-dish-puff",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T10:19:32.220Z"
+}
