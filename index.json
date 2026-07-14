@@ -5669,17 +5669,16 @@
   },
   {
     "slug": "gently-citrusy-italian-buckwheat-amatriciana",
-    "title": "Gently Citrusy Italian Buckwheat Amatriciana",
+    "title": "Italian-Style Buckwheat Pancakes with Amatriciana Sauce",
     "tags": [
-      "buckwheat-recipes",
-      "cataplana-cooking",
-      "italian-food",
-      "macrobiotic-diet",
-      "one-pot",
-      "vegetarian-meals"
+      "italian",
+      "breakfast",
+      "brunch",
+      "buckwheat",
+      "pancakes"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 40,
+    "cuisine": "italian",
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
@@ -7670,16 +7669,14 @@
   },
   {
     "slug": "glazed-silky-rich-american-poultry-bake",
-    "title": "Glazed Silky Rich American Poultry Bake",
+    "title": "American Poultry Bake",
     "tags": [
-      "easy-to-make",
-      "gluten-free",
-      "high-protein",
-      "one-pot",
-      "weeknight"
+      "american",
+      "bake",
+      "chicken"
     ],
     "cuisine": "American",
-    "totalTimeMin": 45,
+    "totalTimeMin": 50,
     "shard": "g"
   },
   {
