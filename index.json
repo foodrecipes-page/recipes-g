@@ -184,15 +184,15 @@
   },
   {
     "slug": "garlic-basil-white-fish-bowl",
-    "title": "Garlic Basil White Fish Bowl",
+    "title": "Baked Fish with Herbs",
     "tags": [
-      "garlic",
-      "basil",
-      "white fish",
-      "tunisian"
+      "fish",
+      "herbs",
+      "mediterranean",
+      "easy"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 25,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 22,
     "shard": "g"
   },
   {
@@ -912,14 +912,12 @@
   },
   {
     "slug": "garlicky-canadian-seafood-chowder",
-    "title": "Garlicky Canadian Seafood Chowder",
+    "title": "Canadian Seafood Chowder",
     "tags": [
       "seafood",
       "chowder",
-      "keto",
       "canadian",
-      "garlic",
-      "crunchy"
+      "comfort-food"
     ],
     "cuisine": "Canadian",
     "totalTimeMin": 35,
@@ -5308,17 +5306,14 @@
   },
   {
     "slug": "gentle-silky-argentinian-seitan-stew",
-    "title": "Gentle Silky Argentinian Seitan Stew",
+    "title": "Argentinian Seitan Stew",
     "tags": [
-      "argentinian",
-      "comfort-food",
-      "plant-based",
-      "seitan",
       "stew",
-      "vegan-friendly"
+      "vegetarian",
+      "argentinian"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 45,
     "shard": "g"
   },
   {
