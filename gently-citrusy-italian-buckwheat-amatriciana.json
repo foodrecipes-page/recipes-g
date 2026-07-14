@@ -1,0 +1,75 @@
+{
+  "slug": "gently-citrusy-italian-buckwheat-amatriciana",
+  "title": "Italian-Style Buckwheat Pancakes with Amatriciana Sauce",
+  "description": "A twist on traditional buckwheat pancakes, served with a tangy amatriciana sauce. Perfect for a savory breakfast or brunch.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "buckwheat flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "almond milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "guanciale or bacon",
+      "amount": "4 slices"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together buckwheat flour, eggs, almond milk, and a pinch of salt.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Using a 1/4 cup measuring cup, scoop the batter onto the skillet.",
+    "Cook the pancakes for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "Flip the pancakes and cook for another 1-2 minutes, until golden brown.",
+    "While the pancakes are cooking, heat the olive oil in a small saucepan over medium heat.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the diced tomatoes and cook for 2-3 minutes, until they start to break down.",
+    "Crumble the guanciale or bacon into the saucepan and cook for another minute.",
+    "Serve the pancakes with the amatriciana sauce spooned over the top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "breakfast",
+    "brunch",
+    "buckwheat",
+    "pancakes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gently-citrusy-italian-buckwheat-amatriciana",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T22:39:23.709Z"
+}
