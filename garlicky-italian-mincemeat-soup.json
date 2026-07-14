@@ -1,0 +1,85 @@
+{
+  "slug": "garlicky-italian-mincemeat-soup",
+  "title": "Italian Meatball Soup",
+  "description": "A hearty Italian-inspired soup filled with garlicky meatballs and savory vegetables.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Italian mincemeat",
+      "amount": "1 lb"
+    },
+    {
+      "name": "garlicky soup mix",
+      "amount": "1 package"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion, carrots, and celery. Cook until the vegetables are tender, about 5 minutes.",
+    "Add the Italian mincemeat and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the garlicky soup mix and cook for 1 minute.",
+    "Add the canned diced tomatoes, salt, and black pepper. Stir to combine.",
+    "Bring the soup to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Serve the soup hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "soup",
+    "meatballs"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-italian-mincemeat-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T08:08:49.588Z"
+}
