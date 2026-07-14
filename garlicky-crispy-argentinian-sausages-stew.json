@@ -1,0 +1,92 @@
+{
+  "slug": "garlicky-crispy-argentinian-sausages-stew",
+  "title": "Argentinian Sausage Stew",
+  "description": "A hearty and flavorful stew originating from Argentina, made with garlicky sausages and crispy vegetables.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Garlicky Sausages",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Crispy Onions",
+      "amount": "1 large onion, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Argentinian Stew Meat",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Worcestershire Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Red Wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add sliced onions and cook until crispy, about 5 minutes.",
+    "Add garlicky sausages and cook until browned, about 5 minutes.",
+    "Add Argentinian stew meat and cook until browned, about 5 minutes.",
+    "Add garlic, chili flakes, Worcestershire sauce, and tomato paste. Cook for 1 minute.",
+    "Add red wine and beef broth. Bring to a boil, then reduce heat to low and simmer for 1 hour.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with crispy onions and garlicky sausages."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "sausages",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-crispy-argentinian-sausages-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T09:53:10.900Z"
+}
