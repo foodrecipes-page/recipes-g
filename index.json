@@ -2943,20 +2943,14 @@
   },
   {
     "slug": "garlicky-italian-mincemeat-soup",
-    "title": "Garlicky Italian Mincemeat Soup",
+    "title": "Italian Meatball Soup",
     "tags": [
-      "garlicky",
-      "sick-day",
-      "high-protein",
-      "boil",
-      "mincemeat",
       "italian",
-      "soupy",
-      "quick",
-      "comfort"
+      "soup",
+      "meatballs"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
@@ -8004,17 +7998,16 @@
   },
   {
     "slug": "glorious-golden-brazilian-chicken-stew",
-    "title": "Glorious Golden Brazilian Chicken Stew",
+    "title": "Brazilian Chicken Stew",
     "tags": [
-      "brazilian-cuisine",
-      "chicken-recipes",
-      "comfort-food",
-      "gluten-free",
-      "nut-free",
-      "one-pot"
+      "chicken",
+      "stew",
+      "brazilian",
+      "sausage",
+      "potatoes"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 55,
     "shard": "g"
   },
   {
