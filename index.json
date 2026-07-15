@@ -2491,19 +2491,16 @@
   },
   {
     "slug": "garlicky-fluffy-uruguayan-padron-peppers-empanadas",
-    "title": "uruguayan padron peppers empanadas",
+    "title": "Uruguayan-Style Stuffed Empanadas with Padron Peppers",
     "tags": [
-      "ayurvedic",
+      "uruguayan",
       "empanadas",
-      "fluffy",
-      "ghee",
-      "lunch",
-      "meal",
       "padron-peppers",
-      "uruguayan"
+      "snack",
+      "vegetarian"
     ],
-    "cuisine": "uruguayan",
-    "totalTimeMin": 55,
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
@@ -9440,17 +9437,16 @@
   },
   {
     "slug": "golden-crispy-norwegian-tofu-onigiri",
-    "title": "Golden Crispy Norwegian Tofu Onigiri",
+    "title": "Crispy Tofu Onigiri",
     "tags": [
-      "beer-batter",
-      "crispy-snacks",
-      "norwegian-cuisine",
-      "plant-based",
-      "tofu-recipes",
-      "vegan-friendly"
+      "tofu",
+      "onigiri",
+      "japanese",
+      "fusion",
+      "vegan"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 35,
+    "cuisine": "Japanese",
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
@@ -12206,18 +12202,16 @@
   },
   {
     "slug": "gooey-smoky-peruvian-shrimp-ceviche",
-    "title": "Gooey Smoky Peruvian Shrimp Ceviche",
+    "title": "Peruvian-Style Shrimp Ceviche",
     "tags": [
-      "appetizer",
       "ceviche",
-      "healthy",
       "peruvian",
-      "quick",
       "shrimp",
-      "smoky"
+      "snack",
+      "latin-american"
     ],
-    "cuisine": "peruvian",
-    "totalTimeMin": 15,
+    "cuisine": "Latin American",
+    "totalTimeMin": 30,
     "shard": "g"
   },
   {
