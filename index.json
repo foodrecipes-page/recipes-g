@@ -11526,17 +11526,15 @@
   },
   {
     "slug": "gooey-grilled-turkish-bread-flatbread",
-    "title": "Gooey Grilled Turkish Bread Flatbread",
+    "title": "Turkish Grilled Flatbread",
     "tags": [
-      "diabetic-friendly",
-      "grilled-bread",
-      "homemade-bread",
-      "molcajete-recipe",
-      "turkish-cuisine",
-      "vegetarian-snack"
+      "grilled",
+      "turkish",
+      "breakfast",
+      "flatbread"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 30,
+    "totalTimeMin": 18,
     "shard": "g"
   },
   {
