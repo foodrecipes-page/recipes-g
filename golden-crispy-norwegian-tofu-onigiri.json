@@ -1,0 +1,86 @@
+{
+  "slug": "golden-crispy-norwegian-tofu-onigiri",
+  "title": "Crispy Tofu Onigiri",
+  "description": "A fusion dish combining the crispy exterior of Norwegian-style pan-fried tofu with the traditional Japanese onigiri.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (200g)",
+      "notes": ""
+    },
+    {
+      "name": "Golden Onigiri Rice",
+      "amount": "2 cups (cooked)",
+      "notes": ""
+    },
+    {
+      "name": "Crispy Norwegian Flakes",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "as needed",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the tofu into small cubes and set aside.",
+    "Heat the crispy Norwegian flakes in a pan over medium heat.",
+    "Add the tofu to the pan and cook until golden brown, about 5 minutes.",
+    "In a separate pan, heat a small amount of water over medium heat.",
+    "Add the cooked onigiri rice to the pan and stir-fry until heated through.",
+    "Add the soy sauce, rice vinegar, and sugar to the pan and stir-fry for another minute.",
+    "Shape the onigiri rice into small triangular shapes.",
+    "Serve the crispy tofu on top of the onigiri rice.",
+    "Season with salt to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tofu",
+    "onigiri",
+    "japanese",
+    "fusion",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-crispy-norwegian-tofu-onigiri",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T03:35:49.184Z"
+}
