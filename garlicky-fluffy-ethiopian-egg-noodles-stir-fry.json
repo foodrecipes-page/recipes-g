@@ -1,0 +1,64 @@
+{
+  "slug": "garlicky-fluffy-ethiopian-egg-noodles-stir-fry",
+  "title": "Ethiopian Stir Fry Noodles",
+  "description": "A spicy and flavorful stir fry made with Ethiopian spices, noodles, and egg. This dish is perfect for a quick and delicious meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fluffy noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "garlicky stir",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ethiopian spices",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "egg",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the noodles according to package instructions and set aside.",
+    "Heat the garlicky stir in a large skillet over medium-high heat.",
+    "Add the Ethiopian spices to the skillet and stir for 1 minute.",
+    "Push the spices to one side of the skillet and crack in the eggs. Scramble the eggs until cooked through.",
+    "Mix the eggs with the spices and stir-fry for 1 minute.",
+    "Add the cooked noodles to the skillet and stir-fry for 2-3 minutes, until combined with the egg and spice mixture.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "quick",
+    "easy",
+    "lunch",
+    "noodles",
+    "ethical",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-fluffy-ethiopian-egg-noodles-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T16:24:31.550Z"
+}
