@@ -14556,15 +14556,16 @@
   },
   {
     "slug": "grilled-teff-ethiopian-stir-fry",
-    "title": "Grilled Teff Ethiopian Stir-fry",
+    "title": "Spicy Teff Stir Fry",
     "tags": [
-      "grilled-teff",
-      "ethiopian-stir-fry",
-      "vegan-friendly",
-      "low-sugar"
+      "teff",
+      "stir-fry",
+      "ethiopian",
+      "gluten-free",
+      "vegetarian"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 20,
     "shard": "g"
   },
   {
