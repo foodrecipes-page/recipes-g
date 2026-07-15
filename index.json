@@ -2644,14 +2644,12 @@
   },
   {
     "slug": "garlicky-gooey-japanese-oats-stir-fry",
-    "title": "Garlicky Gooey Japanese Oats Stir-fry",
+    "title": "Japanese-Style Stir Fry with Oats",
     "tags": [
-      "vegetarian-friendly",
-      "garlic",
-      "gooey",
+      "japanesestirfry",
       "oats",
-      "stir-fry",
-      "japanese"
+      "easydinner",
+      "vegetarian"
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 25,
@@ -13349,17 +13347,16 @@
   },
   {
     "slug": "grassy-golden-dutch-grains-pilaf",
-    "title": "Grassy Golden Dutch Grains Pilaf",
+    "title": "Roasted Golden Dutch Pilaf",
     "tags": [
-      "diabetic-friendly",
-      "dutch-oven",
-      "healthy",
-      "one-pot",
-      "post-workout",
-      "vegetarian"
+      "roasted",
+      "pilaf",
+      "golden",
+      "dutch",
+      "grains"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 45,
+    "cuisine": "European",
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {
