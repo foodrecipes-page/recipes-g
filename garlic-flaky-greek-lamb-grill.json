@@ -1,0 +1,75 @@
+{
+  "slug": "garlic-flaky-greek-lamb-grill",
+  "title": "Greek Lamb Skewers",
+  "description": "A flavorful and easy-to-make recipe for lamb skewers, perfect for grilling in the summer.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch cubes",
+      "amount": "500g",
+      "notes": "Make sure to pat dry the lamb cubes before grilling"
+    },
+    {
+      "name": "Flaky sea salt",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Greek oregano, dried",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat your grill to medium-high heat (around 400°F/200°C).",
+    "2. In a large bowl, whisk together garlic, oregano, salt, and lemon juice.",
+    "3. Add the lamb cubes to the bowl and mix until they are evenly coated with the marinade.",
+    "4. Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "5. Brush the grill grates with oil to prevent sticking.",
+    "6. Grill the skewers for 8-10 minutes, flipping halfway through, or until the lamb reaches an internal temperature of 145°F (63°C).",
+    "7. Remove the skewers from the grill and let them rest for 5 minutes.",
+    "8. Serve the skewers hot with a dollop of Greek yogurt on top.",
+    "9. Garnish with fresh parsley or oregano if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "lamb",
+    "grill",
+    "summer",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlic-flaky-greek-lamb-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:35:26.669Z"
+}
