@@ -1,0 +1,82 @@
+{
+  "slug": "garlicky-chewy-argentinian-empanadas-empanadas",
+  "title": "Argentinian Beef Empanadas",
+  "description": "A classic Argentinian dish of savory beef empanadas, flaky crust filled with tender beef and spices.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "meat",
+    "beef"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Beef (ground)",
+      "amount": "1 pound",
+      "notes": "80% lean"
+    },
+    {
+      "name": "Chewy pastry dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the pastry dough to about 1/4-inch thickness.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the minced garlic, cumin, paprika, salt, and pepper to the skillet and stir to combine.",
+    "Let the beef mixture cool slightly before spooning it onto the center of each dough circle.",
+    "Fold the dough in half over the beef mixture and press the edges together to seal the empanada.",
+    "Use a fork to crimp the edges and create a decorative border.",
+    "Place the empanadas on a baking sheet lined with parchment paper.",
+    "Brush the tops of the empanadas with a little bit of water and bake for 25-30 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "argentinian",
+    "empanadas",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-chewy-argentinian-empanadas-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T06:41:47.939Z"
+}
