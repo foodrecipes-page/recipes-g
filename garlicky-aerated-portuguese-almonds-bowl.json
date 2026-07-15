@@ -1,0 +1,64 @@
+{
+  "slug": "garlicky-aerated-portuguese-almonds-bowl",
+  "title": "Portuguese Almond Cookies",
+  "description": "A simple and traditional Portuguese dessert made with almonds, perfect for a sweet treat. These cookies are crunchy on the outside and chewy on the inside.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "garlicky yeast",
+      "amount": "2 teaspoons",
+      "notes": "active dry yeast"
+    },
+    {
+      "name": "aerated all-purpose flour",
+      "amount": "2 1/4 cups",
+      "notes": "plus 1/4 cup for dusting"
+    },
+    {
+      "name": "portuguese almonds",
+      "amount": "1 cup",
+      "notes": "sliced almonds"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C). Line a baking sheet with parchment paper.",
+    "In a large mixing bowl, whisk together flour, yeast, and 1/4 teaspoon salt.",
+    "Add in sliced almonds and mix until well combined.",
+    "Roll out dough to about 1/4 inch thickness. Cut into desired shapes using a cookie cutter.",
+    "Place cookies on prepared baking sheet, leaving about 1 inch of space between each cookie.",
+    "Bake for 18-20 minutes or until edges are lightly golden.",
+    "Remove from oven and let cool on baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+    "Dust with powdered sugar before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "cookies",
+    "portuguese",
+    "almond",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-aerated-portuguese-almonds-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T14:42:33.900Z"
+}
