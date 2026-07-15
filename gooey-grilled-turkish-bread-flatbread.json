@@ -1,0 +1,63 @@
+{
+  "slug": "gooey-grilled-turkish-bread-flatbread",
+  "title": "Turkish Grilled Flatbread",
+  "description": "A simple flatbread recipe grilled to perfection, inspired by Turkish cuisine.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Gooey",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Grilled",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Turkish bread",
+      "amount": "1 loaf",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "Flatbread",
+      "amount": "4 slices",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Slice the Turkish bread into 1-inch thick slices.",
+    "Place the flatbread slices on the grill and cook for 2-3 minutes per side.",
+    "Brush the grilled flatbread with the gooey mixture.",
+    "Top with grilled slices of Turkish bread.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "turkish",
+    "breakfast",
+    "flatbread"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-grilled-turkish-bread-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T02:56:38.469Z"
+}
