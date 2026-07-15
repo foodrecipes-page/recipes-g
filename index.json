@@ -3819,19 +3819,14 @@
   },
   {
     "slug": "garlicky-rum-infused-uruguayan-chicken-roast",
-    "title": "Garlicky Rum‑Infused Uruguayan Chicken Roast",
+    "title": "Uruguayan Roast Chicken",
     "tags": [
       "uruguayan",
-      "rum-infused",
-      "garlicky",
-      "roast",
-      "halal-friendly",
-      "broil",
-      "main-course",
-      "chicken"
+      "chicken",
+      "roast"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 85,
+    "cuisine": "uruguayan",
+    "totalTimeMin": 60,
     "shard": "g"
   },
   {
@@ -12729,17 +12724,14 @@
   },
   {
     "slug": "goozy-umami-monsoon-bean-delight",
-    "title": "Goozy Umami Monsoon Bean Delight",
+    "title": "Monsoon Bean Delight",
     "tags": [
-      "nut-free",
-      "umami",
-      "monsoon",
+      "indian",
       "bean",
-      "dish",
-      "syrian"
+      "lunch"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 60,
+    "cuisine": "Indian",
+    "totalTimeMin": 20,
     "shard": "g"
   },
   {
@@ -13714,18 +13706,15 @@
   },
   {
     "slug": "grassy-zesty-norwegian-fry-fritters",
-    "title": "Grassy Zesty Norwegian Fry Fritters",
+    "title": "Zesty Norwegian Fritters",
     "tags": [
-      "craving",
-      "keto",
-      "midnight",
       "norwegian",
-      "one-pan",
+      "fritters",
       "snack",
-      "weeknight"
+      "vegetarian"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
