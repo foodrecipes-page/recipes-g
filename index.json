@@ -15292,5 +15292,31 @@
     "cuisine": "Vietnamese",
     "totalTimeMin": 30,
     "shard": "g"
+  },
+  {
+    "slug": "garlicky-crumbly-brazilian-shrimp-feijoada--mexican",
+    "title": "Brazilian Shrimp Fajitas",
+    "tags": [
+      "mexican",
+      "shrimp",
+      "fajitas",
+      "cheese"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 27,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-crumbly-brazilian-shrimp-feijoada--italian",
+    "title": "Shrimp Feijoada Fritters",
+    "tags": [
+      "italian",
+      "brazilian",
+      "fritters",
+      "shrimp"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 23,
+    "shard": "g"
   }
 ]
