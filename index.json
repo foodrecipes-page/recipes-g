@@ -285,18 +285,16 @@
   },
   {
     "slug": "garlic-flaky-greek-lamb-grill",
-    "title": "Garlic Flaky Greek Lamb Grill",
+    "title": "Greek Lamb Skewers",
     "tags": [
-      "grilled",
-      "lamb",
       "greek",
-      "kashrut-friendly",
-      "savory",
-      "flaky",
-      "adventurous"
+      "lamb",
+      "grill",
+      "summer",
+      "skewers"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
