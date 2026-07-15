@@ -1,0 +1,81 @@
+{
+  "slug": "garlicky-crumbly-brazilian-shrimp-feijoada--italian",
+  "title": "Shrimp Feijoada Fritters",
+  "description": "A fusion of Italian and Brazilian flavors, these crispy fritters are filled with succulent shrimp and a hint of feijoada",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "garlicky bread crumbs",
+      "amount": "1 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "feijoada",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine bread crumbs, shrimp, feijoada, eggs, parmesan cheese, italian seasoning, salt, and pepper. Mix well.",
+    "Heat a large non-stick skillet over medium-high heat.",
+    "Using a spoon or small ice cream scoop, drop rounded balls of the shrimp mixture into the skillet.",
+    "Fry the fritters for 3-4 minutes on each side, until golden brown and crispy.",
+    "Drain the fritters on paper towels and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "brazilian",
+    "fritters",
+    "shrimp"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-crumbly-brazilian-shrimp-feijoada--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:43:19.808Z"
+}
