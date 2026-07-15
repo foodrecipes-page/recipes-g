@@ -1,0 +1,94 @@
+{
+  "slug": "graceful-venezuelan-fish-soup",
+  "title": "Venezuelan Fish Soup",
+  "description": "A hearty and flavorful soup originating from Venezuela, made with fresh fish, vegetables, and aromatic spices.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish (dried and cut into small pieces)",
+      "amount": "1 pound",
+      "notes": "Your choice of fish, such as cod or tilapia"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Tomatoes (canned, diced)",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Venezuelan cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For sautéing"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and sauté until softened, about 5 minutes.",
+    "Add the minced garlic and sauté for another minute.",
+    "Add the dried fish and sauté until lightly browned, about 5 minutes.",
+    "Add the diced tomatoes, vegetable broth, Venezuelan cumin, paprika, salt, and black pepper.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10-15 minutes.",
+    "Use a slotted spoon to remove the fish pieces and place them on a plate.",
+    "Use an immersion blender to puree the soup to your desired consistency.",
+    "Return the fish pieces to the pot and heat through.",
+    "Serve hot, garnished with chopped fresh cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "soup",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/graceful-venezuelan-fish-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T16:45:37.225Z"
+}
