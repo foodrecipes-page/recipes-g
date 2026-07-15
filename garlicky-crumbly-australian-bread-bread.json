@@ -1,0 +1,73 @@
+{
+  "slug": "garlicky-crumbly-australian-bread-bread",
+  "title": "Garlicky Crumbly Australian Bread",
+  "description": "A flavorful twist on traditional bread, featuring a garlicky and crumbly Australian crust.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian bread",
+      "amount": "1 loaf",
+      "notes": null
+    },
+    {
+      "name": "Garlicky spread",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Crumbly feta cheese",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Slice the Australian bread into 1-inch thick slices.",
+    "Spread 1 tablespoon of garlicky spread on each bread slice.",
+    "Sprinkle crumbly feta cheese over the garlicky spread.",
+    "Top with fresh parsley.",
+    "Season with salt and black pepper to taste.",
+    "Place bread slices on a baking sheet and bake for 10-12 minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "garlicky",
+    "crumbly",
+    "bread"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-crumbly-australian-bread-bread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T14:48:09.404Z"
+}
