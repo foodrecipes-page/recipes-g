@@ -1,0 +1,91 @@
+{
+  "slug": "garlicky-crumbly-brazilian-shrimp-feijoada--mexican",
+  "title": "Brazilian Shrimp Fajitas",
+  "description": "A flavorful Mexican-inspired dish featuring shrimp, garlicky and crumbly elements, in a classic fajita style. This recipe highlights the rich flavors of Brazilian cuisine.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Garlicky sautéed onions",
+      "amount": "1 medium onion, thinly sliced",
+      "notes": ""
+    },
+    {
+      "name": "Crumbly queso fresco",
+      "amount": "1/2 cup, crumbled",
+      "notes": ""
+    },
+    {
+      "name": "Brazilian-style shrimp",
+      "amount": "1 pound large shrimp, peeled and deveined",
+      "notes": ""
+    },
+    {
+      "name": "Feijoada spices",
+      "amount": "1 tablespoon, dried",
+      "notes": ""
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Tortillas",
+      "amount": "4-6 corn tortillas",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet over medium-high heat. Add the sliced onions and cook for 3-4 minutes, or until they start to caramelize.",
+    "Add the crumbled queso fresco to the skillet and stir to combine with the onions.",
+    "Add the Brazilian-style shrimp to the skillet and cook for 2-3 minutes per side, or until they are pink and cooked through.",
+    "Add the dried feijoada spices to the skillet and stir to combine with the shrimp and onions.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the fajitas by placing a portion of the shrimp and onion mixture onto a tortilla, followed by a dollop of sour cream and a sprinkle of cilantro.",
+    "Serve the fajitas immediately, with lime wedges on the side.",
+    "Optional: top with additional queso fresco and/or sliced radishes for added flavor and texture.",
+    "Serve with your favorite sides, such as Mexican street corn or refried beans.",
+    "Enjoy your delicious Brazilian Shrimp Fajitas!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "shrimp",
+    "fajitas",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-crumbly-brazilian-shrimp-feijoada--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:42:03.094Z"
+}
