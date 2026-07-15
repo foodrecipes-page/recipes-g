@@ -10298,16 +10298,14 @@
   },
   {
     "slug": "golden-roasted-northern-irish-sausages-bangers-and-mash",
-    "title": "Golden Roasted Northern Irish Sausages Bangers And Mash",
+    "title": "Northern Irish Sausage and Mash",
     "tags": [
-      "apple-recipes",
-      "british-classics",
-      "comfort-food",
-      "hearty-dinners",
-      "weeknight-meals"
+      "sausages",
+      "mash",
+      "comfort-food"
     ],
-    "cuisine": "British",
-    "totalTimeMin": 55,
+    "cuisine": "Irish",
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {
@@ -12968,17 +12966,16 @@
   },
   {
     "slug": "gourmet-festive-portuguese-foie-gras-terrine",
-    "title": "Gourmet Festive Portuguese Foie Gras Terrine",
+    "title": "Fois Gras Terrine for Holiday Gatherings",
     "tags": [
       "foie-gras",
       "gourmet",
-      "long-fermentation",
-      "low-fat",
-      "portuguese-cuisine",
-      "special-occasion"
+      "festive",
+      "portuguese",
+      "holiday"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 55,
+    "cuisine": "French",
+    "totalTimeMin": 50,
     "shard": "g"
   },
   {
