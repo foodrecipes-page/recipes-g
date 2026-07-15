@@ -1,0 +1,79 @@
+{
+  "slug": "grilled-teff-ethiopian-stir-fry",
+  "title": "Spicy Teff Stir Fry",
+  "description": "A flavorful and nutritious stir fry made with teff, inspired by traditional Ethiopian cuisine.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Teff",
+      "amount": "1 cup",
+      "notes": "preferably uncooked"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 can",
+      "notes": "diced"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Spices",
+      "amount": "1 teaspoon",
+      "notes": "Ethiopian spice blend"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onion and bell pepper, stir-fry until tender.",
+    "Add garlic and cook for 1 minute.",
+    "Add teff and stir to combine.",
+    "Add tomato, spices, and stir-fry for 2 minutes.",
+    "Serve hot, garnished with chopped fresh herbs if desired.",
+    "Cook to a safe internal temperature of 165°F (74°C) for the teff."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "teff",
+    "stir-fry",
+    "ethiopian",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grilled-teff-ethiopian-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T12:35:23.701Z"
+}
