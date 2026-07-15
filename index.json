@@ -680,16 +680,15 @@
   },
   {
     "slug": "garlicky-aerated-portuguese-almonds-bowl",
-    "title": "Garlicky Aerated Portuguese Almonds Bowl",
+    "title": "Portuguese Almond Cookies",
     "tags": [
-      "almonds",
-      "chocolate",
-      "dessert",
-      "low-fat",
-      "portuguese"
+      "cookies",
+      "portuguese",
+      "almond",
+      "dessert"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 25,
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
@@ -1487,15 +1486,12 @@
     "title": "Garlicky Crumbly Australian Bread",
     "tags": [
       "australian",
-      "bread",
-      "crumbly",
-      "diabetic-friendly",
-      "easy-to-make",
       "garlicky",
-      "snack"
+      "crumbly",
+      "bread"
     ],
-    "cuisine": "australian",
-    "totalTimeMin": 50,
+    "cuisine": "Australian",
+    "totalTimeMin": 20,
     "shard": "g"
   },
   {
@@ -8050,17 +8046,15 @@
   },
   {
     "slug": "glorious-golden-venezuelan-chicken-skewers",
-    "title": "Glorious Golden Venezuelan Chicken Skewers",
+    "title": "Grilled Venezuelan Chicken Skewers",
     "tags": [
-      "gluten-free",
-      "grilled-chicken",
-      "hot-stone-plate",
-      "low-carb",
-      "venezuelan-cuisine",
-      "wine-infused"
+      "chicken",
+      "latin-american",
+      "grilled",
+      "skewers"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 35,
+    "cuisine": "Latin American",
+    "totalTimeMin": 31,
     "shard": "g"
   },
   {
