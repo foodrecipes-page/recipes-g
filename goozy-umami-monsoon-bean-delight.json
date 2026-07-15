@@ -1,0 +1,61 @@
+{
+  "slug": "goozy-umami-monsoon-bean-delight",
+  "title": "Monsoon Bean Delight",
+  "description": "A flavorful and nutritious bean dish that combines the unique taste of monsoon with umami and goozy for a delightful experience.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "monsoon",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bean",
+      "amount": "1 cup"
+    },
+    {
+      "name": "goozy",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "umami",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons",
+      "notes": "Any oil of choice"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add monsoon and sauté for 3 minutes.",
+    "Add bean and sauté for another 3 minutes.",
+    "Add goozy and umami, stir well.",
+    "Cook for 5 minutes, stirring occasionally.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "bean",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/goozy-umami-monsoon-bean-delight",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T22:29:51.752Z"
+}
