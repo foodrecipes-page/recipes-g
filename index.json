@@ -1493,14 +1493,16 @@
   },
   {
     "slug": "garlicky-crumbly-brazilian-shrimp-feijoada",
-    "title": "Garlicky Crumbly Brazilian Shrimp Feijoada",
+    "title": "Brazilian Feijoada Shrimp Boil",
     "tags": [
-      "garlic-lovers",
-      "low-carb",
-      "one-pot"
+      "brazilian",
+      "feijoada",
+      "shrimp",
+      "boil",
+      "lunch"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 22,
     "shard": "g"
   },
   {
@@ -2278,10 +2280,14 @@
   },
   {
     "slug": "garlicky-flaky-vietnamese-chicken-bake",
-    "title": "Garlicky Flaky Vietnamese Chicken Bake",
-    "tags": [],
+    "title": "Vietnamese Chicken Bake",
+    "tags": [
+      "bake",
+      "chicken",
+      "vietnamese"
+    ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": null,
+    "totalTimeMin": 50,
     "shard": "g"
   },
   {
@@ -2320,16 +2326,17 @@
   },
   {
     "slug": "garlicky-fluffy-ethiopian-egg-noodles-stir-fry",
-    "title": "Garlicky Fluffy Ethiopian Egg Noodles Stir-fry",
+    "title": "Ethiopian Stir Fry Noodles",
     "tags": [
-      "garlicky",
-      "fluffy",
-      "comforting",
-      "ethiopian",
-      "plant-based-friendly"
+      "quick",
+      "easy",
+      "lunch",
+      "noodles",
+      "ethical",
+      "stir-fry"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 15,
     "shard": "g"
   },
   {
