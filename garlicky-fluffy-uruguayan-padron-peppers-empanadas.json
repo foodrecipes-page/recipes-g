@@ -1,0 +1,79 @@
+{
+  "slug": "garlicky-fluffy-uruguayan-padron-peppers-empanadas",
+  "title": "Uruguayan-Style Stuffed Empanadas with Padron Peppers",
+  "description": "A twist on traditional empanadas, filled with flavorful padron peppers and served as a snack or side dish.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "garlicky empanada dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "padron peppers",
+      "amount": "12-15 peppers",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "fluffy cheese",
+      "amount": "1 cup shredded",
+      "notes": "Monterey Jack or similar"
+    },
+    {
+      "name": "uruguayan peppers",
+      "amount": "2-3 peppers",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out empanada dough and cut into squares.",
+    "Place a spoonful of cheese, padron peppers, and uruguayan peppers onto one half of each square.",
+    "Fold the other half of the dough over the filling and press edges to seal.",
+    "Brush tops with olive oil and season with salt and pepper.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": "8-10",
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "empanadas",
+    "padron-peppers",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-fluffy-uruguayan-padron-peppers-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T05:26:29.027Z"
+}
