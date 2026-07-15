@@ -1,0 +1,82 @@
+{
+  "slug": "gourmet-festive-portuguese-foie-gras-terrine",
+  "title": "Fois Gras Terrine for Holiday Gatherings",
+  "description": "A luxurious and decadent terrine showcasing the rich flavors of foie gras, perfect for special occasions and festive gatherings.",
+  "cuisine": "French",
+  "diet": [
+    "dairy",
+    "meat"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "Foie Gras",
+      "amount": "1 (1.5 pound) lobe",
+      "notes": ""
+    },
+    {
+      "name": "Port Wine",
+      "amount": "1/2 cup",
+      "notes": "reduced to 2 tablespoons"
+    },
+    {
+      "name": "Sauternes",
+      "amount": "1/4 cup",
+      "notes": "reduced to 2 tablespoons"
+    },
+    {
+      "name": "Grape Jelly",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "2 sprigs",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "In a small saucepan, combine the port wine and Sauternes. Bring to a boil, then reduce to 2 tablespoons each.",
+    "Cut the foie gras into small pieces and season with salt and black pepper.",
+    "In a small bowl, mix the grape jelly and chopped thyme.",
+    "In a terrine mold or a small loaf pan, create a layer of the grape jelly mixture.",
+    "Add a layer of foie gras on top of the jelly mixture.",
+    "Repeat the layers until all the ingredients are used, finishing with a layer of jelly on top.",
+    "Cover the mold with plastic wrap or aluminum foil and bake for 20-25 minutes.",
+    "Remove from the oven and let it cool to room temperature.",
+    "Refrigerate for at least 2 hours or overnight before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "foie-gras",
+    "gourmet",
+    "festive",
+    "portuguese",
+    "holiday"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gourmet-festive-portuguese-foie-gras-terrine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T19:53:06.935Z"
+}
