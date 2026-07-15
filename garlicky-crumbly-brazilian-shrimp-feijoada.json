@@ -1,0 +1,82 @@
+{
+  "slug": "garlicky-crumbly-brazilian-shrimp-feijoada",
+  "title": "Brazilian Feijoada Shrimp Boil",
+  "description": "A flavorful and spicy boil featuring shrimp and feijoada, inspired by Brazilian cuisine.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Feijoada",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Garlicky",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Crumbly",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Brazilian spices",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large pot, combine feijoada, shrimp, garlicky, crumbly, water, salt, and black pepper.",
+    "2. Add Brazilian spices and stir.",
+    "3. Bring the mixture to a boil over high heat, then reduce the heat to medium-low and simmer for 10-12 minutes.",
+    "4. Remove the pot from the heat and let it sit for 5 minutes.",
+    "5. Serve the feijoada and shrimp hot, garnished with additional Brazilian spices if desired.",
+    "6. Serve with crusty bread or over rice for a filling meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "feijoada",
+    "shrimp",
+    "boil",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-crumbly-brazilian-shrimp-feijoada",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T16:44:38.959Z"
+}
