@@ -1,0 +1,93 @@
+{
+  "slug": "garlicky-smoky-brazilian-tofu-poke",
+  "title": "Poke Bowl with Smoky Tofu",
+  "description": "A fusion dish combining the flavors of Brazil with the popular Hawaiian poke bowl. Grilled smoky tofu, mixed with garlicky Brazilian spices, served over a bed of poke.",
+  "cuisine": "Brazilian-Hawaiian Fusion",
+  "diet": [
+    "gluten-free",
+    "vegan",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (12 oz)",
+      "notes": "Extra-firm, drained and cut into bite-sized pieces"
+    },
+    {
+      "name": "garlicky",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "canned poke (tuna)",
+      "amount": "1 can (12 oz)",
+      "notes": "drained and flaked"
+    },
+    {
+      "name": "Brazilian spices",
+      "amount": "1 tsp",
+      "notes": "Smoked paprika, cumin, and coriander"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "sliced green onions",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill or grill pan to medium-high heat.",
+    "2. In a small bowl, whisk together garlic, Brazilian spices, soy sauce, sesame oil, and rice vinegar.",
+    "3. Toss the tofu in the marinade and set aside for at least 10 minutes.",
+    "4. Grill the tofu for 3-4 minutes per side, until golden brown and crispy.",
+    "5. Meanwhile, mix the poke with the remaining marinade and set aside.",
+    "6. To assemble the poke bowls, place a scoop of rice on the bottom, followed by a scoop of the poke mixture, and then top with the grilled tofu and garnish with green onions and sesame seeds, if desired.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "poke",
+    "tofu",
+    "brazilian",
+    "hawaiian",
+    "fusion",
+    "gluten-free",
+    "vegan",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-smoky-brazilian-tofu-poke",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T07:56:58.157Z"
+}
