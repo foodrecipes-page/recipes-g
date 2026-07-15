@@ -1,0 +1,60 @@
+{
+  "slug": "grassy-zesty-norwegian-fry-fritters",
+  "title": "Zesty Norwegian Fritters",
+  "description": "A flavorful and crispy fritter dish inspired by Norwegian cuisine, perfect for a snack or appetizer. The combination of zesty and grassy notes will delight your taste buds.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Norwegian fritters",
+      "amount": "8-10 pieces",
+      "notes": null
+    },
+    {
+      "name": "Grassy yogurt sauce",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Zesty chutney",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Fry breadcrumbs",
+      "amount": "1 cup",
+      "notes": "Panko or all-purpose"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick pan with 2-3 inches of oil over medium heat.",
+    "Once the oil is hot, add 4-5 fritters to the pan and fry until golden brown on both sides.",
+    "Remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the fritters with a dollop of grassy yogurt sauce and a side of zesty chutney.",
+    "For an added crunch, sprinkle some fry breadcrumbs on top of the fritters before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "norwegian",
+    "fritters",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grassy-zesty-norwegian-fry-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T23:08:07.879Z"
+}
