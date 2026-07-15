@@ -1,0 +1,57 @@
+{
+  "slug": "garlicky-gooey-japanese-oats-stir-fry",
+  "title": "Japanese-Style Stir Fry with Oats",
+  "description": "A unique twist on traditional stir fries, this dish combines the nutty flavor of oats with the savory taste of Japanese ingredients. Perfect for a quick and easy dinner.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Japanese Stir Fry",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Gooey Oats",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Garlicky",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the garlic and stir-fry until fragrant, about 1 minute.",
+    "Add the Japanese stir fry and cook until the vegetables are tender-crisp, about 3-4 minutes.",
+    "Stir in the gooey oats and cook for an additional 2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanesestirfry",
+    "oats",
+    "easydinner",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-gooey-japanese-oats-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T14:21:51.172Z"
+}
