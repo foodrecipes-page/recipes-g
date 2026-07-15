@@ -585,15 +585,14 @@
   },
   {
     "slug": "garlicky-adventurous-shaggy-portuguese-pak-choi-stew",
-    "title": "garlicky, shaggy, adventurous portuguese pak choi stew",
+    "title": "Shaggy's Portguese Stew",
     "tags": [
-      "adventurous",
-      "one-pan",
       "portuguese",
-      "weeknight"
+      "vegetarian",
+      "lunch"
     ],
     "cuisine": "portuguese",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {
@@ -6055,17 +6054,14 @@
   },
   {
     "slug": "gently-smoked-portuguese-yogurt-curry",
-    "title": "Gently Smoked Portuguese Yogurt Curry",
+    "title": "Smoked Cod Curry",
     "tags": [
-      "gluten-free",
-      "portuguese-cuisine",
-      "smoked",
-      "vegetarian",
-      "weeknight",
-      "yogurt-based"
+      "curry",
+      "fish",
+      "portuguese"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
@@ -13067,14 +13063,11 @@
   },
   {
     "slug": "graceful-venezuelan-fish-soup",
-    "title": "Graceful Venezuelan Fish Soup",
+    "title": "Venezuelan Fish Soup",
     "tags": [
-      "festival",
-      "low-fat",
-      "one-pot",
-      "quick",
-      "seafood",
-      "spring"
+      "fish",
+      "soup",
+      "venezuelan"
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 35,
