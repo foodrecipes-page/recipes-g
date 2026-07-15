@@ -951,18 +951,15 @@
   },
   {
     "slug": "garlicky-chewy-argentinian-empanadas-empanadas",
-    "title": "Garlicky Chewy Argentinian Empanadas",
+    "title": "Argentinian Beef Empanadas",
     "tags": [
-      "argentinian",
       "beef",
+      "argentinian",
       "empanadas",
-      "garlic",
-      "one-pan",
-      "tarragon",
-      "weeknight"
+      "snack"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {
@@ -4049,18 +4046,19 @@
   },
   {
     "slug": "garlicky-smoky-brazilian-tofu-poke",
-    "title": "Garlicky Smoky Brazilian Tofu Poke",
+    "title": "Poke Bowl with Smoky Tofu",
     "tags": [
+      "poke",
+      "tofu",
       "brazilian",
-      "easy",
-      "high-protein",
-      "kid-friendly",
-      "one-pan",
-      "plant-based",
-      "weeknight"
+      "hawaiian",
+      "fusion",
+      "gluten-free",
+      "vegan",
+      "low-carb"
     ],
-    "cuisine": "Brazilian",
-    "totalTimeMin": 25,
+    "cuisine": "Brazilian-Hawaiian Fusion",
+    "totalTimeMin": 23,
     "shard": "g"
   },
   {
