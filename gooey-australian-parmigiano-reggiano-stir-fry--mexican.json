@@ -1,0 +1,86 @@
+{
+  "slug": "gooey-australian-parmigiano-reggiano-stir-fry--mexican",
+  "title": "Gooey Chiles Rellenos",
+  "description": "A twist on traditional Mexican chiles rellenos using gooey cheese. This dish is perfect for a dinner party or special occasion.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 large poblano peppers",
+      "amount": "2 pounds",
+      "notes": "roasted"
+    },
+    {
+      "name": "1 cup gooey cheese",
+      "amount": "8 ounces",
+      "notes": "shredded"
+    },
+    {
+      "name": "1/4 cup chopped australian chives",
+      "amount": "scant",
+      "notes": "optional"
+    },
+    {
+      "name": "1/4 cup grated reggiano cheese",
+      "amount": "1 ounce",
+      "notes": "optional"
+    },
+    {
+      "name": "1/4 cup chopped fresh cilantro",
+      "amount": "scant",
+      "notes": "optional"
+    },
+    {
+      "name": "1/2 teaspoon cumin",
+      "amount": "1/4 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "1/4 teaspoon paprika",
+      "amount": "pinch",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "1 egg",
+      "amount": "beaten",
+      "notes": "for egg wash"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roast the poblano peppers over an open flame or in the oven until charred. Peel the skin and cut a slit down one side of each pepper.",
+    "Scoop out the seeds and membranes, then fill each pepper with the gooey cheese.",
+    "In a separate pan, heat some oil over medium heat. Crack in the egg and scramble it until it's cooked through.",
+    "Dip each stuffed pepper into the egg wash and then coat with a mixture of australian chives, reggiano cheese, and paprika.",
+    "Heat some oil in a large skillet over medium-high heat. Fry the coated peppers until they're golden brown on all sides.",
+    "Transfer the peppers to a baking dish and cover with foil. Bake for 10-15 minutes or until the cheese is melted and bubbly.",
+    "Remove the foil and sprinkle with chopped cilantro. Serve hot with a dollop of sour cream, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "cheese",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-australian-parmigiano-reggiano-stir-fry--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T20:08:03.847Z"
+}
