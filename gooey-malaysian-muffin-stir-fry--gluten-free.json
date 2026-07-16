@@ -1,0 +1,60 @@
+{
+  "slug": "gooey-malaysian-muffin-stir-fry--gluten-free",
+  "title": "Gooey Malaysian Muffin Stir-Fry",
+  "description": "A sweet and savory stir-fry dish made with gooey goodness, malaysian flair, and a hint of muffin magic.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Gooey sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Malaysian noodles",
+      "amount": "8 oz",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Muffin mix-ins",
+      "amount": "1/2 cup",
+      "notes": "your choice of nuts or dried fruit"
+    },
+    {
+      "name": "Fresh stir-fry veggies",
+      "amount": "1 cup",
+      "notes": "bell peppers, carrots, broccoli"
+    },
+    {
+      "name": "Fry oil",
+      "amount": "2 tbsp",
+      "notes": "coconut or vegetable oil"
+    }
+  ],
+  "instructions": [
+    "Preheat wok or large skillet to medium-high heat.",
+    "Add fry oil and swirl to coat.",
+    "Add fresh stir-fry veggies and cook until tender.",
+    "Add Malaysian noodles and cook according to package instructions.",
+    "Stir in gooey sauce and muffin mix-ins.",
+    "Cook for an additional 2-3 minutes, until sauce is bubbly.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "malaysian",
+    "gluten-free",
+    "snack",
+    "stir-fry"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-malaysian-muffin-stir-fry--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T04:17:22.133Z"
+}
