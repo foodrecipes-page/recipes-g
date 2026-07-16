@@ -1,0 +1,92 @@
+{
+  "slug": "grassy-snap-fresh-ukrainian-tagliatelle-pasta--mexican",
+  "title": "Mexican Tagliatelle Fiesta",
+  "description": "A delicious and easy-to-make Mexican-inspired pasta dish. The combination of fresh ingredients and tangy flavors will transport you to the vibrant streets of Mexico.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tagliatelle",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "fresh tomatoes",
+      "amount": "2 cups",
+      "notes": "diced"
+    },
+    {
+      "name": "grassy cilantro",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "snap peas",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "ukrainian feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "pasta sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the tagliatelle according to package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat. Add the minced garlic and cook for 1-2 minutes until fragrant.",
+    "Add the diced tomatoes, cumin, and a pinch of salt to the skillet. Cook for 5 minutes, stirring occasionally.",
+    "Add the sliced snap peas and cook for an additional 2-3 minutes until tender.",
+    "Stir in the pasta sauce, lime juice, and crumbled feta cheese.",
+    "Add the cooked tagliatelle to the skillet and toss everything together until well combined.",
+    "Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "pasta",
+    "vegetarian",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grassy-snap-fresh-ukrainian-tagliatelle-pasta--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T09:40:16.759Z"
+}
