@@ -12334,16 +12334,12 @@
   },
   {
     "slug": "gooey-spicy-italian-beef-tagliatelle-with-yellow-masarepa-gooey-spicy-filling",
-    "title": "Gooey Spicy Italian Beef Tagliatelle with Yellow Masarepa Filling",
+    "title": "Spicy Beef Tagliatelle Casserole",
     "tags": [
-      "beef",
-      "comfort-food",
       "italian",
-      "mac-and-cheese",
-      "masarepa",
-      "one-pan",
+      "beef",
       "spicy",
-      "weeknight"
+      "casserole"
     ],
     "cuisine": "italian",
     "totalTimeMin": 35,
@@ -15371,6 +15367,44 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 45,
+    "shard": "g"
+  },
+  {
+    "slug": "gooey-uruguayan-aubergine-stir-fry--chinese",
+    "title": "Stir-Fried Aubergine",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "aubergine"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
+    "slug": "golden-gooey-norwegian-cabbage-gratin--vegan",
+    "title": "Golden Cabbage Gratin",
+    "tags": [
+      "vegan",
+      "gluten-free",
+      "side-dish",
+      "cabbage"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 40,
+    "shard": "g"
+  },
+  {
+    "slug": "gooey-uruguayan-aubergine-stir-fry--french",
+    "title": "Braised Aubergine with French Twist",
+    "tags": [
+      "aubergine",
+      "french",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 40,
     "shard": "g"
   }
 ]
