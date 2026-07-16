@@ -1,0 +1,119 @@
+{
+  "slug": "glorious-braised-mediterranean-lamb-tagine",
+  "title": "Moroccan Lamb Tagine",
+  "description": "A flavorful and aromatic North African stew made with tender lamb, dried fruits, and spices, slow-cooked in a traditional clay pot.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1 (2 lbs)",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ground Cumin",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ground Coriander",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ground Ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Prunes",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in the bottom of a clay or ceramic tagine over medium heat.",
+    "Brown the lamb on all sides, about 5 minutes.",
+    "Add onions and cook until softened, about 5 minutes.",
+    "Add garlic, ginger, cumin, coriander, cinnamon, turmeric, salt, and pepper.",
+    "Stir to combine and cook for 1 minute.",
+    "Add prunes, chickpeas, and 2 cups of water.",
+    "Bring to a boil, then cover and transfer to the oven.",
+    "Braise for 2 1/2 to 3 hours, or until the lamb is tender.",
+    "Serve hot, garnished with fresh herbs.",
+    "Let rest for 10 minutes before serving.",
+    "Serve with couscous or rice, if desired.",
+    "Garnish with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "lamb",
+    "tagine",
+    "braised",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 30,
+    "fat": 27
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/glorious-braised-mediterranean-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T07:28:05.149Z"
+}
