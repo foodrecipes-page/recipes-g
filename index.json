@@ -4554,17 +4554,15 @@
   },
   {
     "slug": "garlicky-velvety-jamaican-green-beans-stew",
-    "title": "Garlicky Velvety Jamaican Green Beans Stew",
+    "title": "Garlicky Green Bean Stew",
     "tags": [
-      "comfort-food",
+      "caribbean",
       "green-beans",
-      "jamaican-cuisine",
-      "low-carb",
-      "one-pan",
-      "stew"
+      "stew",
+      "comfort-food"
     ],
-    "cuisine": "jamaican",
-    "totalTimeMin": 35,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
