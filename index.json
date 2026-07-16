@@ -7865,17 +7865,16 @@
   },
   {
     "slug": "glorious-braised-mediterranean-lamb-tagine",
-    "title": "Glorious Braised Mediterranean Lamb Tagine",
+    "title": "Moroccan Lamb Tagine",
     "tags": [
-      "braised-meat",
-      "gluten-free",
-      "lazy-susan",
-      "mediterranean-cuisine",
-      "one-pot",
-      "sugar-free"
+      "moroccan",
+      "lamb",
+      "tagine",
+      "braised",
+      "mediterranean"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 180,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 170,
     "shard": "g"
   },
   {
@@ -15444,6 +15443,20 @@
     ],
     "cuisine": "Korean",
     "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
+    "slug": "golden-grilled-brazilian-sausages-skewers--mexican",
+    "title": "Brazilian Sausage Skewers with Grilled Onions",
+    "tags": [
+      "mexican",
+      "grilled",
+      "sausages",
+      "skewers",
+      "latin"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
     "shard": "g"
   }
 ]
