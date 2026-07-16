@@ -1,0 +1,69 @@
+{
+  "slug": "garlicky-crumbly-brazilian-shrimp-feijoada--thai",
+  "title": "Thai Shrimp and Feijoada Stir Fry",
+  "description": "A fusion of Thai and Brazilian flavors in this quick and spicy stir fry. Perfect for a weeknight dinner.",
+  "cuisine": "thai",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "feijoada",
+      "amount": "1 cup",
+      "notes": "canned or homemade"
+    },
+    {
+      "name": "garlicky",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "crumbly",
+      "amount": "1/4 cup",
+      "notes": "crushed peanuts"
+    },
+    {
+      "name": "brazilian",
+      "amount": "2 tbsp",
+      "notes": "sirup"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of oil in a wok or large skillet over medium-high heat.",
+    "Add shrimp and cook until pink, about 2-3 minutes per side.",
+    "Remove shrimp from the wok and set aside.",
+    "Add the remaining 1 tbsp of oil to the wok and stir in the minced garlic and crushed peanuts.",
+    "Cook for 1 minute, until fragrant.",
+    "Stir in the feijoada and cook for 2-3 minutes, until heated through.",
+    "Return the shrimp to the wok and stir in the sirup.",
+    "Cook for an additional 1-2 minutes, until the shrimp are well coated with the sauce.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately over steamed rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "brazilian",
+    "shrimp",
+    "feijoada",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-crumbly-brazilian-shrimp-feijoada--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:25:07.447Z"
+}
