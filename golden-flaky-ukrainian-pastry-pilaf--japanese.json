@@ -1,0 +1,84 @@
+{
+  "slug": "golden-flaky-ukrainian-pastry-pilaf--japanese",
+  "title": "Japanese-Style Pilaf Pastry Triangles",
+  "description": "A fusion of Ukrainian and Japanese flavors, these flaky pastry triangles are filled with a savory pilaf mixture.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Golden Pastry",
+      "amount": "1 package (thawed)",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Ukrainian Pilaf",
+      "amount": "1 cup (cooked)",
+      "notes": "or Japanese-style pilaf with added Japanese seasonings"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 teaspoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup (chopped)",
+      "notes": "optional"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Roll out the golden pastry to a thickness of about 1/8 inch (3 mm).",
+    "3. In a small bowl, mix together the Ukrainian pilaf, soy sauce, rice vinegar, scallions, sesame seeds, salt, and black pepper.",
+    "4. Place the pilaf mixture onto one half of the pastry, leaving a 1/2 inch (1 cm) border around the edges.",
+    "5. Brush the edges with a little water, then fold the other half of the pastry over the filling to form a triangle.",
+    "6. Press the edges to seal, then use a fork to crimp them.",
+    "7. Brush the tops of the triangles with a little water, then sprinkle with sesame seeds if desired.",
+    "8. Bake for 20-25 minutes, or until the pastry is golden brown.",
+    "9. Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "pilaf",
+    "pastry",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-flaky-ukrainian-pastry-pilaf--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T05:38:04.976Z"
+}
