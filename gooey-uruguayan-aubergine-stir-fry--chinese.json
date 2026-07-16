@@ -1,0 +1,75 @@
+{
+  "slug": "gooey-uruguayan-aubergine-stir-fry--chinese",
+  "title": "Stir-Fried Aubergine",
+  "description": "A quick and easy Chinese-inspired dish made with stir-fried aubergine. This recipe is simple and flavorful, perfect for a weeknight dinner.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "aubergine",
+      "amount": "1 medium",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "stir",
+      "amount": "1 tablespoon vegetable oil",
+      "notes": "for frying"
+    },
+    {
+      "name": "fry",
+      "amount": "1 small onion",
+      "notes": "chopped"
+    },
+    {
+      "name": "goeey",
+      "amount": "1 tablespoon oyster sauce",
+      "notes": "or to taste"
+    },
+    {
+      "name": "uruguayan",
+      "amount": "1 teaspoon soy sauce",
+      "notes": "or to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a wok or large skillet over medium-high heat.",
+    "Add the chopped onion and stir-fry for 1-2 minutes, until softened.",
+    "Add the aubergine and stir-fry for 2-3 minutes, until tender.",
+    "Add the oyster sauce and soy sauce, and stir-fry for a further 1 minute.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "aubergine"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 15,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-uruguayan-aubergine-stir-fry--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T22:09:28.615Z"
+}
