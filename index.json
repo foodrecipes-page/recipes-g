@@ -57,16 +57,15 @@
   },
   {
     "slug": "garam-masala-kale-chaat",
-    "title": "Garam Masala Kale Chaat",
+    "title": "Spicy Kale Chaat",
     "tags": [
-      "garam-masala",
-      "kale-chaat",
-      "spicy",
-      "crunchy",
-      "one-pot-dish"
+      "healthy",
+      "indian",
+      "snack",
+      "vegetarian"
     ],
-    "cuisine": "Ethiopian",
-    "totalTimeMin": 55,
+    "cuisine": "Indian",
+    "totalTimeMin": 10,
     "shard": "g"
   },
   {
@@ -11930,15 +11929,15 @@
   },
   {
     "slug": "gooey-poached-indian-millet-pilaf",
-    "title": "Gooey Poached Indian Millet Pilaf",
+    "title": "Creamy Millet Pilaf with Poached Egg",
     "tags": [
-      "poached-millet-pilaf",
-      "bitter-vegan-dish",
-      "indian-gooey-pilaf",
-      "low-fat-friendly-brunch"
+      "millet",
+      "poached-egg",
+      "indian-cuisine",
+      "comfort-food"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
@@ -15403,6 +15402,19 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 40,
+    "shard": "g"
+  },
+  {
+    "slug": "golden-brown-french-sausage-gratin--german",
+    "title": "German Sausage Gratin",
+    "tags": [
+      "sausage",
+      "potatoes",
+      "german-cuisine",
+      "gratin"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
     "shard": "g"
   }
 ]
