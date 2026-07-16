@@ -1,0 +1,70 @@
+{
+  "slug": "garlicky-velvety-jamaican-green-beans-stew",
+  "title": "Garlicky Green Bean Stew",
+  "description": "A hearty stew made with green beans, garlicky flavors, and a hint of jamaican spices. Perfect for a comforting meal.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Green beans",
+      "amount": "1 pound",
+      "notes": "trimmed and cut into 1-inch pieces"
+    },
+    {
+      "name": "Garlicky",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Jamaican seasoning",
+      "amount": "1 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Velvety",
+      "amount": "2 tbsp",
+      "notes": "olive oil"
+    },
+    {
+      "name": "Beans, stew",
+      "amount": "1 can",
+      "notes": "15 oz, drained and rinsed"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium-high heat.",
+    "Add the minced garlic and cook for 1-2 minutes until fragrant.",
+    "Add the green beans and cook for 3-4 minutes until they start to soften.",
+    "Add the Jamaican seasoning, salt, and pepper, and stir to combine.",
+    "Add the stew beans and stir to combine.",
+    "Reduce heat to medium-low and simmer for 10-12 minutes until the green beans are tender.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "caribbean",
+    "green-beans",
+    "stew",
+    "comfort-food"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-velvety-jamaican-green-beans-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T00:22:21.960Z"
+}
