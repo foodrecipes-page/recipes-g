@@ -1,0 +1,84 @@
+{
+  "slug": "gooey-spicy-italian-beef-tagliatelle-with-yellow-masarepa-gooey-spicy-filling",
+  "title": "Spicy Beef Tagliatelle Casserole",
+  "description": "A spicy beef and tagliatelle casserole perfect for a weeknight dinner. This recipe combines the flavors of Italy with a kick of heat.",
+  "cuisine": "italian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "250g",
+      "notes": "ground beef"
+    },
+    {
+      "name": "tagliatelle",
+      "amount": "200g",
+      "notes": "wide egg noodles"
+    },
+    {
+      "name": "masarepa",
+      "amount": "100g",
+      "notes": "cornmeal"
+    },
+    {
+      "name": "spicy",
+      "amount": "1 tsp",
+      "notes": "dried chilli flakes"
+    },
+    {
+      "name": "with",
+      "amount": "1 tsp",
+      "notes": "dried oregano"
+    },
+    {
+      "name": "yellow",
+      "amount": "1 tsp",
+      "notes": "dried turmeric"
+    },
+    {
+      "name": "goeey",
+      "amount": "1/2 cup",
+      "notes": "grated cheddar cheese"
+    },
+    {
+      "name": "filling",
+      "amount": "1 cup",
+      "notes": "diced bell peppers"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Cook the tagliatelle according to package instructions.",
+    "In a large pan, cook the beef over medium heat until browned, breaking it up with a spoon as it cooks.",
+    "Add the dried chilli flakes, oregano, and turmeric to the pan and cook for 1 minute.",
+    "Stir in the diced bell peppers and cook until they start to soften.",
+    "Add the cooked tagliatelle to the pan and stir to combine with the beef mixture.",
+    "Transfer the mixture to a baking dish and top with the grated cheese.",
+    "Bake in the preheated oven for 15-20 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "beef",
+    "spicy",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-spicy-italian-beef-tagliatelle-with-yellow-masarepa-gooey-spicy-filling",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T22:04:37.568Z"
+}
