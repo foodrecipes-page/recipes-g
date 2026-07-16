@@ -1,0 +1,94 @@
+{
+  "slug": "golden-grilled-brazilian-sausages-skewers--mexican",
+  "title": "Brazilian Sausage Skewers with Grilled Onions",
+  "description": "A flavorful and colorful Mexican-inspired dish featuring Brazilian sausage, grilled onions, and golden peppers.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Brazilian sausages",
+      "amount": "1 pound",
+      "notes": "preferably chorizo or linguiça"
+    },
+    {
+      "name": "Golden peppers",
+      "amount": "2 large",
+      "notes": "any color bell pepper works"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "sweet onions like Vidalia or Maui"
+    },
+    {
+      "name": "Skewers",
+      "amount": "1 dozen",
+      "notes": "wooden or metal, soaked in water for 30 minutes"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing skewers"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Soak skewers in water for at least 30 minutes.",
+    "Cut Brazilian sausages into 1-inch pieces and place in a bowl.",
+    "Drizzle with olive oil and sprinkle with garlic powder, cumin, salt, and chili powder (if using).",
+    "Thread sausage pieces, golden peppers, and onions onto skewers, leaving a little space between each piece.",
+    "Brush skewers with olive oil and season with salt.",
+    "Grill skewers for 8-10 minutes, turning occasionally, until sausage is cooked through and onions are charred.",
+    "Serve hot, garnished with lime wedges and cilantro (if desired)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "grilled",
+    "sausages",
+    "skewers",
+    "latin"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-grilled-brazilian-sausages-skewers--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T06:38:13.357Z"
+}
