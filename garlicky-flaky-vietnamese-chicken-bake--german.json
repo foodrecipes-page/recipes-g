@@ -1,0 +1,65 @@
+{
+  "slug": "garlicky-flaky-vietnamese-chicken-bake--german",
+  "title": "German-Style Baked Chicken",
+  "description": "A classic German-inspired dish featuring baked chicken with a crispy, garlicky crust and a side of flaky biscuits.",
+  "cuisine": "german",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 1/2 pounds boneless, skinless chicken thighs"
+    },
+    {
+      "name": "garlicky",
+      "amount": "3 cloves garlic, minced"
+    },
+    {
+      "name": "flaky",
+      "amount": "1 cup all-purpose flour"
+    },
+    {
+      "name": "vietnamese",
+      "amount": "1 teaspoon dried oregano"
+    },
+    {
+      "name": "bake",
+      "amount": "1/4 cup unsalted butter, melted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a small bowl, mix together minced garlic, dried oregano, and melted butter.",
+    "Season the chicken thighs with salt and pepper.",
+    "Dredge the chicken in flour, shaking off excess.",
+    "Place the chicken on a baking sheet lined with parchment paper.",
+    "Brush the garlic-oil mixture evenly over the chicken.",
+    "Bake for 25-30 minutes or until the chicken is cooked through and the internal temperature reaches 165°F (74°C).",
+    "Meanwhile, prepare the flaky biscuits according to package instructions.",
+    "Serve the baked chicken with warm flaky biscuits on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "baked-chicken",
+    "comfort-food",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-flaky-vietnamese-chicken-bake--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:23:48.520Z"
+}
