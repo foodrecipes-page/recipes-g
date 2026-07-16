@@ -15413,5 +15413,18 @@
     "cuisine": "german",
     "totalTimeMin": 45,
     "shard": "g"
+  },
+  {
+    "slug": "gooey-malaysian-muffin-stir-fry--gluten-free",
+    "title": "Gooey Malaysian Muffin Stir-Fry",
+    "tags": [
+      "malaysian",
+      "gluten-free",
+      "snack",
+      "stir-fry"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 25,
+    "shard": "g"
   }
 ]
