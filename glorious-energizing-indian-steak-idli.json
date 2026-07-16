@@ -1,0 +1,95 @@
+{
+  "slug": "glorious-energizing-indian-steak-idli",
+  "title": "Spiced Steak Idli",
+  "description": "A fusion of Indian flavors with a juicy steak, served with a traditional idli. Perfect for a hearty dinner.",
+  "cuisine": "indian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "steak",
+      "amount": "1 pound",
+      "notes": "preferably ribeye or sirloin"
+    },
+    {
+      "name": "idli rice",
+      "amount": "1 cup",
+      "notes": "preferably short-grain rice"
+    },
+    {
+      "name": "fenugreek seeds",
+      "amount": "2 tablespoons",
+      "notes": "ground or whole"
+    },
+    {
+      "name": "curry leaves",
+      "amount": "1/4 cup",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the steak with salt and your desired amount of chili powder and garam masala.",
+    "Heat a non-stick skillet or grill pan over medium-high heat. Sear the steak for 3-4 minutes per side, or until it reaches your desired level of doneness.",
+    "Transfer the steak to a baking sheet and bake for an additional 5-10 minutes, or until it reaches 135°F (57°C) for medium-rare.",
+    "While the steak is cooking, prepare the idli by mixing the idli rice with fenugreek seeds, curry leaves, and a pinch of salt. Knead the mixture for 5-7 minutes until it forms a sticky dough.",
+    "Shape the dough into small idlis and steam them for 10-12 minutes, or until they are cooked through.",
+    "Heat a non-stick skillet over medium heat. Add the chopped onions and cook until they are translucent.",
+    "Add the minced garlic and grated ginger to the skillet and cook for an additional minute.",
+    "Serve the steak with the steamed idlis and the onion-garlic-ginger mixture.",
+    "Garnish with chopped cilantro or scallions, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "steak",
+    "idli",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/glorious-energizing-indian-steak-idli",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T04:46:42.595Z"
+}
