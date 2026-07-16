@@ -1,0 +1,62 @@
+{
+  "slug": "golden-brown-dutch-onion-casserole",
+  "title": "Dutch Casserole Delight",
+  "description": "A hearty Dutch casseroles recipe made with golden brown ingredients. It's perfect for a cozy meal.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "golden potatoes",
+      "amount": "3 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "dutch cheese",
+      "amount": "1 cup, shredded",
+      "notes": "such as Gouda"
+    },
+    {
+      "name": "brown onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "casserole dish",
+      "amount": "",
+      "notes": "9x13 inch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Grease the casserole dish with butter.",
+    "Arrange a layer of potatoes in the dish.",
+    "Sprinkle with cheese and onions, then repeat.",
+    "Top with additional cheese and dot with butter.",
+    "Cover with aluminum foil and bake for 30 minutes.",
+    "Remove foil and continue baking for an additional 20-25 minutes, or until the top is golden brown.",
+    "Let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "casserole",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-brown-dutch-onion-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T06:03:09.859Z"
+}
