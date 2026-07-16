@@ -15345,5 +15345,32 @@
     "cuisine": "thai",
     "totalTimeMin": 18,
     "shard": "g"
+  },
+  {
+    "slug": "garlicky-crumbly-brazilian-shrimp-feijoada--german",
+    "title": "Shrimp and Feijoada German-Style Schnitzel",
+    "tags": [
+      "german",
+      "schnitzel",
+      "shrimp",
+      "feijoada",
+      "garlicky",
+      "crunchy"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
+    "slug": "gooey-australian-parmigiano-reggiano-stir-fry--mexican",
+    "title": "Gooey Chiles Rellenos",
+    "tags": [
+      "mexican",
+      "cheese",
+      "vegetarian"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 45,
+    "shard": "g"
   }
 ]
