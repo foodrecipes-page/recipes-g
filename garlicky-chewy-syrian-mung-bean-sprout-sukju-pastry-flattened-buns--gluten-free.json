@@ -1,0 +1,76 @@
+{
+  "slug": "garlicky-chewy-syrian-mung-bean-sprout-sukju-pastry-flattened-buns--gluten-free",
+  "title": "Gluten-Free Sukju Buns with Mung Bean Filling",
+  "description": "A sweet and savory breakfast or snack option made with gluten-free suku buns filled with a mung bean paste.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Syrian pastry dough (gluten-free)",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Mung beans",
+      "amount": "1 cup",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "Garlicky sprouts",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chewy mung bean paste",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sukju buns (gluten-free)",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the Syrian pastry dough to a thickness of 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or a glass.",
+    "Place a spoonful of mung bean paste in the center of each dough circle.",
+    "Add some garlicky sprouts on top of the mung bean paste.",
+    "Brush the edges of the dough with sesame oil.",
+    "Fold the dough over the filling to form a half-moon shape.",
+    "Press the edges to seal the bun.",
+    "Place the buns on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes, or until the buns are golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "breakfast",
+    "gluten-free",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-chewy-syrian-mung-bean-sprout-sukju-pastry-flattened-buns--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T05:48:07.550Z"
+}
