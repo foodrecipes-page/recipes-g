@@ -1,0 +1,65 @@
+{
+  "slug": "golden-brown-french-sausage-gratin--german",
+  "title": "German Sausage Gratin",
+  "description": "A hearty German-inspired dish featuring sausage and potatoes in a golden-brown gratin.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sausage",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Potatoes",
+      "amount": "3 large",
+      "notes": null
+    },
+    {
+      "name": "French Onion",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Brown Mushrooms",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Golden Gruyère",
+      "amount": "1 cup shredded",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Slice the potatoes and onion, and sauté them in a pan until tender.",
+    "Add the brown mushrooms to the pan and cook until they release their moisture.",
+    "Add the sliced sausage to the pan and cook until browned.",
+    "Transfer the mixture to a baking dish and top with shredded Gruyère.",
+    "Bake for 20-25 minutes or until the top is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sausage",
+    "potatoes",
+    "german-cuisine",
+    "gratin"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 24,
+    "carbs": 35,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-brown-french-sausage-gratin--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T01:34:17.767Z"
+}
