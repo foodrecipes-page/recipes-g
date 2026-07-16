@@ -1,0 +1,90 @@
+{
+  "slug": "garlicky-crumbly-brazilian-shrimp-feijoada--german",
+  "title": "Shrimp and Feijoada German-Style Schnitzel",
+  "description": "A German-inspired twist on the classic schnitzel, featuring shrimp and feijoada in a crispy garlicky crust.",
+  "cuisine": "german",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "12 oz (340g)",
+      "notes": ""
+    },
+    {
+      "name": "feijoada",
+      "amount": "1/2 cup (115g)",
+      "notes": ""
+    },
+    {
+      "name": "garlicky breadcrumbs",
+      "amount": "1 cup (120g)",
+      "notes": ""
+    },
+    {
+      "name": "crumbly cheese",
+      "amount": "1/4 cup (30g)",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup (120g)",
+      "notes": ""
+    },
+    {
+      "name": "brazilian-style seasoning",
+      "amount": "1 tsp (5g)",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Prepare the shrimp by peeling and de-veining.",
+    "2. In a shallow dish, mix together flour, salt, and pepper.",
+    "3. In another shallow dish, beat the eggs.",
+    "4. In a third shallow dish, mix together garlicky breadcrumbs and crumbly cheese.",
+    "5. Dip each shrimp into the flour mixture, then the eggs, and finally the breadcrumb mixture, pressing the coating onto the shrimp.",
+    "6. Heat a large skillet over medium-high heat with a small amount of oil.",
+    "7. Add the coated shrimp to the skillet and cook for 2-3 minutes on each side, or until golden brown and cooked through.",
+    "8. Serve immediately with your favorite sides, such as sauerkraut or braised red cabbage."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "schnitzel",
+    "shrimp",
+    "feijoada",
+    "garlicky",
+    "crunchy"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-crumbly-brazilian-shrimp-feijoada--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T19:05:00.665Z"
+}
