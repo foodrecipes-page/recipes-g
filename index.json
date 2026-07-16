@@ -15458,5 +15458,18 @@
     "cuisine": "mexican",
     "totalTimeMin": 25,
     "shard": "g"
+  },
+  {
+    "slug": "grassy-snap-fresh-ukrainian-tagliatelle-pasta--mexican",
+    "title": "Mexican Tagliatelle Fiesta",
+    "tags": [
+      "mexican",
+      "pasta",
+      "vegetarian",
+      "easy"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "g"
   }
 ]
