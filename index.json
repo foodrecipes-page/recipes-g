@@ -8014,17 +8014,15 @@
   },
   {
     "slug": "glorious-golden-middle-eastern-chicken-kebabs",
-    "title": "Glorious Golden Middle Eastern Chicken Kebabs",
+    "title": "Eastern Style Chicken Kebabs",
     "tags": [
-      "crowd-pleaser",
-      "gluten-free",
-      "grilled",
+      "chicken",
+      "kebabs",
       "middle-eastern",
-      "outdoor",
-      "sugar-free"
+      "grilled"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 50,
+    "cuisine": "middle eastern",
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
@@ -8900,17 +8898,14 @@
   },
   {
     "slug": "golden-brown-dutch-onion-casserole",
-    "title": "Golden Brown Dutch Onion Casserole",
+    "title": "Dutch Casserole Delight",
     "tags": [
+      "dutch",
       "casserole",
-      "comfort-food",
-      "dutch-cuisine",
-      "gluten-free",
-      "sugar-free",
-      "winter-dish"
+      "vegetarian"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 55,
+    "totalTimeMin": 70,
     "shard": "g"
   },
   {
@@ -15423,6 +15418,32 @@
     ],
     "cuisine": "Malaysian",
     "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
+    "slug": "golden-flaky-ukrainian-pastry-pilaf--japanese",
+    "title": "Japanese-Style Pilaf Pastry Triangles",
+    "tags": [
+      "japanese",
+      "pilaf",
+      "pastry",
+      "snack"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-chewy-syrian-mung-bean-sprout-sukju-pastry-flattened-buns--gluten-free",
+    "title": "Gluten-Free Sukju Buns with Mung Bean Filling",
+    "tags": [
+      "korean",
+      "breakfast",
+      "gluten-free",
+      "snack"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
     "shard": "g"
   }
 ]
