@@ -1,0 +1,53 @@
+{
+  "slug": "garam-masala-kale-chaat",
+  "title": "Spicy Kale Chaat",
+  "description": "A flavorful and nutritious Indian-inspired snack made with crispy kale and a blend of spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Kale",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Garam Masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Chaat Masala",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "1. Rinse 2 cups of kale leaves and pat them dry with a paper towel.",
+    "2. Heat 1 tsp of garam masala and 1 tsp of chaat masala in a pan over medium heat.",
+    "3. Add the kale leaves to the pan and toss them with the spice mixture.",
+    "4. Cook for 2-3 minutes or until the kale is crispy and slightly browned.",
+    "5. Remove from heat and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "healthy",
+    "indian",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 50,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garam-masala-kale-chaat",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T01:57:50.128Z"
+}
