@@ -1,0 +1,72 @@
+{
+  "slug": "gooey-poached-indian-millet-pilaf",
+  "title": "Creamy Millet Pilaf with Poached Egg",
+  "description": "A delicious and comforting Indian-inspired millet pilaf dish topped with a poached egg and gooey cheese.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "millet",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 small"
+    },
+    {
+      "name": "goat cheese, crumbled",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "poached egg",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a saucepan over medium heat.",
+    "Add onion and ginger; cook until onion is translucent.",
+    "Add millet and stir to coat with oil mixture.",
+    "Add water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15-20 minutes or until water is absorbed.",
+    "Fluff millet with a fork.",
+    "Top with crumbled goat cheese and a poached egg.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "millet",
+    "poached-egg",
+    "indian-cuisine",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-poached-indian-millet-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T01:39:18.354Z"
+}
