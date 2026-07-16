@@ -15318,5 +15318,32 @@
     "cuisine": "italian",
     "totalTimeMin": 23,
     "shard": "g"
+  },
+  {
+    "slug": "garlicky-flaky-vietnamese-chicken-bake--german",
+    "title": "German-Style Baked Chicken",
+    "tags": [
+      "german",
+      "baked-chicken",
+      "comfort-food",
+      "easy-dinner"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-crumbly-brazilian-shrimp-feijoada--thai",
+    "title": "Thai Shrimp and Feijoada Stir Fry",
+    "tags": [
+      "thai",
+      "brazilian",
+      "shrimp",
+      "feijoada",
+      "stir-fry"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 18,
+    "shard": "g"
   }
 ]
