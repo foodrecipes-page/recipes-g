@@ -1,0 +1,78 @@
+{
+  "slug": "gourmet-vietnamese-tofu-canh-chua",
+  "title": "Gourmet Canh Chua Soup",
+  "description": "A rich and flavorful Vietnamese-inspired soup made with tofu and a variety of vegetables. Perfect for a light and comforting meal.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Gourmet vegetable broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": "pressed and drained"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Daikon radish",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Chua (pickled carrots and daikon)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable broth in a large pot over medium heat.",
+    "Add the sliced cucumber, carrots, and daikon radish to the pot.",
+    "Cook for 10-12 minutes or until the vegetables are tender.",
+    "Add the pressed and drained tofu to the pot.",
+    "Stir in the chua (pickled carrots and daikon).",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped fresh cilantro.",
+    "Serve the canh chua soup hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "vegetarian",
+    "soup",
+    "comfortfood"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gourmet-vietnamese-tofu-canh-chua",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T14:40:36.935Z"
+}
