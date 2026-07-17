@@ -1,0 +1,67 @@
+{
+  "slug": "gentle-pillowy-tunisian-oat-tagine",
+  "title": "Tunisian Gentle Oatmeal",
+  "description": "A comforting and nutritious breakfast dish using gentle oat, inspired by traditional Tunisian cuisine.",
+  "cuisine": "North African",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "gentle oat",
+      "amount": "1 cup",
+      "notes": "rolled oats"
+    },
+    {
+      "name": "pillowy water",
+      "amount": "2 cups",
+      "notes": "filtered water"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 tsp",
+      "notes": "ground cinnamon"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "sliced almonds",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a pot, bring the pillowy water to a boil.",
+    "Add the gentle oat and reduce heat to medium.",
+    "Simmer for 5 minutes, stirring occasionally.",
+    "Add the tagine and stir to combine.",
+    "Cook for an additional 2 minutes.",
+    "Serve warm, topped with maple syrup and sliced almonds if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 7,
+  "totalTimeMin": 12,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "north-african",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gentle-pillowy-tunisian-oat-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T17:30:08.088Z"
+}
