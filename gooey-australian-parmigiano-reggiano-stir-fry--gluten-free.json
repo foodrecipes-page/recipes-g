@@ -1,0 +1,76 @@
+{
+  "slug": "gooey-australian-parmigiano-reggiano-stir-fry--gluten-free",
+  "title": "Pan-Seared Gooey Australian Steak",
+  "description": "A simple yet flavorful gluten-free steak recipe, seared to perfection and served with a sprinkle of parmesan cheese.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian Steak",
+      "amount": "1 (1.5-2 pounds)",
+      "notes": null
+    },
+    {
+      "name": "Parmigiano Reggiano Cheese",
+      "amount": "1 cup, shredded",
+      "notes": null
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat your skillet or grill to 400°F (200°C).",
+    "Season the steak with salt and black pepper.",
+    "Add the olive oil to the preheated skillet and swirl to coat.",
+    "Sear the steak for 3-4 minutes per side, or until it reaches your desired level of doneness.",
+    "Transfer the steak to a plate and let it rest for 5 minutes.",
+    "Slice the steak against the grain and sprinkle with Parmigiano Reggiano cheese.",
+    "Garnish with fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "steak",
+    "parmesan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 0,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-australian-parmigiano-reggiano-stir-fry--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T16:34:41.795Z"
+}
