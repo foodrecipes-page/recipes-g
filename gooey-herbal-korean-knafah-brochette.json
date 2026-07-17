@@ -1,0 +1,59 @@
+{
+  "slug": "gooey-herbal-korean-knafah-brochette",
+  "title": "Korean Brochette with Herbal Gooey Sauce and Knafah Crust",
+  "description": "A sweet and savory twist on traditional brochette, with a gooey herbal sauce and a crunchy knafah crust.",
+  "cuisine": "korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Korean brochette",
+      "amount": "200g",
+      "notes": "marinated in a mixture of soy sauce, garlic, and sugar"
+    },
+    {
+      "name": "Herbal gooey sauce",
+      "amount": "250ml",
+      "notes": "made with honey, gochujang, and a variety of herbs"
+    },
+    {
+      "name": "Knafah crust",
+      "amount": "100g",
+      "notes": "made with knafah, flour, and egg"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Thread the Korean brochette onto skewers.",
+    "Grill the brochette for 10-12 minutes, or until cooked through.",
+    "Meanwhile, make the herbal gooey sauce by combining the honey, gochujang, and herbs in a saucepan.",
+    "Bring the sauce to a simmer and cook for 5-7 minutes, or until thickened.",
+    "To make the knafah crust, mix together the knafah, flour, and egg in a bowl.",
+    "Shape the mixture into small balls and flatten slightly.",
+    "Grill the crust for 2-3 minutes on each side, or until golden brown.",
+    "Serve the grilled brochette with the herbal gooey sauce and knafah crust."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "grill",
+    "herbal",
+    "knafah"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-herbal-korean-knafah-brochette",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T19:55:23.206Z"
+}
