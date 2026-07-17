@@ -1,0 +1,63 @@
+{
+  "slug": "garlicky-venezuelan-cornmeal-cachapas",
+  "title": "Venezuelan Corn Cachapas",
+  "description": "A delicious corn pancake dish from Venezuela, perfect for a snack or light meal.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Garlicky Cornmeal",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Cachapas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together the cornmeal and cachapas.",
+    "Gradually add in the water and mix until a thick batter forms.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Using a 1/4 cup measuring cup, scoop the batter onto the skillet.",
+    "Cook for 2-3 minutes or until bubbles appear on the surface.",
+    "Flip and cook for an additional 2-3 minutes or until golden brown.",
+    "Serve hot with your favorite toppings."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "corn",
+    "pancakes",
+    "venezuelan",
+    "snack",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-venezuelan-cornmeal-cachapas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T16:11:38.149Z"
+}
