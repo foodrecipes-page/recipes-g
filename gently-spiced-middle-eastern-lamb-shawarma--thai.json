@@ -1,0 +1,98 @@
+{
+  "slug": "gently-spiced-middle-eastern-lamb-shawarma--thai",
+  "title": "Thai Shawarma",
+  "description": "A fusion twist on the classic street food, blending Thai flavors with the warm spices of Shawarma. This dish is a delightful marriage of East meets Middle East.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb Shawarma Meat",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Thai Red Curry Paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Thai Basil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together curry paste, fish sauce, and lime juice.",
+    "2. Add the lamb shawarma meat and mix until well coated.",
+    "3. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes or overnight.",
+    "4. Preheat a grill or grill pan to medium-high heat.",
+    "5. Remove the lamb from the marinade and cook for 5-7 minutes per side, or until cooked through.",
+    "6. Transfer the lamb to a cutting board and let rest for 5 minutes.",
+    "7. Slice the lamb into thin strips.",
+    "8. Heat the coconut oil in a large skillet over medium heat.",
+    "9. Add the sesame seeds and cook for 1-2 minutes, or until fragrant.",
+    "10. Add the sliced lamb and cook for an additional 2-3 minutes, or until heated through.",
+    "11. Garnish with fresh cilantro and Thai basil.",
+    "12. Serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaifood",
+    "shawarma",
+    "lamb",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gently-spiced-middle-eastern-lamb-shawarma--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T15:57:40.721Z"
+}
