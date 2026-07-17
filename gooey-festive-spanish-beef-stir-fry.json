@@ -1,0 +1,80 @@
+{
+  "slug": "gooey-festive-spanish-beef-stir-fry",
+  "title": "Spanish Beef Fiesta",
+  "description": "A flavorful and spicy beef dish inspired by Spanish cuisine, perfect for a festive night in.",
+  "cuisine": "Spanish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef striploin",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Gooey honey",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Spanish paprika",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fry onions",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Festive pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F).",
+    "Season the beef striploin with salt and pepper.",
+    "In a large pan, heat the olive oil over medium-high heat.",
+    "Sear the beef striploin for 2-3 minutes per side, then transfer to a baking tray.",
+    "Add the sliced onions and peppers to the pan and cook until softened.",
+    "Add the Spanish paprika and stir to combine.",
+    "Return the beef to the pan and spoon some of the onion and pepper mixture over the top.",
+    "Transfer the pan to the preheated oven and cook for 10-12 minutes, or until the beef reaches 60°C (140°F) for medium-rare.",
+    "Remove the beef from the oven and let it rest for 5 minutes.",
+    "Slice the beef thinly against the grain and serve with the onion and pepper mixture spooned over the top.",
+    "Drizzle with gooey honey, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "beef",
+    "festival",
+    "fiesta",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 55,
+    "carbs": 10,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-festive-spanish-beef-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T17:28:57.947Z"
+}
