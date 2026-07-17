@@ -1,0 +1,98 @@
+{
+  "slug": "green-olive-delight--japanese",
+  "title": "Delightful Green Maki Rolls",
+  "description": "A simple and delicious Japanese-style sushi roll with a twist of fresh delight. Enjoy!",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Green",
+      "amount": "1 cup",
+      "notes": "Cucumber slices"
+    },
+    {
+      "name": "Delight",
+      "amount": "1/2 cup",
+      "notes": "Pickled Delight (such as pickled ginger)"
+    },
+    {
+      "name": "Sushi rice",
+      "amount": "1 cup",
+      "notes": "Cooked Japanese short-grain rice"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tsp",
+      "notes": "For brushing"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp",
+      "notes": "Optional garnish"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp",
+      "notes": "For serving"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tsp",
+      "notes": "For sushi rice"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": "For sushi rice"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": "For sushi rice"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "For sushi rice"
+    }
+  ],
+  "instructions": [
+    "Prepare sushi rice according to package instructions.",
+    "Mix rice vinegar, sugar, and salt in a small bowl.",
+    "Add the vinegar mixture to the cooked sushi rice and mix well.",
+    "Cut the Delight into thin slices.",
+    "Cut the Green into thin slices.",
+    "Lay a sheet of nori seaweed flat on a sushi mat.",
+    "Spread a thin layer of sushi rice onto the nori.",
+    "Place a few slices of Delight and Green in the middle of the rice.",
+    "Roll the sushi using the mat.",
+    "Repeat with remaining ingredients.",
+    "Cut the rolls into individual pieces.",
+    "Serve with soy sauce and garnish with sesame seeds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "sushi",
+    "snack",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/green-olive-delight--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T16:56:39.461Z"
+}
