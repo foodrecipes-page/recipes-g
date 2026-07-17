@@ -1,0 +1,70 @@
+{
+  "slug": "grassy-golden-dutch-grains-pilaf--indian",
+  "title": "Dutch Pilaf with Golden Grains",
+  "description": "A flavorful and aromatic Indian-inspired pilaf dish made with golden grains and a hint of Dutch spices.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Golden Grains",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Grassy",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Dutch Spice Blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "Adjust to desired consistency"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large saucepan over medium heat.",
+    "Add Dutch Spice Blend and cook for 1 minute, stirring constantly.",
+    "Add Golden Grains and cook for 2-3 minutes, stirring frequently.",
+    "Add Pilaf and Water. Bring to a boil, then reduce heat to low and cover.",
+    "Simmer for 15-20 minutes or until liquid is absorbed and grains are tender.",
+    "Season with Salt to taste.",
+    "Serve hot and garnish with Grassy if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian-pilaf",
+    "golden-grains",
+    "dutch-spice"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grassy-golden-dutch-grains-pilaf--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T11:10:25.590Z"
+}
