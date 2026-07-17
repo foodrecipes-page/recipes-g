@@ -1,0 +1,68 @@
+{
+  "slug": "garlicky-quick-japanese-cottage-cheese-ramen--japanese",
+  "title": "Garlicky Ramen",
+  "description": "A simple, comforting Japanese dish made with a flavorful broth and topped with crispy garlic.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "garlicky ramen noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "crushed"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "400ml"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "quick cheese",
+      "amount": "100g",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Bring the vegetable broth to a boil in a large pot.",
+    "Reduce heat to a simmer and add sugar and soy sauce.",
+    "Cook for 5 minutes.",
+    "Add crushed garlic to the pot and cook for an additional 2 minutes.",
+    "Cook the garlicky ramen noodles according to the package instructions.",
+    "Combine the noodles with the garlic broth and top with shredded cheese.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "ramen",
+    "japanese",
+    "cheese",
+    "garlic"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-quick-japanese-cottage-cheese-ramen--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T11:56:07.382Z"
+}
