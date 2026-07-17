@@ -1259,17 +1259,15 @@
   },
   {
     "slug": "garlicky-crisp-algerian-green-pepper-tagine",
-    "title": "Garlicky Crisp Algerian Green Pepper Tagine",
+    "title": "Algerian Pepper Stew",
     "tags": [
-      "algerian-cuisine",
-      "vegan",
-      "gluten-free",
-      "lazy-sunday",
-      "tagine",
-      "north-african"
+      "algerian",
+      "stew",
+      "vegetarian",
+      "peppers"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 50,
+    "cuisine": "algerian",
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
@@ -15664,6 +15662,18 @@
       "grape-leaves"
     ],
     "cuisine": "german",
+    "totalTimeMin": 55,
+    "shard": "g"
+  },
+  {
+    "slug": "golubyi-dense-midnight-craving-roasted-pepper-russian-roast-gratin--japanese",
+    "title": "Japanese Roasted Pepper Gratin",
+    "tags": [
+      "japanese",
+      "vegetarian",
+      "dinner"
+    ],
+    "cuisine": "japanese",
     "totalTimeMin": 55,
     "shard": "g"
   }
