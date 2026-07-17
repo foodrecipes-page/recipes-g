@@ -1728,15 +1728,15 @@
   },
   {
     "slug": "garlicky-crunchy-canadian-fish-stir-fry",
-    "title": "Garlicky Crunchy Canadian Fish Stir-fry",
+    "title": "Pan-Seared Canadian Fish Fry",
     "tags": [
-      "garlicky",
-      "crunchy",
+      "fish",
       "canadian",
-      "fish"
+      "dinner",
+      "easy"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 22,
+    "totalTimeMin": 18,
     "shard": "g"
   },
   {
@@ -4752,16 +4752,16 @@
   },
   {
     "slug": "garlicy-juicy-italian-tomato-sauce-pasta",
-    "title": "Garlicy Juicy Italian Tomato Sauce Pasta",
+    "title": "Garlicy Pasta with Homemade Tomato Sauce",
     "tags": [
       "italian",
-      "one-pan",
       "pasta",
-      "vegetarian",
-      "weeknight"
+      "tomato-sauce",
+      "garlic",
+      "vegetarian"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
@@ -12149,18 +12149,15 @@
   },
   {
     "slug": "gooey-slovakian-chicken-bake",
-    "title": "Gooey Slovakian Chicken Bake",
+    "title": "Baked Slovakian Chicken with Gooey Crust",
     "tags": [
       "comfort-food",
-      "easy-dinner",
-      "high-protein",
-      "one-pan",
+      "chicken",
       "slovakian",
-      "spicy",
-      "weeknight"
+      "baked"
     ],
-    "cuisine": "slovakian",
-    "totalTimeMin": 45,
+    "cuisine": "Slovakian",
+    "totalTimeMin": 50,
     "shard": "g"
   },
   {
