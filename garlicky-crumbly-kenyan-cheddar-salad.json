@@ -1,0 +1,64 @@
+{
+  "slug": "garlicky-crumbly-kenyan-cheddar-salad",
+  "title": "Garlicky Cheddar Salad",
+  "description": "A simple and delicious salad with a garlicky twist, featuring crumbly cheddar cheese and a hint of Kenyan spice.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Garlicky Cheddar Cheese",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "Mixed Greens Salad",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "Kenyan Pepper",
+      "amount": "1 tsp",
+      "notes": "Use a mild Kenyan pepper for a subtle flavor"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Croutons",
+      "amount": "1/4 cup",
+      "notes": "Use store-bought or homemade croutons"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the mixed greens salad and croutons.",
+    "2. Sprinkle the garlicky cheddar cheese over the salad.",
+    "3. Add the Kenyan pepper and garlic powder on top of the cheese.",
+    "4. Toss the salad gently to combine all the ingredients.",
+    "5. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "salad",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 17
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-crumbly-kenyan-cheddar-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T14:29:43.553Z"
+}
