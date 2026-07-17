@@ -15538,5 +15538,112 @@
     "cuisine": "Thai",
     "totalTimeMin": 50,
     "shard": "g"
+  },
+  {
+    "slug": "gooey-australian-parmigiano-reggiano-stir-fry--gluten-free",
+    "title": "Pan-Seared Gooey Australian Steak",
+    "tags": [
+      "steak",
+      "parmesan",
+      "gluten-free"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
+    "slug": "gooey-australian-parmigiano-reggiano-stir-fry--vegetarian",
+    "title": "Australian Reggiano Frittata",
+    "tags": [
+      "breakfast",
+      "vegetarian",
+      "frittata",
+      "australian-reggiano",
+      "cheesy",
+      "sweet-potatoes"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 40,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-nourishing-spanish-chicken-tortilla-espanola--gluten-free",
+    "title": "Spanish Chicken and Tortilla Espanola",
+    "tags": [
+      "spanish",
+      "chicken",
+      "gluten-free",
+      "breakfast",
+      "lunch"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 30,
+    "shard": "g"
+  },
+  {
+    "slug": "green-bean-zest--mexican",
+    "title": "Mexican Green Bean Stir Fry",
+    "tags": [
+      "mexican",
+      "stir-fry",
+      "vegetarian",
+      "green-beans"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 15,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-roasted-thai-fish-bowl--german",
+    "title": "German Fish Bowl",
+    "tags": [
+      "german",
+      "fish",
+      "bowl",
+      "thai-red-curry"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 27,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-korean-scallions-bake--thai",
+    "title": "Thai-Style Scallion Buns",
+    "tags": [
+      "thai",
+      "scallions",
+      "garlicky",
+      "bread"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
+    "shard": "g"
+  },
+  {
+    "slug": "green-olive-delight--japanese",
+    "title": "Delightful Green Maki Rolls",
+    "tags": [
+      "japanese",
+      "sushi",
+      "snack",
+      "veggie"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
+    "slug": "gourmet-grilled-algerian-tabasco-sauce-stir-fry--vegetarian",
+    "title": "Grilled Algerian Vegetable Delight",
+    "tags": [
+      "vegetarian",
+      "grilled",
+      "algerian",
+      "gourmet",
+      "quick-and-easy"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 25,
+    "shard": "g"
   }
 ]
