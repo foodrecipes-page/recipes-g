@@ -15674,5 +15674,19 @@
     "cuisine": "japanese",
     "totalTimeMin": 55,
     "shard": "g"
+  },
+  {
+    "slug": "gourmet-creamy-australian-russet-potato-gratin--mexican",
+    "title": "Mexican Gratin Potato Bake",
+    "tags": [
+      "mexican",
+      "comfort-food",
+      "potatoes",
+      "cheese",
+      "baked"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 65,
+    "shard": "g"
   }
 ]
