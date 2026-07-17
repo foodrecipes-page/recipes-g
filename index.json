@@ -4588,16 +4588,16 @@
   },
   {
     "slug": "garlicky-venezuelan-cornmeal-cachapas",
-    "title": "Garlicky Venezuelan Cornmeal Cachapas",
+    "title": "Venezuelan Corn Cachapas",
     "tags": [
-      "breakfast-brunch",
-      "fodmap-friendly",
-      "gluten-free",
-      "latin-american",
-      "vegetarian"
+      "corn",
+      "pancakes",
+      "venezuelan",
+      "snack",
+      "breakfast"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 20,
     "shard": "g"
   },
   {
@@ -11884,16 +11884,15 @@
   },
   {
     "slug": "gooey-peppery-ukrainian-vegetable-stock-borscht",
-    "title": "Gooey Peppery Ukrainian Vegetable Stock Borscht",
+    "title": "Borscht Soup",
     "tags": [
-      "comfort-food",
-      "low-carb",
-      "one-pot",
+      "soup",
       "ukrainian",
-      "winter"
+      "beets",
+      "vegetarian"
     ],
-    "cuisine": "ukrainian",
-    "totalTimeMin": 60,
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 50,
     "shard": "g"
   },
   {
@@ -15525,6 +15524,19 @@
     ],
     "cuisine": "australian",
     "totalTimeMin": 18,
+    "shard": "g"
+  },
+  {
+    "slug": "gently-spiced-middle-eastern-lamb-shawarma--thai",
+    "title": "Thai Shawarma",
+    "tags": [
+      "thaifood",
+      "shawarma",
+      "lamb",
+      "fusion"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 50,
     "shard": "g"
   }
 ]
