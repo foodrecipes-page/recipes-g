@@ -1,0 +1,56 @@
+{
+  "slug": "grilled-british-grape-nuts-pilaf",
+  "title": "Grape Pilaf",
+  "description": "A simple and flavorful side dish, combining the sweetness of grapes with the nutty taste of pilaf.",
+  "cuisine": "british",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "Grapes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Nuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "1. Heat olive oil in a pan over medium heat.",
+    "2. Add pilaf and cook for 5 minutes, stirring occasionally.",
+    "3. Add grapes and nuts to the pan.",
+    "4. Stir to combine and cook for an additional 2 minutes.",
+    "5. Serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 7,
+  "totalTimeMin": 12,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "british",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grilled-british-grape-nuts-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T18:15:43.990Z"
+}
