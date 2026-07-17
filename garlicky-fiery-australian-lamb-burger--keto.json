@@ -1,0 +1,62 @@
+{
+  "slug": "garlicky-fiery-australian-lamb-burger--keto",
+  "title": "Keto Australian Lamb Burger",
+  "description": "A flavorful and savory lamb burger infused with australian flavors and spices, ideal for a low-carb keto diet. Serve with a side of your favorite vegetables.",
+  "cuisine": "australian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1.5 lbs",
+      "notes": "Ground lamb"
+    },
+    {
+      "name": "garlicky",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "fiery",
+      "amount": "1 tsp",
+      "notes": "Red pepper flakes"
+    },
+    {
+      "name": "burger",
+      "amount": "4 buns",
+      "notes": "Low-carb or almond flour buns"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, combine ground lamb, minced garlic, and red pepper flakes. Mix well.",
+    "Form lamb mixture into 4 patties.",
+    "Grill lamb patties for 4-5 minutes per side, or until cooked to your desired level of doneness.",
+    "Meanwhile, toast low-carb buns on the grill.",
+    "Assemble burgers by spreading a dollop of your favorite keto mayo on the bottom bun, followed by a lamb patty, and finally the top bun.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "keto",
+    "burger",
+    "australian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 46,
+    "carbs": 5,
+    "fat": 44
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-fiery-australian-lamb-burger--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T14:52:02.957Z"
+}
