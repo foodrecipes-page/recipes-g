@@ -1,0 +1,87 @@
+{
+  "slug": "green-bean-zest--mexican",
+  "title": "Mexican Green Bean Stir Fry",
+  "description": "A quick and easy Mexican-inspired stir fry made with green beans and lime zest. Serve as a side dish or add to tacos.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Green beans",
+      "amount": "1 pound",
+      "notes": "Trimmed and cut into 1-inch pieces"
+    },
+    {
+      "name": "Lime zest",
+      "amount": "2 tablespoons",
+      "notes": "Freshly grated"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1/2 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add garlic and cook for 1 minute, until fragrant.",
+    "Add green beans and cook for 3-4 minutes, until tender.",
+    "Stir in lime zest, cumin, chili powder, salt, and pepper.",
+    "Cook for an additional 1-2 minutes, until the flavors have melded together.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "stir-fry",
+    "vegetarian",
+    "green-beans"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/green-bean-zest--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T16:49:44.115Z"
+}
