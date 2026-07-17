@@ -1,0 +1,63 @@
+{
+  "slug": "garlicky-uruguayan-garlic-grill--italian",
+  "title": "Uruguayan Grill Steak with Garlic",
+  "description": "A classic Italian-inspired Uruguayan-grilled steak dish infused with the pungency of garlic.",
+  "cuisine": "italian",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Uruguayan",
+      "amount": "1 (1.5-2 pound) flank steak",
+      "notes": null
+    },
+    {
+      "name": "Grill",
+      "amount": "",
+      "notes": "charcoal or gas grill"
+    },
+    {
+      "name": "Garlicky",
+      "amount": "",
+      "notes": "optional for garlic butter"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F).",
+    "Season the flank steak with salt and pepper.",
+    "Grill the steak for 5-7 minutes per side for medium-rare.",
+    "Let the steak rest for 5 minutes.",
+    "Meanwhile, mix minced garlic with melted butter (if using).",
+    "Serve the grilled steak with a pat of garlic butter (if using).",
+    "Garnish with parsley and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "grilled-steak",
+    "garlic",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 55,
+    "carbs": 0,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-uruguayan-garlic-grill--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T12:45:49.774Z"
+}
