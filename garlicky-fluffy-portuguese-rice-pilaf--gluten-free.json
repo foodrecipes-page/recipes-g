@@ -1,0 +1,68 @@
+{
+  "slug": "garlicky-fluffy-portuguese-rice-pilaf--gluten-free",
+  "title": "Portuguese-Style Pilaf",
+  "description": "A flavorful, gluten-free pilaf dish inspired by Portuguese cuisine.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "garlicky rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "fluffy rice",
+      "amount": "1 cup",
+      "notes": "short-grain"
+    },
+    {
+      "name": "portuguese spices",
+      "amount": "1 tsp",
+      "notes": "dried thyme, oregano, and rosemary"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "gluten-free"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add Portuguese spices and cook for 1 minute.",
+    "Add fluffy rice and cook for 2-3 minutes, until lightly toasted.",
+    "Add garlicky rice and chicken broth to the saucepan.",
+    "Bring the mixture to a boil, then reduce the heat to low and cover.",
+    "Simmer for 18-20 minutes, or until the liquid has been absorbed and the rice is tender.",
+    "Fluff the pilaf with a fork and serve hot.",
+    "Optional: garnish with chopped fresh herbs, such as parsley or cilantro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "portuguese",
+    "pilaf",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-fluffy-portuguese-rice-pilaf--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T17:40:23.288Z"
+}
