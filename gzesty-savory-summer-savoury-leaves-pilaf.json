@@ -1,0 +1,66 @@
+{
+  "slug": "gzesty-savory-summer-savoury-leaves-pilaf",
+  "title": "Summer Pilaf with Savoury Greens",
+  "description": "A light and refreshing summer pilaf dish, mixed with savoury greens and topped with a sprinkle of summer herbs.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Summer Pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Leaves (such as spinach or kale)",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "Savory Greens",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Gzesty",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "1. Heat olive oil in a large skillet over medium heat.",
+    "2. Add the chopped savory greens and cook until wilted, about 3-4 minutes.",
+    "3. Add the summer pilaf and cook for an additional 2-3 minutes.",
+    "4. Stir in the chopped leaves and dried gzesty.",
+    "5. Season with salt and pepper to taste.",
+    "6. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "summer",
+    "pilaf",
+    "greens",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gzesty-savory-summer-savoury-leaves-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T14:18:44.031Z"
+}
