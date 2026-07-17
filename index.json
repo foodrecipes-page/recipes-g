@@ -15496,5 +15496,31 @@
     "cuisine": "japanese",
     "totalTimeMin": 25,
     "shard": "g"
+  },
+  {
+    "slug": "gooey-show-off-white-chocolate-stir-fry--german",
+    "title": "German-Style Chocolate Fritters",
+    "tags": [
+      "german",
+      "chocolate",
+      "fritters",
+      "dessert"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-uruguayan-garlic-grill--italian",
+    "title": "Uruguayan Grill Steak with Garlic",
+    "tags": [
+      "italian",
+      "grilled-steak",
+      "garlic",
+      "beef"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "g"
   }
 ]
