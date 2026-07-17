@@ -1,0 +1,86 @@
+{
+  "slug": "gooey-sweet-thai-dum-nam-prik",
+  "title": "Spicy Thai Dumplings",
+  "description": "A recipe for Thai-style dumplings filled with a sweet and spicy filling, served with a side of tangy sauce.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Gooey dough",
+      "amount": "1 package",
+      "notes": "available at most Asian markets"
+    },
+    {
+      "name": "Prik paste",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Nam pla (fish sauce)",
+      "amount": "1 tablespoon",
+      "notes": "optional, omit for vegetarian version"
+    },
+    {
+      "name": "Dum",
+      "amount": "1 package",
+      "notes": "Thai-style dumpling wrappers"
+    },
+    {
+      "name": "Sweet chili sauce",
+      "amount": "1/4 cup",
+      "notes": "for serving"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine the gooey dough, prik paste, and nam pla (if using). Mix until a smooth dough forms.",
+    "2. Divide the dough into small balls, about the size of a small egg.",
+    "3. Flatten each ball of dough into a thin circle.",
+    "4. Place a small spoonful of the sweet filling in the center of each dough circle.",
+    "5. Fold the dough over the filling to form a half-moon shape, and press the edges together to seal the dumpling.",
+    "6. Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "7. Add the dumplings to the skillet and cook for 2-3 minutes on each side, until golden brown.",
+    "8. Serve the dumplings hot with a side of sweet chili sauce for dipping.",
+    "9. Garnish with green onions and cilantro.",
+    "10. Enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "thaifood",
+    "dumplings",
+    "vegan",
+    "glutenfree"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-sweet-thai-dum-nam-prik",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T22:54:33.378Z"
+}
