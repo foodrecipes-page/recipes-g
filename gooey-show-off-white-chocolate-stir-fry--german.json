@@ -1,0 +1,83 @@
+{
+  "slug": "gooey-show-off-white-chocolate-stir-fry--german",
+  "title": "German-Style Chocolate Fritters",
+  "description": "A sweet and indulgent dessert inspired by traditional German cuisine, featuring rich chocolate and crispy fritters.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "white chocolate chips",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "butter, melted",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "powdered sugar",
+      "amount": "1 cup",
+      "notes": "for dusting"
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, whisk together flour, sugar, and salt.",
+    "In a separate bowl, whisk together milk, egg, and melted butter.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Melt the white chocolate chips in a double boiler or in the microwave in 30-second increments, stirring between each interval.",
+    "Add the melted chocolate to the batter and stir until combined.",
+    "Heat about 2-3 inches of vegetable oil in a deep frying pan over medium-high heat until it reaches 350°F.",
+    "Using a spoon, drop small balls of the batter into the hot oil, about 1/4 cup each.",
+    "Fry the fritters for 2-3 minutes on each side, or until they are golden brown and crispy.",
+    "Remove the fritters from the oil with a slotted spoon and place them on a paper towel-lined plate to drain excess oil.",
+    "Dust the fritters with powdered sugar and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "chocolate",
+    "fritters",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-show-off-white-chocolate-stir-fry--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T12:31:30.811Z"
+}
