@@ -1588,21 +1588,14 @@
   },
   {
     "slug": "garlicky-crumbly-kenyan-cheddar-salad",
-    "title": "Garlicky Crumbly Kenyan Cheddar Salad",
+    "title": "Garlicky Cheddar Salad",
     "tags": [
-      "garlicky",
-      "crumbly",
-      "kenyan",
+      "easy",
       "salad",
-      "fodmap-friendly",
-      "crowd-pleaser",
-      "pickled",
-      "rocket",
-      "cheddar",
-      "nutty"
+      "cheese"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 20,
+    "cuisine": "American",
+    "totalTimeMin": 10,
     "shard": "g"
   },
   {
@@ -13014,17 +13007,15 @@
   },
   {
     "slug": "gourmet-vietnamese-tofu-canh-chua",
-    "title": "Gourmet Vietnamese Tofu Canh Chua",
+    "title": "Gourmet Canh Chua Soup",
     "tags": [
-      "fondue-pot",
-      "harissa",
-      "kosher",
-      "midnight-snack",
-      "sour-soup",
-      "tofu"
+      "vietnamese",
+      "vegetarian",
+      "soup",
+      "comfortfood"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 40,
+    "cuisine": "vietnamese",
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
@@ -14795,16 +14786,16 @@
   },
   {
     "slug": "gzesty-savory-summer-savoury-leaves-pilaf",
-    "title": "GZesty Savory Summer Savoury Leaves Pilaf",
+    "title": "Summer Pilaf with Savoury Greens",
     "tags": [
-      "gzymetic",
-      "high-protein-friendly",
-      "savoury-leaves",
-      "snack",
-      "summer-savory"
+      "summer",
+      "pilaf",
+      "greens",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
@@ -15521,6 +15512,19 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-fiery-australian-lamb-burger--keto",
+    "title": "Keto Australian Lamb Burger",
+    "tags": [
+      "lamb",
+      "keto",
+      "burger",
+      "australian"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 18,
     "shard": "g"
   }
 ]
