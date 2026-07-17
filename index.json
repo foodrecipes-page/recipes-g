@@ -5251,15 +5251,15 @@
   },
   {
     "slug": "gentle-pillowy-tunisian-oat-tagine",
-    "title": "gentle pillowy tunisian oat tagine",
+    "title": "Tunisian Gentle Oatmeal",
     "tags": [
-      "comfort-food",
-      "herbal",
-      "oat-based",
-      "sick-day"
+      "breakfast",
+      "north-african",
+      "vegan",
+      "gluten-free"
     ],
-    "cuisine": "tunisian",
-    "totalTimeMin": 20,
+    "cuisine": "North African",
+    "totalTimeMin": 12,
     "shard": "g"
   },
   {
@@ -11223,15 +11223,16 @@
   },
   {
     "slug": "gooey-festive-spanish-beef-stir-fry",
-    "title": "Gooey Festive Spanish Beef Stir-fry",
+    "title": "Spanish Beef Fiesta",
     "tags": [
-      "festive-spanish",
-      "fermented-beef",
-      "goosey-stir-fry",
-      "sous-vide-friendly"
+      "spanish",
+      "beef",
+      "festival",
+      "fiesta",
+      "dinner"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
@@ -14036,15 +14037,14 @@
   },
   {
     "slug": "grilled-british-grape-nuts-pilaf",
-    "title": "Grilled British Grape Nuts Pilaf",
+    "title": "Grape Pilaf",
     "tags": [
       "grilled",
       "british",
-      "pilaf",
-      "herbal"
+      "pilaf"
     ],
-    "cuisine": "British",
-    "totalTimeMin": 14,
+    "cuisine": "british",
+    "totalTimeMin": 12,
     "shard": "g"
   },
   {
@@ -15644,6 +15644,32 @@
     ],
     "cuisine": "Algerian",
     "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-fluffy-portuguese-rice-pilaf--gluten-free",
+    "title": "Portuguese-Style Pilaf",
+    "tags": [
+      "gluten-free",
+      "portuguese",
+      "pilaf",
+      "rice"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 30,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-creamy-middle-eastern-grape-leaves-casserole--german",
+    "title": "Savory Grape Leaf Casserole",
+    "tags": [
+      "german",
+      "vegetarian",
+      "casserole",
+      "grape-leaves"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 55,
     "shard": "g"
   }
 ]
