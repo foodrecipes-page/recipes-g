@@ -1,0 +1,87 @@
+{
+  "slug": "gourmet-creamy-australian-russet-potato-gratin--mexican",
+  "title": "Mexican Gratin Potato Bake",
+  "description": "A creamy, cheesy Mexican twist on the classic gratin potato dish.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "Russet potatoes work best for this recipe."
+    },
+    {
+      "name": "gratin cheese",
+      "amount": "1 cup shredded",
+      "notes": "Mexican blend or a mix of cheddar and Monterey Jack."
+    },
+    {
+      "name": "cream",
+      "amount": "1/2 cup heavy",
+      "notes": "Optional for extra creaminess."
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Diced, for added flavor."
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "Ground cumin for a Mexican touch."
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp",
+      "notes": "Add some heat with chili powder."
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "Season to taste."
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "Optional for extra flavor."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Poke some holes in the potatoes with a fork and microwave for 3-4 minutes to soften them.",
+    "Slice the potatoes thinly and set aside.",
+    "In a pan, sauté the diced onion over medium heat until softened.",
+    "Add the cumin, chili powder, salt, and pepper to the pan and stir for 1 minute.",
+    "In a separate bowl, mix the shredded cheese and heavy cream (if using).",
+    "In a 9x13 inch baking dish, create a layer of potatoes, followed by a layer of the cheese mixture, and then a sprinkle of the cumin-chili powder mixture.",
+    "Repeat this process until all the ingredients are used, finishing with a layer of cheese on top.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20-25 minutes, or until the top is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 50,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "comfort-food",
+    "potatoes",
+    "cheese",
+    "baked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gourmet-creamy-australian-russet-potato-gratin--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T01:36:49.373Z"
+}
