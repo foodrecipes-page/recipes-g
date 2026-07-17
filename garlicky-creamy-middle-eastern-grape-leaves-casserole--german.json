@@ -1,0 +1,72 @@
+{
+  "slug": "garlicky-creamy-middle-eastern-grape-leaves-casserole--german",
+  "title": "Savory Grape Leaf Casserole",
+  "description": "A twist on a classic German dish, this grape leaf casserole is a hearty, comforting option for a chilly evening.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "garlicky spread",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "casserole mix",
+      "amount": "1 package"
+    },
+    {
+      "name": "eastern spices",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "grape leaves",
+      "amount": "6 leaves",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "middle eastern cheese",
+      "amount": "1 cup",
+      "notes": "feta or goat cheese"
+    },
+    {
+      "name": "creamy sauce",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a medium bowl, mix together the garlicky spread, casserole mix, and eastern spices.",
+    "Lay a grape leaf flat and place a spoonful of the mix in the center of the leaf.",
+    "Fold the stem end over the mix, then fold in the sides and roll the leaf into a neat package.",
+    "Repeat with the remaining grape leaves and mix.",
+    "In a large baking dish, create a layer of grape leaves.",
+    "Top with a layer of creamy sauce.",
+    "Repeat the layers, ending with a layer of creamy sauce on top.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the top is lightly browned.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "vegetarian",
+    "casserole",
+    "grape-leaves"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-creamy-middle-eastern-grape-leaves-casserole--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T17:56:11.156Z"
+}
