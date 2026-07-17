@@ -1143,16 +1143,15 @@
   },
   {
     "slug": "garlicky-creamy-mexican-chicken-enchilada-casserole",
-    "title": "Garlicky Creamy Mexican Chicken Enchilada Casserole",
+    "title": "Garlicky Chicken Enchilada Casserole",
     "tags": [
       "mexican",
+      "chicken",
       "casserole",
-      "comfort",
-      "spicy",
-      "chicken"
+      "comfort-food"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 55,
+    "cuisine": "mexican",
+    "totalTimeMin": 45,
     "shard": "g"
   },
   {
