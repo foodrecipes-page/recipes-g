@@ -1,0 +1,89 @@
+{
+  "slug": "gooey-australian-parmigiano-reggiano-stir-fry--vegetarian",
+  "title": "Australian Reggiano Frittata",
+  "description": "A hearty vegetarian frittata filled with the flavors of Australia, featuring gooey cheese and stir-fried vegetables.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Australian sweet potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Reggiano cheese",
+      "amount": "1/2 cup, grated",
+      "notes": ""
+    },
+    {
+      "name": "Gooey bechamel sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Spinach",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat olive oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the sliced mushrooms and cook until tender, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Stir in the chopped sweet potatoes and cook for 2-3 minutes.",
+    "In a large bowl, whisk together the Reggiano cheese and bechamel sauce.",
+    "Pour the cheese mixture over the skillet and stir to combine.",
+    "Transfer the skillet to the preheated oven and bake for 20-25 minutes.",
+    "Remove from the oven and stir in the fresh spinach.",
+    "Return to the oven and bake for an additional 5-10 minutes.",
+    "Remove from the oven and let cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "vegetarian",
+    "frittata",
+    "australian-reggiano",
+    "cheesy",
+    "sweet-potatoes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-australian-parmigiano-reggiano-stir-fry--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T16:35:44.249Z"
+}
