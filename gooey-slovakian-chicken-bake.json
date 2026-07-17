@@ -1,0 +1,59 @@
+{
+  "slug": "gooey-slovakian-chicken-bake",
+  "title": "Baked Slovakian Chicken with Gooey Crust",
+  "description": "A hearty Slovakian-inspired dish featuring chicken with a gooey crust. This recipe is perfect for a comforting dinner.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "2"
+    },
+    {
+      "name": "slovakian bread",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "gooey cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cut the Slovakian bread into small cubes and mix with gooey cheese.",
+    "In a separate bowl, beat the eggs.",
+    "In a baking dish, arrange the chicken breast.",
+    "Spread the bread and cheese mixture evenly over the chicken.",
+    "Pour the beaten eggs over the top.",
+    "Bake for 30 minutes or until the cheese is golden brown.",
+    "Let the dish rest for 5 minutes before serving.",
+    "Slice the chicken and serve hot.",
+    "Garnish with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "chicken",
+    "slovakian",
+    "baked"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-slovakian-chicken-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T18:21:41.450Z"
+}
