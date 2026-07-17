@@ -1,0 +1,75 @@
+{
+  "slug": "golubyi-dense-midnight-craving-roasted-pepper-russian-roast-gratin--japanese",
+  "title": "Japanese Roasted Pepper Gratin",
+  "description": "A flavorful and savory Japanese-inspired dish made with roasted peppers, a comforting gratin.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Roasted peppers",
+      "amount": "2 cups sliced",
+      "notes": ""
+    },
+    {
+      "name": "Golubyi cheese",
+      "amount": "1 cup grated",
+      "notes": ""
+    },
+    {
+      "name": "Dense breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Midnight olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Craving salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Russian black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Roast garlic",
+      "amount": "2 cloves minced",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine sliced peppers, grated cheese, breadcrumbs, and minced garlic.",
+    "Drizzle with olive oil and season with salt and black pepper.",
+    "Transfer the mixture to a baking dish and cover with aluminum foil.",
+    "Bake for 25 minutes, then remove the foil and continue baking for an additional 10-15 minutes.",
+    "Serve the gratin hot, garnished with additional grated cheese if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "vegetarian",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golubyi-dense-midnight-craving-roasted-pepper-russian-roast-gratin--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T21:56:22.599Z"
+}
