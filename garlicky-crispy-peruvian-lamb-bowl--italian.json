@@ -1,0 +1,90 @@
+{
+  "slug": "garlicky-crispy-peruvian-lamb-bowl--italian",
+  "title": "Lamb Cacciatore in Peruvian Bowl",
+  "description": "A classic Italian dish with a twist, featuring lamb, onions, and spices, served in a crispy Peruvian bowl",
+  "cuisine": "italian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlicky Italian seasoning",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "crispy Peruvian bowl",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the lamb with salt, pepper, and Italian seasoning.",
+    "Heat the olive oil in a large skillet over medium-high heat. Sear the lamb until browned on both sides.",
+    "Transfer the lamb to the oven and cook for 10-12 minutes, or until cooked through.",
+    "While the lamb is cooking, sauté the onion and bell pepper in the same skillet until tender.",
+    "Add the tomato sauce to the skillet and stir to combine.",
+    "To assemble the bowls, place the cooked lamb on top of a crispy Peruvian bowl, followed by the onion and bell pepper mixture.",
+    "Serve hot and enjoy!",
+    "Let the dish rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 22,
+  "totalTimeMin": 37,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "lamb",
+    "cacciatore",
+    "peruvian",
+    "bowl"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-crispy-peruvian-lamb-bowl--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T05:54:36.432Z"
+}
