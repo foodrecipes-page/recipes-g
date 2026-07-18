@@ -1,0 +1,90 @@
+{
+  "slug": "ginger-garlic-filipino-chicken-tinola",
+  "title": "Filipino Chicken Tinola",
+  "description": "A classic Filipino chicken soup made with ginger, garlic, and tinola (lemongrass). This comforting dish is perfect for a chilly day.",
+  "cuisine": "Filipino",
+  "diet": [
+    "pork-free",
+    "chicken",
+    "vegetarian-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast or thighs",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "lemongrass (tinola)",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat oil over medium heat.",
+    "Saute the garlic until fragrant, about 1-2 minutes.",
+    "Add the ginger and lemongrass, cook for another minute.",
+    "Add the chicken and cook until browned on all sides.",
+    "Pour in the chicken broth and bring to a boil.",
+    "Reduce heat to low and simmer for 20-25 minutes, or until the chicken is cooked through.",
+    "Season with fish sauce, salt, and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "chicken",
+    "comfort-food",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ginger-garlic-filipino-chicken-tinola",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T06:07:53.111Z"
+}
