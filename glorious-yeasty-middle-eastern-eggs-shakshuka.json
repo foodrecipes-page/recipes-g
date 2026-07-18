@@ -1,0 +1,85 @@
+{
+  "slug": "glorious-yeasty-middle-eastern-eggs-shakshuka",
+  "title": "Middle Eastern Shakshuka",
+  "description": "A classic Middle Eastern dish where eggs poached in a flavorful tomato sauce, served with crusty bread for dipping.",
+  "cuisine": "Middle Eastern",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Canned crushed tomatoes",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "Spices",
+      "amount": "1 teaspoon ground cumin, 1 teaspoon smoked paprika, salt, and pepper"
+    },
+    {
+      "name": "Eggs",
+      "amount": "4 large eggs"
+    },
+    {
+      "name": "Feta cheese (optional)",
+      "amount": "1/4 cup, crumbled"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 tablespoon, chopped"
+    },
+    {
+      "name": "Crusty bread",
+      "amount": "1 baguette"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Heat the oil in a large cast-iron skillet over medium-low heat.",
+    "Add the onion and bell pepper and cook, stirring occasionally, until softened, about 10 minutes.",
+    "Stir in the tomato paste and cook for 1 minute.",
+    "Add the crushed tomatoes, cumin, smoked paprika, salt, and pepper. Bring to a simmer.",
+    "Using the back of a spoon, create 4 wells in the sauce.",
+    "Crack an egg into each well.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the whites are set and the yolks are still runny.",
+    "Sprinkle with feta cheese (if using) and parsley.",
+    "Serve with crusty bread for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "middle-eastern",
+    "breakfast",
+    "shakshuka",
+    "eggs",
+    "tomatoes",
+    "bread"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/glorious-yeasty-middle-eastern-eggs-shakshuka",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T14:46:41.598Z"
+}
