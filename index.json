@@ -6713,14 +6713,11 @@
   },
   {
     "slug": "gingered-korean-romano-pepper-bibimbap",
-    "title": "Gingered Korean Romano Pepper Bibimbap",
+    "title": "Bibimbap with Gingered Beef",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "korean-inspired",
-      "one-pan",
-      "vegan-friendly",
-      "weeknight"
+      "bibimbap",
+      "korean",
+      "gingered beef"
     ],
     "cuisine": "Korean",
     "totalTimeMin": 35,
@@ -14767,16 +14764,14 @@
   },
   {
     "slug": "gzesty-savory-summer-savoury-leaves-pilaf",
-    "title": "Summer Pilaf with Savoury Greens",
+    "title": "Summer Pilaf Delight",
     "tags": [
       "summer",
       "pilaf",
-      "greens",
-      "vegetarian",
-      "gluten-free"
+      "vegetarian"
     ],
-    "cuisine": null,
-    "totalTimeMin": 25,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 20,
     "shard": "g"
   },
   {
