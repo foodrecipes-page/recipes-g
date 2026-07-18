@@ -1,0 +1,79 @@
+{
+  "slug": "gentle-malt-american-lamb-tagine",
+  "title": "Lamb Tagine",
+  "description": "A traditional Moroccan dish, lamb tagine is a hearty and flavorful stew made with tender lamb, gentle spices, and a sweet American malt.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 pound shoulder or neck",
+      "notes": ""
+    },
+    {
+      "name": "gentle",
+      "amount": "1 teaspoon ras el hanout",
+      "notes": ""
+    },
+    {
+      "name": "malt",
+      "amount": "2 tablespoons American malt syrup",
+      "notes": ""
+    },
+    {
+      "name": "tagine",
+      "amount": "1 cup lamb or vegetable broth",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium chopped",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves minced",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon grated",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in the bottom of a clay or ceramic tagine over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and ginger and cook for another minute.",
+    "Add the lamb and cook until browned on all sides.",
+    "Add the ras el hanout, malt syrup, broth, and bring to a simmer.",
+    "Cover the tagine and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2-3 hours, or until the lamb is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over couscous or rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 180,
+  "totalTimeMin": 195,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "moroccan",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gentle-malt-american-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T13:11:03.130Z"
+}
