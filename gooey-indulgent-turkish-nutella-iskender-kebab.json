@@ -1,0 +1,67 @@
+{
+  "slug": "gooey-indulgent-turkish-nutella-iskender-kebab",
+  "title": "Iskender Kebab with Nutella Chocolate Dipping Sauce",
+  "description": "A rich and indulgent twist on traditional Turkish kebabs, served with a decadent Nutella dipping sauce.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Turkish bread",
+      "amount": "1 loaf",
+      "notes": null
+    },
+    {
+      "name": "Nutella",
+      "amount": "1 jar",
+      "notes": null
+    },
+    {
+      "name": "Gooey chocolate sauce",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Whipped cream",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Iskender kebab meat",
+      "amount": "1 pound",
+      "notes": "or substitute with other kebab meat"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Slice the Turkish bread into 1-inch thick slices and toast until crispy.",
+    "3. In a separate pan, melt the Nutella over low heat until smooth.",
+    "4. Stir in the gooey chocolate sauce until well combined.",
+    "5. Serve the toasted bread with the Nutella-chocolate sauce for dipping.",
+    "6. If using kebab meat, cook according to package instructions or grill until cooked through.",
+    "7. Slice the kebab meat into thin strips and serve alongside the bread with dipping sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chocolate",
+    "dessert",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-indulgent-turkish-nutella-iskender-kebab",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T07:13:51.848Z"
+}
