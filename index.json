@@ -15889,5 +15889,17 @@
     "cuisine": "mexican",
     "totalTimeMin": 35,
     "shard": "g"
+  },
+  {
+    "slug": "gooey-syrian-blueberry-crumble--french",
+    "title": "French Blueberry Crumble",
+    "tags": [
+      "blueberry",
+      "crumble",
+      "french-dessert"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 50,
+    "shard": "g"
   }
 ]
