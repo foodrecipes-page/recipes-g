@@ -1,0 +1,54 @@
+{
+  "slug": "gently-buttery-chinese-naan-bread-flatbread",
+  "title": "Buttery Naan Flatbread",
+  "description": "Soft and flaky Indian-style flatbread, perfect for sopping up curries or serving alongside your favorite dishes.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten",
+    "dairy"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Gently Naan",
+      "amount": "1 piece",
+      "notes": "room temperature"
+    },
+    {
+      "name": "Buttery",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "Flaky Bread",
+      "amount": "1/4 cup, crumbled",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "Roll out the naan slightly to help it spread evenly.",
+    "Spread the softened butter evenly over the naan.",
+    "If desired, sprinkle crumbled bread on top of the butter.",
+    "Transfer the naan to a baking sheet lined with parchment paper.",
+    "Bake for 8-10 minutes or until lightly golden brown.",
+    "Remove from the oven and let cool for a few minutes.",
+    "Slice into smaller pieces and serve warm."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "naan",
+    "flatbread",
+    "indian",
+    "snack",
+    "appetizer"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gently-buttery-chinese-naan-bread-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T13:10:03.234Z"
+}
