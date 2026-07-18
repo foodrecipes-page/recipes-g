@@ -1,0 +1,73 @@
+{
+  "slug": "garlicky-german-beef-flank-steak-bauernfristuck--gluten-free",
+  "title": "Garlicky German Beef Flank Steak Bauernfristuck",
+  "description": "A classic German-inspired dish featuring garlicky flavors and tender beef, perfect for a gluten-free meal.",
+  "cuisine": "German",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Garlicky German Beef Flank Steak",
+      "amount": "1 (1-1.5 pound) flank steak",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "4-5 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the flank steak with salt, black pepper, and garlic.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the flank steak for 5-7 minutes per side, or until it reaches a safe internal temperature of 135°F for medium-rare.",
+    "Let the steak rest for 5 minutes before slicing.",
+    "Sprinkle with fresh parsley and serve.",
+    "Serve with your favorite sides, such as sauerkraut or roasted vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "german",
+    "gluten-free",
+    "grill",
+    "steak"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-german-beef-flank-steak-bauernfristuck--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T04:20:18.063Z"
+}
