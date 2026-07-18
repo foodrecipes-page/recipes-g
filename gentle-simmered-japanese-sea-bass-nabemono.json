@@ -1,0 +1,81 @@
+{
+  "slug": "gentle-simmered-japanese-sea-bass-nabemono",
+  "title": "Japanese-Style Nabemono Sea Bass",
+  "description": "A light and flavorful Japanese-inspired dish made with tender sea bass, simmered in a savory broth. Serve with your favorite accompaniments for a delicious and memorable meal.",
+  "cuisine": "Japanese",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sea Bass Fillets",
+      "amount": "4",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Gentle Broth Mix",
+      "amount": "2 tablespoons",
+      "notes": "Dissolve in 4 cups of water"
+    },
+    {
+      "name": "Simmered Miso Paste",
+      "amount": "1 tablespoon",
+      "notes": "Whisk until smooth"
+    },
+    {
+      "name": "Japanese Yuzu Juice",
+      "amount": "2 tablespoons",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 piece",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1 bunch",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon",
+      "notes": "For finishing"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Combine broth mix and miso paste in a small saucepan. Whisk until smooth and bring to a simmer.",
+    "Add yuzu juice and ginger to the saucepan. Reduce heat to low and simmer for 5 minutes.",
+    "Season the sea bass fillets with salt. Add to the saucepan and poach for 8-10 minutes or until cooked through.",
+    "Strain the broth and discard the solids.",
+    "Serve the sea bass with the warm broth spooned over the top. Garnish with green onions and a drizzle of sesame oil."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "seafood",
+    "nabemono",
+    "dinner",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gentle-simmered-japanese-sea-bass-nabemono",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T19:36:37.644Z"
+}
