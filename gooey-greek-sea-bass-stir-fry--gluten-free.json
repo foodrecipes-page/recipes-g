@@ -1,0 +1,87 @@
+{
+  "slug": "gooey-greek-sea-bass-stir-fry--gluten-free",
+  "title": "Pan-Seared Bass with Greek Gooey Sauce",
+  "description": "A moist and flavorful bass dish with a gooey Greek-inspired sauce, perfect for a quick weeknight dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bass fillets",
+      "amount": "4",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": "plain, full-fat"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp",
+      "notes": "raw, pure"
+    },
+    {
+      "name": "Dill",
+      "amount": "1 tbsp",
+      "notes": "fresh, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra-virgin"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "flaky sea salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the bass fillets with salt and black pepper.",
+    "Heat 1 tablespoon of olive oil in an oven-safe skillet over medium-high heat. Sear the bass for 2-3 minutes on each side, until golden brown.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes, or until cooked through.",
+    "While the bass is cooking, mix together the Greek yogurt, lemon juice, honey, and dill in a small bowl.",
+    "Remove the skillet from the oven and top each bass fillet with a spoonful of the yogurt sauce.",
+    "Return the skillet to the stovetop and reduce the heat to low. Simmer the sauce over low heat for 2-3 minutes, until heated through.",
+    "Serve immediately, garnished with additional fresh dill if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "healthy",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-greek-sea-bass-stir-fry--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T13:51:59.599Z"
+}
