@@ -5215,16 +5215,15 @@
   },
   {
     "slug": "gentle-malt-american-lamb-tagine",
-    "title": "Gentle Malt American Lamb Tagine",
+    "title": "Lamb Tagine",
     "tags": [
-      "comfort-food",
-      "healthy",
-      "lamb-based",
-      "one-pot",
-      "slow-cooked"
+      "lamb",
+      "tagine",
+      "moroccan",
+      "stew"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 180,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 195,
     "shard": "g"
   },
   {
@@ -5583,17 +5582,16 @@
   },
   {
     "slug": "gently-buttery-chinese-naan-bread-flatbread",
-    "title": "Gently Buttery Chinese Naan Bread Flatbread",
+    "title": "Buttery Naan Flatbread",
     "tags": [
-      "chinese-food",
-      "easy-recipes",
-      "naan-bread",
-      "quick-meals",
-      "snack-ideas",
-      "sugar-free"
+      "naan",
+      "flatbread",
+      "indian",
+      "snack",
+      "appetizer"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 18,
+    "cuisine": "Indian",
+    "totalTimeMin": 15,
     "shard": "g"
   },
   {
@@ -15900,6 +15898,31 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 50,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-crispy-american-chicken-stir-fry--vegetarian",
+    "title": "Crispy Garlicky Stir Fry",
+    "tags": [
+      "vegetarian",
+      "stir-fry",
+      "crispy",
+      "garlicky"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 22,
+    "shard": "g"
+  },
+  {
+    "slug": "gooey-greek-sea-bass-stir-fry--gluten-free",
+    "title": "Pan-Seared Bass with Greek Gooey Sauce",
+    "tags": [
+      "fish",
+      "healthy",
+      "quick-dinner"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 22,
     "shard": "g"
   }
 ]
