@@ -1,0 +1,70 @@
+{
+  "slug": "garlicky-vietnamese-hind-shank-bun-thit-nuong--keto",
+  "title": "Grilled Pork Thit Nuong",
+  "description": "A keto friendly Vietnamese-inspired dish featuring grilled pork, served with a side of garlicky bun.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Thit Nuong",
+      "amount": "500g"
+    },
+    {
+      "name": "Garlicky Bun",
+      "amount": "4 buns"
+    },
+    {
+      "name": "Hind",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Shank",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a small bowl, mix together hind, shank, and garlic.",
+    "3. Rub the mixture all over the thit nuong.",
+    "4. Grill the thit nuong for 5-7 minutes per side, or until cooked through.",
+    "5. Meanwhile, toast the garlicky bun on the grill.",
+    "6. Slice the grilled thit nuong and serve with the toasted bun.",
+    "7. Drizzle with fish sauce and sprinkle with black pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "vietnamese",
+    "grilled",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-vietnamese-hind-shank-bun-thit-nuong--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T06:10:17.630Z"
+}
