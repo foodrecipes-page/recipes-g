@@ -1,0 +1,61 @@
+{
+  "slug": "grilled-zanzibari-fish-wrap--vegan",
+  "title": "Zanzibari Grilled Wrap",
+  "description": "A vegan wrap filled with the flavors of Zanzibar, featuring grilled vegetables and a side of spicy sauce.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Grilled zucchini",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Grilled bell peppers",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Grilled onions",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Wrap",
+      "amount": "1 large"
+    },
+    {
+      "name": "Zanzibari sauce (make sure it's vegan)",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Grill the zucchini, bell peppers, and onions until tender and lightly charred.",
+    "Warm the wrap in a dry pan or in the oven.",
+    "Assemble the wrap by placing the grilled vegetables inside.",
+    "Drizzle with Zanzibari sauce and serve immediately.",
+    "Serve with a side of spicy sauce for added flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "zanzibari",
+    "grilled",
+    "vegan",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grilled-zanzibari-fish-wrap--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T06:39:14.478Z"
+}
