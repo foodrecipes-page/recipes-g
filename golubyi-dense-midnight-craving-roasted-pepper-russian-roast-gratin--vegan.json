@@ -1,0 +1,69 @@
+{
+  "slug": "golubyi-dense-midnight-craving-roasted-pepper-russian-roast-gratin--vegan",
+  "title": "Roasted Russian Golubyi",
+  "description": "A hearty and flavorful, plant-based dish made with roasted golubyi and a variety of spices.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "golubyi",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "roasted",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "russian",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "craving",
+      "amount": "1 tablespoon",
+      "notes": "olive oil"
+    },
+    {
+      "name": "gratin",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, mix together the chopped golubyi, roasted, pepper, russian, and gratin.",
+    "Drizzle with craving (olive oil) and toss to combine.",
+    "Transfer the mixture to a baking dish and roast for 25-30 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "plant-based",
+    "roasted",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golubyi-dense-midnight-craving-roasted-pepper-russian-roast-gratin--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T08:07:52.437Z"
+}
