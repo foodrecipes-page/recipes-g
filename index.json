@@ -15776,5 +15776,45 @@
     "cuisine": "german",
     "totalTimeMin": 40,
     "shard": "g"
+  },
+  {
+    "slug": "garlicky-smoky-brazilian-tofu-poke--japanese",
+    "title": "Japanese-Style Poke Tofu",
+    "tags": [
+      "japanesefood",
+      "hawaiianfood",
+      "tofu"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 22,
+    "shard": "g"
+  },
+  {
+    "slug": "grilled-flaky-mediterranean-fish-bake--chinese",
+    "title": "Grilled Mediterranean Fish",
+    "tags": [
+      "grilled",
+      "mediterranean",
+      "fish",
+      "bake",
+      "chinese"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 18,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-crispy-peruvian-lamb-bowl--italian",
+    "title": "Lamb Cacciatore in Peruvian Bowl",
+    "tags": [
+      "italian",
+      "lamb",
+      "cacciatore",
+      "peruvian",
+      "bowl"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 37,
+    "shard": "g"
   }
 ]
