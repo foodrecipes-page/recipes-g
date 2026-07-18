@@ -1,0 +1,80 @@
+{
+  "slug": "gooey-sweet-greek-dates-skewers",
+  "title": "Gooey Greek Date Skewers",
+  "description": "Sweet and savory skewers featuring gooey cheese, dates, and a hint of greek flavor.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Gooey cheese",
+      "amount": "1 cup, crumbled",
+      "notes": "Any type of gooey cheese works well"
+    },
+    {
+      "name": "Pitted dates",
+      "amount": "1 cup",
+      "notes": "Fresh or dried dates both work well"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/2 cup",
+      "notes": "For serving"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12",
+      "notes": "Soak in water for at least 30 minutes before use"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Add to taste"
+    }
+  ],
+  "instructions": [
+    1,
+    "Preheat grill to medium-high heat.",
+    2,
+    "Soak skewers in water for at least 30 minutes.",
+    3,
+    "Thread a date, a piece of cheese, and a sprinkle of parsley onto each skewer.",
+    4,
+    "Brush with olive oil and season with salt.",
+    5,
+    "Grill for 2-3 minutes per side, or until cheese is melted and dates are caramelized.",
+    6,
+    "Serve hot with a dollop of greek yogurt."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "mediterranean",
+    "vegetarian",
+    "gluten-free",
+    "cheese",
+    "dates"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-sweet-greek-dates-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T06:45:01.662Z"
+}
