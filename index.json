@@ -15850,5 +15850,18 @@
     "cuisine": null,
     "totalTimeMin": 35,
     "shard": "g"
+  },
+  {
+    "slug": "gently-braised-middle-eastern-lamb-loin-chops-tagine--keto",
+    "title": "Keto Middle Eastern Braised Lamb Tagine",
+    "tags": [
+      "keto",
+      "lamb",
+      "middle eastern",
+      "braised"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 170,
+    "shard": "g"
   }
 ]
