@@ -1,0 +1,68 @@
+{
+  "slug": "garlicky-dense-mexican-macaroni-pasta",
+  "title": "Mexican Macaroni Bake",
+  "description": "A comforting and flavorful casserole that combines the richness of mexican flavors with the simplicity of macaroni pasta.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "macaroni",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "garlicky pasta sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "dried mexican cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the macaroni according to the package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the chopped scallions and cook until softened.",
+    "Stir in the garlicky pasta sauce and bring to a simmer.",
+    "In a large mixing bowl, combine the cooked macaroni, pasta sauce mixture, and shredded mexican cheese.",
+    "Transfer the mixture to a baking dish and top with additional shredded cheese.",
+    "Bake for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "casserole",
+    "mexican",
+    "macaroni"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-dense-mexican-macaroni-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T03:59:11.929Z"
+}
