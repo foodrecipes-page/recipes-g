@@ -1,0 +1,98 @@
+{
+  "slug": "gently-braised-middle-eastern-lamb-loin-chops-tagine--keto",
+  "title": "Keto Middle Eastern Braised Lamb Tagine",
+  "description": "A flavorful and aromatic lamb tagine that's perfect for a keto diet. The rich and tender lamb is slow-cooked in a delicious mixture of spices and herbs.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb loin chops",
+      "amount": "1.5 pounds",
+      "notes": "preferably with the bone"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning the lamb"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "preferably kosher"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb on all sides, about 5 minutes. Remove the lamb from the pot and set it aside.",
+    "Reduce the heat to medium and add the chopped onion to the pot. Cook, stirring occasionally, until the onion is softened and lightly browned, about 8 minutes.",
+    "Add the minced garlic and grated ginger to the pot and cook, stirring constantly, for 1 minute.",
+    "Add the ground cumin, cinnamon, smoked paprika, salt, and black pepper to the pot and cook, stirring constantly, for 1 minute.",
+    "Return the lamb to the pot and add enough beef broth to cover the lamb. Bring the mixture to a boil, then cover the pot and transfer it to the oven.",
+    "Braise the lamb in the preheated oven for 2 1/2 hours, or until it is tender and falls apart easily.",
+    "Remove the pot from the oven and let it cool slightly. Serve the lamb hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "lamb",
+    "middle eastern",
+    "braised"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 54,
+    "carbs": 5,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gently-braised-middle-eastern-lamb-loin-chops-tagine--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T08:48:17.166Z"
+}
