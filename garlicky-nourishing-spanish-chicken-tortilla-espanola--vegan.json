@@ -1,0 +1,66 @@
+{
+  "slug": "garlicky-nourishing-spanish-chicken-tortilla-espanola--vegan",
+  "title": "Spanish Vegan Tortilla",
+  "description": "A vegan twist on the classic Spanish omelette. This recipe replaces eggs with a nourishing mixture of garlicky goodness.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Spanish tortilla",
+      "amount": "1"
+    },
+    {
+      "name": "Garlicky mixture",
+      "amount": "200g",
+      "notes": "see notes"
+    },
+    {
+      "name": "Nourishing oil",
+      "amount": "2 tbsp",
+      "notes": "e.g. olive oil"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Preheat your oven to 375°F (190°C).",
+    "2. In a blender or food processor, combine 4 cloves of garlic, 1/2 cup of nutritional yeast, and 1/4 cup of lemon juice. Blend until smooth.",
+    "3. In a large skillet, heat 1 tablespoon of oil over medium heat.",
+    "4. Add the blended garlicky mixture and cook for 2-3 minutes, stirring constantly.",
+    "5. Add the diced Spanish tortilla and cook for an additional 2-3 minutes, stirring frequently.",
+    "6. Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the mixture is set and lightly browned.",
+    "7. Remove the skillet from the oven and sprinkle with salt to taste.",
+    "8. Garnish with chopped fresh parsley and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "spanish",
+    "breakfast",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-nourishing-spanish-chicken-tortilla-espanola--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T15:19:36.108Z"
+}
