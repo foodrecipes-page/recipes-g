@@ -1,0 +1,93 @@
+{
+  "slug": "gingered-korean-romano-pepper-bibimbap",
+  "title": "Bibimbap with Gingered Beef",
+  "description": "A Korean-inspired rice bowl dish with gingered beef, topped with an assortment of vegetables and a fried egg.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "gingered beef (thinly sliced)",
+      "amount": "1 lb",
+      "notes": "marinated in korean chili flakes and soy sauce"
+    },
+    {
+      "name": "bibimbap rice",
+      "amount": "2 cups",
+      "notes": "short-grain rice"
+    },
+    {
+      "name": "romano cheese",
+      "amount": "1/4 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "shredded carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded zucchini",
+      "amount": "1 cup"
+    },
+    {
+      "name": "gochujang (Korean chili paste)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "for fried egg"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of vegetable oil in a large skillet over medium-high heat.",
+    "Add the sliced gingered beef and cook for 3-4 minutes, or until browned and cooked through.",
+    "In a separate pan, heat 1 tbsp of vegetable oil over medium heat.",
+    "Add the sliced pepper and cook for 3-4 minutes, or until tender.",
+    "In a large bowl, combine the cooked rice, shredded carrots, shredded zucchini, and chopped scallions.",
+    "To assemble the dish, place a scoop of the rice mixture into a bowl, followed by a portion of the gingered beef and pepper.",
+    "Drizzle with gochujang and top with shredded romano cheese.",
+    "Fry an egg in a separate pan and place on top of the dish.",
+    "Serve immediately and garnish with additional scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bibimbap",
+    "korean",
+    "gingered beef"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gingered-korean-romano-pepper-bibimbap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T18:02:47.835Z"
+}
