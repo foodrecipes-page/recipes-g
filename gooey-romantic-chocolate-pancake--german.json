@@ -1,0 +1,79 @@
+{
+  "slug": "gooey-romantic-chocolate-pancake--german",
+  "title": "German Chocolate Gooey Pancakes",
+  "description": "Decadent German-inspired pancakes filled with gooey chocolate and romance, perfect for a special treat.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large eggs"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "melted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "semisweet chocolate chips",
+      "amount": "1 cup"
+    },
+    {
+      "name": "confectioners' sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "romantic sprinkles (optional)",
+      "amount": "for garnish"
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, whisk together flour, sugar, and cocoa powder.",
+    "In a large bowl, whisk together eggs, milk, and melted butter.",
+    "Add the dry ingredients to the wet ingredients and stir until just combined.",
+    "Do not overmix.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Drop the batter by 1/4 cupfuls onto the skillet or griddle.",
+    "Cook for 2-3 minutes or until bubbles appear on the surface and the edges start to dry.",
+    "Flip the pancakes and cook for another 1-2 minutes or until golden brown.",
+    "Repeat with the remaining batter.",
+    "Serve the pancakes warm topped with melted chocolate and confectioners' sugar.",
+    "Garnish with romantic sprinkles if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "chocolate",
+    "pancakes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": "4g",
+    "carbs": "45g",
+    "fat": "16g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-romantic-chocolate-pancake--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T15:03:42.877Z"
+}
