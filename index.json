@@ -15688,5 +15688,31 @@
     "cuisine": "mexican",
     "totalTimeMin": 65,
     "shard": "g"
+  },
+  {
+    "slug": "gentle-light-spanish-cassaba-pa-amb-tomaquet--mexican",
+    "title": "Tomaquet Cassaba Fritters",
+    "tags": [
+      "mexican",
+      "fritters",
+      "vegetarian"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
+    "slug": "ginger-crunchy-quickfix--mexican",
+    "title": "Spicy Ginger Chicken Tacos",
+    "tags": [
+      "mexican",
+      "chicken",
+      "tacos",
+      "ginger",
+      "spicy"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 30,
+    "shard": "g"
   }
 ]
