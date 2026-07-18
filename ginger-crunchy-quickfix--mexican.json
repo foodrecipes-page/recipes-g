@@ -1,0 +1,89 @@
+{
+  "slug": "ginger-crunchy-quickfix--mexican",
+  "title": "Spicy Ginger Chicken Tacos",
+  "description": "A flavorful Mexican dish featuring crispy chicken, crunchy slaw, and the warmth of ginger. Perfect for a quick weeknight meal.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "crunchy slaw mix",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "quickfix taco seasoning",
+      "amount": "1 packet",
+      "notes": "or homemade blend"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "8-10",
+      "notes": "warm before serving"
+    },
+    {
+      "name": "shredded cheese (optional)",
+      "amount": "",
+      "notes": "dairy-free alternative recommended"
+    },
+    {
+      "name": "sour cream (optional)",
+      "amount": "",
+      "notes": "dairy-free alternative recommended"
+    },
+    {
+      "name": "salsa",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, toss chicken with ginger, crunchy slaw mix, and taco seasoning until coated.",
+    "Spread chicken mixture on a baking sheet and bake for 20-25 minutes or until cooked through.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble tacos by placing cooked chicken onto a tortilla, followed by a spoonful of salsa, shredded cheese (if using), and a sprinkle of cilantro.",
+    "Serve immediately and enjoy!",
+    "Optional: top with sour cream (if using) and additional cilantro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "chicken",
+    "tacos",
+    "ginger",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ginger-crunchy-quickfix--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T02:19:33.321Z"
+}
