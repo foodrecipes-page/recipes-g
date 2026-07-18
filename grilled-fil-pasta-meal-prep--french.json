@@ -1,0 +1,82 @@
+{
+  "slug": "grilled-fil-pasta-meal-prep--french",
+  "title": "French Pasta Bake",
+  "description": "A simple and delicious French-inspired pasta dish, perfect for a weeknight dinner. The grilled vegetables add a smoky flavor that complements the pasta nicely.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Grilled Fil Pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Pasta",
+      "amount": ".5 cup",
+      "notes": ""
+    },
+    {
+      "name": "Marinara Sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Grated Parmesan Cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the pasta according to the package instructions until al dente. Drain and set aside.",
+    "In a large skillet, combine the marinara sauce, garlic powder, salt, and black pepper. Bring the sauce to a simmer over medium heat.",
+    "Add the grilled fil pasta to the skillet and toss to coat with the sauce.",
+    "Transfer the pasta mixture to a baking dish and top with the grated Parmesan cheese.",
+    "Bake in the preheated oven for 15-20 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and sprinkle with fresh basil.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "pasta",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grilled-fil-pasta-meal-prep--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T14:08:15.282Z"
+}
