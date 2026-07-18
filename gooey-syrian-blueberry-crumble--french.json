@@ -1,0 +1,64 @@
+{
+  "slug": "gooey-syrian-blueberry-crumble--french",
+  "title": "French Blueberry Crumble",
+  "description": "A delicious French dessert featuring a crunchy crumble topping and a sweet blueberry filling. Serve warm with a scoop of vanilla ice cream.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Blueberries",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Gooey",
+      "amount": "1/2 cup",
+      "notes": "melted butter"
+    },
+    {
+      "name": "Syrian",
+      "amount": "1 cup",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "Crumble",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, mix together blueberries and gooey (melted butter).",
+    "In a separate bowl, combine Syrian (flour), and crumble (baking powder).",
+    "Add the dry ingredients to the blueberry mixture and stir until combined.",
+    "Transfer the mixture to a 9x9 inch baking dish.",
+    "In a separate bowl, mix together crumble (sugar, oats, and butter).",
+    "Top the blueberry mixture with the crumble topping.",
+    "Bake for 35-40 minutes or until the topping is golden brown and the filling is bubbly.",
+    "Serve warm with a scoop of vanilla ice cream.",
+    "Enjoy your delicious French blueberry crumble!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "blueberry",
+    "crumble",
+    "french-dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-syrian-blueberry-crumble--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T12:11:44.198Z"
+}
