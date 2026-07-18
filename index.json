@@ -6506,14 +6506,15 @@
   },
   {
     "slug": "ginger-garlic-filipino-chicken-tinola",
-    "title": "Ginger-Garlic Filipino Chicken Tinola",
+    "title": "Filipino Chicken Tinola",
     "tags": [
-      "comfort-food",
       "filipino",
-      "one-pot"
+      "chicken",
+      "comfort-food",
+      "soup"
     ],
-    "cuisine": "filipino",
-    "totalTimeMin": 50,
+    "cuisine": "Filipino",
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {
@@ -11570,16 +11571,14 @@
   },
   {
     "slug": "gooey-indulgent-turkish-nutella-iskender-kebab",
-    "title": "Gooey Indulgent Turkish Nutella Iskender Kebab",
+    "title": "Iskender Kebab with Nutella Chocolate Dipping Sauce",
     "tags": [
-      "decadent",
+      "chocolate",
       "dessert",
-      "kebab",
-      "nutella",
       "turkish"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
@@ -12007,17 +12006,14 @@
   },
   {
     "slug": "gooey-romantic-chocolate-pancake",
-    "title": "Gooey Romantic Chocolate Pancake",
+    "title": "Chocolate Pancake Delight",
     "tags": [
-      "slovenian",
-      "earthly",
-      "romantic",
-      "dark-chocolate",
-      "vegan-pancake",
-      "dessert-preparation"
+      "breakfast",
+      "chocolate",
+      "pancakes"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 45,
+    "cuisine": "American",
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
@@ -12356,17 +12352,17 @@
   },
   {
     "slug": "gooey-sweet-greek-dates-skewers",
-    "title": "Gooey Sweet Greek Dates Skewers",
+    "title": "Gooey Greek Date Skewers",
     "tags": [
-      "easy",
       "greek",
-      "kid-friendly",
-      "snack",
-      "sweet",
-      "vegetarian"
+      "mediterranean",
+      "vegetarian",
+      "gluten-free",
+      "cheese",
+      "dates"
     ],
-    "cuisine": "Greek",
-    "totalTimeMin": 25,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 18,
     "shard": "g"
   },
   {
@@ -15815,6 +15811,32 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 37,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-vietnamese-hind-shank-bun-thit-nuong--keto",
+    "title": "Grilled Pork Thit Nuong",
+    "tags": [
+      "keto",
+      "vietnamese",
+      "grilled",
+      "pork"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
+    "slug": "grilled-zanzibari-fish-wrap--vegan",
+    "title": "Zanzibari Grilled Wrap",
+    "tags": [
+      "zanzibari",
+      "grilled",
+      "vegan",
+      "wrap"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "g"
   }
 ]
