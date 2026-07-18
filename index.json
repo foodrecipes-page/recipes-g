@@ -15961,5 +15961,18 @@
     "cuisine": "german",
     "totalTimeMin": 30,
     "shard": "g"
+  },
+  {
+    "slug": "garlicky-nourishing-spanish-chicken-tortilla-espanola--vegan",
+    "title": "Spanish Vegan Tortilla",
+    "tags": [
+      "vegan",
+      "spanish",
+      "breakfast",
+      "lunch"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 30,
+    "shard": "g"
   }
 ]
