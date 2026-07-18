@@ -1,0 +1,87 @@
+{
+  "slug": "gooey-slovakian-chicken-bake--mexican",
+  "title": "Slovakian Chicken Tacos",
+  "description": "A unique twist on traditional Mexican tacos by incorporating Slovakian flavors and using chicken as the main protein.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "slovakian paprika",
+      "amount": "2 tablespoons",
+      "notes": "sweet and smoky"
+    },
+    {
+      "name": "gooey molasses",
+      "amount": "1 tablespoon",
+      "notes": "use as a glaze"
+    },
+    {
+      "name": "bake flour tortillas",
+      "amount": "4-6",
+      "notes": "for tacos"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "cheddar or Monterey Jack work well"
+    },
+    {
+      "name": "sliced radishes",
+      "amount": "1 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "sliced cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": " lime wedges",
+      "amount": "4-6",
+      "notes": "for serving"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken breast with salt, pepper, and Slovakian paprika.",
+    "Bake the chicken in the oven for 20-25 minutes, or until cooked through.",
+    "While the chicken is baking, warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Once the chicken is done, let it rest for a few minutes before slicing it into thin strips.",
+    "Assemble the tacos by placing a few slices of chicken onto a tortilla, followed by a sprinkle of shredded cheese, a few slices of radish, and a sprinkle of cilantro.",
+    "Drizzle the gooey molasses over the top of the tacos and serve with a lime wedge on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "mexican",
+    "tacos",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-slovakian-chicken-bake--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T10:41:05.797Z"
+}
