@@ -1,0 +1,79 @@
+{
+  "slug": "glazed-german-rice-fried-rice--keto",
+  "title": "Keto German Glazed Pork Chops",
+  "description": "A delicious keto take on traditional German cuisine, featuring glazed pork chops served with a side of fried rice.",
+  "cuisine": "german",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork chops",
+      "amount": "4",
+      "notes": "1-1.5 pounds, 1 inch thick"
+    },
+    {
+      "name": "glazed rice",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "fried rice",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season pork chops with salt, pepper, garlic powder, onion powder, and thyme.",
+    "Heat a skillet over medium-high heat and sear pork chops for 2-3 minutes on each side.",
+    "Transfer pork chops to a baking sheet and bake for 15-20 minutes, or until cooked to 145°F (63°C).",
+    "Meanwhile, cook glazed rice according to package instructions.",
+    "Heat a separate skillet with a small amount of oil over medium-high heat.",
+    "Add cooked fried rice to the skillet and stir-fry until crispy and golden brown.",
+    "Serve pork chops with glazed rice and fried rice on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "german",
+    "glazed",
+    "pork",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 6,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/glazed-german-rice-fried-rice--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T04:27:26.663Z"
+}
