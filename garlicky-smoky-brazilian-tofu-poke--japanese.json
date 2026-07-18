@@ -1,0 +1,74 @@
+{
+  "slug": "garlicky-smoky-brazilian-tofu-poke--japanese",
+  "title": "Japanese-Style Poke Tofu",
+  "description": "A fusion of Japanese and Hawaiian flavors, this dish combines the tender tofu with a sweet and tangy marinade.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (12 oz)",
+      "notes": "extra-firm"
+    },
+    {
+      "name": "garlicky sauce",
+      "amount": "1/4 cup",
+      "notes": "see notes"
+    },
+    {
+      "name": "brazilian sesame oil",
+      "amount": "2 tbsp",
+      "notes": "for grilling"
+    },
+    {
+      "name": "poke seasoning",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Cut the tofu into small cubes and place on a plate.",
+    "2. In a small bowl, whisk together the garlicky sauce and poke seasoning.",
+    "3. Pour the marinade over the tofu and toss to coat.",
+    "4. Let the tofu marinate for at least 30 minutes.",
+    "5. Preheat a grill or grill pan to medium-high heat.",
+    "6. Brush the tofu with the sesame oil and grill for 3-4 minutes per side.",
+    "7. Transfer the tofu to a cutting board and slice into thin strips.",
+    "8. Garnish with green onions and sesame seeds (if using).",
+    "9. Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanesefood",
+    "hawaiianfood",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-smoky-brazilian-tofu-poke--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T05:03:39.166Z"
+}
