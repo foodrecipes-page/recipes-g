@@ -1,0 +1,82 @@
+{
+  "slug": "grassy-british-seafood-bake",
+  "title": "Grilled British Baked Cod with Herbs",
+  "description": "A simple yet flavorful dish that combines the freshness of British cod with a hint of grassy herbs, all baked to perfection.",
+  "cuisine": "British",
+  "diet": [
+    "seafood",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillets (4)",
+      "amount": "4 x 6 oz fillets",
+      "notes": "Fresh and sustainable cod from British waters"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup chopped",
+      "notes": "Grassy and fragrant, adds a nice texture"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1/4 cup chopped",
+      "notes": "Classic British herb, pairs well with fish"
+    },
+    {
+      "name": "Lemon",
+      "amount": "2 lemons, sliced",
+      "notes": "Brightens up the flavors and adds a nice citrus note"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": "Pungent and aromatic, adds depth to the dish"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "Mild and flavorful, perfect for grilling"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "Classic seasoning combination"
+    },
+    {
+      "name": "Bake",
+      "amount": "1 baking sheet, lined",
+      "notes": "For easy cleanup and even cooking"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the cod fillets with salt and pepper.",
+    "In a small bowl, mix together parsley, dill, and garlic.",
+    "Place the cod on the baking sheet and top each fillet with a slice of lemon and a sprinkle of the parsley mixture.",
+    "Drizzle with olive oil and bake for 12-15 minutes, or until cooked through.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "seafood",
+    "grilled",
+    "baked"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grassy-british-seafood-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T19:09:13.614Z"
+}
