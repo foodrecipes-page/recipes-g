@@ -1987,17 +1987,14 @@
   },
   {
     "slug": "garlicky-dense-mexican-macaroni-pasta",
-    "title": "Garlicky Dense Mexican Macaroni Pasta",
+    "title": "Mexican Macaroni Bake",
     "tags": [
+      "casserole",
       "mexican",
-      "pasta",
-      "sous-vide",
-      "garlicky",
-      "dense",
-      "nostalgic"
+      "macaroni"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 60,
+    "totalTimeMin": 45,
     "shard": "g"
   },
   {
@@ -15722,6 +15719,59 @@
       "keto",
       "german",
       "stew"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-chewy-german-tomato-stew--chinese",
+    "title": "Stewy German Beef in Chinese Broth",
+    "tags": [
+      "beef",
+      "chinese-food",
+      "stew"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 140,
+    "shard": "g"
+  },
+  {
+    "slug": "gooey-festive-spanish-beef-stir-fry--german",
+    "title": "Traditional German Sauerbraten",
+    "tags": [
+      "german",
+      "beef",
+      "pot-roast",
+      "sauerbraten"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 210,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-german-beef-flank-steak-bauernfristuck--gluten-free",
+    "title": "Garlicky German Beef Flank Steak Bauernfristuck",
+    "tags": [
+      "beef",
+      "german",
+      "gluten-free",
+      "grill",
+      "steak"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 30,
+    "shard": "g"
+  },
+  {
+    "slug": "glazed-german-rice-fried-rice--keto",
+    "title": "Keto German Glazed Pork Chops",
+    "tags": [
+      "keto",
+      "german",
+      "glazed",
+      "pork",
+      "rice"
     ],
     "cuisine": "german",
     "totalTimeMin": 40,
