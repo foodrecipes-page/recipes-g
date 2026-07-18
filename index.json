@@ -15838,5 +15838,17 @@
     "cuisine": null,
     "totalTimeMin": 25,
     "shard": "g"
+  },
+  {
+    "slug": "golubyi-dense-midnight-craving-roasted-pepper-russian-roast-gratin--vegan",
+    "title": "Roasted Russian Golubyi",
+    "tags": [
+      "plant-based",
+      "roasted",
+      "vegan"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 35,
+    "shard": "g"
   }
 ]
