@@ -1,0 +1,67 @@
+{
+  "slug": "garlicky-chewy-german-tomato-stew--chinese",
+  "title": "Stewy German Beef in Chinese Broth",
+  "description": "A hearty stew with a blend of German and Chinese flavors. The garlicky broth makes this dish a perfect comfort food.",
+  "cuisine": "chinese",
+  "diet": [
+    "meat",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "german",
+      "amount": "500g",
+      "notes": null
+    },
+    {
+      "name": "garlicky",
+      "amount": "4 cloves",
+      "notes": null
+    },
+    {
+      "name": "stew",
+      "amount": "250g",
+      "notes": null
+    },
+    {
+      "name": "tomato",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "chewy",
+      "amount": "200g",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a pot over medium-high heat.",
+    "2. Sear the german beef until browned on all sides.",
+    "3. Add the garlicky cloves and cook until fragrant.",
+    "4. Add the stew, tomato, and chewy ingredients.",
+    "5. Pour in the chinese broth and bring to a boil.",
+    "6. Reduce heat to low and simmer for 2 hours.",
+    "7. Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "chinese-food",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-chewy-german-tomato-stew--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T04:01:29.820Z"
+}
