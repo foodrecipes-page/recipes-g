@@ -1,0 +1,95 @@
+{
+  "slug": "gooey-festive-spanish-beef-stir-fry--german",
+  "title": "Traditional German Sauerbraten",
+  "description": "A classic German pot roast dish marinated in vinegar, water, and spices, resulting in tender beef and a rich, flavorful sauce.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "2 pounds beef pot roast",
+      "notes": null
+    },
+    {
+      "name": "spanish",
+      "amount": "1 cup red wine vinegar",
+      "notes": null
+    },
+    {
+      "name": "festive",
+      "amount": "1 cup water",
+      "notes": null
+    },
+    {
+      "name": "gooey",
+      "amount": "1/4 cup brown sugar",
+      "notes": null
+    },
+    {
+      "name": "stir",
+      "amount": "2 tablespoons dried thyme",
+      "notes": null
+    },
+    {
+      "name": "fry",
+      "amount": "2 cloves garlic, minced",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon salt",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon black pepper",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 large onion, sliced",
+      "notes": null
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large carrots, peeled and sliced",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the vinegar, water, brown sugar, thyme, garlic, salt, and pepper.",
+    "Add the sliced onion and carrots to the marinade, and stir to combine.",
+    "Add the beef to the marinade, turning to coat evenly.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 days or up to 4 days.",
+    "Preheat the oven to 300°F (150°C).",
+    "Remove the beef from the marinade, letting any excess liquid drip off.",
+    "Sear the beef in a large Dutch oven over medium-high heat until browned on all sides, about 2-3 minutes per side.",
+    "Transfer the beef to the preheated oven and roast for 2 1/2 to 3 hours, or until tender and easily shredded with a fork.",
+    "Remove the beef from the oven and let it rest for 10-15 minutes before slicing thinly against the grain.",
+    "Strain the marinade through a fine-mesh sieve into a small saucepan, discarding the solids.",
+    "Bring the marinade to a boil over medium-high heat, then reduce the heat to low and simmer for 5-10 minutes, or until slightly thickened.",
+    "Serve the sliced beef with the sauce spooned over the top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "beef",
+    "pot-roast",
+    "sauerbraten"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 60,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-festive-spanish-beef-stir-fry--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T04:12:57.291Z"
+}
