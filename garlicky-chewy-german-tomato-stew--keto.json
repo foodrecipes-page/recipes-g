@@ -1,0 +1,78 @@
+{
+  "slug": "garlicky-chewy-german-tomato-stew--keto",
+  "title": "Keto German Stew",
+  "description": "A hearty and flavorful keto stew made with traditional german ingredients, perfect for a cold winter night.",
+  "cuisine": "german",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "garlicky sausage",
+      "amount": "500g",
+      "notes": "Choose a sugar-free sausage"
+    },
+    {
+      "name": "chewy bacon",
+      "amount": "200g",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "german tomato paste",
+      "amount": "2 tbsp",
+      "notes": "Make sure it's sugar-free"
+    },
+    {
+      "name": "stew tomatoes",
+      "amount": "1 can",
+      "notes": "Drained and diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": "Choose a low-carb broth"
+    }
+  ],
+  "instructions": [
+    "1. In a large pot or Dutch oven, cook the bacon over medium heat until crispy.",
+    "2. Remove the bacon from the pot and set aside.",
+    "3. Add the sausage to the pot and cook until browned, breaking it up with a spoon as it cooks.",
+    "4. Add the onion and garlic to the pot and cook until the onion is translucent.",
+    "5. Stir in the tomato paste and cook for 1-2 minutes.",
+    "6. Add the stew tomatoes, beef broth, and cooked bacon to the pot.",
+    "7. Bring the mixture to a boil, then reduce the heat to low and simmer for 20-25 minutes.",
+    "8. Season with salt and pepper to taste.",
+    "9. Serve hot, garnished with chopped fresh parsley or chives if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "german",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 10,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-chewy-german-tomato-stew--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T03:12:38.034Z"
+}
