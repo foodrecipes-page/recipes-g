@@ -1,0 +1,66 @@
+{
+  "slug": "garlicky-crispy-american-chicken-stir-fry--vegetarian",
+  "title": "Crispy Garlicky Stir Fry",
+  "description": "A flavorful and crunchy stir fry made with vegetables and a hint of garlic.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "garlicky",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "crispy",
+      "amount": "1 cup",
+      "notes": "fried wonton strips"
+    },
+    {
+      "name": "american",
+      "amount": "1 cup",
+      "notes": "bell peppers"
+    },
+    {
+      "name": "stir",
+      "amount": "2 cups",
+      "notes": "mixed vegetables (broccoli, carrots, snap peas)"
+    },
+    {
+      "name": "fry",
+      "amount": "2 tablespoons",
+      "notes": "vegetable oil"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the mixed vegetables and bell peppers and cook for 3-4 minutes, until tender.",
+    "Add the fried wonton strips and cook for an additional 1-2 minutes, until crispy.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "stir-fry",
+    "crispy",
+    "garlicky"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-crispy-american-chicken-stir-fry--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T13:21:52.121Z"
+}
