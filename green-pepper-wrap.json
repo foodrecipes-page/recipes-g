@@ -1,0 +1,51 @@
+{
+  "slug": "green-pepper-wrap",
+  "title": "Veggie Wrap",
+  "description": "A simple and healthy wrap filled with sautéed vegetables.",
+  "cuisine": "western",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Green bell pepper",
+      "amount": "1 medium",
+      "notes": "Any color bell pepper works."
+    },
+    {
+      "name": "Large green pepper",
+      "amount": "1 large",
+      "notes": "Add for extra flavor."
+    },
+    {
+      "name": "Tortilla wrap",
+      "amount": "1 large",
+      "notes": "Any brand will do."
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add sliced bell peppers and cook until tender, about 5 minutes.",
+    "Add sliced green pepper and cook for another 2-3 minutes.",
+    "Warm the tortilla wrap in the microwave for 20-30 seconds.",
+    "Assemble the wrap by placing the cooked vegetables on half of the wrap.",
+    "Fold the wrap in half to enclose the filling.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 7,
+  "totalTimeMin": 12,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "healthy",
+    "vegetarian",
+    "easy"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/green-pepper-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T11:21:23.628Z"
+}
