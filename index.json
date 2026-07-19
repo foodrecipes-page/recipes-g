@@ -16040,5 +16040,30 @@
     "cuisine": "italian",
     "totalTimeMin": 25,
     "shard": "g"
+  },
+  {
+    "slug": "golden-brown-malaysian-pork-tenderloin-skewers--vegan",
+    "title": "Malaysian Vegan Satay",
+    "tags": [
+      "vegan",
+      "malaysian",
+      "grilled",
+      "snack"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
+    "slug": "gentle-malt-american-lamb-tagine--japanese",
+    "title": "Japanese Lamb Tagine",
+    "tags": [
+      "japanese",
+      "lamb",
+      "tagine"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 170,
+    "shard": "g"
   }
 ]
