@@ -15978,5 +15978,18 @@
     "cuisine": "mexican",
     "totalTimeMin": 140,
     "shard": "g"
+  },
+  {
+    "slug": "gently-flavored-tunisian-fish-tagine--japanese",
+    "title": "Pan-Seared Fish Tagine with Tunisian Flavors",
+    "tags": [
+      "fish",
+      "tagine",
+      "tunisian",
+      "japanese"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 27,
+    "shard": "g"
   }
 ]
