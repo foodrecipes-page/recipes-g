@@ -1,0 +1,79 @@
+{
+  "slug": "gooey-quick-fix-indian-trout-stir-fry",
+  "title": "Pan-Seared Trout with Indian Spice",
+  "description": "A flavorful and healthy trout dish with an Indian twist, seared to perfection in just a few minutes.",
+  "cuisine": "indian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "trout fillets",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "fix spice blend",
+      "amount": "1 tsp",
+      "notes": "available at most grocery stores"
+    },
+    {
+      "name": "stir fry oil",
+      "amount": "2 tbsp",
+      "notes": "such as peanut or vegetable oil"
+    },
+    {
+      "name": "quick lemon",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped (optional)",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat a skillet over medium-high heat.",
+    "Season the trout fillets with salt and pepper.",
+    "Add the stir fry oil to the skillet and swirl to coat.",
+    "Add the trout fillets to the skillet, skin side up (if they have skin).",
+    "Cook for 3-4 minutes, or until the skin is crispy.",
+    "Flip the trout over and cook for an additional 3-4 minutes, or until cooked through.",
+    "Sprinkle the fix spice blend over the top of the trout.",
+    "Squeeze the juice of the quick lemon over the top of the trout.",
+    "Serve the trout hot, garnished with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "fish",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-quick-fix-indian-trout-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T23:50:01.441Z"
+}
