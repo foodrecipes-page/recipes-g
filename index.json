@@ -12225,15 +12225,15 @@
   },
   {
     "slug": "gooey-spanish-tomato-stir-fry",
-    "title": "Gooey Spanish Tomato Stir-Fry",
+    "title": "Spanish Gooey Tomato Stir Fry",
     "tags": [
       "spanish",
       "stir-fry",
-      "earthly",
-      "gooey"
+      "tomatoes",
+      "cheese"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 15,
     "shard": "g"
   },
   {
@@ -15989,6 +15989,19 @@
       "japanese"
     ],
     "cuisine": "Japanese",
+    "totalTimeMin": 27,
+    "shard": "g"
+  },
+  {
+    "slug": "golden-toasted-spinach-delight--japanese",
+    "title": "Toasted Spinach Delight",
+    "tags": [
+      "japanese",
+      "spinach",
+      "delicata-squash",
+      "toasted-sesame-seeds"
+    ],
+    "cuisine": "japanese",
     "totalTimeMin": 27,
     "shard": "g"
   }
