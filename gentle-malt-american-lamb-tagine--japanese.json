@@ -1,0 +1,82 @@
+{
+  "slug": "gentle-malt-american-lamb-tagine--japanese",
+  "title": "Japanese Lamb Tagine",
+  "description": "A fusion of Japanese and Moroccan flavors in this unique lamb tagine dish.",
+  "cuisine": "japanese",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 lbs"
+    },
+    {
+      "name": "gentle spring onions",
+      "amount": "2"
+    },
+    {
+      "name": "malt vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "american whiskey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "tagine spice mix",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sushi rice",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb shoulder on all sides, then set aside.",
+    "Soften the onions in the pot, then add the malt vinegar, whiskey, tagine spice mix, soy sauce, brown sugar, honey, and rice vinegar.",
+    "Return the lamb to the pot and bring to a boil.",
+    "Transfer the pot to the oven and cook at 300°F (150°C) for 2.5 hours.",
+    "Serve the lamb with steamed sushi rice.",
+    "Garnish with green onions and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "japanese",
+    "lamb",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 20,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gentle-malt-american-lamb-tagine--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T01:21:47.731Z"
+}
