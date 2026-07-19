@@ -1,0 +1,96 @@
+{
+  "slug": "gently-flavored-tunisian-fish-tagine--japanese",
+  "title": "Pan-Seared Fish Tagine with Tunisian Flavors",
+  "description": "A unique Japanese-inspired dish that combines the bold flavors of Tunisia with the delicate taste of fish. Pan-seared to perfection.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish fillet (cod or tilapia)",
+      "amount": "4 servings",
+      "notes": "Fresh, skin removed"
+    },
+    {
+      "name": "Tunisian flavored oil",
+      "amount": "2 tbsp",
+      "notes": "Use a high-quality, infused oil"
+    },
+    {
+      "name": "Gently seasoned salt",
+      "amount": "1 tsp",
+      "notes": "Mix with other spices for added flavor"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 tsp",
+      "notes": "Balances the flavors"
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1 medium",
+      "notes": "Thinly slice for better texture"
+    },
+    {
+      "name": "Chopped bell pepper",
+      "amount": "1 medium",
+      "notes": "Red or green, sliced"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "Optional garnish"
+    },
+    {
+      "name": "Crushed red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": "Add heat to taste"
+    },
+    {
+      "name": "Flour",
+      "amount": "1 cup",
+      "notes": "For dusting the fish"
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "4",
+      "notes": "Serve with the dish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the fish fillets with gently seasoned salt, granulated sugar, and crushed red pepper flakes.",
+    "Dust the fish with flour, shaking off excess.",
+    "Heat the Tunisian flavored oil in a large skillet over medium-high heat.",
+    "Sear the fish for 2-3 minutes per side, or until golden brown.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes, or until cooked through.",
+    "While the fish is cooking, sauté the chopped onion and bell pepper in a separate skillet until tender.",
+    "Stir in chopped cilantro and cook for an additional minute.",
+    "Serve the fish with the sautéed vegetables and a squeeze of lemon juice.",
+    "Garnish with additional cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "tagine",
+    "tunisian",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gently-flavored-tunisian-fish-tagine--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T21:16:52.736Z"
+}
