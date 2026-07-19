@@ -1,0 +1,79 @@
+{
+  "slug": "golden-smoky-portuguese-chicken-bowl",
+  "title": "Golden Chicken Bowl",
+  "description": "A delicious, smoky chicken bowl inspired by Portuguese flavors, served with a side of golden goodness.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "golden potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "portuguese seasoning",
+      "amount": "1 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the chicken breast with salt, black pepper, and portuguese seasoning.",
+    "Heat 1 tbsp of olive oil in a large skillet over medium-high heat.",
+    "Sear the chicken breast for 5-6 minutes per side, or until cooked through.",
+    "Transfer the chicken to a plate and let it rest for 5 minutes.",
+    "Toss the cubed potatoes with the remaining 1 tbsp of olive oil, smoky paprika, and salt.",
+    "Spread the potatoes on a baking sheet and roast in the oven for 20-25 minutes, or until golden brown.",
+    "Slice the rested chicken breast into thin strips.",
+    "Serve the chicken strips over the golden potatoes, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "portuguese",
+    "golden",
+    "bowl"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-smoky-portuguese-chicken-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T07:13:48.639Z"
+}
