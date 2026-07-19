@@ -1,0 +1,59 @@
+{
+  "slug": "garlic-whisk-delight--italian",
+  "title": "Italian-Style Garlic Delight",
+  "description": "A simple Italian-inspired dish featuring roasted garlic and herbs.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Peel the garlic cloves and place on a baking sheet lined with parchment paper.",
+    "Drizzle the olive oil over the garlic and sprinkle with salt.",
+    "Roast in the preheated oven for 12-15 minutes, or until the garlic is tender.",
+    "Remove from the oven and let cool slightly.",
+    "Mince the roasted garlic and mix with chopped parsley and lemon juice.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "garlic",
+    "herbs"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlic-whisk-delight--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T00:43:24.086Z"
+}
