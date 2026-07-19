@@ -1,0 +1,68 @@
+{
+  "slug": "golden-brown-malaysian-pork-tenderloin-skewers--vegan",
+  "title": "Malaysian Vegan Satay",
+  "description": "A plant-based version of the popular Southeast Asian dish, featuring marinated tofu skewers grilled to perfection.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Golden skewers",
+      "amount": "10-12",
+      "notes": "soy-free and vegan-friendly"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tbsp",
+      "notes": "for the marinade"
+    },
+    {
+      "name": "Malaysian peanut sauce",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade, vegan-friendly"
+    },
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": "firm, drained, and cut into bite-sized pieces"
+    },
+    {
+      "name": "Vegan kecap manis",
+      "amount": "2 tbsp",
+      "notes": "or substitute with tamari and maple syrup"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together brown sugar, kecap manis, and 2 tbsp water to make the marinade.",
+    "3. Add the tofu to the marinade and mix well.",
+    "4. Thread the marinated tofu onto the skewers.",
+    "5. Brush the grill with oil to prevent sticking.",
+    "6. Grill the skewers for 8-10 minutes, turning frequently.",
+    "7. Brush the skewers with peanut sauce during the last 2 minutes of grilling.",
+    "8. Serve hot with additional peanut sauce for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "malaysian",
+    "grilled",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-brown-malaysian-pork-tenderloin-skewers--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T00:53:17.077Z"
+}
