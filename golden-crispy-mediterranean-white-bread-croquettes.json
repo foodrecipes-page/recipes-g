@@ -1,0 +1,80 @@
+{
+  "slug": "golden-crispy-mediterranean-white-bread-croquettes",
+  "title": "Crispy Croquette Sandwich Bites",
+  "description": "A Mediterranean twist on the classic croquette, served on crispy white bread. Crunchy, cheesy, and delicious.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mediterranean Croquettes",
+      "amount": "12-15 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Golden Crispy White Bread",
+      "amount": "1 baguette",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "for brushing",
+      "notes": ""
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "shredded",
+      "notes": "optional"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "chopped",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. Slice the golden crispy white bread into 1-inch slices.",
+    "3. Brush the bread slices with olive oil and toast until crispy.",
+    "4. Place a toasted bread slice on a flat surface.",
+    "5. Place a mediterranean croquette on top of the bread slice.",
+    "6. Sprinkle shredded cheddar cheese and chopped parsley on top of the croquette (if using).",
+    "7. Top with another toasted bread slice.",
+    "8. Serve immediately and enjoy!",
+    "9. Repeat with the remaining ingredients.",
+    "10. Serve the crispy croquette sandwich bites with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "vegetarian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-crispy-mediterranean-white-bread-croquettes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T12:52:35.341Z"
+}
