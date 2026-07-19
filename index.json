@@ -16058,5 +16058,19 @@
     "cuisine": "japanese",
     "totalTimeMin": 170,
     "shard": "g"
+  },
+  {
+    "slug": "gently-grilled-saudi-arabian-castelvetrano-olives-pilaf--japanese",
+    "title": "Grilled Castelvetrano Olives with Arabian Pilaf",
+    "tags": [
+      "japanese",
+      "vegetarian",
+      "grilled",
+      "arabian",
+      "castelvetrano"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "g"
   }
 ]
