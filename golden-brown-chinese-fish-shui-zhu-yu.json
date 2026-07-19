@@ -1,0 +1,83 @@
+{
+  "slug": "golden-brown-chinese-fish-shui-zhu-yu",
+  "title": "Pan-Seared Zhu Fillets with Shui Sauce",
+  "description": "Delicious pan-seared zhu fillets served with a sweet and savory shui sauce, perfect for a weeknight dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free",
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Zhu Fillets",
+      "amount": "4",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Shui Sauce",
+      "amount": "1/2 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Brown Rice",
+      "amount": "1 cup",
+      "notes": "Cooked according to package instructions"
+    },
+    {
+      "name": "Golden Stir-Fry Vegetables",
+      "amount": "1 cup",
+      "notes": "Frozen or fresh"
+    },
+    {
+      "name": "Chinese Five-Spice Powder",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": "Season to taste"
+    },
+    {
+      "name": "Fish Oil",
+      "amount": "1 tsp",
+      "notes": "For frying"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan or skillet over medium-high heat.",
+    "Season the zhu fillets with Chinese five-spice powder, salt, and pepper.",
+    "Add fish oil to the pan and swirl it around to coat the bottom.",
+    "Add the zhu fillets to the pan and sear for 3-4 minutes on each side.",
+    "Remove the zhu fillets from the pan and set them aside to rest.",
+    "Add the shui sauce to the pan and stir to combine with the remaining pan juices.",
+    "Return the zhu fillets to the pan and simmer in the shui sauce for an additional 2-3 minutes.",
+    "Serve the zhu fillets hot over brown rice, garnished with golden stir-fry vegetables.",
+    "Serve immediately and enjoy!",
+    "Clean up any spills or messes in the kitchen."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "fish",
+    "vegetarian",
+    "pescatarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-brown-chinese-fish-shui-zhu-yu",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T04:36:55.955Z"
+}
