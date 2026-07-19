@@ -1,0 +1,75 @@
+{
+  "slug": "gooey-show-off-white-chocolate-stir-fry--japanese",
+  "title": "Japanese-Style Chocolate Dango",
+  "description": "A sweet and unique dessert based on traditional Japanese dango, with a rich chocolate twist.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "White Chocolate",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Gooey Syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Show Peanuts",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Off-the-Shelf Rice Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Off-the-Shelf Mochi Flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Stir-Fried Sesame Seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Fry Batter Flour",
+      "amount": "1/4 cup, for dusting"
+    },
+    {
+      "name": "Off-the-Shelf Water",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine rice flour, mochi flour, and a pinch of salt. Mix well.",
+    "2. Gradually add in water, stirring with a wooden spoon until a dough forms.",
+    "3. Knead the dough for about 10 minutes until it becomes smooth and pliable.",
+    "4. Divide the dough into small balls, about 1 inch in diameter.",
+    "5. Dust the balls with fry batter flour.",
+    "6. Heat a non-stick pan or griddle over medium heat.",
+    "7. Cook the dango for 2-3 minutes on each side, or until they are lightly browned.",
+    "8. Meanwhile, melt white chocolate in a double boiler or in the microwave in 30-second increments, stirring between each interval.",
+    "9. Once the dango are cooked, drizzle with gooey syrup and sprinkle with chopped peanuts and sesame seeds.",
+    "10. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "chocolate",
+    "dessert",
+    "traditional"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-show-off-white-chocolate-stir-fry--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T00:39:47.663Z"
+}
