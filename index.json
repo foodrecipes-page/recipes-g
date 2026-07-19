@@ -13882,15 +13882,14 @@
   },
   {
     "slug": "green-pepper-wrap",
-    "title": "Green Pepper Wrap",
+    "title": "Veggie Wrap",
     "tags": [
-      "green-pepper",
-      "toasted-bread",
-      "halal",
-      "weeknight-dish"
+      "healthy",
+      "vegetarian",
+      "easy"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 5,
+    "cuisine": "western",
+    "totalTimeMin": 12,
     "shard": "g"
   },
   {
