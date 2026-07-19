@@ -1,0 +1,80 @@
+{
+  "slug": "garlicky-zesty-greek-chilli-spanakopita--thai",
+  "title": "Thai Chicken and Spinach Stir Fry",
+  "description": "A spicy and savory Thai-inspired stir fry made with chicken, spinach, and a blend of Thai seasonings.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "spanakopita",
+      "amount": "1 package",
+      "notes": "crumbly feta cheese"
+    },
+    {
+      "name": "garlicky olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Thai red chilli",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "zesty lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "greek honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "chilli flakes",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat the garlicky olive oil in a large skillet or wok over medium-high heat.",
+    "2. Add the chicken breast and cook until browned on both sides and cooked through.",
+    "3. Remove the chicken from the skillet and set aside.",
+    "4. Add the Thai red chilli to the skillet and cook for 1-2 minutes until fragrant.",
+    "5. Add the crumbled spanakopita to the skillet and cook until lightly browned.",
+    "6. Add the zesty lime juice, greek honey, and chilli flakes to the skillet and stir to combine.",
+    "7. Add the cooked chicken back to the skillet and stir to combine with the sauce.",
+    "8. Cook for an additional 1-2 minutes until the sauce has thickened.",
+    "9. Serve the chicken and spinach mixture hot over rice or noodles.",
+    "10. Garnish with additional Thai red chilli slices if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai-cuisine",
+    "chicken",
+    "spinach",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-zesty-greek-chilli-spanakopita--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T10:25:19.542Z"
+}
