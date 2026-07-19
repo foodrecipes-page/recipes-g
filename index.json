@@ -16088,5 +16088,45 @@
     "cuisine": null,
     "totalTimeMin": 40,
     "shard": "g"
+  },
+  {
+    "slug": "gluten-free-tangy-creamy-onion-stir-fry--german",
+    "title": "German Onion Stir Fry",
+    "tags": [
+      "german",
+      "gluten-free",
+      "vegetarian",
+      "snack",
+      "quick"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 12,
+    "shard": "g"
+  },
+  {
+    "slug": "ground-croatian-lamb-stew--japanese",
+    "title": "Teriyaki Lamb Koftas",
+    "tags": [
+      "lamb",
+      "grilled",
+      "japanese",
+      "teriyaki"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
+    "slug": "garlic-gherkin-bliss--chinese",
+    "title": "Spicy Gherkin and Garlic Stir Fry",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "quick-and-easy",
+      "side-dish"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 20,
+    "shard": "g"
   }
 ]
