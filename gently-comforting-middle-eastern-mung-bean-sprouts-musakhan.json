@@ -1,0 +1,86 @@
+{
+  "slug": "gently-comforting-middle-eastern-mung-bean-sprouts-musakhan",
+  "title": "Musakhan Wraps with Mung Bean Sprouts",
+  "description": "A comfort food twist on traditional Musakhan, this dish combines crispy sumac-spiced chicken with tender mung bean sprouts, all wrapped in a warm pita.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "mung bean sprouts",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "Musakhan spice blend",
+      "amount": "2 tablespoons",
+      "notes": "available at most Middle Eastern markets"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4-6",
+      "notes": "warm, wrapped individually"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, whisk together Musakhan spice blend, olive oil, salt, and pepper. Add the chicken and toss to coat.",
+    "In a large skillet, heat 1 tablespoon of olive oil over medium-high heat. Add the chicken and cook until browned, about 5-6 minutes. Transfer the chicken to a plate and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of olive oil. Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes.",
+    "Add the mung bean sprouts to the skillet and cook until tender, about 3-4 minutes.",
+    "Return the chicken to the skillet and stir to combine with the mung bean sprouts and onion mixture.",
+    "Warm the pita bread by wrapping it in foil and heating it in the oven for 5-7 minutes.",
+    "Assemble the wraps by spooning the chicken and mung bean sprouts mixture onto a warmed pita bread and garnishing with sumac.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "middle-eastern",
+    "mung-bean-sprouts"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gently-comforting-middle-eastern-mung-bean-sprouts-musakhan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T09:40:22.534Z"
+}
