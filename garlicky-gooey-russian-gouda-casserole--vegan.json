@@ -1,0 +1,67 @@
+{
+  "slug": "garlicky-gooey-russian-gouda-casserole--vegan",
+  "title": "Vegan Gooey Gouda Casserole",
+  "description": "A rich and creamy casserole made with vegan gouda cheese, perfect for a comforting meal.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vegan Gouda Cheese",
+      "amount": "1 1/2 cups, shredded",
+      "notes": ""
+    },
+    {
+      "name": "Gooey",
+      "amount": "1 cup",
+      "notes": "for topping"
+    },
+    {
+      "name": "Garlicky",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Russian",
+      "amount": "1 tablespoon, chopped fresh dill",
+      "notes": ""
+    },
+    {
+      "name": "Casserole",
+      "amount": "1 cup, cubed bread",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large saucepan, sauté the garlicky until fragrant.",
+    "Add the cubed bread to the saucepan and toast until lightly browned.",
+    "In a separate saucepan, melt the vegan gouda cheese over low heat.",
+    "Add the chopped dill to the melted cheese and stir to combine.",
+    "In a greased 9x13-inch baking dish, layer the toasted bread mixture and the cheesy dill mixture.",
+    "Top with additional gooey and bake for 20-25 minutes, or until the top is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "comfort-food",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-gooey-russian-gouda-casserole--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T12:56:03.079Z"
+}
