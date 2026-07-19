@@ -1751,17 +1751,16 @@
   },
   {
     "slug": "garlicky-crunchy-greek-lamb-skewers",
-    "title": "Garlicky Crunchy Greek Lamb Skewers",
+    "title": "Greek Lamb Skewers with Crunchy Topping",
     "tags": [
-      "greek",
       "lamb",
+      "greek",
       "skewers",
-      "garlic",
-      "peanut-cookies",
-      "brunch"
+      "grill",
+      "easy"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 30,
+    "totalTimeMin": 28,
     "shard": "g"
   },
   {
@@ -16127,6 +16126,20 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 20,
+    "shard": "g"
+  },
+  {
+    "slug": "gently-woodfired-mediterranean-rhubarb-bake--german",
+    "title": "Gentle Woodfired Rhubarb Strudel",
+    "tags": [
+      "german",
+      "dessert",
+      "strudel",
+      "rhubarb",
+      "woodfired"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
     "shard": "g"
   }
 ]
