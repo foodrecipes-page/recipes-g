@@ -11632,17 +11632,14 @@
   },
   {
     "slug": "gooey-jamaican-pepper-toast",
-    "title": "Gooey Jamaican Pepper Toast",
+    "title": "Jamaican Toast with Gooey Cheese",
     "tags": [
-      "comfort-food",
-      "high-fat",
-      "jamaican-cuisine",
-      "one-pan",
-      "snack-ideas",
-      "weeknight"
+      "breakfast",
+      "snack",
+      "toasty"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 22,
+    "cuisine": null,
+    "totalTimeMin": 5,
     "shard": "g"
   },
   {
