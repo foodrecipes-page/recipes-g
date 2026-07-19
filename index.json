@@ -16067,5 +16067,18 @@
     "cuisine": "japanese",
     "totalTimeMin": 25,
     "shard": "g"
+  },
+  {
+    "slug": "garlicky-zesty-greek-chilli-spanakopita--thai",
+    "title": "Thai Chicken and Spinach Stir Fry",
+    "tags": [
+      "thai-cuisine",
+      "chicken",
+      "spinach",
+      "stir-fry"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 25,
+    "shard": "g"
   }
 ]
