@@ -1,0 +1,58 @@
+{
+  "slug": "gluten-free-tangy-creamy-onion-stir-fry--german",
+  "title": "German Onion Stir Fry",
+  "description": "A quick and tangy German-inspired stir fry made with onions and a creamy twist.",
+  "cuisine": "german",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "gluten-free stir-fry sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "creamy sour cream",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium heat.",
+    "Add the sliced onion and cook until translucent, about 5 minutes.",
+    "Add the gluten-free stir-fry sauce and stir to combine.",
+    "Cook for an additional 1-2 minutes, until the sauce has thickened.",
+    "Stir in the creamy sour cream.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 7,
+  "totalTimeMin": 12,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "gluten-free",
+    "vegetarian",
+    "snack",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gluten-free-tangy-creamy-onion-stir-fry--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T13:09:47.569Z"
+}
