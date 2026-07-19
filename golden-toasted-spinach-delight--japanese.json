@@ -1,0 +1,82 @@
+{
+  "slug": "golden-toasted-spinach-delight--japanese",
+  "title": "Toasted Spinach Delight",
+  "description": "A Japanese-inspired spinach dish with a crispy toasted twist. Enjoy as a side or light meal.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Golden Spinach",
+      "amount": "200g"
+    },
+    {
+      "name": "Toasted Sesame Seeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Delightful Delicata Squash",
+      "amount": "150g"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 180°C (350°F).",
+    "2. Wash the spinach and delicata squash, then chop into bite-sized pieces.",
+    "3. In a large pan, heat 1 tablespoon of coconut oil over medium heat.",
+    "4. Add the chopped delicata squash and cook for 3-4 minutes.",
+    "5. Add the spinach to the pan and cook until wilted.",
+    "6. In a small bowl, whisk together soy sauce, rice vinegar, sugar, salt, and black pepper.",
+    "7. Pour the sauce over the spinach and delicata squash mixture.",
+    "8. Transfer the mixture to a baking dish and top with toasted sesame seeds.",
+    "9. Bake for 10-12 minutes or until the sesame seeds are golden brown.",
+    "10. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "spinach",
+    "delicata-squash",
+    "toasted-sesame-seeds"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-toasted-spinach-delight--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T23:10:15.276Z"
+}
