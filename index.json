@@ -5635,17 +5635,14 @@
   },
   {
     "slug": "gently-comforting-middle-eastern-mung-bean-sprouts-musakhan",
-    "title": "Gently Comforting Middle Eastern Mung Bean Sprouts Musakhan",
+    "title": "Musakhan Wraps with Mung Bean Sprouts",
     "tags": [
       "comfort-food",
-      "low-calorie",
       "middle-eastern",
-      "mung-bean",
-      "salt-block",
-      "vegetarian"
+      "mung-bean-sprouts"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
@@ -10208,16 +10205,14 @@
   },
   {
     "slug": "golden-roasted-greesks-peanuts-stir-fry",
-    "title": "Golden Roasted Greesks Peanuts Stir-fry",
+    "title": "Golden Stir Fry",
     "tags": [
-      "croatian-recipe",
-      "ganash-friendly",
-      "jain-friendly",
-      "light-dish",
-      "peanut-stir-fry"
+      "stir-fry",
+      "peanuts",
+      "sweet-potatoes"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 15,
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
