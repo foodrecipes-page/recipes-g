@@ -1,0 +1,54 @@
+{
+  "slug": "garlic-gherkin-bliss--chinese",
+  "title": "Spicy Gherkin and Garlic Stir Fry",
+  "description": "A quick and easy Chinese-inspired stir fry made with gherkin and garlic. Perfect as a side dish or used as a topping for noodles or rice.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gherkin",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Bliss",
+      "amount": "1/4 cup (sliced)",
+      "notes": "Note: 'Bliss' is assumed to be a type of sweet potato. If not, adjust the ingredient accordingly."
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a wok over medium-high heat.",
+    "Add the sliced bliss and cook for 3-4 minutes, or until slightly tender.",
+    "Add the minced garlic and cook for 1 minute, or until fragrant.",
+    "Add the gherkin and stir-fry for 2-3 minutes, or until the gherkin starts to soften.",
+    "Season with salt to taste.",
+    "Serve hot over rice or noodles, garnished with additional gherkin if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "quick-and-easy",
+    "side-dish"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlic-gherkin-bliss--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T13:15:40.846Z"
+}
