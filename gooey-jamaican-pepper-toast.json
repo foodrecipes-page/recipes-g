@@ -1,0 +1,57 @@
+{
+  "slug": "gooey-jamaican-pepper-toast",
+  "title": "Jamaican Toast with Gooey Cheese",
+  "description": "A simple breakfast recipe featuring gooey cheese and jamaican pepper on toast.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Jamaican Pepper Bread",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "Gooey Cheese",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Butter two slices of Jamaican pepper bread.",
+    "2. Place the bread slices in a toaster and toast until golden brown.",
+    "3. Top each slice with 1 tablespoon of gooey cheese.",
+    "4. Place the slices under the broiler until the cheese is melted and gooey.",
+    "5. Remove from the oven and sprinkle with salt to taste."
+  ],
+  "prepTimeMin": 2,
+  "cookTimeMin": 3,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "snack",
+    "toasty"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-jamaican-pepper-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T02:48:26.103Z"
+}
