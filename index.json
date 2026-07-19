@@ -9386,17 +9386,14 @@
   },
   {
     "slug": "golden-crispy-mediterranean-white-bread-croquettes",
-    "title": "Golden Crispy Mediterranean White Bread Croquettes",
+    "title": "Crispy Croquette Sandwich Bites",
     "tags": [
-      "appetizer",
-      "deep-fried",
-      "low-carb",
       "mediterranean",
-      "snack",
-      "vegetarian"
+      "vegetarian",
+      "snack"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 32,
+    "totalTimeMin": 15,
     "shard": "g"
   },
   {
@@ -16078,6 +16075,18 @@
     ],
     "cuisine": "Thai",
     "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-gooey-russian-gouda-casserole--vegan",
+    "title": "Vegan Gooey Gouda Casserole",
+    "tags": [
+      "vegan",
+      "comfort-food",
+      "casserole"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 40,
     "shard": "g"
   }
 ]
