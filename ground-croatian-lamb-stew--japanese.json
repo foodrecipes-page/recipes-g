@@ -1,0 +1,88 @@
+{
+  "slug": "ground-croatian-lamb-stew--japanese",
+  "title": "Teriyaki Lamb Koftas",
+  "description": "A Japanese-inspired dish featuring lamb koftas served with a sweet teriyaki sauce. This recipe is perfect for a quick and flavorful dinner.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground lamb",
+      "amount": "250g",
+      "notes": "Make sure to handle and store lamb safely"
+    },
+    {
+      "name": "croatian paprika",
+      "amount": "2 tsp",
+      "notes": "Add a nice smoky flavor"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "Key ingredient for teriyaki sauce"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tbsp",
+      "notes": "Balance the savory flavors"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tbsp",
+      "notes": "Add a touch of acidity"
+    },
+    {
+      "name": "green onions",
+      "amount": "1 bunch",
+      "notes": "Garnish with chopped onions"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": "Add a nutty flavor to the sauce"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "Season to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "Season to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, combine ground lamb, croatian paprika, salt, and black pepper. Mix well with your hands until just combined.",
+    "3. Use your hands to shape the lamb mixture into small koftas.",
+    "4. Grill the koftas for 4-5 minutes per side, or until they are cooked to your desired level of doneness.",
+    "5. While the koftas are cooking, prepare the teriyaki sauce by whisking together soy sauce, brown sugar, rice vinegar, and sesame oil in a small bowl.",
+    "6. Once the koftas are cooked, brush them with the teriyaki sauce and let them cook for an additional 1-2 minutes.",
+    "7. Serve the koftas hot with additional teriyaki sauce on the side. Garnish with chopped green onions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "grilled",
+    "japanese",
+    "teriyaki"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ground-croatian-lamb-stew--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T13:13:09.600Z"
+}
