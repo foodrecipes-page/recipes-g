@@ -11934,16 +11934,14 @@
   },
   {
     "slug": "gooey-quick-fix-indian-trout-stir-fry",
-    "title": "Gooey Quick Fix Indian Trout Stir-fry",
+    "title": "Pan-Seared Trout with Indian Spice",
     "tags": [
-      "vegan",
-      "quick-fix",
       "indian",
-      "stir-fry",
-      "goopy"
+      "fish",
+      "healthy"
     ],
-    "cuisine": "Indian",
-    "totalTimeMin": 25,
+    "cuisine": "indian",
+    "totalTimeMin": 15,
     "shard": "g"
   },
   {
@@ -16003,6 +16001,44 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 27,
+    "shard": "g"
+  },
+  {
+    "slug": "gluten-free-tangy-creamy-onion-stir-fry--vegetarian",
+    "title": "Vegetarian Stir Fry with Creamy Sauce",
+    "tags": [
+      "vegetarian",
+      "gluten-free",
+      "stir-fry",
+      "creamy-sauce"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
+    "slug": "gooey-show-off-white-chocolate-stir-fry--japanese",
+    "title": "Japanese-Style Chocolate Dango",
+    "tags": [
+      "japanese",
+      "chocolate",
+      "dessert",
+      "traditional"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
+    "slug": "garlic-whisk-delight--italian",
+    "title": "Italian-Style Garlic Delight",
+    "tags": [
+      "italian",
+      "garlic",
+      "herbs"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
     "shard": "g"
   }
 ]
