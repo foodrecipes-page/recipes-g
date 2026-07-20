@@ -16260,5 +16260,18 @@
     "cuisine": "mexican",
     "totalTimeMin": 27,
     "shard": "g"
+  },
+  {
+    "slug": "garlic-sherry-sunday--japanese",
+    "title": "Pan-Seared Garlic Shrimp",
+    "tags": [
+      "shrimp",
+      "garlic",
+      "japanese",
+      "quick"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 18,
+    "shard": "g"
   }
 ]
