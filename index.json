@@ -16235,5 +16235,30 @@
     "cuisine": "japanese",
     "totalTimeMin": 22,
     "shard": "g"
+  },
+  {
+    "slug": "garlicky-flaky-indulgent-egyptian-lamb-tagine--mexican",
+    "title": "Lamb Tagine Tacos",
+    "tags": [
+      "lamb",
+      "tacos",
+      "mexican",
+      "lactose-free"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
+    "slug": "griddled-mexican-cod-taco--gluten-free",
+    "title": "Pan-Seared Cod Tacos",
+    "tags": [
+      "gluten-free",
+      "mexican",
+      "fish-tacos"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 27,
+    "shard": "g"
   }
 ]
