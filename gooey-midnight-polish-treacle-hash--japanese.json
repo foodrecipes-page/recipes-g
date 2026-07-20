@@ -1,0 +1,60 @@
+{
+  "slug": "gooey-midnight-polish-treacle-hash--japanese",
+  "title": "Midnight Hash Gooey Treacle Bites",
+  "description": "A sweet and crunchy Japanese-inspired treat made with midnight hash and gooey treacle. Perfect for a quick dessert or snack.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "midnight hash",
+      "amount": "1 cup"
+    },
+    {
+      "name": "treacle",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "polish",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "gooey",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Line a baking sheet with parchment paper.",
+    "In a large bowl, mix together midnight hash and treacle until well combined.",
+    "Add polish and mix until a dough forms.",
+    "Roll out the dough to 1/4 inch thickness.",
+    "Use a cookie cutter or glass to cut out shapes.",
+    "Place shapes on the prepared baking sheet.",
+    "Bake for 12-15 minutes or until lightly golden.",
+    "While the shapes are baking, melt gooey in a small saucepan over low heat.",
+    "Remove the shapes from the oven and let cool for 2 minutes.",
+    "Drizzle melted gooey over the shapes and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "dessert",
+    "sweet",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-midnight-polish-treacle-hash--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T23:06:26.493Z"
+}
