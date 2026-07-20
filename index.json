@@ -1348,19 +1348,14 @@
   },
   {
     "slug": "garlicky-crispy-brazilian-shrimp-skewers",
-    "title": "Garlicky, Crispy Brazilian Shrimp Skewers",
+    "title": "Brazilian Shrimp Skewers with Garlic Crust",
     "tags": [
-      "shrimp",
-      "Brazilian",
-      "garlic",
-      "couscous",
-      "keto-friendly",
-      "gluten-free",
-      "grill",
-      "seafood"
+      "grilled",
+      "seafood",
+      "south-american"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 20,
     "shard": "g"
   },
   {
@@ -16163,6 +16158,19 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 23,
+    "shard": "g"
+  },
+  {
+    "slug": "gingered-crumbly-portuguese-pomegranate-tart--thai",
+    "title": "Gingered Crumble Tarts",
+    "tags": [
+      "dessert",
+      "thaideessert",
+      "ginger",
+      "pomegranate"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 45,
     "shard": "g"
   }
 ]
