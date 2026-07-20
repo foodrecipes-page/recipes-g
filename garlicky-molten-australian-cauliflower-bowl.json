@@ -1,0 +1,74 @@
+{
+  "slug": "garlicky-molten-australian-cauliflower-bowl",
+  "title": "Garlicky Australian Cauliflower Bowl",
+  "description": "A flavorful and nutritious bowl filled with roasted cauliflower, topped with a garlicky australian sauce.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cauliflower",
+      "amount": "1 head",
+      "notes": "broken into florets"
+    },
+    {
+      "name": "garlicky australian sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for roasting"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for roasting"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "for roasting"
+    },
+    {
+      "name": "bowl",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Toss cauliflower florets with olive oil, salt, and pepper in a bowl.",
+    "Spread cauliflower on a baking sheet and roast for 20-25 minutes, or until tender.",
+    "In a separate pan, heat the garlicky australian sauce over medium heat.",
+    "To assemble the bowl, place roasted cauliflower on a serving bowl.",
+    "Drizzle the garlicky australian sauce over the cauliflower.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "cauliflower",
+    "healthy",
+    "lunch",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 10,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-molten-australian-cauliflower-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T16:00:13.643Z"
+}
