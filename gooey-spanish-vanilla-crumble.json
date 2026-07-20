@@ -1,0 +1,59 @@
+{
+  "slug": "gooey-spanish-vanilla-crumble",
+  "title": "Spanish Crumble Dessert",
+  "description": "A sweet Spanish-inspired dessert featuring gooey and crumbly toppings with a hint of vanilla.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Vanilla cake",
+      "amount": "1",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Gooey caramel sauce",
+      "amount": "1/2 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Spanish almond crumble",
+      "amount": "1/2 cup",
+      "notes": "Crushed almonds and sugar"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Bake the vanilla cake according to the package instructions.",
+    "While the cake is baking, prepare the Spanish almond crumble by mixing together crushed almonds and sugar.",
+    "Remove the cake from the oven and let it cool for a few minutes.",
+    "Drizzle the gooey caramel sauce over the top of the cake.",
+    "Sprinkle the Spanish almond crumble over the top of the cake.",
+    "Return the cake to the oven and bake for an additional 5-7 minutes, or until the crumble is golden brown.",
+    "Remove the cake from the oven and let it cool for a few minutes before serving.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "dessert",
+    "sweet-treat"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-spanish-vanilla-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T22:49:42.734Z"
+}
