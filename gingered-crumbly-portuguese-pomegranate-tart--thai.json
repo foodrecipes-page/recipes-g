@@ -1,0 +1,75 @@
+{
+  "slug": "gingered-crumbly-portuguese-pomegranate-tart--thai",
+  "title": "Gingered Crumble Tarts",
+  "description": "A twist on traditional Thai desserts, these Gingered Crumble Tarts combine the warmth of ginger with the sweetness of pomegranate and the crunch of crumbly pastry.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Gingered Pastry",
+      "amount": "1 package",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Pomegranate Seeds",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tart Crust",
+      "amount": "1 package",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Ginger Syrup",
+      "amount": "1/4 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Powdered Sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Crumbly Topping",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the tart crust and place in a tart pan.",
+    "Fill the tart crust with pomegranate seeds.",
+    "Roll out the gingered pastry and cut into small pieces.",
+    "Place the pastry pieces on top of the pomegranate seeds.",
+    "Mix together the ginger syrup and powdered sugar.",
+    "Pour the ginger syrup mixture over the pastry pieces.",
+    "Top with crumbly topping.",
+    "Bake for 25-30 minutes or until golden brown.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "thaideessert",
+    "ginger",
+    "pomegranate"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gingered-crumbly-portuguese-pomegranate-tart--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T19:26:37.209Z"
+}
