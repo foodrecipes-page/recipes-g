@@ -1,0 +1,75 @@
+{
+  "slug": "griddled-mexican-cod-taco--gluten-free",
+  "title": "Pan-Seared Cod Tacos",
+  "description": "A flavorful and healthy twist on traditional tacos, featuring pan-seared cod and served with a gluten-free slaw.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4 (6 oz each)"
+    },
+    {
+      "name": "gluten-free taco seasoning",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "griddled corn tortillas",
+      "amount": "8"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 head, shredded"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick skillet over medium-high heat.",
+    "Add cod fillets and cook for 3-4 minutes per side, or until cooked through.",
+    "Transfer cooked cod to a plate and set aside.",
+    "Add gluten-free taco seasoning to the skillet and cook for 1 minute.",
+    "Add lime juice to the skillet and stir to combine.",
+    "Add shredded cabbage to the skillet and cook for 2-3 minutes, or until slightly softened.",
+    "Warm griddled corn tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble tacos by placing cooked cod on a tortilla, topping with cabbage mixture, and garnishing with cilantro.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "mexican",
+    "fish-tacos"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/griddled-mexican-cod-taco--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T00:26:42.368Z"
+}
