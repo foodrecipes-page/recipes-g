@@ -1,0 +1,80 @@
+{
+  "slug": "grilled-mustardy-korean-shrimp-gui--italian",
+  "title": "Shrimp and Gui Italian Sizzler",
+  "description": "A fusion of Italian and Korean flavors, this dish combines the sweetness of gui with the spiciness of shrimp in a grilled delight.",
+  "cuisine": "italian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Gui",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "12 large",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season shrimp with salt, black pepper, and red pepper flakes.",
+    "Brush gui slices with olive oil and season with salt and black pepper.",
+    "Grill gui slices for 2-3 minutes per side or until slightly charred.",
+    "Grill shrimp for 2-3 minutes per side or until pink and cooked through.",
+    "Transfer grilled gui and shrimp to a plate and top with minced garlic.",
+    "Garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian-korean-fusion",
+    "grilled",
+    "seafood",
+    "gui"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grilled-mustardy-korean-shrimp-gui--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T18:06:51.381Z"
+}
