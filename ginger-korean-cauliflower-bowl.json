@@ -1,0 +1,86 @@
+{
+  "slug": "ginger-korean-cauliflower-bowl",
+  "title": "Spicy Korean Cauliflower Bowl",
+  "description": "A spicy and flavorful cauliflower bowl inspired by Korean cuisine, perfect for a quick and nutritious meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cauliflower",
+      "amount": "1 head"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "korean chili flakes (gochugaru)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 425°F (220°C).",
+    "2. Rinse the cauliflower and break it into florets. Place on a baking sheet and drizzle with 1 tsp of sesame oil. Roast in the oven for 15-20 minutes or until tender.",
+    "3. In a large skillet, heat 1 tsp of sesame oil over medium-high heat. Add the ginger and cook for 1-2 minutes or until fragrant.",
+    "4. Add the korean chili flakes and cook for 1 minute, stirring constantly.",
+    "5. Add the soy sauce and brown sugar to the skillet and cook for 1 minute, stirring constantly.",
+    "6. Add the roasted cauliflower to the skillet and toss to coat with the spicy sauce.",
+    "7. Cook for an additional 2-3 minutes or until the cauliflower is well coated.",
+    "8. Stir in the rice vinegar and toasted sesame seeds.",
+    "9. Transfer the cauliflower to a bowl and top with green onions.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "cauliflower",
+    "spicy",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ginger-korean-cauliflower-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T02:32:06.890Z"
+}
