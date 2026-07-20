@@ -1,0 +1,97 @@
+{
+  "slug": "gently-smoked-saudi-arabian-lamb-tagine--mexican",
+  "title": "Smoked Lamb Tagine Tacos",
+  "description": "A Mexican twist on traditional Moroccan flavors, with the rich taste of smoked lamb in a spicy taco.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked lamb",
+      "amount": "1 pound",
+      "notes": "Shredded or thinly sliced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Arabian spices",
+      "amount": "1 tsp",
+      "notes": "Dried, includes cumin, coriander, cinnamon, and turmeric"
+    },
+    {
+      "name": "Saudian cumin",
+      "amount": "0.5 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": "Canned"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Tortillas",
+      "amount": "8-10",
+      "notes": "Corn or flour, your preference"
+    },
+    {
+      "name": "Avocado",
+      "amount": "2",
+      "notes": "Diced"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add the sliced onion and cook until caramelized, about 10 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the sliced ginger and cook for 1 minute, until fragrant.",
+    "Add the smoked lamb and cook until browned, about 5 minutes.",
+    "Add the Arabian spices, cumin, and tomato paste, and stir to combine.",
+    "Add the lime juice and stir to combine.",
+    "Reduce heat to low and simmer for 5 minutes.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the lamb mixture onto a tortilla, followed by diced avocado, and any other desired toppings.",
+    "Serve immediately and enjoy.",
+    "Note: If you prefer to use a slow cooker, brown the lamb in a skillet, then transfer it to the slow cooker with the remaining ingredients and cook on low for 3-4 hours."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tacos",
+    "mexican",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gently-smoked-saudi-arabian-lamb-tagine--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T01:55:33.670Z"
+}
