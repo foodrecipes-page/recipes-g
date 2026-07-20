@@ -1,0 +1,89 @@
+{
+  "slug": "gently-spiced-syrian-chicken-curry--mexican",
+  "title": "Syrian Chicken Curry Tacos",
+  "description": "A fusion of Syrian spices and Mexican flavors in a delicious taco filling.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Syrian curry powder",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Gentle curry powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Spiced ground cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tortillas",
+      "amount": "8-10 tortillas",
+      "notes": null
+    },
+    {
+      "name": "Shredded cheese",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1 bunch",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Cook the chicken breast in a pan at medium heat until fully cooked. Set aside.",
+    "In the same pan, sauté the diced onion and minced garlic until softened.",
+    "Add the Syrian curry powder, gentle curry powder, and spiced cumin to the pan. Stir for 1-2 minutes.",
+    "Add the cooked chicken back into the pan and stir well to coat with the spice mixture.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the chicken mixture onto a tortilla and topping with shredded cheese and cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tacos",
+    "chicken",
+    "curry",
+    "mexican",
+    "syrian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gently-spiced-syrian-chicken-curry--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T22:54:27.764Z"
+}
