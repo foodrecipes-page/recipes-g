@@ -1,0 +1,77 @@
+{
+  "slug": "gooey-festive-british-beef-shin-stir-fry",
+  "title": "Traditional British Beef Shin Stew",
+  "description": "A hearty, comforting stew made with slow-cooked beef shin, perfect for a cold winter's day.",
+  "cuisine": "british",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef shin",
+      "amount": "1.5 kg",
+      "notes": "Cut into 2 inch pieces"
+    },
+    {
+      "name": "Festive spices",
+      "amount": "2 tsp",
+      "notes": "A mix of cinnamon, nutmeg, and cloves"
+    },
+    {
+      "name": "Gooey brown gravy mix",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "British stout beer",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Potato",
+      "amount": "2 large",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef shin pieces in batches, then set aside.",
+    "Add the chopped onion to the pot and cook until softened.",
+    "Add the sliced carrots and cook for 5 minutes.",
+    "Add the chopped potato, festive spices, and brown gravy mix. Stir to combine.",
+    "Add the browned beef shin back to the pot, along with the stout beer.",
+    "Bring the mixture to a boil, then cover and transfer to the oven.",
+    "Braise the stew for 2.5 hours, or until the meat is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "british",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-festive-british-beef-shin-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T23:07:24.637Z"
+}
