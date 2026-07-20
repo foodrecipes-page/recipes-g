@@ -16139,5 +16139,30 @@
     "cuisine": "german",
     "totalTimeMin": 45,
     "shard": "g"
+  },
+  {
+    "slug": "gooey-venezuelan-cheese-quesadilla--german",
+    "title": "German Quesadilla",
+    "tags": [
+      "german-cuisine",
+      "quesadilla",
+      "snack-idea"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 18,
+    "shard": "g"
+  },
+  {
+    "slug": "grilled-mustardy-korean-shrimp-gui--italian",
+    "title": "Shrimp and Gui Italian Sizzler",
+    "tags": [
+      "italian-korean-fusion",
+      "grilled",
+      "seafood",
+      "gui"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 23,
+    "shard": "g"
   }
 ]
