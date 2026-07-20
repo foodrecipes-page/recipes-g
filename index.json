@@ -2234,16 +2234,16 @@
   },
   {
     "slug": "garlicky-flaky-indulgent-egyptian-lamb-tagine",
-    "title": "garlicky, flaky, indulgent egyptian lamb tagine",
+    "title": "Egyptian Lamb Tagine",
     "tags": [
-      "high-protein",
-      "low-glycemic",
-      "one-pan",
-      "slow-cooker",
-      "weeknight"
+      "lamb",
+      "tagine",
+      "egyptian",
+      "stew",
+      "hearty"
     ],
-    "cuisine": "egyptian",
-    "totalTimeMin": 125,
+    "cuisine": "Egyptian",
+    "totalTimeMin": 140,
     "shard": "g"
   },
   {
@@ -3396,18 +3396,16 @@
   },
   {
     "slug": "garlicky-molten-australian-cauliflower-bowl",
-    "title": "Garlicky Molten Australian Cauliflower Bowl",
+    "title": "Garlicky Australian Cauliflower Bowl",
     "tags": [
       "australian",
-      "dairy-friendly",
-      "high-protein",
-      "mushroom-free",
-      "one-pan",
-      "pescatarian",
-      "weeknight"
+      "cauliflower",
+      "healthy",
+      "lunch",
+      "quick"
     ],
     "cuisine": "australian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
