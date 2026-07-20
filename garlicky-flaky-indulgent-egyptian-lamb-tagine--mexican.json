@@ -1,0 +1,76 @@
+{
+  "slug": "garlicky-flaky-indulgent-egyptian-lamb-tagine--mexican",
+  "title": "Lamb Tagine Tacos",
+  "description": "A Mexican twist on traditional Moroccan lamb tagine, served in tacos with fresh cilantro and lime.",
+  "cuisine": "mexican",
+  "diet": [
+    "lactose-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 pound, cut into 1-inch pieces",
+      "notes": "Should be at room temperature before cooking"
+    },
+    {
+      "name": "flaky",
+      "amount": "1 sheet, thawed",
+      "notes": "Frozen puff pastry for taco shells"
+    },
+    {
+      "name": "egyptian",
+      "amount": "2 tablespoons",
+      "notes": "Ground cumin for added flavor"
+    },
+    {
+      "name": "garlicky",
+      "amount": "4 cloves, minced",
+      "notes": "For the taco meat"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 tablespoon",
+      "notes": "Smoked paprika for added depth"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large skillet, cook the lamb over medium-high heat until browned, about 5 minutes.",
+    "Add the cumin, smoked paprika, and garlic to the skillet and cook for 1 minute.",
+    "Transfer the lamb to a large bowl and set aside.",
+    "Roll out the puff pastry on a lightly floured surface to a large rectangle.",
+    "Cut the pastry into 8 equal rectangles.",
+    "Spoon about 1/4 cup of the lamb mixture onto the center of each rectangle.",
+    "Fold the pastry over the filling to form a triangle and press the edges to seal.",
+    "Place the tacos on a baking sheet and brush with egg wash.",
+    "Bake for 15-20 minutes, or until golden brown.",
+    "Serve the tacos hot with lime wedges and cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tacos",
+    "mexican",
+    "lactose-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-flaky-indulgent-egyptian-lamb-tagine--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T00:18:44.688Z"
+}
