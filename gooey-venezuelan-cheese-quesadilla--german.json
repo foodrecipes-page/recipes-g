@@ -1,0 +1,62 @@
+{
+  "slug": "gooey-venezuelan-cheese-quesadilla--german",
+  "title": "German Quesadilla",
+  "description": "A unique twist on traditional German cuisine, this quesadilla combines gooey cheese with venezuelan flair.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Gooey Cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Venezuelan Bread",
+      "amount": "1 loaf",
+      "notes": ""
+    },
+    {
+      "name": "German Sausage",
+      "amount": "4 oz",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a skillet over medium heat.",
+    "Slice the venezuelan bread into thick slices.",
+    "Butter one side of each slice.",
+    "Place a slice of bread, butter-side down, in the skillet.",
+    "Top with 2 oz of gooey cheese and 1 oz of german sausage.",
+    "Fold the bread in half to create a quesadilla.",
+    "Cook for 2-3 minutes or until the bread is golden brown.",
+    "Flip the quesadilla and cook for an additional 2 minutes.",
+    "Repeat with remaining ingredients.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german-cuisine",
+    "quesadilla",
+    "snack-idea"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-venezuelan-cheese-quesadilla--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T17:59:32.591Z"
+}
