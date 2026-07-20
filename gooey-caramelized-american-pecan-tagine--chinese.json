@@ -1,0 +1,81 @@
+{
+  "slug": "gooey-caramelized-american-pecan-tagine--chinese",
+  "title": "Caramelized Pecan Wontons",
+  "description": "A sweet and savory twist on traditional Chinese wontons, featuring caramelized pecans and gooey filling.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Wonton wrappers",
+      "amount": "20-24 wrappers"
+    },
+    {
+      "name": "Pecans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Gooey filling (see notes)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1 egg"
+    },
+    {
+      "name": "Water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "American all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Caramelized pecan sauce (see notes)",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 350°F (180°C).",
+    "On a clean surface, lay a wonton wrapper with one corner pointing towards you.",
+    "Place a small spoonful of gooey filling in the center of the wrapper.",
+    "Brush the edges of the wrapper with beaten egg and fold the wrapper into a triangle, pressing the edges together to seal.",
+    "Repeat with remaining wrappers and filling.",
+    "When oil is hot, add a few wontons to the pan (do not overcrowd).",
+    "Fry until golden brown, about 2-3 minutes per side.",
+    "Drain on paper towels.",
+    "Serve with caramelized pecan sauce for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": "20-24",
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "snack",
+    "deep-fried"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": "4g",
+    "carbs": "25g",
+    "fat": "12g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-caramelized-american-pecan-tagine--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T20:28:13.678Z"
+}
