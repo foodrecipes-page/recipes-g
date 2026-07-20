@@ -1,0 +1,88 @@
+{
+  "slug": "garlicky-flaky-indulgent-egyptian-lamb-tagine",
+  "title": "Egyptian Lamb Tagine",
+  "description": "A hearty and flavorful stew originating from Egypt, made with tender lamb and aromatic spices.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1 pound boneless lamb shoulder, cut into 1 1/2-inch pieces",
+      "notes": ""
+    },
+    {
+      "name": "Garlicky Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Flaky Pastry",
+      "amount": "1 sheet, thawed",
+      "notes": "for serving"
+    },
+    {
+      "name": "Indulgent Apricots",
+      "amount": "1 cup dried apricots, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Egyptian Cumin",
+      "amount": "2 teaspoons ground cumin",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Tagine Spices",
+      "amount": "1/2 teaspoon ground cinnamon, 1/4 teaspoon ground cardamom",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the garlicky olive oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb and cook until browned, about 5 minutes. Remove the lamb from the pot and set aside.",
+    "Add the cumin, salt, and black pepper to the pot and cook for 1 minute, stirring constantly.",
+    "Add the chopped apricots and cook for 2 minutes.",
+    "Return the lamb to the pot and stir to combine.",
+    "Add 1 cup of water to the pot and bring to a boil.",
+    "Cover the pot and transfer to the oven. Braise the lamb for 1 1/2 hours, or until tender.",
+    "Stir in the tagine spices and cook for an additional 10 minutes.",
+    "Serve the lamb hot, garnished with flaky pastry and additional apricots if desired.",
+    "Preheat oven to 300°F (150°C).",
+    "While the lamb is cooking, roll out the flaky pastry on a lightly floured surface to a thickness of about 1/8 inch.",
+    "Cut the pastry into 1-inch wide strips. Roll each strip into a rope and tie a knot in the center to form a tagine shape."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "lamb",
+    "tagine",
+    "egyptian",
+    "stew",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 25,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-flaky-indulgent-egyptian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T15:44:45.704Z"
+}
