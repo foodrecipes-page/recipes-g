@@ -1,0 +1,68 @@
+{
+  "slug": "garlic-sherry-sunday--japanese",
+  "title": "Pan-Seared Garlic Shrimp",
+  "description": "Quick and flavorful Japanese-inspired dish featuring succulent shrimp, aromatic garlic, and a hint of sherry. Perfect for a weeknight dinner.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sherry",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a skillet over medium-high heat.",
+    "Add garlic and cook for 1 minute, until fragrant.",
+    "Add shrimp and cook for 2 minutes per side, until pink and cooked through.",
+    "Add sherry, soy sauce, and sugar. Stir to combine.",
+    "Serve immediately, garnished with green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "shrimp",
+    "garlic",
+    "japanese",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 22,
+    "carbs": 4,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlic-sherry-sunday--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T00:45:28.152Z"
+}
