@@ -6560,18 +6560,15 @@
   },
   {
     "slug": "ginger-korean-cauliflower-bowl",
-    "title": "Ginger Korean Cauliflower Bowl",
+    "title": "Spicy Korean Cauliflower Bowl",
     "tags": [
-      "fluffy",
       "korean",
-      "lazy-sunday",
-      "one-pan",
-      "peppery",
-      "tadka",
-      "whole30"
+      "cauliflower",
+      "spicy",
+      "veggie"
     ],
-    "cuisine": "korean",
-    "totalTimeMin": 30,
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
@@ -16272,6 +16269,19 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 18,
+    "shard": "g"
+  },
+  {
+    "slug": "gently-smoked-saudi-arabian-lamb-tagine--mexican",
+    "title": "Smoked Lamb Tagine Tacos",
+    "tags": [
+      "lamb",
+      "tacos",
+      "mexican",
+      "tagine"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
     "shard": "g"
   }
 ]
