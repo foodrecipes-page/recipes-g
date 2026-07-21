@@ -1,0 +1,69 @@
+{
+  "slug": "garlicky-cheesy-pull-malaysian-wonton-bao--italian",
+  "title": "Wonton Bao Italian Fusion",
+  "description": "A creative twist on traditional bao with wonton and cheesy flavors.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "garlicky wonton wrappers",
+      "amount": "1 package (20-24 wrappers)"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "italian seasonings (oregano, basil, thyme)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "pizza sauce",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut wonton wrappers into quarters and set aside.",
+    "Mix mozzarella cheese with italian seasonings and garlic powder.",
+    "Place a wonton quarter on a flat surface and add a sprinkle of cheese mixture.",
+    "Brush the edges with olive oil and fold the wonton in half to form a triangle.",
+    "Repeat with remaining wrappers and cheese mixture.",
+    "Place the wonton bites on a baking sheet lined with parchment paper.",
+    "Drizzle pizza sauce over the wonton bites and bake for 12-15 minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "wonton",
+    "bao",
+    "snack",
+    "cheesy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 10,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-cheesy-pull-malaysian-wonton-bao--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T07:19:20.884Z"
+}
