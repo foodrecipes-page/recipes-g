@@ -1,0 +1,76 @@
+{
+  "slug": "golden-roasted-greesks-peanuts-stir-fry--japanese",
+  "title": "Japanese Stir-Fry with Golden Peanuts",
+  "description": "A quick and easy Japanese-style stir-fry recipe featuring golden peanuts as the main ingredient. This dish is perfect for a weeknight dinner.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Golden Peanuts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Greesks (Green Onions)",
+      "amount": "1/2 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Roasted Sesame Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Stir-Fry Sauce",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of sesame oil in a large skillet or wok over medium-high heat.",
+    "Add the peanuts and cook for 2-3 minutes, or until fragrant and lightly toasted.",
+    "Add the green onions and cook for an additional 1-2 minutes.",
+    "In a small bowl, whisk together soy sauce, sugar, salt, and black pepper.",
+    "Pour the sauce over the peanuts and green onions, and stir to combine.",
+    "Cook for an additional 1-2 minutes, or until the sauce has thickened.",
+    "Stir in the stir-fry sauce and cook for an additional 30 seconds.",
+    "Serve hot and enjoy!",
+    "Garnish with additional green onions and sesame seeds, if desired.",
+    "Serve over steamed rice or noodles, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "stir-fry",
+    "peanuts",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-roasted-greesks-peanuts-stir-fry--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T13:33:59.678Z"
+}
