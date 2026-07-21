@@ -16295,5 +16295,17 @@
     "cuisine": "italian",
     "totalTimeMin": 45,
     "shard": "g"
+  },
+  {
+    "slug": "gooey-sweet-greek-dates-skewers--german",
+    "title": "German Shish Kebabs with Fruit",
+    "tags": [
+      "german",
+      "summer",
+      "grilled"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 27,
+    "shard": "g"
   }
 ]
