@@ -16372,5 +16372,29 @@
     "cuisine": "indian",
     "totalTimeMin": 45,
     "shard": "g"
+  },
+  {
+    "slug": "glowing-croatian-applesauce-stew--chinese",
+    "title": "Stew with a Twist",
+    "tags": [
+      "chinese",
+      "fusion",
+      "hearty"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
+    "slug": "gooey-yoghurt-mediterranean-stir-fry--german",
+    "title": "Gooey Yoghurt Strudel",
+    "tags": [
+      "german",
+      "dessert",
+      "strudel"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
+    "shard": "g"
   }
 ]
