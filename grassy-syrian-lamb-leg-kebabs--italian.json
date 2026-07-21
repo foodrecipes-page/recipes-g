@@ -1,0 +1,78 @@
+{
+  "slug": "grassy-syrian-lamb-leg-kebabs--italian",
+  "title": "Italian-Style Lamb Kebabs",
+  "description": "A classic Italian-inspired dish featuring tender lamb kebabs, marinated in a blend of herbs and spices. Perfect for a warm summer evening.",
+  "cuisine": "italian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Leg, cut into 1-inch cubes",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Grassy Olive Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Syrian Garlic, minced",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Kebabs (wooden skewers)",
+      "amount": "10-12 skewers",
+      "notes": ""
+    },
+    {
+      "name": "Italian Seasoning",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together olive oil, garlic, Italian seasoning, salt, and pepper.",
+    "3. Add the lamb cubes to the marinade and toss to coat.",
+    "4. Thread the lamb cubes onto the kebabs, leaving a small space between each cube.",
+    "5. Brush the grill with olive oil to prevent sticking.",
+    "6. Grill the kebabs for 8-10 minutes per side, or until the lamb reaches an internal temperature of 145°F.",
+    "7. Transfer the kebabs to a plate and sprinkle with parsley.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "lamb",
+    "kebabs",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 5,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grassy-syrian-lamb-leg-kebabs--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T05:39:57.565Z"
+}
