@@ -1,0 +1,73 @@
+{
+  "slug": "gooey-yoghurt-mediterranean-stir-fry--german",
+  "title": "Gooey Yoghurt Strudel",
+  "description": "A traditional German dessert featuring a gooey centre and a crispy strudel crust. This recipe combines the sweetness of yoghurt with the crunch of mediterranean pastry.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Yoghurt",
+      "amount": "500g",
+      "notes": "Full-fat yoghurt is recommended for the best flavour and texture."
+    },
+    {
+      "name": "Mediterranean Pastry",
+      "amount": "1 sheet",
+      "notes": "You can find this in most supermarkets or make your own from scratch."
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "100g",
+      "notes": "Adjust to taste."
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "Beaten for egg wash."
+    },
+    {
+      "name": "Butter",
+      "amount": "50g",
+      "notes": "Melted for egg wash."
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp",
+      "notes": "Optional, but adds a nice flavour."
+    }
+  ],
+  "instructions": [
+    "1. Preheat your oven to 200°C (400°F).",
+    "2. Roll out the mediterranean pastry on a floured surface to a large rectangle.",
+    "3. Spread the yoghurt evenly over the pastry, leaving a 2cm border around the edges.",
+    "4. Sprinkle the granulated sugar and cinnamon over the yoghurt (if using).",
+    "5. Fold the edges of the pastry up over the filling to create a seal.",
+    "6. Brush the egg wash over the pastry to give it a golden brown colour.",
+    "7. Bake the strudel in the preheated oven for 25-30 minutes, or until golden brown.",
+    "8. Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "dessert",
+    "strudel"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-yoghurt-mediterranean-stir-fry--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T10:50:57.838Z"
+}
