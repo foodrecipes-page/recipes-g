@@ -1,0 +1,54 @@
+{
+  "slug": "goozy-grape-nosh--vegan",
+  "title": "Goozy Grape Nosh Parfait",
+  "description": "A colorful and refreshing dessert made with goozy, grape, and nosh, perfect for a warm evening.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Goozy",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Grapes",
+      "amount": "1 cup, halved",
+      "notes": null
+    },
+    {
+      "name": "Nosh",
+      "amount": "1/2 cup, crushed",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together the goozy and nosh until well combined.",
+    "Gently fold in the halved grapes.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, garnish with additional grapes if desired.",
+    "Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan-dessert",
+    "parfait",
+    "fruit"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 1
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/goozy-grape-nosh--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T14:42:04.661Z"
+}
