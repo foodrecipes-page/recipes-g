@@ -6145,17 +6145,15 @@
   },
   {
     "slug": "gently-spiced-ethiopian-lamb-fir-fir",
-    "title": "Gently Spiced Ethiopian Lamb Fir Fir",
+    "title": "Ethiopian Lamb Tibs",
     "tags": [
-      "clay-cooking",
-      "ethiopian-cuisine",
-      "herbal-spices",
-      "lamb-based",
-      "one-pot",
-      "romantic-dinner"
+      "lamb",
+      "ethiopian",
+      "spicy",
+      "dinner"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 130,
+    "totalTimeMin": 45,
     "shard": "g"
   },
   {
