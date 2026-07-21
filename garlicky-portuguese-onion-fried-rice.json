@@ -1,0 +1,61 @@
+{
+  "slug": "garlicky-portuguese-onion-fried-rice",
+  "title": "Pan-Seared Fried Rice",
+  "description": "A simple and flavorful Portuguese-inspired dish made with fried rice, onions, and a hint of garlicky goodness.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "garlicky oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "fried rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat the garlicky oil in a large skillet over medium-high heat.",
+    "Add the diced onion and sauté until translucent, about 3-4 minutes.",
+    "Add the fried rice to the skillet and stir-fry for about 5 minutes, breaking up any clumps with a spatula.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "fried",
+    "rice",
+    "portuguese",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-portuguese-onion-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T09:06:35.269Z"
+}
