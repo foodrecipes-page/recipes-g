@@ -16396,5 +16396,19 @@
     "cuisine": "german",
     "totalTimeMin": 40,
     "shard": "g"
+  },
+  {
+    "slug": "garden-fresh-canadian-blueberries-bowl--indian",
+    "title": "Garden Blueberry Chutney",
+    "tags": [
+      "blueberries",
+      "chutney",
+      "indian",
+      "side-dish",
+      "vegan"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 22,
+    "shard": "g"
   }
 ]
