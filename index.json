@@ -3644,15 +3644,15 @@
   },
   {
     "slug": "garlicky-portuguese-onion-fried-rice",
-    "title": "Garlicky Portuguese Onion Fried Rice",
+    "title": "Pan-Seared Fried Rice",
     "tags": [
-      "fried-rice",
-      "one-pan",
+      "fried",
+      "rice",
       "portuguese",
-      "weeknight"
+      "lunch"
     ],
-    "cuisine": "portuguese",
-    "totalTimeMin": 35,
+    "cuisine": "Portuguese",
+    "totalTimeMin": 15,
     "shard": "g"
   },
   {
@@ -16357,6 +16357,20 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 22,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-creamy-middle-eastern-grape-leaves-casserole--indian",
+    "title": "Grape Leaf Stuffed Casserole",
+    "tags": [
+      "indian",
+      "middle-eastern",
+      "vegetarian",
+      "casserole",
+      "grape-leaves"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 45,
     "shard": "g"
   }
 ]
