@@ -16436,5 +16436,17 @@
     "cuisine": "japanese",
     "totalTimeMin": 18,
     "shard": "g"
+  },
+  {
+    "slug": "goozy-grape-nosh--vegan",
+    "title": "Goozy Grape Nosh Parfait",
+    "tags": [
+      "vegan-dessert",
+      "parfait",
+      "fruit"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 15,
+    "shard": "g"
   }
 ]
