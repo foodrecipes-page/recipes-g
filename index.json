@@ -16410,5 +16410,18 @@
     "cuisine": "indian",
     "totalTimeMin": 22,
     "shard": "g"
+  },
+  {
+    "slug": "garlicky-moroccan-rice-tagine--french",
+    "title": "Chicken and Rice Tagine",
+    "tags": [
+      "chicken",
+      "rice",
+      "moroccan",
+      "french"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 60,
+    "shard": "g"
   }
 ]
