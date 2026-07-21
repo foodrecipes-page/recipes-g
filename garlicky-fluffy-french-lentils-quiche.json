@@ -1,0 +1,91 @@
+{
+  "slug": "garlicky-fluffy-french-lentils-quiche",
+  "title": "French Lentil Quiche",
+  "description": "A savory French-inspired quiche filled with sautéed lentils and a hint of garlicky goodness.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fluffy pastry dough",
+      "amount": "1 sheet",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lentils",
+      "amount": "1 cup",
+      "notes": "green or brown"
+    },
+    {
+      "name": "quiche",
+      "amount": "2 cups",
+      "notes": "shredded or diced"
+    },
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": "large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the pastry dough and place it in a 9-inch tart pan.",
+    "Sauté the onion and garlic until softened.",
+    "Add the lentils and cook for 2-3 minutes.",
+    "In a separate bowl, whisk together the eggs, salt, and pepper.",
+    "Add the shredded quiche and grated cheese (if using) to the egg mixture.",
+    "Pour the egg mixture over the lentil mixture.",
+    "Bake for 35-40 minutes or until the quiche is set and golden brown.",
+    "Let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "lentil",
+    "quiche",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 14,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-fluffy-french-lentils-quiche",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T08:50:24.555Z"
+}
