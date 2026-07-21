@@ -16332,5 +16332,32 @@
     "cuisine": "Norwegian",
     "totalTimeMin": 20,
     "shard": "g"
+  },
+  {
+    "slug": "grilled-norwegian-couscous-stir-fry--vegetarian",
+    "title": "Grilled Vegetable Couscous",
+    "tags": [
+      "veggie",
+      "lunch",
+      "couscous",
+      "grilled"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-cheesy-pull-malaysian-wonton-bao--italian",
+    "title": "Wonton Bao Italian Fusion",
+    "tags": [
+      "italian",
+      "wonton",
+      "bao",
+      "snack",
+      "cheesy"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 22,
+    "shard": "g"
   }
 ]
