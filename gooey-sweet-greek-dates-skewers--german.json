@@ -1,0 +1,65 @@
+{
+  "slug": "gooey-sweet-greek-dates-skewers--german",
+  "title": "German Shish Kebabs with Fruit",
+  "description": "A sweet and savory twist on traditional German shish kebabs, featuring fresh fruit and gooey sauce.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Gooey sauce",
+      "amount": "250g",
+      "notes": "Available in most supermarkets"
+    },
+    {
+      "name": "Sweet skewers",
+      "amount": "20",
+      "notes": "Wooden skewers, soaked in water for 30 minutes"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "200g",
+      "notes": "For serving"
+    },
+    {
+      "name": "Dates",
+      "amount": "12",
+      "notes": "Pitted"
+    },
+    {
+      "name": "Vegetables of choice (e.g. bell peppers, onions, mushrooms)",
+      "amount": "1 cup",
+      "notes": "Cut into bite-sized pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread vegetables and fruit onto skewers, leaving a small space between each piece.",
+    "Brush skewers with gooey sauce, then coat with a pinch of salt.",
+    "Grill skewers for 10-12 minutes, turning occasionally, until vegetables are tender.",
+    "Serve hot with a dollop of Greek yogurt and a sprinkle of dates.",
+    "Enjoy as a sweet and savory snack or dessert."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "summer",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-sweet-greek-dates-skewers--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T04:59:01.317Z"
+}
