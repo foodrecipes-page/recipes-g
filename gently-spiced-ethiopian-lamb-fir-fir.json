@@ -1,0 +1,69 @@
+{
+  "slug": "gently-spiced-ethiopian-lamb-fir-fir",
+  "title": "Ethiopian Lamb Tibs",
+  "description": "A flavorful and spicy Ethiopian dish made with tender lamb, onions, and a blend of aromatic spices. Serve over a bed of warm injera bread for a truly authentic experience.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "500g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Onion",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fir (Fresh thyme)",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Spiced Ghee (Clarified Butter)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ethiopian Spices",
+      "amount": "1 tsp",
+      "notes": "Berbere spice blend"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the spiced ghee in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the chopped lamb and cook until browned, about 5-7 minutes.",
+    "Add the chopped fir (thyme), Ethiopian spices, and salt. Stir to combine.",
+    "Reduce heat to medium-low and simmer, stirring occasionally, for 20-25 minutes or until the lamb is tender.",
+    "Serve hot over a bed of warm injera bread, garnished with additional fir (thyme) if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "ethiopian",
+    "spicy",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gently-spiced-ethiopian-lamb-fir-fir",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T17:46:54.504Z"
+}
