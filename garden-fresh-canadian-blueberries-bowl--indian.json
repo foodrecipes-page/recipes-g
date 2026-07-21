@@ -1,0 +1,61 @@
+{
+  "slug": "garden-fresh-canadian-blueberries-bowl--indian",
+  "title": "Garden Blueberry Chutney",
+  "description": "A sweet and tangy chutney made with fresh blueberries and spices, perfect as a side dish or topping for Indian flatbreads.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fresh Blueberries",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garden Fresh Cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garden Fresh Ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "Garden Fresh Jalapeño",
+      "amount": "1 pepper"
+    },
+    {
+      "name": "Canadian Maple Syrup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "In a blender, combine blueberries, cilantro, ginger, jalapeño, and maple syrup. Blend until smooth.",
+    "Heat a non-stick pan over medium heat. Add the blended mixture and cook for 5 minutes, stirring occasionally.",
+    "Add a pinch of salt and cook for another 2 minutes.",
+    "Remove from heat and let cool to room temperature.",
+    "Transfer the chutney to a serving bowl and refrigerate for at least 30 minutes.",
+    "Serve chilled or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 7,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "blueberries",
+    "chutney",
+    "indian",
+    "side-dish",
+    "vegan"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garden-fresh-canadian-blueberries-bowl--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T11:19:26.819Z"
+}
