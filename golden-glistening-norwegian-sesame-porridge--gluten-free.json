@@ -1,0 +1,60 @@
+{
+  "slug": "golden-glistening-norwegian-sesame-porridge--gluten-free",
+  "title": "Golden Norwegian Porridge",
+  "description": "A comforting and healthy Norwegian-inspired breakfast dish made with porridge oats, norwegian sesame seeds and a touch of golden honey.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Norwegian Porridge Oats",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Golden Honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Norwegian Sesame Seeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Gluten-free Milk",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "In a large saucepan, combine porridge oats and gluten-free milk.",
+    "Bring to a boil, then reduce heat to a simmer.",
+    "Add golden honey and norwegian sesame seeds. Stir until combined.",
+    "Cook for 10-15 minutes or until oats have absorbed most of the milk.",
+    "Season with a pinch of salt.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "norwegian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-glistening-norwegian-sesame-porridge--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T06:27:20.624Z"
+}
