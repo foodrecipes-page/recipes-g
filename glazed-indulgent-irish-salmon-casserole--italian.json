@@ -1,0 +1,96 @@
+{
+  "slug": "glazed-indulgent-irish-salmon-casserole--italian",
+  "title": "Irish-Italian Salmon Casserole",
+  "description": "A hearty, indulgent casserole featuring salmon and Italian-inspired flavors.",
+  "cuisine": "italian",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salmon Fillets",
+      "amount": "4 (6 ounces each)",
+      "notes": "Fresh or frozen, thawed"
+    },
+    {
+      "name": "Glazed Irish Sausage",
+      "amount": "1 pound",
+      "notes": "Casings removed"
+    },
+    {
+      "name": "Pasta",
+      "amount": "1 pound (penne or rotini)",
+      "notes": ""
+    },
+    {
+      "name": "Canned Tomatoes",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "1 cup",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1/2 cup",
+      "notes": "Grated"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cook pasta according to package instructions.",
+    "In a large skillet, heat olive oil over medium-high heat.",
+    "Add Irish sausage and cook until browned, breaking up with a spoon as it cooks.",
+    "Add onion and garlic to skillet and cook until onion is translucent.",
+    "Stir in canned tomatoes and bring to a simmer.",
+    "Add cooked pasta to skillet and stir to combine.",
+    "Transfer pasta mixture to a 9x13 inch baking dish.",
+    "Top with salmon fillets and sprinkle with mozzarella cheese.",
+    "Bake for 15-20 minutes or until salmon is cooked through and cheese is melted.",
+    "Sprinkle with Parmesan cheese and chopped basil before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "casserole",
+    "salmon"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/glazed-indulgent-irish-salmon-casserole--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T03:43:40.143Z"
+}
