@@ -11803,14 +11803,14 @@
   },
   {
     "slug": "gooey-nostalgic-korean-garlic-fry",
-    "title": "Gooey Nostalgic Korean Garlic Fry",
+    "title": "Korean-Style Fried Chicken Tenders",
     "tags": [
-      "korean-garlic-fry",
-      "nostalgic-dish",
-      "low-carb-friendly"
+      "korean-fried-chicken",
+      "chicken-tenders",
+      "korean-chili-flakes"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 60,
     "shard": "g"
   },
   {
@@ -16306,6 +16306,31 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 27,
+    "shard": "g"
+  },
+  {
+    "slug": "grassy-syrian-lamb-leg-kebabs--italian",
+    "title": "Italian-Style Lamb Kebabs",
+    "tags": [
+      "italian",
+      "lamb",
+      "kebabs",
+      "grill"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 36,
+    "shard": "g"
+  },
+  {
+    "slug": "golden-glistening-norwegian-sesame-porridge--gluten-free",
+    "title": "Golden Norwegian Porridge",
+    "tags": [
+      "breakfast",
+      "norwegian",
+      "gluten-free"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 20,
     "shard": "g"
   }
 ]
