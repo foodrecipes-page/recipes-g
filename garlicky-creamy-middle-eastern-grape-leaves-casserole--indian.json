@@ -1,0 +1,95 @@
+{
+  "slug": "garlicky-creamy-middle-eastern-grape-leaves-casserole--indian",
+  "title": "Grape Leaf Stuffed Casserole",
+  "description": "A twist on traditional Indian recipes, this casserole combines the flavors of the Middle East with the convenience of grape leaves.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Grape leaves",
+      "amount": "12-15 leaves",
+      "notes": "Fresh or jarred"
+    },
+    {
+      "name": "Middle eastern casserole",
+      "amount": "1 package",
+      "notes": "Usually found in international aisle"
+    },
+    {
+      "name": "Garlicky sauce",
+      "amount": "1/4 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Creamy yogurt",
+      "amount": "1/2 cup",
+      "notes": "Plain, unflavored"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Rinse grape leaves and remove stems.",
+    "In a large pan, cook onion and ginger over medium heat until softened.",
+    "Add cumin, coriander, salt, and pepper. Cook for 1 minute.",
+    "Stir in garlicky sauce and creamy yogurt. Bring to a simmer.",
+    "Add grape leaves to the pan, folding them into the sauce.",
+    "Transfer grape leaf mixture to the casserole dish.",
+    "Cover with remaining grape leaves and bake for 25 minutes.",
+    "Serve hot, garnished with additional yogurt and cumin if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "middle-eastern",
+    "vegetarian",
+    "casserole",
+    "grape-leaves"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-creamy-middle-eastern-grape-leaves-casserole--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T09:37:31.747Z"
+}
