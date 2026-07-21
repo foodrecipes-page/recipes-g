@@ -1,0 +1,59 @@
+{
+  "slug": "glowing-croatian-applesauce-stew--chinese",
+  "title": "Stew with a Twist",
+  "description": "A fusion of traditional Chinese flavors with the sweetness of stew. This hearty dish is perfect for a cold day.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "croatian",
+      "amount": "2 cups",
+      "notes": "sliced"
+    },
+    {
+      "name": "stew",
+      "amount": "1 can",
+      "notes": "drained"
+    },
+    {
+      "name": "applesauce",
+      "amount": "1 cup",
+      "notes": "for serving"
+    },
+    {
+      "name": "glowing",
+      "amount": "1 tsp",
+      "notes": "optional, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large pan over medium-high heat.",
+    "Add the sliced croatian and cook until browned, about 5 minutes.",
+    "Add the stew and stir to combine with the croatian.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Serve the stew hot, topped with applesauce and garnished with glowing if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "fusion",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/glowing-croatian-applesauce-stew--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T10:44:23.247Z"
+}
