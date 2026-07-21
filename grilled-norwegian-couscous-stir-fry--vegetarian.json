@@ -1,0 +1,93 @@
+{
+  "slug": "grilled-norwegian-couscous-stir-fry--vegetarian",
+  "title": "Grilled Vegetable Couscous",
+  "description": "A flavorful and nutritious vegetarian dish made with grilled vegetables, served over a bed of couscous.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "2 medium",
+      "notes": "cut into 1/2-inch slices"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 medium",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "couscous",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "grilled vegetable broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Brush vegetables with olive oil and season with salt, pepper, and garlic powder.",
+    "Grill vegetables for 5-7 minutes, or until tender and lightly charred.",
+    "Cook couscous according to package instructions.",
+    "In a large bowl, combine cooked couscous, grilled vegetables, and grilled vegetable broth.",
+    "Stir in lemon juice and season with salt and pepper to taste.",
+    "Serve hot and enjoy!",
+    "Note: You can also stir-fry the vegetables in a pan if you don't have a grill."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "veggie",
+    "lunch",
+    "couscous",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grilled-norwegian-couscous-stir-fry--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T06:52:18.414Z"
+}
