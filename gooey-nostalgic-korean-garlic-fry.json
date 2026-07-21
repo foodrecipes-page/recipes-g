@@ -1,0 +1,83 @@
+{
+  "slug": "gooey-nostalgic-korean-garlic-fry",
+  "title": "Korean-Style Fried Chicken Tenders",
+  "description": "Crispy fried chicken tenders infused with the bold flavors of Korean chili flakes and a sweet, sticky sauce. Serve as a snack or appetizer.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chicken Tenders",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Gooyoung Sauce",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fry Mix",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Korean Chili Flakes",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Nostalgic Noodles",
+      "amount": "",
+      "notes": "Optional, for serving"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine chicken tenders, Gooyoung Sauce, garlic, and Korean Chili Flakes. Mix well to coat.",
+    "2. Cover and refrigerate for at least 2 hours or overnight.",
+    "3. Preheat the oil in a deep frying pan to 350°F.",
+    "4. Remove the chicken from the marinade, allowing any excess to drip off.",
+    "5. Dredge the chicken in the Fry Mix, shaking off any excess.",
+    "6. Fry the chicken in batches until golden brown and cooked through, about 5-7 minutes per batch.",
+    "7. Remove the chicken from the oil with a slotted spoon and place on a paper towel-lined plate to drain excess oil.",
+    "8. Serve the chicken tenders hot with Nostalgic Noodles, if desired.",
+    "9. Garnish with additional Korean Chili Flakes, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean-fried-chicken",
+    "chicken-tenders",
+    "korean-chili-flakes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-nostalgic-korean-garlic-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T05:24:13.378Z"
+}
