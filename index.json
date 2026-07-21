@@ -2331,17 +2331,16 @@
   },
   {
     "slug": "garlicky-fluffy-french-lentils-quiche",
-    "title": "Garlicky Fluffy French Lentils Quiche",
+    "title": "French Lentil Quiche",
     "tags": [
-      "vegetarian",
-      "quick-fix",
-      "fluffy",
-      "garlicky",
       "french",
-      "lunch"
+      "lentil",
+      "quiche",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "French",
-    "totalTimeMin": 45,
+    "totalTimeMin": 50,
     "shard": "g"
   },
   {
