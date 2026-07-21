@@ -16283,5 +16283,17 @@
     "cuisine": "mexican",
     "totalTimeMin": 40,
     "shard": "g"
+  },
+  {
+    "slug": "glazed-indulgent-irish-salmon-casserole--italian",
+    "title": "Irish-Italian Salmon Casserole",
+    "tags": [
+      "italian",
+      "casserole",
+      "salmon"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 45,
+    "shard": "g"
   }
 ]
