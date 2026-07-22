@@ -1,0 +1,63 @@
+{
+  "slug": "garlicky-chewy-turkish-garlic-pilaf--vegan",
+  "title": "Vegan Turkish Pilaf",
+  "description": "A flavorful and aromatic vegan pilaf dish inspired by Turkish cuisine. This recipe combines garlicky goodness with the chewy texture of vegan ingredients.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "garlicky",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "chewy",
+      "amount": "1 cup",
+      "notes": "dried vegan pilaf mix"
+    },
+    {
+      "name": "pilaf",
+      "amount": "2 cups",
+      "notes": "water"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add garlic and sauté for 1 minute.",
+    "Add garlicky and sauté for another 2 minutes.",
+    "Add chewy and 2 cups of water to the pan.",
+    "Bring to a boil, then reduce heat and simmer for 20 minutes.",
+    "Fluff the pilaf with a fork and serve hot.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "pilaf",
+    "vegan",
+    "lunch",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-chewy-turkish-garlic-pilaf--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T01:24:02.576Z"
+}
