@@ -1,0 +1,71 @@
+{
+  "slug": "gooey-american-garlic-sumac-stir-fry",
+  "title": "Garlic Sumac Gooey Burgers",
+  "description": "A flavorful twist on the classic burger, featuring gooey cheese and a hint of sumac.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "500g",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "chopped onions",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "goey cheese",
+      "amount": "4 slices",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "In a large bowl, combine ground beef, minced garlic, and sumac.",
+    "Mix well with your hands until just combined.",
+    "Form into 4 patties.",
+    "Season with salt and pepper.",
+    "Grill for 4-5 minutes per side, or until cooked to your liking.",
+    "Meanwhile, toast the buns by grilling for 1-2 minutes.",
+    "Assemble the burgers with cheese, onions, and your favorite toppings.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "burgers",
+    "cheese",
+    "garlic",
+    "sumac",
+    "grilling"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-american-garlic-sumac-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T03:54:09.005Z"
+}
