@@ -1,0 +1,56 @@
+{
+  "slug": "garlicky-flaky-ukrainian-callaloo-pilaf",
+  "title": "Ukrainian Callaloo Pilaf",
+  "description": "A hearty and flavorful Ukrainian-inspired pilaf dish made with sautéed callaloo and served with crispy garlicky flatbread.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "garlicky flatbread",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "callaloo",
+      "amount": "2 cups, chopped"
+    },
+    {
+      "name": "ukrainian pilaf mix",
+      "amount": "1 cup"
+    },
+    {
+      "name": "flaky salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add the chopped callaloo and cook until wilted.",
+    "Add the Ukrainian pilaf mix and cook according to package instructions.",
+    "Season with flaky salt to taste.",
+    "Serve with crispy garlicky flatbread on top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ukrainian",
+    "callaloo",
+    "pilaf",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-flaky-ukrainian-callaloo-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T07:09:20.834Z"
+}
