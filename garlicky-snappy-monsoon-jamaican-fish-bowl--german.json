@@ -1,0 +1,73 @@
+{
+  "slug": "garlicky-snappy-monsoon-jamaican-fish-bowl--german",
+  "title": "Pan-Seared Fish with Jamaican Spices",
+  "description": "A flavorful German-inspired dish featuring pan-seared fish, infused with the warmth of Jamaican spices.",
+  "cuisine": "german",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish",
+      "amount": "4 pieces, 6 oz each",
+      "notes": null
+    },
+    {
+      "name": "Jamaican",
+      "amount": "1 tsp",
+      "notes": "Jamaican seasoning blend"
+    },
+    {
+      "name": "Garlicky",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Snappy",
+      "amount": "1 cup",
+      "notes": "Crushed carrots"
+    },
+    {
+      "name": "Monsoon",
+      "amount": "1/4 cup",
+      "notes": "Chopped fresh parsley"
+    },
+    {
+      "name": "Bowl",
+      "amount": "1",
+      "notes": "Large serving bowl"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the fish with Jamaican seasoning blend and set aside.",
+    "Heat 1 tablespoon of oil in a large skillet over medium-high heat.",
+    "Add the snappy (carrots) to the skillet and sauté for 5 minutes, or until crispy.",
+    "Add the garlic to the skillet and sauté for an additional minute.",
+    "Add the fish to the skillet and sear for 3-4 minutes on each side, or until cooked through.",
+    "Transfer the fish to a baking dish and bake in the preheated oven for 8-10 minutes, or until cooked through.",
+    "Serve the fish in a bowl, garnished with monsoon (parsley).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 18,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "fish",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 8,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-snappy-monsoon-jamaican-fish-bowl--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T23:11:38.892Z"
+}
