@@ -195,15 +195,15 @@
   },
   {
     "slug": "garlic-chili-caramel",
-    "title": "Garlic Chili Caramel",
+    "title": "Spicy Caramel Garlic Chicken",
     "tags": [
-      "garlic",
-      "chili",
+      "chicken",
       "caramel",
-      "uruguayan"
+      "garlic",
+      "spicy"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 11,
+    "cuisine": "American",
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {
@@ -2243,16 +2243,15 @@
   },
   {
     "slug": "garlicky-flaky-ukrainian-callaloo-pilaf",
-    "title": "Garlicky, Flaky Ukrainian Callaloo Pilaf",
+    "title": "Ukrainian Callaloo Pilaf",
     "tags": [
-      "garlic-lovers",
-      "lunch",
-      "one-pan",
       "ukrainian",
-      "weeknight"
+      "callaloo",
+      "pilaf",
+      "vegetarian"
     ],
-    "cuisine": "ukrainian",
-    "totalTimeMin": 35,
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 30,
     "shard": "g"
   },
   {
@@ -12501,17 +12500,15 @@
   },
   {
     "slug": "gooey-ukrainian-smoky-aoli-casserole",
-    "title": "Gooey Ukrainian Smoky Aioli Casserole",
+    "title": "Smoky Gooey Casserole",
     "tags": [
       "comfort-food",
-      "gluten-free",
-      "one-pan",
-      "smoky-aioli",
-      "ukrainian",
-      "weeknight-dinner"
+      "casserole",
+      "smoky-sausage",
+      "ukrainian-cuisine"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 45,
     "shard": "g"
   },
   {
@@ -16633,6 +16630,19 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
+    "slug": "golden-brown-malaysian-pork-tenderloin-skewers--mexican",
+    "title": "Mexican Grilled Pork Skewers",
+    "tags": [
+      "mexican",
+      "grilled",
+      "pork",
+      "skewers"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 30,
     "shard": "g"
   }
 ]
