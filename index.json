@@ -16445,5 +16445,43 @@
     "cuisine": null,
     "totalTimeMin": 15,
     "shard": "g"
+  },
+  {
+    "slug": "gentle-silky-argentinian-seitan-stew--vegan",
+    "title": "Argentinian Seitan Stew",
+    "tags": [
+      "argentinian",
+      "seitan",
+      "stew",
+      "vegan"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 40,
+    "shard": "g"
+  },
+  {
+    "slug": "glorious-golden-indian-dumplings-gulab-jamun--french",
+    "title": "French Gulab Jamun Dumplings",
+    "tags": [
+      "french-cuisine",
+      "indian-fusion",
+      "dessert",
+      "snack"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
+    "slug": "garlic-gherkin-bliss--vegetarian",
+    "title": "Gherkin and Garlic Bliss Fritters",
+    "tags": [
+      "snack",
+      "vegetarian",
+      "fritters"
+    ],
+    "cuisine": "vegetarian",
+    "totalTimeMin": 22,
+    "shard": "g"
   }
 ]
