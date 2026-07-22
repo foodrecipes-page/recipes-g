@@ -3844,20 +3844,14 @@
   },
   {
     "slug": "garlicky-silky-dutch-marzipan-fritters",
-    "title": "Garlicky Silky Dutch Marzipan Fritters",
+    "title": "Dutch Marzipan Fritters",
     "tags": [
-      "whole30",
-      "snack",
-      "Dutch",
-      "garlicky",
-      "silky",
-      "fritter",
-      "almond",
-      "quick",
-      "comforting"
+      "fritters",
+      "marzipan",
+      "dessert"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 22,
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
@@ -16609,6 +16603,36 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 20,
+    "shard": "g"
+  },
+  {
+    "slug": "golden-roasted-northern-irish-sausages-bangers-and-mash--thai",
+    "title": "Thai Sausage and Mash",
+    "tags": [
+      "sausages",
+      "thaired",
+      "mash",
+      "garlic",
+      "cilantro",
+      "chili"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
+    "slug": "gentle-earthy-korean-oats-kalguksu--chinese",
+    "title": "Korean-Style Oat Noodle Stir Fry",
+    "tags": [
+      "korean",
+      "chinese",
+      "oat-noodle",
+      "stir-fry",
+      "vegetarian",
+      "mushroom"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
     "shard": "g"
   }
 ]
