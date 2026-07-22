@@ -1,0 +1,81 @@
+{
+  "slug": "garlic-chili-caramel",
+  "title": "Spicy Caramel Garlic Chicken",
+  "description": "A savory and spicy caramel glazed chicken dish, perfect for a weeknight dinner.",
+  "cuisine": "American",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "4 lbs",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "caramel sauce",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp",
+      "notes": "or more to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a small bowl, mix together minced garlic and chili flakes.",
+    "Rub the garlic-chili mixture all over the chicken breasts.",
+    "Brush the chicken with olive oil and season with salt and pepper.",
+    "Place the chicken on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes or until the chicken is cooked through.",
+    "While the chicken is baking, heat the caramel sauce in a small saucepan over medium heat.",
+    "Once the chicken is done, brush the caramel sauce all over the top of the chicken.",
+    "Return the chicken to the oven and bake for an additional 2-3 minutes or until the caramel is bubbly and sticky.",
+    "Remove the chicken from the oven and let it rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "caramel",
+    "garlic",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlic-chili-caramel",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T06:15:57.255Z"
+}
