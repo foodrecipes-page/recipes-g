@@ -13963,17 +13963,16 @@
   },
   {
     "slug": "grilled-briny-portuguese-fish-grill",
-    "title": "Grilled Briny Portuguese Fish Grill",
+    "title": "Grilled Fish with Portuguese Flair",
     "tags": [
-      "gluten-free",
       "grilled",
-      "low-carb",
+      "briny",
       "portuguese",
-      "romantic",
-      "seafood"
+      "fish",
+      "grill"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 25,
+    "cuisine": "portuguese",
+    "totalTimeMin": 18,
     "shard": "g"
   },
   {
