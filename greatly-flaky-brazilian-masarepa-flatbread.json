@@ -1,0 +1,78 @@
+{
+  "slug": "greatly-flaky-brazilian-masarepa-flatbread",
+  "title": "Brazilian Flatbread with Masarepa Filling",
+  "description": "A delicious and crispy flatbread filled with a rich masarepa mixture, perfect for snacking or as a side dish.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "masarepa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "greatest"
+    },
+    {
+      "name": "flaky flatbread",
+      "amount": "4-6"
+    },
+    {
+      "name": "brazilian cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salsa",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Prepare the masarepa mixture by mixing all ingredients in a bowl.",
+    "Split the flatbreads in half and toast them in the oven for 5 minutes.",
+    "Spread the masarepa mixture evenly on the flatbreads.",
+    "Top with cheese, eggs, cilantro, garlic, onion, and salsa.",
+    "Place the flatbreads in the oven and bake for 10-12 minutes or until the cheese is melted and bubbly.",
+    "Remove from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "flatbread",
+    "masarepa",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/greatly-flaky-brazilian-masarepa-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T18:56:14.034Z"
+}
