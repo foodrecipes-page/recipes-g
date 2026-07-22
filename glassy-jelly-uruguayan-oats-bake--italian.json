@@ -1,0 +1,64 @@
+{
+  "slug": "glassy-jelly-uruguayan-oats-bake--italian",
+  "title": "Uruguayan-Style Puff Pastry Tart",
+  "description": "A sweet and flaky Italian-inspired tart filled with a Uruguayan twist of jelly and topped with crunchy oats.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "uruguayan puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "grape jelly",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "rolled oats",
+      "amount": "1/2 cup",
+      "notes": "unsalted"
+    },
+    {
+      "name": "bake",
+      "amount": "180-200°C",
+      "notes": "preheated oven temperature"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180-200°C (350-400°F).",
+    "Roll out the Uruguayan puff pastry on a lightly floured surface to a thickness of about 3 mm (1/8 inch).",
+    "Transfer the pastry to a 23 cm (9 inch) tart pan with a removable bottom.",
+    "Spread the grape jelly evenly over the pastry, leaving a 2.5 cm (1 inch) border around the edges.",
+    "Sprinkle the rolled oats over the jelly.",
+    "Fold the edges of the pastry up over the oats to form a crust.",
+    "Bake the tart for 25-30 minutes, or until the pastry is golden brown.",
+    "Remove the tart from the oven and let it cool on a wire rack for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "dessert",
+    "pastry",
+    "tart",
+    "oats"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/glassy-jelly-uruguayan-oats-bake--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T03:12:01.286Z"
+}
