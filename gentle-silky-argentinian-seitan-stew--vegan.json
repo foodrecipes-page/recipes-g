@@ -1,0 +1,82 @@
+{
+  "slug": "gentle-silky-argentinian-seitan-stew--vegan",
+  "title": "Argentinian Seitan Stew",
+  "description": "A hearty and flavorful stew made with Argentinian seitan and a blend of spices, perfect for a cold evening.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Argentinian Seitan",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Gentle Vegetable Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Silky Sweet Potatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 large"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegan Worcestershire Sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Dried Oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable broth in a large pot over medium heat.",
+    "Add the sliced onion and cook until softened, about 5 minutes.",
+    "Add the sliced red bell pepper and cook for an additional 5 minutes.",
+    "Add the Argentinian seitan, sweet potatoes, tomato paste, Worcestershire sauce, oregano, salt, and black pepper.",
+    "Stir to combine and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes, or until the seitan and sweet potatoes are tender.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "seitan",
+    "stew",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gentle-silky-argentinian-seitan-stew--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T19:32:01.967Z"
+}
