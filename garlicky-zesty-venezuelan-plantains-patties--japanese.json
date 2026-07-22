@@ -1,0 +1,73 @@
+{
+  "slug": "garlicky-zesty-venezuelan-plantains-patties--japanese",
+  "title": "Tokyo-Style Plantain Patties",
+  "description": "A fusion twist on traditional patties, with the sweetness of plantains and a hint of Japanese flavor.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Garlicky Plantains",
+      "amount": "2 ripe",
+      "notes": "Sliced 1/2-inch thick"
+    },
+    {
+      "name": "Zesty Patties",
+      "amount": "4",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Venezuelan Cheese",
+      "amount": "1/4 cup crumbled",
+      "notes": "Optional"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup chopped",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a non-stick pan or griddle over medium heat.",
+    "2. In a shallow dish, whisk together soy sauce and 1 tbsp water.",
+    "3. Add sliced plantains to the marinade and let sit for 10 minutes.",
+    "4. Cook patties in the pan according to package instructions.",
+    "5. Add plantains to the pan and cook for 3-4 minutes per side, or until caramelized.",
+    "6. Assemble plantain patties by placing a cooked patty on a plate, topping with a cooked plantain slice, and repeating.",
+    "7. Sprinkle with cheese, green onions, and sesame seeds.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "venezuelan-japanese-fusion",
+    "plantain-patties",
+    "veggie-patties"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-zesty-venezuelan-plantains-patties--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T20:39:44.208Z"
+}
