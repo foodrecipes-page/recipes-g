@@ -16507,5 +16507,18 @@
     "cuisine": "thai",
     "totalTimeMin": 25,
     "shard": "g"
+  },
+  {
+    "slug": "garlicky-light-mediterranean-leek-braised--japanese",
+    "title": "Japanese Braised Leek and Garlicky Rice",
+    "tags": [
+      "japanese",
+      "rice",
+      "leek",
+      "garlicky"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 30,
+    "shard": "g"
   }
 ]
