@@ -16520,5 +16520,31 @@
     "cuisine": "japanese",
     "totalTimeMin": 30,
     "shard": "g"
+  },
+  {
+    "slug": "garlicky-snappy-monsoon-jamaican-fish-bowl--german",
+    "title": "Pan-Seared Fish with Jamaican Spices",
+    "tags": [
+      "german",
+      "fish",
+      "seafood"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 28,
+    "shard": "g"
+  },
+  {
+    "slug": "gluten-free-russian-bean-sprouts-pilaf--indian",
+    "title": "Russian-Indian Bean Pilaf",
+    "tags": [
+      "indian",
+      "russian",
+      "gluten-free",
+      "bean",
+      "pilaf"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "g"
   }
 ]
