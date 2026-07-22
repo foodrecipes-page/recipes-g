@@ -1,0 +1,72 @@
+{
+  "slug": "garlicky-dense-mexican-macaroni-pasta--thai",
+  "title": "Spicy Macaroni Stir Fry",
+  "description": "A quick and spicy Thai-inspired stir fry made with macaroni, vegetables, and a variety of sauces.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "macaroni",
+      "amount": "225g"
+    },
+    {
+      "name": "garlicky stir-fry sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dense coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mexican chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "pasta seasoning",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Cook the macaroni according to package instructions.",
+    "In a large pan, heat 1 tbsp of oil over medium heat.",
+    "Add the onion and bell pepper and cook until tender.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the macaroni, stir-fry sauce, coconut milk, chili flakes, and pasta seasoning.",
+    "Stir-fry for 2-3 minutes until the sauce is bubbly and the macaroni is well coated.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "stir-fry",
+    "macaroni"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-dense-mexican-macaroni-pasta--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T20:50:56.785Z"
+}
