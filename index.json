@@ -10708,16 +10708,16 @@
   },
   {
     "slug": "gooey-american-garlic-sumac-stir-fry",
-    "title": "Gooey American Garlic Sumac Stir-fry",
+    "title": "Garlic Sumac Gooey Burgers",
     "tags": [
-      "goody",
-      "american",
+      "burgers",
+      "cheese",
       "garlic",
       "sumac",
-      "whole30-friendly"
+      "grilling"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 30,
+    "cuisine": "american",
+    "totalTimeMin": 18,
     "shard": "g"
   },
   {
@@ -13875,14 +13875,14 @@
   },
   {
     "slug": "green-peppered-brazilian-peppers-stir-fry",
-    "title": "Green Peppered Brazilian Peppers Stir-fry",
+    "title": "Brazilian Stir Fry",
     "tags": [
-      "vegetarian-friendly",
-      "fluffy-peppers",
-      "brazilian-vegan"
+      "stirfry",
+      "brazilian",
+      "peppers"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 20,
     "shard": "g"
   },
   {
@@ -16572,6 +16572,33 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 30,
+    "shard": "g"
+  },
+  {
+    "slug": "glassy-jelly-uruguayan-oats-bake--italian",
+    "title": "Uruguayan-Style Puff Pastry Tart",
+    "tags": [
+      "italian",
+      "dessert",
+      "pastry",
+      "tart",
+      "oats"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
+    "shard": "g"
+  },
+  {
+    "slug": "gooey-midnight-polish-treacle-hash--german",
+    "title": "Traditional German Treacle Cake",
+    "tags": [
+      "german",
+      "dessert",
+      "cake",
+      "treacle"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 50,
     "shard": "g"
   }
 ]
