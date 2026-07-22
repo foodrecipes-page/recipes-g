@@ -1,0 +1,76 @@
+{
+  "slug": "gorgeous-shattering-moroccan-refried-beans-tagine",
+  "title": "Moroccan Tagine with Refried Beans",
+  "description": "A hearty and flavorful Moroccan-inspired stew made with refried beans, fragrant spices, and tender gorgeous chicken. Serve with crusty bread for a satisfying meal.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gorgeous Chicken",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, skinless chicken thighs"
+    },
+    {
+      "name": "Refried Beans",
+      "amount": "1 can, 15 ounces",
+      "notes": "look for low-sodium"
+    },
+    {
+      "name": "Moroccan Spices",
+      "amount": "2 tablespoons",
+      "notes": "a blend of cumin, coriander, and cinnamon"
+    },
+    {
+      "name": "Shattering Cumin",
+      "amount": "1 teaspoon",
+      "notes": "add extra for extra flavor"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the chicken and cook until browned on all sides, about 5-7 minutes.",
+    "Add the Moroccan spices, cumin, salt, and pepper. Cook for 1 minute.",
+    "Add the refried beans, stir to combine.",
+    "Bring the mixture to a simmer, then reduce the heat to low and cook, covered, for 20-25 minutes, or until the chicken is cooked through.",
+    "Stir in fresh parsley.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "stew",
+    "chicken",
+    "beans"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gorgeous-shattering-moroccan-refried-beans-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T04:05:52.978Z"
+}
