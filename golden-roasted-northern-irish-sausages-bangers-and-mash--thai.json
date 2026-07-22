@@ -1,0 +1,80 @@
+{
+  "slug": "golden-roasted-northern-irish-sausages-bangers-and-mash--thai",
+  "title": "Thai Sausage and Mash",
+  "description": "A spicy twist on traditional Irish mash, featuring Thai-style sausages and a blend of herbs.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Golden sausages",
+      "amount": "400g",
+      "notes": "Thai-style sausages"
+    },
+    {
+      "name": "Northern Irish mash",
+      "amount": "600g",
+      "notes": "Mashed potatoes"
+    },
+    {
+      "name": "Roasted garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "20g",
+      "notes": "also known as coriander"
+    },
+    {
+      "name": "Thai red chili peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Golden fish sauce",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "20g",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large pan over medium-high heat.",
+    "Add the Thai red chili peppers and cook for 2 minutes.",
+    "Add the golden sausages and cook until browned, about 5 minutes.",
+    "Add the northern Irish mash and stir to combine with the sausages and chili peppers.",
+    "Add the roasted garlic, chopped cilantro, and golden fish sauce (if using).",
+    "Stir to combine and cook for a further 2 minutes.",
+    "Serve hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sausages",
+    "thaired",
+    "mash",
+    "garlic",
+    "cilantro",
+    "chili"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 45,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-roasted-northern-irish-sausages-bangers-and-mash--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T05:43:06.441Z"
+}
