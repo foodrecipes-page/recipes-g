@@ -1,0 +1,75 @@
+{
+  "slug": "garlic-gherkin-bliss--vegetarian",
+  "title": "Gherkin and Garlic Bliss Fritters",
+  "description": "A crispy and flavorful vegetarian snack made with gherkin, garlic, and bliss. Perfect for a quick evening treat.",
+  "cuisine": "vegetarian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Gherkin",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Bliss",
+      "amount": "1/2 cup, crumbled"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Bread crumbs",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. In a bowl, mix together gherkin, garlic, bliss, flour, and egg.",
+    "2. Add salt and black pepper to taste.",
+    "3. Add bread crumbs and mix well.",
+    "4. Heat a non-stick pan with 1 tablespoon of oil over medium heat.",
+    "5. Drop the mixture by spoonfuls into the pan.",
+    "6. Flatten the mixture slightly with a spatula.",
+    "7. Cook for 3-4 minutes or until golden brown.",
+    "8. Flip and cook for another 3-4 minutes or until golden brown.",
+    "9. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "vegetarian",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlic-gherkin-bliss--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T20:03:35.985Z"
+}
