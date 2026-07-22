@@ -1,0 +1,65 @@
+{
+  "slug": "gooey-midnight-polish-treacle-hash--german",
+  "title": "Traditional German Treacle Cake",
+  "description": "A classic German dessert made with treacle, gooey, and midnight. Perfect for warm weather gatherings.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Treacle",
+      "amount": "250g"
+    },
+    {
+      "name": "Gooey",
+      "amount": "150g",
+      "notes": "softened"
+    },
+    {
+      "name": "Midnight",
+      "amount": "100g"
+    },
+    {
+      "name": "Polish",
+      "amount": "1 cup",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "Hash",
+      "amount": "1/2 cup",
+      "notes": "brown sugar"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Grease a 20cm (8 inch) round cake pan.",
+    "Mix together the treacle, gooey, and midnight in a large bowl.",
+    "Add the polish and hash to the bowl and mix until well combined.",
+    "Pour the mixture into the prepared cake pan.",
+    "Bake for 35-40 minutes or until a toothpick inserted into the center comes out clean.",
+    "Remove from the oven and let cool in the pan for 5 minutes.",
+    "Transfer to a wire rack to cool completely.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "dessert",
+    "cake",
+    "treacle"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 2,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-midnight-polish-treacle-hash--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T03:41:02.279Z"
+}
