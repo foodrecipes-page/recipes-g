@@ -1,0 +1,87 @@
+{
+  "slug": "gluten-free-russian-bean-sprouts-pilaf--indian",
+  "title": "Russian-Indian Bean Pilaf",
+  "description": "A unique fusion dish combining the flavors of Russia and India, featuring a hearty bean pilaf.",
+  "cuisine": "indian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Green Bean Sprouts",
+      "amount": "1 cup",
+      "notes": "trimmed and rinsed"
+    },
+    {
+      "name": "Red Kidney Beans",
+      "amount": "1 cup",
+      "notes": "cooked and drained"
+    },
+    {
+      "name": "Basmati Rice",
+      "amount": "2 cups",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Russian-style Cucumber",
+      "amount": "1 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons",
+      "notes": "or vegetable oil"
+    },
+    {
+      "name": "Indian Spices",
+      "amount": "1 teaspoon",
+      "notes": "garam masala, cumin, coriander"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat ghee in a large saucepan over medium heat.",
+    "Add diced cucumber and cook until slightly softened, about 3-4 minutes.",
+    "Add green bean sprouts, Indian spices, salt, and black pepper. Cook for 2-3 minutes, stirring frequently.",
+    "Add cooked red kidney beans, Basmati rice, and 2 cups of water to the saucepan.",
+    "Bring the mixture to a boil, then reduce heat to low, cover, and simmer for 20 minutes.",
+    "Fluff the pilaf with a fork and garnish with chopped cilantro.",
+    "Serve hot and enjoy!",
+    "Note: Traditionally, Russian and Indian cuisines use different cooking techniques. This recipe combines elements from both to create a unique fusion dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "russian",
+    "gluten-free",
+    "bean",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gluten-free-russian-bean-sprouts-pilaf--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T23:15:34.566Z"
+}
