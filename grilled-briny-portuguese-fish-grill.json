@@ -1,0 +1,75 @@
+{
+  "slug": "grilled-briny-portuguese-fish-grill",
+  "title": "Grilled Fish with Portuguese Flair",
+  "description": "A refreshing seafood dish with a grilled fish fillet, marinated in a briny Portuguese-inspired sauce and served with a side of grilled vegetables.",
+  "cuisine": "portuguese",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fish fillet (cod or tilapia)",
+      "amount": "2"
+    },
+    {
+      "name": "portuguese red wine vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grated lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, whisk together red wine vinegar, olive oil, lemon zest, garlic, and parsley.",
+    "Season the fish fillet with salt and pepper.",
+    "Brush the fish with the marinade and let it sit for 10 minutes.",
+    "Grill the fish for 4-5 minutes per side, or until cooked through.",
+    "Let the fish rest for 2 minutes before serving.",
+    "Serve with a side of grilled vegetables, such as asparagus or bell peppers."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "briny",
+    "portuguese",
+    "fish",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 40,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grilled-briny-portuguese-fish-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T02:35:34.220Z"
+}
