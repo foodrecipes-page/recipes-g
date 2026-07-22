@@ -1,0 +1,91 @@
+{
+  "slug": "garlicky-snappy-monsoon-jamaican-fish-bowl--mexican",
+  "title": "Monsoon's Mexican Fish Bowl",
+  "description": "A flavorful Mexican dish featuring pan-seared fish served in a large bowl with a variety of toppings.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "jamaican fish",
+      "amount": "4 fillets (6 oz each)"
+    },
+    {
+      "name": "garlicky",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "snappy",
+      "amount": "1 cup",
+      "notes": "diced bell peppers"
+    },
+    {
+      "name": "monsoon",
+      "amount": "1 cup",
+      "notes": "mixed greens"
+    },
+    {
+      "name": "bowl",
+      "amount": "4 large bowls",
+      "notes": "ceramic or glass"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium heat.",
+    "Season the fish with cumin, chili powder, salt, and pepper.",
+    "Add 1 tbsp of oil to the skillet and cook the fish for 3-4 minutes per side.",
+    "While the fish is cooking, prepare the toppings by dicing the bell peppers and mixing the greens.",
+    "Warm the bowls by placing them in the oven for 2-3 minutes.",
+    "To assemble the bowls, place a piece of fish in each bowl, followed by a spoonful of the mixed greens and diced bell peppers.",
+    "Drizzle with lime juice and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "fish",
+    "bowl"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-snappy-monsoon-jamaican-fish-bowl--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T05:01:56.293Z"
+}
