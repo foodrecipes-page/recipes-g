@@ -1,0 +1,84 @@
+{
+  "slug": "gentle-earthy-korean-oats-kalguksu--chinese",
+  "title": "Korean-Style Oat Noodle Stir Fry",
+  "description": "A fusion of Korean and Chinese flavors in a hearty oat noodle stir fry. This dish combines the comforting texture of oat noodles with the bold flavors of Korean chili flakes and Chinese soy sauce.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oats",
+      "amount": "1 cup",
+      "notes": "coarsely ground"
+    },
+    {
+      "name": "kalguksu",
+      "amount": "8 oz",
+      "notes": "Korean-style noodles"
+    },
+    {
+      "name": "gentle",
+      "amount": "1 tsp",
+      "notes": "Korean chili flakes"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "Chinese soy sauce"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "earthly mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced mushrooms and cook until they are tender and fragrant, about 3-4 minutes.",
+    "Add the coarsely ground oats and cook for an additional 2 minutes, stirring constantly.",
+    "Add the kalguksu noodles, gentle (Korean chili flakes), and soy sauce to the skillet.",
+    "Stir-fry everything together for 2-3 minutes, until the noodles are well coated with the sauce.",
+    "Transfer the noodle mixture to a serving dish and garnish with chopped green onions and sesame seeds.",
+    "Serve hot and enjoy!",
+    "Optional: Add some kimchi on the side to add a bit of spice and crunch.",
+    "Note: You can adjust the amount of gentle (Korean chili flakes) to your desired level of spiciness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "chinese",
+    "oat-noodle",
+    "stir-fry",
+    "vegetarian",
+    "mushroom"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gentle-earthy-korean-oats-kalguksu--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T06:02:00.309Z"
+}
