@@ -16483,5 +16483,29 @@
     "cuisine": "vegetarian",
     "totalTimeMin": 22,
     "shard": "g"
+  },
+  {
+    "slug": "garlicky-zesty-venezuelan-plantains-patties--japanese",
+    "title": "Tokyo-Style Plantain Patties",
+    "tags": [
+      "venezuelan-japanese-fusion",
+      "plantain-patties",
+      "veggie-patties"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 27,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-dense-mexican-macaroni-pasta--thai",
+    "title": "Spicy Macaroni Stir Fry",
+    "tags": [
+      "thai",
+      "stir-fry",
+      "macaroni"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "g"
   }
 ]
