@@ -13673,17 +13673,16 @@
   },
   {
     "slug": "greatly-flaky-brazilian-masarepa-flatbread",
-    "title": "Greatly Flaky Brazilian Masarepa Flatbread",
+    "title": "Brazilian Flatbread with Masarepa Filling",
     "tags": [
-      "brazilian-food",
-      "delicious",
+      "brazilian",
       "flatbread",
-      "homemade",
-      "lacto-vegetarian",
-      "snack"
+      "masarepa",
+      "snack",
+      "vegetarian"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 32,
     "shard": "g"
   },
   {
