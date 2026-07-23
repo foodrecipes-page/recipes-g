@@ -1,0 +1,79 @@
+{
+  "slug": "glorious-springy-turkish-lamb-kebab-doner--chinese",
+  "title": "Turkish Lamb Kebab with Chinese Twist",
+  "description": "A flavorful fusion of Turkish and Chinese cuisines, featuring tender lamb kebabs with a sweet and savory sauce.",
+  "cuisine": "chinese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Glorious Lamb",
+      "amount": "500g",
+      "notes": "Cut into kebab-sized pieces"
+    },
+    {
+      "name": "Springy Onions",
+      "amount": "2",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Turkish Doner Kebab Meat",
+      "amount": "250g",
+      "notes": "Ground meat"
+    },
+    {
+      "name": "Kebab Meat Marinade",
+      "amount": "1/2 cup",
+      "notes": "Combine soy sauce, hoisin sauce, brown sugar, garlic, and ginger"
+    },
+    {
+      "name": "Chinese Five-Spice Powder",
+      "amount": "1 tsp",
+      "notes": "Add to marinade for extra flavor"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing kebabs"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": "Season to taste"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine lamb pieces, onions, doner kebab meat, kebab meat marinade, and Chinese five-spice powder. Mix well.",
+    "2. Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "3. Preheat a grill or grill pan to medium-high heat.",
+    "4. Remove the lamb mixture from the refrigerator and let it sit at room temperature for 30 minutes.",
+    "5. Thread the lamb mixture onto skewers, leaving a small space between each piece.",
+    "6. Brush the coconut oil onto the kebabs and season with salt and pepper.",
+    "7. Grill the kebabs for 8-10 minutes per side, or until cooked to your desired level of doneness.",
+    "8. Serve the kebabs hot with your favorite sides, such as steamed vegetables or rice."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 16,
+  "totalTimeMin": 46,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "chinese",
+    "lamb",
+    "kebab",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "43g",
+    "carbs": "10g",
+    "fat": "35g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/glorious-springy-turkish-lamb-kebab-doner--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T16:26:55.171Z"
+}
