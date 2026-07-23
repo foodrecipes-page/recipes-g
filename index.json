@@ -16760,5 +16760,18 @@
     "cuisine": "german",
     "totalTimeMin": 35,
     "shard": "g"
+  },
+  {
+    "slug": "gooey-ukrainian-smoky-aoli-casserole--gluten-free",
+    "title": "Smoky Ukrainian Casserole",
+    "tags": [
+      "ukrainian",
+      "smoky",
+      "casserole",
+      "gluten-free"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 40,
+    "shard": "g"
   }
 ]
