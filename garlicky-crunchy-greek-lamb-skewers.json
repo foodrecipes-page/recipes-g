@@ -1,69 +1,71 @@
 {
   "slug": "garlicky-crunchy-greek-lamb-skewers",
-  "title": "Greek Lamb Skewers with Crunchy Topping",
-  "description": "A delicious and easy-to-make Greek-inspired dish featuring lamb skewers with a crunchy topping. Perfect for a quick dinner or lunch.",
+  "title": "Greek Lamb Skewers",
+  "description": "A flavorful and easy-to-make recipe featuring lamb skewers with a classic Greek twist. Perfect for a quick dinner or outdoor gathering.",
   "cuisine": "Greek",
   "diet": [
     "gluten-free",
-    "paleo"
+    "pescatarian"
   ],
   "meal": "dinner",
   "ingredients": [
     {
       "name": "Lamb",
-      "amount": "500g",
-      "notes": "cut into 1-inch cubes"
+      "amount": "1 1/2 pounds",
+      "notes": "preferably leg of lamb or a combination of leg and shoulder"
     },
     {
-      "name": "Garlicky",
-      "amount": "4 cloves",
-      "notes": "minced"
-    },
-    {
-      "name": "Crunchy",
+      "name": "Garlicky Yogurt Sauce (see below)",
       "amount": "1 cup",
-      "notes": "chopped fresh parsley"
+      "notes": "see notes for yogurt sauce recipe"
     },
     {
-      "name": "Greek",
-      "amount": "2 tbsp",
-      "notes": "olive oil"
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing skewers"
     },
     {
-      "name": "Skewers",
-      "amount": "10",
-      "notes": "bamboo or metal"
+      "name": "Crunchy Feta (see below)",
+      "amount": "1/4 cup",
+      "notes": "see notes for crunchy feta recipe"
+    },
+    {
+      "name": "Greek seasoning",
+      "amount": "1 tablespoon",
+      "notes": "such as oregano, thyme, and rosemary"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
     }
   ],
   "instructions": [
     "Preheat grill to medium-high heat.",
-    "Thread lamb cubes onto skewers, leaving space between each piece.",
-    "In a small bowl, mix together minced garlic, olive oil, salt, and pepper.",
-    "Brush the garlic mixture onto the lamb skewers.",
-    "Grill the skewers for 8-10 minutes per side, or until cooked through.",
-    "Meanwhile, mix together chopped parsley and crunchy topping of your choice.",
-    "Serve the lamb skewers hot, topped with the crunchy topping."
+    "Cut the lamb into 1 1/2-inch cubes and thread onto skewers.",
+    "In a small bowl, whisk together olive oil, garlic, and Greek seasoning.",
+    "Brush the skewers with the olive oil mixture, making sure to coat all sides.",
+    "Grill the skewers for 8-10 minutes per side, or until they reach an internal temperature of 145°F (63°C) for medium-rare.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Serve the skewers with a dollop of Garlicky Yogurt Sauce and a sprinkle of Crunchy Feta."
   ],
-  "prepTimeMin": 10,
-  "cookTimeMin": 18,
-  "totalTimeMin": 28,
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
   "servings": 4,
-  "difficulty": "easy",
+  "difficulty": "medium",
   "tags": [
-    "lamb",
     "greek",
-    "skewers",
-    "grill",
-    "easy"
+    "lamb",
+    "skewers"
   ],
   "nutrition": {
-    "calories": 420,
-    "protein": 43,
-    "carbs": 4,
-    "fat": 24
+    "calories": 350,
+    "protein": "35g",
+    "carbs": "5g",
+    "fat": "22g"
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-crunchy-greek-lamb-skewers",
   "providerUsed": "groq",
-  "createdAt": "2026-07-17T14:19:27.025Z"
+  "createdAt": "2026-07-19T09:04:03.103Z"
 }
