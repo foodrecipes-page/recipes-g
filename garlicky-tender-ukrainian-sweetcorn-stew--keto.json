@@ -1,0 +1,74 @@
+{
+  "slug": "garlicky-tender-ukrainian-sweetcorn-stew--keto",
+  "title": "Keto Ukrainian Stew",
+  "description": "A hearty and comforting stew made with tender beef, sweetcorn, and a hint of garlicky flavor, all within a keto diet.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (tender)",
+      "amount": "500g",
+      "notes": "Cut into 2-inch cubes"
+    },
+    {
+      "name": "Garlicky oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Sweetcorn (fresh or canned)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Stew",
+      "amount": "2 cups",
+      "notes": "Beef broth or stock"
+    }
+  ],
+  "instructions": [
+    "Heat the garlicky oil in a large Dutch oven over medium-high heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the beef cubes and cook until browned on all sides, about 5-7 minutes.",
+    "Add the sweetcorn and stew, and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 1 1/2 hours or until the beef is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "beef",
+    "stew",
+    "ukrainian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 10,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-tender-ukrainian-sweetcorn-stew--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T09:11:57.035Z"
+}
