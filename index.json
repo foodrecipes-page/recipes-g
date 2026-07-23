@@ -16811,5 +16811,19 @@
     "cuisine": "Mexican",
     "totalTimeMin": 25,
     "shard": "g"
+  },
+  {
+    "slug": "gloriously-juicy-mexican-taleggio-tostada--chinese",
+    "title": "Taleggio Chicken Tostadas",
+    "tags": [
+      "chicken",
+      "cheese",
+      "mexican",
+      "chinese",
+      "easy-to-make"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "g"
   }
 ]
