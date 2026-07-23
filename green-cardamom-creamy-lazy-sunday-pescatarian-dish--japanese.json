@@ -1,0 +1,76 @@
+{
+  "slug": "green-cardamom-creamy-lazy-sunday-pescatarian-dish--japanese",
+  "title": "Miso Soup",
+  "description": "A traditional Japanese soup made with miso paste, dashi broth, and tofu. This comforting soup is perfect for a relaxing Sunday.",
+  "cuisine": "japanese",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Miso paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Dashi broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "Wakame seaweed",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 bunch",
+      "notes": "sliced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine dashi broth and wakame seaweed.",
+    "Bring to a boil, then reduce heat and simmer for 5 minutes.",
+    "Add tofu and cook for an additional 2-3 minutes.",
+    "Stir in miso paste and soy sauce.",
+    "Cook for 1-2 minutes, until miso is fully dissolved.",
+    "Season with sesame oil and adjust seasoning as needed.",
+    "Serve hot, garnished with green onions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "soup",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/green-cardamom-creamy-lazy-sunday-pescatarian-dish--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T16:49:22.392Z"
+}
