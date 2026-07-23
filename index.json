@@ -16708,5 +16708,57 @@
     "cuisine": "french",
     "totalTimeMin": 65,
     "shard": "g"
+  },
+  {
+    "slug": "gooey-french-dates-galette--indian",
+    "title": "Gooey Galette Dates Indian Delight",
+    "tags": [
+      "indian",
+      "dessert",
+      "dates",
+      "galette"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
+    "slug": "gooey-spanish-tomato-stir-fry--gluten-free",
+    "title": "Spanish Stir-Fry with Gooey Tomatoes",
+    "tags": [
+      "gluten-free",
+      "spanish",
+      "stir-fry",
+      "tomatoes"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
+    "slug": "gorgeous-shattering-moroccan-refried-beans-tagine--german",
+    "title": "German-Style Bean Tagine",
+    "tags": [
+      "german",
+      "mexican",
+      "beans",
+      "vegetarian"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 30,
+    "shard": "g"
+  },
+  {
+    "slug": "gentle-sunday-braise-jamaican-fish-curry--german",
+    "title": "Sunday Braised Fish German Style",
+    "tags": [
+      "german",
+      "fish",
+      "braise",
+      "comfort-food"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "g"
   }
 ]
