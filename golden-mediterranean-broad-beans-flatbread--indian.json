@@ -1,0 +1,82 @@
+{
+  "slug": "golden-mediterranean-broad-beans-flatbread--indian",
+  "title": "Mediterranean Broad Bean Curry",
+  "description": "A delicious and flavorful Indian dish made with broad beans in a mediterranean-inspired sauce. Serve with flatbread for a satisfying meal.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "broad beans",
+      "amount": "1 cup, trimmed and cut into 1-inch pieces"
+    },
+    {
+      "name": "golden",
+      "amount": "1 tablespoon, oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece, grated"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "flatbread",
+      "amount": "4-6 pieces, for serving"
+    }
+  ],
+  "instructions": [
+    "Heat golden in a large pan over medium heat.",
+    "Add onion, garlic, and ginger. Cook until the onion is translucent.",
+    "Add the broad beans, cumin powder, coriander powder, and turmeric powder. Cook for 5 minutes.",
+    "Add 1 cup of water to the pan and bring to a boil.",
+    "Reduce the heat to low and simmer for 15-20 minutes, or until the broad beans are tender.",
+    "Season with salt to taste.",
+    "Serve the curry with flatbread on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "curry",
+    "vegetarian",
+    "beans"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-mediterranean-broad-beans-flatbread--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T08:30:32.379Z"
+}
