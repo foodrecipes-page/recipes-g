@@ -16683,5 +16683,17 @@
     "cuisine": "japanese",
     "totalTimeMin": 25,
     "shard": "g"
+  },
+  {
+    "slug": "gooey-nostalgic-korean-garlic-fry--french",
+    "title": "French-Style Fried Chicken with Garlic",
+    "tags": [
+      "french",
+      "comfort-food",
+      "fried-chicken"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "g"
   }
 ]
