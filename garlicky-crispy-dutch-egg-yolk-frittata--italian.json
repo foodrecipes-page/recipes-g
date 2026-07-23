@@ -1,0 +1,77 @@
+{
+  "slug": "garlicky-crispy-dutch-egg-yolk-frittata--italian",
+  "title": "Italian Frittata",
+  "description": "A classic Italian dish made with eggs, cheese, and vegetables, perfect for breakfast or brunch.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "garlicky",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "crispy",
+      "amount": "1 cup",
+      "notes": "crispy bacon, chopped"
+    },
+    {
+      "name": "dutch",
+      "amount": "1 large",
+      "notes": "potato, peeled and diced"
+    },
+    {
+      "name": "egg",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "yolk",
+      "amount": "2",
+      "notes": "from the eggs"
+    },
+    {
+      "name": "frittata",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large skillet, cook the crispy bacon over medium heat until crispy.",
+    "Add the minced garlicky to the skillet and cook for 1 minute.",
+    "Add the diced dutch to the skillet and cook for 5 minutes.",
+    "In a large bowl, whisk together the eggs and egg yolks.",
+    "Pour the egg mixture over the cooked vegetables in the skillet.",
+    "Transfer the skillet to the oven and bake for 15-20 minutes, or until the eggs are set.",
+    "Remove the skillet from the oven and let it cool for a few minutes.",
+    "Use a spatula to loosen the edges of the frittata from the skillet.",
+    "Slide the frittata onto a plate and serve hot.",
+    "Slice the frittata into wedges and serve with your favorite toppings."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "breakfast",
+    "brunch",
+    "eggs",
+    "bacon"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-crispy-dutch-egg-yolk-frittata--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T18:52:38.099Z"
+}
