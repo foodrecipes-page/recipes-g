@@ -16695,5 +16695,18 @@
     "cuisine": "french",
     "totalTimeMin": 35,
     "shard": "g"
+  },
+  {
+    "slug": "garlicky-creamy-smoky-kenyian-fennel-stew--french",
+    "title": "French Smoky Stew",
+    "tags": [
+      "french",
+      "smoky",
+      "stew",
+      "comfortfood"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 65,
+    "shard": "g"
   }
 ]
