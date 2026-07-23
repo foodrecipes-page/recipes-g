@@ -1,0 +1,87 @@
+{
+  "slug": "gooey-spanish-tomato-stir-fry--gluten-free",
+  "title": "Spanish Stir-Fry with Gooey Tomatoes",
+  "description": "A simple and flavorful gluten-free stir-fry with gooey tomatoes. Perfect for a quick dinner or lunch.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Spanish tomatoes",
+      "amount": "1 pint",
+      "notes": null
+    },
+    {
+      "name": "Gooey cheese",
+      "amount": "1/2 cup, shredded",
+      "notes": "Optional for gooey effect"
+    },
+    {
+      "name": "Cooking oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Mince for flavor"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Slice for stir-frying"
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fry spices",
+      "amount": "to taste",
+      "notes": "Optional for extra flavor"
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a large skillet over medium heat.",
+    "2. Add garlic and onion, sauté until softened.",
+    "3. Add tomatoes, stir-fry until they start to break down.",
+    "4. Add gooey cheese (if using), stir until melted and gooey.",
+    "5. Season with salt, pepper, and fry spices (if using).",
+    "6. Garnish with fresh basil.",
+    "7. Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "spanish",
+    "stir-fry",
+    "tomatoes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-spanish-tomato-stir-fry--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T14:11:19.159Z"
+}
