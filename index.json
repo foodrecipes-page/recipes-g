@@ -1746,16 +1746,14 @@
   },
   {
     "slug": "garlicky-crunchy-greek-lamb-skewers",
-    "title": "Greek Lamb Skewers with Crunchy Topping",
+    "title": "Greek Lamb Skewers",
     "tags": [
-      "lamb",
       "greek",
-      "skewers",
-      "grill",
-      "easy"
+      "lamb",
+      "skewers"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 28,
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
@@ -16643,6 +16641,33 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 30,
+    "shard": "g"
+  },
+  {
+    "slug": "golden-mediterranean-broad-beans-flatbread--indian",
+    "title": "Mediterranean Broad Bean Curry",
+    "tags": [
+      "indian",
+      "curry",
+      "vegetarian",
+      "beans"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-tender-ukrainian-sweetcorn-stew--keto",
+    "title": "Keto Ukrainian Stew",
+    "tags": [
+      "keto",
+      "beef",
+      "stew",
+      "ukrainian",
+      "comfort-food"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 110,
     "shard": "g"
   }
 ]
