@@ -16837,5 +16837,18 @@
     "cuisine": "italian",
     "totalTimeMin": 30,
     "shard": "g"
+  },
+  {
+    "slug": "garlicky-juicy-venezuelan-tofu-soup--italian",
+    "title": "Italian Garlicky Soup",
+    "tags": [
+      "italian",
+      "soup",
+      "garlicky",
+      "vegetarian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
+    "shard": "g"
   }
 ]
