@@ -1,0 +1,73 @@
+{
+  "slug": "gooey-nostalgic-korean-garlic-fry--french",
+  "title": "French-Style Fried Chicken with Garlic",
+  "description": "A classic comfort food dish with a French twist, featuring crispy fried chicken and a hint of garlic.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken pieces",
+      "amount": "1 1/2 pounds",
+      "notes": "legs, thighs, wings, and breasts"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "goeey sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fry oil",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a shallow dish, mix together flour, garlic, salt, and pepper.",
+    "Dredge chicken pieces in flour mixture to coat.",
+    "Heat 1/2 cup of fry oil in a large skillet over medium-high heat.",
+    "Add 2-3 chicken pieces to the skillet and fry until golden brown, about 5-7 minutes.",
+    "Repeat with remaining chicken pieces.",
+    "Drain chicken on paper towels and serve hot with goeey sauce for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "comfort-food",
+    "fried-chicken"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-nostalgic-korean-garlic-fry--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T10:37:18.931Z"
+}
