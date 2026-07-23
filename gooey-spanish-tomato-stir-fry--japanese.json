@@ -1,0 +1,82 @@
+{
+  "slug": "gooey-spanish-tomato-stir-fry--japanese",
+  "title": "Japanese Gooey Stir Fry",
+  "description": "A quick and savory Japanese-inspired stir fry with gooey goodness. Perfect for a weeknight dinner.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gooey",
+      "amount": "1/2 cup",
+      "notes": "Gooey sauce of your choice (e.g. teriyaki or oyster sauce)"
+    },
+    {
+      "name": "Spanish",
+      "amount": "1 cup",
+      "notes": "Spanish rice"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "Cherry tomatoes, halved"
+    },
+    {
+      "name": "Stir",
+      "amount": "",
+      "notes": "Any stir-fry vegetable of your choice (e.g. bell peppers, carrots, broccoli)"
+    },
+    {
+      "name": "Fry",
+      "amount": "2 tablespoons",
+      "notes": "Vegetable oil"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "To taste"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 teaspoon",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "Sliced, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the Spanish rice and stir-fry for 2-3 minutes, until lightly toasted.",
+    "Add the stir-fry vegetables and cook until tender-crisp, about 3-4 minutes.",
+    "Add the cherry tomatoes and cook for an additional 2 minutes.",
+    "Pour in the gooey sauce and stir-fry for 1-2 minutes, until well combined.",
+    "Season with soy sauce to taste.",
+    "Transfer the stir-fry to a serving platter and garnish with sesame oil and green onions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "stir-fry",
+    "veggies",
+    "rice",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-spanish-tomato-stir-fry--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T09:38:45.423Z"
+}
