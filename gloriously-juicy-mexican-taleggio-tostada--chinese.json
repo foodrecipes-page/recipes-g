@@ -1,0 +1,81 @@
+{
+  "slug": "gloriously-juicy-mexican-taleggio-tostada--chinese",
+  "title": "Taleggio Chicken Tostadas",
+  "description": "A unique twist on traditional Chinese cuisine, combining the creaminess of Taleggio cheese with the crunch of Mexican tostadas.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "taleggio cheese",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "tostada shells",
+      "amount": "12-15 shells",
+      "notes": ""
+    },
+    {
+      "name": "juicy diced tomatoes",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "mexican cilantro",
+      "amount": "chopped, for garnish",
+      "notes": ""
+    },
+    {
+      "name": "gloriously cooked onions",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chinese chili flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "Cook the chicken breast in a skillet over medium-high heat until browned, then transfer it to the oven and bake for 20-25 minutes, or until cooked through.",
+    "Meanwhile, heat the chili flakes and soy sauce in the skillet over medium heat.",
+    "Add the diced tomatoes and cooked onions to the skillet, stirring to combine.",
+    "Shred the cooked chicken and add it to the skillet, stirring to combine.",
+    "To assemble the tostadas, place a spoonful of the chicken mixture onto each shell, followed by a crumbled piece of Taleggio cheese.",
+    "Garnish with cilantro and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "cheese",
+    "mexican",
+    "chinese",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gloriously-juicy-mexican-taleggio-tostada--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T17:36:56.763Z"
+}
