@@ -1,0 +1,56 @@
+{
+  "slug": "garlicky-crunchy-canadian-black-pudding-skewers",
+  "title": "Blackened Pudding Skewers",
+  "description": "A Canadian-inspired dish featuring black pudding on skewers with a crunchy twist.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "black pudding",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "garlicky skewers",
+      "amount": "1 dozen",
+      "notes": "soak in water before use"
+    },
+    {
+      "name": "crunchy vegetables",
+      "amount": "1 cup, cut into bite-sized pieces",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium heat.",
+    "Soak garlicky skewers in water for 30 minutes.",
+    "Cut black pudding into 1-inch cubes.",
+    "Alternate black pudding and crunchy vegetables on the garlicky skewers.",
+    "Grill for 5-7 minutes, turning occasionally.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian",
+    "pudding",
+    "snack",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-crunchy-canadian-black-pudding-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T21:09:36.024Z"
+}
