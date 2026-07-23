@@ -1,0 +1,81 @@
+{
+  "slug": "gooey-french-dates-galette--indian",
+  "title": "Gooey Galette Dates Indian Delight",
+  "description": "A sweet and unique Indian-inspired dessert featuring gooey galette filling with dates",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Gooey Galette",
+      "amount": "1 sheet",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Dates",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "French Vanilla",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tbsp",
+      "notes": "clarified butter"
+    },
+    {
+      "name": "Cardamom Powder",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Pistachios",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out the galette sheet and cut into 1-inch squares.",
+    "Heat ghee in a non-stick pan over medium heat.",
+    "Add dates and cook until caramelized, stirring occasionally.",
+    "Add cardamom powder and cook for 1 minute.",
+    "Stir in honey (if using) and cook for another minute.",
+    "Arrange galette squares on a baking sheet lined with parchment paper.",
+    "Spoon the date mixture onto each galette square.",
+    "Bake for 15-20 minutes or until the galette is golden brown.",
+    "Garnish with chopped pistachios and serve warm or at room temperature.",
+    "Optional: drizzle with french vanilla for added flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "dessert",
+    "dates",
+    "galette"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-french-dates-galette--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T13:50:39.175Z"
+}
