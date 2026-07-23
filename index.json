@@ -16669,5 +16669,19 @@
     "cuisine": "Ukrainian",
     "totalTimeMin": 110,
     "shard": "g"
+  },
+  {
+    "slug": "gooey-spanish-tomato-stir-fry--japanese",
+    "title": "Japanese Gooey Stir Fry",
+    "tags": [
+      "japanese",
+      "stir-fry",
+      "veggies",
+      "rice",
+      "easy-dinner"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "g"
   }
 ]
