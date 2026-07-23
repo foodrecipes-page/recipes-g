@@ -1,0 +1,76 @@
+{
+  "slug": "garlicky-creamy-smoky-kenyian-fennel-stew--french",
+  "title": "French Smoky Stew",
+  "description": "A hearty, comforting French stew made with smoky sausage and fragrant fennel.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "garlicky sausage",
+      "amount": "1 pound",
+      "notes": "Slice into 1/2-inch pieces"
+    },
+    {
+      "name": "fennel",
+      "amount": "2 bulbs",
+      "notes": "Slice into 1/2-inch pieces"
+    },
+    {
+      "name": "kenyian spices",
+      "amount": "2 teaspoons",
+      "notes": "Smoked paprika and chili powder blend"
+    },
+    {
+      "name": "creamy potatoes",
+      "amount": "2 large",
+      "notes": "Slice into 1/2-inch pieces"
+    },
+    {
+      "name": "smoky bacon",
+      "amount": "4 slices",
+      "notes": "Chopped into small pieces"
+    },
+    {
+      "name": "stew vegetables",
+      "amount": "2 cups",
+      "notes": "Diced carrots and celery"
+    }
+  ],
+  "instructions": [
+    "Heat the oven to 300°F (150°C).",
+    "In a large Dutch oven, cook the smoky bacon over medium heat until crispy.",
+    "Remove the bacon and set aside. Add the sliced sausage and cook until browned.",
+    "Add the sliced fennel and cook until tender, about 5 minutes.",
+    "Add the chopped potatoes, diced vegetables, and kenyian spices.",
+    "Stir to combine, then add the browned bacon back into the pot.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Bake for 30 minutes, then check the stew and add more seasoning if needed.",
+    "Return the stew to the oven and continue baking for an additional 15-20 minutes.",
+    "Serve hot, garnished with chopped fresh herbs."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "smoky",
+    "stew",
+    "comfortfood"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-creamy-smoky-kenyian-fennel-stew--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T12:42:43.480Z"
+}
