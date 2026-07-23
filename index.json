@@ -16773,5 +16773,43 @@
     "cuisine": "Ukrainian",
     "totalTimeMin": 40,
     "shard": "g"
+  },
+  {
+    "slug": "glorious-springy-turkish-lamb-kebab-doner--chinese",
+    "title": "Turkish Lamb Kebab with Chinese Twist",
+    "tags": [
+      "turkish",
+      "chinese",
+      "lamb",
+      "kebab",
+      "dinner"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 46,
+    "shard": "g"
+  },
+  {
+    "slug": "green-cardamom-creamy-lazy-sunday-pescatarian-dish--japanese",
+    "title": "Miso Soup",
+    "tags": [
+      "japanese",
+      "soup",
+      "comfort-food"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
+    "slug": "golden-crispy-agemono-mexican-monterey-jack-cheese-tacos--mexican",
+    "title": "Crispy Taco Monterey Jack Cheesy Agemono",
+    "tags": [
+      "mexican",
+      "cheesy",
+      "tacos"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 25,
+    "shard": "g"
   }
 ]
