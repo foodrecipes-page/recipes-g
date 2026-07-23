@@ -1,0 +1,94 @@
+{
+  "slug": "glossy-tangy-ethiopian-cranberries-misir-wot",
+  "title": "Ethiopian Misir Wot Stew",
+  "description": "A flavorful and spicy misir wot stew originating from Ethiopia, made with onions, garlic, ginger, and a variety of spices.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Onion",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Cranberries",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Misir",
+      "amount": "2 cups",
+      "notes": "red lentils, rinsed and drained"
+    },
+    {
+      "name": "Glossy",
+      "amount": "2 tbsp",
+      "notes": "Ethiopian berbere spice blend"
+    },
+    {
+      "name": "Tangy",
+      "amount": "1 tsp",
+      "notes": "Ethiopian niter kibbeh spice blend"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": "vegetable or chicken broth"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add onion, garlic, and ginger; sauté until onion is translucent.",
+    "Add misir, glossy, and tangy spice blends; stir for 1 minute.",
+    "Add water and bring to a boil.",
+    "Reduce heat to low and simmer for 20-25 minutes or until misir is tender.",
+    "Stir in cranberries and season with salt and pepper to taste.",
+    "Serve hot over injera or with rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "lentil-stew",
+    "vegetarian",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/glossy-tangy-ethiopian-cranberries-misir-wot",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T18:47:09.854Z"
+}
