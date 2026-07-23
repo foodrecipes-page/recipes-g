@@ -1,0 +1,83 @@
+{
+  "slug": "golden-crispy-agemono-mexican-monterey-jack-cheese-tacos--mexican",
+  "title": "Crispy Taco Monterey Jack Cheesy Agemono",
+  "description": "A Mexican-inspired dish featuring crispy tacos, melted Monterey Jack cheese, and agemono. A perfect fusion of flavors and textures.",
+  "cuisine": "Mexican",
+  "diet": [
+    "Vegetarian",
+    "Gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mexican cheese",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "Monterey Jack cheese",
+      "amount": "6 oz",
+      "notes": null
+    },
+    {
+      "name": "Crispy taco shells",
+      "amount": "6-8 shells",
+      "notes": null
+    },
+    {
+      "name": "Agemono",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Golden taco seasoning",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Jack cheese shredded",
+      "amount": "4 oz",
+      "notes": null
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Salsa",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. In a pan over medium heat, warm the agemono.",
+    "3. In a separate pan, toast the crispy taco shells until golden brown.",
+    "4. In a bowl, mix the Mexican cheese, Monterey Jack cheese, and 1 tsp of golden taco seasoning.",
+    "5. Spoon the cheese mixture into the toasted taco shells.",
+    "6. Place the taco shells on a baking sheet and bake for 5-7 minutes, or until the cheese is melted and bubbly.",
+    "7. Remove the tacos from the oven and top with shredded Jack cheese, sour cream, and salsa.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "cheesy",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-crispy-agemono-mexican-monterey-jack-cheese-tacos--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T17:03:55.307Z"
+}
