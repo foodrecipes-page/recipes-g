@@ -1,0 +1,98 @@
+{
+  "slug": "gourmet-earthy-vietnamese-beef-bo-kho--italian",
+  "title": "Grilled Beef Bo Kho",
+  "description": "A twist on the classic Vietnamese beef stew, this Italian-inspired recipe features a rich and flavorful bo kho served with a side of crusty bread.",
+  "cuisine": "italian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef bo",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "earthly mushrooms",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "gourmet beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "vietnamese fish sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "kho spices",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "onions",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large Dutch oven over medium-high heat.",
+    "Add the beef bo and cook until browned, about 5 minutes.",
+    "Remove the beef from the pot and set it aside.",
+    "Add the remaining 1 tablespoon of olive oil to the pot, then add the sliced onions.",
+    "Cook the onions until they are softened and lightly browned, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes.",
+    "Add the mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the beef broth, fish sauce, and kho spices to the pot.",
+    "Return the beef to the pot and bring the mixture to a simmer.",
+    "Reduce the heat to low and cook, covered, until the beef is tender, about 2 1/2 hours.",
+    "Season the bo kho with salt and black pepper to taste.",
+    "Serve the bo kho hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "vietnamese",
+    "beef",
+    "stew",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 53,
+    "carbs": 24,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gourmet-earthy-vietnamese-beef-bo-kho--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T07:34:02.940Z"
+}
