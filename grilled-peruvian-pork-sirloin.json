@@ -1,0 +1,83 @@
+{
+  "slug": "grilled-peruvian-pork-sirloin",
+  "title": "Peruvian Grilled Sirloin",
+  "description": "A Peruvian-inspired grilled sirloin recipe with a mix of spices and herbs.",
+  "cuisine": "Peruvian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sirloin steak",
+      "amount": "1.5 pounds",
+      "notes": "preferably 1.5-2 inches thick"
+    },
+    {
+      "name": "Peruvian aji amarillo paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F/200°C).",
+    "In a small bowl, mix together aji amarillo paste, garlic powder, ground cumin, paprika, salt, and black pepper.",
+    "Brush the sirloin steak with olive oil and season with the spice mixture.",
+    "Grill the sirloin steak for 5-7 minutes per side, or until it reaches an internal temperature of 135°F (57°C) for medium-rare.",
+    "Let the steak rest for 5 minutes before slicing.",
+    "Garnish with chopped cilantro and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "peruvian",
+    "sirloin"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 60,
+    "carbs": 0,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grilled-peruvian-pork-sirloin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T11:10:57.638Z"
+}
