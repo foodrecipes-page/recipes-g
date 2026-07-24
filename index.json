@@ -11982,10 +11982,16 @@
   },
   {
     "slug": "gooey-russian-baked-beans-casserole",
-    "title": "Gooey Russian Baked Beans Casserole",
-    "tags": [],
-    "cuisine": "Russian",
-    "totalTimeMin": null,
+    "title": "Baked Bean Casserole",
+    "tags": [
+      "beef",
+      "cheese",
+      "casserole",
+      "comfort-food",
+      "easy-meal"
+    ],
+    "cuisine": "american",
+    "totalTimeMin": 50,
     "shard": "g"
   },
   {
@@ -14260,16 +14266,14 @@
   },
   {
     "slug": "grilled-peruvian-pork-sirloin",
-    "title": "Grilled Peruvian Pork Sirloin",
+    "title": "Peruvian Grilled Sirloin",
     "tags": [
       "grilled",
-      "one-pan",
       "peruvian",
-      "pork",
-      "weeknight"
+      "sirloin"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 27,
     "shard": "g"
   },
   {
@@ -17107,6 +17111,19 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
+    "slug": "golden-crispy-mediterranean-white-bread-croquettes--french",
+    "title": "French Croque Monsieur",
+    "tags": [
+      "french",
+      "grilled-cheese",
+      "lunch",
+      "sandwich"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 11,
     "shard": "g"
   }
 ]
