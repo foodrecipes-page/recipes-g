@@ -8243,17 +8243,16 @@
   },
   {
     "slug": "gloriously-juicy-norwegian-apple-puff",
-    "title": "Gloriously Juicy Norwegian Apple Puff",
+    "title": "Pan-Seared Norwegian Apple Puff",
     "tags": [
-      "apple-dish",
-      "flexitarian",
       "norwegian",
-      "post-workout",
-      "puff-pastry",
-      "snack-time"
+      "apple",
+      "puff",
+      "dessert",
+      "pastry"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 55,
+    "cuisine": "Scandinavian",
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {
@@ -17034,6 +17033,58 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 22,
+    "shard": "g"
+  },
+  {
+    "slug": "gooey-american-garlic-sumac-stir-fry--vegan",
+    "title": "Vegan Gooey Garlic Stir Fry",
+    "tags": [
+      "vegan",
+      "stir-fry",
+      "garlic",
+      "easy"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 15,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-ukrainian-garlic-borscht-air-fry--vegan",
+    "title": "Vegan Ukrainian Borscht",
+    "tags": [
+      "soup",
+      "beet",
+      "ukrainian",
+      "vegan"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 50,
+    "shard": "g"
+  },
+  {
+    "slug": "gooey-sour-egyptian-olives-tagine--mexican",
+    "title": "Spicy Mexican Tagine Stew",
+    "tags": [
+      "mexican",
+      "stew",
+      "vegetarian",
+      "spicy"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
+    "shard": "g"
+  },
+  {
+    "slug": "golden-glazed-argentinian-kabocha-gratin--mexican",
+    "title": "Kabocha Squash Tacos with Argentinian Salsa",
+    "tags": [
+      "mexican",
+      "vegetarian",
+      "gluten-free",
+      "tacos"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 50,
     "shard": "g"
   }
 ]
