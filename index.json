@@ -660,18 +660,15 @@
   },
   {
     "slug": "garlicky-aerated-german-dish-paella",
-    "title": "Garlicky Aerated German Paella in Scallop Shells",
+    "title": "Garlicky Paella",
     "tags": [
-      "german",
-      "keto",
-      "low-carb",
-      "one-pan",
-      "seafood",
-      "show-off",
-      "weeknight"
+      "spanish",
+      "paella",
+      "garlic",
+      "veggie"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 50,
+    "cuisine": "Spanish",
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {
@@ -16922,6 +16919,20 @@
       "bacon"
     ],
     "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
+    "slug": "golden-grilled-greek-lamb-skewers--indian",
+    "title": "Lamb Skewers with Greek Yogurt Sauce",
+    "tags": [
+      "indian",
+      "lamb",
+      "skewers",
+      "greek-yogurt",
+      "grilled"
+    ],
+    "cuisine": "indian",
     "totalTimeMin": 25,
     "shard": "g"
   }
