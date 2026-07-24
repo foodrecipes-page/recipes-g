@@ -1,0 +1,78 @@
+{
+  "slug": "golden-syrup-infused-mediterranean-gooey-bake",
+  "title": "Golden Syrup Mediterranean Cake",
+  "description": "Moist and flavorful cake infused with the sweetness of golden syrup and the Mediterranean twist of herbs.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups"
+    },
+    {
+      "name": "golden syrup",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "infused olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "mediterranean herbs (dried)",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "bake powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C). Grease two 8-inch round cake pans and line the bottoms with parchment paper.",
+    "In a medium bowl, whisk together flour, mediterranean herbs, bake powder, and salt.",
+    "In a large mixing bowl, whisk together golden syrup and infused olive oil.",
+    "Add eggs one by one, whisking well after each addition.",
+    "Whisk in yogurt.",
+    "Gradually add the dry ingredients to the wet ingredients and mix until just combined.",
+    "Divide the batter evenly between the prepared pans and smooth the tops.",
+    "Bake for 25-30 minutes or until a toothpick inserted in the center comes out clean.",
+    "Remove from the oven and let cool in the pans for 5 minutes.",
+    "Transfer to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cake",
+    "mediterranean",
+    "golden syrup",
+    "herbs"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-syrup-infused-mediterranean-gooey-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T04:08:44.388Z"
+}
