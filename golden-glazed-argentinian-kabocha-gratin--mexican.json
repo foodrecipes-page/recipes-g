@@ -1,0 +1,83 @@
+{
+  "slug": "golden-glazed-argentinian-kabocha-gratin--mexican",
+  "title": "Kabocha Squash Tacos with Argentinian Salsa",
+  "description": "A flavorful mexican dish featuring roasted kabocha squash and a tangy argentinian salsa, served in tacos with a crunchy golden topping.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Argentinian Salsa",
+      "amount": "1 cup",
+      "notes": "Homemade salsa with diced tomatoes, onions, jalapenos, cilantro, lime juice, and olive oil"
+    },
+    {
+      "name": "Kabocha Squash",
+      "amount": "1 medium",
+      "notes": "Roasted and diced"
+    },
+    {
+      "name": "Golden Topping",
+      "amount": "1/2 cup",
+      "notes": "Crushed tortilla chips with a sprinkle of cotija cheese"
+    },
+    {
+      "name": "Glazed Tortillas",
+      "amount": "4-6",
+      "notes": "Grilled and slightly charred"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": "Squeezed for serving"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": "For roasting squash"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": "Seasoning for squash"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the kabocha squash in half and scoop out seeds. Roast in the oven for 30 minutes, or until tender.",
+    "While the squash is roasting, grill the tortillas for a few minutes on each side, until slightly charred.",
+    "Dice the roasted squash and mix with the homemade argentinian salsa.",
+    "Warm the grilled tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the squash and salsa mixture onto a warmed tortilla, followed by a sprinkle of cilantro and a squeeze of lime juice.",
+    "Top with crushed tortilla chips and a sprinkle of cotija cheese."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "vegetarian",
+    "gluten-free",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-glazed-argentinian-kabocha-gratin--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T09:14:21.626Z"
+}
