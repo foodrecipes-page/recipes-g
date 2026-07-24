@@ -1,0 +1,96 @@
+{
+  "slug": "gently-smoked-vietnamese-pork-bun-thit-nuong--indian",
+  "title": "Vietnamese-Style Pork Bun",
+  "description": "A fusion of Vietnamese and Indian flavors, this dish combines the richness of smoked pork with the warmth of Indian spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "smoked pork",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "bun",
+      "amount": "1 package",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "vietnamese nuong sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "indian garam masala",
+      "amount": "1 teaspoon",
+      "notes": "add to nuong sauce"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1/2 teaspoon",
+      "notes": "roast before grinding"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1/2 teaspoon",
+      "notes": "add to nuong sauce"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/4 teaspoon",
+      "notes": "add to nuong sauce"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "add to nuong sauce"
+    },
+    {
+      "name": "green chilies",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "add to nuong sauce"
+    }
+  ],
+  "instructions": [
+    "Roast cumin seeds in a dry pan over medium heat until fragrant.",
+    "Grind roasted cumin seeds into a fine powder.",
+    "In a large bowl, combine ground cumin, coriander powder, turmeric powder, and salt.",
+    "Add sliced pork to the bowl and mix well to coat with spice mixture.",
+    "Heat a large skillet over medium-high heat and add pork mixture. Cook until pork is browned and cooked through.",
+    "Meanwhile, cook bun according to package instructions.",
+    "In a small bowl, mix together nuong sauce, lemon juice, and ground cumin.",
+    "To assemble, place a portion of cooked pork onto a bun, followed by a drizzle of nuong sauce mixture.",
+    "Garnish with diced green chilies and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "vietnamese",
+    "fusion",
+    "lunch",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gently-smoked-vietnamese-pork-bun-thit-nuong--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T04:45:26.016Z"
+}
