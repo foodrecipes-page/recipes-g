@@ -14192,16 +14192,15 @@
   },
   {
     "slug": "grilled-juicy-salty-chestnut-stir-fry",
-    "title": "Grilled Juicy Salty Chestnut Stir-fry",
+    "title": "Pan-Seared Chestnut Cutlets",
     "tags": [
-      "grilled",
-      "juicy",
-      "salty",
+      "chicken",
       "chestnut",
-      "korean"
+      "italian",
+      "parmesan"
     ],
-    "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "cuisine": "italian",
+    "totalTimeMin": 30,
     "shard": "g"
   },
   {
