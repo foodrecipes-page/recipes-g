@@ -1,0 +1,95 @@
+{
+  "slug": "garnished-asian-vietnamese-rice-noodle-fresh-spring-rolls--italian",
+  "title": "Vietnamese Spring Rolls with Rice Noodle Salad",
+  "description": "A fusion of Vietnamese and Italian flavors, these spring rolls are served with a refreshing rice noodle salad.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "spring rolls",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "rice noodle",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "fresh herbs",
+      "amount": "1 bunch",
+      "notes": "such as basil and mint"
+    },
+    {
+      "name": "grated carrot",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "grated zucchini",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "peanut butter",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Cook rice noodle according to package instructions.",
+    "Chop fresh herbs and set aside.",
+    "Grate carrot and zucchini and set aside.",
+    "In a small bowl, whisk together peanut butter, soy sauce, rice vinegar, sugar, and salt.",
+    "Add grated carrot and zucchini to the peanut butter mixture and stir to combine.",
+    "Add cooked rice noodle to the peanut butter mixture and stir to combine.",
+    "Add chopped fresh herbs to the peanut butter mixture and stir to combine.",
+    "Fill spring rolls with the peanut butter noodle mixture.",
+    "Serve spring rolls with additional fresh herbs on top.",
+    "Enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "vietnamese",
+    "spring-rolls",
+    "noodle-salad"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garnished-asian-vietnamese-rice-noodle-fresh-spring-rolls--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T22:04:12.411Z"
+}
