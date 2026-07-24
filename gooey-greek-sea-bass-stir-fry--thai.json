@@ -1,0 +1,79 @@
+{
+  "slug": "gooey-greek-sea-bass-stir-fry--thai",
+  "title": "Thai Sea Bass Stir Fry",
+  "description": "A quick and flavorful Thai-inspired stir fry made with sea bass, gooey sauce, and a blend of aromatic spices.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sea Bass Fillets",
+      "amount": "4",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Gooey Sauce",
+      "amount": "2 tbsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Thai Basil",
+      "amount": "1 cup",
+      "notes": "Fresh leaves"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": "For frying"
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "1 tbsp",
+      "notes": "Optional for serving"
+    }
+  ],
+  "instructions": [
+    "1. Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "2. Add the garlic and ginger and stir-fry for 1 minute until fragrant.",
+    "3. Add the sea bass fillets and cook for 3-4 minutes per side or until cooked through.",
+    "4. Remove the sea bass from the skillet and set aside.",
+    "5. In the same skillet, add the remaining 1 tablespoon of vegetable oil and stir-fry the Thai basil until wilted.",
+    "6. Add the gooey sauce to the skillet and stir-fry for 1 minute until combined with the basil.",
+    "7. Return the sea bass to the skillet and toss to coat with the sauce.",
+    "8. Serve the sea bass hot, garnished with additional Thai basil if desired.",
+    "9. Optional: Top with a dollop of Greek yogurt and a sprinkle of chopped cilantro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "seafood",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-greek-sea-bass-stir-fry--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T07:59:02.962Z"
+}
