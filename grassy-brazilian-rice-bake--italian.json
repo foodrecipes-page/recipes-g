@@ -1,0 +1,77 @@
+{
+  "slug": "grassy-brazilian-rice-bake--italian",
+  "title": "Brazilian Chicken Bake",
+  "description": "A Brazilian-inspired Italian dish featuring chicken, rice, and a hint of grassy flavor.",
+  "cuisine": "italian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Brazilian chicken breast",
+      "amount": "1 lb",
+      "notes": " boneless, skinless"
+    },
+    {
+      "name": "White rice",
+      "amount": "2 cups",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Grassy olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Bake seasoning",
+      "amount": "1 tsp",
+      "notes": "dried oregano, basil, thyme"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Rinse and season the chicken with salt, black pepper, and bake seasoning.",
+    "In a large skillet, heat the grassy olive oil over medium-high heat.",
+    "Sear the chicken for 2-3 minutes per side, or until browned.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until cooked through.",
+    "While the chicken is cooking, prepare the rice according to package instructions.",
+    "Once the chicken is done, let it rest for 5 minutes before slicing.",
+    "Serve with the cooked rice and garnish with additional grassy olive oil if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "chicken",
+    "brazilian",
+    "rice",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grassy-brazilian-rice-bake--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T10:27:56.951Z"
+}
