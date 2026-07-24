@@ -1,0 +1,87 @@
+{
+  "slug": "golden-grilled-greek-lamb-skewers--indian",
+  "title": "Lamb Skewers with Greek Yogurt Sauce",
+  "description": "A classic Indian-inspired dish featuring tender lamb skewers served with a cool and creamy Greek yogurt sauce.",
+  "cuisine": "indian",
+  "diet": [
+    "gluten-free",
+    "vegetarian-no",
+    "low-carb-no"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "500g",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Golden Greek yogurt",
+      "amount": "250g",
+      "notes": "for serving"
+    },
+    {
+      "name": "Ghee or vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together garam masala, cumin powder, chili powder, and salt.",
+    "Add the lamb cubes to the bowl and toss to coat with the spice mixture.",
+    "Thread the lamb onto skewers, leaving a little space between each piece.",
+    "Brush the skewers with ghee or oil and season with salt.",
+    "Grill the lamb skewers for 8-10 minutes, turning occasionally, or until cooked through.",
+    "Meanwhile, mix together the Greek yogurt and a pinch of salt in a small bowl.",
+    "Serve the lamb skewers with the yogurt sauce for dipping.",
+    "Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "lamb",
+    "skewers",
+    "greek-yogurt",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-grilled-greek-lamb-skewers--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T23:38:49.437Z"
+}
