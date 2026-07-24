@@ -1,0 +1,71 @@
+{
+  "slug": "gloriously-juicy-norwegian-apple-puff",
+  "title": "Pan-Seared Norwegian Apple Puff",
+  "description": "A simple dessert recipe that combines the crunch of puff pastry with the sweetness of Norwegian apples. This treat is perfect for snacking or as a light dessert.",
+  "cuisine": "Scandinavian",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Puff pastry, thawed",
+      "amount": "1 sheet (9x14 inches)"
+    },
+    {
+      "name": "Norwegian apple, peeled and sliced",
+      "amount": "2 medium apples"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Freshly ground cinnamon",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Unsalted butter, melted",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Egg, beaten (for egg wash)",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C). Line a baking sheet with parchment paper.",
+    "2. Roll out the puff pastry on a lightly floured surface to a 12x16-inch rectangle.",
+    "3. In a small bowl, mix together the sliced apples, granulated sugar, and cinnamon.",
+    "4. Arrange the apple mixture in the center of the puff pastry, leaving a 1-inch border around the edges.",
+    "5. Brush the edges of the pastry with the melted butter.",
+    "6. Fold the 1-inch border over the apples to seal the pastry, pressing gently to adhere.",
+    "7. Brush the top of the pastry with the beaten egg for a golden glaze.",
+    "8. Use a sharp knife to create a decorative edge around the pastry.",
+    "9. Place the pastry on the prepared baking sheet and bake for 25-30 minutes, or until golden brown.",
+    "10. Remove from the oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "apple",
+    "puff",
+    "dessert",
+    "pastry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gloriously-juicy-norwegian-apple-puff",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T09:07:36.081Z"
+}
