@@ -1,0 +1,72 @@
+{
+  "slug": "garlicky-croatian-flatbread-dough--vegan",
+  "title": "Vegan Croatian Flatbread",
+  "description": "A simple flatbread recipe from Croatia, adapted to be vegan, using garlicky flavors.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Dough",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Garlicky oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Warm water",
+      "amount": "3/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the dough, garlicky oil, garlic, salt, sugar, and warm water. Mix until a smooth dough forms.",
+    "2. Knead the dough for 5-7 minutes until it becomes elastic.",
+    "3. Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "4. Preheat a non-stick skillet or griddle over medium heat.",
+    "5. Divide the dough into 4-6 equal pieces, depending on the desired size.",
+    "6. Roll out each piece into a thin circle.",
+    "7. Place the flatbread in the skillet or griddle and cook for 1-2 minutes on each side, until golden brown.",
+    "8. Brush with additional garlicky oil and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "flatbread",
+    "croatian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-croatian-flatbread-dough--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T01:14:27.286Z"
+}
