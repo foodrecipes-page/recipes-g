@@ -1,0 +1,78 @@
+{
+  "slug": "green-pepper-wrap--italian",
+  "title": "Italian Pepper Wrap",
+  "description": "A simple Italian-inspired wrap filled with sautéed peppers and served in a warm tortilla.",
+  "cuisine": "italian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "green pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "wrap",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "basil",
+      "amount": "fresh leaves",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat olive oil in a pan over medium heat.",
+    "2. Add minced garlic and sauté for 1-2 minutes.",
+    "3. Add sliced green pepper and sauté for 3-4 minutes.",
+    "4. Season with salt and pepper to taste.",
+    "5. Warm a wrap in the microwave or in a dry pan.",
+    "6. Fill the wrap with the sautéed pepper mixture.",
+    "7. Top with fresh basil leaves.",
+    "8. Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "pepper",
+    "wrap",
+    "lunch",
+    "easy",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/green-pepper-wrap--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T01:20:33.642Z"
+}
