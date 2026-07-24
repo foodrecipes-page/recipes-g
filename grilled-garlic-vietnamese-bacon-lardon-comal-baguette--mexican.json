@@ -1,0 +1,73 @@
+{
+  "slug": "grilled-garlic-vietnamese-bacon-lardon-comal-baguette--mexican",
+  "title": "Grilled Lardon and Bacon Baguette",
+  "description": "A twist on the classic Mexican street food, this grilled baguette is filled with crispy lardon and bacon.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Baguette",
+      "amount": "1",
+      "notes": "preferably day-old baguette"
+    },
+    {
+      "name": "Lardon",
+      "amount": "6 slices",
+      "notes": "thick-cut bacon"
+    },
+    {
+      "name": "Bacon",
+      "amount": "4 slices",
+      "notes": "thick-cut bacon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Grilled",
+      "amount": "null",
+      "notes": "as needed"
+    },
+    {
+      "name": "Comal or grill",
+      "amount": "null",
+      "notes": "for toasting baguette"
+    }
+  ],
+  "instructions": [
+    "Preheat comal or grill to medium-high heat.",
+    "Slice the baguette in half lengthwise.",
+    "Place the baguette on the comal or grill and toast until lightly browned.",
+    "In a pan, cook the lardon and bacon over medium heat until crispy.",
+    "Remove the lardon and bacon from the pan and set aside.",
+    "Add the minced garlic to the pan and cook for 1 minute.",
+    "Assemble the baguette by spreading the garlic on the bottom half, followed by the lardon and bacon.",
+    "Top with the top half of the baguette.",
+    "Cut the baguette in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "grilled",
+    "bacon"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grilled-garlic-vietnamese-bacon-lardon-comal-baguette--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T23:28:54.717Z"
+}
