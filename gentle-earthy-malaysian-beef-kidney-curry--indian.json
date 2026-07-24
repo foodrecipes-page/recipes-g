@@ -1,0 +1,89 @@
+{
+  "slug": "gentle-earthy-malaysian-beef-kidney-curry--indian",
+  "title": "Kidney Beef Curry",
+  "description": "A flavorful Indian-inspired curry made with tender beef and kidney, in a rich and aromatic sauce.",
+  "cuisine": "indian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef kidney",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "malaysian curry powder",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "gentle vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "curry leaves",
+      "amount": "1 sprig",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add ginger and cook for 1 minute.",
+    "Add beef and cook until browned, about 5 minutes.",
+    "Add curry powder and cook for 1 minute.",
+    "Add beef kidney and cook until browned, about 5 minutes.",
+    "Add curry leaves and salt.",
+    "Add water and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 1 hour, or until the meat is tender.",
+    "Serve hot, garnished with curry leaves."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "curry",
+    "indian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gentle-earthy-malaysian-beef-kidney-curry--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T21:30:18.515Z"
+}
