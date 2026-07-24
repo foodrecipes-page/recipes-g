@@ -16912,5 +16912,17 @@
     "cuisine": "Chinese",
     "totalTimeMin": 25,
     "shard": "g"
+  },
+  {
+    "slug": "grilled-garlic-vietnamese-bacon-lardon-comal-baguette--mexican",
+    "title": "Grilled Lardon and Bacon Baguette",
+    "tags": [
+      "mexican",
+      "grilled",
+      "bacon"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "g"
   }
 ]
