@@ -1,0 +1,67 @@
+{
+  "slug": "garlicky-flaky-canadian-dried-shrimp-bake",
+  "title": "Shrimp Bake",
+  "description": "A simple and flavorful shrimp bake recipe that's perfect for a quick weeknight dinner.",
+  "cuisine": null,
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "garlicky bread",
+      "amount": "1 baguette, cut into 1-inch pieces",
+      "notes": ""
+    },
+    {
+      "name": "flaky butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "dried parsley",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "canadian cheese",
+      "amount": "1 cup, shredded",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, combine shrimp, flaky butter, and a pinch of salt and pepper. Toss to coat.",
+    "Place the shrimp mixture onto the cut bread pieces, making sure to leave a small border around each piece.",
+    "Sprinkle shredded cheese over the shrimp.",
+    "Transfer the bread pieces to a baking sheet lined with parchment paper.",
+    "Bake for 10-12 minutes, or until the cheese is melted and bubbly.",
+    "Sprinkle dried parsley over the top and serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "shrimp",
+    "bake",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-flaky-canadian-dried-shrimp-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T09:54:02.155Z"
+}
