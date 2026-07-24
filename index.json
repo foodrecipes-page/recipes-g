@@ -633,12 +633,11 @@
   },
   {
     "slug": "garlicky-aerated-egyptian-beans-stir-fry",
-    "title": "Garlicky Aerated Egyptian Beans Stir-Fry",
+    "title": "Egyptian Fry-Up",
     "tags": [
-      "gluten-free",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "egyptian",
+      "breakfast",
+      "vegetarian"
     ],
     "cuisine": "Egyptian",
     "totalTimeMin": 25,
@@ -16934,6 +16933,46 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-croatian-flatbread-dough--vegan",
+    "title": "Vegan Croatian Flatbread",
+    "tags": [
+      "vegan",
+      "flatbread",
+      "croatian"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
+    "slug": "green-pepper-wrap--italian",
+    "title": "Italian Pepper Wrap",
+    "tags": [
+      "italian",
+      "pepper",
+      "wrap",
+      "lunch",
+      "easy",
+      "quick"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 15,
+    "shard": "g"
+  },
+  {
+    "slug": "glazed-crispy-mexican-kale-bake--indian",
+    "title": "Crispy Kale with Glazed Mexican Bake",
+    "tags": [
+      "indian",
+      "side-dish",
+      "crispy",
+      "glazed"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
     "shard": "g"
   }
 ]
