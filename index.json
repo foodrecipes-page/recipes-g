@@ -10404,17 +10404,15 @@
   },
   {
     "slug": "golden-syrup-infused-mediterranean-gooey-bake",
-    "title": "Golden Syrup Infused Mediterranean Gooey Bake",
+    "title": "Golden Syrup Mediterranean Cake",
     "tags": [
-      "high-calorie",
+      "cake",
       "mediterranean",
-      "one-pan",
-      "savory",
-      "sweet",
-      "weeknight"
+      "golden syrup",
+      "herbs"
     ],
-    "cuisine": "mediterranean",
-    "totalTimeMin": 50,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 45,
     "shard": "g"
   },
   {
@@ -16985,6 +16983,20 @@
     ],
     "cuisine": "Mexican",
     "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
+    "slug": "gently-smoked-vietnamese-pork-bun-thit-nuong--indian",
+    "title": "Vietnamese-Style Pork Bun",
+    "tags": [
+      "indian",
+      "vietnamese",
+      "fusion",
+      "lunch",
+      "pork"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
     "shard": "g"
   }
 ]
