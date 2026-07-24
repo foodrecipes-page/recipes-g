@@ -1,0 +1,81 @@
+{
+  "slug": "gently-springy-dutch-bottarga-pilaf--vegetarian",
+  "title": "Dutch Spring Vegetable Pilaf",
+  "description": "A hearty and flavorful vegetarian pilaf dish featuring a medley of spring vegetables.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "spring onion",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "dutch baby bell peppers",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "pilaf rice mix",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add diced spring onion and cook for 1-2 minutes until translucent.",
+    "Add sliced carrots and cook for an additional 3-4 minutes until tender.",
+    "Add sliced bell peppers and cook for 2-3 minutes until they start to soften.",
+    "Add pilaf rice mix and stir to combine with vegetables.",
+    "Cook for 2-3 minutes until rice is lightly toasted.",
+    "Add 2 cups of water to the skillet and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15-20 minutes or until rice is cooked and liquid is absorbed.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spring",
+    "vegetarian",
+    "pilaf",
+    "rice",
+    "bell-peppers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gently-springy-dutch-bottarga-pilaf--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T21:53:21.649Z"
+}
