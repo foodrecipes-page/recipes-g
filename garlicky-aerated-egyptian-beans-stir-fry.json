@@ -1,0 +1,66 @@
+{
+  "slug": "garlicky-aerated-egyptian-beans-stir-fry",
+  "title": "Egyptian Fry-Up",
+  "description": "A hearty and flavorful breakfast dish inspired by Egyptian cuisine. This recipe combines crispy fried eggs with spicy garlicky beans and a side of stir-fried vegetables.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": "cracked"
+    },
+    {
+      "name": "garlicky beans",
+      "amount": "1 cup",
+      "notes": "canned or cooked from scratch"
+    },
+    {
+      "name": "stir-fry vegetables",
+      "amount": "2 cups",
+      "notes": "such as bell peppers, onions, and mushrooms"
+    },
+    {
+      "name": "aerated flour",
+      "amount": "1/2 cup",
+      "notes": "for dusting eggs"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons",
+      "notes": "vegetable or canola oil for frying"
+    }
+  ],
+  "instructions": [
+    "Dust eggs with aerated flour.",
+    "Heat oil in a large skillet over medium-high heat.",
+    "Crack eggs into the skillet and fry until the whites are set and the yolks are cooked to your desired doneness.",
+    "Add garlicky beans to the skillet and stir to combine with eggs.",
+    "Add stir-fry vegetables to the skillet and stir-fry until they are tender-crisp.",
+    "Season with salt and pepper to taste.",
+    "Serve the Egyptian Fry-Up hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egyptian",
+    "breakfast",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-aerated-egyptian-beans-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T00:44:20.777Z"
+}
