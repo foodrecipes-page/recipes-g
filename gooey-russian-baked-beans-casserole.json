@@ -1,0 +1,79 @@
+{
+  "slug": "gooey-russian-baked-beans-casserole",
+  "title": "Baked Bean Casserole",
+  "description": "A simple and comforting casserole made with baked beans, gooey cheese, and a hint of russian spices.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "canned baked beans",
+      "amount": "1 (28 ounce) can",
+      "notes": ""
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "russian dressing",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "russet potatoes",
+      "amount": "3 large",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Brown the ground beef in a large skillet over medium-high heat.",
+    "Drain the excess fat and stir in the russian dressing.",
+    "In a separate pot, boil the diced potatoes until tender.",
+    "In a large mixing bowl, combine the baked beans, cooked potatoes, ground beef mixture, and shredded cheese.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Bake for 25-30 minutes, or until the cheese is bubbly and the casserole is heated through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "beef",
+    "cheese",
+    "casserole",
+    "comfort-food",
+    "easy-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-russian-baked-beans-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T11:06:57.611Z"
+}
