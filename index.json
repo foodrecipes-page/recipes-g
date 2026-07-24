@@ -16846,5 +16846,71 @@
     "cuisine": "italian",
     "totalTimeMin": 40,
     "shard": "g"
+  },
+  {
+    "slug": "gentle-earthy-malaysian-beef-kidney-curry--indian",
+    "title": "Kidney Beef Curry",
+    "tags": [
+      "beef",
+      "curry",
+      "indian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 75,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-gooey-ethiopian-injera-dulet--keto",
+    "title": "Keto Ethiopian-Inspired Dulet Stew",
+    "tags": [
+      "keto",
+      "ethiopian",
+      "stew",
+      "dulet",
+      "injera"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 50,
+    "shard": "g"
+  },
+  {
+    "slug": "gently-springy-dutch-bottarga-pilaf--vegetarian",
+    "title": "Dutch Spring Vegetable Pilaf",
+    "tags": [
+      "spring",
+      "vegetarian",
+      "pilaf",
+      "rice",
+      "bell-peppers"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
+    "slug": "garnished-asian-vietnamese-rice-noodle-fresh-spring-rolls--italian",
+    "title": "Vietnamese Spring Rolls with Rice Noodle Salad",
+    "tags": [
+      "italian",
+      "vietnamese",
+      "spring-rolls",
+      "noodle-salad"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
+    "slug": "glowing-chinese-tofu-kung-pao--keto",
+    "title": "Glowing Kung Pao Chicken Tofu",
+    "tags": [
+      "keto",
+      "chicken",
+      "tofu",
+      "stir-fry"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
+    "shard": "g"
   }
 ]
