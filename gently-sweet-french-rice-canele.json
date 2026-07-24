@@ -1,0 +1,68 @@
+{
+  "slug": "gently-sweet-french-rice-canele",
+  "title": "French Caneles",
+  "description": "A classic French dessert originating from Bordeaux, these small cakes are made with a rich custard base and a delicate, caramelized crust. They are a traditional treat, typically baked in small copper molds and served warm.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Rice Flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Large Eggs",
+      "amount": "4"
+    },
+    {
+      "name": "Sweet Canele Syrup",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Unsalted Butter, melted",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Pure Vanilla Extract",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Prepare a 12-cup canele mold.",
+    "In a medium bowl, whisk together the rice flour and granulated sugar.",
+    "In a large bowl, whisk together the eggs, canele syrup, and melted butter.",
+    "Add the vanilla extract and whisk to combine.",
+    "Add the dry ingredients to the wet ingredients and whisk until smooth.",
+    "Pour the batter into the prepared mold, filling each cup about 3/4 of the way full.",
+    "Bake for 15-20 minutes, or until the edges are golden brown and the centers are set.",
+    "Allow the canele to cool in the mold for 5 minutes, then transfer them to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "dessert",
+    "canele"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gently-sweet-french-rice-canele",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T06:26:30.525Z"
+}
