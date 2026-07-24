@@ -1,0 +1,81 @@
+{
+  "slug": "glowing-chinese-tofu-kung-pao--keto",
+  "title": "Glowing Kung Pao Chicken Tofu",
+  "description": "A keto twist on the classic Chinese dish, featuring chicken, tofu, and a spicy sauce.",
+  "cuisine": "Chinese",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "cut into small cubes"
+    },
+    {
+      "name": "glowing oil",
+      "amount": "2 tbsp",
+      "notes": "use a neutral-tasting oil"
+    },
+    {
+      "name": "pao sauce",
+      "amount": "1/4 cup",
+      "notes": "make sure it's keto-friendly"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "sugar substitute",
+      "amount": "1 tsp",
+      "notes": "such as stevia or erythritol"
+    }
+  ],
+  "instructions": [
+    "Heat the glowing oil in a wok or large skillet over medium-high heat.",
+    "Add the chicken and cook until browned, about 5-7 minutes.",
+    "Add the tofu and cook until golden brown, about 3-5 minutes.",
+    "Add the pao sauce, scallions, garlic, and ginger. Cook for 1-2 minutes.",
+    "Stir in the sugar substitute and cook for an additional 30 seconds.",
+    "Serve hot, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "chicken",
+    "tofu",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 5,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/glowing-chinese-tofu-kung-pao--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T22:06:17.149Z"
+}
