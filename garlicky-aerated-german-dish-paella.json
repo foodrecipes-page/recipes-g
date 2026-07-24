@@ -1,0 +1,79 @@
+{
+  "slug": "garlicky-aerated-german-dish-paella",
+  "title": "Garlicky Paella",
+  "description": "A classic Spanish dish with a twist of garlic flavor. Perfect for a dinner party.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "garlicky saffron rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "german sausage",
+      "amount": "1 pound, sliced",
+      "notes": "look for a vegan alternative if needed"
+    },
+    {
+      "name": "aerated vegetable broth",
+      "amount": "2 cups",
+      "notes": "low-sodium option recommended"
+    },
+    {
+      "name": "dish tomatoes",
+      "amount": "1 can, diced"
+    },
+    {
+      "name": "paella seasoning",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the sliced sausage and cook until browned, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the diced tomatoes, paella seasoning, and smoked paprika. Stir to combine.",
+    "Add the aerated vegetable broth and bring the mixture to a boil.",
+    "Add the garlicky saffron rice to the pan and stir to combine.",
+    "Reduce the heat to low and simmer, uncovered, for 20-25 minutes or until the rice is cooked and the liquid has been absorbed.",
+    "Remove from heat and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "paella",
+    "garlic",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-aerated-german-dish-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T23:45:29.416Z"
+}
