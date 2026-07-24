@@ -1,0 +1,88 @@
+{
+  "slug": "gingerly-peppery-thai-tofu-pad-thai--mexican",
+  "title": "Spicy Pad Thai Tacos",
+  "description": "A fusion of Mexican and Thai flavors, these Spicy Pad Thai Tacos are a unique twist on traditional tacos. Crispy tacos shells are filled with spicy stir-fried noodles, crunchy vegetables, and savory tofu.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "gingerly Thai rice noodles",
+      "amount": "8 oz",
+      "notes": "found at most Asian markets"
+    },
+    {
+      "name": "peppery Thai chili peppers",
+      "amount": "2",
+      "notes": "dried or fresh"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "firm or soft, whichever you prefer"
+    },
+    {
+      "name": "pad Thai sauce",
+      "amount": "2 tbsp",
+      "notes": "found at most Asian markets"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "Mexican spice blend"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "cilantro",
+      "amount": "handful",
+      "notes": "for garnish"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10",
+      "notes": "corn or flour, whichever you prefer"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet or wok over medium-high heat.",
+    "Add 1 tablespoon of oil and swirl it around.",
+    "Add the tofu and cook for 2-3 minutes on each side.",
+    "Remove the tofu from the skillet and set it aside.",
+    "Add the remaining 1 tablespoon of oil and swirl it around.",
+    "Add the Thai chili peppers and cook for 1 minute.",
+    "Add the gingerly Thai rice noodles and cook for 2-3 minutes.",
+    "Add the pad Thai sauce, cumin, and lime juice.",
+    "Stir-fry everything together for 1-2 minutes.",
+    "Add the cooked tofu back into the skillet and stir-fry for another minute.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the noodle mixture into the tortillas.",
+    "Garnish with cilantro and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pad-thai",
+    "mexican",
+    "tacos",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gingerly-peppery-thai-tofu-pad-thai--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T03:39:00.386Z"
+}
