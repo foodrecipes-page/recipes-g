@@ -1,0 +1,66 @@
+{
+  "slug": "grilled-juicy-salty-chestnut-stir-fry",
+  "title": "Pan-Seared Chestnut Cutlets",
+  "description": "A simple and flavorful dish featuring pan-seared cutlets with a crunchy chestnut crust.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken cutlets",
+      "amount": "4"
+    },
+    {
+      "name": "chopped chestnuts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grated parmesan",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Season the chicken cutlets with salt.",
+    "Heat a pan over medium-high heat and add butter.",
+    "Sear the chicken cutlets for 3-4 minutes on each side, or until cooked through.",
+    "Meanwhile, mix chopped chestnuts with parmesan and a pinch of salt.",
+    "Add the chestnut mixture to the pan and cook for an additional minute, stirring constantly.",
+    "Serve the chicken cutlets topped with the chestnut crust and garnish with parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "chestnut",
+    "italian",
+    "parmesan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grilled-juicy-salty-chestnut-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T02:24:42.571Z"
+}
