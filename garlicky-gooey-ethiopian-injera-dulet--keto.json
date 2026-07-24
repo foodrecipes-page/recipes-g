@@ -1,0 +1,86 @@
+{
+  "slug": "garlicky-gooey-ethiopian-injera-dulet--keto",
+  "title": "Keto Ethiopian-Inspired Dulet Stew",
+  "description": "A keto twist on traditional Ethiopian dulet stew, made with garlicky and gooey goodness, and served with injera bread.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "garlicky sausages",
+      "amount": "4",
+      "notes": "look for low-carb, high-fat options"
+    },
+    {
+      "name": "injera bread",
+      "amount": "4 slices",
+      "notes": "for serving"
+    },
+    {
+      "name": "goey cheese",
+      "amount": "8 oz",
+      "notes": "such as mozzarella or feta"
+    },
+    {
+      "name": "dulet spice blend",
+      "amount": "2 tsp",
+      "notes": "or make your own using paprika, cumin, and coriander"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 lb",
+      "notes": "or alternative high-fat protein source"
+    }
+  ],
+  "instructions": [
+    "1. Heat the olive oil in a large pan over medium-high heat.",
+    "2. Add the onion and garlic and cook until the onion is translucent.",
+    "3. Add the ground beef and cook until browned, breaking it up into small pieces.",
+    "4. Add the garlicky sausages and cook for an additional 2-3 minutes.",
+    "5. Stir in the dulet spice blend and cook for 1 minute.",
+    "6. Add the goey cheese and stir until melted and well combined.",
+    "7. Serve the stew over injera bread, garnished with additional cheese and spices if desired.",
+    "8. Cook to an internal temperature of at least 165°F (74°C) to ensure food safety.",
+    "9. Let the stew rest for 5-10 minutes before serving to allow the flavors to meld.",
+    "10. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "ethiopian",
+    "stew",
+    "dulet",
+    "injera"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 5,
+    "fat": 45
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-gooey-ethiopian-injera-dulet--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T21:48:45.331Z"
+}
