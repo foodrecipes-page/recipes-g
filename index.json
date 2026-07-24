@@ -111,17 +111,16 @@
   },
   {
     "slug": "garden-fresh-mediterranean-vegetable-tacos",
-    "title": "Garden Fresh Mediterranean Vegetable Tacos",
+    "title": "Grilled Vegetable Tacos",
     "tags": [
-      "festive",
-      "mediterranean",
-      "sous-vide",
-      "spring-vegetables",
+      "grilled",
+      "vegetarian",
       "tacos",
-      "vegetarian"
+      "mexican",
+      "summer"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 90,
+    "totalTimeMin": 23,
     "shard": "g"
   },
   {
@@ -2190,18 +2189,14 @@
   },
   {
     "slug": "garlicky-flaky-canadian-dried-shrimp-bake",
-    "title": "Garlicky Flaky Canadian Dried Shrimp Bake",
+    "title": "Shrimp Bake",
     "tags": [
-      "one-pot",
-      "garlicky",
-      "flaky",
-      "dried-shrimp",
-      "sugar-free",
-      "gluten-free",
-      "canadian"
+      "shrimp",
+      "bake",
+      "quick-dinner"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 25,
+    "cuisine": null,
+    "totalTimeMin": 17,
     "shard": "g"
   },
   {
@@ -17085,6 +17080,33 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 50,
+    "shard": "g"
+  },
+  {
+    "slug": "glazed-crispy-mexican-kale-bake--vegan",
+    "title": "Crispy Kale Bake",
+    "tags": [
+      "vegan",
+      "snack",
+      "kale",
+      "mexican"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 30,
+    "shard": "g"
+  },
+  {
+    "slug": "grassy-brazilian-rice-bake--italian",
+    "title": "Brazilian Chicken Bake",
+    "tags": [
+      "italian",
+      "chicken",
+      "brazilian",
+      "rice",
+      "bake"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
     "shard": "g"
   }
 ]
