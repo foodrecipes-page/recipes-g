@@ -16973,5 +16973,18 @@
     "cuisine": "indian",
     "totalTimeMin": 35,
     "shard": "g"
+  },
+  {
+    "slug": "gingerly-peppery-thai-tofu-pad-thai--mexican",
+    "title": "Spicy Pad Thai Tacos",
+    "tags": [
+      "pad-thai",
+      "mexican",
+      "tacos",
+      "vegetarian"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 25,
+    "shard": "g"
   }
 ]
