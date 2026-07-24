@@ -1,0 +1,96 @@
+{
+  "slug": "garlicky-ukrainian-garlic-borscht-air-fry--vegan",
+  "title": "Vegan Ukrainian Borscht",
+  "description": "A classic Ukrainian beet soup adapted to be vegan, with a depth of flavor from garlic and a hint of smokiness.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "garlicky ukrainian borscht",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 cups",
+      "notes": "canned, diced"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "fry",
+      "amount": "2 cups",
+      "notes": "fry onions and carrots until crispy, but not burnt."
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add the minced garlic and sauté for 1 minute, until fragrant.",
+    "Add the chopped onion and sauté for 3-4 minutes, until softened.",
+    "Add the grated carrots and continue to sauté for another 5 minutes.",
+    "Add the beets, canned tomatoes, and vegetable broth. Bring to a boil, then reduce heat and simmer for 20-25 minutes, or until the beets are tender.",
+    "Stir in the borscht, apple cider vinegar, and crispy fry onions and carrots.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh dill or parsley, if desired.",
+    "Note: You can make this recipe in a slow cooker. Simply brown the garlic and onion in a pan, then transfer everything to the slow cooker and cook on low for 6-8 hours.",
+    "Note: You can also add other vegetables to the soup, such as diced bell peppers or chopped cabbage.",
+    "Note: If you want a creamier soup, you can add a splash of non-dairy milk or a dollop of vegan sour cream."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "beet",
+    "ukrainian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-ukrainian-garlic-borscht-air-fry--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T08:42:27.679Z"
+}
