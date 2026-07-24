@@ -1,0 +1,60 @@
+{
+  "slug": "gooey-american-garlic-sumac-stir-fry--vegan",
+  "title": "Vegan Gooey Garlic Stir Fry",
+  "description": "A flavorful stir fry made with garlic, gooey sauce, and a blend of spices, perfect for a quick and easy vegan meal.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Gooey sauce",
+      "amount": "1/4 cup",
+      "notes": "Make sure to choose a vegan-friendly gooey sauce"
+    },
+    {
+      "name": "Stir-fry mix",
+      "amount": "1 cup",
+      "notes": "You can use a pre-mixed stir-fry mix or create your own blend with your favorite vegetables"
+    },
+    {
+      "name": "Sumac",
+      "amount": "1 tsp",
+      "notes": "Add a Middle Eastern twist to your stir fry with sumac"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet or wok over medium-high heat.",
+    "Add the garlic and stir-fry for 1-2 minutes until fragrant.",
+    "Add the stir-fry mix and cook for 3-4 minutes until it starts to soften.",
+    "Pour in the gooey sauce and stir-fry for another 2-3 minutes until the sauce is bubbly and the vegetables are tender.",
+    "Sprinkle sumac over the top and serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "stir-fry",
+    "garlic",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-american-garlic-sumac-stir-fry--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T08:35:52.677Z"
+}
