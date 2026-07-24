@@ -16998,5 +16998,18 @@
     "cuisine": "Indian",
     "totalTimeMin": 35,
     "shard": "g"
+  },
+  {
+    "slug": "gentle-earthy-malaysian-beef-kidney-curry--italian",
+    "title": "Beef and Kidney Curry",
+    "tags": [
+      "italian",
+      "curry",
+      "beef",
+      "kidney"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "g"
   }
 ]
