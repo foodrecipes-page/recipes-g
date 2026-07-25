@@ -1,0 +1,63 @@
+{
+  "slug": "garlic-creamy-norwegian-cod-soup",
+  "title": "Creamy Cod with Garlic",
+  "description": "A simple and flavorful dish featuring cod cooked in a creamy garlic sauce.",
+  "cuisine": null,
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "creamy sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Place cod fillets on the baking sheet.",
+    "Drizzle with olive oil and season with salt and pepper.",
+    "Bake in the preheated oven for 8-10 minutes or until cooked through.",
+    "While the cod is baking, heat the creamy sauce in a pan over medium heat.",
+    "Add minced garlic to the pan and cook for 1-2 minutes or until fragrant.",
+    "Serve the cod with the creamy garlic sauce spooned over the top."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "baked",
+    "creamy",
+    "garlic"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlic-creamy-norwegian-cod-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T12:31:26.980Z"
+}
