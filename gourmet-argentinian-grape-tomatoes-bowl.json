@@ -1,0 +1,84 @@
+{
+  "slug": "gourmet-argentinian-grape-tomatoes-bowl",
+  "title": "Grape Tomato Salad with Argentinian Gourmet Twist",
+  "description": "A refreshing salad that combines the sweetness of grapes with the tanginess of tomatoes, all brought together with the bold flavors of Argentinian gourmet ingredients.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tomatoes",
+      "amount": "2 lbs",
+      "notes": "any color, sliced"
+    },
+    {
+      "name": "Grapes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "Argentinian Gourmet Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "for vinaigrette"
+    },
+    {
+      "name": "Argentinian Gourmet Balsamic Vinegar",
+      "amount": "1/4 cup",
+      "notes": "for vinaigrette"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Bowls",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Cheese",
+      "amount": "1 cup",
+      "notes": "shredded, parmesan or feta"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine sliced tomatoes and halved grapes.",
+    "2. In a small bowl, whisk together olive oil and balsamic vinegar for the vinaigrette.",
+    "3. Drizzle the vinaigrette over the tomato and grape mixture.",
+    "4. Sprinkle salt to taste over the salad.",
+    "5. Top the salad with chopped fresh basil.",
+    "6. Serve the salad in individual bowls.",
+    "7. Sprinkle shredded cheese over each bowl of salad.",
+    "8. Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "gourmet",
+    "salad",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gourmet-argentinian-grape-tomatoes-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T17:01:55.398Z"
+}
