@@ -1,0 +1,70 @@
+{
+  "slug": "gooey-midnight-citrus-syrian-stir-fry",
+  "title": "Midnight Stir Fry",
+  "description": "A quick and easy stir fry made with midnight oil and a variety of colorful ingredients. Perfect for a weeknight dinner.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Midnight oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Citrus",
+      "amount": "1 orange, peeled and segmented"
+    },
+    {
+      "name": "Gooey honey",
+      "amount": "1 tablespoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Syrian sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Fry spices",
+      "amount": "1 teaspoon",
+      "notes": "use a blend of Chinese 5-spice powder and cumin"
+    },
+    {
+      "name": "Stir-fry vegetables",
+      "amount": "1 cup",
+      "notes": "choose your favorite stir-fry vegetables, such as broccoli, carrots, and bell peppers"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the midnight oil in a large skillet or wok over medium-high heat.",
+    "Add the citrus and stir-fry for 1-2 minutes, until fragrant.",
+    "Add the stir-fry vegetables and fry spices, and stir-fry for 3-4 minutes, until the vegetables are tender-crisp.",
+    "Stir in the gooey honey and Syrian sumac, and cook for an additional 1-2 minutes.",
+    "Season with salt and pepper to taste, and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stir-fry",
+    "vegetarian",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-midnight-citrus-syrian-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T20:36:45.308Z"
+}
