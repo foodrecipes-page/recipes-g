@@ -12761,17 +12761,16 @@
   },
   {
     "slug": "gourmet-argentinian-grape-tomatoes-bowl",
-    "title": "Gourmet Argentinian Grape Tomatoes Bowl",
+    "title": "Grape Tomato Salad with Argentinian Gourmet Twist",
     "tags": [
       "argentinian",
-      "breakfast-for-dinner",
-      "easy-entrees",
-      "grape-tomatoes",
-      "plant-based",
-      "weeknight"
+      "gourmet",
+      "salad",
+      "snack",
+      "vegetarian"
     ],
     "cuisine": "argentinian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 15,
     "shard": "g"
   },
   {
@@ -17142,6 +17141,19 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 22,
+    "shard": "g"
+  },
+  {
+    "slug": "golden-glazed-argentinian-kabocha-gratin--keto",
+    "title": "Keto Argentinian Gratin",
+    "tags": [
+      "keto",
+      "argentinian",
+      "gratin",
+      "squash"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 60,
     "shard": "g"
   }
 ]
