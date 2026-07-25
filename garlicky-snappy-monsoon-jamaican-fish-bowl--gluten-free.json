@@ -1,0 +1,71 @@
+{
+  "slug": "garlicky-snappy-monsoon-jamaican-fish-bowl--gluten-free",
+  "title": "Garlicky Fish Bowl",
+  "description": "A flavorful and healthy fish bowl recipe made with garlicky flavors and gluten-free ingredients.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish",
+      "amount": "4 pieces (6 oz each)",
+      "notes": null
+    },
+    {
+      "name": "Garlicky",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Monsoon",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Jamaican seasoning",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Bowl",
+      "amount": null,
+      "notes": "for serving"
+    },
+    {
+      "name": "Snappy lettuce",
+      "amount": "4 cups",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Season fish with Jamaican seasoning.",
+    "3. Grill fish for 4-5 minutes per side, or until cooked through.",
+    "4. Meanwhile, mix garlicky and Monsoon in a bowl.",
+    "5. Add snappy lettuce to the bowl and toss with garlicky mixture.",
+    "6. Serve fish on top of the lettuce mixture in a bowl.",
+    "7. Garnish with additional garlicky if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "fish",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-snappy-monsoon-jamaican-fish-bowl--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T20:35:44.797Z"
+}
