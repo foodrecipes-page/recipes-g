@@ -6047,18 +6047,15 @@
   },
   {
     "slug": "gently-smoky-argentinian-sugar-snap-peas-bowl",
-    "title": "Gently Smoky Argentinian Sugar Snap Peas Bowl",
+    "title": "Smoky Pea and Sugar Stir Fry",
     "tags": [
-      "argentinian-cuisine",
-      "easy-recipe",
-      "healthy-eating",
-      "lunch-bowl",
-      "meal-prep",
-      "ovo-vegetarian",
-      "smoky-flavors"
+      "smoky",
+      "peas",
+      "sugar",
+      "stir-fry"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 32,
+    "cuisine": "argentinian",
+    "totalTimeMin": 13,
     "shard": "g"
   },
   {
@@ -17168,6 +17165,19 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 15,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-kissed-brazilian-salmon-bowl--vegetarian",
+    "title": "Brazilian Garlicky Bowl",
+    "tags": [
+      "vegetarian",
+      "brazilian",
+      "lunch",
+      "rice-bowl"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 40,
     "shard": "g"
   }
 ]
