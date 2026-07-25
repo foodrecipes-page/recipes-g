@@ -1,0 +1,89 @@
+{
+  "slug": "garlicky-irish-samphire-gratin--gluten-free",
+  "title": "Baked Irish Samphire Gratin",
+  "description": "A gluten-free, flavorful side dish featuring Irish samphire, perfect for accompanying seafood or meat.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "Irish samphire",
+      "amount": "1 bunch",
+      "notes": null
+    },
+    {
+      "name": "garlicky butter",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "grated cheddar",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for greasing"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Rinse the Irish samphire and pat it dry with a paper towel.",
+    "3. Grease a 9x13 inch baking dish with olive oil.",
+    "4. Place the samphire in the prepared baking dish.",
+    "5. In a small bowl, mix together the garlicky butter, grated cheddar, parmesan cheese, minced garlic, salt, and black pepper.",
+    "6. Pour the butter mixture over the samphire.",
+    "7. Drizzle with lemon juice.",
+    "8. Bake in the preheated oven for 20-25 minutes, or until the samphire is tender and the top is golden brown.",
+    "9. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "gluten-free",
+    "side-dish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-irish-samphire-gratin--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T03:17:35.252Z"
+}
