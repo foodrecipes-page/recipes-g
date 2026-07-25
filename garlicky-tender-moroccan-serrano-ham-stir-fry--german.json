@@ -1,0 +1,67 @@
+{
+  "slug": "garlicky-tender-moroccan-serrano-ham-stir-fry--german",
+  "title": "Garlicky Ham Stir Fry",
+  "description": "A delicious german-inspired stir fry made with tender ham and a hint of moroccan spices.",
+  "cuisine": "german",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ham",
+      "amount": "1/2 pound",
+      "notes": "Thick-cut ham steak"
+    },
+    {
+      "name": "Garlicky",
+      "amount": "2 cloves",
+      "notes": "Chopped fresh garlic"
+    },
+    {
+      "name": "Serrano",
+      "amount": "1/2 pepper",
+      "notes": "Thinly sliced serrano pepper"
+    },
+    {
+      "name": "Stir",
+      "amount": "2 tablespoons",
+      "notes": "Olive oil for stir-frying"
+    },
+    {
+      "name": "Fry",
+      "amount": "1/2 teaspoon",
+      "notes": "Ground moroccan spice blend"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the sliced serrano pepper and cook for 2-3 minutes, or until tender.",
+    "Add the chopped garlic and cook for an additional minute, stirring constantly.",
+    "Add the thick-cut ham steak to the skillet and cook for 2-3 minutes per side, or until browned and cooked through.",
+    "Sprinkle the moroccan spice blend over the ham and stir to combine.",
+    "Serve the garlicky ham stir fry hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "snack",
+    "ham",
+    "moroccan",
+    "garlic"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 8,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-tender-moroccan-serrano-ham-stir-fry--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T14:26:09.688Z"
+}
