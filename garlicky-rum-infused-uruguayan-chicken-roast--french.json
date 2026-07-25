@@ -1,0 +1,68 @@
+{
+  "slug": "garlicky-rum-infused-uruguayan-chicken-roast--french",
+  "title": "Uruguayan Roasted Chicken with Garlic",
+  "description": "Classic French-inspired roasted chicken dish with a Uruguayan twist and infused garlicky flavor.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "uruguayan chicken",
+      "amount": "1 whole",
+      "notes": "approximately 3-3.5 pounds"
+    },
+    {
+      "name": "infused garlicky butter",
+      "amount": "2 tablespoons",
+      "notes": "see instructions for making infused garlicky butter"
+    },
+    {
+      "name": "roast",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "unsalted"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Rinse the chicken and pat it dry with paper towels.",
+    "Season the chicken with salt and pepper.",
+    "Make the infused garlicky butter by mixing softened butter with minced garlic and parsley.",
+    "Rub the infused garlicky butter all over the chicken, making sure to get some under the skin as well.",
+    "Place the chicken in a roasting pan and drizzle with olive oil.",
+    "Pour in chicken broth and white wine (if using).",
+    "Roast the chicken in the preheated oven for 45-50 minutes, basting it with pan juices every 20 minutes.",
+    "Check the internal temperature of the chicken to ensure it reaches 165°F (74°C).",
+    "Let the chicken rest for 10-15 minutes before carving and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "roasted-chicken",
+    "garlic-butter",
+    "french-cuisine",
+    "uruguayan-chicken"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-rum-infused-uruguayan-chicken-roast--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T03:32:29.069Z"
+}
