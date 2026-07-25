@@ -1,0 +1,88 @@
+{
+  "slug": "glorious-energizing-indian-steak-idli--french",
+  "title": "Steak au Poivre with French Fries",
+  "description": "A classic French dish featuring steak au poivre, served with crispy French fries.",
+  "cuisine": "french",
+  "diet": [
+    " Omnivore",
+    "Gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Steak",
+      "amount": "1.5 lb",
+      "notes": "(1.5-2 inches thick)"
+    },
+    {
+      "name": "Black peppercorns",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "French fries",
+      "amount": "2 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "for frying",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped (for garnish)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the steak with salt, pepper, and black peppercorns.",
+    "Heat a skillet over high heat and sear the steak for 2-3 minutes per side.",
+    "Transfer the skillet to the preheated oven and cook to desired doneness.",
+    "For the French fries, heat about 2-3 inches of olive oil in a deep frying pan over medium-high heat.",
+    "Cut the potatoes into your desired French fry shape and fry in batches until golden brown.",
+    "Drain the French fries on paper towels and season with salt.",
+    "Melt butter in a saucepan over medium heat.",
+    "Add minced garlic and cook for 1-2 minutes until fragrant.",
+    "Spoon the garlic butter over the cooked steak and serve with French fries.",
+    "Garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "steak",
+    "fries",
+    "garlic",
+    "butter"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 60,
+    "carbs": 60,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/glorious-energizing-indian-steak-idli--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T11:58:52.750Z"
+}
