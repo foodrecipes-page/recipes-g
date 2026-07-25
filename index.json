@@ -10891,18 +10891,16 @@
   },
   {
     "slug": "gooey-cheesy-middle-eastern-lamb-tagine",
-    "title": "Gooey, Cheesy Middle-Eastern Lamb Tagine",
+    "title": "Lamb Tagine with a Cheesy Crust",
     "tags": [
-      "cheesy-delight",
-      "comfort-food",
-      "dinner-party",
-      "high-protein",
-      "lamb-lovers",
-      "one-pan",
-      "weeknight"
+      "lamb",
+      "cheese",
+      "moroccan",
+      "tagine",
+      "eastern"
     ],
-    "cuisine": "Middle-Eastern",
-    "totalTimeMin": 180,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 140,
     "shard": "g"
   },
   {
@@ -17218,6 +17216,20 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 105,
+    "shard": "g"
+  },
+  {
+    "slug": "gently-simmered-tunisian-beef-kidney-tagine--french",
+    "title": "Beef Kidney Tagine",
+    "tags": [
+      "beef",
+      "kidney",
+      "tagine",
+      "french",
+      "stew"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 110,
     "shard": "g"
   }
 ]
