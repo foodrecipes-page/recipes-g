@@ -1501,17 +1501,14 @@
   },
   {
     "slug": "garlicky-crumbly-dutch-sushi-rice-stir-fry",
-    "title": "Garlicky Crumbly Dutch Sushi Rice Stir-fry",
+    "title": "Garlicky Rice Bowl",
     "tags": [
-      "garlicky",
-      "crumbly",
-      "dutch",
-      "sushi-rice",
-      "fried",
-      "stir-fry",
-      "fodmap-friendly"
+      "easy",
+      "rice",
+      "garlic",
+      "dinner"
     ],
-    "cuisine": "Dutch",
+    "cuisine": "japanese",
     "totalTimeMin": 20,
     "shard": "g"
   },
@@ -2099,18 +2096,16 @@
   },
   {
     "slug": "garlicky-filipino-gyoza-fried-rice",
-    "title": "garlicky filipino gyoza fried-rice",
+    "title": "Filipino-Style Fried Rice with Garlic Gyoza",
     "tags": [
-      "crowd-pleaser",
-      "easy-to-make",
       "filipino",
-      "garlic",
-      "kosher-friendly",
-      "one-pan",
-      "weeknight"
+      "fried-rice",
+      "gyoza",
+      "lunch",
+      "meatless"
     ],
     "cuisine": "filipino",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
@@ -17209,6 +17204,20 @@
     ],
     "cuisine": null,
     "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-dense-nostalgic-saudia-ghee-stew--mexican",
+    "title": "Saudia-Style Stew with Ghee",
+    "tags": [
+      "mexican",
+      "stew",
+      "ghee",
+      "beef",
+      "lamb"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 105,
     "shard": "g"
   }
 ]
