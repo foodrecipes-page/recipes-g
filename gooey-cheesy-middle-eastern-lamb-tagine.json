@@ -1,0 +1,87 @@
+{
+  "slug": "gooey-cheesy-middle-eastern-lamb-tagine",
+  "title": "Lamb Tagine with a Cheesy Crust",
+  "description": "A flavorful and aromatic Moroccan dish with a gooey cheesy crust. The combination of lamb and eastern spices will transport your taste buds to the bustling markets of Marrakech.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1.5 pounds"
+    },
+    {
+      "name": "Middle Eastern Spices",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Eastern Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Goat Cheese",
+      "amount": "1 cup, crumbled"
+    },
+    {
+      "name": "Middle Eastern Flatbread",
+      "amount": "1 package"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Eastern Paprika",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Eastern Cumin",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Season the lamb shoulder with salt, black pepper, eastern paprika, and eastern cumin.",
+    "Heat the eastern olive oil in a large Dutch oven over medium-high heat. Sear the lamb shoulder until browned on all sides, about 5 minutes.",
+    "Add the middle eastern spices to the pot and stir to combine. Add 1 cup of water and bring to a boil.",
+    "Transfer the pot to the preheated oven and cook for 2 hours, or until the lamb is tender and falls apart easily.",
+    "While the lamb is cooking, prepare the cheesy crust. Mix the crumbled goat cheese with 1 tablespoon of eastern olive oil and 1 tablespoon of chopped fresh parsley.",
+    "When the lamb is done, remove it from the pot and let it rest for 10 minutes.",
+    "Transfer the lamb to a serving platter and top with the cheesy crust.",
+    "Serve with middle eastern flatbread on the side and garnish with additional parsley if desired.",
+    "To make the flatbread, simply warm it in the oven for a few minutes or grill it until crispy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "cheese",
+    "moroccan",
+    "tagine",
+    "eastern"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-cheesy-middle-eastern-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T02:14:27.247Z"
+}
