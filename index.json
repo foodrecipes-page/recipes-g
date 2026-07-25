@@ -5757,16 +5757,15 @@
   },
   {
     "slug": "gently-grilled-portuguese-steak-grill",
-    "title": "Gently Grilled Portuguese Steak Grill",
+    "title": "Portuguese Grilled Steak",
     "tags": [
-      "binchotan-grill",
-      "grilled-steak",
-      "macrobiotic-friendly",
-      "portuguese-cuisine",
-      "solo-dinner"
+      "grilled",
+      "steak",
+      "portuguese",
+      "meat"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 22,
     "shard": "g"
   },
   {
@@ -7484,16 +7483,14 @@
   },
   {
     "slug": "glazed-indian-almond-toast",
-    "title": "Glazed Indian Almond Toast",
+    "title": "Indian Almond Toast",
     "tags": [
-      "flatbread",
+      "breakfast",
       "indian",
-      "nutty",
-      "quick",
       "snack"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 20,
+    "totalTimeMin": 7,
     "shard": "g"
   },
   {
@@ -17131,6 +17128,20 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 50,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-tender-moroccan-serrano-ham-stir-fry--german",
+    "title": "Garlicky Ham Stir Fry",
+    "tags": [
+      "german",
+      "snack",
+      "ham",
+      "moroccan",
+      "garlic"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 22,
     "shard": "g"
   }
 ]
