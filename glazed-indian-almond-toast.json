@@ -1,0 +1,60 @@
+{
+  "slug": "glazed-indian-almond-toast",
+  "title": "Indian Almond Toast",
+  "description": "A sweet and crunchy Indian-inspired breakfast toast with almond and glazed ingredients.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "glazed almonds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Indian flatbread (toast)",
+      "amount": "2 slices"
+    },
+    {
+      "name": "almond butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Toast the flatbread slices for 2-3 minutes.",
+    "Spread 1 tablespoon of almond butter on each slice.",
+    "Crush the glazed almonds and sprinkle over the almond butter.",
+    "Drizzle with honey.",
+    "Season with a pinch of salt.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "indian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/glazed-indian-almond-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T14:22:30.128Z"
+}
