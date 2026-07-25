@@ -13683,17 +13683,15 @@
   },
   {
     "slug": "greatly-sweet-argentinian-almond-empanadas",
-    "title": "Greatly Sweet Argentinian Almond Empanadas",
+    "title": "Argentinian Sweet Empanadas",
     "tags": [
-      "almond-based",
       "argentinian",
-      "baked-goods",
-      "flexitarian",
-      "kid-friendly",
-      "sweet-pastry"
+      "sweet",
+      "empanadas",
+      "dessert"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 50,
+    "cuisine": "argentinian",
+    "totalTimeMin": 45,
     "shard": "g"
   },
   {
@@ -17185,6 +17183,19 @@
     ],
     "cuisine": null,
     "totalTimeMin": 18,
+    "shard": "g"
+  },
+  {
+    "slug": "glorious-golden-brazilian-chicken-stew--chinese",
+    "title": "Glorious Chicken Stew",
+    "tags": [
+      "chicken",
+      "stew",
+      "chinese",
+      "easy"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
     "shard": "g"
   }
 ]
