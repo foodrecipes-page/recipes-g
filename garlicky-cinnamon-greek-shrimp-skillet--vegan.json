@@ -1,0 +1,60 @@
+{
+  "slug": "garlicky-cinnamon-greek-shrimp-skillet--vegan",
+  "title": "Garlicky Shrimp Stir-Fry",
+  "description": "A flavorful and quick stir-fry made with garlicky flavors, perfect for a weeknight dinner. This dish is actually vegan, using marinated tofu instead of shrimp.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Marinated Tofu",
+      "amount": "400g",
+      "notes": "Use store-bought or homemade marinated tofu"
+    },
+    {
+      "name": "Garlicky Sauce",
+      "amount": "200ml",
+      "notes": "Make your own sauce with equal parts soy sauce, maple syrup, and rice vinegar"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp",
+      "notes": "Add a pinch of warmth to the dish"
+    },
+    {
+      "name": "Greek Skillet Seasoning",
+      "amount": "1 tsp",
+      "notes": "Add a Mediterranean twist to the dish"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet over medium-high heat.",
+    "Add the marinated tofu and cook until golden brown, about 3-4 minutes per side.",
+    "Add the garlicky sauce, cinnamon, and Greek Skillet Seasoning to the skillet. Stir to combine.",
+    "Cook for an additional 2-3 minutes, until the sauce has thickened.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "vegan",
+    "tofu",
+    "garlicky"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-cinnamon-greek-shrimp-skillet--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T00:02:16.053Z"
+}
