@@ -17155,5 +17155,19 @@
     "cuisine": "Argentinian",
     "totalTimeMin": 60,
     "shard": "g"
+  },
+  {
+    "slug": "gently-smoked-norwegian-fish-wrap--german",
+    "title": "Smoked Salmon Wrap",
+    "tags": [
+      "german",
+      "breakfast",
+      "fish",
+      "salmon",
+      "wrap"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 15,
+    "shard": "g"
   }
 ]
