@@ -414,14 +414,14 @@
   },
   {
     "slug": "garlic-kiddie-delight",
-    "title": "Garlic Kiddie Delight",
+    "title": "Delightful Garlic Delight",
     "tags": [
-      "sous-vide",
-      "fermented",
-      "garlic"
+      "garlic",
+      "roasted-vegetables",
+      "easy-dinner"
     ],
     "cuisine": "American",
-    "totalTimeMin": 24,
+    "totalTimeMin": 35,
     "shard": "g"
   },
   {
@@ -17196,6 +17196,19 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-cinnamon-greek-shrimp-skillet--vegan",
+    "title": "Garlicky Shrimp Stir-Fry",
+    "tags": [
+      "stir-fry",
+      "vegan",
+      "tofu",
+      "garlicky"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "g"
   }
 ]
