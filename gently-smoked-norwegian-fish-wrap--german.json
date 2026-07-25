@@ -1,0 +1,67 @@
+{
+  "slug": "gently-smoked-norwegian-fish-wrap--german",
+  "title": "Smoked Salmon Wrap",
+  "description": "A German-inspired breakfast or snack featuring gently smoked Norwegian salmon in a crispy wrap.",
+  "cuisine": "german",
+  "diet": [
+    "fish",
+    "gluten"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Smoked Norwegian salmon",
+      "amount": "6 oz"
+    },
+    {
+      "name": "Gently smoked wrap",
+      "amount": "1"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Capers",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a pan to medium heat.",
+    "Place the wrap in the pan for 30 seconds on each side to toast it.",
+    "Cut the smoked salmon into thin slices.",
+    "Add the sliced salmon to the wrap, leaving a small border around the edges.",
+    "Top with lettuce, tomato, onion, and capers.",
+    "Drizzle with a dollop of cream cheese or sour cream, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "breakfast",
+    "fish",
+    "salmon",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 30,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gently-smoked-norwegian-fish-wrap--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T17:46:12.071Z"
+}
