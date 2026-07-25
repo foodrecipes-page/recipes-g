@@ -1,0 +1,67 @@
+{
+  "slug": "garlicky-kissed-brazilian-salmon-bowl--vegetarian",
+  "title": "Brazilian Garlicky Bowl",
+  "description": "A flavorful vegetarian bowl dish inspired by Brazilian cuisine, packed with garlicky goodness and fresh ingredients.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Brazilian garlicky rice",
+      "amount": "1 cup cooked",
+      "notes": "cook according to package instructions"
+    },
+    {
+      "name": "Roasted sweet potatoes",
+      "amount": "2 medium",
+      "notes": "roast in the oven at 400°F (200°C) for 20-25 minutes"
+    },
+    {
+      "name": "Kissed black beans",
+      "amount": "1 cup cooked",
+      "notes": "cook according to package instructions"
+    },
+    {
+      "name": "Sauteed kale",
+      "amount": "2 cups chopped",
+      "notes": "saute in olive oil until wilted"
+    },
+    {
+      "name": "Bowl of fresh cilantro",
+      "amount": "1/4 cup chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roast sweet potatoes in the oven for 20-25 minutes.",
+    "Cook Brazilian garlicky rice according to package instructions.",
+    "Cook kissed black beans according to package instructions.",
+    "Saute chopped kale in olive oil until wilted.",
+    "Assemble the bowl by placing roasted sweet potatoes, cooked rice, black beans, and sauteed kale in a bowl.",
+    "Garnish with chopped cilantro and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "brazilian",
+    "lunch",
+    "rice-bowl"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 80,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-kissed-brazilian-salmon-bowl--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T19:43:27.374Z"
+}
