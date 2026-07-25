@@ -1,0 +1,61 @@
+{
+  "slug": "garlicky-crunchy-brazilian-tadka-hash",
+  "title": "Brazilian Crunchy Hash",
+  "description": "A crispy and flavorful hash dish inspired by Brazilian cuisine, with a crunchy texture from the available ingredients.",
+  "cuisine": "Brazilian",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Garlicky Hash",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Crunchy Tadka",
+      "amount": "1/4 cup",
+      "notes": "chopped and toasted"
+    },
+    {
+      "name": "Brazilian Hash",
+      "amount": "1/2 cup",
+      "notes": "diced and pan-fried"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a pan, heat 2 tablespoons of oil over medium heat. Add the Brazilian Hash and cook until golden brown.",
+    "Add the Crunchy Tadka to the pan and stir well.",
+    "In a separate pan, heat 1 tablespoon of oil over medium heat. Add the Garlicky Hash and cook until crispy.",
+    "Combine the cooked Brazilian Hash and Crunchy Tadka mixture into the pan with the Garlicky Hash.",
+    "Cook for an additional 2-3 minutes, stirring frequently.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "brasilian",
+    "crunchy",
+    "hash"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-crunchy-brazilian-tadka-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T21:04:42.933Z"
+}
