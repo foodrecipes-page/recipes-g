@@ -1,0 +1,61 @@
+{
+  "slug": "gently-smoky-argentinian-sugar-snap-peas-bowl",
+  "title": "Smoky Pea and Sugar Stir Fry",
+  "description": "A quick and easy stir fry made with smoky peas, sugar, and a hint of argentinian spice.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoky Peas",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Snap Peas",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "Argentinian Spice Blend",
+      "amount": "1 tsp",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Heat a large bowl over medium-high heat.",
+    "Add 1 tsp of Argentinian spice blend and stir for 1 minute.",
+    "Add 1 cup of snap peas and cook for 3-4 minutes, or until tender.",
+    "Add 1 cup of smoky peas and cook for an additional 2-3 minutes.",
+    "Add 2 tsp of sugar and stir to combine.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "peas",
+    "sugar",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gently-smoky-argentinian-sugar-snap-peas-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T19:48:15.618Z"
+}
