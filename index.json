@@ -207,18 +207,15 @@
   },
   {
     "slug": "garlic-creamy-norwegian-cod-soup",
-    "title": "Garlic Creamy Norwegian Cod Soup",
+    "title": "Creamy Cod with Garlic",
     "tags": [
-      "norwegian",
-      "cod-soup",
-      "garlic",
+      "fish",
+      "baked",
       "creamy",
-      "diabetic-friendly",
-      "chocolate-chip",
-      "simmer"
+      "garlic"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 50,
+    "cuisine": null,
+    "totalTimeMin": 15,
     "shard": "g"
   },
   {
@@ -17124,6 +17121,20 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 11,
+    "shard": "g"
+  },
+  {
+    "slug": "glorious-energizing-indian-steak-idli--french",
+    "title": "Steak au Poivre with French Fries",
+    "tags": [
+      "french",
+      "steak",
+      "fries",
+      "garlic",
+      "butter"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 50,
     "shard": "g"
   }
 ]
