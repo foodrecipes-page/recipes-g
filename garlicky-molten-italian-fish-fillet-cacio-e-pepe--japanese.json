@@ -1,0 +1,69 @@
+{
+  "slug": "garlicky-molten-italian-fish-fillet-cacio-e-pepe--japanese",
+  "title": "Miso-Glazed Fish Fillet with Cacio e Pepe Crunch",
+  "description": "A modern fusion of Japanese and Italian flavors, featuring a crispy cacio e pepe crust on top of a pan-seared fish fillet, finished with a sweet and savory miso glaze.",
+  "cuisine": "japanese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish Fillet",
+      "amount": "4",
+      "notes": "Any firm white fish works well"
+    },
+    {
+      "name": "Molten Cacio e Pepe",
+      "amount": "2 tablespoons",
+      "notes": "see below for cacio e pepe recipe"
+    },
+    {
+      "name": "Garlicky Italian Seasoning",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Italian Breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": "for cacio e pepe crust"
+    },
+    {
+      "name": "Miso Paste",
+      "amount": "2 tablespoons",
+      "notes": "white or yellow miso works well"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the fish fillet with garlicky Italian seasoning.",
+    "Dip the fish fillet in breadcrumbs, pressing gently to coat.",
+    "Heat a skillet over medium-high heat and sear the fish for 2-3 minutes on each side, until golden brown.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes, until cooked through.",
+    "While the fish is baking, mix miso paste with a small amount of water to create a glaze.",
+    "Remove the skillet from the oven and brush the miso glaze over the top of the fish.",
+    "Return the skillet to the oven and bake for an additional 2-3 minutes, until the glaze is caramelized.",
+    "Remove the fish from the oven and top with a spoonful of molten cacio e pepe.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "italian",
+    "fusion",
+    "fish",
+    "cacio e pepe"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-molten-italian-fish-fillet-cacio-e-pepe--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T03:59:02.115Z"
+}
