@@ -1680,17 +1680,15 @@
   },
   {
     "slug": "garlicky-crunchy-brazilian-tadka-hash",
-    "title": "Garlicky Crunchy Brazilian Tadka Hash",
+    "title": "Brazilian Crunchy Hash",
     "tags": [
       "breakfast",
-      "brunch",
-      "brazilian",
-      "garlicky",
+      "brasilian",
       "crunchy",
-      "egg-free"
+      "hash"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
@@ -11690,17 +11688,14 @@
   },
   {
     "slug": "gooey-midnight-citrus-syrian-stir-fry",
-    "title": "Gooey Midnight Citrus Syrian Stir-fry",
+    "title": "Midnight Stir Fry",
     "tags": [
-      "goey",
-      "midnight",
-      "citrusy",
       "stir-fry",
-      "salty",
-      "diabetic-friendly"
+      "vegetarian",
+      "easy-dinner"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 45,
+    "cuisine": "Asian",
+    "totalTimeMin": 18,
     "shard": "g"
   },
   {
@@ -17178,6 +17173,18 @@
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 40,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-snappy-monsoon-jamaican-fish-bowl--gluten-free",
+    "title": "Garlicky Fish Bowl",
+    "tags": [
+      "gluten-free",
+      "fish",
+      "lunch"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 18,
     "shard": "g"
   }
 ]
