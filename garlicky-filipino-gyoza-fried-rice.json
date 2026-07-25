@@ -1,0 +1,78 @@
+{
+  "slug": "garlicky-filipino-gyoza-fried-rice",
+  "title": "Filipino-Style Fried Rice with Garlic Gyoza",
+  "description": "A flavorful and filling meal of crispy garlic gyoza served atop a savory fried rice dish, inspired by the bold flavors of the Philippines.",
+  "cuisine": "filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "garlic gyoza",
+      "amount": "1 package, 20 pieces",
+      "notes": "available in most Asian grocery stores"
+    },
+    {
+      "name": "fried rice",
+      "amount": "2 cups cooked",
+      "notes": "preferably leftover from a previous meal"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying gyoza"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup chopped",
+      "notes": "for garnish"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "optional, for added flavor"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add 10-12 garlic gyoza to the skillet and fry until crispy and golden brown, about 2-3 minutes per side.",
+    "Remove the fried gyoza from the skillet and set aside on a paper towel-lined plate.",
+    "In the same skillet, add the remaining 1 tablespoon of vegetable oil and stir-fry the cooked fried rice for 2-3 minutes, breaking up any clumps with a spatula.",
+    "Season the fried rice with salt, pepper, and garlic powder to taste.",
+    "Serve the fried rice hot, topped with the crispy garlic gyoza, chopped green onions, and additional garlic powder if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "fried-rice",
+    "gyoza",
+    "lunch",
+    "meatless"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-filipino-gyoza-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T01:18:48.509Z"
+}
