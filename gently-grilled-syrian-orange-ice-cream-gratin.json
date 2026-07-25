@@ -1,0 +1,75 @@
+{
+  "slug": "gently-grilled-syrian-orange-ice-cream-gratin",
+  "title": "Syrian Orange Grilled Chicken with Creamy Gratins",
+  "description": "A flavorful and refreshing dish that combines the sweetness of orange with the spice of Syrian cuisine. This recipe features grilled chicken breast served with a creamy gratin made with the finest ingredients.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1.5 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "orange, sliced",
+      "amount": "2",
+      "notes": "for serving"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for grilling"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves",
+      "notes": "for marinade"
+    },
+    {
+      "name": "syrian spices (sumac, cumin, coriander)",
+      "amount": "1 tablespoon",
+      "notes": "for marinade"
+    },
+    {
+      "name": "gratin cheese (goat or feta)",
+      "amount": "1 cup",
+      "notes": "for creamy gratin"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, whisk together olive oil, garlic, and Syrian spices.",
+    "Brush the mixture evenly onto both sides of the chicken breast.",
+    "Grill the chicken for 5-6 minutes per side, or until it reaches an internal temperature of 165°F (74°C).",
+    "Let the chicken rest for 5 minutes before slicing.",
+    "Meanwhile, prepare the creamy gratin by combining goat cheese, heavy cream, and a pinch of salt in a small saucepan.",
+    "Heat the mixture over low heat, stirring constantly, until the cheese is melted and the sauce is smooth.",
+    "Slice the grilled chicken breast and serve with the creamy gratin and sliced oranges.",
+    "Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "syrian",
+    "orange",
+    "gratins",
+    "creamy",
+    "gluten-free"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gently-grilled-syrian-orange-ice-cream-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T22:55:28.326Z"
+}
