@@ -1,0 +1,77 @@
+{
+  "slug": "glorious-golden-brazilian-chicken-stew--chinese",
+  "title": "Glorious Chicken Stew",
+  "description": "A hearty and flavorful Chinese-inspired stew made with chicken and vegetables.",
+  "cuisine": "chinese",
+  "diet": [
+    "non-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "glorious golden potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "brazilian bell peppers",
+      "amount": "1 large",
+      "notes": "seeded and sliced"
+    },
+    {
+      "name": "chinese broccoli",
+      "amount": "1 bunch",
+      "notes": "trimmed and chopped"
+    },
+    {
+      "name": "stew sauce",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5-7 minutes.",
+    "Add the chopped potatoes, bell peppers, and broccoli to the skillet.",
+    "Pour in the stew sauce and soy sauce, and stir to combine.",
+    "Reduce the heat to medium-low and simmer, covered, for 15-20 minutes, or until the chicken is cooked through and the vegetables are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "stew",
+    "chinese",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/glorious-golden-brazilian-chicken-stew--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T22:26:53.111Z"
+}
