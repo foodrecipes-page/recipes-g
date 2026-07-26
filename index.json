@@ -17338,5 +17338,32 @@
     "cuisine": "italian",
     "totalTimeMin": 15,
     "shard": "g"
+  },
+  {
+    "slug": "garlicky-crunchy-canadian-black-pudding-skewers--keto",
+    "title": "Keto Canadian Pudding Skewers",
+    "tags": [
+      "keto",
+      "canadian",
+      "snack",
+      "low-carb"
+    ],
+    "cuisine": "canadian",
+    "totalTimeMin": 15,
+    "shard": "g"
+  },
+  {
+    "slug": "grassy-gooey-tunisian-shiso-leaf-tagine--keto",
+    "title": "Grilled Shiso Tagine with Gooey Sauce",
+    "tags": [
+      "keto",
+      "grilled",
+      "easy",
+      "dinner",
+      "north african"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 20,
+    "shard": "g"
   }
 ]
