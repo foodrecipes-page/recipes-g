@@ -17441,5 +17441,18 @@
     "cuisine": "thai",
     "totalTimeMin": 20,
     "shard": "g"
+  },
+  {
+    "slug": "garlicky-german-beef-flank-steak-bauernfristuck--keto",
+    "title": "Bauernfristuck with Garlicky Steak",
+    "tags": [
+      "german",
+      "steak",
+      "keto",
+      "grilled"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "g"
   }
 ]
