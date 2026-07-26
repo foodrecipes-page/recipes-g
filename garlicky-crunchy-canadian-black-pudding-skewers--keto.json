@@ -1,0 +1,55 @@
+{
+  "slug": "garlicky-crunchy-canadian-black-pudding-skewers--keto",
+  "title": "Keto Canadian Pudding Skewers",
+  "description": "A keto twist on traditional pudding, served on crunchy skewers. Perfect for a low-carb snack.",
+  "cuisine": "canadian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Black Canadian Pudding",
+      "amount": "8 oz",
+      "notes": "Make sure to choose a low-carb option"
+    },
+    {
+      "name": "Garlicky Butter",
+      "amount": "2 tbsp",
+      "notes": "Melted butter with minced garlic"
+    },
+    {
+      "name": "Crunchy Skewers",
+      "amount": "10-12",
+      "notes": "Made from almond flour or low-carb option"
+    }
+  ],
+  "instructions": [
+    "1. Cut the black Canadian pudding into 1-inch cubes",
+    "2. Melt the garlicky butter in a pan over low heat",
+    "3. Add the pudding cubes to the pan and coat with butter",
+    "4. Thread the pudding onto the crunchy skewers",
+    "5. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "canadian",
+    "snack",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 5,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-crunchy-canadian-black-pudding-skewers--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T08:58:44.172Z"
+}
