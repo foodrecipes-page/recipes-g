@@ -1,0 +1,65 @@
+{
+  "slug": "garlicky-velvety-croatian-mascarpone-bake",
+  "title": "Croatian Creamy Garlic Tart",
+  "description": "A rich and savory tart that combines the flavors of Croatia with a creamy garlicky filling, all in a flaky pastry crust.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "garlicky pastry dough",
+      "amount": "1 sheet",
+      "notes": null
+    },
+    {
+      "name": "mascarpone cheese",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "croatian crostini",
+      "amount": "1 bag",
+      "notes": "toasted"
+    },
+    {
+      "name": "bake",
+      "amount": "1/4 cup",
+      "notes": "unsalted, crumbled"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the garlicky pastry dough to a thickness of about 1/8 inch.",
+    "Transfer the dough to a 9-inch tart pan with a removable bottom.",
+    "In a medium bowl, mix together the mascarpone cheese and bake until smooth.",
+    "Spread the mascarpone mixture evenly over the pastry dough, leaving a 1-inch border around the edges.",
+    "Top with toasted croatian crostini and crumbled bake.",
+    "Bake the tart for 25-30 minutes or until the crust is golden brown and the filling is set.",
+    "Remove the tart from the oven and let it cool on a wire rack for at least 10 minutes.",
+    "Serve warm, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "cream",
+    "garlic",
+    "tart",
+    "pastry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-velvety-croatian-mascarpone-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T06:17:28.020Z"
+}
