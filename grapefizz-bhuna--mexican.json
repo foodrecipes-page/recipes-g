@@ -1,0 +1,88 @@
+{
+  "slug": "grapefizz-bhuna--mexican",
+  "title": "Grapefizz Bhuna Chicken Tacos",
+  "description": "A twist on traditional Indian bhuna recipes, this Mexican-inspired dish combines grapefizz marinated chicken with the spices of bhuna sauce, served in tacos.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": null
+    },
+    {
+      "name": "Grapefizz",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Bhuna sauce",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Tortillas",
+      "amount": "8-10",
+      "notes": null
+    },
+    {
+      "name": "Shredded cheese",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Marinate the chicken in grapefizz, cumin, chili powder, and salt for at least 30 minutes.",
+    "Heat a skillet over medium-high heat. Remove the chicken from the marinade and cook until browned and cooked through.",
+    "Add the bhuna sauce to the skillet and stir to combine. Bring the sauce to a simmer.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing a piece of cooked chicken onto a tortilla, followed by a spoonful of the bhuna sauce.",
+    "If desired, top with shredded cheese and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "chicken",
+    "tacos",
+    "grapefizz",
+    "bhuna"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grapefizz-bhuna--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T11:32:25.485Z"
+}
