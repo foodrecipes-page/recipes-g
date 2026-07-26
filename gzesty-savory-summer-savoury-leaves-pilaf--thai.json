@@ -1,0 +1,67 @@
+{
+  "slug": "gzesty-savory-summer-savoury-leaves-pilaf--thai",
+  "title": "Thai Summer Pilaf",
+  "description": "A light and refreshing Thai-inspired pilaf dish perfect for summer, featuring a mix of summer ingredients and a blend of savoury and savory flavors.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "savory oil",
+      "amount": "2 tablespoons",
+      "notes": "any neutral oil works"
+    },
+    {
+      "name": "summer leaves",
+      "amount": "2 cups",
+      "notes": "such as basil or mint"
+    },
+    {
+      "name": "leaves",
+      "amount": "1 cup",
+      "notes": "such as mint or Thai basil"
+    },
+    {
+      "name": "savory",
+      "amount": "1 cup",
+      "notes": "such as chopped peanuts or fried shallots"
+    },
+    {
+      "name": "savory pilaf",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "gzesty",
+      "amount": "1 tablespoon",
+      "notes": "such as grated ginger or lime zest"
+    }
+  ],
+  "instructions": [
+    "Heat the savory oil in a large skillet or wok over medium heat.",
+    "Add the summer leaves and cook until wilted, about 1 minute.",
+    "Add the leaves and cook until wilted, about 1 minute.",
+    "Add the savory pilaf and stir to combine.",
+    "Add the savory and stir to combine.",
+    "Sprinkle the gzesty on top and serve hot.",
+    "Serve immediately, garnished with additional summer leaves if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thaifood",
+    "summerdish",
+    "pilaf",
+    "vegetarian"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gzesty-savory-summer-savoury-leaves-pilaf--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T14:52:04.678Z"
+}
