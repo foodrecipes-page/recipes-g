@@ -17365,5 +17365,19 @@
     "cuisine": "North African",
     "totalTimeMin": 20,
     "shard": "g"
+  },
+  {
+    "slug": "grassy-british-seafood-bake--french",
+    "title": "Pan-Seared Sole with Browned Butter and Capers",
+    "tags": [
+      "french",
+      "seafood",
+      "sole",
+      "browned-butter",
+      "capers"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 22,
+    "shard": "g"
   }
 ]
