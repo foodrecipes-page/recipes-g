@@ -1,0 +1,76 @@
+{
+  "slug": "gentle-slovakian-noodle-dish--mexican",
+  "title": "Slovakian Chicken Noodle Soup",
+  "description": "A hearty and comforting Mexican-inspired chicken noodle soup with a Slovakian twist.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 ounces",
+      "notes": "any type of noodle works"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "dish soap",
+      "amount": "1 tablespoon",
+      "notes": "for a gentle flavor"
+    }
+  ],
+  "instructions": [
+    "Heat a large pot over medium-high heat.",
+    "Add the chicken breast and cook until browned, about 5 minutes.",
+    "Remove the chicken from the pot and set aside.",
+    "Add the onion and garlic to the pot and cook until softened, about 3 minutes.",
+    "Add the chicken broth to the pot and bring to a boil.",
+    "Return the chicken to the pot and add the noodles.",
+    "Reduce heat to medium-low and simmer for 10-12 minutes, or until the noodles are tender.",
+    "Stir in the dish soap for a unique flavor.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "noodle",
+    "soup",
+    "mexican"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gentle-slovakian-noodle-dish--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T07:52:32.614Z"
+}
