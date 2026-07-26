@@ -17431,5 +17431,18 @@
     "cuisine": "thai",
     "totalTimeMin": 25,
     "shard": "g"
+  },
+  {
+    "slug": "gzesty-savory-summer-savoury-leaves-pilaf--thai",
+    "title": "Thai Summer Pilaf",
+    "tags": [
+      "thaifood",
+      "summerdish",
+      "pilaf",
+      "vegetarian"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 20,
+    "shard": "g"
   }
 ]
