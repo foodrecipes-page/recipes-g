@@ -1,0 +1,93 @@
+{
+  "slug": "golden-brown-polish-pork-kebabs--thai",
+  "title": "Thai-Style Pork Kebabs",
+  "description": "Tender pork marinated in a blend of Thai flavors and grilled to perfection. Serve with your favorite sides for a delicious and easy meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder, cut into 1-inch pieces",
+      "amount": "1 lb",
+      "notes": "You can also use pork loin or pork belly"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger, minced",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "kecap manis (sweet soy sauce)",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together brown sugar, fish sauce, lime juice, olive oil, garlic, ginger, kecap manis, and chili flakes.",
+    "2. Add the pork pieces to the marinade and toss to coat. Cover and refrigerate for at least 2 hours or overnight.",
+    "3. Preheat your grill or grill pan to medium-high heat.",
+    "4. Thread the marinated pork onto skewers, leaving a small space between each piece.",
+    "5. Grill the kebabs for 8-10 minutes, turning occasionally, or until the pork is cooked through and slightly charred.",
+    "6. Garnish with chopped cilantro and serve with your favorite sides, such as steamed rice or stir-fried vegetables.",
+    "7. Let the kebabs rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaifood",
+    "kebabs",
+    "grilledmeat",
+    "asianinspired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-brown-polish-pork-kebabs--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T11:13:32.383Z"
+}
