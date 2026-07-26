@@ -9096,16 +9096,15 @@
   },
   {
     "slug": "golden-crisp-dutch-bryndza-cheese-roast",
-    "title": "Golden Crisp Dutch Bryndza Cheese Roast",
+    "title": "Crispy Roast Dutch Cheese Fritters",
     "tags": [
-      "dutch-cuisine",
-      "festive-dish",
-      "gluten-free",
-      "roast-beef",
-      "vegetarian-option"
+      "cheese",
+      "snack",
+      "fritters",
+      "dutch"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 90,
+    "totalTimeMin": 30,
     "shard": "g"
   },
   {
