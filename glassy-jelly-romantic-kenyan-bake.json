@@ -1,0 +1,62 @@
+{
+  "slug": "glassy-jelly-romantic-kenyan-bake",
+  "title": "Romantic Glassy Kenyan Delight",
+  "description": "A unique dessert that combines the flavors of Kenya with a romantic twist. This sweet treat is sure to impress.",
+  "cuisine": "Kenyan",
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Glassy",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Jelly",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Kenyan Romantic Spice Blend",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Bake",
+      "amount": "1 1/2 cups",
+      "notes": "all-purpose flour"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Mix Glassy and Jelly in a bowl.",
+    "Add Kenyan Romantic Spice Blend and mix well.",
+    "Gradually add Bake and mix until a dough forms.",
+    "Roll out the dough and place on a baking sheet.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "Let cool and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "romantic",
+    "glassy",
+    "jelly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/glassy-jelly-romantic-kenyan-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T18:16:56.788Z"
+}
