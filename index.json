@@ -17418,5 +17418,18 @@
     "cuisine": "mexican",
     "totalTimeMin": 35,
     "shard": "g"
+  },
+  {
+    "slug": "gentle-slovakian-noodle-dish--thai",
+    "title": "Thai Gentle Noodle Dish",
+    "tags": [
+      "thai",
+      "noodle",
+      "vegetarian",
+      "comfort-food"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "g"
   }
 ]
