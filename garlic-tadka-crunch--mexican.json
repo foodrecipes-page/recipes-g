@@ -1,0 +1,90 @@
+{
+  "slug": "garlic-tadka-crunch--mexican",
+  "title": "Garlic Crunch Tadka Nachos",
+  "description": "A twist on classic nachos with the bold flavors of Mexican cuisine, featuring a crunchy topping and a pungent garlic sauce.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tortilla chips",
+      "amount": "1 bag",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tadka",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Crunch",
+      "amount": "1 cup",
+      "notes": "crunchy taco topping"
+    },
+    {
+      "name": "Shredded cheese",
+      "amount": "1 cup",
+      "notes": "Monterey Jack or Cheddar"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Salsa",
+      "amount": "1 cup",
+      "notes": "mild or spicy"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Arrange tortilla chips in a single layer on a baking sheet.",
+    "Bake for 5 minutes or until crispy.",
+    "In a small saucepan, heat the tadka over medium heat.",
+    "Add the minced garlic and cook for 1-2 minutes or until fragrant.",
+    "Stir in the crunchy taco topping and cook for an additional minute.",
+    "Remove from heat and set aside.",
+    "In a large serving bowl, combine the baked tortilla chips, shredded cheese, and a spoonful of the garlic tadka mixture.",
+    "Top with a dollop of sour cream and a sprinkle of cilantro, if desired.",
+    "Drizzle with lime juice and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "snack",
+    "veggie",
+    "nachos"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlic-tadka-crunch--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T20:56:35.588Z"
+}
