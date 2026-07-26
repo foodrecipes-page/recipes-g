@@ -1,0 +1,83 @@
+{
+  "slug": "garlicky-tender-ethiopian-vanilla-custard-bake--vegan",
+  "title": "Ethiopian-Style Garlicky Vegan Custard Bake",
+  "description": "A rich and creamy vegan custard bake infused with the flavors of Ethiopia, perfect for a comforting dessert. This recipe is free from animal products and is easy to make.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "garlicky",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "vanilla",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "custard",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "bake",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "non-dairy milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a blender, combine the non-dairy milk, custard, vanilla, and nutmeg. Blend until smooth.",
+    "In a separate bowl, whisk together the all-purpose flour, coconut oil, and maple syrup.",
+    "Add the flour mixture to the blender and blend until well combined.",
+    "Pour the mixture into a 9x9 inch baking dish and bake for 35-40 minutes or until set.",
+    "While the custard bake is baking, prepare the garlicky topping by mincing the garlic cloves.",
+    "After the custard bake has baked for 25 minutes, remove it from the oven and sprinkle the garlic on top.",
+    "Return the custard bake to the oven and bake for an additional 10-15 minutes or until the garlic is golden brown.",
+    "Remove the custard bake from the oven and let it cool for a few minutes before serving.",
+    "Slice the custard bake into squares and serve warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "garlicky",
+    "ethiopian",
+    "vegan",
+    "custard",
+    "bake",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-tender-ethiopian-vanilla-custard-bake--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T05:47:08.488Z"
+}
