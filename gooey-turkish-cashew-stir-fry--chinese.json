@@ -1,0 +1,65 @@
+{
+  "slug": "gooey-turkish-cashew-stir-fry--chinese",
+  "title": "Crunchy Cashew Stir-Fry",
+  "description": "A quick and easy Chinese-inspired stir-fry with crunchy cashews, perfect for a weeknight dinner.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cashews",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Gooey",
+      "amount": "2 tablespoons",
+      "notes": "or honey"
+    },
+    {
+      "name": "Turkish",
+      "amount": "1 tablespoon",
+      "notes": "such as paprika"
+    },
+    {
+      "name": "Fry",
+      "amount": "2 tablespoons vegetable oil",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add scallions and stir-fry until fragrant, 1 minute.",
+    "Add cashews and stir-fry until lightly toasted, 2 minutes.",
+    "Add Gooey and Turkish, stir-fry for another minute.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cashew",
+    "chinese",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-turkish-cashew-stir-fry--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T05:40:49.468Z"
+}
