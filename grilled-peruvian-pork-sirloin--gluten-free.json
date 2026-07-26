@@ -1,0 +1,89 @@
+{
+  "slug": "grilled-peruvian-pork-sirloin--gluten-free",
+  "title": "Grilled Peruvian-Style Pork Sirloin",
+  "description": "A flavorful and tender sirloin marinated in Peruvian-inspired spices, grilled to perfection. This recipe is gluten-free and perfect for a summer evening.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork sirloin",
+      "amount": "1 (1.5-2 pounds)",
+      "notes": "preferably with a fat cap"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Aji amarillo pepper",
+      "amount": "2 teaspoons",
+      "notes": "or substitute with aji panca or habanero"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "preferably kosher or sea salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Grilled onions",
+      "amount": "1 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F/200°C).",
+    "In a blender or food processor, combine lime juice, aji amarillo pepper, garlic, cumin, coriander, salt, and black pepper. Blend until smooth.",
+    "Place the pork sirloin in a large zip-top plastic bag or a shallow dish. Pour the marinade over the pork and massage to coat. Seal the bag or cover the dish with plastic wrap.",
+    "Refrigerate for at least 2 hours or overnight, flipping the pork halfway through.",
+    "Remove the pork from the marinade and let it sit at room temperature for 30 minutes.",
+    "Grill the pork for 5-7 minutes per side, or until it reaches an internal temperature of 145°F (63°C) for medium-rare.",
+    "Transfer the pork to a cutting board and let it rest for 10 minutes before slicing.",
+    "Grill the onions for 2-3 minutes per side, or until slightly charred.",
+    "Slice the pork against the grain and serve with grilled onions and your favorite sides."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "peruvian",
+    "pork",
+    "sirloin"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 45,
+    "carbs": 0,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grilled-peruvian-pork-sirloin--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T18:08:47.649Z"
+}
