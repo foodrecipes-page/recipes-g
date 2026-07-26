@@ -1,0 +1,78 @@
+{
+  "slug": "golden-crisp-dutch-bryndza-cheese-roast",
+  "title": "Crispy Roast Dutch Cheese Fritters",
+  "description": "A simple and delicious fritter recipe made with crispy roast dutch cheese, perfect for a snack or light meal.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Golden Dutch cheese",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Crisp breadcrumbs",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Roast onions",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Bryndza cheese",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 180°C (350°F).",
+    "2. In a large bowl, crumble the Golden Dutch cheese and mix with the crisp breadcrumbs.",
+    "3. Add the roast onions, Bryndza cheese, eggs, salt, and black pepper to the bowl and mix well.",
+    "4. Using your hands, shape the mixture into small patties.",
+    "5. Place the patties on a baking sheet lined with parchment paper.",
+    "6. Bake in the preheated oven for 15-20 minutes, or until golden brown and crispy.",
+    "7. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheese",
+    "snack",
+    "fritters",
+    "dutch"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-crisp-dutch-bryndza-cheese-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T12:51:58.473Z"
+}
