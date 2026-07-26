@@ -17505,5 +17505,43 @@
     "cuisine": "Middle Eastern",
     "totalTimeMin": 40,
     "shard": "g"
+  },
+  {
+    "slug": "garlic-tadka-crunch--mexican",
+    "title": "Garlic Crunch Tadka Nachos",
+    "tags": [
+      "mexican",
+      "snack",
+      "veggie",
+      "nachos"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-velvety-french-sea-bass-pilaf--thai",
+    "title": "Thai Sea Bass with French Pilaf",
+    "tags": [
+      "thai",
+      "seafood",
+      "pilaf"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-aerated-egyptian-sherry-vinegar-tagine--japanese",
+    "title": "Japanese-Style Braised Chicken Tagine",
+    "tags": [
+      "japanese",
+      "chicken",
+      "braised",
+      "tagine"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 50,
+    "shard": "g"
   }
 ]
