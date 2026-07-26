@@ -1,0 +1,76 @@
+{
+  "slug": "gluten-free-falafel-date-night--thai",
+  "title": "Thai Falafel Salad",
+  "description": "A refreshing and flavorful salad with crispy Thai-style falafel, sweet dates, and a tangy dressing.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Falafel",
+      "amount": "8-10 pieces"
+    },
+    {
+      "name": "Dates",
+      "amount": "1 cup, pitted"
+    },
+    {
+      "name": "Nightshade-free sauce (e.g., tamari)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup, thinly sliced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Thai red chili flakes",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Bake the falafel for 12-15 minutes, or until crispy and golden brown.",
+    "3. In a large bowl, combine the chopped cilantro, sliced red onion, and sliced bell pepper.",
+    "4. In a small bowl, whisk together the nightshade-free sauce, coconut oil, and red chili flakes.",
+    "5. Pour the dressing over the vegetables and toss to combine.",
+    "6. Add the baked falafel to the bowl and toss gently to combine.",
+    "7. Top with chopped dates and serve immediately.",
+    "8. Garnish with additional cilantro and chili flakes, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "gluten-free",
+    "vegetarian",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": "10g",
+    "carbs": "40g",
+    "fat": "15g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gluten-free-falafel-date-night--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T06:10:31.621Z"
+}
