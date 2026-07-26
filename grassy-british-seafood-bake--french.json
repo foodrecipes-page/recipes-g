@@ -1,0 +1,86 @@
+{
+  "slug": "grassy-british-seafood-bake--french",
+  "title": "Pan-Seared Sole with Browned Butter and Capers",
+  "description": "A classic French dish featuring delicate sole fillets, pan-seared to perfection and served with a rich browned butter and caper sauce.",
+  "cuisine": "french",
+  "diet": [
+    "seafood",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sole fillets",
+      "amount": "4",
+      "notes": "fresh"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "capers",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "1 tablespoon",
+      "notes": "all-purpose"
+    }
+  ],
+  "instructions": [
+    "Season the sole fillets with salt and pepper.",
+    "Dredge the sole fillets in flour, shaking off excess.",
+    "Heat a skillet over medium-high heat.",
+    "Add butter to the skillet and cook until browned, about 2 minutes.",
+    "Add the sole fillets to the skillet and cook for 2-3 minutes per side, or until cooked through.",
+    "Remove the sole fillets from the skillet and set aside.",
+    "Add capers and lemon juice to the skillet and cook for 1 minute.",
+    "Stir in chopped parsley.",
+    "Serve the sole fillets with the browned butter and caper sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "seafood",
+    "sole",
+    "browned-butter",
+    "capers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 36,
+    "carbs": 4,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grassy-british-seafood-bake--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T10:17:21.592Z"
+}
