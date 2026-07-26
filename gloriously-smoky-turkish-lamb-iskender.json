@@ -1,0 +1,89 @@
+{
+  "slug": "gloriously-smoky-turkish-lamb-iskender",
+  "title": "Turkish-Style Smoky Lamb Kebabs",
+  "description": "A classic Turkish dish featuring smoky lamb, served with a tangy tomato sauce and crusty bread.",
+  "cuisine": "Turkish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoky Lamb",
+      "amount": "500g",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Gloriously Good Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing kebabs"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Iskender Spice Mix",
+      "amount": "1 tablespoon",
+      "notes": "Available at Middle Eastern markets"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 large",
+      "notes": "Diced"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 large",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a small bowl, mix together Iskender Spice Mix, salt, and black pepper.",
+    "3. Brush lamb cubes with olive oil and sprinkle with spice mixture.",
+    "4. Thread lamb cubes onto skewers, leaving a small space between each piece.",
+    "5. Grill kebabs for 8-10 minutes per side, or until lamb reaches 145°F (63°C) for medium-rare.",
+    "6. Meanwhile, heat a large skillet over medium heat.",
+    "7. Add diced tomatoes, sliced onion, and minced garlic to skillet. Cook for 10-12 minutes, stirring occasionally.",
+    "8. Stir in chopped parsley and cook for an additional 2 minutes.",
+    "9. Serve kebabs hot with tomato sauce and crusty bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "kebabs",
+    "lamb",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gloriously-smoky-turkish-lamb-iskender",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T16:04:51.463Z"
+}
