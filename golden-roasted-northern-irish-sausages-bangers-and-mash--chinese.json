@@ -1,0 +1,77 @@
+{
+  "slug": "golden-roasted-northern-irish-sausages-bangers-and-mash--chinese",
+  "title": "Chinese Sausage and Mash Stir Fry",
+  "description": "A simple and flavorful stir fry made with sausages, vegetables, and mashed potatoes, inspired by Chinese cuisine.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Northern Irish sausages",
+      "amount": "4-6",
+      "notes": "Choose a brand that is gluten-free"
+    },
+    {
+      "name": "Golden mashed potatoes",
+      "amount": "2 cups",
+      "notes": "Mashed using butter and milk"
+    },
+    {
+      "name": "Roasted vegetables (such as carrots, bell peppers, and broccoli)",
+      "amount": "1 cup",
+      "notes": "Roasted in the oven with olive oil and salt"
+    },
+    {
+      "name": "And (green onions)",
+      "amount": "1/4 cup",
+      "notes": "Chopped and used as garnish"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "Used as a marinade and stir-fry sauce"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": "Used for stir-frying"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "Used to season"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Toss the roasted vegetables with olive oil, salt, and pepper. Roast in the oven for 15-20 minutes, or until tender.",
+    "3. Cook the Northern Irish sausages in a pan over medium heat, breaking them up with a spoon as they cook.",
+    "4. Add the soy sauce to the pan and stir to combine.",
+    "5. Add the roasted vegetables to the pan and stir to combine.",
+    "6. Serve the sausages and vegetables over golden mashed potatoes.",
+    "7. Garnish with chopped green onions and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "sausages",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-roasted-northern-irish-sausages-bangers-and-mash--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T17:50:57.454Z"
+}
