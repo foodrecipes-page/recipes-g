@@ -17312,5 +17312,31 @@
     "cuisine": "thai",
     "totalTimeMin": 22,
     "shard": "g"
+  },
+  {
+    "slug": "gentle-slovakian-noodle-dish--mexican",
+    "title": "Slovakian Chicken Noodle Soup",
+    "tags": [
+      "chicken",
+      "noodle",
+      "soup",
+      "mexican"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
+    "slug": "glassy-jelly-briny-vegetables-polish--italian",
+    "title": "Polish-Style Vegetable Bruschetta",
+    "tags": [
+      "bruschetta",
+      "italian",
+      "snack",
+      "vegetarian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 15,
+    "shard": "g"
   }
 ]
