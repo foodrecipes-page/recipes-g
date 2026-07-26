@@ -1,0 +1,77 @@
+{
+  "slug": "gentle-slovakian-noodle-dish--thai",
+  "title": "Thai Gentle Noodle Dish",
+  "description": "A simple and comforting Thai-inspired noodle dish made with gentle noodles and a variety of savory flavors. Perfect for a quick weeknight dinner.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gentle noodles",
+      "amount": "8 oz",
+      "notes": "Choose a gentle, low-carb noodle variety"
+    },
+    {
+      "name": "Slovakian vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "Use a neutral-tasting oil for sautéing"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Thinly slice the onion for even cooking"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince the garlic for maximum flavor"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "Slice the mushrooms into thin strips"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "Use a low-sodium soy sauce for added depth"
+    },
+    {
+      "name": "Slovakian dish seasoning",
+      "amount": "1 tsp",
+      "notes": "Add a touch of Slovakian flair with this unique seasoning"
+    }
+  ],
+  "instructions": [
+    "Cook the gentle noodles according to package instructions. Drain and set aside.",
+    "Heat the Slovakian vegetable oil in a large skillet over medium-high heat.",
+    "Add the onion and garlic to the skillet and sauté for 3-4 minutes, or until the onion is translucent.",
+    "Add the mushrooms to the skillet and cook for an additional 2-3 minutes, or until they release their moisture and start to brown.",
+    "Pour in the soy sauce and Slovakian dish seasoning, and stir to combine. Cook for 1-2 minutes, or until the sauce has thickened slightly.",
+    "Add the cooked noodles to the skillet and toss to combine with the sauce and vegetables.",
+    "Serve hot, garnished with chopped green onions or sesame seeds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "noodle",
+    "vegetarian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gentle-slovakian-noodle-dish--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T13:03:50.821Z"
+}
