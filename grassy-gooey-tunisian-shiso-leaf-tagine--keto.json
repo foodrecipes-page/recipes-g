@@ -1,0 +1,82 @@
+{
+  "slug": "grassy-gooey-tunisian-shiso-leaf-tagine--keto",
+  "title": "Grilled Shiso Tagine with Gooey Sauce",
+  "description": "A keto twist on the traditional Tagine, featuring grilled shiso leaves and a gooey sauce.",
+  "cuisine": "North African",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tunisian olives",
+      "amount": "1 cup pitted",
+      "notes": ""
+    },
+    {
+      "name": "Grassy olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Shiso leaves",
+      "amount": "4-6 leaves",
+      "notes": ""
+    },
+    {
+      "name": "Gooey sauce mix",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Leafy fresh parsley",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "Tagine spice blend",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Keto-friendly cheese",
+      "amount": "1/2 cup crumbled",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Brush shiso leaves with grassy olive oil and season with salt and pepper.",
+    "Grill shiso leaves for 2-3 minutes per side, or until slightly charred.",
+    "Meanwhile, mix gooeysauce mix with keto-friendly cheese and a pinch of tagine spice blend.",
+    "Transfer grilled shiso leaves to a plate and top with gooey sauce mixture.",
+    "Garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "grilled",
+    "easy",
+    "dinner",
+    "north african"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 5,
+    "fat": 36
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grassy-gooey-tunisian-shiso-leaf-tagine--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T09:11:08.485Z"
+}
