@@ -1,0 +1,94 @@
+{
+  "slug": "garlicky-indulgent-tunisian-marzipan-tagine--indian",
+  "title": "Garlicky Chicken Tagine",
+  "description": "A flavorful and aromatic Indian-inspired dish made with marinated chicken, cooked in a rich tagine sauce with a hint of Tunisian spices.",
+  "cuisine": "indian",
+  "diet": [
+    "non-veg"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Garlicky Chicken Breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Marzipan",
+      "amount": "2 tablespoons",
+      "notes": "crushed"
+    },
+    {
+      "name": "Tagine Sauce Mix",
+      "amount": "2 tablespoons",
+      "notes": "available at Indian grocery stores"
+    },
+    {
+      "name": "Ghee or Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "Tunisian Spice Blend",
+      "amount": "1 teaspoon",
+      "notes": "available at Middle Eastern grocery stores"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Heat ghee or oil in a large pan over medium heat.",
+    "Add onion and cook until translucent, about 5 minutes.",
+    "Add ginger and garlic and cook for another minute.",
+    "Add marinated chicken and cook until browned, about 5-7 minutes.",
+    "Add tagine sauce mix, crushed marzipan, coconut milk, and Tunisian spice blend. Stir well.",
+    "Bring the mixture to a boil, then reduce heat to low and simmer for 15-20 minutes or until the chicken is cooked through.",
+    "Season with salt to taste.",
+    "Serve hot garnished with fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "indian",
+    "tagine",
+    "marzipan",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 24,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-indulgent-tunisian-marzipan-tagine--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T17:39:02.108Z"
+}
