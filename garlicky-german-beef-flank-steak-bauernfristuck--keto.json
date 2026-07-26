@@ -1,0 +1,66 @@
+{
+  "slug": "garlicky-german-beef-flank-steak-bauernfristuck--keto",
+  "title": "Bauernfristuck with Garlicky Steak",
+  "description": "A traditional German-style flank steak dish, marinated in a garlicky mixture and grilled to perfection.",
+  "cuisine": "german",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flank steak",
+      "amount": "1 (1.5-2 pounds)",
+      "notes": "preferably at room temperature"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced",
+      "notes": "mashed with 1 tablespoon olive oil"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "used for marinating and grilling"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "preferably kosher or sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (around 400°F).",
+    "In a small bowl, mix together minced garlic and olive oil.",
+    "Rub the garlic-olive oil mixture all over the flank steak, making sure to coat it evenly.",
+    "Season the steak with salt and black pepper to taste.",
+    "Place the steak on the grill and cook for 5-7 minutes per side, or until it reaches an internal temperature of 135°F for medium-rare.",
+    "Transfer the steak to a cutting board and let it rest for 10 minutes before slicing it thinly against the grain.",
+    "Serve the bauernfristuck with your choice of sides, such as sautéed vegetables or a salad."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "steak",
+    "keto",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-german-beef-flank-steak-bauernfristuck--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T16:44:03.925Z"
+}
