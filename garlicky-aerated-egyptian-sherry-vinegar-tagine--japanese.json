@@ -1,0 +1,71 @@
+{
+  "slug": "garlicky-aerated-egyptian-sherry-vinegar-tagine--japanese",
+  "title": "Japanese-Style Braised Chicken Tagine",
+  "description": "A fusion of Japanese flavors with traditional Moroccan cooking techniques, this dish results in tender and savory chicken in a rich garlicky sauce.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "egyptian vinegar",
+      "amount": "1/4 cup",
+      "notes": "apple cider vinegar works as a substitute"
+    },
+    {
+      "name": "sherry",
+      "amount": "2 tablespoons",
+      "notes": "dry sherry"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 (usually 3-quart) clay or ceramic dish with a tight-fitting lid"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the chicken thighs with salt and pepper.",
+    "Heat 1 tablespoon of oil in the tagine over medium-high heat. Sear the chicken until browned on both sides, about 5 minutes. Remove the chicken from the tagine and set aside.",
+    "Reduce heat to medium. Add the remaining 1 tablespoon of oil, minced garlic, and cook until fragrant, about 1-2 minutes.",
+    "Add the egyptian vinegar and dry sherry to the tagine, scraping up any browned bits from the bottom. Bring the mixture to a simmer and cook until slightly reduced, about 2-3 minutes.",
+    "Return the chicken to the tagine, cover with a tight-fitting lid, and transfer to the preheated oven.",
+    "Braise the chicken for about 25-30 minutes, or until tender and falling off the bone.",
+    "Remove the tagine from the oven and let it cool slightly. Serve the chicken in the tagine, spooning some of the garlicky sauce over the top.",
+    "Serve with steamed rice or noodles to soak up the flavorful sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "chicken",
+    "braised",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 34,
+    "carbs": 8,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-aerated-egyptian-sherry-vinegar-tagine--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T21:29:17.338Z"
+}
