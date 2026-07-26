@@ -17271,5 +17271,46 @@
     "cuisine": "japanese",
     "totalTimeMin": 25,
     "shard": "g"
+  },
+  {
+    "slug": "gooey-turkish-cashew-stir-fry--chinese",
+    "title": "Crunchy Cashew Stir-Fry",
+    "tags": [
+      "cashew",
+      "chinese",
+      "stir-fry",
+      "vegetarian"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 10,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-tender-ethiopian-vanilla-custard-bake--vegan",
+    "title": "Ethiopian-Style Garlicky Vegan Custard Bake",
+    "tags": [
+      "garlicky",
+      "ethiopian",
+      "vegan",
+      "custard",
+      "bake",
+      "dessert"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 60,
+    "shard": "g"
+  },
+  {
+    "slug": "gluten-free-falafel-date-night--thai",
+    "title": "Thai Falafel Salad",
+    "tags": [
+      "thai",
+      "gluten-free",
+      "vegetarian",
+      "salad"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 22,
+    "shard": "g"
   }
 ]
