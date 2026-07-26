@@ -1,0 +1,85 @@
+{
+  "slug": "ground-galangal-ginger-syrian-galangal-bake--italian",
+  "title": "Baked Galangal and Italian Sausage",
+  "description": "A unique twist on traditional Italian sausage with the earthy flavor of galangal. This baked dish is easy to make and packed with flavor.",
+  "cuisine": "italian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Italian Sausage (Syrian)",
+      "amount": "1 pound",
+      "notes": "make sure to get a mix that includes galangal"
+    },
+    {
+      "name": "Galangal",
+      "amount": "1 large piece",
+      "notes": "about 1 inch in length"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "about 1/2 of a medium size"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": "to help bind the sausage"
+    },
+    {
+      "name": "Bake",
+      "amount": "1",
+      "notes": "preheat the oven to 375 degrees"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing sausage"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees. Line a baking sheet with parchment paper.",
+    "Cut the galangal into 1 inch pieces. Place on the baking sheet.",
+    "Cut the ginger into 1/2 inch pieces. Place on the baking sheet.",
+    "Cut the Italian sausage into 1 inch pieces. Place on the baking sheet.",
+    "Drizzle the olive oil over the sausage and galangal. Sprinkle with salt and black pepper.",
+    "Bake in the oven for 15 minutes.",
+    "Remove the baking sheet from the oven. Brush the sausage with more olive oil if needed.",
+    "Return the baking sheet to the oven and bake for an additional 5 minutes.",
+    "Remove the baking sheet from the oven. The sausage should be cooked through and the galangal should be tender.",
+    "Serve hot with your choice of sides."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "galangal",
+    "sausage",
+    "baked"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ground-galangal-ginger-syrian-galangal-bake--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T11:08:29.909Z"
+}
