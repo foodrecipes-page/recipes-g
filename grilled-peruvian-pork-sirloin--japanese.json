@@ -1,0 +1,73 @@
+{
+  "slug": "grilled-peruvian-pork-sirloin--japanese",
+  "title": "Grilled Sirloin with Peruvian Gochujang Glaze",
+  "description": "A fusion of Japanese and Peruvian flavors, this grilled sirloin recipe is a delicious and spicy twist on a classic dish.",
+  "cuisine": "japanese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sirloin Steak",
+      "amount": "1.5 pounds",
+      "notes": "preferably ribeye or strip loin"
+    },
+    {
+      "name": "Gochujang Sauce",
+      "amount": "1/4 cup",
+      "notes": "Peruvian chili paste"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "Japanese soy sauce"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "2 tablespoons",
+      "notes": " adds sweetness to balance out the heat"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F).",
+    "Season the sirloin with salt and pepper.",
+    "Grill the sirloin for 4-5 minutes per side, or until it reaches an internal temperature of 130°F for medium-rare.",
+    "While the sirloin is cooking, mix the gochujang sauce, soy sauce, brown sugar, and grated ginger in a small bowl.",
+    "Brush the glaze onto the sirloin during the last minute of grilling.",
+    "Remove the sirloin from the grill and let it rest for 5 minutes.",
+    "Slice the sirloin against the grain and garnish with chopped green onions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "peruvian",
+    "japanese",
+    "pork-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 55,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grilled-peruvian-pork-sirloin--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T04:33:09.460Z"
+}
