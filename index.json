@@ -16858,12 +16858,12 @@
   },
   {
     "slug": "glowing-chinese-tofu-kung-pao--keto",
-    "title": "Glowing Kung Pao Chicken Tofu",
+    "title": "Keto Kung Pao Chicken",
     "tags": [
       "keto",
-      "chicken",
-      "tofu",
-      "stir-fry"
+      "chinese",
+      "kung pao",
+      "chicken"
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 25,
@@ -17606,6 +17606,36 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 135,
+    "shard": "g"
+  },
+  {
+    "slug": "glorious-springy-turkish-lamb-kebab-doner--vegetarian",
+    "title": "Vegetarian Turkish-Style Stuffed Bell Peppers",
+    "tags": [
+      "turkish",
+      "vegetarian",
+      "stuffed-peppers",
+      "rice-bowl"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 50,
+    "shard": "g"
+  },
+  {
+    "slug": "gently-spiced-syrian-lamb-kebabs--vegetarian",
+    "title": "Syrian-Style Kebabs",
+    "tags": [
+      "kebabs",
+      "portobello",
+      "mushroom",
+      "veggie",
+      "lunch",
+      "dinner",
+      "vegetarian",
+      "middle eastern"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 25,
     "shard": "g"
   }
 ]
