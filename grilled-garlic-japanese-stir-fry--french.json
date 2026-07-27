@@ -1,0 +1,83 @@
+{
+  "slug": "grilled-garlic-japanese-stir-fry--french",
+  "title": "French-Style Grilled Shrimp Stir-Fry",
+  "description": "A quick and flavorful dish featuring succulent shrimp, garlic, and a hint of Japanese flair.",
+  "cuisine": "french",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Japanese Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Grilled Bell Peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Green Onions",
+      "amount": "for garnish",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add garlic and cook for 1 minute, until fragrant.",
+    "Add shrimp and cook for 2-3 minutes per side, until pink and cooked through.",
+    "Add bell peppers and cook for an additional 2-3 minutes, until tender.",
+    "Stir in soy sauce and cook for 1 minute, until heated through.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped green onions and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "grilled",
+    "garlic",
+    "japanese",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grilled-garlic-japanese-stir-fry--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T09:17:37.229Z"
+}
