@@ -1,0 +1,80 @@
+{
+  "slug": "greatly-sweet-argentinian-almond-empanadas--vegan",
+  "title": "Argentinian Sweet Empanadas",
+  "description": "A delicious vegan twist on traditional Argentinian empanadas, filled with sweet almond filling and perfect for snacking.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Almond flour",
+      "amount": "1 1/2 cups",
+      "notes": "make sure it's vegan"
+    },
+    {
+      "name": "Coconut sugar",
+      "amount": "1/2 cup",
+      "notes": "or other vegan sweetener"
+    },
+    {
+      "name": "Almond butter",
+      "amount": "1/2 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp",
+      "notes": "make sure it's vegan"
+    },
+    {
+      "name": "Empanada dough",
+      "amount": "homemade or store-bought",
+      "notes": "make sure it's vegan"
+    },
+    {
+      "name": "Water",
+      "amount": "as needed",
+      "notes": "for dough hydration"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. In a blender or food processor, combine almond flour, coconut sugar, almond butter, and vanilla extract. Blend until smooth.",
+    "3. Gradually add the melted coconut oil and blend until a dough forms.",
+    "4. Divide the dough into 8-10 equal pieces and roll each piece into a ball.",
+    "5. Roll out each ball into a thin circle, about 1/8 inch thick.",
+    "6. Place a tablespoon of the almond filling in the center of each circle.",
+    "7. Fold the dough in half and press the edges together to seal the empanada.",
+    "8. Brush the tops with a little water and bake for 20-25 minutes, or until golden brown.",
+    "9. Serve warm and enjoy!",
+    "10. Repeat with the remaining dough and filling."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "argentinian",
+    "almond",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/greatly-sweet-argentinian-almond-empanadas--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T09:09:50.463Z"
+}
