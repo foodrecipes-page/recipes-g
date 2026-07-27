@@ -17543,5 +17543,17 @@
     "cuisine": "japanese",
     "totalTimeMin": 50,
     "shard": "g"
+  },
+  {
+    "slug": "gluten-free-indian-pistachio-stir-fry--vegan",
+    "title": "Spicy Pistachio Stir Fry",
+    "tags": [
+      "vegan",
+      "indian",
+      "gluten-free"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 20,
+    "shard": "g"
   }
 ]
