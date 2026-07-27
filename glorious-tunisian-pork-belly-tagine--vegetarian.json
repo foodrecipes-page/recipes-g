@@ -1,0 +1,83 @@
+{
+  "slug": "glorious-tunisian-pork-belly-tagine--vegetarian",
+  "title": "Vegetarian Tagine Belle Epoque",
+  "description": "Inspired by the flavors of Tunisia, this hearty vegetarian tagine is a delicious twist on traditional North African cuisine.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Glorious Olives",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tunisian Apricots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "2"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large clay or ceramic tagine over medium heat.",
+    "Add the ginger and cook, stirring occasionally, until fragrant, 4-5 minutes.",
+    "Add the bell peppers and carrots and cook, stirring occasionally, until they begin to soften, 5 minutes.",
+    "Add the cumin, paprika, salt, and cinnamon and cook for 1 minute, stirring constantly.",
+    "Add the olives, apricots, and enough water to cover the ingredients. Bring to a boil, then reduce the heat to low and simmer, covered, until the vegetables are tender, 20-25 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "tunisian",
+    "vegetarian",
+    "glorious-olives",
+    "bell-peppers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/glorious-tunisian-pork-belly-tagine--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T23:30:38.119Z"
+}
