@@ -10330,13 +10330,14 @@
   },
   {
     "slug": "golden-sugar-butter-bites",
-    "title": "Golden Sugar Butter Bites",
+    "title": "Golden Bites",
     "tags": [
-      "golden-butter-bites",
-      "keto-dessert"
+      "sugar",
+      "dessert",
+      "bites"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 25,
+    "cuisine": null,
+    "totalTimeMin": 22,
     "shard": "g"
   },
   {
@@ -12702,16 +12703,14 @@
   },
   {
     "slug": "gourmet-american-almond-burger",
-    "title": "Gourmet American Almond Burger",
+    "title": "Gourmet Almond Burger",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "macrobiotic-friendly",
-      "one-pan",
-      "weeknight"
+      "gourmet",
+      "almond",
+      "burger"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 35,
+    "cuisine": "american",
+    "totalTimeMin": 20,
     "shard": "g"
   },
   {
@@ -17554,6 +17553,47 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 20,
+    "shard": "g"
+  },
+  {
+    "slug": "glorious-tunisian-pork-belly-tagine--vegetarian",
+    "title": "Vegetarian Tagine Belle Epoque",
+    "tags": [
+      "north-african",
+      "tunisian",
+      "vegetarian",
+      "glorious-olives",
+      "bell-peppers"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 45,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-silky-dutch-marzipan-fritters--gluten-free",
+    "title": "Dutch Fritter Delight",
+    "tags": [
+      "gluten-free",
+      "sweet",
+      "crunchy"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
+    "slug": "gooey-midnight-citrus-syrian-stir-fry--italian",
+    "title": "Syrian Frittata with Citrus",
+    "tags": [
+      "italian",
+      "breakfast",
+      "eggs",
+      "frittata",
+      "cheese",
+      "citrus"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 30,
     "shard": "g"
   }
 ]
