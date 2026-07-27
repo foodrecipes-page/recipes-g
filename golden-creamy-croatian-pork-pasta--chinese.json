@@ -1,0 +1,80 @@
+{
+  "slug": "golden-creamy-croatian-pork-pasta--chinese",
+  "title": "Croatian Pork Noodle Stir Fry",
+  "description": "A fusion of Eastern European and Chinese flavors, this dish combines the rich taste of Croatian pork with the crunch of noodles.",
+  "cuisine": "chinese",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Croatian pork",
+      "amount": "500g"
+    },
+    {
+      "name": "Pasta",
+      "amount": "200g"
+    },
+    {
+      "name": "Golden stir-fry sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Crema",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the Croatian pork and cook until browned, about 3-4 minutes.",
+    "Add the pasta, golden stir-fry sauce, crema, soy sauce, and sugar. Stir-fry for 2-3 minutes.",
+    "Add the chopped green onions and stir-fry for another minute.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "pork-dish",
+    "noodle-stir-fry"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-creamy-croatian-pork-pasta--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T08:30:25.768Z"
+}
