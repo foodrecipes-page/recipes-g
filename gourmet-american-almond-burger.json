@@ -1,0 +1,86 @@
+{
+  "slug": "gourmet-american-almond-burger",
+  "title": "Gourmet Almond Burger",
+  "description": "A gourmet twist on the classic burger, featuring a crispy almond-crusted patty and topped with caramelized onions.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb almond-flour patty mix",
+      "amount": "1",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "1/4 cup almond milk",
+      "amount": "1/4 cup",
+      "notes": "for egg substitute"
+    },
+    {
+      "name": "1/4 cup finely chopped onion",
+      "amount": "1/4 cup",
+      "notes": "for patty mix"
+    },
+    {
+      "name": "1/4 cup grated cheddar cheese",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "4 hamburger buns",
+      "amount": "4",
+      "notes": "gluten-free or regular"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Ketchup",
+      "amount": "1/4 cup",
+      "notes": "for topping"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or grill to medium-high heat.",
+    "Form the almond-flour patty mix into 4 equal-sized patties.",
+    "Place the patties in the preheated skillet or grill and cook for 4-5 minutes per side, or until crispy and golden brown.",
+    "Meanwhile, toast the hamburger buns by placing them in the oven at 350°F for 2-3 minutes.",
+    "Assemble the burgers by spreading ketchup on the bottom bun, followed by a cooked patty, a slice of cheese (if using), a lettuce leaf, a tomato slice, and finally the top bun.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gourmet",
+    "almond",
+    "burger"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gourmet-american-almond-burger",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T23:15:19.648Z"
+}
