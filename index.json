@@ -17703,5 +17703,30 @@
     "cuisine": "mexican",
     "totalTimeMin": 35,
     "shard": "g"
+  },
+  {
+    "slug": "grilled-british-grape-nuts-pilaf--chinese",
+    "title": "Grape Pilaf with Grilled Nuts",
+    "tags": [
+      "chinese",
+      "healthy",
+      "snack",
+      "grilled"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 20,
+    "shard": "g"
+  },
+  {
+    "slug": "golden-algerian-chicken-wings-skewers--french",
+    "title": "Chicken Skewers Provençale",
+    "tags": [
+      "chicken",
+      "skewers",
+      "french"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 30,
+    "shard": "g"
   }
 ]
