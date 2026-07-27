@@ -1,0 +1,81 @@
+{
+  "slug": "gooey-midnight-citrus-syrian-stir-fry--italian",
+  "title": "Syrian Frittata with Citrus",
+  "description": "A flavorful Italian-inspired egg dish featuring a blend of Syrian spices and a squeeze of citrus.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4"
+    },
+    {
+      "name": "goeey",
+      "amount": "1/4 cup, crumbled"
+    },
+    {
+      "name": "citrus",
+      "amount": "1/2 cup, juice of"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove, minced",
+      "notes": "you may have midnight from your pantry or buy it"
+    },
+    {
+      "name": "syrian spice blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup, grated"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Whisk together eggs, citrus juice, and a pinch of salt and pepper in a large bowl. Set aside.",
+    "Heat olive oil in a 9-inch oven-safe skillet over medium heat.",
+    "Add garlic and cook, stirring occasionally, until fragrant, about 1 minute.",
+    "Add crumbled gooey cheese and cook, stirring occasionally, until melted and well combined with garlic.",
+    "Pour egg mixture over the top of the cheese mixture in the skillet.",
+    "Sprinkle Syrian spice blend and parmesan cheese evenly over the eggs.",
+    "Transfer the skillet to the preheated oven and bake until the eggs are set and the frittata is golden brown on top, about 15-20 minutes.",
+    "Remove from oven and let cool for a few minutes.",
+    "Slice into wedges and serve hot.",
+    "Note: If using midnight, proceed with caution as its texture might not be suitable for all."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "breakfast",
+    "eggs",
+    "frittata",
+    "cheese",
+    "citrus"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-midnight-citrus-syrian-stir-fry--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T23:52:07.227Z"
+}
