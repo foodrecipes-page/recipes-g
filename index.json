@@ -17637,5 +17637,18 @@
     "cuisine": "Middle Eastern",
     "totalTimeMin": 25,
     "shard": "g"
+  },
+  {
+    "slug": "glazed-croatian-katsuobushi-ramen--indian",
+    "title": "Spicy Ramen Noodle Curry",
+    "tags": [
+      "curry",
+      "noodles",
+      "spicy",
+      "veggie"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "g"
   }
 ]
