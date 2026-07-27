@@ -1,0 +1,75 @@
+{
+  "slug": "gluten-free-indian-pistachio-stir-fry--vegan",
+  "title": "Spicy Pistachio Stir Fry",
+  "description": "A flavorful and nutritious vegan Indian-inspired stir fry made with pistachios and a blend of spices.",
+  "cuisine": "indian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pistachios",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "gluten-free soy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of coconut oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and bell pepper and stir-fry for 3-4 minutes, or until they start to soften.",
+    "Add the chopped pistachios and stir-fry for another 2-3 minutes.",
+    "Add the gluten-free soy sauce, cumin, and coriander, and stir-fry for 1 minute.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "indian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gluten-free-indian-pistachio-stir-fry--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T22:11:26.805Z"
+}
