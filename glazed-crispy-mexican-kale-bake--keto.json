@@ -1,0 +1,68 @@
+{
+  "slug": "glazed-crispy-mexican-kale-bake--keto",
+  "title": "Crispy Mexican Kale Bites",
+  "description": "A keto recipe with crispy kale bites, perfect for a quick snack or side dish. The combination of spicy Mexican flavors and crunchy texture makes this dish addictive.",
+  "cuisine": "Mexican",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "kale",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "crispy",
+      "amount": "1 can",
+      "notes": "Mexican style crispy taco shells"
+    },
+    {
+      "name": "bake",
+      "amount": "1/4 cup",
+      "notes": "ground beef or chicken, seasoned with cumin and chili powder"
+    },
+    {
+      "name": "mexican",
+      "amount": "2 tbsp",
+      "notes": "Mexican seasoning blend"
+    },
+    {
+      "name": "glazed",
+      "amount": "1 tbsp",
+      "notes": "honey or sugar-free sweetener"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Rip the kale leaves into bite-sized pieces and place on a baking sheet.",
+    "Drizzle with a little oil and sprinkle with salt; toss to coat.",
+    "Bake in the preheated oven for 5-7 minutes, until crispy.",
+    "Meanwhile, heat the Mexican seasoning blend in a pan over medium-high heat.",
+    "Add the ground beef or chicken and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the crispy taco shells to the pan and stir to combine with the meat mixture.",
+    "Remove the kale from the oven and let cool slightly.",
+    "Use the kale as a base for the bites, topping each piece with a spoonful of the meat and shell mixture.",
+    "Drizzle with a little glazed sauce and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto-snacks",
+    "mexican-food",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 5,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/glazed-crispy-mexican-kale-bake--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T08:43:19.308Z"
+}
