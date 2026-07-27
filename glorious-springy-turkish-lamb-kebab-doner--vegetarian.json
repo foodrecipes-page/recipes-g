@@ -1,0 +1,87 @@
+{
+  "slug": "glorious-springy-turkish-lamb-kebab-doner--vegetarian",
+  "title": "Vegetarian Turkish-Style Stuffed Bell Peppers",
+  "description": "A twist on traditional Turkish kebabs, this recipe features roasted bell peppers stuffed with a flavorful mix of rice, herbs, and spices, all vegetarian and perfectly suited for a weeknight dinner.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bell peppers",
+      "amount": "4",
+      "notes": "any color"
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "glorious springy onions",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "springy parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the tops off the bell peppers and remove seeds and membranes.",
+    "In a large bowl, combine rice, onions, parsley, oregano, thyme, salt, and black pepper.",
+    "Stuff each bell pepper with the rice mixture, filling to the top.",
+    "Drizzle with olive oil and cover with aluminum foil.",
+    "Bake for 25 minutes, then remove foil and continue baking for an additional 10-15 minutes.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "vegetarian",
+    "stuffed-peppers",
+    "rice-bowl"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/glorious-springy-turkish-lamb-kebab-doner--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T02:24:37.493Z"
+}
