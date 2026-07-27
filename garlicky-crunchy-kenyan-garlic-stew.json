@@ -1,0 +1,60 @@
+{
+  "slug": "garlicky-crunchy-kenyan-garlic-stew",
+  "title": "Kenyan Garlic Stew",
+  "description": "A flavorful stew originating from Kenya that combines the spices and herbs of the region with the pungency of garlic. This hearty dish is perfect for a chilly evening.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "garlicky",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "crunchy",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add minced garlic and cook until fragrant, about 1 minute.",
+    "Add chopped garlicky and cook for an additional 2 minutes.",
+    "Add chopped stew and crunchy, and cook until the vegetables are tender, about 5 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "garlic",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-crunchy-kenyan-garlic-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T05:04:53.378Z"
+}
