@@ -17728,5 +17728,56 @@
     "cuisine": "french",
     "totalTimeMin": 30,
     "shard": "g"
+  },
+  {
+    "slug": "golden-creamy-croatian-pork-pasta--chinese",
+    "title": "Croatian Pork Noodle Stir Fry",
+    "tags": [
+      "chinese-cuisine",
+      "pork-dish",
+      "noodle-stir-fry"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
+    "slug": "glazed-crispy-mexican-kale-bake--keto",
+    "title": "Crispy Mexican Kale Bites",
+    "tags": [
+      "keto-snacks",
+      "mexican-food",
+      "low-carb"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
+    "slug": "greatly-sweet-argentinian-almond-empanadas--vegan",
+    "title": "Argentinian Sweet Empanadas",
+    "tags": [
+      "vegan",
+      "argentinian",
+      "almond",
+      "sweet"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 40,
+    "shard": "g"
+  },
+  {
+    "slug": "grilled-garlic-japanese-stir-fry--french",
+    "title": "French-Style Grilled Shrimp Stir-Fry",
+    "tags": [
+      "french",
+      "grilled",
+      "garlic",
+      "japanese",
+      "stir-fry"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "g"
   }
 ]
