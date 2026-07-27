@@ -1,0 +1,65 @@
+{
+  "slug": "golden-algerian-chicken-wings-skewers--french",
+  "title": "Chicken Skewers Provençale",
+  "description": "A French-inspired recipe featuring marinated chicken skewers grilled to perfection. This dish is perfect for a quick and flavorful meal.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "500g",
+      "notes": "boneless, skinless chicken breast or thighs"
+    },
+    {
+      "name": "golden",
+      "amount": "2",
+      "notes": "olive oil"
+    },
+    {
+      "name": "algerian",
+      "amount": "2",
+      "notes": "chili powder"
+    },
+    {
+      "name": "wings",
+      "amount": "1.5",
+      "notes": "skewers"
+    },
+    {
+      "name": "lemon",
+      "amount": "2",
+      "notes": "juiced"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, chili powder, and lemon juice.",
+    "Add chicken to the marinade and mix well to coat.",
+    "Soak skewers in water for at least 30 minutes.",
+    "Thread chicken onto skewers, leaving a little space between each piece.",
+    "Season with salt and pepper to taste.",
+    "Grill skewers for 8-10 minutes, turning occasionally, until cooked through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "skewers",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 40,
+    "carbs": 5,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-algerian-chicken-wings-skewers--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T07:42:17.575Z"
+}
