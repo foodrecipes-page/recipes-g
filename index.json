@@ -17595,5 +17595,17 @@
     "cuisine": "italian",
     "totalTimeMin": 30,
     "shard": "g"
+  },
+  {
+    "slug": "glowing-smoky-mexican-beef-huaraches--german",
+    "title": "Smoky Huarache Stew",
+    "tags": [
+      "german",
+      "beef",
+      "stew"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 135,
+    "shard": "g"
   }
 ]
