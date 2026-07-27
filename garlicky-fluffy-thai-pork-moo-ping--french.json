@@ -1,0 +1,74 @@
+{
+  "slug": "garlicky-fluffy-thai-pork-moo-ping--french",
+  "title": "Pan-Seared Moo Medallions with Garlicky Butter",
+  "description": "A classic French dish featuring tender moo medallions served with a rich garlicky butter sauce.",
+  "cuisine": "french",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Moo medallions",
+      "amount": "4 (6 oz each)"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Flour",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Season the moo medallions with salt and black pepper.",
+    "Heat a skillet over medium-high heat.",
+    "Add 1 tbsp of butter to the skillet and sear the moo medallions for 2-3 minutes per side, or until cooked to a safe internal temperature of 145°F.",
+    "Remove the moo medallions from the skillet and set aside.",
+    "Reduce heat to medium and add the remaining 1 tbsp of butter to the skillet.",
+    "Add the minced garlic to the skillet and cook for 1 minute, or until fragrant.",
+    "Sprinkle the flour over the garlic and cook for 1 minute, stirring constantly.",
+    "Gradually add 2 tbsp of water to the skillet, whisking continuously.",
+    "Return the moo medallions to the skillet and spoon some of the garlicky butter sauce over the top.",
+    "Serve immediately, garnished with chopped parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "meat",
+    "moo",
+    "garlic",
+    "butter"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 4,
+    "fat": 43
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-fluffy-thai-pork-moo-ping--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T04:05:20.662Z"
+}
