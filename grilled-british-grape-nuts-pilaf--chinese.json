@@ -1,0 +1,65 @@
+{
+  "slug": "grilled-british-grape-nuts-pilaf--chinese",
+  "title": "Grape Pilaf with Grilled Nuts",
+  "description": "A flavorful and healthy Chinese-inspired dish featuring grilled nuts and pilaf with a sweet twist from fresh grapes.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Grapes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Peanuts",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Cook the pilaf according to package instructions.",
+    "2. In a large skillet or wok, heat the vegetable oil over medium-high heat.",
+    "3. Add the sliced peanuts and stir-fry until fragrant and lightly toasted.",
+    "4. Add the cooked pilaf to the skillet and stir-fry for 2-3 minutes.",
+    "5. Add the halved grapes to the skillet and stir-fry for an additional 2-3 minutes.",
+    "6. Season with soy sauce to taste.",
+    "7. Serve the pilaf mixture in individual portions and garnish with additional peanuts if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "healthy",
+    "snack",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grilled-british-grape-nuts-pilaf--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T07:12:47.230Z"
+}
