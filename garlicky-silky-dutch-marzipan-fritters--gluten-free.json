@@ -1,0 +1,64 @@
+{
+  "slug": "garlicky-silky-dutch-marzipan-fritters--gluten-free",
+  "title": "Dutch Fritter Delight",
+  "description": "A sweet and crunchy gluten-free dessert made with marzipan and fritters.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "fritters",
+      "amount": "1 cup"
+    },
+    {
+      "name": "marzipan",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "garlicky",
+      "amount": "1/4 teaspoon",
+      "notes": "for flavor"
+    },
+    {
+      "name": "dutch",
+      "amount": "1/4 teaspoon",
+      "notes": "for flavor"
+    },
+    {
+      "name": "silky",
+      "amount": "1 tablespoon",
+      "notes": "for texture"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, mix together the fritters and marzipan until well combined.",
+    "Add the garlicky and dutch to the bowl and mix until smooth.",
+    "Roll out the mixture into small balls and place on a baking sheet.",
+    "Drizzle with silky to enhance texture.",
+    "Bake for 12-15 minutes or until golden brown.",
+    "Let cool completely before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "sweet",
+    "crunchy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-silky-dutch-marzipan-fritters--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T23:51:09.725Z"
+}
