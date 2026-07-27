@@ -1,0 +1,85 @@
+{
+  "slug": "gooey-romantic-chocolate-pancake--japanese",
+  "title": "Matcha Pancake with Chocolate Sauce",
+  "description": "A twist on traditional Japanese-style pancakes, topped with a rich chocolate sauce. Perfect for a romantic breakfast.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 cup all-purpose flour",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons matcha powder",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cups milk",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 large eggs",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup granulated sugar",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup pancake mix",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup unsalted butter, melted",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup chocolate chips",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, matcha powder, sugar, and a pinch of salt.",
+    "In a separate bowl, whisk together milk, eggs, and melted butter.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined. Do not overmix.",
+    "Heat a non-stick pan or griddle over medium heat.",
+    "Drop the batter by 1/4 cupfuls onto the pan and cook until bubbles appear on the surface.",
+    "Flip the pancakes and cook until golden brown.",
+    "While the pancakes are cooking, melt the chocolate chips in a double boiler or in the microwave in 10-second increments, stirring between each interval.",
+    "Serve the pancakes with the warm chocolate sauce drizzled on top.",
+    "Garnish with a sprinkle of matcha powder, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "matcha",
+    "pancake",
+    "chocolate",
+    "breakfast",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-romantic-chocolate-pancake--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T04:26:55.888Z"
+}
