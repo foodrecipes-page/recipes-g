@@ -1,0 +1,58 @@
+{
+  "slug": "golden-sugar-butter-bites",
+  "title": "Golden Bites",
+  "description": "A sweet and crunchy dessert made with golden sugar and butter. Perfect for a quick snack.",
+  "cuisine": null,
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Golden sugar",
+      "amount": "1 cup",
+      "notes": "Granulated sugar"
+    },
+    {
+      "name": "Butter",
+      "amount": "1/2 cup",
+      "notes": "Melted"
+    },
+    {
+      "name": "Bakes bites",
+      "amount": "1 package",
+      "notes": "Pre-made"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Line a baking sheet with parchment paper.",
+    "Melt the butter in a saucepan over low heat.",
+    "Add the golden sugar to the melted butter and stir until combined.",
+    "Press the sugar mixture into the center of the baking sheet.",
+    "Place the bakes bites on top of the sugar mixture.",
+    "Bake for 10-12 minutes or until golden brown.",
+    "Remove from the oven and let cool completely.",
+    "Break into pieces and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "sugar",
+    "dessert",
+    "bites"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 2,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/golden-sugar-butter-bites",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T23:48:19.700Z"
+}
