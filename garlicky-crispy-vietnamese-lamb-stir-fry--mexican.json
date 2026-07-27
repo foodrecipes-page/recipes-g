@@ -1,0 +1,74 @@
+{
+  "slug": "garlicky-crispy-vietnamese-lamb-stir-fry--mexican",
+  "title": "Crispy Lamb Fajitas",
+  "description": "Sizzling lamb and vegetables, served with crispy tortillas.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1.5 lbs lamb shoulder, sliced",
+      "amount": "1.5 lbs",
+      "notes": "Cut into thin strips"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 large onion",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 large bell peppers",
+      "amount": "",
+      "notes": "Any color"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp cumin",
+      "amount": "",
+      "notes": "Ground"
+    }
+  ],
+  "instructions": [
+    "Season the lamb with cumin, salt, and pepper.",
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add lamb and cook until browned, about 3-4 minutes.",
+    "Remove lamb and set aside.",
+    "Add more oil if necessary, then add onion and bell peppers.",
+    "Cook until vegetables are tender, about 5 minutes.",
+    "Return lamb to the skillet and stir to combine.",
+    "Cook for an additional 2 minutes.",
+    "Serve with crispy tortillas, garnished with garlic."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "lamb",
+    "fajitas"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-crispy-vietnamese-lamb-stir-fry--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T04:44:45.796Z"
+}
