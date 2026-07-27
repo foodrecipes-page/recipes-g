@@ -1754,14 +1754,14 @@
   },
   {
     "slug": "garlicky-crunchy-kenyan-garlic-stew",
-    "title": "Garlicky Crunchy Kenyan Garlic Stew",
+    "title": "Kenyan Garlic Stew",
     "tags": [
-      "comfort-food",
-      "high-calorie",
-      "one-pan"
+      "kenyan",
+      "garlic",
+      "stew"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 65,
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
@@ -17649,6 +17649,59 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-fluffy-thai-pork-moo-ping--french",
+    "title": "Pan-Seared Moo Medallions with Garlicky Butter",
+    "tags": [
+      "french",
+      "meat",
+      "moo",
+      "garlic",
+      "butter"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
+    "slug": "gooey-romantic-chocolate-pancake--japanese",
+    "title": "Matcha Pancake with Chocolate Sauce",
+    "tags": [
+      "matcha",
+      "pancake",
+      "chocolate",
+      "breakfast",
+      "japanese"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 30,
+    "shard": "g"
+  },
+  {
+    "slug": "grilled-peruvian-pork-sirloin--japanese",
+    "title": "Grilled Sirloin with Peruvian Gochujang Glaze",
+    "tags": [
+      "grilled",
+      "peruvian",
+      "japanese",
+      "pork-free"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 27,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-crispy-vietnamese-lamb-stir-fry--mexican",
+    "title": "Crispy Lamb Fajitas",
+    "tags": [
+      "mexican",
+      "lamb",
+      "fajitas"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
     "shard": "g"
   }
 ]
