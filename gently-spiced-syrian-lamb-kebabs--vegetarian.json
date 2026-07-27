@@ -1,0 +1,98 @@
+{
+  "slug": "gently-spiced-syrian-lamb-kebabs--vegetarian",
+  "title": "Syrian-Style Kebabs",
+  "description": "A flavorful and vegetarian twist on traditional kebabs, made with tender portobello mushrooms and a blend of Middle Eastern spices.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Portobello mushrooms",
+      "amount": "4-6",
+      "notes": null
+    },
+    {
+      "name": "Gently spiced",
+      "amount": "2 tbsp",
+      "notes": "Make sure to use a vegetarian-friendly spice blend"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": null
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Pita bread",
+      "amount": "4-6",
+      "notes": null
+    },
+    {
+      "name": "Tzatziki sauce (vegetarian)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Chopped parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together 1 tbsp olive oil, 1 tbsp lemon juice, 1 tsp garlic (minced), 1 tsp smoked paprika, and 1 tsp salt.",
+    "Add the portobello mushrooms to the bowl and toss to coat with the marinade.",
+    "Thread the marinated mushrooms onto skewers.",
+    "Grill the kebabs for 8-10 minutes, turning occasionally, until the mushrooms are tender and lightly charred.",
+    "Meanwhile, toast the pita bread by wrapping it in foil and heating it in the oven at 350°F (180°C) for 5 minutes.",
+    "Serve the kebabs in the toasted pita bread with tzatziki sauce and garnished with chopped parsley.",
+    "Garnish with additional parsley if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kebabs",
+    "portobello",
+    "mushroom",
+    "veggie",
+    "lunch",
+    "dinner",
+    "vegetarian",
+    "middle eastern"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gently-spiced-syrian-lamb-kebabs--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T02:30:49.077Z"
+}
