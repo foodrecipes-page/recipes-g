@@ -17882,5 +17882,19 @@
     "cuisine": "indian",
     "totalTimeMin": 35,
     "shard": "g"
+  },
+  {
+    "slug": "gentle-steamed-dutch-fish-wrap--vegetarian",
+    "title": "Steamed Fish Wrap",
+    "tags": [
+      "fish",
+      "steamed",
+      "vegetarian",
+      "lunch",
+      "quick"
+    ],
+    "cuisine": "vegetarian",
+    "totalTimeMin": 15,
+    "shard": "g"
   }
 ]
