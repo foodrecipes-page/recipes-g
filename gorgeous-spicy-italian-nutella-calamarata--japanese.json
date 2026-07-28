@@ -1,0 +1,74 @@
+{
+  "slug": "gorgeous-spicy-italian-nutella-calamarata--japanese",
+  "title": "Spicy Calamarata Pasta",
+  "description": "A spicy twist on traditional Japanese pasta, featuring calamarata and a kick of heat. Perfect for a quick and satisfying meal.",
+  "cuisine": "japanese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "calamarata pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "spicy italian sausage",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the calamarata pasta according to package instructions.",
+    "In a large skillet, cook the spicy italian sausage over medium-high heat, breaking it up with a spoon as it cooks.",
+    "Add the garlic to the skillet and cook for 1-2 minutes, until fragrant.",
+    "Add the soy sauce, brown sugar, and red pepper flakes to the skillet and stir to combine.",
+    "Add the cooked calamarata pasta to the skillet and toss with the spicy sauce.",
+    "Serve the pasta hot, garnished with green onions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "pasta",
+    "spicy",
+    "italian-sausage"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gorgeous-spicy-italian-nutella-calamarata--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T12:15:09.945Z"
+}
