@@ -4080,19 +4080,15 @@
   },
   {
     "slug": "garlicky-spring-syrian-lamb-tagine",
-    "title": "garlicky spring syrian lamb tagine",
+    "title": "Syrian Lamb Tagine",
     "tags": [
-      "festive",
-      "glaze",
       "lamb",
-      "madras-paste",
-      "one-pan",
-      "spring",
+      "stew",
       "syrian",
-      "tagine"
+      "slow-cooker"
     ],
-    "cuisine": "syrian",
-    "totalTimeMin": 140,
+    "cuisine": "Syrian",
+    "totalTimeMin": 170,
     "shard": "g"
   },
   {
@@ -17923,6 +17919,32 @@
       "vegetarian"
     ],
     "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-creamy-poached-turkey-stir-fry--mexican",
+    "title": "Poached Turkey Tacos",
+    "tags": [
+      "mexican",
+      "poached-turkey",
+      "creamy-sauce",
+      "tacos"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
+    "shard": "g"
+  },
+  {
+    "slug": "gently-spiced-ethiopian-lamb-fir-fir--italian",
+    "title": "Herb-Crusted Lamb Chops with Fir Tips",
+    "tags": [
+      "italian",
+      "lamb",
+      "fir",
+      "herbs"
+    ],
+    "cuisine": "Italian",
     "totalTimeMin": 35,
     "shard": "g"
   }
