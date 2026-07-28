@@ -1,0 +1,79 @@
+{
+  "slug": "garlicky-creamy-poached-turkey-stir-fry--mexican",
+  "title": "Poached Turkey Tacos",
+  "description": "A twist on traditional Mexican tacos, this dish features poached turkey, creamy sauce, and a touch of garlicky flavor.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Turkey breast",
+      "amount": "1 pound",
+      "notes": "Pronounced lean meat"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "For poaching the turkey"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salsa",
+      "amount": "1/2 cup",
+      "notes": "Mild"
+    },
+    {
+      "name": "Creamy sauce (Mexican crema)",
+      "amount": "1/2 cup",
+      "notes": "Store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "1. In a large saucepan, combine poaching liquid ingredients. Heat over medium heat.",
+    "2. Add the turkey breast to the saucepan. Poach for 15-20 minutes.",
+    "3. While the turkey is cooking, prepare the creamy sauce by mixing it with chopped cilantro and lime juice.",
+    "4. Once the turkey is cooked, let it rest for 5 minutes.",
+    "5. Slice the turkey into thin strips.",
+    "6. Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "7. Assemble the tacos by placing a few slices of the poached turkey onto a tortilla, followed by a spoonful of the creamy sauce and a sprinkle of salsa.",
+    "8. Garnish with additional cilantro and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "poached-turkey",
+    "creamy-sauce",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-creamy-poached-turkey-stir-fry--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T18:09:24.039Z"
+}
