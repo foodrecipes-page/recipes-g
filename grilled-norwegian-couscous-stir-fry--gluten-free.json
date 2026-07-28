@@ -1,0 +1,74 @@
+{
+  "slug": "grilled-norwegian-couscous-stir-fry--gluten-free",
+  "title": "Pan-Seared Grilled Salmon with Couscous",
+  "description": "A quick and easy meal featuring Pan-Seared Grilled Salmon served with a gluten-free Couscous.",
+  "cuisine": "Nordic",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Grilled Salmon Fillets",
+      "amount": "4 fillets (6 oz each)",
+      "notes": ""
+    },
+    {
+      "name": "Norwegian Couscous",
+      "amount": "1 cup",
+      "notes": "make sure it's gluten-free"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Wedges",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Dill",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Season the salmon fillets with salt and pepper.",
+    "3. Grill the salmon for 4-5 minutes per side, or until cooked through.",
+    "4. Meanwhile, heat the vegetable oil in a large skillet over medium heat.",
+    "5. Add the couscous to the skillet and cook for 2-3 minutes, stirring frequently.",
+    "6. Fluff the couscous with a fork and season with salt and pepper to taste.",
+    "7. Serve the grilled salmon on top of the couscous.",
+    "8. Garnish with lemon wedges and chopped fresh dill.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "salmon",
+    "couscous",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/grilled-norwegian-couscous-stir-fry--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T17:21:10.895Z"
+}
