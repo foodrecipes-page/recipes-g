@@ -1,0 +1,61 @@
+{
+  "slug": "gentle-steamed-dutch-fish-wrap--vegetarian",
+  "title": "Steamed Fish Wrap",
+  "description": "A light and healthy vegetarian meal, perfect for a quick lunch. This steamed fish and wrap recipe is easy to make and packed with nutrients.",
+  "cuisine": "vegetarian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish fillet (vegetarian alternative)",
+      "amount": "1",
+      "notes": "such as tofu or tempeh"
+    },
+    {
+      "name": "Dutch wrap",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Gentle herbs (such as parsley or basil)",
+      "amount": "a handful",
+      "notes": ""
+    },
+    {
+      "name": "Steamed vegetables (such as broccoli or carrots)",
+      "amount": "a handful",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Steam the fish fillet for 8-10 minutes, or until cooked through.",
+    "Wrap the steamed fish in the Dutch wrap.",
+    "Add a handful of gentle herbs on top of the fish.",
+    "Add a handful of steamed vegetables on top of the herbs.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "steamed",
+    "vegetarian",
+    "lunch",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gentle-steamed-dutch-fish-wrap--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T15:45:51.253Z"
+}
