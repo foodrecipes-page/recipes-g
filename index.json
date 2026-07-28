@@ -17947,5 +17947,46 @@
     "cuisine": "Italian",
     "totalTimeMin": 35,
     "shard": "g"
+  },
+  {
+    "slug": "gooey-molten-turkish-tofu-adana-kebap--mexican",
+    "title": "Turkish-Style Tofu Kebap with Molten Cheese",
+    "tags": [
+      "mexican",
+      "turkish",
+      "kebap",
+      "tofu",
+      "veggie"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
+    "slug": "gingerly-glazed-mediterranean-piccalilli-bake--thai",
+    "title": "Thai-Style Glazed Chicken",
+    "tags": [
+      "thai",
+      "chicken",
+      "glazed",
+      "sweet-potatoes"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "g"
+  },
+  {
+    "slug": "golden-toasted-spinach-delight--thai",
+    "title": "Golden Delight Toast Thai Omelette",
+    "tags": [
+      "thai",
+      "breakfast",
+      "omelette",
+      "golden-delight",
+      "spinach"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 13,
+    "shard": "g"
   }
 ]
