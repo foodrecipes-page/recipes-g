@@ -1,0 +1,95 @@
+{
+  "slug": "ginger-garlic-filipino-chicken-tinola--indian",
+  "title": "Chicken Tinola with an Indian Twist",
+  "description": "A fusion of Filipino and Indian flavors, this dish is a hearty and aromatic chicken tinola with ginger, garlic, and a hint of spices. Serve with steaming rice for a comforting meal.",
+  "cuisine": "indian",
+  "diet": [
+    "gluten-free",
+    "pork-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 1/2 pounds, cut into bite-sized pieces",
+      "notes": null
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches, sliced",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced",
+      "notes": null
+    },
+    {
+      "name": "filipino tinola",
+      "amount": "2 cups",
+      "notes": "available in most Asian grocery stores"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add sliced ginger and sauté until fragrant.",
+    "Add minced garlic and sauté for another minute.",
+    "Add chicken and cook until browned on all sides.",
+    "Add Filipino tinola, garam masala, turmeric, salt, and black pepper. Stir well.",
+    "Add coconut milk and water. Bring to a boil.",
+    "Reduce heat to low and simmer for 20 minutes or until the chicken is cooked through.",
+    "Serve hot with steaming rice.",
+    "Garnish with chopped cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "filipino",
+    "chicken",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ginger-garlic-filipino-chicken-tinola--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T14:53:32.196Z"
+}
