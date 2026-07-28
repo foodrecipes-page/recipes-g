@@ -1,0 +1,78 @@
+{
+  "slug": "gentle-spring-saudi-arabian-rice-pilaf--vegetarian",
+  "title": "Spring Rice Pilaf",
+  "description": "A flavorful and healthy vegetarian side dish made with spring ingredients. Perfect for a quick and easy meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "spring onions",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "gentle garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "arabian saffron",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "arabian rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "saudi olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large saucepan over medium heat.",
+    "Add the spring onions and garlic and sauté until softened, about 3-4 minutes.",
+    "Add the saffron and rice, and stir to combine.",
+    "Add 2 cups of water to the saucepan, and bring to a boil.",
+    "Reduce the heat to low, cover the saucepan, and simmer for 15-20 minutes, or until the rice is cooked.",
+    "Fluff the pilaf with a fork, and season with salt and pepper to taste.",
+    "Serve hot, garnished with additional spring onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pilaf",
+    "rice",
+    "vegetarian",
+    "middle eastern",
+    "spring"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 45,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gentle-spring-saudi-arabian-rice-pilaf--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T20:29:59.541Z"
+}
