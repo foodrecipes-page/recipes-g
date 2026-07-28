@@ -10809,16 +10809,15 @@
   },
   {
     "slug": "gooey-british-bangers-mash",
-    "title": "Gooey British Bangers Mash",
+    "title": "Classic British Bangers and Mash",
     "tags": [
-      "high-protein",
-      "low-carb",
-      "one-pan",
-      "post-workout",
-      "weeknight"
+      "british",
+      "sausages",
+      "mash",
+      "comfort-food"
     ],
     "cuisine": "British",
-    "totalTimeMin": 25,
+    "totalTimeMin": 40,
     "shard": "g"
   },
   {
@@ -17818,6 +17817,33 @@
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 30,
+    "shard": "g"
+  },
+  {
+    "slug": "gorgeous-spicy-italian-nutella-calamarata--japanese",
+    "title": "Spicy Calamarata Pasta",
+    "tags": [
+      "japanese",
+      "pasta",
+      "spicy",
+      "italian-sausage"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
+    "slug": "glossy-tangy-ethiopian-cranberries-misir-wot--italian",
+    "title": "Ethiopian-Italian Chicken Stew",
+    "tags": [
+      "italian",
+      "ethiopian",
+      "chicken",
+      "stew",
+      "crockpot"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 55,
     "shard": "g"
   }
 ]
