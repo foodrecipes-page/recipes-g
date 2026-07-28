@@ -1,0 +1,70 @@
+{
+  "slug": "gingerly-glazed-mediterranean-piccalilli-bake--thai",
+  "title": "Thai-Style Glazed Chicken",
+  "description": "Sweet and sticky glazed chicken with a hint of Thai spices. Perfect for a quick dinner.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "glazed chicken breasts",
+      "amount": "4",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "gingerly soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "mediterranean oregano",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "baked sweet potatoes",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken with salt and pepper.",
+    "Heat the olive oil in a large skillet over medium-high heat. Add the chicken and cook until browned, about 5 minutes per side.",
+    "Transfer the chicken to a baking dish and set aside.",
+    "In the same skillet, add the gingerly soy sauce, honey, and Mediterranean oregano. Bring to a boil, then reduce the heat to medium-low and simmer for 5 minutes.",
+    "Brush the glaze over the chicken and bake for 15-20 minutes, or until cooked through.",
+    "Serve with baked sweet potatoes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "chicken",
+    "glazed",
+    "sweet-potatoes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gingerly-glazed-mediterranean-piccalilli-bake--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T19:18:37.022Z"
+}
