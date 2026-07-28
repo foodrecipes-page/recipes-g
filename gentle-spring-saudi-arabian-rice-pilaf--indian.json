@@ -1,0 +1,87 @@
+{
+  "slug": "gentle-spring-saudi-arabian-rice-pilaf--indian",
+  "title": "Saudi Arabian-Style Spiced Rice Pilaf",
+  "description": "A flavorful and aromatic Indian-inspired rice pilaf from Saudi Arabia, made with warm spices and a hint of sweetness.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "spring rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "arabian gentle spice blend",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "saudi saffron threads",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a medium saucepan over medium-high heat.",
+    "Add the onion and cook until translucent, about 5 minutes.",
+    "Add the ginger and cook for another minute.",
+    "Add the chicken broth, spring rice, saudi saffron threads, arabian gentle spice blend, salt, and black pepper.",
+    "Bring to a boil, then reduce the heat to low, cover, and simmer for 18-20 minutes, or until the water is absorbed.",
+    "Fluff the rice pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "arabic",
+    "indian",
+    "middle-eastern",
+    "pilaf",
+    "rice",
+    "spiced",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gentle-spring-saudi-arabian-rice-pilaf--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T17:29:16.507Z"
+}
