@@ -1,0 +1,82 @@
+{
+  "slug": "glossy-tangy-ethiopian-cranberries-misir-wot--italian",
+  "title": "Ethiopian-Italian Chicken Stew",
+  "description": "A fusion of Italian and Ethiopian flavors, this hearty stew is made with chicken, cranberries, and the spices of Ethiopia.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "misir wot spice mix",
+      "amount": "2 tablespoons",
+      "notes": "Ethiopian spice blend"
+    },
+    {
+      "name": "canned crushed tomatoes",
+      "amount": "1 can",
+      "notes": "28 oz"
+    },
+    {
+      "name": "cranberries",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Remove the chicken from the pot and set aside.",
+    "Add the onion and garlic to the pot and cook until the onion is softened, about 5 minutes.",
+    "Add the misir wot spice mix and cook for 1 minute.",
+    "Add the crushed tomatoes and cook for 10 minutes.",
+    "Add the chicken back to the pot and stir in the cranberries.",
+    "Bring the stew to a simmer and cook for 20 minutes, or until the chicken is cooked through.",
+    "Season with salt and pepper to taste.",
+    "Serve the stew hot, garnished with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "ethiopian",
+    "chicken",
+    "stew",
+    "crockpot"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/glossy-tangy-ethiopian-cranberries-misir-wot--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T12:23:00.073Z"
+}
