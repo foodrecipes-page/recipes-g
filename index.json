@@ -17779,5 +17779,45 @@
     "cuisine": "french",
     "totalTimeMin": 25,
     "shard": "g"
+  },
+  {
+    "slug": "glorious-golden-brazilian-chicken-stew--indian",
+    "title": "Brazilian Chicken Stew",
+    "tags": [
+      "chicken",
+      "stew",
+      "indian",
+      "gluten-free",
+      "dairy-free"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 45,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-chewy-turkish-garlic-pilaf--indian",
+    "title": "Spiced Turkish Pilaf",
+    "tags": [
+      "indian",
+      "pilaf",
+      "vegan",
+      "gluten-free"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
+    "slug": "glossy-tangy-ethiopian-cranberries-misir-wot--keto",
+    "title": "Keto Ethiopian Cabbage Stew",
+    "tags": [
+      "keto",
+      "ethiopian",
+      "low-carb",
+      "dinner"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 30,
+    "shard": "g"
   }
 ]
