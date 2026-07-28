@@ -17896,5 +17896,34 @@
     "cuisine": "vegetarian",
     "totalTimeMin": 15,
     "shard": "g"
+  },
+  {
+    "slug": "grilled-norwegian-couscous-stir-fry--gluten-free",
+    "title": "Pan-Seared Grilled Salmon with Couscous",
+    "tags": [
+      "gluten-free",
+      "salmon",
+      "couscous",
+      "grilled"
+    ],
+    "cuisine": "Nordic",
+    "totalTimeMin": 22,
+    "shard": "g"
+  },
+  {
+    "slug": "gentle-spring-saudi-arabian-rice-pilaf--indian",
+    "title": "Saudi Arabian-Style Spiced Rice Pilaf",
+    "tags": [
+      "arabic",
+      "indian",
+      "middle-eastern",
+      "pilaf",
+      "rice",
+      "spiced",
+      "vegetarian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "g"
   }
 ]
