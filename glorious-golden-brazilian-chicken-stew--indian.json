@@ -1,0 +1,80 @@
+{
+  "slug": "glorious-golden-brazilian-chicken-stew--indian",
+  "title": "Brazilian Chicken Stew",
+  "description": "A hearty and flavorful Indian-inspired stew made with chicken, potatoes, and spices. Perfect for a cold winter night.",
+  "cuisine": "indian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": null
+    },
+    {
+      "name": "golden potatoes",
+      "amount": "3 medium",
+      "notes": null
+    },
+    {
+      "name": "brazilian spices",
+      "amount": "2 tablespoons",
+      "notes": "mix of cumin, coriander, and turmeric"
+    },
+    {
+      "name": "glorious vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add onion and cook until browned, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add chicken and cook until browned, about 5 minutes.",
+    "Add potatoes, spices, and tomato. Stir to combine.",
+    "Add 1 cup of water and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 30 minutes.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "stew",
+    "indian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/glorious-golden-brazilian-chicken-stew--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T10:07:25.890Z"
+}
