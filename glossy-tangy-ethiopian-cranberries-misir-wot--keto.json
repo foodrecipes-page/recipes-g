@@ -1,0 +1,82 @@
+{
+  "slug": "glossy-tangy-ethiopian-cranberries-misir-wot--keto",
+  "title": "Keto Ethiopian Cabbage Stew",
+  "description": "A keto twist on traditional Ethiopian wot, made with tender cabbage and a tangy misir wot sauce. This flavorful stew is perfect for a low-carb dinner.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cabbage",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "Misir wot paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Glossy onions",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Cranberries",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Ethiopian spice blend",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Clarified butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the clarified butter in a large skillet over medium heat.",
+    "Add the glossy onions and cook until they start to brown, about 5 minutes.",
+    "Add the misir wot paste and cook for 1 minute, stirring constantly.",
+    "Add the chopped cabbage and cook until it starts to soften, about 5 minutes.",
+    "Add the cranberries, Ethiopian spice blend, salt, and black pepper. Stir to combine.",
+    "Continue cooking the stew for another 10-15 minutes, or until the cabbage is tender.",
+    "Serve hot, garnished with additional cranberries if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "ethiopian",
+    "low-carb",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/glossy-tangy-ethiopian-cranberries-misir-wot--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T10:20:41.113Z"
+}
