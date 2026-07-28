@@ -17988,5 +17988,32 @@
     "cuisine": "thai",
     "totalTimeMin": 13,
     "shard": "g"
+  },
+  {
+    "slug": "garlic-creamy-norwegian-cod-soup--indian",
+    "title": "Cod in Indian Creamy Sauce",
+    "tags": [
+      "indian",
+      "cod",
+      "creamy-sauce",
+      "garlic"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
+    "slug": "gentle-spring-saudi-arabian-rice-pilaf--vegetarian",
+    "title": "Spring Rice Pilaf",
+    "tags": [
+      "pilaf",
+      "rice",
+      "vegetarian",
+      "middle eastern",
+      "spring"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 30,
+    "shard": "g"
   }
 ]
