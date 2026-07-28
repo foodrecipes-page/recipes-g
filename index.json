@@ -17845,5 +17845,31 @@
     "cuisine": "italian",
     "totalTimeMin": 55,
     "shard": "g"
+  },
+  {
+    "slug": "gooey-korean-apple-polish-dish--german",
+    "title": "Bavarian Apple Strudel",
+    "tags": [
+      "german",
+      "dessert",
+      "apple",
+      "strudel"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 55,
+    "shard": "g"
+  },
+  {
+    "slug": "gooey-green-spanish-pisto-paella--french",
+    "title": "French Pisto Tart",
+    "tags": [
+      "french",
+      "tart",
+      "pisto",
+      "goey-cheese"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 50,
+    "shard": "g"
   }
 ]
