@@ -1,0 +1,88 @@
+{
+  "slug": "garlic-creamy-norwegian-cod-soup--indian",
+  "title": "Cod in Indian Creamy Sauce",
+  "description": "A delicate and flavorful Indian-inspired cod dish, made with a creamy garlic sauce. Perfect for a special occasion.",
+  "cuisine": "indian",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "creamy soup",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "norwegian cod",
+      "amount": "1/4 cup (chopped)",
+      "notes": ""
+    },
+    {
+      "name": "ghee or oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat ghee or oil in a pan over medium heat.",
+    "Add garlic and sauté for 1-2 minutes until fragrant.",
+    "Add cod fillets and cook for 2-3 minutes on each side.",
+    "Add creamy soup, chopped cod, garam masala, cumin powder, salt, and black pepper.",
+    "Stir well to combine and let simmer for 5-7 minutes until the sauce thickens.",
+    "Serve the cod in the creamy sauce hot, garnished with chopped cilantro or scallions.",
+    "Serve with steamed basmati rice or naan bread for a complete meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "cod",
+    "creamy-sauce",
+    "garlic"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlic-creamy-norwegian-cod-soup--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T20:23:55.510Z"
+}
