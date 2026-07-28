@@ -1,0 +1,87 @@
+{
+  "slug": "garlicky-spring-syrian-lamb-tagine",
+  "title": "Syrian Lamb Tagine",
+  "description": "A flavorful and aromatic stew originating from Syria, made with lamb, spring onions, and a blend of spices.",
+  "cuisine": "Syrian",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 kg",
+      "notes": "Cut into 2-inch pieces"
+    },
+    {
+      "name": "Spring onions",
+      "amount": "4",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlicky sauce",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Syrian spice blend",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Reduce the heat to medium and add the chopped spring onions to the pot.",
+    "Cook until the onions are softened, about 5 minutes.",
+    "Add the garlicky sauce, Syrian spice blend, salt, and black pepper to the pot.",
+    "Stir to combine and cook for 1 minute.",
+    "Add the browned lamb back to the pot, along with the water.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the oven.",
+    "Braise the lamb in the preheated oven for 2 1/2 hours, or until it is tender and falls apart easily.",
+    "Serve the lamb hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stew",
+    "syrian",
+    "slow-cooker"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-spring-syrian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T18:10:26.685Z"
+}
