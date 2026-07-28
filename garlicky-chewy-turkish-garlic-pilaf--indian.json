@@ -1,0 +1,64 @@
+{
+  "slug": "garlicky-chewy-turkish-garlic-pilaf--indian",
+  "title": "Spiced Turkish Pilaf",
+  "description": "A flavorful and aromatic Indian-inspired dish made with Turkish pilaf and a blend of spices.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Turkish pilaf",
+      "amount": "1 cup",
+      "notes": "preferably homemade or store-bought"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Chewy",
+      "amount": "1 tablespoon",
+      "notes": "optional, for added texture"
+    },
+    {
+      "name": "Garlicky",
+      "amount": "1 teaspoon",
+      "notes": "dried or frozen, crushed"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add minced garlic and sauté for 1 minute.",
+    "Add Turkish pilaf and stir to combine with garlic.",
+    "Add 2 cups water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15 minutes.",
+    "Add chewy (if using) and stir to combine.",
+    "Season with garlicky and stir-fry for 1 minute.",
+    "Serve hot, garnished with fresh herbs (if desired)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "pilaf",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-chewy-turkish-garlic-pilaf--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T10:08:24.309Z"
+}
