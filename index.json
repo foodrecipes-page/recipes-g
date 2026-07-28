@@ -17869,5 +17869,18 @@
     "cuisine": "French",
     "totalTimeMin": 50,
     "shard": "g"
+  },
+  {
+    "slug": "ginger-garlic-filipino-chicken-tinola--indian",
+    "title": "Chicken Tinola with an Indian Twist",
+    "tags": [
+      "indian",
+      "filipino",
+      "chicken",
+      "soup"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "g"
   }
 ]
