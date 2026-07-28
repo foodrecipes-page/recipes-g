@@ -1,0 +1,85 @@
+{
+  "slug": "gently-spiced-ethiopian-lamb-fir-fir--italian",
+  "title": "Herb-Crusted Lamb Chops with Fir Tips",
+  "description": "A classic Italian dish featuring lamb chops infused with the flavors of fir and gently spiced. This recipe is perfect for a special occasion.",
+  "cuisine": "Italian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Chops",
+      "amount": "4",
+      "notes": "1 1/2 inches thick"
+    },
+    {
+      "name": "Fir Tips",
+      "amount": "1 cup",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "Gently Spiced Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "infused with garlic and herbs"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "flaky"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Italian Seasoning",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "amount": "2 tbsp",
+      "notes": "high-quality"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "unsalted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the lamb chops with salt, black pepper, and Italian seasoning.",
+    "Heat the gently spiced olive oil in an oven-safe skillet over medium-high heat.",
+    "Sear the lamb chops for 2-3 minutes per side, or until browned.",
+    "Transfer the skillet to the preheated oven and cook for 8-10 minutes, or until the lamb reaches 145°F (63°C) for medium-rare.",
+    "While the lamb is cooking, combine the fir tips and balsamic vinegar in a small saucepan.",
+    "Bring the mixture to a simmer over medium heat and cook until the liquid has reduced by half.",
+    "Remove the skillet from the oven and brush the lamb chops with the fir-balsamic glaze.",
+    "Top each lamb chop with a pat of butter and return to the oven for an additional 2-3 minutes.",
+    "Remove from the oven and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "lamb",
+    "fir",
+    "herbs"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 8,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gently-spiced-ethiopian-lamb-fir-fir--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T18:24:32.555Z"
+}
