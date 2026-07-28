@@ -1,0 +1,70 @@
+{
+  "slug": "gooey-british-bangers-mash",
+  "title": "Classic British Bangers and Mash",
+  "description": "A hearty and comforting traditional British dish made with sausages and mashed potatoes. Perfect for a cold winter's night.",
+  "cuisine": "British",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "British sausages (bangers)",
+      "amount": "4",
+      "notes": "4 classic pork sausages"
+    },
+    {
+      "name": "Mash potatoes",
+      "amount": "4-5",
+      "notes": "large potatoes"
+    },
+    {
+      "name": "Gooey buttery gravy",
+      "amount": "2 tbsp",
+      "notes": "all-purpose flour, butter, and milk"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Boil the potatoes in a large pot of salted water until tender, about 15-20 minutes.",
+    "While the potatoes are cooking, cook the sausages in a large skillet over medium-high heat, browning on all sides, until cooked through.",
+    "Drain the potatoes and mash with butter, salt, and pepper.",
+    "In the same skillet, add flour to make a roux, cooking for 1-2 minutes.",
+    "Gradually add milk, whisking constantly, to make a smooth gravy.",
+    "Simmer the gravy over low heat until thickened, about 5 minutes.",
+    "Serve the sausages on top of the mashed potatoes, spooning the gooey gravy over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "sausages",
+    "mash",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 26,
+    "carbs": 64,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-british-bangers-mash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T12:10:27.409Z"
+}
