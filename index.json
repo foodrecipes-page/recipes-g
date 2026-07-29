@@ -4065,16 +4065,16 @@
   },
   {
     "slug": "garlicky-southern-thai-noodles-khao-soi",
-    "title": "Garlicky Southern Thai Noodles Khao-Soi",
+    "title": "Thai-Style Khao Soi",
     "tags": [
-      "gluten-free",
-      "high-protein",
+      "thaifood",
+      "noodles",
+      "khao-soi",
       "southern-thai",
-      "vegan",
-      "weeknight"
+      "vegetarian"
     ],
-    "cuisine": "southern thai",
-    "totalTimeMin": 30,
+    "cuisine": "Thai",
+    "totalTimeMin": 25,
     "shard": "g"
   },
   {
@@ -18131,6 +18131,33 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 45,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-vietnamese-hind-shank-bun-thit-nuong--mexican",
+    "title": "Vietnamese-Style Carne Guisada Tacos",
+    "tags": [
+      "tacos",
+      "mexican-vietnamese fusion",
+      "beef",
+      "slow-cooked"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 260,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-crispy-brazilian-shrimp-skewers--mexican",
+    "title": "Brazilian Shrimp Skewers with Mexican Twist",
+    "tags": [
+      "mexican",
+      "shrimp",
+      "skewers",
+      "bacon",
+      "limes"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 30,
     "shard": "g"
   }
 ]
