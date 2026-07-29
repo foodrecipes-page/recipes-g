@@ -1,0 +1,95 @@
+{
+  "slug": "garlicky-crispy-brazilian-shrimp-skewers--mexican",
+  "title": "Brazilian Shrimp Skewers with Mexican Twist",
+  "description": "A fusion dish featuring succulent shrimp marinated in a zesty Brazilian-inspired mixture, served with a crispy Mexican flair.",
+  "cuisine": "mexican",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "garlicky shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "crispy bacon",
+      "amount": "6 slices",
+      "notes": "crumbled"
+    },
+    {
+      "name": "brazilian seasoning",
+      "amount": "2 tablespoons",
+      "notes": "containing cumin, paprika, and chili flakes"
+    },
+    {
+      "name": "skewers",
+      "amount": "10 wooden skewers",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "limes",
+      "amount": "2",
+      "notes": "juiced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together Brazilian seasoning, lime juice, olive oil, salt, black pepper, chili powder, and cumin.",
+    "Add the shrimp to the bowl and mix well to coat.",
+    "Thread the shrimp onto the skewers, leaving a little space between each shrimp.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the shrimp skewers for 8-10 minutes, turning occasionally, until pink and cooked through.",
+    "Meanwhile, cook the crispy bacon in a pan until crispy.",
+    "Flake the crispy bacon into small pieces and sprinkle over the shrimp skewers.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "shrimp",
+    "skewers",
+    "bacon",
+    "limes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 6,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-crispy-brazilian-shrimp-skewers--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T01:41:52.361Z"
+}
