@@ -1,0 +1,53 @@
+{
+  "slug": "garlic-gherkin-bliss--indian",
+  "title": "Spicy Indian Bliss Chutney",
+  "description": "A tangy and spicy condiment made with bliss, garlic, and gherkin, perfect for Indian snacks.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bliss",
+      "amount": "250g"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Gherkin",
+      "amount": "100g"
+    }
+  ],
+  "instructions": [
+    "Roast the garlic cloves in a pan over low heat until soft.",
+    "Blend the roasted garlic, bliss, and gherkin into a smooth paste.",
+    "Add a pinch of salt and mix well.",
+    "Adjust the seasoning according to taste.",
+    "Transfer the chutney to a serving bowl and garnish with chopped fresh cilantro, if desired.",
+    "Serve with Indian snacks or as a side dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 5,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "chutney",
+    "bliss",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 1,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlic-gherkin-bliss--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T22:04:09.441Z"
+}
