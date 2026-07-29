@@ -1,0 +1,82 @@
+{
+  "slug": "garlicky-spring-syrian-lamb-tagine--chinese",
+  "title": "Syrian Tagine Kebabs with Spring Vegetables",
+  "description": "A fusion of Chinese and Middle Eastern flavors, these kebabs feature lamb cooked to perfection with a rich garlicky sauce and served with a colorful mix of spring vegetables.",
+  "cuisine": "chinese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Syrian lamb",
+      "amount": "500g",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Garlicky sauce",
+      "amount": "150ml",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Spring onions",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Spring vegetables",
+      "amount": "1 cup",
+      "notes": "such as bell peppers, carrots, and snap peas"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing kebabs"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together garlicky sauce, salt, and pepper.",
+    "Add lamb to the bowl and toss to coat with sauce.",
+    "Thread lamb and spring onions onto skewers.",
+    "Brush kebabs with olive oil and season with salt and pepper.",
+    "Grill kebabs for 8-10 minutes, or until lamb is cooked to desired doneness.",
+    "While kebabs are cooking, heat a large skillet over medium-high heat.",
+    "Add garlic to the skillet and cook for 1-2 minutes, or until fragrant.",
+    "Add spring vegetables to the skillet and cook for 3-4 minutes, or until tender.",
+    "Serve kebabs with spring vegetables and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "kebabs",
+    "lamb",
+    "spring-vegetables",
+    "garlicky"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-spring-syrian-lamb-tagine--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T22:19:07.362Z"
+}
