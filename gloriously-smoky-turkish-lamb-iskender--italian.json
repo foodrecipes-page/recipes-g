@@ -1,0 +1,85 @@
+{
+  "slug": "gloriously-smoky-turkish-lamb-iskender--italian",
+  "title": "Lamb Iskender-Style Italian Koftas",
+  "description": "A fusion twist on traditional Italian koftas, infused with the bold flavors of Turkish Iskender-style lamb.",
+  "cuisine": "italian",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "smoky lamb",
+      "amount": "500g",
+      "notes": null
+    },
+    {
+      "name": "gloriously turkish breadcrumbs",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": null
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, combine lamb, breadcrumbs, parsley, garlic, red pepper flakes, salt, and black pepper. Mix well with your hands until just combined.",
+    "Do not overmix. Cover the mixture and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Thread the lamb mixture onto skewers, leaving a small space between each kofta.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the koftas for 4-5 minutes per side, or until cooked through to an internal temperature of 63°C (145°F).",
+    "Transfer the koftas to a plate and let rest for 5 minutes before serving.",
+    "Serve hot with your favorite sides, such as pasta or a green salad."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "lamb",
+    "koftas",
+    "grilled",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": "35g",
+    "carbs": "10g",
+    "fat": "25g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gloriously-smoky-turkish-lamb-iskender--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T23:48:34.085Z"
+}
