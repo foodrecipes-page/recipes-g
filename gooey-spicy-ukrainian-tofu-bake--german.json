@@ -1,0 +1,74 @@
+{
+  "slug": "gooey-spicy-ukrainian-tofu-bake--german",
+  "title": "Baked Gooey German Spätzle",
+  "description": "A traditional German dish with gooey cheese and spicy kick.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spätzle",
+      "amount": "500g",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Gruyère cheese",
+      "amount": "200g",
+      "notes": "grated"
+    },
+    {
+      "name": "goat cheese",
+      "amount": "150g",
+      "notes": "crumbly"
+    },
+    {
+      "name": "Paprika",
+      "amount": "2 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "Bake",
+      "amount": null,
+      "notes": "for the oven"
+    },
+    {
+      "name": "Tofu",
+      "amount": null,
+      "notes": "not used in this recipe"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Cook the Spätzle according to package instructions.",
+    "In a bowl, mix the Gruyère cheese, goat cheese, and smoked Paprika.",
+    "In a greased baking dish, arrange half of the cooked Spätzle.",
+    "Top with the cheese mixture, then the remaining Spätzle.",
+    "Cover the dish with aluminum foil.",
+    "Bake for 20 minutes.",
+    "Remove the foil and bake for an additional 10 minutes.",
+    "Let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "spätzle",
+    "cheese",
+    "baked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/gooey-spicy-ukrainian-tofu-bake--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T23:17:42.258Z"
+}
