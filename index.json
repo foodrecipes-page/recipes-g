@@ -194,15 +194,14 @@
   },
   {
     "slug": "garlic-chili-caramel",
-    "title": "Spicy Caramel Garlic Chicken",
+    "title": "Spicy Caramel Garlic Glazed Chicken",
     "tags": [
-      "chicken",
-      "caramel",
-      "garlic",
-      "spicy"
+      "glazed-chicken",
+      "spicy-food",
+      "caramel-glaze"
     ],
     "cuisine": "American",
-    "totalTimeMin": 40,
+    "totalTimeMin": 45,
     "shard": "g"
   },
   {
@@ -18027,6 +18026,46 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 30,
+    "shard": "g"
+  },
+  {
+    "slug": "garlic-gherkin-bliss--indian",
+    "title": "Spicy Indian Bliss Chutney",
+    "tags": [
+      "indian",
+      "chutney",
+      "bliss",
+      "snack"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "g"
+  },
+  {
+    "slug": "garlicky-spring-syrian-lamb-tagine--chinese",
+    "title": "Syrian Tagine Kebabs with Spring Vegetables",
+    "tags": [
+      "chinese",
+      "kebabs",
+      "lamb",
+      "spring-vegetables",
+      "garlicky"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 27,
+    "shard": "g"
+  },
+  {
+    "slug": "glazed-algerian-eggplant-fritters--italian",
+    "title": "Italian Eggplant Fritters",
+    "tags": [
+      "italian",
+      "eggplant",
+      "fritters",
+      "vegetarian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 32,
     "shard": "g"
   }
 ]
