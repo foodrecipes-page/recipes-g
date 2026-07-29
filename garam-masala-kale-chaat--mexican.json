@@ -1,0 +1,82 @@
+{
+  "slug": "garam-masala-kale-chaat--mexican",
+  "title": "Kale Chaat Mexican Salad",
+  "description": "A spicy and flavorful twist on a traditional Mexican salad, featuring crispy kale and a tangy chaat masala dressing.",
+  "cuisine": "mexican",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kale",
+      "amount": "4 cups, stems removed and discarded, leaves chopped"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chaat masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium, thinly sliced"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "juice of 1 lime",
+      "amount": ""
+    },
+    {
+      "name": "1/2 cup olive oil",
+      "amount": ""
+    },
+    {
+      "name": "1 jalapeno pepper, seeded and finely chopped",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "In a large pan, heat 2 tablespoons of olive oil over medium heat.",
+    "Add cumin seeds and coriander seeds, and let them sizzle for 1 minute.",
+    "Add the chopped onion and sauté for 3-4 minutes, until softened.",
+    "Add the chopped kale and sauté for 2-3 minutes, until slightly wilted.",
+    "Add the garam masala and chaat masala, and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "In a small bowl, whisk together the lime juice and remaining 6 tablespoons of olive oil.",
+    "Pour the dressing over the kale mixture, and toss to combine.",
+    "Stir in the chopped jalapeno pepper.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the salad warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "salad",
+    "healthy",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garam-masala-kale-chaat--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T23:53:37.781Z"
+}
