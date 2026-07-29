@@ -1,0 +1,85 @@
+{
+  "slug": "garlicky-vietnamese-hind-shank-bun-thit-nuong--mexican",
+  "title": "Vietnamese-Style Carne Guisada Tacos",
+  "description": "A fusion of traditional Mexican tacos filled with slow-cooked Vietnamese-inspired beef shank, served with crispy bun and a side of spicy nuong salsa.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "garlicky beef shank",
+      "amount": "1 pound",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "vietnamese fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "hindi coriander powder",
+      "amount": "1 teaspoon",
+      "notes": "ground spices"
+    },
+    {
+      "name": "bun (rice or wheat)",
+      "amount": "4-6 pieces",
+      "notes": "for serving"
+    },
+    {
+      "name": "thit nuong sauce (peanut butter, soy sauce, lime juice)",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/4 cup",
+      "notes": "optional topping"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2 cup",
+      "notes": "diced for topping"
+    },
+    {
+      "name": "lime wedges",
+      "amount": "4-6",
+      "notes": "for serving"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high. Sear beef shank pieces until browned on all sides.",
+    "Add fish sauce, coriander powder, and 1 cup water. Bring to a boil, then cover and transfer to oven at 300°F (150°C) for 2-3 hours, or until tender.",
+    "While beef cooks, toast bun pieces until crispy. Chop cilantro for garnish.",
+    "Assemble tacos by placing beef shank on toasted bun, topping with nuong sauce, sour cream, cucumber, and cilantro.",
+    "Serve with lime wedges on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 240,
+  "totalTimeMin": 260,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "tacos",
+    "mexican-vietnamese fusion",
+    "beef",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/garlicky-vietnamese-hind-shank-bun-thit-nuong--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T01:27:23.276Z"
+}
