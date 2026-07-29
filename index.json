@@ -18107,5 +18107,30 @@
     "cuisine": "mexican",
     "totalTimeMin": 25,
     "shard": "g"
+  },
+  {
+    "slug": "glorious-golden-venezuelan-chicken-skewers--italian",
+    "title": "Pollo alla Veneziana",
+    "tags": [
+      "italian",
+      "chicken",
+      "parmesan",
+      "wine"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
+    "shard": "g"
+  },
+  {
+    "slug": "gooey-herbal-puff-bake--german",
+    "title": "German Apple Strudel",
+    "tags": [
+      "german",
+      "dessert",
+      "apple-strudel"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "g"
   }
 ]
