@@ -1,0 +1,80 @@
+{
+  "slug": "glazed-algerian-eggplant-fritters--italian",
+  "title": "Italian Eggplant Fritters",
+  "description": "Crispy Italian eggplant fritters, perfect as a side dish or appetizer. Adapted from traditional Italian cuisine.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "1 large"
+    },
+    {
+      "name": "glazed",
+      "amount": "2 tbsp",
+      "notes": "such as honey or maple syrup"
+    },
+    {
+      "name": "algerian",
+      "amount": "2 tbsp",
+      "notes": "such as cumin or coriander"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "grated parmesan",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "for frying"
+    }
+  ],
+  "instructions": [
+    "1. Cut the eggplant into 1/4-inch thick rounds.",
+    "2. In a shallow dish, mix together the flour, eggs, parmesan, salt, and pepper.",
+    "3. Dip each eggplant round into the flour mixture, coating both sides evenly.",
+    "4. Heat about 1/2 inch of olive oil in a large skillet over medium-high heat.",
+    "5. Fry the eggplant fritters until golden brown and crispy, about 3-4 minutes per side.",
+    "6. Remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "7. Drizzle the fritters with the glazed mixture and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "eggplant",
+    "fritters",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/glazed-algerian-eggplant-fritters--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T22:51:05.231Z"
+}
