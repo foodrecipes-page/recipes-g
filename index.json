@@ -18067,5 +18067,45 @@
     "cuisine": "italian",
     "totalTimeMin": 32,
     "shard": "g"
+  },
+  {
+    "slug": "gooey-spicy-ukrainian-tofu-bake--german",
+    "title": "Baked Gooey German Spätzle",
+    "tags": [
+      "german",
+      "spätzle",
+      "cheese",
+      "baked"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "g"
+  },
+  {
+    "slug": "gloriously-smoky-turkish-lamb-iskender--italian",
+    "title": "Lamb Iskender-Style Italian Koftas",
+    "tags": [
+      "italian",
+      "lamb",
+      "koftas",
+      "grilled",
+      "turkish"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 30,
+    "shard": "g"
+  },
+  {
+    "slug": "garam-masala-kale-chaat--mexican",
+    "title": "Kale Chaat Mexican Salad",
+    "tags": [
+      "mexican",
+      "salad",
+      "healthy",
+      "vegan"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "g"
   }
 ]
